@@ -1,5 +1,7 @@
 # Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning
 
+### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
+
 ## Table of Contents
 
 - Foundations of Privacy-Preserving Techniques

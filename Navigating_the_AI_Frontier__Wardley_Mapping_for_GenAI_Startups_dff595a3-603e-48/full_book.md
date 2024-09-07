@@ -1,6 +1,6 @@
 # Navigating the AI Frontier: Wardley Mapping for GenAI Startups
 
-### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
+### :warning: WARNING: This content was generated using Generative AI. Readers should approach the material with critical thinking and verify important information from authoritative sources.
 
 # Table of Contents
 

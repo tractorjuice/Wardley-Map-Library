@@ -1,0 +1,89 @@
+{
+  "title": "Punctuated Equilibria and Wardley Mapping",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "sections": [
+        {
+          "title": "Overview",
+          "subsections": [
+            "What is Punctuated Equilibrium?",
+            "What is Wardley Mapping?",
+            "How the two theories relate"
+          ]
+        },
+        {
+          "title": "Key Concepts",
+          "subsections": [
+            "Epochs",
+            "Pioneer-Settler-Town Planner system",
+            "Climate"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Applying Punctuated Equilibrium",
+      "sections": [
+        {
+          "title": "Identifying Epochs",
+          "subsections": [
+            "Defining characteristics",
+            "Transition triggers",
+            "Case studies"
+          ]
+        },
+        {
+          "title": "Managing Epoch Transitions",
+          "subsections": [
+            "Leadership principles",
+            "Change management approaches",
+            "Communication strategies"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Wardley Mapping",
+      "sections": [
+        {
+          "title": "Map Components",
+          "subsections": [
+            "Value Chain",
+            "Climate",
+            "Anchor Points"
+          ]
+        },
+        {
+          "title": "Creating Maps",
+          "subsections": [
+            "Steps",
+            "Visualization tips",
+            "Common pitfalls"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Integrating the Theories",
+      "sections": [
+        {
+          "title": "Wardley Mapping for Transitions",
+          "subsections": [
+            "Identifying climate patterns",
+            "Spotting epoch shifts",
+            "Managing movement"
+          ]
+        },
+        {
+          "title": "Epoch-based Mapping",
+          "subsections": [
+            "Pioneer epoch focus",
+            "Settler epoch focus",
+            "Town Planner epoch focus"
+          ]
+        }
+      ]
+    }
+  ]
+}

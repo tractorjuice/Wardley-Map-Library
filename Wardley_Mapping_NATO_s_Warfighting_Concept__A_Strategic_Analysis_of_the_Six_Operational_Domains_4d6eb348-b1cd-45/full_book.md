@@ -119,7 +119,7 @@ Furthermore, Wardley Mapping encourages a mindset of continuous adaptation. In t
 
 > This Wardley Map reveals a military strategy in transition, moving from traditional methods to a more adaptive, multi-domain approach. The integration of Wardley Mapping as a strategic tool represents a significant opportunity for enhancing decision-making and adaptability. Key focus areas should be the development of integrated Multi-Domain Operations, enhancement of Situational Awareness capabilities, and the rapid adoption of advanced strategic analysis tools like Wardley Mapping. The evolving nature of warfare, particularly in the Cyber and Cognitive domains, necessitates a flexible and continuously adapting strategic approach. Organisations that can effectively leverage these emerging tools and adapt quickly to new operational domains will likely gain a significant competitive advantage in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_english_Origins and principles of Wardley Mapping.md)
+[View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_english_Origins%20and%20principles%20of%20Wardley%20Mapping.md)
 
 As we delve deeper into the application of Wardley Mapping to NATO's Warfighting Capstone Concept, it's important to recognise that while the technique originated in the business world, its principles are remarkably well-suited to the complexities of military strategy. The ability to visualise, analyse, and adapt across multiple domains simultaneously aligns perfectly with the NWCC's emphasis on multi-domain operations and strategic agility.
 

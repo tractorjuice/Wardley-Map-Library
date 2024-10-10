@@ -156,7 +156,7 @@ When applied to NWCC, these components offer a powerful framework for analysing 
 
 > This Wardley Map reveals a strategic shift towards a more integrated, multi-domain approach to warfare. While maintaining strengths in traditional domains, there's a clear focus on developing capabilities in emerging areas, particularly in the Cognitive and Cyber domains. The emphasis on Interoperability suggests a recognition of the need for seamless coordination across diverse elements. To maintain strategic advantage, NATO should prioritise the development of cross-domain capabilities, invest in emerging technologies, and continuously adapt its strategic communication to align with evolving geopolitical dynamics. The map underscores the importance of balancing traditional military strength with innovation in new domains, all while ensuring robust interoperability across the entire system.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_english_Key components of a Wardley Map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_english_Key_components_of_a_Wardley_Map.md)
 
 
 
@@ -200,7 +200,7 @@ The tool also excels in highlighting interdependencies between different operati
 
 > The NATO Warfighting Capstone Concept map demonstrates a forward-thinking approach to modern warfare, recognising the importance of emerging domains alongside traditional ones. The strategic position is strong, with a clear focus on Multi-Domain Operations and Effects-Based Operations. However, there are significant opportunities for innovation and development, particularly in the Cyber, Space, and Cognitive domains. The key to future success lies in effectively integrating these emerging domains with traditional capabilities, enhancing adaptability, and leveraging technological advancements across all aspects of military strategy and operations.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_english_Benefits of Wardley Mapping in strategic planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_english_Benefits_of_Wardley_Mapping_in_strategic_planning.md)
 
 
 
@@ -248,7 +248,7 @@ The introduction of Wardley Mapping to analyse and develop military doctrine rep
 
 > This map illustrates the dynamic evolution of military doctrine, highlighting the increasing pace of change driven by technological advancements. NATO's NWCC, supported by Wardley Mapping, represents a forward-thinking approach to military strategy. To maintain strategic advantage, focus should be on rapidly integrating emerging technologies, particularly in cyber and AI domains, while not neglecting the enduring principles of warfare established throughout history. The key challenge lies in balancing traditional military wisdom with the demands of modern, technology-driven conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_english_Historical context of military doctrine development.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_english_Historical_context_of_military_doctrine_development.md)
 
 As we delve deeper into the application of Wardley Mapping to NATO's Warfighting Capstone Concept, it is essential to keep this historical context in mind. The NWCC and the use of Wardley Mapping represent the latest chapter in the long history of military doctrine development, building upon centuries of strategic thought while introducing innovative approaches to address the challenges of 21st-century warfare.
 
@@ -285,7 +285,7 @@ The integration of real-time data analytics and AI-driven predictive modelling i
 
 > The map reveals a military strategy landscape in transition, moving from traditional doctrines to adaptive, technology-driven approaches. To maintain strategic advantage, there's a critical need to invest in emerging technologies, foster an innovation culture, and develop adaptive planning capabilities. The integration of AI, autonomous systems, and multi-domain operations will be key to future military effectiveness. However, this transition must be balanced with the evolution of organisational culture and careful management of traditional doctrine elements to ensure a smooth and effective transformation of military strategy.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_05_english_The need for adaptive strategies in modern warfare.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_05_english_The_need_for_adaptive_strategies_in_modern_warfare.md)
 
 As we delve deeper into the 21st century, the need for adaptive strategies in modern warfare will only intensify. Military organisations must foster a culture of innovation, embrace emerging technologies, and develop the cognitive flexibility to navigate an increasingly complex and unpredictable operational environment. The ability to rapidly assess, adapt, and respond to evolving threats will be the hallmark of successful military strategies in the years to come.
 
@@ -329,7 +329,7 @@ Furthermore, the NWCC acknowledges the increasing importance of non-military fac
 
 > NATO's Warfighting Capstone Concept, as represented in this Wardley Map, shows a forward-thinking approach that recognises the changing nature of warfare. The strategy appropriately emphasises technological innovation and the emergence of cognitive warfare as key components. However, there's a need to accelerate the evolution of newer concepts like cognitive warfare and better integrate non-military factors. The focus on multi-domain operations and interoperability is crucial for future success. To maintain its military advantage, NATO must continue to innovate in emerging areas while enhancing its adaptability to rapidly evolving threats.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_06_english_Introduction to NATO's Warfighting Capstone Concept (NWCC).md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_06_english_Introduction_to_NATO's_Warfighting_Capstone_Concept_(NWCC).md)
 
 
 
@@ -374,7 +374,7 @@ Despite these challenges, the potential benefits of Wardley Mapping in the milit
 
 > This Wardley Map reveals a military strategy in transition, actively incorporating new methodologies like Wardley Mapping to enhance traditional capabilities. The focus on integrating emerging technologies with established military doctrine presents significant opportunities for innovation and strategic advantage. However, careful management of evolving components and potential bottlenecks is crucial. The successful integration of Wardley Mapping across all domains could provide a substantial edge in future military operations, particularly in areas of situational awareness and strategic foresight. To fully capitalise on these opportunities, a concerted effort to accelerate the adoption of Wardley Mapping, coupled with investments in cross-domain integration and interoperability, will be essential.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_english_The potential of Wardley Mapping in military context.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_english_The_potential_of_Wardley_Mapping_in_military_context.md)
 
 In conclusion, the potential of Wardley Mapping in the military context is vast and largely untapped. As we continue to explore this convergence of business strategy and military doctrine, we open up new possibilities for enhancing military decision-making, improving strategic planning, and ultimately, increasing operational effectiveness across all domains of warfare. The following chapters will delve deeper into how Wardley Mapping can be specifically applied to NATO's Warfighting Capstone Concept, demonstrating the practical applications of this powerful strategic tool in modern military planning.
 
@@ -414,7 +414,7 @@ However, realising these opportunities requires overcoming significant cultural 
 
 > NATO is at a critical juncture in evolving its strategic planning capabilities. The integration of Wardley Mapping and the development of the NWCC present significant opportunities to enhance NATO's adaptive capacity and strategic foresight. However, success hinges on effective leadership buy-in, comprehensive training programs, and the ability to balance traditional doctrine with innovative approaches. By focusing on these areas, NATO can position itself to more effectively address complex, multi-domain challenges in an increasingly uncertain geopolitical landscape.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_english_Challenges and opportunities in applying Wardley Mapping to NWCC.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_english_Challenges_and_opportunities_in_applying_Wardley_Mapping_to_NWCC.md)
 
 In conclusion, while the challenges of applying Wardley Mapping to NWCC are substantial, the potential benefits make it a worthwhile endeavour. By carefully navigating the complexities of adapting this business strategy tool to the military context, NATO has the opportunity to significantly enhance its strategic planning capabilities. The successful integration of Wardley Mapping could provide the alliance with a powerful new tool for maintaining its strategic edge in an increasingly complex and unpredictable global security environment.
 
@@ -448,7 +448,7 @@ The book's structure is designed to facilitate both linear reading and selective
 
 > This Wardley Map represents a significant opportunity to revolutionise military strategic planning by integrating advanced business strategy tools with traditional military doctrine. The book serves as a crucial bridge, potentially catalysing a shift in how military strategy is conceived and executed. To maximise impact, focus should be on practical applications, continuous evolution of the methodology, and deep engagement with military leadership and institutions. The success of this approach could lead to more adaptive, nuanced, and effective military strategies in an increasingly complex global security environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_english_Overview of the book's approach and structure.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_english_Overview_of_the_book's_approach_and_structure.md)
 
 By the end of this book, readers will not only understand how to create and interpret Wardley Maps for military strategies but will also gain a new perspective on the NWCC and its potential evolution. The integration of these two fields opens up new possibilities for strategic thinking in military contexts, potentially revolutionising how we approach warfare in the 21st century and beyond.
 
@@ -486,7 +486,7 @@ The NWCC emerges from this context as a visionary framework designed to guide NA
 
 > The Wardley Map reveals NATO at a critical juncture, facing the need to balance its traditional strengths with the imperative to adapt to a rapidly changing security landscape. The organisation must navigate the challenges of great power competition while simultaneously evolving its capabilities to address emerging threats like cyber warfare, hybrid tactics, and the security implications of climate change. The NATO Warfighting Capstone Concept represents a pivotal effort to bridge this gap, but its success will depend on NATO's ability to effectively integrate disruptive technologies, enhance interoperability, and develop multi-domain operational capabilities. The strategic focus should be on accelerating the adoption of AI and autonomous systems, strengthening cyber defences, and fostering greater collaboration in technological innovation among member states. By doing so, NATO can maintain its relevance and effectiveness in an increasingly complex and unpredictable global security environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_10_english_NATO's strategic environment and challenges.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_10_english_NATO's_strategic_environment_and_challenges.md)
 
 
 
@@ -525,7 +525,7 @@ The NWCC also places significant importance on the cognitive domain, acknowledgi
 
 > The NWCC Wardley Map reveals a strategic vision that aims to integrate cutting-edge technologies and concepts with traditional military strengths. The focus on multi-domain operations, decision superiority, and cognitive domain operations positions NATO to address future security challenges. However, significant investment and development in AI, data integration, and cognitive domain capabilities are crucial to realising this vision and maintaining strategic advantage. The alliance must balance the evolution of these emerging capabilities with the maintenance and adaptation of its traditional strengths, all while fostering a culture of innovation and interoperability among its members.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_english_Core objectives and principles of NWCC.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_english_Core_objectives_and_principles_of_NWCC.md)
 
 From a Wardley mapping perspective, the NWCC represents a shift towards more evolved and integrated capabilities across the entire value chain of military operations. It pushes many traditional components from the 'Product' and 'Custom Built' stages towards the 'Commodity' and 'Utility' stages, emphasising the need for standardisation and interoperability. Simultaneously, it introduces new components in the 'Genesis' and 'Custom Built' stages, particularly in areas such as AI-driven decision support systems and advanced multi-domain integration platforms.
 
@@ -563,7 +563,7 @@ As we delve deeper into the application of Wardley Mapping to the NWCC and its c
 
 > The Multi-Domain Operations concept represents a significant evolution in NATO's warfighting approach. While well-positioned to integrate traditional domains, there's a critical need to accelerate the development and integration of emerging domains and technologies, particularly in the cognitive and AI realms. Success will hinge on effective Cross-Domain Leadership and the ability to create synergies across all operational domains.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_12_english_The concept of Multi-Domain Operations (MDO).md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_12_english_The_concept_of_Multi-Domain_Operations_(MDO).md)
 
 By mapping the various elements of MDO, from technological enablers to doctrinal concepts, we can gain insights into how different components of the NWCC interact and evolve. This understanding is crucial for NATO strategists and policymakers as they work to implement and refine the MDO concept in response to an ever-changing security landscape.
 
@@ -597,7 +597,7 @@ In the context of NWCC, the land domain serves as a vital link between other ope
 
 > NATO's land domain capabilities are strong in traditional areas but require significant development in emerging technologies. The focus should be on accelerating the evolution of Autonomous Systems, Advanced Sensors, and Urban Warfare capabilities while maintaining strengths in physical readiness and navigation. Enhancing Multi-Domain Operations integration is crucial for future strategic success. The organisation needs to balance maintaining current operational effectiveness with investing in disruptive technologies that will shape future land warfare.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_13_english_Land domain: Characteristics and strategic importance.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_13_english_Land_domain:_Characteristics_and_strategic_importance.md)
 
 
 
@@ -645,7 +645,7 @@ The maritime domain also faces non-traditional security challenges, including pi
 
 > The map reveals a naval warfare landscape in transition, with NATO well-positioned but facing challenges in rapidly evolving technological areas. The strategic focus should be on accelerating the development and integration of AI, unmanned systems, and hypersonic capabilities, while also adapting force structures and doctrines to leverage these new technologies effectively. Balancing investment in traditional and emerging capabilities will be crucial, as will fostering a robust ecosystem of partnerships to drive innovation and maintain strategic advantage.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_14_english_Maritime domain: Naval warfare in the 21st century.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_14_english_Maritime_domain:_Naval_warfare_in_the_21st_century.md)
 
 
 
@@ -688,7 +688,7 @@ Another critical aspect of the air domain in NWCC is the emphasis on interoperab
 
 > NATO's air domain capabilities are at a critical juncture, balancing established strengths with the need for rapid technological evolution. The focus on emerging technologies like AI, autonomous systems, and multi-domain integration positions NATO well for future challenges. However, there's a pressing need to address interoperability issues and accelerate the integration of advanced technologies into operational frameworks. The strategic emphasis should be on creating a flexible, resilient air domain ecosystem that can quickly adapt to emerging threats and leverage cutting-edge technologies effectively.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_15_english_Air domain: Control of the skies and beyond.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_15_english_Air_domain:_Control_of_the_skies_and_beyond.md)
 
 
 
@@ -729,7 +729,7 @@ As we map the space domain using Wardley Mapping, we must consider the unique ch
 
 > The map reveals a strategic focus on integrating space capabilities into broader military operations, with significant opportunities for innovation in Space Control and On-Orbit Servicing. Key challenges include developing resilient space infrastructure and enhancing space domain awareness and control. The evolving nature of space as a warfighting domain necessitates agile capability development and doctrine adaptation. Prioritising the development of Space Control capabilities and enhancing multi-domain integration will be crucial for maintaining strategic advantage in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_english_Space domain: The new frontier of military operations.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_english_Space_domain:_The_new_frontier_of_military_operations.md)
 
 The space domain's integration into NWCC also highlights the need for new doctrines, training, and international cooperation. NATO must grapple with questions of space traffic management, debris mitigation, and the potential weaponisation of space. Moreover, the alliance must develop strategies to operate in degraded space environments, recognising that future conflicts may involve attempts to deny or disrupt space-based capabilities.
 
@@ -773,7 +773,7 @@ The attribution challenge in cyberspace adds another layer of complexity to oper
 
 > The map reveals a complex and evolving cyber warfare landscape with a strong operational focus and significant potential for technological disruption. The strategic imperative is to maintain current operational effectiveness while aggressively pursuing emerging technologies, particularly AI and Quantum Computing. Simultaneously, there's a critical need to evolve the Legal and Ethical Framework and invest heavily in Cyber Talent to support these advancements. The interplay between offensive capabilities, defensive measures, and ethical considerations will shape the future of cyber warfare, requiring a balanced and adaptive strategy.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_english_Cyber domain: Warfare in the digital realm.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_english_Cyber_domain:_Warfare_in_the_digital_realm.md)
 
 As we consider the cyber domain within NWCC, it's crucial to recognise that effective cyber capabilities are not just about technology. They require a holistic approach that includes skilled personnel, robust processes, and a deep understanding of the legal and ethical implications of cyber operations. NATO's strategy must therefore encompass not only the development of technical capabilities but also the cultivation of cyber talent and the establishment of clear doctrines and rules of engagement for cyber warfare.
 
@@ -808,7 +808,7 @@ Operationalising the cognitive domain within the NWCC framework presents unique 
 
 > NATO's cognitive domain capabilities are well-structured with a strong foundation in established practices and a clear focus on emerging technologies. The key challenge lies in balancing rapid technological advancement with ethical considerations and cultural intelligence. By addressing these challenges and leveraging its strengths in data analytics and strategic communications, NATO can maintain a significant advantage in the cognitive domain. The organisation should prioritise the development of AI and VR capabilities while simultaneously enhancing its ethical framework and interdisciplinary collaboration to ensure robust, effective, and legitimate cognitive domain operations in future conflicts and peacekeeping efforts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_english_Cognitive domain: The battle for hearts and minds.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_english_Cognitive_domain:_The_battle_for_hearts_and_minds.md)
 
 
 
@@ -861,7 +861,7 @@ By applying Wardley Mapping to cross-domain synergies and dependencies, military
 
 > NATO's focus on cross-domain synergies and multi-domain warfare positions it well for future conflicts. However, rapid technological evolution, particularly in cyber and cognitive domains, necessitates continuous adaptation and innovation. Prioritising interoperability, advanced training, and emerging domain integration will be crucial for maintaining strategic advantage.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_english_Cross-domain synergies and dependencies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_english_Cross-domain_synergies_and_dependencies.md)
 
 
 
@@ -905,7 +905,7 @@ Despite these challenges, the imperative for seamless integration remains clear.
 
 > The NWCC Integration faces significant challenges across technological, organisational, doctrinal, and political domains. Success requires a holistic approach that addresses interdependencies between these areas. Key focus areas should include enhancing political alignment, accelerating the evolution of organisational structures, and leveraging technological advancements to enable true multi-domain integration. The use of Wardley Mapping for strategic analysis is a positive step towards navigating this complex landscape. NATO must prioritise initiatives that bridge the gaps between more evolved technological components and less evolved organisational and political elements to achieve seamless integration and maintain strategic advantage in an increasingly complex security environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_english_Challenges in achieving seamless integration.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_english_Challenges_in_achieving_seamless_integration.md)
 
 The path to seamless integration is not a destination but an ongoing journey. It requires continuous assessment, adaptation, and evolution. By leveraging tools like Wardley Mapping, NATO can visualise the complex landscape of these challenges, identify critical dependencies, and develop strategies to overcome them. This approach can help in prioritising efforts, allocating resources effectively, and fostering a shared understanding of the integration challenges across the alliance.
 
@@ -953,7 +953,7 @@ Looking ahead, the NWCC anticipates that emerging technologies such as biotechno
 
 > NATO's NWCC technology strategy demonstrates a forward-thinking approach, balancing current operational needs with investments in potentially game-changing future technologies. The focus on Multi-Domain Operations supported by advanced AI, C4ISR, and emerging technologies positions NATO to maintain technological superiority. However, careful attention must be paid to Interoperability, Resilience, and the ethical implications of AI and Cognitive Warfare to ensure robust and responsible implementation of these advanced capabilities.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_21_english_The role of technology and innovation in NWCC.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_21_english_The_role_of_technology_and_innovation_in_NWCC.md)
 
 In conclusion, technology and innovation are not just components of the NWCC; they are its lifeblood. They enable the interoperability and integration that are essential for effective Multi-Domain Operations, while also driving the continuous evolution of NATO's capabilities. As the alliance faces an uncertain and rapidly changing security environment, its commitment to technological innovation will be a key determinant of its ability to deter aggression, defend its members, and maintain peace and stability in the Euro-Atlantic region.
 
@@ -993,7 +993,7 @@ Finally, integrating geopolitical and strategic factors into the Wardley Map is 
 
 > The map reveals a military landscape in transition, balancing traditional strengths with the need to adapt to emerging domains and technologies. The key to success lies in effectively integrating Multi-Domain Warfare concepts, continuously evolving Military Technologies, and maintaining strong Alliance Structures and Diplomatic Relations. Priority should be given to developing capabilities in rapidly evolving domains like Cyber and Space, while ensuring robust Command and Control Systems that can operate across all domains. The strategic focus should be on creating a flexible, technologically advanced force capable of addressing diverse threats in an increasingly complex geopolitical environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_22_english_Adapting Wardley Mapping for military context.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_22_english_Adapting_Wardley_Mapping_for_military_context.md)
 
 
 
@@ -1038,7 +1038,7 @@ Another critical aspect to consider when identifying components and dependencies
 
 > This Wardley Map reveals a military ecosystem in transition, with a strong focus on technological advancement and the need for more adaptive human and doctrinal elements. The strategic imperative is to bridge the gap between rapidly evolving technology and slower-evolving organisational and doctrinal components. Success will depend on the ability to create a more flexible, integrated, and adaptive military ecosystem that can respond quickly to changing environmental factors and technological opportunities.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_english_Identifying key components and dependencies in each domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_english_Identifying_key_components_and_dependencies_in_each_domain.md)
 
 
 
@@ -1081,7 +1081,7 @@ Consider, for example, the evolution of unmanned aerial vehicles (UAVs) in milit
 
 > This Wardley Map reveals a well-structured approach to evolving UAV capabilities in a military context. It highlights the importance of balancing technological innovation with strategic alignment and operational integration. The key to maintaining a competitive edge lies in accelerating the evolution of critical components like Secure Communication and Command and Control Systems, while also investing in emerging concepts and fostering interdisciplinary collaboration. The integration of civilian UAV technology presents both opportunities and challenges that need to be carefully managed. Overall, the map suggests a need for agility and adaptability in military UAV strategy to stay ahead in a rapidly evolving technological landscape.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_english_Establishing the evolution axis for military capabilities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_english_Establishing_the_evolution_axis_for_military_capabilities.md)
 
 
 
@@ -1134,7 +1134,7 @@ Another crucial aspect that the Wardley map highlights is the evolution of train
 
 > The Wardley Map of the Land Domain reveals a sector in transition, balancing traditional strengths with the imperative to integrate rapidly evolving technologies. The strategic focus should be on accelerating the development and integration of AI, autonomous systems, and advanced materials while maintaining the core strengths in combat units and logistics. Success will depend on effective management of this transition, requiring significant investments in technology, training, and doctrine development. The future land domain will likely be characterised by human-machine teamed combat units, AI-driven decision-making, and highly networked, adaptive systems. Organisations that can effectively navigate this transition, fostering innovation while maintaining operational readiness, will gain significant strategic advantages in future land warfare scenarios.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_english_Wardley Map of the Land domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_english_Wardley_Map_of_the_Land_domain.md)
 
 
 
@@ -1182,7 +1182,7 @@ Another crucial consideration is the integration of the maritime domain with oth
 
 > The Wardley Map of the Maritime Domain reveals a sector in transition, balancing traditional naval capabilities with rapidly evolving technologies. The strategic focus should be on accelerating the integration of unmanned systems and AI technologies, enhancing cyber capabilities, and evolving C4ISR systems to maintain maritime superiority. The future naval force is likely to be more distributed, autonomous, and information-centric, requiring significant changes in doctrine, training, and force structure. Prioritising innovation in AI, unmanned systems, and cyber capabilities while maintaining core naval competencies will be crucial for future success in the maritime domain.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_english_Wardley Map of the Maritime domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_english_Wardley_Map_of_the_Maritime_domain.md)
 
 
 
@@ -1233,7 +1233,7 @@ For instance, if we observe that our air superiority fighters are highly evolved
 
 > The Wardley Map of the Air Domain reveals a strategic landscape in transition. While traditional air combat capabilities remain strong, there's a clear push towards more advanced, autonomous, and high-speed systems. The key to maintaining air superiority lies in successfully managing the evolution of critical components like UAVs, AI-Driven Autonomous Systems, and Hypersonic Missiles, while also ensuring robust C4ISR capabilities. The future air combat environment will likely be characterised by a mix of manned and unmanned systems, with AI playing an increasingly central role. To stay ahead, there needs to be a balanced approach of enhancing current capabilities while heavily investing in and rapidly developing emerging technologies.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_english_Wardley Map of the Air domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_english_Wardley_Map_of_the_Air_domain.md)
 
 
 
@@ -1278,7 +1278,7 @@ A critical aspect of mapping the space domain is understanding the evolving natu
 
 > The Wardley Map of the Space Domain reveals a strategically crucial area with a mix of mature and emerging technologies. The focus on Strategic Capabilities drives the entire value chain, with Global Surveillance and Secure Communications as key enablers. The map highlights the need for continued innovation, particularly in areas like Quantum Communication and Small Satellite Platforms, while also addressing critical challenges such as Space Debris Management. The evolving nature of key components suggests a dynamic environment that requires agile strategic planning and investment in emerging technologies to maintain competitive advantage. Balancing the development of cutting-edge capabilities with the maintenance and protection of existing critical infrastructure will be crucial for success in this domain.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_english_Wardley Map of the Space domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_english_Wardley_Map_of_the_Space_domain.md)
 
 
 
@@ -1325,7 +1325,7 @@ With these components identified, we can begin to position them on our Wardley M
 
 > This Wardley Map depicts a comprehensive and forward-looking approach to the cyber domain, balancing foundational elements with cutting-edge capabilities. The strategic focus on intelligence gathering, workforce development, and centralised command and control positions the organisation well for future challenges. However, the reliance on rapidly evolving components necessitates a highly adaptive strategy and continuous investment in research and development. The organisation should prioritise workforce development, ethical considerations in advanced capabilities, and the integration of emerging technologies to maintain a competitive edge in this dynamic domain.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_29_english_Wardley Map of the Cyber domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_29_english_Wardley_Map_of_the_Cyber_domain.md)
 
 
 
@@ -1387,7 +1387,7 @@ Another critical aspect to consider is the interplay between the cognitive domai
 
 > The Wardley Map reveals a strategic focus on evolving cognitive capabilities in military operations from individual processes to AI-assisted systems. Key opportunities lie in the integration of cognitive enhancement technologies, AI-assisted decision support, and cyber capabilities. To maintain competitive advantage, prioritise the development of advanced information processing systems and human-AI collaboration models while addressing potential risks of over-reliance on AI and cognitive biases. The future of military cognitive operations will likely be shaped by rapid advancements in AI and neurotechnology, requiring agile adaptation and ethical considerations.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_english_Wardley Map of the Cognitive domain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_english_Wardley_Map_of_the_Cognitive_domain.md)
 
 
 
@@ -1442,7 +1442,7 @@ As we delve deeper into this cross-domain analysis, it's important to involve su
 
 > The map reveals a warfare landscape in transition, with traditional domains being augmented and potentially disrupted by emerging technologies and concepts. The key to future success lies in effective multi-domain integration, leveraging AI, and developing advanced capabilities in cognitive and cyber domains. Strategic decision-making, supported by tools like Wardley Mapping, will be crucial in navigating this complex and rapidly evolving environment. There's a clear need for continuous innovation, particularly in areas like AI and cognitive warfare, while also ensuring robust integration across all domains. The ability to adapt quickly and leverage cross-domain synergies will likely determine strategic advantage in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_english_Identifying cross-domain dependencies and opportunities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_english_Identifying_cross-domain_dependencies_and_opportunities.md)
 
 Ultimately, the goal of this cross-domain analysis is to move beyond siloed thinking and develop truly integrated, multi-domain strategies. By leveraging Wardley Mapping to identify dependencies and opportunities across the six NWCC domains, we can create a more nuanced and effective approach to modern warfare. This holistic understanding enables military leaders to make more informed decisions, allocate resources more efficiently, and develop innovative solutions that capitalise on the synergies between domains.
 
@@ -1489,7 +1489,7 @@ It's important to note that the integrated map is not a static document. As tech
 
 > This Wardley Map illustrates NATO's strategic position at the forefront of multi-domain warfare integration. The alliance shows strength in traditional domains but must rapidly evolve its capabilities in emerging areas, particularly in AI, cyber, space, and cognitive warfare. The key to future success lies in effectively integrating all six domains, with a particular focus on enhancing decision-making processes and leveraging advanced technologies. NATO must balance the need for innovation in new domains with the maintenance of its core strengths, all while adapting to an increasingly complex and technologically-driven battlefield environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_english_Mapping the integration of all six domains.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_english_Mapping_the_integration_of_all_six_domains.md)
 
 In conclusion, mapping the integration of all six NWCC domains using Wardley Mapping techniques provides NATO strategists with an unprecedented tool for visualising and analysing the complexities of modern warfare. This integrated approach not only enhances our understanding of multi-domain operations but also paves the way for more effective strategic decision-making, resource allocation, and capability development across the Alliance.
 
@@ -1532,7 +1532,7 @@ Lastly, the integrated map serves as a valuable tool for identifying and address
 
 > The Integrated NWCC Domains Wardley Map reveals a strategic focus on multi-domain integration and advanced decision-making capabilities. While traditional physical domains are well-established, the emerging importance of space, cyber, and cognitive domains presents both opportunities and challenges. To maintain strategic advantage, NATO must prioritise the development of cross-domain capabilities, invest in disruptive technologies, and enhance its ability to make rapid, informed decisions in complex, multi-domain environments. The key to success lies in fostering innovation, improving interoperability, and continuously adapting to the evolving nature of modern warfare.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_english_Strategic insights from the integrated Wardley Map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_english_Strategic_insights_from_the_integrated_Wardley_Map.md)
 
 
 
@@ -1579,7 +1579,7 @@ Cross-Domain Integration: Finally, we analyse how actions in one domain might im
 
 > This Wardley Map illustrates a sophisticated understanding of the complex interplay between traditional naval power, emerging technologies, and strategic analysis in a potential South China Sea conflict scenario. It highlights the need for a multi-faceted approach that balances conventional military assets with cutting-edge capabilities in cyber warfare, information operations, and autonomous systems. The strategic analysis pipeline suggests a strong emphasis on informed decision-making, but there's room for further development in areas like AI integration and multi-domain operations. To maintain a competitive edge, focus should be placed on rapidly evolving areas such as autonomous underwater vehicles and advanced cyber capabilities, while also ensuring the resilience and adaptability of more established components like naval vessels and space-based communications. The map underscores the importance of a holistic, adaptive strategy that can respond to the dynamic geopolitical realities of the region while leveraging technological advancements to maintain strategic advantage.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_english_Developing Wardley Maps for hypothetical conflict scenarios.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_english_Developing_Wardley_Maps_for_hypothetical_conflict_scenarios.md)
 
 By following this process, military planners can create detailed Wardley Maps for a wide range of hypothetical conflict scenarios. These maps serve as powerful tools for strategic analysis, allowing us to explore the complexities of potential future conflicts in a structured and visual manner. They help us identify critical dependencies, potential vulnerabilities, and opportunities for strategic advantage across all six operational domains of the NWCC.
 
@@ -1618,7 +1618,7 @@ Risk assessment is a critical component of this analysis. Wardley Maps help in i
 
 > This Wardley Map reveals a strategic landscape focused on risk assessment and option analysis across NWCC domains. While there's a strong foundation in strategic objective setting and basic risk assessment, there are significant opportunities for evolution in strategic option development, scenario planning, and collaborative decision-making processes. The key to success lies in bridging the gap between current capabilities and future states, while enhancing the dynamism and adaptability of the strategic planning process. Prioritising the development of more sophisticated Strategic Options and Risk Assessment methodologies, coupled with increased integration of collaborative and iterative processes, will be crucial for maintaining strategic advantage in a rapidly evolving environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_35_english_Analysing strategic options using the maps.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_35_english_Analysing_strategic_options_using_the_maps.md)
 
 
 
@@ -1672,7 +1672,7 @@ Moreover, the iterative nature of Wardley Mapping aligns well with the dynamic a
 
 > This Wardley Map reveals a military decision-making ecosystem in transition, leveraging Wardley Mapping to bridge traditional strengths with emerging domains and capabilities. The strategic integration of Wardley Mapping across all aspects of military planning and operations presents a significant opportunity for enhanced adaptability and strategic advantage. Key focus areas should include accelerating the evolution of decision-making processes to match the pace of emerging domains, particularly in cognitive and cyber areas, while ensuring seamless cross-domain integration. The successful implementation of this approach could revolutionise military strategy and operations, providing NATO with a substantial edge in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_36_english_Decision-making processes informed by Wardley Mapping.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_36_english_Decision-making_processes_informed_by_Wardley_Mapping.md)
 
 However, it is important to note that while Wardley Mapping offers significant benefits to military decision-making processes, it should be seen as a complementary tool rather than a replacement for existing methodologies. The true power of this approach lies in its integration with established practices, enhancing rather than supplanting the wealth of experience and expertise within military organisations.
 
@@ -1711,7 +1711,7 @@ A Wardley Map of Desert Storm would illustrate the critical role of air power an
 
 > The Operation Desert Storm Wardley Map illustrates a well-structured military operation with a clear focus on air superiority and advanced technologies. The strategic positioning of components reflects the operation's emphasis on leveraging space-based assets and precision munitions to achieve military objectives. Key areas for future development include enhancing the evolution of precision-guided munitions, further integrating space-based assets, and strengthening command and control systems. The map also highlights the need for continued innovation in military technologies and the importance of maintaining superiority in critical areas such as air power and intelligence gathering. Overall, the map provides valuable insights for future military planning and technological development in modern warfare.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_37_english_Retrospective mapping of past military operations.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_37_english_Retrospective_mapping_of_past_military_operations.md)
 
 By applying Wardley Mapping to these historical cases, we gain several benefits. Firstly, it allows us to visualise the strategic landscape in a way that traditional historical narratives or battle maps cannot. Secondly, it helps identify critical dependencies and potential points of failure that may have been overlooked at the time. Lastly, it provides a framework for comparing different conflicts across time, allowing us to track the evolution of military strategy and technology.
 
@@ -1749,7 +1749,7 @@ The Gulf War of 1990-1991 provides an excellent case study for the application o
 
 > The Gulf War Technology Evolution map reveals a significant technological and strategic advantage for Coalition Forces, primarily driven by advanced air and precision strike capabilities. The future success will depend on maintaining this technological edge while enhancing coalition integration and adapting to emerging warfare domains like cyber and information warfare. Key focus areas should include the evolution of C2 systems, continued development of precision and stealth technologies, and improved real-time intelligence capabilities. The strategic positioning suggests a need for balanced investment in both high-tech solutions and traditional military strengths to ensure comprehensive battlefield dominance.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_38_english_Lessons learned through the lens of Wardley Mapping.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_38_english_Lessons_learned_through_the_lens_of_Wardley_Mapping.md)
 
 
 
@@ -1795,7 +1795,7 @@ Moreover, the application of Wardley Mapping to historical conflicts offers valu
 
 > The Battle of Midway strategic landscape reveals a pivotal moment in naval warfare evolution. The U.S. Navy's emphasis on aircraft carriers, coupled with superior intelligence capabilities, particularly in code breaking, provided a significant advantage. However, the rapid pace of technological change and the emerging importance of elements like radar and submarine warfare indicate a need for continued innovation and strategic flexibility. To maintain superiority, the focus should be on leveraging current strengths in carrier operations and intelligence while aggressively developing emerging technologies and addressing capability gaps, particularly in anti-submarine warfare and electronic combat systems.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_39_english_How Wardley Mapping could have influenced historical outcomes.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_39_english_How_Wardley_Mapping_could_have_influenced_historical_outcomes.md)
 
 
 
@@ -1827,7 +1827,7 @@ One of the most pressing geopolitical tensions in recent years has been the evol
 
 > The map reveals a complex, multi-faceted geopolitical landscape where traditional and emerging domains intersect. NATO's strategic position requires a delicate balance of maintaining conventional strengths while rapidly developing capabilities in evolving domains. The key to future success lies in effective multi-domain integration, accelerated innovation in space, cyber, and cognitive domains, and the ability to adapt swiftly to an ever-changing geopolitical environment. Prioritising the development of advanced capabilities in emerging domains, while fostering international cooperation and maintaining diplomatic initiatives, will be crucial for maintaining strategic advantage in the face of evolving global tensions.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_english_Mapping current geopolitical tensions.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_english_Mapping_current_geopolitical_tensions.md)
 
 
 
@@ -1851,7 +1851,7 @@ Another significant geopolitical tension that warrants mapping is the complex re
 
 > The map reveals a complex, multi-domain competitive landscape in the Indo-Pacific, where traditional military and economic power intersects with emerging technological and non-traditional security challenges. Western powers must adapt their strategies to address both conventional and emerging threats, with a particular focus on enhancing capabilities in cyber, space, and information domains. Simultaneously, they need to navigate the delicate balance of economic interdependencies and leverage diplomatic initiatives to address global challenges. The evolving NATO strategy will be crucial in coordinating Western efforts, but must rapidly adapt to the unique characteristics of the Indo-Pacific theatre.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_english_Mapping current geopolitical tensions.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_english_Mapping_current_geopolitical_tensions.md)
 
 
 
@@ -1885,7 +1885,7 @@ Let us examine each of these scenarios in detail, utilising Wardley Mapping to u
 
 > This Wardley Map depicts a future hybrid warfare scenario where success depends on effectively integrating conventional military operations with cutting-edge technologies like AI and quantum computing, while also mastering the information domain. The strategic focus should be on rapidly developing and ethically applying these emerging technologies, enhancing decision-making capabilities, and building resilience against advanced information warfare tactics. Balancing technological advancement with human oversight and ethical considerations will be crucial. The ability to operate effectively across all domains - physical, cyber, information, and space - will be key to maintaining strategic advantage in this complex future warfare landscape.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_41_english_Anticipating future warfare scenarios.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_41_english_Anticipating_future_warfare_scenarios.md)
 
 
 
@@ -1903,7 +1903,7 @@ The AI-Driven Conflict scenario presents a paradigm shift in military decision-m
 
 > The map reveals a strategic position poised for significant advancement in space domain capabilities by 2040. While strong in traditional areas like situational awareness and communications, the true strategic advantage lies in successfully developing and integrating emerging technologies such as space-based weaponry, quantum systems, and advanced AI. The key to dominance will be balancing the evolution of these cutting-edge capabilities with the enhancement of existing systems, all while adapting doctrine and operational concepts to fully leverage these advancements.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_41_english_Anticipating future warfare scenarios.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_41_english_Anticipating_future_warfare_scenarios.md)
 
 
 
@@ -1959,7 +1959,7 @@ In conclusion, the integration of Wardley Mapping into the process of adapting t
 
 > The Wardley Map reveals a strategic landscape focused on adapting NWCC through various analytical tools and operational considerations. While there's a strong foundation in traditional domains, the key to future success lies in accelerating the integration of Disruptive Innovations, enhancing Multi-Domain capabilities, and leveraging Wardley Mapping for more dynamic strategic planning. NATO needs to prioritise agility in its NWCC adaptation process, invest in emerging technologies, and foster a culture of continuous learning and cross-domain collaboration to maintain strategic advantage in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_42_english_Strategies for adapting NWCC using Wardley Mapping insights.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_42_english_Strategies_for_adapting_NWCC_using_Wardley_Mapping_insights.md)
 
 # The Future of Military Strategy: Wardley Mapping and Beyond
 
@@ -2003,7 +2003,7 @@ Cross-domain collaboration and analysis are critical components of the review fr
 
 > The framework for regular strategy reviews is well-structured but faces challenges in adapting to emerging domains and overcoming inertia in key areas. By focusing on evolving the Wardley Mapping Protocol, developing the Cognitive Domain, and enhancing cross-domain integration, NATO can significantly improve its strategic readiness and adaptability in the face of rapidly changing warfare landscapes.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_43_english_Establishing a framework for regular strategy reviews.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_43_english_Establishing_a_framework_for_regular_strategy_reviews.md)
 
 By implementing this comprehensive framework for regular strategy reviews, NATO can ensure that the NWCC remains a living document, constantly evolving to meet the challenges of modern warfare. The integration of Wardley Mapping into this process provides a powerful tool for visualising strategic landscapes, identifying emerging opportunities and threats, and guiding decision-making at the highest levels of military planning.
 
@@ -2037,7 +2037,7 @@ Similarly, doctrinal shifts, such as the increasing emphasis on multi-domain ope
 
 > NATO's Warfighting Capstone Concept is evolving towards a highly integrated, technology-driven approach to warfare. The focus on multi-domain operations, supported by AI and emerging technologies, positions NATO at the forefront of military innovation. However, the rapid pace of technological change, especially in AI and quantum computing, presents both opportunities and challenges. NATO must balance the adoption of these technologies with robust ethical frameworks and counter-strategies to maintain strategic advantage while upholding its values. The key to success will be agility in adapting to technological changes and effective integration across all domains, with a particular emphasis on the cognitive and space domains in future conflicts.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_44_english_Incorporating emerging technologies and doctrines.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_44_english_Incorporating_emerging_technologies_and_doctrines.md)
 
 
 
@@ -2092,7 +2092,7 @@ The future of adaptive planning using Wardley Mapping within the NWCC framework 
 
 > The Wardley Map reveals a strategic positioning that emphasises adaptability and dynamic decision-making in NATO's warfighting concept. The central role of Wardley Mapping in enabling adaptive planning is a significant strength. However, to maintain and enhance this strategic advantage, NATO should focus on rapidly developing AI-assisted mapping capabilities, fostering an adaptive thinking culture, and improving cross-domain integration. The organisation is well-positioned to leverage these evolving capabilities to respond effectively to emerging geopolitical and technological challenges, but must remain vigilant in continuously updating its strategic toolkit and processes.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_45_english_Adaptive planning using Wardley Mapping.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_45_english_Adaptive_planning_using_Wardley_Mapping.md)
 
 In conclusion, adaptive planning using Wardley Mapping represents a significant evolution in military strategic thinking. By providing a dynamic, visual representation of the strategic landscape across all six operational domains of the NWCC, it enables military leaders to anticipate changes, identify opportunities, and respond swiftly to emerging threats. As this approach becomes more integrated into NATO's strategic processes, it has the potential to significantly enhance the alliance's ability to maintain strategic advantage in an increasingly complex and rapidly changing global security environment.
 
@@ -2138,7 +2138,7 @@ Despite these challenges, the potential benefits of expanding Wardley Mapping to
 
 > The map reveals a sophisticated approach to modern warfare, with a strong emphasis on cyber and hybrid strategies. However, there are opportunities to enhance adaptability, particularly in response to disruptive innovations and emerging technologies. The key to maintaining strategic advantage lies in improving interoperability, rapidly integrating new technologies, and fostering a more agile and responsive military ecosystem.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_46_english_Applicability to non-NATO military strategies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_46_english_Applicability_to_non-NATO_military_strategies.md)
 
 
 
@@ -2184,7 +2184,7 @@ Looking ahead, the potential for Wardley Mapping in asymmetric warfare extends b
 
 > This Wardley Map reveals a strategic landscape in transition, where success in asymmetric warfare increasingly depends on adaptive capabilities, emerging technologies, and information dominance. While conventional military strength remains important, the map suggests that future advantages will come from the ability to rapidly integrate new technologies, develop adaptive strategies, and effectively manage the information domain. The inclusion of Wardley Mapping as a strategic tool indicates a forward-thinking approach to enhancing situational awareness and strategic planning. To maintain strategic advantage, focus should be placed on accelerating the development and integration of emerging technologies, fostering cross-functional collaboration, and cultivating adaptive, information-centric warfare capabilities.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_47_english_Potential for mapping asymmetric warfare.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_47_english_Potential_for_mapping_asymmetric_warfare.md)
 
 As we continue to explore and refine the application of Wardley Mapping to asymmetric warfare, it's clear that this approach has the potential to revolutionise how we understand and respond to these complex conflicts. By providing a new perspective on the structures, dependencies, and evolutionary dynamics of asymmetric warfare, Wardley Mapping can empower military strategists and policymakers to develop more nuanced, adaptive, and effective strategies for addressing one of the most challenging aspects of modern conflict.
 
@@ -2222,7 +2222,7 @@ Furthermore, Wardley Mapping can be instrumental in navigating the complex polit
 
 > This Wardley Map reveals a strategic landscape focused on enhancing joint international military operations through improved planning, interoperability, and emerging technologies. The central role of Wardley Mapping itself in this process is noteworthy, suggesting a meta-strategic approach to capability development. Key opportunities lie in the further integration of AI and data analytics, the evolution of more adaptive joint planning processes, and the development of standardised yet flexible interoperability frameworks. The main challenges revolve around aligning diverse national doctrines and navigating complex political landscapes. To succeed, the coalition must prioritise collaborative innovation, shared capability development, and the creation of adaptive strategic frameworks that can accommodate both technological advancements and geopolitical realities.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_48_english_Wardley Mapping in joint international operations.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_48_english_Wardley_Mapping_in_joint_international_operations.md)
 
 
 
@@ -2277,7 +2277,7 @@ To fully leverage the potential of Wardley Mapping in military decision-making, 
 
 > This Wardley Map reveals a military organisation in transition, actively integrating advanced strategic tools like Wardley Mapping to enhance decision-making across multiple domains. The focus on future conflict anticipation and cross-domain analysis indicates a forward-thinking approach. However, to maintain strategic advantage, there's a need for rapid capability development in emerging areas, particularly in the cognitive and cyber domains, while also enhancing collaborative strategies with allies and civilian leadership. The successful evolution and integration of Wardley Mapping into core processes will be crucial for adapting to future challenges and maintaining military superiority in an increasingly complex and technology-driven global security environment.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_49_english_Enhancing decision-making processes in military leadership.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_49_english_Enhancing_decision-making_processes_in_military_leadership.md)
 
 
 
@@ -2321,7 +2321,7 @@ The education of military strategists must also address the dynamic nature of mo
 
 > The Wardley Map reveals a strategic shift in military education towards more analytical, technology-driven approaches. The integration of Wardley Mapping methodology and the focus on emerging technologies like AI position the organisation well for future challenges. However, there's a need to accelerate the adoption of these new methodologies and technologies while maintaining a strong ethical framework. The key to success lies in balancing traditional military wisdom with cutting-edge analytical tools and fostering a culture of continuous learning and adaptation.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_50_english_Training and education implications for military strategists.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_50_english_Training_and_education_implications_for_military_strategists.md)
 
 
 
@@ -2361,7 +2361,7 @@ The automated identification of strategic opportunities and threats is a key ben
 
 > This Wardley Map reveals a military strategic analysis process in transition, moving towards a highly AI-integrated approach. The positioning of AI Integration as a central component connecting various analytical capabilities suggests a strong focus on leveraging AI to enhance decision-making. The rapid evolution of components like Cross-domain Analysis and the ongoing evolution of Wardley Mapping indicate significant potential for innovation. To fully capitalise on these opportunities, focus should be placed on accelerating AI integration, enhancing data processing capabilities, and developing advanced cross-domain analysis tools. The ultimate goal should be to create a robust, AI-driven strategic planning ecosystem that provides military decision-makers with real-time, predictive insights across all operational domains.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_51_english_The future of AI-assisted Wardley Mapping in military planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_51_english_The_future_of_AI-assisted_Wardley_Mapping_in_military_planning.md)
 
 Improved cross-domain integration and analysis is another critical advantage of AI-assisted Wardley Mapping. In the context of NATO's Warfighting Capstone Concept (NWCC) and its six operational domains, AI could help identify and analyse complex interdependencies between domains that might be challenging for human analysts to fully comprehend. This enhanced cross-domain analysis could lead to more effective multi-domain operations and better-integrated strategic planning.
 

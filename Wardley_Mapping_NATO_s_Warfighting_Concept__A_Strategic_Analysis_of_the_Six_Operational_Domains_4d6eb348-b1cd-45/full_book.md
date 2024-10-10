@@ -87,9 +87,6 @@
 
 ### Origins and principles of Wardley Mapping
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 Wardley Mapping, a strategic planning technique developed by Simon Wardley in the early 2000s, has its roots in the technology sector but has since found applications across various industries, including military strategy. This innovative approach to visualising the structure of a business or organisation has become increasingly relevant in the context of NATO's Warfighting Capstone Concept (NWCC), offering a unique lens through which to analyse and plan military operations across multiple domains.
 
 The genesis of Wardley Mapping can be traced back to Wardley's experiences in the IT industry, where he observed that traditional strategic planning methods often failed to capture the dynamic nature of technological evolution and market forces. Frustrated by the limitations of existing tools, Wardley set out to create a mapping technique that could represent the complex relationships between components in a value chain while also accounting for their evolutionary stage.
@@ -132,9 +129,6 @@ In the subsequent sections, we will explore how these foundational principles of
 
 ### Key components of a Wardley Map
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 Wardley Mapping, as a strategic tool, comprises several key components that work in concert to provide a visual representation of the business landscape. These components are essential for understanding the competitive environment, identifying opportunities, and making informed strategic decisions. In the context of military strategy and NATO's Warfighting Capstone Concept (NWCC), these components take on additional significance, offering a unique perspective on the complexities of modern warfare.
 
 - Value Chain
@@ -179,9 +173,6 @@ As we delve deeper into the application of Wardley Mapping to NATO's Warfighting
 
 ### Benefits of Wardley Mapping in strategic planning
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 Wardley Mapping, a powerful strategic planning tool developed by Simon Wardley, offers a multitude of benefits for organisations seeking to navigate complex environments and make informed decisions. In the context of military strategy, particularly when applied to NATO's Warfighting Capstone Concept (NWCC), Wardley Mapping provides a unique set of advantages that can significantly enhance strategic planning processes.
 
 One of the primary benefits of Wardley Mapping is its ability to provide a visual representation of the entire value chain within a given context. This visual approach allows strategists to gain a holistic view of their operational landscape, identifying key components, dependencies, and potential areas of vulnerability or opportunity. In the military context, this comprehensive view becomes invaluable when dealing with the complexities of multi-domain operations as outlined in the NWCC.
@@ -302,9 +293,6 @@ In the subsequent sections, we will explore how Wardley Mapping can serve as a p
 
 ### Introduction to NATO's Warfighting Capstone Concept (NWCC)
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 The NATO Warfighting Capstone Concept (NWCC) represents a significant evolution in military strategy, reflecting the complex and rapidly changing nature of modern warfare. As an expert in this field, I can attest to the NWCC's pivotal role in shaping NATO's approach to future conflicts and its efforts to maintain strategic advantage in an increasingly unpredictable global security environment.
 
 The NWCC emerged from a recognition that traditional military doctrines were becoming inadequate in the face of emerging threats and technological advancements. It represents a paradigm shift in how NATO conceptualises and prepares for warfare across multiple domains, including land, sea, air, space, cyber, and the cognitive realm.
@@ -793,9 +781,6 @@ In conclusion, the cyber domain represents a dynamic and critical component of N
 
 ### Cognitive domain: The battle for hearts and minds
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 The cognitive domain, often referred to as the 'fifth domain' of warfare, represents a critical and increasingly complex battlespace in NATO's Warfighting Capstone Concept (NWCC). This domain encompasses the mental processes, beliefs, and decision-making capabilities of individuals and groups, ranging from military personnel to civilian populations. As an expert in military strategy and Wardley mapping, I can attest that the cognitive domain has become a central focus in modern warfare, where the ability to influence perceptions and shape narratives can be as decisive as kinetic operations.
 
 The cognitive domain is unique among the six operational domains outlined in the NWCC due to its intangible nature and its pervasive influence across all other domains. It intersects with and impacts operations in the land, maritime, air, space, and cyber domains, making it a crucial element in the multi-domain operations concept. The battle for hearts and minds is not a new concept in warfare, but its importance has been amplified in the information age, where the proliferation of digital technologies and social media platforms has created new vectors for cognitive influence operations.
@@ -1262,9 +1247,6 @@ In conclusion, the Wardley Map of the air domain serves as a powerful tool for s
 
 ### Wardley Map of the Space domain
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 The space domain represents a critical frontier in modern warfare, offering unique capabilities and challenges that significantly impact military operations across all other domains. As we apply Wardley Mapping to this domain, we uncover a complex landscape of evolving technologies, strategic assets, and operational dependencies that are reshaping the nature of space-based military activities.
 
 To construct a Wardley Map for the space domain, we must first identify the key components that make up this operational environment. These components range from physical assets like satellites and ground stations to more abstract elements such as orbital slots and electromagnetic spectrum allocation. Each of these components plays a crucial role in enabling space-based capabilities and must be carefully positioned on our map.
@@ -1320,9 +1302,6 @@ As we continue to refine and update our Wardley Map of the space domain, it beco
 
 ### Wardley Map of the Cyber domain
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 The cyber domain represents one of the most dynamic and rapidly evolving areas within NATO's Warfighting Capstone Concept (NWCC). As we apply Wardley Mapping to this non-physical domain, we uncover a complex landscape of digital warfare capabilities, vulnerabilities, and strategic opportunities. This mapping exercise is crucial for understanding the cyber domain's unique characteristics and its interdependencies with other operational domains.
 
 To begin mapping the cyber domain, we must first identify the key components that form the backbone of cyber operations. These components range from foundational infrastructure to advanced offensive and defensive capabilities.
@@ -1378,9 +1357,6 @@ In conclusion, the Wardley Map of the cyber domain provides a strategic view of 
 
 ### Wardley Map of the Cognitive domain
 
-Here's the content reviewed and corrected for UK English:
-
-<content>
 The cognitive domain, often referred to as the 'human domain' or the 'human terrain', represents one of the most complex and challenging areas to map within NATO's Warfighting Capstone Concept (NWCC). This domain encompasses the mental processes, decision-making capabilities, and psychological aspects of warfare, making it a critical yet intangible component of modern military operations. Applying Wardley Mapping to this domain requires a nuanced understanding of both cognitive science and strategic military thinking.
 
 To effectively map the cognitive domain, we must first identify the key components that constitute this space within the context of military operations. These components range from individual soldier psychology to collective decision-making processes at the highest levels of command. The evolution axis in this map will reflect the progression from basic cognitive functions to advanced, technology-enhanced cognitive capabilities.

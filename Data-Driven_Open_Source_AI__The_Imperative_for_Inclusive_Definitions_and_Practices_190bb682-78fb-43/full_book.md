@@ -1,4 +1,4 @@
-# Data-Driven Open Source AI: The Imperative for Inclusive Definitions and Practices
+# Data-Inclusive Open Source AI: Building a Fair and Collaborative Future
 
 ### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 

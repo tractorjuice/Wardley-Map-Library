@@ -232,13 +232,73 @@ app.get('/api/health', (req, res) => {
     });
 });
 
+// Fetch individual Wardley map content
+app.get('/api/wardley/:bookId/*', async (req, res) => {
+    try {
+        await bookService.initialize();
+        const { bookId } = req.params;
+        const wardleyPath = req.params[0]; // Get the full path after bookId
+        
+        const book = bookService.getBookById(bookId);
+        if (!book) {
+            return res.status(404).json({
+                success: false,
+                error: 'Book not found'
+            });
+        }
+        
+        // Try different possible locations for the Wardley map file
+        const bookDir = path.join(__dirname, 'books', book.directory);
+        const possiblePaths = [
+            path.join(bookDir, 'markdown_wardley_map_reports', wardleyPath),
+            path.join(bookDir, 'markdown', 'wardley_map_reports', wardleyPath),
+            path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', wardleyPath),
+            path.join(bookDir, wardleyPath)
+        ];
+        
+        let content = null;
+        let foundPath = null;
+        
+        for (const filePath of possiblePaths) {
+            try {
+                content = await fs.readFile(filePath, 'utf8');
+                foundPath = filePath;
+                break;
+            } catch (error) {
+                // Continue to next path
+                continue;
+            }
+        }
+        
+        if (!content) {
+            return res.status(404).json({
+                success: false,
+                error: 'Wardley map file not found'
+            });
+        }
+        
+        res.json({
+            success: true,
+            content: content,
+            path: foundPath
+        });
+        
+    } catch (error) {
+        console.error('Error fetching Wardley map:', error);
+        res.status(500).json({
+            success: false,
+            error: 'Failed to fetch Wardley map content'
+        });
+    }
+});
+
 // Handle requests for individual markdown files - redirect to main book
-app.get('/markdown/*', (req, res) => {
+app.get('/markdown/*', async (req, res) => {
     const requestPath = req.path;
     console.log(`Redirecting markdown file request: ${requestPath}`);
     
     // Try to find which book contains this markdown file
-    const bookId = findBookFromMarkdownPath(requestPath);
+    const bookId = await findBookFromMarkdownPath(requestPath);
     
     if (bookId) {
         const redirectUrl = `/?book=${bookId}`;
@@ -256,53 +316,47 @@ app.get('*', (req, res) => {
 });
 
 // Helper function to find book ID from markdown file path
-function findBookFromMarkdownPath(markdownPath) {
+async function findBookFromMarkdownPath(markdownPath) {
     // Get all discovered books
     const books = bookService.getBooks();
     
-    // Extract the full path to find which book directory this might belong to
-    const pathParts = markdownPath.split('/').filter(part => part.length > 0);
+    // Remove leading slash and extract the relative path after '/markdown'
+    const relativePath = markdownPath.replace(/^\/markdown\//, '');
+    console.log(`Searching for markdown file: ${relativePath}`);
     
-    // Look for matches in book directories based on the file path
+    // Try to find this file in each book directory
     for (const book of books) {
-        const bookDir = book.directory.toLowerCase();
-        const pathLower = markdownPath.toLowerCase();
+        const bookDir = path.join(__dirname, 'books', book.directory);
         
-        // Check if any part of the book directory name appears in the path
-        const bookKeywords = bookDir.split('_').filter(part => part.length > 3);
+        // Try different possible locations within the book directory:
+        // 1. books/[BookName]/markdown/[relativePath]
+        // 2. books/[BookName]/markdown_wardley_map_reports/[filename] (for wardley reports)
+        // 3. books/[BookName]/[relativePath] (direct)
         
-        for (const keyword of bookKeywords) {
-            if (pathLower.includes(keyword)) {
-                return book.id;
-            }
+        const possiblePaths = [
+            path.join(bookDir, 'markdown', relativePath),
+            path.join(bookDir, 'markdown_wardley_map_reports', path.basename(relativePath)),
+            path.join(bookDir, relativePath)
+        ];
+        
+        // If it's a wardley map report, also try the full wardley_map_reports path
+        if (relativePath.includes('wardley_map_reports')) {
+            possiblePaths.push(path.join(bookDir, relativePath.replace('wardley_map_reports', 'markdown_wardley_map_reports')));
         }
         
-        // Special case mappings for specific content
-        if (pathLower.includes('current_progress_and_challenges') || 
-            pathLower.includes('global_goals') || 
-            pathLower.includes('sustainable_development')) {
-            // This matches "AI for Global Goals" book
-            if (book.title.toLowerCase().includes('global goals') || 
-                book.title.toLowerCase().includes('sustainable development')) {
-                console.log(`Found Global Goals book: ${book.id}`);
+        for (const filePath of possiblePaths) {
+            try {
+                await fs.access(filePath);
+                console.log(`Found markdown file in book: ${book.directory} at ${filePath}`);
                 return book.id;
-            }
-        }
-        
-        if (pathLower.includes('gaming') || pathLower.includes('game_changer')) {
-            if (book.title.toLowerCase().includes('game') || 
-                book.title.toLowerCase().includes('gaming')) {
-                return book.id;
-            }
-        }
-        
-        if (pathLower.includes('wardley_map_reports')) {
-            if (book.title.toLowerCase().includes('wardley')) {
-                return book.id;
+            } catch (error) {
+                // File doesn't exist, continue checking
+                continue;
             }
         }
     }
     
+    console.log(`No book found containing file: ${relativePath}`);
     return null;
 }
 

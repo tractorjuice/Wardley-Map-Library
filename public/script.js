@@ -380,6 +380,12 @@ class BooksLibrary {
         links.forEach(link => {
             const href = link.getAttribute('href');
             
+            // Check if it's a Wardley map report link
+            if (this.isWardleyMapReportLink(href)) {
+                this.handleWardleyMapReportLink(link, href);
+                return;
+            }
+            
             // Check if it's an external link
             if (this.isExternalLink(href)) {
                 // Set target="_blank" and security attributes
@@ -407,6 +413,68 @@ class BooksLibrary {
                 }
             }
         });
+    }
+    
+    isWardleyMapReportLink(href) {
+        if (!href) return false;
+        
+        // Check if it's a link to a wardley map report markdown file
+        return (
+            href.includes('/markdown/wardley_map_reports/') ||
+            href.includes('/markdown_wardley_map_reports/') ||
+            href.includes('wardley_map_report_') && href.endsWith('.md')
+        );
+    }
+    
+    handleWardleyMapReportLink(link, href) {
+        // Prevent default link behavior
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.openWardleyFromLink(href, link.textContent);
+        });
+        
+        // Style the link to indicate it's a Wardley details link
+        link.classList.add('wardley-link');
+        link.style.background = 'linear-gradient(45deg, #28a745, #20c997)';
+        link.style.webkitBackgroundClip = 'text';
+        link.style.webkitTextFillColor = 'transparent';
+        link.style.fontWeight = '600';
+        link.title = 'View Wardley Map details in side panel';
+        link.style.cursor = 'pointer';
+        
+        // Add an indicator icon
+        if (!link.querySelector('.wardley-details-icon')) {
+            const icon = document.createElement('span');
+            icon.className = 'wardley-details-icon';
+            icon.innerHTML = ' 📊';
+            icon.style.fontSize = '0.9em';
+            link.appendChild(icon);
+        }
+    }
+    
+    openWardleyFromLink(href, title) {
+        if (!this.selectedBook) return;
+        
+        // Extract the file path from the URL
+        let wardleyPath = href;
+        
+        // Remove domain and leading path if it's a full URL
+        if (href.includes('/markdown/wardley_map_reports/')) {
+            wardleyPath = href.split('/markdown/wardley_map_reports/')[1];
+        } else if (href.includes('/markdown_wardley_map_reports/')) {
+            wardleyPath = href.split('/markdown_wardley_map_reports/')[1];
+        } else if (href.includes('wardley_map_report_')) {
+            // Extract just the filename
+            wardleyPath = href.split('/').pop();
+        }
+        
+        // Clean up the title
+        const cleanTitle = title.trim() || 'Wardley Map Details';
+        
+        console.log(`Opening Wardley details: ${wardleyPath} for book ${this.selectedBook.id}`);
+        
+        // Open the Wardley details panel
+        this.openWardleyDetails(this.selectedBook.id, wardleyPath, cleanTitle);
     }
     
     isExternalLink(href) {
@@ -618,6 +686,165 @@ class BooksLibrary {
             alert(`Copy this link to share: ${text}`);
         } finally {
             document.body.removeChild(textArea);
+        }
+    }
+
+    // Wardley Details Panel functionality
+    setupWardleyPanel() {
+        const closeButton = document.getElementById('closeWardley');
+        if (closeButton) {
+            closeButton.addEventListener('click', () => this.closeWardleyDetails());
+        }
+        
+        // Setup vertical splitter for Wardley panel
+        this.setupVerticalSplitter();
+    }
+    
+    setupVerticalSplitter() {
+        const splitter = document.getElementById('splitterVertical');
+        const wardleyDetails = document.getElementById('wardleyDetails');
+        const mainContent = document.querySelector('.main-content');
+        
+        if (!splitter || !wardleyDetails || !mainContent) return;
+
+        let isResizing = false;
+        
+        splitter.addEventListener('mousedown', (e) => {
+            e.preventDefault();
+            isResizing = true;
+            
+            splitter.classList.add('dragging');
+            document.body.classList.add('no-select');
+            
+            const startX = e.clientX;
+            const startWidth = wardleyDetails.offsetWidth;
+            
+            const handleMouseMove = (e) => {
+                if (!isResizing) return;
+                
+                const deltaX = startX - e.clientX; // Reverse direction for right panel
+                const newWidth = startWidth + deltaX;
+                
+                // Constrain width within min/max bounds
+                const minWidth = parseInt(getComputedStyle(wardleyDetails).minWidth) || 300;
+                const maxWidth = parseInt(getComputedStyle(wardleyDetails).maxWidth) || 600;
+                const containerWidth = mainContent.offsetWidth;
+                const maxAllowedWidth = Math.min(maxWidth, containerWidth * 0.5); // Max 50% of container
+                
+                const constrainedWidth = Math.max(minWidth, Math.min(newWidth, maxAllowedWidth));
+                
+                wardleyDetails.style.width = constrainedWidth + 'px';
+                
+                // Store the width preference
+                localStorage.setItem('wardleyDetailsWidth', constrainedWidth);
+            };
+            
+            const handleMouseUp = () => {
+                isResizing = false;
+                
+                splitter.classList.remove('dragging');
+                document.body.classList.remove('no-select');
+                
+                document.removeEventListener('mousemove', handleMouseMove);
+                document.removeEventListener('mouseup', handleMouseUp);
+            };
+            
+            document.addEventListener('mousemove', handleMouseMove);
+            document.addEventListener('mouseup', handleMouseUp);
+        });
+    }
+    
+    async openWardleyDetails(bookId, wardleyPath, title) {
+        const wardleyDetails = document.getElementById('wardleyDetails');
+        const splitterVertical = document.getElementById('splitterVertical');
+        const wardleyTitle = document.getElementById('wardleyTitle');
+        const wardleyContent = document.getElementById('wardleyContent');
+        const wardleyLoading = document.getElementById('wardleyLoading');
+        
+        // Show the panel and splitter
+        wardleyDetails.style.display = 'flex';
+        splitterVertical.style.display = 'block';
+        
+        // Set title
+        if (wardleyTitle) {
+            wardleyTitle.textContent = title || 'Wardley Map Details';
+        }
+        
+        // Show loading
+        if (wardleyLoading) {
+            wardleyLoading.style.display = 'block';
+        }
+        if (wardleyContent) {
+            wardleyContent.innerHTML = '';
+        }
+        
+        try {
+            // Fetch the Wardley map content
+            const response = await fetch(`/api/wardley/${bookId}/${wardleyPath}`);
+            const data = await response.json();
+            
+            if (!data.success) {
+                throw new Error(data.error || 'Failed to load Wardley map');
+            }
+            
+            // Parse and display the markdown content
+            const html = marked.parse(data.content);
+            
+            if (wardleyContent) {
+                wardleyContent.innerHTML = html;
+                // Apply syntax highlighting
+                if (window.Prism) {
+                    Prism.highlightAllUnder(wardleyContent);
+                }
+            }
+            
+        } catch (error) {
+            console.error('Error loading Wardley map:', error);
+            if (wardleyContent) {
+                wardleyContent.innerHTML = `
+                    <div class="error-message">
+                        <h3>Failed to load Wardley map details</h3>
+                        <p>${error.message}</p>
+                    </div>
+                `;
+            }
+        } finally {
+            if (wardleyLoading) {
+                wardleyLoading.style.display = 'none';
+            }
+        }
+        
+        // Restore saved width
+        this.restoreWardleyWidth();
+        
+        // Setup panel if not already done
+        this.setupWardleyPanel();
+    }
+    
+    closeWardleyDetails() {
+        const wardleyDetails = document.getElementById('wardleyDetails');
+        const splitterVertical = document.getElementById('splitterVertical');
+        
+        if (wardleyDetails) {
+            wardleyDetails.style.display = 'none';
+        }
+        if (splitterVertical) {
+            splitterVertical.style.display = 'none';
+        }
+    }
+    
+    restoreWardleyWidth() {
+        const savedWidth = localStorage.getItem('wardleyDetailsWidth');
+        const wardleyDetails = document.getElementById('wardleyDetails');
+        
+        if (savedWidth && wardleyDetails) {
+            const width = parseInt(savedWidth);
+            const minWidth = parseInt(getComputedStyle(wardleyDetails).minWidth) || 300;
+            const maxWidth = parseInt(getComputedStyle(wardleyDetails).maxWidth) || 600;
+            
+            if (width >= minWidth && width <= maxWidth) {
+                wardleyDetails.style.width = width + 'px';
+            }
         }
     }
 

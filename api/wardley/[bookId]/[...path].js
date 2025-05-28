@@ -98,16 +98,29 @@ export default async function handler(req, res) {
             '/vercel/path0'
         ];
 
+        console.log('Book found:', { bookId: book.id, directory: book.directory });
+        console.log('Looking for file:', fileName);
+        
         const possibleWardleyPaths = [];
         for (const basePath of possibleBasePaths) {
             const bookDir = path.join(basePath, 'books', book.directory);
-            possibleWardleyPaths.push(
+            
+            // Add more path variations based on actual directory structure
+            const pathVariations = [
                 path.join(bookDir, 'markdown_wardley_map_reports', fileName),
                 path.join(bookDir, 'markdown', 'wardley_map_reports', fileName),
                 path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName),
-                path.join(bookDir, fileName)
-            );
+                path.join(bookDir, fileName),
+                // Try without .md extension if it's missing
+                path.join(bookDir, 'markdown_wardley_map_reports', fileName + '.md'),
+                path.join(bookDir, 'markdown', 'wardley_map_reports', fileName + '.md'),
+                path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName + '.md')
+            ];
+            
+            possibleWardleyPaths.push(...pathVariations);
         }
+        
+        console.log('Will try', possibleWardleyPaths.length, 'possible paths');
 
         let content = null;
         let foundPath = null;
@@ -126,9 +139,17 @@ export default async function handler(req, res) {
         }
 
         if (!content) {
+            console.log('File not found after trying all paths');
             return res.status(404).json({
                 success: false,
-                error: 'Wardley map file not found'
+                error: 'Wardley map file not found',
+                debug: {
+                    bookId,
+                    fileName,
+                    bookDirectory: book.directory,
+                    pathsTriedCount: possibleWardleyPaths.length,
+                    samplePaths: possibleWardleyPaths.slice(0, 5) // Show first 5 paths tried
+                }
             });
         }
 

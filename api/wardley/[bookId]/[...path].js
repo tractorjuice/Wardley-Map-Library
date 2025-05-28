@@ -1,3 +1,7 @@
+// Module-level cache that persists across function invocations
+const cache = new Map();
+const CACHE_TTL = 30 * 60 * 1000; // 30 minutes
+
 export default async function handler(req, res) {
     res.setHeader('Access-Control-Allow-Origin', '*');
     
@@ -93,7 +97,37 @@ export default async function handler(req, res) {
             });
         }
 
-        // Since books directory is not deployed to Vercel, use GitHub raw URLs
+        // Cache implementation to reduce GitHub API calls
+        const cacheKey = `${book.directory}/${fileName}`;
+        const now = Date.now();
+        
+        // Clean up expired cache entries periodically
+        if (cache.size > 50) { // Prevent memory bloat
+            const expiredKeys = [];
+            for (const [key, value] of cache.entries()) {
+                if (now - value.timestamp >= CACHE_TTL) {
+                    expiredKeys.push(key);
+                }
+            }
+            expiredKeys.forEach(key => cache.delete(key));
+        }
+        
+        // Check cache first
+        if (cache.has(cacheKey)) {
+            const cached = cache.get(cacheKey);
+            if (now - cached.timestamp < CACHE_TTL) {
+                console.log('Serving from cache:', cacheKey);
+                return res.status(200).json({
+                    success: true,
+                    content: cached.content
+                });
+            } else {
+                // Expired cache entry
+                cache.delete(cacheKey);
+            }
+        }
+        
+        // Fetch from GitHub with caching
         const https = require('https');
         const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
         const wardleyUrl = `${githubBaseUrl}/books/${book.directory}/${fileName}`;
@@ -115,6 +149,17 @@ export default async function handler(req, res) {
                 }).on('error', reject);
             });
             
+            // Cache the successful response
+            cache.set(cacheKey, {
+                content: content,
+                timestamp: now
+            });
+            
+            // Set cache headers for browser caching
+            res.setHeader('Cache-Control', 'public, max-age=1800'); // 30 minutes
+            res.setHeader('ETag', `"${Buffer.from(cacheKey).toString('base64')}"`);
+            
+            console.log('Cached and serving from GitHub:', cacheKey);
             res.status(200).json({
                 success: true,
                 content: content

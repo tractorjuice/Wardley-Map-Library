@@ -11,38 +11,17 @@ export default async function handler(req, res) {
     }
 
     try {
-        // In Vercel dynamic routes, parameters come from req.query
         const { bookId } = req.query;
-        const wardleyPathArray = req.query.path || req.query['...path']; // Handle both possible formats
+        const wardleyPathArray = req.query.path || req.query['...path'];
         
-        // Handle different possible formats
-        let fileName;
-        if (Array.isArray(wardleyPathArray)) {
-            fileName = wardleyPathArray.join('/');
-        } else if (wardleyPathArray) {
-            fileName = wardleyPathArray;
-        } else {
-            // Try to extract from URL as fallback
-            const urlParts = req.url.split('?')[0].split('/'); // Remove query params first
-            const apiIndex = urlParts.findIndex(part => part === 'wardley');
-            if (apiIndex >= 0 && urlParts.length > apiIndex + 2) {
-                fileName = urlParts.slice(apiIndex + 2).join('/');
-            }
-        }
+        // Extract filename from path parameter
+        let fileName = Array.isArray(wardleyPathArray) 
+            ? wardleyPathArray.join('/') 
+            : wardleyPathArray;
         
-        // Clean any remaining query parameters from fileName
-        if (fileName && fileName.includes('?')) {
-            fileName = fileName.split('?')[0];
-        }
-        
-        console.log('DEBUG: req.query =', req.query);
-        console.log('DEBUG: wardleyPathArray =', wardleyPathArray);  
-        console.log('DEBUG: final fileName =', fileName);
-        
-        // If fileName doesn't include the directory path, add it
+        // Add directory path if missing (for bare filenames)
         if (fileName && !fileName.includes('/')) {
             fileName = `markdown/wardley_map_reports/${fileName}`;
-            console.log('DEBUG: Added directory path, new fileName =', fileName);
         }
 
         if (!bookId) {
@@ -116,23 +95,19 @@ export default async function handler(req, res) {
         if (cache.has(cacheKey)) {
             const cached = cache.get(cacheKey);
             if (now - cached.timestamp < CACHE_TTL) {
-                console.log('Serving from cache:', cacheKey);
                 return res.status(200).json({
                     success: true,
                     content: cached.content
                 });
             } else {
-                // Expired cache entry
                 cache.delete(cacheKey);
             }
         }
         
-        // Fetch from GitHub with caching
+        // Fetch from GitHub
         const https = require('https');
         const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
         const wardleyUrl = `${githubBaseUrl}/books/${book.directory}/${fileName}`;
-        
-        console.log('Fetching Wardley map from GitHub:', wardleyUrl);
         
         try {
             const content = await new Promise((resolve, reject) => {
@@ -156,17 +131,15 @@ export default async function handler(req, res) {
             });
             
             // Set cache headers for browser caching
-            res.setHeader('Cache-Control', 'public, max-age=1800'); // 30 minutes
+            res.setHeader('Cache-Control', 'public, max-age=1800');
             res.setHeader('ETag', `"${Buffer.from(cacheKey).toString('base64')}"`);
             
-            console.log('Cached and serving from GitHub:', cacheKey);
             res.status(200).json({
                 success: true,
                 content: content
             });
             
         } catch (fetchError) {
-            console.error('Error fetching Wardley map from GitHub:', fetchError);
             res.status(404).json({
                 success: false,
                 error: 'Wardley map file not found'
@@ -174,7 +147,6 @@ export default async function handler(req, res) {
         }
 
     } catch (error) {
-        console.error('Error in Wardley API:', error);
         res.status(500).json({
             success: false,
             error: 'Internal server error'

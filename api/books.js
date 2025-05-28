@@ -27,28 +27,21 @@ class BookService {
                 try {
                     manifestContent = await fs.readFile(possiblePath, 'utf8');
                     manifestPath = possiblePath;
-                    console.log(`✅ Found books manifest at: ${possiblePath}`);
                     break;
                 } catch (error) {
-                    console.log(`❌ Tried manifest path: ${possiblePath} - ${error.message}`);
+                    continue;
                 }
             }
             
             if (!manifestPath) {
-                console.error('Could not find books.json manifest in any expected location');
-                console.log('Current working directory:', process.cwd());
                 throw new Error('Books manifest not found');
             }
             
             this.manifest = JSON.parse(manifestContent);
             this.books = this.manifest.books || [];
-            
             this.initialized = true;
-            console.log(`📚 Loaded ${this.books.length} books from manifest`);
-            console.log(`📅 Manifest generated: ${this.manifest.generated}`);
             
         } catch (error) {
-            console.error('Error initializing book service:', error);
             throw error;
         }
     }
@@ -82,11 +75,9 @@ class BookService {
             for (const bookPath of possibleBookPaths) {
                 try {
                     content = await fs.readFile(bookPath, 'utf8');
-                    console.log(`✅ Read book content from: ${bookPath}`);
                     break;
                 } catch (error) {
                     lastError = error;
-                    console.log(`❌ Tried book path: ${bookPath} - ${error.message}`);
                 }
             }
             
@@ -143,7 +134,6 @@ export default async function handler(req, res) {
         });
         
     } catch (error) {
-        console.error('Error in books API:', error);
         res.status(500).json({
             success: false,
             error: 'Failed to load books'

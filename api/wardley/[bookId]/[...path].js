@@ -100,11 +100,16 @@ export default async function handler(req, res) {
         ];
 
         let content = null;
+        console.log('Looking for:', fileName, 'in book:', book.directory);
         for (const wardleyPath of possibleWardleyPaths) {
             try {
                 content = await fs.readFile(wardleyPath, 'utf8');
+                console.log('SUCCESS: Found file at', wardleyPath);
                 break;
             } catch (error) {
+                if (wardleyPath.includes('markdown/wardley_map_reports')) {
+                    console.log('FAILED:', wardleyPath, error.code);
+                }
                 continue;
             }
         }

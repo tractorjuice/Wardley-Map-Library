@@ -11,17 +11,29 @@ The GenAI Books Library is a Node.js web application that serves a collection of
 ### Application Structure
 ```
 /workspaces/GenAI-Books/
+├── api/                   # Vercel serverless functions
+│   ├── books.js          # Books listing API
+│   ├── books/            # Individual book APIs
+│   │   ├── [id].js       # Book details endpoint
+│   │   └── [id]/
+│   │       └── content.js # Book content endpoint
+│   ├── health.js         # Health check endpoint
+│   └── wardley/          # Wardley map functionality
+│       └── [bookId]/
+│           └── [...path].js # Dynamic Wardley map reports
 ├── books/                 # All book content organized here
 │   └── [Book Directories]/ # Individual book folders
 │       ├── full_book.md    # Main book content (REQUIRED)
 │       ├── full_book.docx  # Word document version
 │       └── markdown/       # Additional markdown content
+│           └── wardley_map_reports/ # Wardley map files
 ├── public/                # Static frontend files
 │   ├── index.html         # Main application HTML
 │   ├── styles.css         # Complete CSS styling
 │   └── script.js          # Frontend JavaScript application
-├── server.js              # Express.js server with book discovery
+├── server.js              # Express.js server (local development)
 ├── package.json           # Dependencies and scripts
+├── vercel.json           # Vercel deployment configuration
 ├── .gitignore            # Git ignore patterns
 ├── README.md             # User documentation
 └── CLAUDE.md             # This file - development notes
@@ -169,9 +181,11 @@ Books are categorized using keyword matching:
 3. Test responsive behavior on different screen sizes
 
 ### API Development
-1. Add new endpoints in `server.js`
-2. Follow existing error handling patterns
-3. Update API documentation in README.md
+1. **Local Development**: Add endpoints in `server.js`
+2. **Production**: Create serverless functions in `api/` directory
+3. Follow existing error handling patterns
+4. Update API documentation in README.md
+5. **Vercel Functions**: Use `export default async function handler(req, res)`
 
 ## 🐛 Debugging
 
@@ -197,15 +211,19 @@ Books are categorized using keyword matching:
 - `PORT`: Server port (default: 3000)
 - `NODE_ENV`: Environment mode
 
-### Static File Serving
-- All frontend files served from `public/` directory
-- Markdown files served via API endpoints
-- External assets loaded from CDNs
+### Vercel Production Deployment
+- **Serverless Functions**: All API endpoints as individual functions
+- **Static Hosting**: Frontend files served from `public/` directory
+- **GitHub Integration**: Automatic deployments on git push
+- **Edge Caching**: Optimized global content delivery
+- **Function Limits**: 300MB bundle size limit (handled via GitHub raw URLs)
+- **Caching Strategy**: 30-minute TTL with module-level caching
 
-### GitHub Codespaces
+### Local Development (GitHub Codespaces)
 - Application runs on auto-generated Codespaces URL
 - Port forwarding handled automatically
 - HTTPS by default for secure features
+- Express.js server for local development
 
 ## 🔄 Maintenance
 
@@ -227,6 +245,38 @@ Books are categorized using keyword matching:
 
 ---
 
+## 🗺️ Wardley Map Integration
+
+### Architecture Overview
+- **API Endpoint**: `/api/wardley/[bookId]/[...path].js`
+- **Content Source**: GitHub raw URLs for production reliability
+- **Caching**: 30-minute TTL with module-level cache to reduce API calls
+- **File Structure**: `markdown/wardley_map_reports/` within book directories
+
+### Implementation Details
+```javascript
+// Dynamic path handling for Vercel serverless functions
+const wardleyPathArray = req.query.path || req.query['...path'];
+let fileName = Array.isArray(wardleyPathArray) 
+    ? wardleyPathArray.join('/') 
+    : wardleyPathArray;
+
+// Automatic directory path resolution
+if (fileName && !fileName.includes('/')) {
+    fileName = `markdown/wardley_map_reports/${fileName}`;
+}
+
+// GitHub raw URL construction for production
+const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
+const wardleyUrl = `${githubBaseUrl}/books/${book.directory}/${fileName}`;
+```
+
+### Caching Strategy
+- **Module-level cache**: Persists across function invocations
+- **Cache cleanup**: Automatic removal of expired entries
+- **Performance**: Reduces GitHub API calls and improves response times
+- **Reliability**: Fallback to fresh fetch if cache fails
+
 ## 💡 Tips for Claude Code
 
 When working with this project:
@@ -239,5 +289,7 @@ When working with this project:
 6. **Ensure book discovery** works with new content
 7. **Validate URL routing** handles edge cases
 8. **Check accessibility** features remain functional
+9. **Wardley Maps**: Test with different path formats and cache behavior
+10. **Vercel Deployment**: Consider function size limits and serverless constraints
 
 The codebase follows modern web development practices with clean separation of concerns, comprehensive error handling, and user-friendly features. The application is designed to be maintainable, extensible, and performant.

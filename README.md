@@ -67,6 +67,7 @@ GenAI-Books/
 - `GET /api/books` - List all available books with metadata
 - `GET /api/books/:id` - Get specific book details
 - `GET /api/books/:id/content` - Get book content in markdown format
+- `GET /api/wardley/:bookId/[...path]` - Get Wardley map reports for specific books
 
 ### Health & Utilities
 - `GET /api/health` - API health check and status
@@ -161,6 +162,10 @@ books/
 - **Marked.js**: Markdown to HTML parsing
 - **Prism.js**: Syntax highlighting for code blocks
 - **Web Share API**: Native mobile sharing support
+
+### Deployment
+- **Vercel**: Production hosting with serverless functions
+- **GitHub Integration**: Automated deployments from repository
 
 ### Development Tools
 - **Nodemon**: Auto-restart development server

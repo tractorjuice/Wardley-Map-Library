@@ -5,14 +5,42 @@ class BookService {
     constructor() {
         this.books = [];
         this.initialized = false;
+        this.booksDir = null;
     }
 
     async initialize() {
         if (this.initialized) return;
         
         try {
-            const booksDir = path.join(process.cwd(), 'books');
-            const items = await fs.readdir(booksDir);
+            // Try multiple possible paths for Vercel deployment
+            const possiblePaths = [
+                path.join(process.cwd(), 'books'),
+                path.join('/var/task', 'books'),
+                path.join('/vercel/path0', 'books'),
+                'books'
+            ];
+            
+            let booksDir = null;
+            let items = null;
+            
+            for (const possiblePath of possiblePaths) {
+                try {
+                    items = await fs.readdir(possiblePath);
+                    booksDir = possiblePath;
+                    console.log(`✅ Found books directory at: ${possiblePath}`);
+                    break;
+                } catch (error) {
+                    console.log(`❌ Tried path: ${possiblePath} - ${error.message}`);
+                }
+            }
+            
+            if (!booksDir) {
+                console.error('Could not find books directory in any expected location');
+                console.log('Current working directory:', process.cwd());
+                throw new Error('Books directory not found');
+            }
+            
+            this.booksDir = booksDir;
             
             this.books = [];
             

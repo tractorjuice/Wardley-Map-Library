@@ -1,8 +1,5 @@
 export default async function handler(req, res) {
-    // Set CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
     if (req.method === 'OPTIONS') {
         res.status(200).end();
@@ -11,16 +8,28 @@ export default async function handler(req, res) {
 
     try {
         const { id } = req.query;
-        
-        // Load the book manifest to get book info
         const fs = require('fs').promises;
         const path = require('path');
         
+        // Load the book manifest to get book info
         let manifestContent = null;
-        try {
-            manifestContent = await fs.readFile('books.json', 'utf8');
-        } catch (error) {
-            console.error('Could not load books manifest:', error);
+        const possibleManifestPaths = [
+            'books.json',
+            path.join(process.cwd(), 'books.json'),
+            path.join('/var/task', 'books.json'),
+            path.join('/vercel/path0', 'books.json')
+        ];
+        
+        for (const manifestPath of possibleManifestPaths) {
+            try {
+                manifestContent = await fs.readFile(manifestPath, 'utf8');
+                break;
+            } catch (error) {
+                continue;
+            }
+        }
+        
+        if (!manifestContent) {
             return res.status(500).json({
                 success: false,
                 error: 'Books manifest not found'
@@ -37,39 +46,35 @@ export default async function handler(req, res) {
             });
         }
         
-        // Since we can't access the books directory reliably in Vercel,
-        // we'll fetch content from GitHub raw URLs
-        const https = require('https');
-        const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
-        const bookUrl = `${githubBaseUrl}/books/${book.directory}/full_book.md`;
+        // Read book content directly from local filesystem
+        const possibleBookPaths = [
+            path.join('books', book.directory, 'full_book.md'),
+            path.join(process.cwd(), 'books', book.directory, 'full_book.md'),
+            path.join('/var/task', 'books', book.directory, 'full_book.md'),
+            path.join('/vercel/path0', 'books', book.directory, 'full_book.md')
+        ];
         
-        try {
-            const content = await new Promise((resolve, reject) => {
-                https.get(bookUrl, (response) => {
-                    if (response.statusCode !== 200) {
-                        reject(new Error(`HTTP ${response.statusCode}`));
-                        return;
-                    }
-                    
-                    let data = '';
-                    response.on('data', chunk => data += chunk);
-                    response.on('end', () => resolve(data));
-                    response.on('error', reject);
-                }).on('error', reject);
-            });
-            
-            res.status(200).json({
-                success: true,
-                content: content
-            });
-            
-        } catch (fetchError) {
-            console.error('Error fetching book from GitHub:', fetchError);
-            res.status(500).json({
+        let content = null;
+        for (const bookPath of possibleBookPaths) {
+            try {
+                content = await fs.readFile(bookPath, 'utf8');
+                break;
+            } catch (error) {
+                continue;
+            }
+        }
+        
+        if (!content) {
+            return res.status(404).json({
                 success: false,
-                error: 'Failed to fetch book content from repository'
+                error: 'Book content file not found'
             });
         }
+        
+        res.status(200).json({
+            success: true,
+            content: content
+        });
         
     } catch (error) {
         console.error('Error in book content API:', error);

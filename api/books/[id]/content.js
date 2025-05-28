@@ -39,16 +39,24 @@ export default async function handler(req, res) {
         
         // Since we can't access the books directory reliably in Vercel,
         // we'll fetch content from GitHub raw URLs
+        const https = require('https');
         const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
         const bookUrl = `${githubBaseUrl}/books/${book.directory}/full_book.md`;
         
         try {
-            const response = await fetch(bookUrl);
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}`);
-            }
-            
-            const content = await response.text();
+            const content = await new Promise((resolve, reject) => {
+                https.get(bookUrl, (response) => {
+                    if (response.statusCode !== 200) {
+                        reject(new Error(`HTTP ${response.statusCode}`));
+                        return;
+                    }
+                    
+                    let data = '';
+                    response.on('data', chunk => data += chunk);
+                    response.on('end', () => resolve(data));
+                    response.on('error', reject);
+                }).on('error', reject);
+            });
             
             res.status(200).json({
                 success: true,

@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-28T13:10:51.614Z",
+  "generated": "2025-05-28T17:17:53.774Z",
   "version": "1.0.0",
   "totalBooks": 36,
   "books": [
@@ -58,7 +58,7 @@
       "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
       "path": "/workspaces/GenAI-Books/books/Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "path": "/workspaces/GenAI-Books/books/Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d/full_book.md",
       "additionalFiles": [
         "README.md",
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -107,7 +107,7 @@
       "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
       "path": "/workspaces/GenAI-Books/books/Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -153,7 +153,7 @@
       "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
       "path": "/workspaces/GenAI-Books/books/Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -171,7 +171,7 @@
       "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
       "path": "/workspaces/GenAI-Books/books/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -201,7 +201,7 @@
       "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
       "path": "/workspaces/GenAI-Books/books/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -263,7 +263,7 @@
       "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
       "path": "/workspaces/GenAI-Books/books/The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {
@@ -307,7 +307,7 @@
       "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41/full_book.md",
       "additionalFiles": [
-        "markdown_wardley_map_reports/"
+        "markdown/"
       ]
     },
     {

@@ -28,11 +28,5 @@
         }
       ]
     }
-  ],
-  "ignore": [
-    "books/**",
-    "*.md",
-    "server.js",
-    "CLAUDE.md"
   ]
 }

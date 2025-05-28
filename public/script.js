@@ -92,6 +92,9 @@ class BooksLibrary {
         // Setup share button
         this.setupShareButton();
         
+        // Setup scroll to selected button
+        this.setupScrollToSelectedButton();
+        
         // Setup browser back/forward navigation
         window.addEventListener('popstate', (e) => {
             this.handlePopState(e);
@@ -220,6 +223,8 @@ class BooksLibrary {
             const selectedItem = document.querySelector(`[data-book-id="${book.id}"]`);
             if (selectedItem) {
                 selectedItem.classList.add('selected');
+                // Scroll the selected book into view in the sidebar
+                this.scrollBookIntoView(selectedItem);
             }
 
             // Show loading state
@@ -239,6 +244,9 @@ class BooksLibrary {
             }
             
             this.selectedBook = book;
+            
+            // Update scroll to selected button visibility
+            this.updateScrollToSelectedButton();
             
         } catch (error) {
             console.error('Error selecting book:', error);
@@ -501,6 +509,49 @@ class BooksLibrary {
         return div.innerHTML;
     }
 
+    scrollBookIntoView(bookElement) {
+        if (!bookElement) return;
+
+        const bookList = document.getElementById('bookList');
+        if (!bookList) return;
+
+        // Get the container and element positions
+        const containerRect = bookList.getBoundingClientRect();
+        const elementRect = bookElement.getBoundingClientRect();
+        
+        // Check if the element is already fully visible
+        const isVisible = (
+            elementRect.top >= containerRect.top &&
+            elementRect.bottom <= containerRect.bottom
+        );
+
+        if (!isVisible) {
+            // Calculate the scroll position to center the element
+            const elementOffsetTop = bookElement.offsetTop;
+            const containerHeight = bookList.clientHeight;
+            const elementHeight = bookElement.offsetHeight;
+            
+            // Center the element in the container
+            const targetScrollTop = elementOffsetTop - (containerHeight / 2) + (elementHeight / 2);
+            
+            // Smooth scroll to the target position
+            bookList.scrollTo({
+                top: targetScrollTop,
+                behavior: 'smooth'
+            });
+            
+            // Add highlight animation after scrolling
+            setTimeout(() => {
+                bookElement.classList.add('scroll-highlight');
+                
+                // Remove the highlight class after animation completes
+                setTimeout(() => {
+                    bookElement.classList.remove('scroll-highlight');
+                }, 1500);
+            }, 300); // Delay to let scroll animation start
+        }
+    }
+
     // URL routing methods
     handleInitialRoute() {
         const urlParams = new URLSearchParams(window.location.search);
@@ -609,6 +660,9 @@ class BooksLibrary {
         });
         
         this.selectedBook = null;
+        
+        // Update scroll to selected button visibility
+        this.updateScrollToSelectedButton();
     }
     
     // Share functionality
@@ -616,6 +670,33 @@ class BooksLibrary {
         const shareButton = document.getElementById('shareButton');
         if (shareButton) {
             shareButton.addEventListener('click', () => this.shareCurrentBook());
+        }
+    }
+    
+    setupScrollToSelectedButton() {
+        const scrollButton = document.getElementById('scrollToSelected');
+        if (scrollButton) {
+            scrollButton.addEventListener('click', () => this.scrollToCurrentlySelected());
+        }
+    }
+    
+    scrollToCurrentlySelected() {
+        if (!this.selectedBook) return;
+        
+        const selectedItem = document.querySelector(`[data-book-id="${this.selectedBook.id}"]`);
+        if (selectedItem) {
+            this.scrollBookIntoView(selectedItem);
+        }
+    }
+    
+    updateScrollToSelectedButton() {
+        const scrollButton = document.getElementById('scrollToSelected');
+        if (scrollButton) {
+            if (this.selectedBook) {
+                scrollButton.style.display = 'flex';
+            } else {
+                scrollButton.style.display = 'none';
+            }
         }
     }
     

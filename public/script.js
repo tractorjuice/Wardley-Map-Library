@@ -517,8 +517,14 @@ class BooksLibrary {
         let bookId = this.selectedBook ? this.selectedBook.id : null;
         let wardleyPath = href;
         
+        // Handle relative paths: markdown/wardley_map_reports/[filename]
+        if (href.includes('markdown/wardley_map_reports/') && !href.includes('books/')) {
+            wardleyPath = href.split('markdown/wardley_map_reports/')[1];
+            // Use the currently selected book's ID
+            bookId = this.selectedBook ? this.selectedBook.id : null;
+        }
         // Handle GitHub file structure: books/[directory]/markdown/wardley_map_reports/[filename]
-        if (href.includes('books/') && href.includes('/markdown/wardley_map_reports/')) {
+        else if (href.includes('books/') && href.includes('/markdown/wardley_map_reports/')) {
             const bookDirMatch = href.match(/books\/([^\/]+)\/markdown\/wardley_map_reports\/(.+)/);
             if (bookDirMatch) {
                 const bookDirectory = bookDirMatch[1];

@@ -9,7 +9,7 @@ export default async function handler(req, res) {
     try {
         // In Vercel dynamic routes, parameters come from req.query
         const { bookId } = req.query;
-        const wardleyPathArray = req.query.path; // This is the [...path] part
+        const wardleyPathArray = req.query.path || req.query['...path']; // Handle both possible formats
         
         // Handle different possible formats
         let fileName;
@@ -34,6 +34,12 @@ export default async function handler(req, res) {
         console.log('DEBUG: req.query =', req.query);
         console.log('DEBUG: wardleyPathArray =', wardleyPathArray);  
         console.log('DEBUG: final fileName =', fileName);
+        
+        // If fileName doesn't include the directory path, add it
+        if (fileName && !fileName.includes('/')) {
+            fileName = `markdown/wardley_map_reports/${fileName}`;
+            console.log('DEBUG: Added directory path, new fileName =', fileName);
+        }
 
         if (!bookId) {
             return res.status(400).json({

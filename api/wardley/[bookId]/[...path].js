@@ -7,12 +7,30 @@ export default async function handler(req, res) {
     }
 
     try {
+        // Debug: Log the entire request
+        console.log('Full request query:', req.query);
+        console.log('Request URL:', req.url);
+        
         // In Vercel dynamic routes, parameters come from req.query
         const { bookId } = req.query;
         const wardleyPathArray = req.query.path; // This is the [...path] part
-        const fileName = Array.isArray(wardleyPathArray) ? wardleyPathArray.join('/') : wardleyPathArray;
-
-        console.log('Wardley API called with:', { bookId, wardleyPathArray, fileName });
+        
+        // Handle different possible formats
+        let fileName;
+        if (Array.isArray(wardleyPathArray)) {
+            fileName = wardleyPathArray.join('/');
+        } else if (wardleyPathArray) {
+            fileName = wardleyPathArray;
+        } else {
+            // Try to extract from URL as fallback
+            const urlParts = req.url.split('/');
+            const apiIndex = urlParts.findIndex(part => part === 'wardley');
+            if (apiIndex >= 0 && urlParts.length > apiIndex + 2) {
+                fileName = urlParts.slice(apiIndex + 2).join('/');
+            }
+        }
+        
+        console.log('Wardley API called with:', { bookId, wardleyPathArray, fileName, extractedFromUrl: req.url });
 
         if (!bookId) {
             return res.status(400).json({
@@ -24,7 +42,13 @@ export default async function handler(req, res) {
         if (!fileName) {
             return res.status(400).json({
                 success: false,
-                error: 'Missing file path parameter'
+                error: 'Missing file path parameter',
+                debug: {
+                    bookId,
+                    wardleyPathArray,
+                    queryKeys: Object.keys(req.query),
+                    url: req.url
+                }
             });
         }
 

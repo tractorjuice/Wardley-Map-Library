@@ -8,6 +8,10 @@
     {
       "source": "/api/(.*)",
       "destination": "/api/$1"
+    },
+    {
+      "source": "/markdown/wardley_map_reports/(.*)",
+      "destination": "/api/markdown/wardley_map_reports/$1"
     }
   ],
   "headers": [

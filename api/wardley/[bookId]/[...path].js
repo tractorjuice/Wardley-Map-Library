@@ -93,8 +93,23 @@ export default async function handler(req, res) {
             });
         }
 
+        // Check what's actually available in the function environment
+        try {
+            console.log('Current working directory:', process.cwd());
+            const cwdContents = await fs.readdir(process.cwd());
+            console.log('Contents of cwd:', cwdContents);
+            
+            if (cwdContents.includes('books')) {
+                const booksContents = await fs.readdir('books');
+                console.log('Contents of books directory:', booksContents.slice(0, 3));
+            }
+        } catch (err) {
+            console.log('Error checking environment:', err.message);
+        }
+        
         // Try just the most likely path to avoid bundling too much
         const wardleyPath = path.join('books', book.directory, fileName);
+        console.log('Trying to read:', wardleyPath);
         
         try {
             const content = await fs.readFile(wardleyPath, 'utf8');

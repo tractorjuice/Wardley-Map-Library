@@ -30,6 +30,10 @@ export default async function handler(req, res) {
         if (fileName && fileName.includes('?')) {
             fileName = fileName.split('?')[0];
         }
+        
+        console.log('DEBUG: req.query =', req.query);
+        console.log('DEBUG: wardleyPathArray =', wardleyPathArray);  
+        console.log('DEBUG: final fileName =', fileName);
 
         if (!bookId) {
             return res.status(400).json({

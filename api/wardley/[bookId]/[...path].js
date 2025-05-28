@@ -23,11 +23,16 @@ export default async function handler(req, res) {
             fileName = wardleyPathArray;
         } else {
             // Try to extract from URL as fallback
-            const urlParts = req.url.split('/');
+            const urlParts = req.url.split('?')[0].split('/'); // Remove query params first
             const apiIndex = urlParts.findIndex(part => part === 'wardley');
             if (apiIndex >= 0 && urlParts.length > apiIndex + 2) {
                 fileName = urlParts.slice(apiIndex + 2).join('/');
             }
+        }
+        
+        // Clean any remaining query parameters from fileName
+        if (fileName && fileName.includes('?')) {
+            fileName = fileName.split('?')[0];
         }
         
         console.log('Wardley API called with:', { bookId, wardleyPathArray, fileName, extractedFromUrl: req.url });

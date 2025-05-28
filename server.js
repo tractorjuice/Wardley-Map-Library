@@ -232,6 +232,59 @@ app.get('/api/health', (req, res) => {
     });
 });
 
+// Generate sitemap.xml for SEO
+app.get('/sitemap.xml', async (req, res) => {
+    try {
+        await bookService.initialize();
+        const books = bookService.getBooks();
+        
+        const baseUrl = req.protocol + '://' + req.get('host');
+        const currentDate = new Date().toISOString().split('T')[0];
+        
+        let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>${baseUrl}/</loc>
+        <lastmod>${currentDate}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>`;
+
+        // Add each book as a separate URL
+        books.forEach(book => {
+            sitemap += `
+    <url>
+        <loc>${baseUrl}/?book=${encodeURIComponent(book.id)}</loc>
+        <lastmod>${currentDate}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>`;
+        });
+
+        sitemap += '\n</urlset>';
+        
+        res.set('Content-Type', 'application/xml');
+        res.send(sitemap);
+        
+    } catch (error) {
+        console.error('Error generating sitemap:', error);
+        res.status(500).send('Error generating sitemap');
+    }
+});
+
+// Generate robots.txt for SEO
+app.get('/robots.txt', (req, res) => {
+    const baseUrl = req.protocol + '://' + req.get('host');
+    const robotsTxt = `User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: ${baseUrl}/sitemap.xml`;
+    
+    res.set('Content-Type', 'text/plain');
+    res.send(robotsTxt);
+});
+
 // Fetch individual Wardley map content
 app.get('/api/wardley/:bookId/*', async (req, res) => {
     try {

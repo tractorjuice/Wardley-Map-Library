@@ -245,6 +245,9 @@ class BooksLibrary {
             
             this.selectedBook = book;
             
+            // Update meta tags for SEO
+            this.updateMetaTags(book);
+            
             // Update scroll to selected button visibility
             this.updateScrollToSelectedButton();
             
@@ -661,6 +664,9 @@ class BooksLibrary {
         
         this.selectedBook = null;
         
+        // Reset meta tags to default
+        this.resetMetaTags();
+        
         // Update scroll to selected button visibility
         this.updateScrollToSelectedButton();
     }
@@ -698,6 +704,114 @@ class BooksLibrary {
                 scrollButton.style.display = 'none';
             }
         }
+    }
+    
+    updateMetaTags(book) {
+        if (!book) return;
+        
+        // Update page title
+        document.title = `${book.title} - GenAI Books Library`;
+        
+        // Update meta description
+        const description = `Read "${book.title}" - ${book.category} insights in the GenAI Books Library. Comprehensive collection of AI, technology, and business strategy resources with interactive features.`;
+        this.updateMetaTag('description', description);
+        
+        // Update Open Graph tags
+        this.updateMetaTag('og:title', `${book.title} - GenAI Books Library`);
+        this.updateMetaTag('og:description', description);
+        this.updateMetaTag('og:url', `${window.location.origin}${window.location.pathname}?book=${book.id}`);
+        
+        // Update Twitter tags
+        this.updateMetaTag('twitter:title', `${book.title} - GenAI Books Library`);
+        this.updateMetaTag('twitter:description', description);
+        this.updateMetaTag('twitter:url', `${window.location.origin}${window.location.pathname}?book=${book.id}`);
+        
+        // Update canonical URL
+        this.updateCanonicalUrl(`${window.location.origin}${window.location.pathname}?book=${book.id}`);
+        
+        // Update structured data
+        this.updateStructuredData(book);
+    }
+    
+    updateMetaTag(name, content) {
+        let selector = `meta[name="${name}"]`;
+        if (name.startsWith('og:') || name.startsWith('twitter:')) {
+            selector = `meta[property="${name}"]`;
+        }
+        
+        let metaTag = document.querySelector(selector);
+        if (metaTag) {
+            metaTag.setAttribute('content', content);
+        } else {
+            // Create new meta tag if it doesn't exist
+            metaTag = document.createElement('meta');
+            if (name.startsWith('og:') || name.startsWith('twitter:')) {
+                metaTag.setAttribute('property', name);
+            } else {
+                metaTag.setAttribute('name', name);
+            }
+            metaTag.setAttribute('content', content);
+            document.head.appendChild(metaTag);
+        }
+    }
+    
+    updateCanonicalUrl(url) {
+        let canonical = document.querySelector('link[rel="canonical"]');
+        if (canonical) {
+            canonical.setAttribute('href', url);
+        } else {
+            canonical = document.createElement('link');
+            canonical.setAttribute('rel', 'canonical');
+            canonical.setAttribute('href', url);
+            document.head.appendChild(canonical);
+        }
+    }
+    
+    updateStructuredData(book) {
+        // Remove existing structured data
+        const existingSchema = document.querySelector('script[type="application/ld+json"]');
+        if (existingSchema) {
+            existingSchema.remove();
+        }
+        
+        // Create new structured data for the book
+        const structuredData = {
+            "@context": "https://schema.org",
+            "@type": "Book",
+            "name": book.title,
+            "description": `${book.title} - ${book.category} insights and strategic frameworks`,
+            "url": `${window.location.origin}${window.location.pathname}?book=${book.id}`,
+            "genre": book.category,
+            "inLanguage": "en",
+            "isAccessibleForFree": true,
+            "publisher": {
+                "@type": "Organization",
+                "name": "GenAI Books Library"
+            },
+            "mainEntity": {
+                "@type": "WebPage",
+                "name": book.title,
+                "url": `${window.location.origin}${window.location.pathname}?book=${book.id}`
+            }
+        };
+        
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.textContent = JSON.stringify(structuredData, null, 2);
+        document.head.appendChild(script);
+    }
+    
+    resetMetaTags() {
+        // Reset to default when no book is selected
+        document.title = 'GenAI Books Library - Comprehensive AI, Technology & Business Strategy Collection';
+        
+        const defaultDescription = 'Explore 36+ comprehensive books on AI, generative AI, business strategy, healthcare innovation, sustainability, and technology. Features Wardley mapping, strategic frameworks, and cutting-edge insights for professionals and researchers.';
+        this.updateMetaTag('description', defaultDescription);
+        this.updateMetaTag('og:title', 'GenAI Books Library - AI & Technology Book Collection');
+        this.updateMetaTag('og:description', 'Comprehensive collection of 36+ books on AI, technology, and business strategy with interactive features and Wardley mapping insights.');
+        this.updateMetaTag('og:url', `${window.location.origin}${window.location.pathname}`);
+        
+        this.updateCanonicalUrl(`${window.location.origin}${window.location.pathname}`);
     }
     
     async shareCurrentBook() {

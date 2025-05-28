@@ -83,8 +83,15 @@ export default async function handler(req, res) {
             });
         }
 
-        // Use the same path resolution approach as the working book content API
+        // Handle the case where fileName already includes the directory path
+        // e.g., "markdown/wardley_map_reports/wardley_map_report_01.md"
         const possibleWardleyPaths = [
+            // Direct path if fileName includes directory structure
+            path.join('books', book.directory, fileName),
+            path.join(process.cwd(), 'books', book.directory, fileName),
+            path.join('/var/task', 'books', book.directory, fileName),
+            path.join('/vercel/path0', 'books', book.directory, fileName),
+            // Fallback paths if fileName is just the filename
             path.join('books', book.directory, 'markdown_wardley_map_reports', fileName),
             path.join('books', book.directory, 'markdown', 'wardley_map_reports', fileName),
             path.join('books', book.directory, 'markdown', 'markdown_wardley_map_reports', fileName),
@@ -107,7 +114,7 @@ export default async function handler(req, res) {
                 console.log('SUCCESS: Found file at', wardleyPath);
                 break;
             } catch (error) {
-                if (wardleyPath.includes('markdown/wardley_map_reports')) {
+                if (wardleyPath.includes(fileName) && wardleyPath.includes('books')) {
                     console.log('FAILED:', wardleyPath, error.code);
                 }
                 continue;

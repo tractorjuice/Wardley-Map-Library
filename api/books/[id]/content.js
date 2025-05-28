@@ -55,11 +55,14 @@ export default async function handler(req, res) {
         ];
         
         let content = null;
+        console.log('Book content API looking for:', book.directory, '/full_book.md');
         for (const bookPath of possibleBookPaths) {
             try {
                 content = await fs.readFile(bookPath, 'utf8');
+                console.log('Book content SUCCESS: Found file at', bookPath);
                 break;
             } catch (error) {
+                console.log('Book content FAILED:', bookPath, error.code);
                 continue;
             }
         }

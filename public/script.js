@@ -479,6 +479,8 @@ class BooksLibrary {
         
         // Check if it's a link to a wardley map report markdown file
         return (
+            href.includes('books/') && href.includes('/markdown/wardley_map_reports/') ||
+            href.includes('/wardley/') ||
             href.includes('/markdown/wardley_map_reports/') ||
             href.includes('/markdown_wardley_map_reports/') ||
             href.includes('wardley_map_report_') && href.endsWith('.md')
@@ -512,13 +514,33 @@ class BooksLibrary {
     }
     
     openWardleyFromLink(href, title) {
-        if (!this.selectedBook) return;
-        
-        // Extract the file path from the URL
+        let bookId = this.selectedBook ? this.selectedBook.id : null;
         let wardleyPath = href;
         
-        // Remove domain and leading path if it's a full URL
-        if (href.includes('/markdown/wardley_map_reports/')) {
+        // Handle GitHub file structure: books/[directory]/markdown/wardley_map_reports/[filename]
+        if (href.includes('books/') && href.includes('/markdown/wardley_map_reports/')) {
+            const bookDirMatch = href.match(/books\/([^\/]+)\/markdown\/wardley_map_reports\/(.+)/);
+            if (bookDirMatch) {
+                const bookDirectory = bookDirMatch[1];
+                wardleyPath = bookDirMatch[2];
+                
+                // Convert directory name to book ID (same logic as in manifest generation)
+                bookId = bookDirectory
+                    .toLowerCase()
+                    .replace(/__/g, '-')
+                    .replace(/_/g, '-');
+            }
+        }
+        // Handle API format: /wardley/[book-id]/[filename]
+        else if (href.includes('/wardley/')) {
+            const wardleyMatch = href.match(/\/wardley\/([^\/]+)\/(.+)/);
+            if (wardleyMatch) {
+                bookId = wardleyMatch[1];
+                wardleyPath = wardleyMatch[2];
+            }
+        }
+        // Handle legacy formats
+        else if (href.includes('/markdown/wardley_map_reports/')) {
             wardleyPath = href.split('/markdown/wardley_map_reports/')[1];
         } else if (href.includes('/markdown_wardley_map_reports/')) {
             wardleyPath = href.split('/markdown_wardley_map_reports/')[1];
@@ -527,13 +549,18 @@ class BooksLibrary {
             wardleyPath = href.split('/').pop();
         }
         
+        if (!bookId) {
+            console.error('Cannot determine book ID for Wardley map link:', href);
+            return;
+        }
+        
         // Clean up the title
         const cleanTitle = title.trim() || 'Wardley Map Details';
         
-        console.log(`Opening Wardley details: ${wardleyPath} for book ${this.selectedBook.id}`);
+        console.log(`Opening Wardley details: ${wardleyPath} for book ${bookId}`);
         
         // Open the Wardley details panel
-        this.openWardleyDetails(this.selectedBook.id, wardleyPath, cleanTitle);
+        this.openWardleyDetails(bookId, wardleyPath, cleanTitle);
     }
     
     isExternalLink(href) {

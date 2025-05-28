@@ -336,7 +336,7 @@ In the next sections, we'll examine the origins and evolution of Wardley Mapping
 
 > This Wardley Map reveals Wardley Mapping as an evolving, powerful tool for strategic planning, particularly valuable for startups. It offers significant advantages over traditional methods in areas like market anticipation and innovation focus. However, to reach its full potential, efforts should be made to increase adoption, improve ease of use, and integrate with complementary technologies and methodologies. The future of Wardley Mapping looks promising, with potential to become a central component in modern strategic planning processes.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_What_is_Wardley_Mapping.md)
+> [View full Wardley Map report](books/Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41/markdown/wardley_map_reports/wardley_map_report_04_What_is_Wardley_Mapping.md)
 
 
 

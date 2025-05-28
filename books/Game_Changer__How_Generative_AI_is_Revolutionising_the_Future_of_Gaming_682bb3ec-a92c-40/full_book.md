@@ -251,7 +251,7 @@ As we look to the future, the potential applications of Generative AI in gaming 
 
 > This Wardley Map reveals a gaming industry on the cusp of an AI-driven revolution. The strategic positioning of Generative AI as a central component indicates its transformative potential across all aspects of game design. However, the map also highlights the critical need to address ethical considerations and personalization as key challenges and opportunities. Companies that can successfully navigate the evolution of AI technologies while maintaining a strong focus on player experience and ethical implementation will likely emerge as leaders in this new era of gaming. The rapid evolution of components like Personalization and Game Worlds suggests areas for potential differentiation and innovation. Overall, the map points to a future where the boundaries between game design, AI, and player experience become increasingly blurred, necessitating a holistic, ethically-grounded approach to game development.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_What_is_Generative_AI.md)
+> [View full Wardley Map report](books/Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40/markdown/wardley_map_reports/wardley_map_report_03_What_is_Generative_AI.md)
 
 The Wardley Map above illustrates the evolution of game design components as they move from genesis to commodity with the integration of Generative AI. It highlights how traditional elements of game design are being transformed and new possibilities are emerging, reshaping the industry landscape.
 

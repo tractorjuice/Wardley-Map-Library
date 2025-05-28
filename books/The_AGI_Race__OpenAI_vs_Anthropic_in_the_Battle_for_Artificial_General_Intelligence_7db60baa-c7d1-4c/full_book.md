@@ -147,7 +147,7 @@ The following sections will delve deeper into the specific strategies, technolog
 
 > The AGI Development Landscape, as represented by this Wardley Map, showcases a field on the cusp of transformative breakthroughs. The positioning of AGI, AI Alignment, and Ethics/Safety as high-value, low-evolution components underscores both the immense potential and significant challenges ahead. OpenAI and Anthropic are well-positioned to lead this development, but success will require not just technical innovation, but also careful navigation of ethical, safety, and governance challenges. The critical path to AGI runs through AI Alignment and Ethics/Safety, making these areas as important as core technical capabilities. As the field evolves rapidly, maintaining a balance between competitive advancement and responsible development will be crucial. The potential impacts across various domains (healthcare, environment, governance) highlight the transformative potential of AGI, but also the need for a holistic, society-wide approach to its development and deployment. Strategic focus should be on accelerating progress in AI Alignment and Ethics/Safety while continuing to push the boundaries of core AGI capabilities, all within a framework of robust risk management and governance.
 
-> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_What_is_Artificial_General_Intelligence.md)
+> [View full Wardley Map report](books/The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c/markdown/wardley_map_reports/wardley_map_report_01_What_is_Artificial_General_Intelligence.md)
 
 
 

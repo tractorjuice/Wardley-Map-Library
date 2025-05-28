@@ -1,0 +1,24 @@
+{
+  "name": "wardley-map-library",
+  "version": "1.0.0",
+  "description": "A comprehensive library of Wardley Mapping resources, books, and strategic analysis reports",
+  "main": "api/index.js",
+  "scripts": {
+    "build": "echo \"Build completed\"",
+    "vercel-build": "echo \"Vercel build completed\"",
+    "generate-manifest": "node generate-manifest.js"
+  },
+  "keywords": [
+    "wardley-mapping",
+    "strategic-analysis",
+    "business-strategy",
+    "library",
+    "vercel",
+    "serverless"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^4.3.0"
+  }
+}

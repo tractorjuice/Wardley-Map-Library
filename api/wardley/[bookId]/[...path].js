@@ -83,55 +83,22 @@ export default async function handler(req, res) {
             });
         }
 
-        // Handle the case where fileName already includes the directory path
-        // e.g., "markdown/wardley_map_reports/wardley_map_report_01.md"
-        const possibleWardleyPaths = [
-            // Direct path if fileName includes directory structure
-            path.join('books', book.directory, fileName),
-            path.join(process.cwd(), 'books', book.directory, fileName),
-            path.join('/var/task', 'books', book.directory, fileName),
-            path.join('/vercel/path0', 'books', book.directory, fileName),
-            // Fallback paths if fileName is just the filename
-            path.join('books', book.directory, 'markdown_wardley_map_reports', fileName),
-            path.join('books', book.directory, 'markdown', 'wardley_map_reports', fileName),
-            path.join('books', book.directory, 'markdown', 'markdown_wardley_map_reports', fileName),
-            path.join(process.cwd(), 'books', book.directory, 'markdown_wardley_map_reports', fileName),
-            path.join(process.cwd(), 'books', book.directory, 'markdown', 'wardley_map_reports', fileName),
-            path.join(process.cwd(), 'books', book.directory, 'markdown', 'markdown_wardley_map_reports', fileName),
-            path.join('/var/task', 'books', book.directory, 'markdown_wardley_map_reports', fileName),
-            path.join('/var/task', 'books', book.directory, 'markdown', 'wardley_map_reports', fileName),
-            path.join('/var/task', 'books', book.directory, 'markdown', 'markdown_wardley_map_reports', fileName),
-            path.join('/vercel/path0', 'books', book.directory, 'markdown_wardley_map_reports', fileName),
-            path.join('/vercel/path0', 'books', book.directory, 'markdown', 'wardley_map_reports', fileName),
-            path.join('/vercel/path0', 'books', book.directory, 'markdown', 'markdown_wardley_map_reports', fileName)
-        ];
-
-        let content = null;
-        console.log('Looking for:', fileName, 'in book:', book.directory);
-        for (const wardleyPath of possibleWardleyPaths) {
-            try {
-                content = await fs.readFile(wardleyPath, 'utf8');
-                console.log('SUCCESS: Found file at', wardleyPath);
-                break;
-            } catch (error) {
-                if (wardleyPath.includes(fileName) && wardleyPath.includes('books')) {
-                    console.log('FAILED:', wardleyPath, error.code);
-                }
-                continue;
-            }
-        }
-
-        if (!content) {
-            return res.status(404).json({
+        // Try just the most likely path to avoid bundling too much
+        const wardleyPath = path.join('books', book.directory, fileName);
+        
+        try {
+            const content = await fs.readFile(wardleyPath, 'utf8');
+            res.status(200).json({
+                success: true,
+                content: content
+            });
+        } catch (error) {
+            console.error('Error reading Wardley map:', error);
+            res.status(404).json({
                 success: false,
                 error: 'Wardley map file not found'
             });
         }
-
-        res.status(200).json({
-            success: true,
-            content: content
-        });
 
     } catch (error) {
         console.error('Error in Wardley API:', error);

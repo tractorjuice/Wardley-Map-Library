@@ -93,32 +93,35 @@ export default async function handler(req, res) {
             });
         }
 
-        // Check what's actually available in the function environment
+        // Since books directory is not deployed to Vercel, use GitHub raw URLs
+        const https = require('https');
+        const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
+        const wardleyUrl = `${githubBaseUrl}/books/${book.directory}/${fileName}`;
+        
+        console.log('Fetching Wardley map from GitHub:', wardleyUrl);
+        
         try {
-            console.log('Current working directory:', process.cwd());
-            const cwdContents = await fs.readdir(process.cwd());
-            console.log('Contents of cwd:', cwdContents);
+            const content = await new Promise((resolve, reject) => {
+                https.get(wardleyUrl, (response) => {
+                    if (response.statusCode !== 200) {
+                        reject(new Error(`HTTP ${response.statusCode}`));
+                        return;
+                    }
+                    
+                    let data = '';
+                    response.on('data', chunk => data += chunk);
+                    response.on('end', () => resolve(data));
+                    response.on('error', reject);
+                }).on('error', reject);
+            });
             
-            if (cwdContents.includes('books')) {
-                const booksContents = await fs.readdir('books');
-                console.log('Contents of books directory:', booksContents.slice(0, 3));
-            }
-        } catch (err) {
-            console.log('Error checking environment:', err.message);
-        }
-        
-        // Try just the most likely path to avoid bundling too much
-        const wardleyPath = path.join('books', book.directory, fileName);
-        console.log('Trying to read:', wardleyPath);
-        
-        try {
-            const content = await fs.readFile(wardleyPath, 'utf8');
             res.status(200).json({
                 success: true,
                 content: content
             });
-        } catch (error) {
-            console.error('Error reading Wardley map:', error);
+            
+        } catch (fetchError) {
+            console.error('Error fetching Wardley map from GitHub:', fetchError);
             res.status(404).json({
                 success: false,
                 error: 'Wardley map file not found'

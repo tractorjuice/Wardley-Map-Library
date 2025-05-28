@@ -153,6 +153,45 @@ export default async function handler(req, res) {
         }
         
         console.log('Will try', possibleWardleyPaths.length, 'possible paths');
+        
+        // Debug: Let's see what's actually in the filesystem
+        try {
+            const fs = require('fs').promises;
+            console.log('Current working directory:', process.cwd());
+            
+            // Check if books directory exists
+            const booksPath = path.join('/var/task', 'books');
+            try {
+                const booksDirContents = await fs.readdir(booksPath);
+                console.log('Books directory exists at /var/task/books, contains:', booksDirContents.length, 'items');
+                
+                // Check if the specific book directory exists
+                const specificBookPath = path.join(booksPath, book.directory);
+                try {
+                    const bookContents = await fs.readdir(specificBookPath);
+                    console.log('Book directory contents:', bookContents);
+                    
+                    // Check for markdown subdirectories
+                    if (bookContents.includes('markdown')) {
+                        const markdownPath = path.join(specificBookPath, 'markdown');
+                        const markdownContents = await fs.readdir(markdownPath);
+                        console.log('Markdown directory contents:', markdownContents);
+                        
+                        if (markdownContents.includes('wardley_map_reports')) {
+                            const wardleyPath = path.join(markdownPath, 'wardley_map_reports');
+                            const wardleyContents = await fs.readdir(wardleyPath);
+                            console.log('Wardley reports directory contents:', wardleyContents.slice(0, 5));
+                        }
+                    }
+                } catch (err) {
+                    console.log('Could not read book directory:', err.message);
+                }
+            } catch (err) {
+                console.log('Books directory not found at /var/task/books:', err.message);
+            }
+        } catch (err) {
+            console.log('Error during filesystem debug:', err.message);
+        }
 
         let content = null;
         let foundPath = null;

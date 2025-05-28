@@ -105,17 +105,44 @@ export default async function handler(req, res) {
         for (const basePath of possibleBasePaths) {
             const bookDir = path.join(basePath, 'books', book.directory);
             
-            // Add more path variations based on actual directory structure
-            const pathVariations = [
-                path.join(bookDir, 'markdown_wardley_map_reports', fileName),
-                path.join(bookDir, 'markdown', 'wardley_map_reports', fileName),
-                path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName),
-                path.join(bookDir, fileName),
-                // Try without .md extension if it's missing
-                path.join(bookDir, 'markdown_wardley_map_reports', fileName + '.md'),
-                path.join(bookDir, 'markdown', 'wardley_map_reports', fileName + '.md'),
-                path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName + '.md')
-            ];
+            // Check if fileName already includes the directory path
+            let baseFileName = fileName;
+            let isAlreadyWithPath = false;
+            
+            if (fileName.includes('markdown_wardley_map_reports/') || 
+                fileName.includes('wardley_map_reports/')) {
+                // fileName already includes the directory path
+                isAlreadyWithPath = true;
+                baseFileName = fileName.split('/').pop(); // Get just the filename
+            }
+            
+            const pathVariations = [];
+            
+            if (isAlreadyWithPath) {
+                // Try the full path as provided
+                pathVariations.push(path.join(bookDir, fileName));
+            } else {
+                // Try adding directory paths
+                pathVariations.push(
+                    path.join(bookDir, 'markdown_wardley_map_reports', fileName),
+                    path.join(bookDir, 'markdown', 'wardley_map_reports', fileName),
+                    path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName),
+                    path.join(bookDir, fileName)
+                );
+            }
+            
+            // Always try with .md extension if missing
+            if (!baseFileName.endsWith('.md')) {
+                if (isAlreadyWithPath) {
+                    pathVariations.push(path.join(bookDir, fileName + '.md'));
+                } else {
+                    pathVariations.push(
+                        path.join(bookDir, 'markdown_wardley_map_reports', fileName + '.md'),
+                        path.join(bookDir, 'markdown', 'wardley_map_reports', fileName + '.md'),
+                        path.join(bookDir, 'markdown', 'markdown_wardley_map_reports', fileName + '.md')
+                    );
+                }
+            }
             
             possibleWardleyPaths.push(...pathVariations);
         }

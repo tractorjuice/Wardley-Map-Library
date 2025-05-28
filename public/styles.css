@@ -41,6 +41,7 @@ header p {
     flex: 1;
     height: calc(100vh - 160px);
     position: relative;
+    overflow: hidden; /* This is key - prevents the container itself from scrolling */
 }
 
 .book-list {
@@ -49,8 +50,12 @@ header p {
     max-width: 600px;
     background: white;
     overflow-y: auto;
+    overflow-x: hidden;
     padding: 1.5rem;
     box-shadow: 2px 0 10px rgba(0,0,0,0.05);
+    flex-shrink: 0; /* Prevent the sidebar from shrinking */
+    height: 100%; /* Ensure it takes full height of container */
+    max-height: calc(100vh - 160px); /* Explicit max height to ensure scroll container */
 }
 
 .splitter {
@@ -297,7 +302,11 @@ header p {
     flex: 1;
     padding: 2rem;
     overflow-y: auto;
+    overflow-x: hidden;
     background: white;
+    height: 100%; /* Ensure it takes full height of container */
+    max-height: calc(100vh - 160px); /* Explicit max height to ensure scroll container */
+    position: relative; /* Establish containing block for absolute positioning */
 }
 
 .welcome {
@@ -550,9 +559,13 @@ header p {
     max-width: 600px;
     background: white;
     overflow-y: auto;
+    overflow-x: hidden;
     border-left: 1px solid #e9ecef;
     display: flex;
     flex-direction: column;
+    height: 100%; /* Ensure it takes full height of container */
+    max-height: calc(100vh - 160px); /* Explicit max height to ensure scroll container */
+    flex-shrink: 0; /* Prevent shrinking */
 }
 
 .wardley-header {
@@ -689,6 +702,7 @@ header p {
     .main-content {
         flex-direction: column;
         height: auto;
+        overflow: visible; /* Allow normal overflow on mobile */
     }
     
     .book-list {
@@ -696,6 +710,8 @@ header p {
         max-height: 300px;
         min-width: auto !important;
         max-width: none !important;
+        height: auto !important; /* Override height on mobile */
+        max-height: 300px !important; /* Override max-height on mobile */
     }
     
     .splitter,
@@ -705,17 +721,22 @@ header p {
     
     .book-content {
         padding: 1rem;
+        height: auto !important; /* Override height on mobile */
+        max-height: none !important; /* Override max-height on mobile */
+        overflow: visible; /* Allow normal overflow on mobile */
     }
     
     .wardley-details {
         width: 100% !important;
         min-width: auto !important;
         max-width: none !important;
-        max-height: 400px;
+        max-height: 400px !important; /* Override max-height on mobile */
+        height: auto !important; /* Override height on mobile */
     }
     
     .wardley-text {
         padding: 1rem;
+        overflow: visible; /* Allow normal overflow on mobile */
     }
     
     header h1 {

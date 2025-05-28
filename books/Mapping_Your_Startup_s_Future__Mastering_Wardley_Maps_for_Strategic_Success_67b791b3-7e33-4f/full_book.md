@@ -116,7 +116,7 @@ Another core concept of Wardley Mapping that resonates strongly with startups is
 
 > This Wardley Map reveals a startup ecosystem that is well-structured but with significant opportunities for optimization. The strategic positioning of Wardley Mapping and Innovation as evolving components suggests a forward-thinking approach. However, there's room for better integration of these elements with Strategic Planning and Market Position. The ecosystem shows a good balance between foundational elements and higher-level strategic components, but could benefit from more explicit connections between Innovation and market-facing elements. To maintain competitiveness, the startup should focus on accelerating the evolution of key components like Wardley Mapping and Innovation, while also preparing for the commoditization of currently custom-built practices. The emphasis on Team Alignment and Partnerships indicates a collaborative approach, which should be leveraged for ecosystem-wide innovation and growth. Overall, the map represents a startup poised for growth, with clear areas for strategic improvement and innovation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_01_Origins_and_core_concepts.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_Origins_and_core_concepts.md)
 
 The application of Wardley Mapping in startups extends beyond strategic planning to areas such as product development, market positioning, and resource allocation. By mapping out their product features and comparing them to user needs and market evolution, startups can prioritise development efforts and identify areas for innovation. Similarly, by understanding the evolutionary stage of different components in their value chain, startups can make informed decisions about which elements to develop in-house and which to outsource or acquire through partnerships.
 
@@ -166,7 +166,7 @@ Moreover, Wardley Mapping can be a powerful tool for scenario planning, an essen
 
 > This Wardley Map illustrates a startup ecosystem that is strategically focused on user needs and agile decision-making, with Wardley Mapping playing a crucial role in informing strategy. The positioning of components suggests a good foundation for value creation, but there are opportunities to enhance innovation, partnerships, and long-term resilience. The explicit inclusion of Wardley Mapping as a strategic tool underscores its particular value for startups in navigating complex, rapidly evolving environments. To maintain competitiveness, the startup should focus on evolving its innovation capabilities, strengthening partnerships, and preparing for the commoditization of current technological advantages.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_02_Why_Wardley_Mapping_is_particularly_valuable_for_s.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_Why_Wardley_Mapping_is_particularly_valuable_for_s.md)
 
 It's worth noting that while Wardley Mapping offers numerous benefits, it does require an investment of time and effort to master. However, for startups, this investment can pay significant dividends in terms of strategic clarity, operational efficiency, and competitive advantage. The technique's emphasis on visual thinking and iterative strategy development aligns well with the fast-paced, adaptive nature of startup environments.
 
@@ -224,7 +224,7 @@ By embracing Wardley Mapping, startups can transform these challenges into oppor
 
 > This Wardley Map reveals the complex challenges faced by startups, highlighting the tension between meeting immediate market needs and building long-term strategic capabilities. The positioning of components suggests most startups are adept at understanding user needs and engaging with markets but struggle with scaling and strategic planning. The inclusion of Wardley Mapping as an emerging tool indicates a potential shift towards more sophisticated strategic approaches. To succeed, startups must balance their focus on user needs and market dynamics with investments in scaling capabilities, strategic planning, and advanced analytical tools. The key to success lies in navigating the evolution of all components simultaneously, from the highly visible market dynamics to the less visible but crucial strategic elements.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_03_Unique_challenges_faced_by_startups.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_Unique_challenges_faced_by_startups.md)
 
 
 
@@ -266,7 +266,7 @@ For example, a Wardley Map might reveal that a startup's customer support functi
 
 > This Wardley Map depicts a startup in a critical transition phase, moving from early-stage to growth. The core offerings (Product, Technology Stack) are evolving rapidly, driven by a strong focus on Customer Needs. However, supporting structures (Strategic Planning, Scaling Processes) are lagging, creating potential bottlenecks. The startup has a strong foundation for growth but needs to quickly mature its operational and strategic capabilities to fully capitalize on its market opportunity and sustain its competitive advantage. Prioritizing the development of these lagging components while maintaining the innovative edge will be crucial for successful scaling and long-term success.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_04_How_Wardley_Mapping_addresses_these_challenges.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_How_Wardley_Mapping_addresses_these_challenges.md)
 
 Beyond these specific challenges, Wardley Mapping offers several overarching benefits that are particularly valuable for startups:
 
@@ -368,7 +368,7 @@ As startups continue to navigate the complex landscape of public sector innovati
 
 > The GovConnect Value Chain represents a solid foundation for a government-citizen connection platform. While well-positioned to meet basic citizen needs, there are significant opportunities for evolution and innovation, particularly in the areas of AI-powered analytics, standardized government integrations, and IoT incorporation. By focusing on these areas, the platform can enhance its efficiency, scalability, and value proposition, potentially transforming from a reactive issue reporting system to a proactive, data-driven urban management tool.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_05_Value_chain_analysis.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_05_Value_chain_analysis.md)
 
 
 
@@ -415,7 +415,7 @@ Consider the case of a fintech startup I advised, which used Wardley Mapping to 
 
 > The map reveals a payment processing landscape in transition, with significant opportunities for innovation and strategic positioning. Success will depend on balancing the enhancement of existing infrastructure with the integration of emerging technologies, all while maintaining a strong focus on customer experience and regulatory compliance. The strategic imperative is to build a flexible, secure, and forward-looking payment ecosystem that can adapt to rapid technological changes and evolving customer expectations.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_06_Evolution_axis.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_06_Evolution_axis.md)
 
 By mapping the evolution of components from custom payment gateways to standardised APIs and emerging blockchain technologies, the startup identified a critical inflection point. They realised that while current payment processors were in the Product stage, blockchain-based solutions were rapidly moving from Genesis to Custom-built. This insight led them to pivot their development efforts towards blockchain integration, positioning them ahead of the curve as the technology matured.
 
@@ -487,7 +487,7 @@ In conclusion, mastering the mapping of anchors and dependencies is a critical s
 
 > The map reveals a significant opportunity for a GovTech startup to disrupt and modernize public sector procurement. By leveraging Emerging Technologies and addressing the inefficiencies in current Procurement Processes, the startup can create substantial value. However, success will require careful navigation of regulatory constraints, strategic partnerships, and a phased approach to overcoming the inertia of Legacy Systems. The startup's ability to demonstrate immediate value while building towards long-term transformation will be crucial for success in this complex and evolving landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_07_Anchors_and_dependencies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_Anchors_and_dependencies.md)
 
 
 
@@ -546,7 +546,7 @@ When identifying user needs for your Wardley Map, it's crucial to remain objecti
 
 > This Wardley Map reveals a structured and comprehensive approach to user needs identification for a government startup. While it demonstrates strengths in stakeholder analysis and need categorisation, there are significant opportunities for evolution in validation techniques and data analysis. The strategic focus should be on leveraging emerging technologies to create a more dynamic, responsive, and predictive system for identifying and addressing citizen needs. By evolving its capabilities, particularly in data analysis and validation, the startup can position itself as a leader in citizen-centric governance. The key to success lies in maintaining a balance between thorough analysis and rapid response, while continuously adapting to the evolving technological landscape and changing citizen expectations.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_08_Identifying_user_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_Identifying_user_needs.md)
 
 By thoroughly identifying and understanding user needs, you set the stage for a Wardley Map that truly reflects the landscape in which your startup operates. This user-centric approach ensures that your strategic decisions are grounded in real-world demands, increasing your chances of success in the complex and often bureaucratic world of government and public sector services.
 
@@ -618,7 +618,7 @@ By thoroughly mapping the value chain, government startups can gain a comprehens
 
 > The startup is well-positioned in the government sector with strong capabilities in critical areas like Digital Identity Verification and Data Processing. However, it faces challenges in integrating with Legacy Systems and needs to carefully manage the evolution of emerging technologies like Blockchain for Records. The key to success will be balancing innovation with the practical realities of government IT infrastructure, while maintaining a strong focus on security and compliance. By leading in interoperability and emerging technologies, the startup can establish itself as a crucial player in the modernization of government digital services.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_09_Mapping_the_value_chain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_Mapping_the_value_chain.md)
 
 In conclusion, mapping the value chain is a critical step in creating your first Wardley Map, particularly for startups operating in the government and public sector. By meticulously identifying components, establishing dependencies, positioning elements on the evolution axis, and analysing the resulting map, startups can gain invaluable insights into their strategic position and potential paths for growth and innovation. This process not only helps in understanding the current landscape but also in anticipating future changes and preparing for them proactively.
 
@@ -680,7 +680,7 @@ To illustrate the process of assessing component evolution, let's consider a hyp
 
 > This digital health startup is well-positioned with strong differentiators in AI Diagnostics and Custom Patient Management Software. The key to success lies in rapidly evolving these core components while building a robust, secure, and compliant infrastructure. The startup should focus on creating an integrated ecosystem that leverages its AI capabilities across all services, particularly in telemedicine. Simultaneously, it must prepare for increased commoditization of basic services and potential disruption in data management and security. By balancing innovation in core areas with strategic partnerships and platform development, the startup can establish a strong, defensible position in the evolving digital health landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_10_Assessing_component_evolution.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_10_Assessing_component_evolution.md)
 
 In this example, the startup would need to carefully consider its strategy for each component based on its evolutionary stage. They might choose to innovate heavily in AI diagnostics, partner with established providers for electronic health records, and utilise commodity cloud services for infrastructure.
 
@@ -764,7 +764,7 @@ Moreover, startups should cultivate a culture of continuous learning and adaptat
 
 > This Wardley Map reveals a startup landscape focused on innovation and market disruption, with a clear understanding of the importance of user needs. The strategic challenge lies in balancing rapid innovation with sound strategic positioning and ecosystem development. Success will depend on the ability to leverage emerging technologies, disrupt markets, and build a strong ecosystem while remaining agile and user-focused. The explicit inclusion of anti-patterns suggests a mature approach to strategy, acknowledging potential pitfalls. To thrive, startups must continuously evolve their innovative solutions, strategically position themselves in the value chain, and actively develop their ecosystem, all while keeping a keen eye on the rapid evolution of technologies and market dynamics.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_11_Patterns_and_anti-patterns.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_Patterns_and_anti-patterns.md)
 
 In conclusion, mastering the art of recognising patterns and anti-patterns in Wardley Maps equips startups with a powerful tool for strategic navigation. By understanding these recurring structures and behaviours, startups can make more informed decisions, anticipate market shifts, and position themselves for success in the dynamic and often unpredictable startup ecosystem. As you continue to develop your Wardley Mapping skills, remember that the true value lies not just in creating maps, but in the strategic insights and actions they inspire.
 
@@ -814,7 +814,7 @@ For instance, I worked with a startup that used Wardley Mapping to anticipate th
 
 > The Wardley Map reveals a government technology landscape in transition, with significant opportunities for innovation and improvement. By strategically leveraging emerging technologies, fostering partnerships with startups and academia, and gradually modernizing legacy systems, there's potential for substantial enhancement in public service delivery and policy-making efficiency. However, careful management of risks related to data privacy, security, and ethical use of AI is crucial. The key to success lies in creating a balanced approach that drives innovation while ensuring the stability and reliability of essential government services.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_12_Identifying_strategic_opportunities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_12_Identifying_strategic_opportunities.md)
 
 To effectively identify strategic opportunities using Wardley Maps, startups should follow these best practices:
 
@@ -884,7 +884,7 @@ To address this, startups should incorporate a 'reality check' step in their map
 
 > This Wardley Map effectively captures the strategic challenges faced by startups, highlighting the tension between short-term operational focus and long-term strategic planning. The key to success lies in developing dynamic capabilities in strategic foresight and decision-making, while actively managing organizational inertia and resource constraints. Startups that can effectively iterate their strategic maps and integrate future scenarios into their planning processes will be better positioned to navigate the complex and rapidly evolving startup ecosystem.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_13_Common_pitfalls_for_startups.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_13_Common_pitfalls_for_startups.md)
 
 By being aware of these common pitfalls and taking proactive steps to avoid them, startups can significantly enhance their ability to interpret and leverage Wardley Maps effectively. This leads to more robust strategies, better resource allocation, and ultimately, a stronger competitive position in the market.
 
@@ -951,7 +951,7 @@ This insight led to the development of a unified digital identity platform, whic
 
 > The map reveals a government digital services authentication system in transition, moving from basic, siloed approaches to a more integrated, secure, and user-friendly model. The key strategic focus should be on developing the Digital Identity Platform while enhancing user experience and cross-service compatibility. This approach will position the government as a leader in digital service delivery, improving citizen engagement and setting new standards for secure online interactions. The successful evolution of this system could have far-reaching implications for both public and private sector digital identity management.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_14_Using_maps_to_spot_underserved_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_14_Using_maps_to_spot_underserved_needs.md)
 
 In conclusion, Wardley Mapping provides startups with a powerful tool for identifying underserved needs in their target markets. By visualising value chains, component evolution, and gaps in current offerings, entrepreneurs can uncover hidden opportunities and position their ventures for success. As the startup ecosystem continues to evolve, those who master the art of spotting underserved needs through Wardley Mapping will have a significant competitive advantage in creating innovative solutions and capturing market share.
 
@@ -1008,7 +1008,7 @@ The result was a successful market entry and rapid adoption by forward-thinking 
 
 > The GovTech Startup is strategically positioned to drive significant innovation in public service delivery through AI-driven solutions. Its success hinges on effectively navigating the regulatory landscape, building strong partnerships with Local Councils, and continuously evolving its technological capabilities. The startup has the potential to reshape the public service ecosystem, but must balance rapid innovation with the complexities of public sector operations and citizen expectations. Key focus areas should be scaling AI solutions, enhancing data management capabilities, and fostering an ecosystem that bridges traditional public services with emerging technologies.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_15_Assessing_market_maturity.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_15_Assessing_market_maturity.md)
 
 In conclusion, assessing market maturity through Wardley Mapping provides startups with a powerful tool for identifying gaps and opportunities in their target markets. By understanding the evolutionary stage of various market components, their interdependencies, and the forces shaping their development, startups can make informed strategic decisions that increase their chances of success in competitive landscapes.
 
@@ -1050,7 +1050,7 @@ Scenario Planning: Predicting future market movements is not about arriving at a
 
 > The Wardley Map reveals a startup ecosystem poised for significant evolution, with strong foundations in market understanding and strategic planning. The key to future success lies in effectively integrating emerging technologies, enhancing market prediction capabilities, and fostering a culture of continuous adaptation. Startups that can navigate the balance between leveraging established technologies and innovating with emerging ones, while maintaining a strong focus on customer needs, will be best positioned for success in this dynamic ecosystem.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_16_Predicting_future_market_movements.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_Predicting_future_market_movements.md)
 
 Practical Application for Startups:
 
@@ -1125,7 +1125,7 @@ This forward-looking approach allows startups to make strategic decisions about 
 
 > This Wardley Map reveals a startup landscape ripe with both opportunity and challenge. The key to success lies in the startup's ability to rapidly evolve its core competencies and competitive differentiation while navigating a maturing market. Strategic use of tools like Wardley Mapping for continuous strategic adjustment is crucial. The startup must balance short-term differentiation with long-term resilience, optimizing its position in the value chain and ecosystem. By focusing on future-proofing and maintaining close alignment with customer needs, the startup can create a sustainable competitive advantage in a dynamic market environment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_17_Positioning_your_startup.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_Positioning_your_startup.md)
 
 Practical Application: To effectively position your startup using Wardley Maps, follow these steps:
 
@@ -1205,7 +1205,7 @@ In conclusion, Wardley Mapping offers startups a powerful tool for navigating th
 
 > The map represents a vibrant startup ecosystem with significant opportunities for innovation and growth. Key strategic imperatives include maintaining a strong focus on emerging technologies and innovation, optimizing strategic partnerships, and continuously refining competitive analysis capabilities. The ecosystem is poised for potential disruption, particularly in custom solutions and value chain structures. Startups that can effectively navigate the balance between innovation and scalability, while leveraging strategic partnerships and addressing market gaps, are likely to thrive. Established players and big tech companies need to remain vigilant and adaptive to avoid disruption from emerging technologies and innovative startups. Overall, the ecosystem shows a healthy tension between collaboration and competition, driving overall progress and value creation for customers.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_18_Identifying_potential_competitors_and_collaborator.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_Identifying_potential_competitors_and_collaborator.md)
 
 As startups continue to navigate increasingly complex and rapidly changing markets, the ability to effectively map and analyse the competitive landscape will become ever more crucial. Wardley Mapping provides a framework not just for understanding the present, but for anticipating and shaping the future. By mastering this tool, startups can gain a significant strategic advantage, positioning themselves not just as participants in their markets, but as shapers of entire industries.
 
@@ -1245,7 +1245,7 @@ Scenario planning with maps: One of the most powerful applications of Wardley Ma
 
 > This Wardley Map reveals a government in the midst of digital transformation, balancing the need to modernize legacy systems with the adoption of emerging technologies. The strategic focus on Citizen Engagement is commendable, but significant challenges remain in evolving Legacy Systems and Procurement Processes. The inclusion of components like AI for Policy-Making and Blockchain indicates a forward-thinking approach. To succeed, the government must prioritize modernization efforts, enhance digital skills, streamline processes, and foster a culture of innovation, all while maintaining robust security and regulatory compliance. The key to success lies in viewing digital transformation not as a one-time project, but as an ongoing journey of continuous improvement and citizen-centric innovation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_19_Anticipating_market_shifts.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_Anticipating_market_shifts.md)
 
 When applying these techniques in the government and public sector context, it's crucial to consider the unique characteristics of this environment:
 
@@ -1344,7 +1344,7 @@ Build, buy, or partner decisions are pivotal in shaping a startup's trajectory, 
 
 > The Wardley Map reveals a strategically positioned GovTech startup with a strong focus on core innovation in citizen engagement. The balanced approach to build, buy, and partner decisions allows for agility and efficient resource allocation. Key opportunities lie in strengthening data analytics capabilities, optimizing the partnership strategy, and continuously innovating the core platform. The startup should remain vigilant about evolving technologies and regulations, while fostering a robust ecosystem around its Citizen Engagement Platform. By maintaining this strategic balance and focusing on long-term sustainability, the startup is well-positioned to achieve competitive advantage and market leadership in the GovTech sector.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_20_Build,_buy,_or_partner_decisions.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_Build,_buy,_or_partner_decisions.md)
 
 
 
@@ -1412,7 +1412,7 @@ Moreover, Wardley Mapping can help startups navigate the complex landscape of go
 
 > The startup is well-positioned in the government-focused digital identity verification space, with strong alignment to regulatory requirements and user needs. To maintain its competitive edge, it should focus on evolving its core technologies, especially in biometric processing, while building a robust ecosystem and innovation pipeline. The key challenge will be balancing the need for security and compliance with the drive for innovation and ecosystem expansion.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_21_Prioritising_product_features.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_21_Prioritising_product_features.md)
 
 In conclusion, Wardley Mapping provides a powerful framework for startups to prioritise product features strategically. By visualising the entire value chain, assessing the evolution of different components, and understanding ecosystem dependencies, startups can make informed decisions about where to focus their limited resources. This approach is particularly valuable for startups working in the government and public sector, where strategic alignment, security, and reliability are paramount. By leveraging Wardley Mapping in feature prioritisation, startups can develop products that not only meet immediate market needs but are also positioned for long-term success in the evolving landscape of public sector technology.
 
@@ -1430,7 +1430,7 @@ Wardley Maps offer a unique perspective on market dynamics by visualising the ev
 
 > This Wardley Map reveals a complex and dynamic landscape for startup market entry timing. The strategic position is characterized by a balance between market readiness and ecosystem maturity, with significant opportunities for innovation and first-mover advantage. The key to success lies in making well-informed timing decisions, leveraging strategic tools like Wardley Mapping, and maintaining agility in response to evolving market conditions. While there are challenges in navigating regulatory frameworks and developing the ecosystem, these also present opportunities for startups to shape the market. The explicit inclusion of the Timing Decision component underscores the critical nature of this strategic choice in the startup's journey. Overall, the map suggests a market ripe for disruption but requiring careful navigation and strategic foresight.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_22_Timing_market_entry.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_22_Timing_market_entry.md)
 
 Understanding Component Evolution
 
@@ -1534,7 +1534,7 @@ Risk Evaluation is the final piece of the puzzle. Components that pose significa
 
 > This Wardley Map presents a comprehensive view of critical components for startup scaling, balancing traditional elements like User Needs and Value Chain Analysis with emerging strategic tools like Wardley Mapping. The positioning of components suggests a startup that is actively working on developing sophisticated strategic capabilities. Key opportunities lie in further evolving custom-built components, particularly Wardley Mapping and Strategic Decision-Making, while ensuring tight integration between analytical processes and decision-making. The acknowledgment of the broader Startup Ecosystem indicates potential for strategic partnerships and knowledge sharing. To maintain competitive advantage, the startup should focus on rapidly evolving its unique strategic tools while continuously aligning all components with ever-changing User Needs.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_23_Identifying_critical_components.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_Identifying_critical_components.md)
 
 Once critical components are identified, startups must develop strategies to nurture and protect them. This might involve:
 
@@ -1592,7 +1592,7 @@ The evolution axis of a Wardley Map provides a strategic framework for resource 
 
 > This Wardley Map reveals a startup ecosystem poised at a critical juncture between innovation and efficiency. The central role of the Resource Allocation Strategy suggests a mature understanding of the need for dynamic resource management. However, there's a risk of overemphasizing efficiency at the expense of breakthrough innovation. To maintain competitiveness, startups must enhance their market adaptation capabilities, invest consistently in genesis-stage innovations, and develop a more robust ecosystem strategy. The inclusion of regular mapping sessions and scenario planning indicates a forward-thinking approach, but these need to be more tightly integrated with the core strategy. Overall, the map suggests a need for a more dynamic, adaptive approach to balance short-term efficiency with long-term innovation potential.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_24_Balancing_innovation_and_efficiency.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_Balancing_innovation_and_efficiency.md)
 
 Leveraging Ecosystem Dynamics:
 
@@ -1687,7 +1687,7 @@ Regardless of the growth stage, it's crucial to remember that Wardley Mapping is
 
 > This Wardley Map provides a comprehensive and insightful view of resource allocation priorities across different startup growth stages. It effectively illustrates the evolving focus from initial validation to market expansion, highlighting key areas of emphasis at each stage. The map underscores the importance of adaptability in strategic planning, showing how priorities shift as a startup matures. It also reveals potential areas for improvement, such as earlier consideration of regulatory compliance and innovation investment. By following the strategic recommendations derived from this map, startups can better align their resources with their current growth stage, potentially increasing their chances of success in a competitive landscape. The map serves as an excellent tool for startup founders, investors, and strategists to visualize and plan for the complex journey of building a successful company.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_25_Optimising_for_different_stages_of_startup_growth.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_Optimising_for_different_stages_of_startup_growth.md)
 
 By leveraging Wardley Mapping to optimise resource allocation across different growth stages, startups can make more informed strategic decisions, adapt more quickly to changing market conditions, and ultimately increase their chances of long-term success. This is particularly crucial in the complex and often slow-moving world of government and public sector markets, where strategic resource allocation can make the difference between a startup that thrives and one that struggles to gain traction.
 
@@ -1767,7 +1767,7 @@ In conclusion, aligning team structure with Wardley Map insights is a powerful s
 
 > This Wardley Map demonstrates a well-structured and strategically aligned digital government ecosystem. The explicit alignment of team structures with component evolution stages is a significant strength, enabling targeted innovation and efficient service delivery. The focus on Government as a Platform provides a solid foundation for future growth and adaptability. Key areas for improvement include accelerating the evolution of critical components like Identity Verification and Payment Processing, and ensuring a robust innovation pipeline from Experimental Prototypes to Digital Services. The strategic positioning and team structure alignment provide a competitive advantage in public sector digital transformation, but continued investment in skill development and flexible team structures will be crucial to maintain this advantage and meet evolving citizen needs.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_26_Aligning_team_structure_with_map_insights.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_Aligning_team_structure_with_map_insights.md)
 
 
 
@@ -1807,7 +1807,7 @@ Rapid prototyping and experimentation processes: For evolving components, the ab
 
 > This Wardley Map reveals a startup with a strong foundation for innovation, particularly in its strategic approach and culture. However, there are opportunities to strengthen the execution of innovation initiatives through improved resource allocation, metrics, and cross-functional collaboration. The focus on evolving experimentation processes and custom components is well-aligned with the need for continuous innovation in a competitive market. To maintain and enhance its position, the startup should prioritize closing the gap between high-level strategy and ground-level execution, while also preparing for the future evolution of its key components and processes.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_27_Fostering_innovation_in_evolving_components.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_Fostering_innovation_in_evolving_components.md)
 
 Case Study: Government Digital Service (GDS) Innovation
 
@@ -1881,7 +1881,7 @@ By regularly assessing these indicators, startups can refine their approach to b
 
 > This map represents a well-structured approach to building a map-driven culture in startups. It correctly identifies the critical role of leadership and education, while highlighting the ultimate goals of strategic alignment and market understanding. The key challenge lies in overcoming resistance to change and maintaining momentum through the learning curve. Startups that successfully navigate this journey can expect significant competitive advantages through enhanced strategic decision-making and market insights. The future evolution suggests a need for continuous innovation in mapping practices and tools to stay ahead. Overall, this map provides a solid foundation for startups to build a strong, adaptive, and insightful strategic culture.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_28_Building_a_map-driven_culture.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_Building_a_map-driven_culture.md)
 
 In conclusion, building a map-driven culture is a transformative process that can significantly enhance a startup's strategic capabilities. By fostering a shared understanding of the business landscape, encouraging collaborative problem-solving, and providing a framework for anticipating market changes, Wardley Mapping can become a powerful tool for driving innovation and growth. As startups navigate the challenges of scaling, a strong map-driven culture can provide the clarity and alignment needed to make informed decisions and maintain a competitive edge in rapidly evolving markets.
 
@@ -1958,7 +1958,7 @@ By mapping out potential future scenarios, startups can make technology choices 
 
 > The Wardley Map reveals a startup with a strong foundation in cloud infrastructure and a focus on scalability and future-proofing. The emphasis on core algorithms as a key differentiator is promising, but there's a need to balance custom solutions with the efficiency of commoditized components. The startup is well-positioned for growth but should focus on optimizing its API layer, enhancing resource management, and continuously innovating its core algorithms to maintain a competitive edge. The strategic focus should be on building a robust ecosystem around its technology stack while remaining adaptable to rapid technological changes.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_29_Evaluating_technology_choices.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_29_Evaluating_technology_choices.md)
 
 In conclusion, evaluating technology choices is a critical task for startups, with far-reaching implications for their scalability and success. By leveraging Wardley Mapping, startups can visualise the complex landscape of technology options, understand their evolutionary stages, and make informed decisions that align with their strategic goals and resource constraints. This approach enables startups to build a robust, scalable technology stack that can adapt to changing market conditions and support long-term growth.
 
@@ -2042,7 +2042,7 @@ In conclusion, planning for future scalability in your technology stack is a cri
 
 > The startup is well-positioned with a balanced technology stack, showing a good mix of established and emerging technologies. The focus on API Layer and Microservices indicates a scalable architecture. However, to maintain competitive advantage, there's a need to accelerate the evolution of key components like Authentication and Data Processing, while also investing in emerging technologies like Machine Learning, IoT, and Blockchain. The startup should prioritize optimizing its core infrastructure while strategically exploring innovative technologies to drive future growth and maintain market relevance.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_30_Planning_for_future_scalability.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_Planning_for_future_scalability.md)
 
 
 
@@ -2073,7 +2073,7 @@ For instance, a startup might have rapidly developed a custom payment processing
 
 > The startup has a solid foundation with a clear focus on custom business logic and user interface. The early adoption of machine learning shows foresight, but this area needs accelerated development to become a true differentiator. The reliance on commoditized components for infrastructure is appropriate, but care should be taken to ensure security and scalability. The key strategic moves should be to double down on ML capabilities, enhance security measures, and prepare for a future where current custom components may become commoditized. The startup is well-positioned but must stay agile and continue to innovate to maintain its competitive edge in a rapidly evolving tech landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_31_Managing_technical_debt.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_Managing_technical_debt.md)
 
 Prioritising Debt Repayment: Once technical debt is visualised, Wardley Mapping helps in prioritising which areas of debt to address first. Components that are critical to the value chain and are evolving rapidly in the market should be prioritised for debt repayment. This might involve refactoring code, upgrading systems, or replacing custom solutions with more standardised ones.
 
@@ -2117,7 +2117,7 @@ The startup in question, a fintech company aiming to revolutionise peer-to-peer 
 
 > This Wardley Map depicts a fintech startup with strong potential, leveraging technology for innovative financial services. The focus on proprietary credit scoring and machine learning integration provides a solid foundation for competitive advantage. However, the startup must navigate complex regulatory environments and rapidly evolving technology landscapes. Key strategic imperatives include accelerating the evolution of core technologies, building a robust ecosystem of partnerships, and maintaining agility in the face of potential industry disruptions. The startup's success will largely depend on its ability to balance innovation with regulatory compliance, scale its user base efficiently, and continuously enhance its core algorithmic capabilities.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_32_Initial_mapping_and_strategy.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_Initial_mapping_and_strategy.md)
 
 The process of creating the initial Wardley Map involved several key steps:
 
@@ -2210,7 +2210,7 @@ These organisational adaptations were crucial in enabling FinnovateX to execute 
 
 > FinnovateX is at a critical juncture, pivoting from B2C to B2B payment solutions. The company has strong technological foundations but needs to rapidly develop B2B-specific capabilities. The success of this pivot will depend on effectively leveraging existing strengths while quickly adapting to the new market's demands. Key focus areas should be accelerating B2B product development, building strategic partnerships, and transforming the organization to support B2B operations. The company's agile culture and strong data infrastructure position it well for this transition, but careful management of the pivot is crucial to maintain stability and drive growth in the new direction.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_33_Pivots_and_adaptations.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_Pivots_and_adaptations.md)
 
 The FinnovateX case study demonstrates the power of Wardley Mapping in guiding strategic pivots and adaptations for tech startups. By providing a visual representation of the value chain, market evolution, and strategic positioning, Wardley Maps enabled FinnovateX to make informed decisions rapidly and confidently.
 
@@ -2258,7 +2258,7 @@ One of the most significant lessons learned was the importance of situational aw
 
 > This Wardley Map reveals a startup at a critical juncture, leveraging advanced strategic tools like Wardley Mapping to drive its evolution and competitive positioning. The startup shows strength in understanding user needs and achieving product-market fit, with Wardley Mapping playing a central role in enhancing strategic decision-making. However, the full potential of this approach is constrained by challenges in cultural adoption and complexity management. The startup has a significant opportunity to create a sustainable competitive advantage by fully integrating Wardley Mapping practices across the organization, developing proprietary tools, and fostering a culture of continuous strategic reassessment. Key focus areas should include accelerating cultural adoption, simplifying map complexity, and leveraging mapping insights for improved resource allocation and future planning. Successfully navigating these challenges could position the startup as a leader in strategic foresight and execution, potentially reshaping industry norms around strategic planning and decision-making.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_34_Results_and_lessons_learned.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_Results_and_lessons_learned.md)
 
 The above map illustrates the startup's journey, showcasing how their strategic focus shifted as they gained map-driven insights. Note the movement of key components along the evolution axis and the changing relationships between elements as the startup pivoted and grew.
 
@@ -2336,7 +2336,7 @@ The case of GovTech Innovations illustrates that Wardley Mapping is not just a o
 
 > The Wardley Map reveals a GovTech service in transition, strategically positioned to leverage AI and digital technologies for improved citizen services. The focus on evolving verification processes and maintaining a strong, custom-built digital platform provides a solid foundation for future innovations. Key strategic imperatives include accelerating AI adoption, enhancing user experiences, and maintaining robust security measures. The successful execution of these strategies could position this government service as a leader in digital transformation, potentially influencing industry standards and cross-border collaborations in GovTech innovations.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_35_Using_maps_for_service_design.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_35_Using_maps_for_service_design.md)
 
 In conclusion, the application of Wardley Mapping to service design offers startups a strategic advantage in today's competitive landscape. By providing a visual and evolving representation of the service ecosystem, it enables founders and teams to make informed decisions, focus on high-value innovations, and create services that are not only user-centric but also positioned for long-term success and scalability.
 
@@ -2406,7 +2406,7 @@ This case study demonstrates the power of Wardley Mapping in enabling service-ba
 
 > The map reveals a highly specialized consulting operation with significant opportunities for efficiency gains and scalability improvements. The focus on government agencies provides a strong niche, but the current highly customized approach limits growth potential. By strategically evolving key components towards greater standardization and leveraging technology for automation and insight generation, the startup can significantly enhance its scalability while maintaining its differentiation. Critical areas for improvement include knowledge management, report generation, and data analysis processes. The development of a more structured, modular approach to consulting services, supported by robust technology platforms, will be key to achieving efficient scaling while continuing to meet the specific needs of government agency clients.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_36_Scaling_operations_efficiently.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_36_Scaling_operations_efficiently.md)
 
 
 
@@ -2424,7 +2424,7 @@ The case study focuses on a UK-based startup offering innovative digital marketi
 
 > The startup is well-positioned for market expansion with a strong core offering in digital marketing services and a focus on technological innovation, particularly in AI. However, successful expansion will require careful navigation of regulatory landscapes, strong local partnerships, and continuous service adaptation. The key to success lies in leveraging AI and advanced analytics capabilities while building a flexible, scalable service platform that can easily adapt to different European markets. The startup should prioritize the development of AI-driven marketing solutions and strategic partnerships to gain a competitive edge in the expanding digital marketing landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_37_Market_expansion_strategies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_37_Market_expansion_strategies.md)
 
 The startup's expansion strategy, informed by Wardley Mapping, can be broken down into several key components:
 
@@ -2520,7 +2520,7 @@ Perhaps most importantly, the startup had built a culture of strategic thinking 
 
 > GovTech Innovations is well-positioned to become a leader in government technology solutions, with a strong focus on innovation and user needs. The strategic roadmap balances cutting-edge technologies with essential government requirements. Key to success will be managing the rapid evolution of multiple components, particularly the Core Platform and AI-Enhanced Services, while building a robust ecosystem. The phased approach (Core Platform Development, Advanced Feature Integration, Ecosystem Expansion) provides a clear path forward. However, careful attention must be paid to potential bottlenecks in legacy system integration and interoperability. The startup's success will largely depend on its ability to execute this ambitious plan while maintaining security, fostering partnerships, and continuously aligning with evolving user needs in the government sector.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_38_Product_roadmap_development.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_38_Product_roadmap_development.md)
 
 This case study demonstrates the power of integrating Wardley Mapping into product roadmap development for startups. By providing a visual representation of the market landscape and its evolution, Wardley Mapping enables startups to create roadmaps that are not just lists of features, but strategic plans for market leadership.
 
@@ -2599,7 +2599,7 @@ In conclusion, the InnoTech case study illustrates how Wardley Mapping can be a 
 
 > InnoTech's supply chain shows a company transitioning from a traditional manufacturing model to a more advanced, technology-driven approach. The focus on evolving manufacturing and quality control processes indicates a strategic awareness of the need for operational excellence. However, there are significant opportunities for improvement in areas such as inventory management and supplier relationships. The company is well-positioned in the smart home device market but needs to prepare for increasing commoditization by investing in software, services, and ecosystem development. Key strategic moves should include accelerating the evolution of manufacturing processes, developing proprietary technologies in sensors or chips, and creating a more integrated, data-driven supply chain. Long-term success will depend on InnoTech's ability to transform from a pure hardware manufacturer to a provider of comprehensive smart home solutions, leveraging data and services to maintain differentiation as hardware becomes commoditized.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_39_Supply_chain_optimisation.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_39_Supply_chain_optimisation.md)
 
 
 
@@ -2617,7 +2617,7 @@ Our case study focuses on TechInnovate, a startup developing an AI-powered proje
 
 > TechInnovate shows strong potential in disrupting the construction project management space with its AI-driven approach. However, to fully capitalize on this opportunity, it must rapidly develop its industry-specific features and align its advanced technology with practical construction needs. The company is well-positioned to lead in AI-driven project management but must balance innovation with market-specific requirements to ensure sustainable growth and competitive advantage.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_40_Competitive_positioning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_Competitive_positioning.md)
 
 The initial Wardley Map revealed that while TechInnovate's core AI technology was highly evolved, its user interface and industry-specific features were lagging behind competitors. This visualisation prompted a strategic pivot.
 
@@ -2640,7 +2640,7 @@ The revised Wardley Map clearly illustrated TechInnovate's new competitive posit
 
 > TechInnovate shows strong potential in disrupting the construction project management space with its AI-driven approach. However, to fully capitalize on this opportunity, it must rapidly develop its industry-specific features and align its advanced technology with practical construction needs. The company is well-positioned to lead in AI-driven project management but must balance innovation with market-specific requirements to ensure sustainable growth and competitive advantage.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_40_Competitive_positioning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_40_Competitive_positioning.md)
 
 This strategic repositioning yielded significant benefits:
 
@@ -2726,7 +2726,7 @@ It's crucial to document not just the final maps, but also the discussions, insi
 
 > This Wardley Map reveals a government tech startup landscape in transition, moving from traditional, process-driven approaches to more agile, map-driven strategies. The integration of Wardley Mapping and the evolution towards a Map-Driven Culture represent significant opportunities for innovation and competitive advantage. However, challenges remain in aligning rapidly evolving tech capabilities with slower-moving regulatory and policy frameworks. Success will depend on effectively bridging this gap, fostering cross-functional collaboration, and continuously aligning strategies with evolving user needs. The map suggests that organizations able to successfully navigate this transition and fully embrace map-driven approaches will be well-positioned to lead in the government tech space.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_41_Regular_mapping_sessions.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_41_Regular_mapping_sessions.md)
 
 Continuous Learning and Improvement
 
@@ -2810,7 +2810,7 @@ Feedback Loops and Iteration: Strategic thinking is not a one-time exercise but 
 
 > This Wardley Map reveals a startup with a strong focus on developing strategic thinking capabilities across all levels. The organization shows a good balance between high-level strategic components and practical enabling tools. However, there are opportunities for improvement in areas such as cross-functional collaboration and data analytics. The startup is well-positioned to leverage its strengths in Wardley Mapping and empowerment to drive innovation and competitive advantage. To maintain this edge, the organization should focus on evolving its organizational culture, enhancing data capabilities, and continuously innovating its approach to strategy formulation and execution. The integration of emerging technologies and the development of a robust ecosystem strategy will be crucial for long-term success in fostering strategic thinking at all levels.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_42_Encouraging_strategic_thinking_at_all_levels.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_42_Encouraging_strategic_thinking_at_all_levels.md)
 
 By implementing these approaches, startups can create an environment where strategic thinking becomes second nature to employees at all levels. This not only enhances the overall strategic capabilities of the organisation but also ensures that the startup remains agile and responsive to market changes.
 
@@ -2883,7 +2883,7 @@ It's important to note that adapting to change with agility is not about constan
 
 > This Wardley Map represents a startup with a strong foundation in agile methodologies and strategic planning, particularly through the use of Wardley Mapping. The organization is well-positioned to adapt to change, with a clear focus on user needs and environmental awareness. However, to maintain this advantage, the startup must continue to evolve its capabilities, particularly in data analytics and market intelligence. The central position of Wardley Mapping provides a unique strategic advantage, but efforts should be made to institutionalize this capability and potentially productize it. The emphasis on Agile Culture as a core component is commendable and should be further developed as a key differentiator. Overall, the startup has a solid base for achieving and maintaining agility, but must remain vigilant in evolving its practices and tools to stay ahead in a rapidly changing business environment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_43_Adapting_to_change_with_agility.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_43_Adapting_to_change_with_agility.md)
 
 By integrating Wardley Mapping into the fabric of a startup's operations and decision-making processes, organisations can develop a level of agility that goes beyond mere responsiveness. They can become truly anticipatory, shaping their industry rather than simply reacting to it. This approach is particularly crucial in the public sector, where startups often face complex regulatory environments and the need to deliver social impact alongside financial sustainability.
 
@@ -2925,7 +2925,7 @@ As these tools and technologies continue to evolve, it's important for startups 
 
 > The Wardley Mapping landscape is on the cusp of significant transformation, driven by AI, real-time data, and emerging technologies. Organizations that can effectively integrate these advanced tools while maintaining the crucial element of human insight will gain a significant competitive advantage in strategic planning and execution. The key challenge will be balancing the adoption of cutting-edge technologies with the need for practical, actionable strategic insights.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_44_Emerging_tools_and_technologies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_44_Emerging_tools_and_technologies.md)
 
 Looking ahead, we can expect to see further integration of Wardley Mapping tools with other strategic frameworks and business intelligence platforms. This convergence will create powerful ecosystems for strategic analysis, allowing startups to seamlessly combine insights from Wardley Maps with data from financial modelling, market research, and competitive intelligence tools.
 
@@ -2977,7 +2977,7 @@ In conclusion, the integration of Wardley Mapping with other strategic framework
 
 > This Wardley Map reveals a strategic landscape in flux, with traditional frameworks being integrated and augmented by emerging technologies and methodologies. The future of startup strategy lies in real-time, data-driven, and AI-enhanced approaches that can adapt quickly to market changes. Success will depend on mastering integration across frameworks, leveraging advanced analytics and machine learning, and fostering a culture of continuous strategic adaptation. Startups that can navigate this complex, evolving landscape will be well-positioned to create sustainable competitive advantages.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_45_Integration_with_other_strategic_frameworks.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_45_Integration_with_other_strategic_frameworks.md)
 
 
 
@@ -3017,7 +3017,7 @@ Lastly, the growing emphasis on sustainability and social impact is reshaping co
 
 > The modern startup ecosystem is evolving towards a more interconnected, globally distributed, and sustainability-focused environment. Startups that can effectively leverage strategic mapping tools, embrace emerging technologies, and navigate complex regulatory landscapes while prioritizing sustainability will be best positioned for success. The integration of ecosystem-level thinking and the ability to adapt to rapid changes in funding models, talent acquisition, and technological advancements will be crucial for long-term viability and growth.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_46_The_evolving_startup_ecosystem.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_46_The_evolving_startup_ecosystem.md)
 
 As the startup ecosystem continues to evolve, so too must our approach to Wardley Mapping. The following adaptations will be crucial for startups looking to leverage Wardley Mapping effectively in this changing landscape:
 

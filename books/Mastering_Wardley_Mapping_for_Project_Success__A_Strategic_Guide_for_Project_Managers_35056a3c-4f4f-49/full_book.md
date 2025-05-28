@@ -108,7 +108,7 @@ A prominent technology executive once said, 'Wardley Mapping has revolutionised 
 
 > This Wardley Map of key concepts presents a robust framework for strategic analysis and decision-making, with a strong emphasis on user needs, value chain dynamics, and the evolution of components. The positioning of Strategic Planning and Business Decision-Making as evolving components suggests significant potential for growth and refinement in practical applications. The explicit inclusion of Evolution and Movement concepts differentiates this approach from traditional strategic frameworks, offering unique insights into market dynamics. To fully capitalize on this potential, focus should be placed on developing practical tools and methodologies that bridge the gap between theoretical understanding and business application, particularly in the areas of Evolution and Movement analysis. There's also a clear opportunity to leverage emerging technologies like AI and machine learning to enhance the predictive and real-time capabilities of Wardley Mapping. Overall, this map indicates that Wardley Mapping is a powerful and evolving approach to strategic analysis, with significant potential for further development and wide-ranging applications in business decision-making.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_01_Origins_and_key_concepts.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_Origins_and_key_concepts.md)
 
 
 
@@ -133,7 +133,7 @@ Furthermore, Wardley Mapping introduces the concept of evolution, which is large
 
 > This Wardley Map reveals a project management landscape in transition, with traditional approaches being challenged by more evolved, strategy-focused methodologies like Wardley Mapping. The key strategic opportunity lies in bridging the gap between these approaches, leveraging the operational strengths of traditional PM while incorporating the strategic insights and adaptability of Wardley Mapping. Organizations that can successfully integrate these approaches, building capabilities in situational awareness and strategic thinking while maintaining operational excellence, will be well-positioned to deliver superior project outcomes and customer value in increasingly complex and rapidly evolving environments.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_02_How_Wardley_Mapping_differs_from_traditional_proje.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_How_Wardley_Mapping_differs_from_traditional_proje.md)
 
 
 
@@ -160,7 +160,7 @@ With Wardley Mapping, project managers can move beyond traditional decision-maki
 
 > This Wardley Map reveals a strategic shift in project management towards more dynamic, market-responsive approaches centered around Wardley Mapping. The positioning of Wardley Mapping as a central, evolving component suggests significant potential for enhancing strategic decision-making in project management. However, successful implementation will require addressing capability gaps, managing the transition from traditional frameworks, and fostering a culture of continuous strategic adaptation. The map indicates opportunities for innovation in strategic tools and methodologies, particularly in leveraging emerging technologies. Overall, organizations that successfully navigate this transition stand to gain significant competitive advantages through more aligned, responsive, and strategically driven project management practices.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_03_Enhancing_strategic_decision-making.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_Enhancing_strategic_decision-making.md)
 
 
 
@@ -185,7 +185,7 @@ With Wardley Mapping, project managers can move beyond traditional planning tool
 
 > This Wardley Map reveals a project management landscape in transition, moving from traditional, tool-centric approaches to more adaptive, data-driven methodologies. The strategic positioning of components like Situational Awareness and Data-Driven Decisions indicates a recognition of their importance in modern project management. However, the map also highlights potential challenges, such as the inertia of Traditional Planning Tools and the need for better integration of emerging capabilities. To capitalize on this evolving landscape, organizations should focus on enhancing their data analytics capabilities, developing more robust situational awareness, and fostering a more adaptive approach to planning and execution. The explicit inclusion of the Project Ecosystem as a key component suggests an opportunity for organizations to gain a competitive edge by better understanding and managing the complex environments in which their projects operate. Overall, this map provides a clear direction for the future of project management, emphasizing the need for a more holistic, data-informed, and adaptive approach to ensure project success in increasingly complex and dynamic environments.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_04_Improving_project_planning_and_execution.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_Improving_project_planning_and_execution.md)
 
 
 
@@ -211,7 +211,7 @@ Moreover, Wardley Mapping enables project managers to communicate the impact of 
 
 > This Wardley Map represents a forward-thinking approach to project management that emphasizes strategic foresight and adaptability. By positioning Wardley Mapping as a key tool for Change Anticipation, the organization is well-positioned to handle complex, dynamic project environments. However, successful implementation will require significant investment in training, tool development, and organizational change. The potential rewards include a competitive advantage in project delivery, especially in rapidly changing markets. Key focus areas should be the integration of Wardley Mapping insights into practical project execution, the development of adaptive strategies, and the cultivation of a culture that values and acts on strategic foresight.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_05_Anticipating_and_managing_change.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_05_Anticipating_and_managing_change.md)
 
 
 
@@ -249,7 +249,7 @@ By mapping out the value chain, project managers can make more informed decision
 
 > This Wardley Map reveals a well-structured project management value chain with a strong focus on aligning with user needs and organizational strategy. The central position of Project Planning highlights its critical role in coordinating various components. There are significant opportunities for innovation in Supporting Components and potential for gaining competitive advantage through better integration of Organizational Strategy with project execution. Key areas for improvement include enhancing Risk Management capabilities and creating a more seamless flow between Supporting and Visible Components. The organization should focus on maintaining its strong alignment with User Needs while preparing for the future commoditization of lower-level components by investing in innovation at the Visible Component and Organizational Strategy levels.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_06_Understanding_the_value_chain.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_06_Understanding_the_value_chain.md)
 
 
 
@@ -292,7 +292,7 @@ By incorporating evolution and movement into their Wardley Maps, project manager
 
 > This Wardley Map represents a sophisticated approach to project management that emphasizes strategic foresight and evolution assessment. The positioning of components suggests a mature understanding of project dynamics, with opportunities for innovation in data analytics, automation, and ecosystem integration. The key strategic focus should be on enhancing the integration between strategic insights and operational execution, while also evolving capabilities in resource planning and stakeholder communication to match the sophistication of the strategic components. By addressing these areas, the project management approach depicted can maintain its strategic advantage and adapt effectively to future changes in the project landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_07_Mapping_evolution_and_movement.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_Mapping_evolution_and_movement.md)
 
 
 
@@ -321,7 +321,7 @@ Project managers should regularly revisit and validate user needs throughout the
 
 > This Wardley Map effectively illustrates the process of addressing user needs in project management. It highlights the critical role of user research and need articulation while emphasizing the importance of iterative validation. The map suggests opportunities for innovation in areas like AI-driven research and prioritization. To maintain competitive advantage, organizations should focus on evolving their capabilities in key areas like need articulation and project alignment, while preparing for the commoditization of user research. The integration of iterative validation throughout the process is a strength that should be further developed. Overall, this map provides a solid foundation for strategic decision-making in user-centric project management.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_08_Anchoring_the_map_with_user_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_Anchoring_the_map_with_user_needs.md)
 
 
 
@@ -362,7 +362,7 @@ Step 6: Analyse and refine your map - Review your map, looking for patterns, dep
 
 > The map represents a solid foundation for mobile app development with clear opportunities for strategic evolution. Key focus areas should be evolving backend components, accelerating feature development, and investing in emerging technologies for user experience enhancement. The strong positioning of user-facing components provides a competitive advantage, while the evolving cloud infrastructure offers scalability. To maintain and improve market position, the organization should prioritize backend evolution and explore AI-driven innovations in user experience.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_09_Step-by-step_guide_to_mapping_a_project.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_Step-by-step_guide_to_mapping_a_project.md)
 
 
 
@@ -412,7 +412,7 @@ Remember that the process of creating and refining the map is often as valuable 
 
 > This Wardley Map effectively captures the iterative and collaborative nature of map creation, emphasizing the importance of continuous refinement and stakeholder involvement. The process is well-structured to evolve from initial uncertainty to a validated, insightful final product. Key opportunities lie in leveraging emerging technologies to enhance the mapping process and in positioning the mapping methodology as a central tool for strategic decision-making. The focus on experimentation and version control provides a strong foundation for innovation and reliability. To maintain competitive advantage, the organization should invest in advanced analytics capabilities and AI-assisted mapping tools while continuing to prioritize stakeholder engagement and user needs.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_11_Iterating_and_refining_your_map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_Iterating_and_refining_your_map.md)
 
 
 
@@ -443,7 +443,7 @@ However, it's important to note that introducing Wardley Mapping to an Agile tea
 
 > This map represents a forward-thinking approach to project management that combines strategic foresight with agile execution. The integration of Wardley Mapping with Agile Scrum has the potential to create significant competitive advantage by aligning long-term strategy with short-term delivery. Key opportunities lie in developing better integration between these methodologies, upskilling teams, and creating tools that support this integrated approach. The main challenges will be in effectively bridging the different timescales and mindsets of strategic planning and agile execution. Organizations that can master this integration will be well-positioned to deliver projects that are both strategically aligned and adaptable to change.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_12_Wardley_Mapping_and_Agile.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_12_Wardley_Mapping_and_Agile.md)
 
 By thoughtfully integrating Wardley Mapping into Agile practices, project managers can create a more robust and adaptive approach to project management, one that balances short-term delivery with long-term strategic positioning.
 
@@ -477,7 +477,7 @@ While the integration of Wardley Mapping with Waterfall can be powerful, it's im
 
 > This map represents a significant opportunity to enhance traditional waterfall project management with strategic insights from Wardley Mapping. By integrating Wardley Mapping across all project phases, organizations can improve alignment with user needs, enhance risk management, and make more informed strategic decisions throughout the project lifecycle. The challenge lies in effectively integrating these new strategic tools without disrupting existing processes, requiring a balanced approach to change management and skill development.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_13_Wardley_Mapping_and_Traditional_Waterfall.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_13_Wardley_Mapping_and_Traditional_Waterfall.md)
 
 
 
@@ -511,7 +511,7 @@ By adopting a hybrid approach, project managers can harness the full potential o
 
 > This Wardley Map represents a forward-thinking approach to project management that combines the flexibility of Agile with the strategic insights of Wardley Mapping. It positions the organization to be highly adaptive to market changes while maintaining structured project execution. The key challenge and opportunity lie in fully integrating these approaches and developing the capabilities to leverage their combined power effectively. Success in this integration could provide a significant competitive advantage in project delivery and strategic alignment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_14_Hybrid_approaches_for_maximum_benefit.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_14_Hybrid_approaches_for_maximum_benefit.md)
 
 
 
@@ -549,7 +549,7 @@ By leveraging Wardley Maps to spot potential pitfalls, project managers can proa
 
 > This Wardley Map reveals a software development project management landscape in transition, balancing traditional approaches with emerging strategic tools like Wardley Mapping. The key to success lies in effectively managing the evolution from traditional to more adaptive practices, while proactively addressing external factors, dependencies, and organizational inertia. Organizations that can master this balance, leveraging both established tools and innovative approaches like Wardley Mapping, will be better positioned to navigate project pitfalls and achieve consistent success in an increasingly complex and dynamic environment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_15_Using_maps_to_spot_potential_pitfalls.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_15_Using_maps_to_spot_potential_pitfalls.md)
 
 
 
@@ -574,7 +574,7 @@ By leveraging Wardley Maps, project managers can align resource allocation with 
 
 > This Wardley Map represents a sophisticated approach to resource allocation optimization, leveraging Wardley Mapping as a central strategic tool. The organization shows strength in strategic planning and resource allocation, with emerging capabilities in predictive analytics. To maintain and enhance its competitive position, the focus should be on rapidly evolving the genesis and custom-built components, particularly in areas of future prediction and inefficiency detection. There's also a significant opportunity to create a more integrated ecosystem, especially by better incorporating talent management into the strategic framework. The central position of Wardley Mapping suggests a strong commitment to strategic visualization, which could be a key differentiator if continuously evolved and effectively operationalized across all levels of the organization.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_16_Leveraging_maps_for_resource_allocation.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_Leveraging_maps_for_resource_allocation.md)
 
 
 
@@ -600,7 +600,7 @@ A seasoned project manager once said, 'The ability to anticipate and adapt to ma
 
 > This Wardley Map reveals a project management approach that is strategically positioned to anticipate and adapt to market changes. The central role of Wardley Mapping provides a strong foundation for informed decision-making and risk mitigation. However, there are opportunities to enhance the integration of emerging technologies and innovation into the strategic planning process. By focusing on these areas and maintaining a dynamic, market-responsive approach, the organization can significantly improve its project success rate and competitive positioning in a rapidly evolving landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_17_Anticipating_market_changes_and_their_impact_on_pr.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_Anticipating_market_changes_and_their_impact_on_pr.md)
 
 
 
@@ -639,7 +639,7 @@ Remember that stakeholder needs and expectations are not static. As the project 
 
 > This Wardley Map reveals a maturing system for managing stakeholder needs and expectations in project management. While many components are well-evolved, there are significant opportunities for innovation, particularly in Implicit Needs identification and advanced Stakeholder Analysis. The strategic focus should be on developing more sophisticated, possibly AI-driven tools for these areas, while also ensuring a tighter integration between all components. The ability to quickly and accurately identify and respond to both explicit and implicit stakeholder needs will be a key differentiator in the future of project management. Organizations that can master this will be better positioned to deliver successful projects that truly meet stakeholder expectations.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_18_Visualising_stakeholder_needs_and_expectations.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_Visualising_stakeholder_needs_and_expectations.md)
 
 
 
@@ -666,7 +666,7 @@ By regularly reviewing and updating the Wardley Map throughout the project lifec
 
 > This Wardley Map represents a sophisticated approach to aligning project goals with organizational strategy, leveraging Wardley Mapping as a central tool. The organization shows maturity in strategic thinking but has opportunities to enhance its capabilities in dynamic adjustment and advanced analysis. By focusing on stakeholder involvement, regular reviews, and the evolution of key components like Wardley Mapping and Project Components, the organization can strengthen its strategic alignment processes. Future developments should focus on integrating emerging technologies and creating a more dynamic, real-time approach to strategic project management.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_19_Using_maps_to_align_project_goals_with_organisatio.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_Using_maps_to_align_project_goals_with_organisatio.md)
 
 
 
@@ -700,7 +700,7 @@ By leveraging Wardley Maps for project strategy communication, project managers 
 
 > This Wardley Map reveals a well-structured approach to project strategy communication, with Wardley Maps playing a central role. The key opportunity lies in evolving towards more dynamic, participatory approaches while maintaining the benefits of structured mapping. By focusing on enhancing stakeholder participation and leveraging emerging technologies for strategy visualization, organizations can significantly improve the effectiveness of their project strategy communication. The challenge will be to balance the need for structure and clarity provided by Wardley Maps with the flexibility and engagement offered by more participatory approaches.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_20_Effective_communication_of_project_strategy_using_.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_Effective_communication_of_project_strategy_using_.md)
 
 
 
@@ -736,7 +736,7 @@ By regularly revisiting and updating these scenario-based Wardley Maps throughou
 
 > This Wardley Map presents a comprehensive framework for scenario planning that enables organizations to develop adaptive strategies in the face of uncertainty. The map effectively links current realities with future possibilities, providing a structured approach to strategy development. Key strengths include the integration of No-Regret Moves and the clear progression from uncertainties to concrete strategies. To maximize the value of this approach, organizations should focus on developing capabilities for rapid strategy adaptation and deepening their understanding of key uncertainties and market realities. The future evolution of this space will likely see increased automation and real-time adaptation, requiring organizations to build agility into their core strategic processes.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_21_Scenario_planning_with_Wardley_Maps.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_21_Scenario_planning_with_Wardley_Maps.md)
 
 
 
@@ -772,7 +772,7 @@ By leveraging Wardley Maps and embracing a mindset of adaptability, project mana
 
 > This Wardley Map represents a sophisticated approach to resilient project management, balancing strategic foresight with tactical flexibility. The integration of Wardley Mapping as a core component demonstrates a commitment to advanced strategic thinking. Key opportunities lie in evolving early warning systems and enhancing real-time adaptation capabilities. By focusing on these areas and leveraging emerging technologies, this approach has the potential to set new standards for project resilience in uncertain environments.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_22_Adapting_to_change_and_uncertainty.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_22_Adapting_to_change_and_uncertainty.md)
 
 
 
@@ -810,7 +810,7 @@ Remember that flexibility doesn't mean lack of structure. Your roadmap should st
 
 > This Wardley Map presents a sophisticated approach to flexible project roadmapping that balances structure with adaptability. It recognizes the importance of evolving components, alternative scenarios, and emerging technologies in project success. The strategic position is strong, with clear opportunities for innovation in practices and technology integration. Key areas for improvement include enhancing real-time adaptability to market conditions and more seamless integration of emerging technologies into project processes. Overall, this approach positions organizations well to handle complex, dynamic project environments, but requires continuous evolution and capability development to maintain its effectiveness.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_23_Creating_flexible_project_roadmaps.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_Creating_flexible_project_roadmaps.md)
 
 
 
@@ -849,7 +849,7 @@ By integrating Wardley Mapping into your daily and weekly planning routines, you
 
 > This Wardley Map represents a sophisticated approach to daily project planning that leverages strategic mapping for tactical decision-making. The system is well-positioned for current needs but shows clear opportunities for evolution, particularly in the areas of digital tool enhancement, AI integration, and ecosystem development. By focusing on these areas, the project management approach can stay ahead of industry trends and maintain a competitive edge in rapidly changing market conditions. The key to success will be balancing the evolution of digital tools with the human elements of project management, ensuring that technological advancements support rather than supplant effective team dynamics and strategic thinking.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_24_Using_maps_for_daily_and_weekly_planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_Using_maps_for_daily_and_weekly_planning.md)
 
 
 
@@ -886,7 +886,7 @@ It's important to note that priorities may shift as the project progresses and t
 
 > This Wardley Map represents a sophisticated approach to task prioritisation that leverages strategic tools like Wardley Mapping to align project activities with customer value. The organization shows strength in strategic thinking and custom solutions, but may benefit from increased automation and standardization. The central position of Task Prioritisation and its dependencies illustrate a clear understanding of its importance in project success. Moving forward, the key challenge will be to balance the use of custom-built strategic tools with the efficiency gains of more evolved, standardized solutions, while maintaining a strong focus on customer value and project success.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_25_Prioritising_tasks_and_activities_based_on_map_ins.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_Prioritising_tasks_and_activities_based_on_map_ins.md)
 
 
 
@@ -920,7 +920,7 @@ By regularly updating the Wardley Map throughout project execution, project mana
 
 > This Wardley Map represents a forward-thinking approach to project management that integrates strategic visualization tools with established execution methodologies. The key strategic opportunity lies in fully leveraging evolving components like Wardley Mapping and Project GPS to enhance decision-making and adaptability. By focusing on the integration of these tools with AI-driven optimization and predictive capabilities, organizations can create a significant competitive advantage in managing complex projects with multiple dependencies and constraints. The challenge will be in effectively managing the evolution of these components while maintaining operational excellence and regulatory compliance.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_26_Managing_dependencies_and_constraints.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_Managing_dependencies_and_constraints.md)
 
 
 
@@ -956,7 +956,7 @@ By consistently tracking project progress and evolution through Wardley Maps, pr
 
 > This Wardley Map represents a sophisticated approach to project progress tracking that leverages strategic mapping techniques to enhance decision-making and align project execution with organizational goals. The system shows a good balance between custom and commoditized components, with clear opportunities for innovation in automation and AI-driven analysis. By focusing on evolving key components and addressing identified gaps, this approach has the potential to significantly enhance project management effectiveness and strategic alignment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_27_Tracking_project_progress_and_evolution.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_Tracking_project_progress_and_evolution.md)
 
 
 
@@ -990,7 +990,7 @@ By regularly updating and reviewing Wardley Maps throughout the project lifecycl
 
 > This Wardley Map presents a comprehensive and strategically sound approach to project bottleneck resolution. It effectively integrates strategic analysis tools, particularly Wardley Mapping, with practical project management concerns. The map indicates a mature understanding of the bottleneck resolution process, with opportunities for further evolution in predictive capabilities and real-time adaptability. Key strengths lie in the integrated approach to analysis and strategy development, while potential areas for improvement include tighter coupling between strategy and execution components. Overall, this map provides a solid foundation for effective project management and continuous improvement in bottleneck resolution practices.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_28_Identifying_and_addressing_bottlenecks.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_Identifying_and_addressing_bottlenecks.md)
 
 
 
@@ -1021,7 +1021,7 @@ By leveraging Wardley Maps in this way, project managers can turn unexpected cha
 
 > This Wardley Map represents a forward-thinking approach to project management that emphasizes adaptability and strategic visualization. The integration of Wardley Mapping with adaptive strategies positions the system well for handling unexpected changes. However, there are opportunities to enhance predictive capabilities, innovation management, and real-time adaptability. By focusing on these areas and evolving key components like Adaptive Strategies and Innovation Opportunities, the system can significantly improve its ability to navigate complex, changing project environments. The emphasis on Wardley Mapping as a central tool provides a unique advantage, but care should be taken to avoid over-reliance on a single methodology. Overall, this approach shows promise for leading the next evolution in adaptive project management practices.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_29_Adapting_to_unexpected_changes_and_challenges.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_29_Adapting_to_unexpected_changes_and_challenges.md)
 
 
 
@@ -1050,7 +1050,7 @@ Additionally, Wardley Maps can help teams identify patterns and trends across mu
 
 > This Wardley Map reveals a thoughtful approach to post-project reviews that goes beyond simple retrospectives to drive organizational learning and continuous improvement. The inclusion of Wardley Mapping elements like Component Evolution and Landscape Shifts suggests a sophisticated understanding of project dynamics. However, the map also highlights potential gaps, particularly in the transition from project-specific insights to broader organizational learning. By focusing on automating analytical processes, enhancing knowledge sharing, and developing robust organizational learning capabilities, the organization can significantly improve its ability to learn from projects and adapt to changing landscapes. The emphasis on continuous improvement positions the organization well for future challenges, but realizing this potential will require concerted effort in developing currently underdeveloped components.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_30_Using_maps_for_post-project_reviews.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_Using_maps_for_post-project_reviews.md)
 
 To maximise the benefits of using Wardley Maps in post-project reviews, project managers should establish a structured process for map analysis and ensure that insights gained are effectively documented and shared across the organisation. This approach will foster a culture of continuous learning and improvement, ultimately leading to more successful project outcomes in the future.
 
@@ -1084,7 +1084,7 @@ By fostering a culture of continuous learning and improvement through Wardley Ma
 
 > The organization demonstrates a strong commitment to building knowledge through Wardley Mapping, positioning itself well for strategic advantage. Key opportunities lie in automating and enhancing the mapping process, strengthening cross-team collaboration, and leveraging emerging technologies for deeper insights. The focus on continuous learning provides a solid foundation for adapting to future changes and maintaining competitive edge. To maximize the value of this approach, the organization should prioritize the evolution of its mapping practices, invest in supporting technologies, and foster a broader ecosystem for knowledge sharing and collaboration.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_31_Building_organisational_knowledge_through_mapping.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_Building_organisational_knowledge_through_mapping.md)
 
 
 
@@ -1120,7 +1120,7 @@ By integrating Wardley Mapping into the continuous improvement process, project 
 
 > This map represents a progressive approach to project management that leverages Wardley Mapping for strategic insights and continuous improvement. The organization is well-positioned to evolve its project management practices but must focus on developing capabilities in adaptive methodologies and cross-project learning to fully realize the benefits of this approach. The integration of Wardley Mapping with traditional project management offers a unique competitive advantage if executed effectively.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_32_Evolving_project_management_practices_based_on_map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_Evolving_project_management_practices_based_on_map.md)
 
 
 
@@ -1160,7 +1160,7 @@ By effectively creating and managing portfolio maps, project managers can gain a
 
 > This Wardley Map reveals a portfolio management system that is evolving from custom-built solutions towards more productized offerings. The central role of the Portfolio Map provides a strong foundation, but there are significant opportunities for innovation in resource allocation, synergy identification, and standardization. By focusing on these areas and leveraging emerging technologies, organizations can create a more efficient, value-driven approach to multi-project and programme management. The key to success will be balancing customization with standardization, and integrating advanced analytics to drive decision-making and optimization across the portfolio.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_33_Creating_and_managing_portfolio_maps.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_Creating_and_managing_portfolio_maps.md)
 
 
 
@@ -1187,7 +1187,7 @@ Another crucial aspect of resource balancing is understanding the evolutionary s
 
 > This Wardley Map reveals an organization with strong foundational project management capabilities, actively working to balance resources across multiple projects. The inclusion of strategic components like Wardley Mapping indicates a forward-thinking approach. However, there are opportunities to enhance efficiency through greater standardization and evolution of custom components. The organization is well-positioned to leverage emerging technologies and methodologies to gain a competitive advantage in multi-project management, provided it addresses the identified capability gaps and focuses on the recommended strategic initiatives.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_34_Balancing_resources_across_multiple_projects.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_Balancing_resources_across_multiple_projects.md)
 
 By leveraging Wardley Maps, project managers can also prioritise resource allocation based on strategic importance. Components that are higher up the value chain or those that are evolving rapidly may require more resources to maintain a competitive advantage. This strategic view enables managers to make tough decisions about resource allocation when conflicts arise between projects.
 
@@ -1218,7 +1218,7 @@ When examining overlaid maps, project managers should look for components that a
 
 > This Wardley Map reveals a maturing multi-project portfolio management approach with clear areas for improvement and innovation. The focus on Overlaid Maps and Shared Components presents significant opportunities for enhancing efficiency and strategic alignment. By addressing the identified bottlenecks, leveraging emerging technologies, and fostering a more integrated approach to cross-project collaboration, organizations can significantly improve their multi-project management capabilities. The evolution towards more data-driven, AI-enhanced project management will be crucial for maintaining competitive advantage in complex project environments.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_35_Identifying_synergies_and_conflicts_between_projec.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_35_Identifying_synergies_and_conflicts_between_projec.md)
 
 Synergies often emerge when projects share components in similar evolutionary stages. For example, if two projects require the development of a new API, combining these efforts can lead to cost savings and improved standardisation. Conflicts, on the other hand, may arise when multiple projects compete for the same limited resources or when they have conflicting goals for shared components.
 

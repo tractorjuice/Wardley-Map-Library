@@ -116,7 +116,7 @@ By using Wardley Maps, even children can learn to think like clever business lea
 
 > This Wardley Map effectively illustrates the strategic components and relationships involved in building a sandcastle, serving as a powerful metaphor for business and life strategies. It highlights the critical role of creativity and planning in driving value, while also emphasizing the importance of efficient resource utilization and adaptability to external factors. The map suggests opportunities for innovation in both high-value (Creativity, Planning) and evolving (Moat) components, while also indicating potential risks from external factors (Tide) and resource dependencies. To maximize strategic advantage, focus should be placed on fostering a culture of creativity, optimizing planning processes, and developing adaptive strategies to mitigate external risks. The map's unique inclusion of Creativity as a key component and consideration of external factors provides valuable insights for strategic planning across various domains.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_02_Why_maps_are_useful_in_business_and_life.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_Why_maps_are_useful_in_business_and_life.md)
 
 
 
@@ -144,7 +144,7 @@ This structure allows children to start with familiar stories and gradually buil
 
 > This Wardley Map represents an innovative approach to introducing strategic thinking and Wardley Mapping concepts to children through familiar fairy tales. The structure balances engagement and education effectively, with a clear progression from accessible story elements to more complex mapping principles. The unique positioning in the intersection of children's literature and strategic education offers significant opportunities for differentiation and value creation. Key challenges lie in maintaining the right balance of entertainment and education, and in effectively simplifying complex concepts without losing their essence. The future success of this approach will depend on continuous refinement based on user feedback, strategic partnerships within both educational and Wardley Mapping communities, and the ability to evolve with technological advancements in interactive learning. Overall, this map indicates a promising and potentially disruptive approach to early strategic education, with room for expansion and evolution in multiple directions.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_03_The_structure_of_each_chapter.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_The_structure_of_each_chapter.md)
 
 
 
@@ -170,7 +170,7 @@ Remember, the goal is to make learning fun and engaging. Don't worry about perfe
 
 > This map represents an innovative approach to introducing complex strategic concepts to children through familiar storytelling methods. The strategic positioning effectively bridges the gap between fairy tales and practical strategic thinking, with significant potential for growth and evolution in the educational technology space. Key focus areas should be enhancing interactivity, simplifying complex concepts, and developing robust real-life applications to ensure long-term engagement and value. The unique combination of storytelling and strategic education positions this product well in a niche market, with potential for broader impact on early business education.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_04_How_to_use_this_book_with_children.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_How_to_use_this_book_with_children.md)
 
 
 
@@ -238,7 +238,7 @@ Just like in Hansel and Gretel's story, identifying user needs is crucial in the
 
 > This Wardley Map illustrates a survival-focused strategy with a clear end goal. The key to success lies in balancing immediate survival needs with progress towards finding a way home. The main strategic challenge is evolving the 'Way Home' component while maintaining proficiency in survival skills. Future success depends on developing a deep understanding of the forest ecosystem and continuously improving navigation capabilities.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_07_Identifying_user_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_Identifying_user_needs.md)
 
 
 
@@ -265,7 +265,7 @@ Let's arrange these components on our map. We'll put the most visible things to 
 
 > This Wardley Map of Hansel and Gretel's journey home reveals a complex, multi-stage challenge with various obstacles, tools, and opportunities. The strategic position is one of vulnerability but with potential for growth and success. Key opportunities lie in developing more reliable navigation methods, enhancing problem-solving skills, and remaining open to unexpected sources of aid. The main risks come from deception (Gingerbread house) and direct threats (Witch, Cage), emphasizing the need for caution and adaptability. Future strategies should focus on building resilience, improving threat detection, and developing a more comprehensive understanding of the environment (Forest). The unexpected elements (like the Duck) suggest that flexibility and openness to unconventional solutions will be crucial for success in similar future journeys.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_08_Mapping_the_components.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_Mapping_the_components.md)
 
 This map helps us see how different parts of the story connect. For example, the breadcrumbs depend on the forest, and the gingerbread house leads to encountering the witch. By mapping it out this way, we can better understand the story and think about how Hansel and Gretel might plan their actions.
 
@@ -296,7 +296,7 @@ By understanding how things evolve in Hansel and Gretel's story, we can learn to
 
 > The map represents a survival scenario where adaptability and problem-solving are key. The strategic focus should be on rapidly evolving Problem-solving Skills while developing a deeper understanding of the Forest ecosystem. Innovation in navigation methods and risk mitigation strategies for threats like the Witch's House are crucial for long-term success. The evolving nature of key components suggests a dynamic environment requiring continuous adaptation and skill development.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_09_Understanding_evolution.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_Understanding_evolution.md)
 
 
 
@@ -323,7 +323,7 @@ By creating a map of Hansel and Gretel's journey, we can see how planning ahead 
 
 > The Hansel and Gretel Forest Journey map reveals a strategic landscape focused on safe forest navigation through planning, resource management, and knowledge acquisition. While innovative solutions like Breadcrumbs are present, the system faces challenges in predictability and reliability. The key opportunities lie in enhancing Journey Planning visibility, developing more robust Backup Plans, and advancing Environmental Knowledge systems. By focusing on these areas, particularly through leveraging emerging technologies and fostering ecosystem collaborations, Hansel and Gretel can significantly improve their forest navigation capabilities and overall safety. The evolving nature of critical components suggests a dynamic environment that requires continuous adaptation and innovation to maintain strategic advantage.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_10_The_importance_of_planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_10_The_importance_of_planning.md)
 
 
 
@@ -349,7 +349,7 @@ Just like Hansel and Gretel, we can use mapping to help us understand our curren
 
 > This Wardley Map illustrates a system in transition, moving from traditional navigation methods to more innovative and reliable approaches. The key strategic focus should be on enhancing Adaptation and Cleverness to drive continuous innovation in Navigation Methods. While Pebbles represents a significant improvement, there's potential for even more advanced solutions. The system's success hinges on balancing reliability with flexibility to handle the unpredictable nature of the Forest environment. By prioritizing the development of multiple, diverse navigation methods and fostering a strong capability for rapid adaptation, the system can ensure long-term resilience and effectiveness in meeting User needs.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_11_Adapting_to_change.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_Adapting_to_change.md)
 
 
 
@@ -449,7 +449,7 @@ We'll place these building materials on our map based on how evolved they are. S
 
 > This Wardley Map illustrates a simplified yet insightful representation of the construction industry through the lens of the Three Little Pigs story. It highlights the progression from basic to advanced materials and methods, emphasizing the need for alignment between material evolution and construction technique advancement. The strategic focus should be on optimizing high-value components like brick production and masonry skills, while also investing in innovation to bridge the gap between material availability and construction method efficiency. There's significant potential for industry advancement through standardization, skill development, and the exploration of new materials and techniques that combine durability with ease of use.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_16_Mapping_building_materials_and_methods.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_Mapping_building_materials_and_methods.md)
 
 Next, let's consider the building methods used by each pig. We can add these to our map to show how they relate to the materials:
 
@@ -467,7 +467,7 @@ We'll position these methods on our map, showing how they relate to the material
 
 > This Wardley Map illustrates a simplified yet insightful representation of the construction industry through the lens of the Three Little Pigs story. It highlights the progression from basic to advanced materials and methods, emphasizing the need for alignment between material evolution and construction technique advancement. The strategic focus should be on optimizing high-value components like brick production and masonry skills, while also investing in innovation to bridge the gap between material availability and construction method efficiency. There's significant potential for industry advancement through standardization, skill development, and the exploration of new materials and techniques that combine durability with ease of use.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_16_Mapping_building_materials_and_methods.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_Mapping_building_materials_and_methods.md)
 
 > A wise builder once said, 'The strength of a house lies not just in its materials, but in how they are put together.'
 
@@ -493,7 +493,7 @@ This evolution in construction methods teaches us an important lesson about how 
 
 > This Wardley Map effectively illustrates the evolution of construction practices through a familiar narrative. It highlights the strategic importance of advancing building materials and techniques to achieve better security and durability. The map suggests that the future of construction lies in further evolving materials and techniques, potentially towards smart, sustainable, and automated solutions. To stay competitive, organizations in this space should focus on innovation in materials, standardization of advanced techniques, and the integration of emerging technologies. The key challenge will be balancing the need for evolution with maintaining affordability and accessibility of construction services.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_17_Exploring_evolution_in_construction.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_Exploring_evolution_in_construction.md)
 
 
 
@@ -521,7 +521,7 @@ By using a Wardley Map to visualise the pigs' construction choices, we can help 
 
 > This map illustrates the critical role of planning in maximizing the value of construction materials. While there's a clear hierarchy in material effectiveness, the strategic focus should be on enhancing planning capabilities and fostering innovation in material development. The ecosystem has significant potential for greater integration and collaboration, which could lead to more efficient and effective construction processes. Future strategies should balance the optimization of current practices with investment in emerging technologies and materials.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_18_The_value_of_planning_ahead.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_The_value_of_planning_ahead.md)
 
 
 
@@ -547,7 +547,7 @@ The map helps us understand that sometimes we need to move quickly, like when th
 
 > This map effectively illustrates the strategic challenges in balancing speed, quality, and security in construction. It highlights the importance of long-term thinking and quality investment in the face of significant threats. The key strategic imperative is to move towards a balanced approach that maintains security while optimizing efficiency, potentially through innovation in materials and construction techniques. The ecosystem would benefit from increased collaboration and knowledge sharing among all players to enhance overall resilience and adaptability.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_19_Balancing_speed_and_quality.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_Balancing_speed_and_quality.md)
 
 
 
@@ -571,7 +571,7 @@ By using a Wardley Map to analyse the pigs' choices, we can see how important it
 
 > The map reveals a strategic landscape focused on survival through iterative learning and material improvement. While the pigs have made significant progress in their building strategies, there's potential for more proactive and collaborative approaches. The key to long-term success lies in accelerating the learning process, exploring innovative building technologies, and developing more sophisticated predictive strategies. By shifting from a reactive to a proactive stance and leveraging collective knowledge, the pigs can create a more resilient and adaptive defense system against evolving threats.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_20_Learning_from_mistakes.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_Learning_from_mistakes.md)
 
 
 
@@ -645,7 +645,7 @@ By mapping out Cinderella's needs and the components that support them, we can b
 
 > This Wardley Map of Cinderella's journey reveals a strategic landscape where magical intervention plays a crucial but potentially unsustainable role in fulfilling personal needs. The future strategy should focus on balancing magical advantages with personal development and broader relationship-building. By evolving beyond the initial transformation, Cinderella can create a more resilient and fulfilling long-term position in the royal ecosystem.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_23_Identifying_Cinderella's_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_Identifying_Cinderella's_needs.md)
 
 
 
@@ -674,7 +674,7 @@ By mapping these magical elements, we can see how they work together to help Cin
 
 > The Cinderella's Magical Elements map reveals a well-structured but centralized magical system with clear progression from unique to more standardized components. The strategic focus should be on addressing the time limitation constraint, diversifying magical sources, and gradually evolving towards more sustainable and user-controlled magic while maintaining the unique charm of key elements like the Glass Slippers. There's significant potential for innovation in making magic more accessible and customizable, which could lead to new story possibilities and expanded magical ecosystems.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_24_Mapping_the_magical_elements.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_Mapping_the_magical_elements.md)
 
 
 
@@ -701,7 +701,7 @@ By understanding this evolution, we can see how Cinderella's world transforms an
 
 > This Wardley Map of Cinderella's transformation reveals a strategy centered on rapid, externally-driven change to achieve a shift in social status. While effective for the immediate goal of attending the ball, the reliance on temporary, magical solutions suggests potential long-term vulnerabilities. Future strategies should focus on developing more sustainable means of status improvement and personal empowerment, while leveraging the unique advantages gained from this magical intervention. The interplay between magical and mundane elements offers rich opportunities for innovation and storytelling, potentially shifting the narrative towards themes of personal growth and societal change beyond the traditional fairy tale ending.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_25_Understanding_evolution_in_Cinderella's_world.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_Understanding_evolution_in_Cinderella's_world.md)
 
 
 
@@ -727,7 +727,7 @@ As a wise fairy godmother once said, 'Even the smallest change can lead to the m
 
 > The map represents a powerful transformation journey with a unique competitive advantage in Magic. However, there's a need to evolve this advantage, make transformations more sustainable, and diversify opportunities to maintain long-term strategic relevance in the Fairy Tale World. The key focus should be on developing internal magical capabilities, enhancing the transformation process, and creating a broader range of high-value opportunities.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_26_The_power_of_transformation.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_The_power_of_transformation.md)
 
 
 
@@ -751,7 +751,7 @@ By mapping out Cinderella's journey, we can see how different elements came toge
 
 > This Wardley Map represents a system focused on recognizing and capitalizing on transformative opportunities. It highlights the importance of creative thinking, preparedness, and the ability to repurpose existing resources. The strategic position is strong in terms of opportunity recognition but relies heavily on external magical intervention. Future success will depend on evolving creative thinking and preparedness capabilities, potentially internalizing the transformative powers currently provided by the Fairy Godmother. The unique approach to resource transformation (Pumpkin, Mice) offers a competitive advantage that could be further leveraged. Overall, the system shows promise but needs to focus on developing more structured, replicable processes to ensure consistent success in recognizing and seizing opportunities.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_27_Recognizing_opportunities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_Recognizing_opportunities.md)
 
 
 
@@ -777,7 +777,7 @@ In our own lives and projects, we can learn from Cinderella's map to identify ke
 
 > This map illustrates a powerful but potentially unsustainable transformation process, highlighting the critical importance of timing and unique identifiers in seizing life-changing opportunities. While effective in the short term, the strategy relies heavily on external intervention and operates under strict time constraints. Future success will depend on developing more sustainable, self-driven transformation capabilities and building a broader network of opportunities beyond the initial catalyst event.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_28_The_importance_of_timing.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_The_importance_of_timing.md)
 
 
 
@@ -827,7 +827,7 @@ These elements provide a rich foundation for exploring concepts like value chain
 
 > The Wardley Map of Jack and the Beanstalk reveals a high-risk, high-reward venture with significant potential for value creation. Jack's strategic position and unique access to magical resources provide a strong competitive advantage. However, the reliance on a single, high-risk path (the Beanstalk) and the presence of a powerful antagonist (the Giant) present significant challenges. The key to long-term success lies in leveraging current advantages while developing sustainable practices and mitigating risks. Future strategies should focus on diversifying magical assets, improving access to the magical realm, and creating a robust ecosystem that bridges the mundane and magical worlds.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_30_Important_elements_of_the_story.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_Important_elements_of_the_story.md)
 
 
 
@@ -861,7 +861,7 @@ A wise business strategist once said, 'Understanding the needs of your users is 
 
 > This map represents a unique blend of basic survival needs and magical opportunities. The strategic position is strong due to exclusive access to valuable magical resources, but vulnerable due to the reliance on a single, risky venture. The key to long-term success lies in stabilizing the magical supply chain, diversifying adventure sources, and developing sustainable relationships with the giant realm. Innovation in beanstalk technology and giant diplomacy could open up entirely new markets and opportunities beyond the initial treasure acquisition. Overall, the map suggests a high-risk, high-reward scenario with significant potential for growth and transformation of the entire fairy tale ecosystem.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_31_Identifying_Jack's_needs.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_Identifying_Jack's_needs.md)
 
 
 
@@ -893,7 +893,7 @@ By mapping out Jack's adventure, we can see how each component plays a crucial r
 
 > The map represents a high-risk, high-reward venture centered around accessing and extracting value from a magical realm. The strategic focus should be on stabilizing and optimizing the path to value (Beans -> Beanstalk -> Castle), while developing capabilities to manage risks (Giant) and maximize the potential of acquired assets (Eggs, Harp). Long-term success will depend on innovating within this magical ecosystem and potentially transforming one-time adventure into a sustainable, repeatable process.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_32_Mapping_the_components_of_Jack's_journey.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_Mapping_the_components_of_Jack's_journey.md)
 
 
 
@@ -924,7 +924,7 @@ Finally, the golden eggs evolve from being a rare and magical treasure to a pote
 
 > Jack's Magic Bean Adventure represents a unique business opportunity with a clear value chain from novel input to valuable output. The key to success lies in optimizing each stage of the journey, from enhancing Magic Bean potential to innovating around Golden Egg applications. By focusing on capability development, especially in Beanstalk growth and Castle navigation, and by building a strong ecosystem of partners, this venture can evolve from a fairy tale concept to a robust, innovative business model. The rapid evolution of components suggests a dynamic market with significant potential for first-mover advantages and disruptive innovation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_33_Exploring_evolution_in_Jack's_world.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_Exploring_evolution_in_Jack's_world.md)
 
 
 
@@ -953,7 +953,7 @@ By using our Wardley Map of Jack's adventure, we can see how different component
 
 > This Wardley Map illustrates a high-risk, high-reward scenario where success hinges on balancing known strengths with unknown challenges. The strategic position is strong in terms of the protagonist's experience and risk assessment capabilities, but faces significant uncertainties in the key objective areas. The primary strategic focus should be on leveraging advanced risk management and adaptable planning to navigate the uncertainties, while continuously seeking to improve visibility and control over the less predictable elements. Long-term success will likely depend on innovative approaches to gathering intelligence, enhancing climbing capabilities, and developing more sophisticated predictive models for risk and reward assessment.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_34_Taking_calculated_risks.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_Taking_calculated_risks.md)
 
 
 
@@ -993,7 +993,7 @@ By examining the map, we can see how Jack's choices impact not only himself but 
 
 > This Wardley Map reveals a complex ethical landscape in Jack's beanstalk venture, highlighting the tension between seizing magical opportunities and maintaining moral integrity. The strategic position emphasizes the critical importance of ethical decision-making and creative problem-solving in navigating this fantastical business environment. The map suggests significant opportunities for innovation in ethical magical ventures, while also highlighting the risks of moral compromise and potential negative impacts on other entities like the Giant. Moving forward, Jack's success will likely depend on his ability to develop sustainable, ethically-sound business models that balance personal gain with broader positive impacts, potentially through collaborative approaches with other ecosystem participants. The evolving nature of key components such as Ethical Decision Making and Creative Problem-Solving indicates a dynamic environment where continuous innovation and adaptation will be crucial for long-term success.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_36_Balancing_ethics_and_opportunity.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_36_Balancing_ethics_and_opportunity.md)
 
 Ultimately, the map can help children brainstorm ways Jack could have achieved his goals (opportunity) while still making ethical choices. This exercise encourages creative problem-solving and reinforces the importance of integrity in any venture.
 
@@ -1023,7 +1023,7 @@ A wise mapmaker once said, 'A good map doesn't just show where you are, it revea
 
 > This Wardley Map effectively captures the key elements of fairy tale storytelling, highlighting the progression from foundational magical elements to user satisfaction. The strategic position is strong, with clear value flow and well-positioned components. However, there are significant opportunities for innovation, particularly in evolving the lower-level components like Magic Spells and Forest Paths. By focusing on these areas, it's possible to create more dynamic, interactive, and personalized fairy tale experiences. The challenge will be to balance innovation with the timeless appeal of traditional fairy tale structures, ensuring that new developments enhance rather than disrupt the core storytelling experience.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_37_Key_elements_of_a_Wardley_Map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_37_Key_elements_of_a_Wardley_Map.md)
 
 
 

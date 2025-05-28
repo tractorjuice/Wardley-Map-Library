@@ -168,7 +168,7 @@ To address these challenges, organisations can leverage the principles outlined 
 
 > This Wardley Map reveals a significant shift in the IP management landscape, moving from traditional, defensive practices to more dynamic, strategic approaches. Organizations that can successfully navigate this transition, leveraging tools like Wardley Mapping for IP and integrating their IP strategy with innovation processes, will likely gain a competitive advantage. The map highlights the importance of developing new capabilities in strategic IP management and visual strategy tools, while also emphasizing the need for greater cross-functional collaboration and alignment with broader innovation ecosystems. As the field evolves, those who can effectively implement Dynamic IP Strategy and leverage emerging tools and methodologies will be best positioned to create and capture value from their intellectual property assets.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_01_Traditional_IP_Management_vs._Dynamic_IP_Strategy.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_01_Traditional_IP_Management_vs._Dynamic_IP_Strategy.md)
 
 As organisations navigate the transition from traditional IP management to dynamic IP strategy, it's crucial to recognise that this is not a binary choice but a continuum. Many organisations will find themselves at different points along this spectrum, with some aspects of their IP management remaining traditional while others become more dynamic and strategic.
 
@@ -229,7 +229,7 @@ As we move forward in an increasingly complex and fast-paced innovation landscap
 
 > The map reveals a public research institution with a solid foundation in IP management but significant opportunities for enhancement through the strategic use of Visual Mapping and a more dynamic IP Strategy. By focusing on these areas, the institution can improve its entire value chain from basic research to commercial application, potentially leading to more valuable IP portfolios and more effective technology transfer. The emphasis on Visual Mapping is particularly noteworthy and could become a key differentiator in the industry. However, careful attention must be paid to potential bottlenecks in Patent Filing and Technology Transfer to ensure the full value of research outputs is realized.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_02_The_Need_for_Visual_Mapping_in_IP_Planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_02_The_Need_for_Visual_Mapping_in_IP_Planning.md)
 
 
 
@@ -274,7 +274,7 @@ Moreover, in the realm of public policy, this approach can be invaluable for mod
 
 > This Wardley Map represents an innovative and forward-thinking approach to government IP portfolio management. By integrating LEGO-inspired visualization techniques with Wardley Mapping principles, it creates a unique framework for developing, communicating, and evolving IP strategies. The focus on modularity and visual representation, combined with the incorporation of emerging technologies, positions this approach at the forefront of IP strategy innovation. However, careful management of the balance between established practices and cutting-edge technologies will be crucial for success. The government has the opportunity to lead in redefining how IP strategies are developed and implemented, potentially influencing practices across various sectors and fostering a more dynamic, collaborative innovation ecosystem.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_03_LEGO_and_Wardley:_A_Powerful_Combination.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_03_LEGO_and_Wardley:_A_Powerful_Combination.md)
 
 Challenges and Considerations:
 
@@ -344,7 +344,7 @@ Understanding these foundational elements is crucial for anyone looking to lever
 
 > This Wardley Map reveals a sophisticated approach to IP strategy with innovative visualization techniques, but highlights a potential imbalance between strategic sophistication and operational execution. The key opportunity lies in evolving Innovation and R&D processes to match the maturity of strategic elements, while leveraging unique visualization and mapping capabilities to drive competitive advantage. By addressing these gaps and fully integrating novel approaches like LEGO Visualization, the organization can position itself as a leader in holistic, user-centric IP management.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_04_Core_Concepts_and_Components.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_04_Core_Concepts_and_Components.md)
 
 
 
@@ -384,7 +384,7 @@ Furthermore, we can use LEGO-style connectors to show relationships between diff
 
 > The LEGO-Inspired IP Value Chain map represents a comprehensive and strategically-oriented approach to IP management. It shows a strong foundation in traditional IP assets with an emerging focus on strategic management and monetization. Key opportunities lie in further integrating market intelligence, adopting emerging technologies, and developing a more collaborative ecosystem approach. The main challenges include managing the rapid evolution of key components like Patents and Trade Secrets, and ensuring that IP Strategy remains agile and value-driven. Overall, the map indicates a forward-thinking approach to IP management with significant potential for value creation and competitive advantage.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_05_Value_Chain_Visualization.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_05_Value_Chain_Visualization.md)
 
 Strategic Insights: The true power of value chain visualisation for IP strategy lies in the strategic insights it can provide. By visually representing your IP portfolio, its dependencies, and its evolution, you can:
 
@@ -472,7 +472,7 @@ This hands-on approach led to a 30% increase in strategic patent filings and a m
 
 > The map reveals a government research organization with a strong foundation in traditional R&D and IP management, but facing challenges in adapting to more open and collaborative innovation models. The strategic position is solid but risks becoming outdated without evolution. Key opportunities lie in better leveraging Strategic Partnerships, integrating Open Innovation practices, and developing more agile responses to Market Changes. The organization should focus on evolving its IP Protection Strategies and R&D Efforts to maintain Competitive Advantage in a rapidly changing landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_06_Evolution_and_Movement_in_Maps.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_06_Evolution_and_Movement_in_Maps.md)
 
 In conclusion, mastering the concepts of evolution and movement in Wardley Maps, especially when enhanced with LEGO-inspired visualisation techniques, provides a powerful framework for dynamic IP strategy development. It enables organisations to anticipate market changes, position their IP assets strategically, and create flexible, future-proof IP portfolios that drive innovation and competitive advantage in the public sector.
 
@@ -534,7 +534,7 @@ In conclusion, the LEGO approach to strategy, with its emphasis on modularity an
 
 > This Wardley Map reveals a public sector IP strategy landscape in transition, moving from traditional, static approaches to more dynamic, adaptive, and collaborative models. The strategic imperative is to develop capabilities in rapid strategy iteration, scenario planning, and open innovation while maintaining the value of existing IP assets. Success will depend on effectively balancing traditional IP protection with new, more flexible approaches, and fostering an ecosystem that encourages innovation and collaboration across sectors.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_07_Modularity_and_Flexibility_in_Planning.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_07_Modularity_and_Flexibility_in_Planning.md)
 
 
 
@@ -586,7 +586,7 @@ In conclusion, the LEGO approach to building complex IP systems from simple comp
 
 > This Wardley Map presents a forward-thinking approach to IP strategy, leveraging modularity and interconnectivity principles inspired by LEGO. The strategy is well-positioned to adapt to changing innovation needs but must continue evolving its lower-level components to maintain its effectiveness. Key focus areas should include enhancing visualization capabilities, integrating emerging technologies like AI and blockchain, and developing a more open, ecosystem-centric approach to IP management and innovation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_08_Building_Complex_Systems_from_Simple_Components.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_08_Building_Complex_Systems_from_Simple_Components.md)
 
 
 
@@ -669,7 +669,7 @@ Addressing these challenges requires a commitment to cultural change, investment
 
 > This Wardley Map represents a forward-thinking approach to IP strategy development, emphasizing iterative design, continuous improvement, and novel methodologies like the LEGO Approach. The organization is well-positioned to innovate in IP strategy but needs to focus on evolving its custom methodologies and strengthening connections with rapidly changing market and technological landscapes. By leveraging its unique approaches and fostering a collaborative ecosystem, the organization has the potential to become a leader in adaptive, future-proof IP strategy development.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_09_Iterative_Design_and_Continuous_Improvement.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_09_Iterative_Design_and_Continuous_Improvement.md)
 
 Conclusion
 
@@ -733,7 +733,7 @@ In conclusion, categorising IP assets using the LEGO Wardley mapping approach pr
 
 > This Wardley Map presents a comprehensive and strategically aligned IP management approach, with a strong foundation in traditional IP types and a clear path to value creation. However, to maintain competitive advantage, the organization should focus on developing capabilities in emerging IP areas, particularly those related to digital technologies, AI, and data rights. The integration of advanced technologies for IP management and a more collaborative ecosystem approach could significantly enhance the overall IP strategy. Prioritizing the evolution of Trade Secret Management and IP Portfolio Management, while exploring innovative approaches to Patent Commercialization and Copyright Management in the digital age, will be crucial for future success.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_10_Categorizing_IP:_Patents,_Trademarks,_Copyrights,_.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_10_Categorizing_IP:_Patents,_Trademarks,_Copyrights,_.md)
 
 
 
@@ -773,7 +773,7 @@ Illustrating Internal Organisational Dependencies: IP assets often have dependen
 
 > The organization demonstrates a strong foundation in IP management with a forward-thinking approach through the integration of LEGO Wardley Mapping. To maintain and enhance its competitive position, it should focus on evolving its mapping capabilities, strengthening market linkages, and fostering a more agile, market-driven approach to IP strategy. The unique combination of traditional IP assets with innovative strategic tools positions the organization well for future challenges, provided it can address the identified gaps and leverage its strengths effectively.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_11_Mapping_Dependencies_and_Relationships.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_11_Mapping_Dependencies_and_Relationships.md)
 
 The power of the LEGO Wardley Mapping approach lies in its ability to create a dynamic, three-dimensional representation of IP dependencies and relationships. This method allows for easy reconfiguration as the IP landscape evolves, enabling organisations to adapt their strategies quickly in response to changes in technology, market conditions, or legal frameworks.
 
@@ -850,7 +850,7 @@ In conclusion, visualising the evolution of IP assets using the LEGO Wardley Map
 
 > This Wardley Map presents a sophisticated view of IP asset evolution, highlighting the critical path from ideation to monetization. The strategic position is strong, with a clear understanding of the value chain and influencing factors. Key opportunities lie in optimizing the transition between evolution stages, particularly from Early-Stage Innovations to Tailored IP Solutions. The integration of advanced technologies and predictive analytics into the IP development process could provide significant competitive advantages. To maintain leadership, focus should be on building agility into the IP development pipeline, strengthening connections between R&D and monetization, and developing a robust ecosystem approach to innovation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_12_Visualizing_the_Evolution_of_IP_Assets.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_12_Visualizing_the_Evolution_of_IP_Assets.md)
 
 
 
@@ -908,7 +908,7 @@ This visualisation prompted a strategic shift, leading the institution to focus 
 
 > The map reveals a mature and well-structured IP strategy for a government research institution. While there's a strong foundation in traditional IP types, there are opportunities to evolve the strategy to better align with emerging trends in technology and innovation. Key areas for improvement include strengthening trade secret management, optimizing the use of copyrights, and preparing for the increasing importance of data-related IP. The institution is well-positioned to leverage its diverse IP portfolio for competitive advantage, but must remain vigilant in adapting to the rapidly evolving IP landscape, particularly in areas like AI and data rights. Strategic focus on enhancing IP portfolio management with advanced technologies and exploring new models of innovation could significantly boost the institution's ability to generate value from its research outputs.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_13_Using_Colour-Coding_for_IP_Types.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_13_Using_Colour-Coding_for_IP_Types.md)
 
 Best Practices for Colour-Coding in IP Wardley Maps:
 
@@ -967,7 +967,7 @@ In practice, this could be used to map out the IP landscape for a long-term gove
 
 > This Wardley Map represents a sophisticated, layered approach to IP strategy that leverages modular, stackable concepts. It shows strong foundational IP assets and strategic planning capabilities, but indicates opportunities for improvement in value extraction and collaborative efforts. The emphasis on visualization and modular approaches suggests a forward-thinking strategy that could provide significant competitive advantages if fully realized. Key areas for development include enhancing licensing capabilities, fostering more collaborative projects, and creating stronger links between high-level strategy and operational IP management. The integration of emerging technologies, particularly in portfolio management and visualization, could further strengthen the overall IP strategy and position the organization as a leader in innovative IP management practices.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_14_Stackable_Blocks_for_Layered_IP_Strategies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_14_Stackable_Blocks_for_Layered_IP_Strategies.md)
 
 Implementing the Stackable Block Approach in Practice: To effectively utilise this visualisation technique, organisations should consider the following steps:
 
@@ -1023,7 +1023,7 @@ Cross-Horizon Linkages: One of the most powerful aspects of this visualisation t
 
 > This Wardley Map reveals a sophisticated approach to IP management that considers both current assets and future opportunities across innovation horizons. The strategic focus on IP Asset Visualization and Cross-Horizon Linkages provides a strong foundation for competitive advantage. However, there are opportunities to further enhance the connection between current and future IP assets, and to develop more advanced tools for cross-horizon analysis and portfolio optimization. By addressing these areas and leveraging emerging technologies, organizations can create a more dynamic and future-proof IP strategy that aligns closely with overall business objectives and drives long-term innovation success.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_15_Connecting_Pieces_to_Show_IP_Interactions.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_15_Connecting_Pieces_to_Show_IP_Interactions.md)
 
 Practical Applications in IP Strategy:
 
@@ -1113,7 +1113,7 @@ By following this step-by-step guide, you'll create a powerful visual representa
 
 > This IP Strategy Wardley Map reveals a system in transition, balancing traditional IP assets with emerging strategic tools and data-driven approaches. The key opportunity lies in accelerating the evolution of data sets and strategy analysis capabilities, while leveraging novel visualization techniques to enhance decision-making. To maintain competitive advantage, the organization should prioritize data strategy development, integrate R&D more closely with IP processes, and fully embrace dynamic strategy tools like LEGO Visualization. The future of IP strategy, as indicated by this map, will likely be more data-centric, visually intuitive, and dynamically responsive to market changes.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_16_Step-by-Step_Guide_to_Building_an_IP_Map.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_16_Step-by-Step_Guide_to_Building_an_IP_Map.md)
 
 As you become more proficient in creating and using IP Wardley Maps, you'll find them invaluable for scenario planning, competitive analysis, and even guiding R&D efforts. The combination of Wardley Mapping principles with LEGO-inspired visualisation creates a uniquely powerful tool for navigating the complex world of intellectual property strategy.
 
@@ -1189,7 +1189,7 @@ As you embark on creating your first IP Wardley Map, keep these pitfalls in mind
 
 > This Wardley Map reveals a comprehensive approach to IP strategy that recognizes both traditional portfolio management and emerging dynamic practices. The key strategic opportunity lies in better integrating evolving components like Dynamic Mapping and External Factor Analysis with established practices, potentially leading to more adaptive and resilient IP strategies. Organizations should focus on developing capabilities in these emerging areas while ensuring robust connections across all components to create a more responsive and value-driven IP management system.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_17_Common_Pitfalls_and_How_to_Avoid_Them.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_17_Common_Pitfalls_and_How_to_Avoid_Them.md)
 
 
 
@@ -1242,7 +1242,7 @@ By interpreting this landscape, the agency could decide to allocate resources to
 
 > The Renewable Energy IP Landscape map reveals a sector in transition, with mature technologies like Solar Panel IP coexisting with emerging opportunities in Energy Storage. The strategic positioning of IP Strategy and Competitive Advantage indicates a strong awareness of IP's critical role in market success. However, the underdevelopment of Energy Storage IP presents both a significant risk and a major opportunity. To maintain and enhance competitive advantage, companies must aggressively pursue leadership in Energy Storage IP while optimizing their existing IP portfolios. The explicit inclusion of IP Gaps in the map is commendable and should be leveraged to drive focused R&D efforts. Moving forward, success will depend on creating a more integrated and dynamic IP ecosystem that can rapidly adapt to technological advancements and market shifts in the renewable energy sector.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_18_Interpreting_Your_IP_Landscape.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_18_Interpreting_Your_IP_Landscape.md)
 
 In conclusion, interpreting your IP landscape through the lens of a LEGO Wardley Map provides a powerful tool for strategic decision-making. By identifying clusters and gaps, assessing evolution and maturity, recognising dependencies and relationships, and evaluating positioning and competitive advantage, you can gain a comprehensive understanding of your IP portfolio. This understanding, in turn, enables you to make informed decisions about IP development, protection, and exploitation, ultimately driving innovation and competitive advantage in your organisation or sector.
 
@@ -1332,7 +1332,7 @@ For example, a government research institution might use LEGO Wardley Mapping to
 
 > The Government Research Institution is at a critical juncture, balancing traditional IP strength with the need for more open and collaborative innovation. To maintain relevance and maximize impact, it must evolve its IP strategies, enhance technology transfer, and embrace open innovation while protecting core assets. The institution has a unique opportunity to lead in bridging public needs, cutting-edge research, and industry applications through a modernized approach to IP management and innovation practices.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_19_Horizon_1:_Core_Business_and_Incremental_Innovatio.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_19_Horizon_1:_Core_Business_and_Incremental_Innovatio.md)
 
 By applying LEGO Wardley Mapping techniques to Horizon 1, government and public sector organisations can create more transparent, adaptable, and effective IP strategies that support their core missions while fostering innovation and economic development.
 
@@ -1377,7 +1377,7 @@ For instance, a map might use red LEGO bricks to represent high-risk areas where
 
 > The government agency is at a critical juncture, with strong core IP assets but facing the challenge of adapting to rapidly evolving technologies and citizen expectations. The key to success lies in effectively bridging the gap between established assets and emerging opportunities through focused innovation, strategic partnerships, and a robust risk management approach. By prioritizing IP adaptation, collaborative innovation, and the development of smart city solutions, the agency can leverage its strengths to create significant value in adjacent markets while maintaining its core responsibilities.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_20_Horizon_2:_Emerging_Opportunities_and_Adjacent_Mar.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_20_Horizon_2:_Emerging_Opportunities_and_Adjacent_Mar.md)
 
 Implementing the LEGO Wardley Mapping approach for Horizon 2 IP strategy requires a shift in mindset from traditional IP management. It encourages a more dynamic, visual, and collaborative approach to IP strategy. Government and public sector leaders should consider the following best practices:
 
@@ -1433,7 +1433,7 @@ Anticipating Regulatory Challenges: Transformational innovations often outpace e
 
 > This Wardley Map presents a comprehensive view of the Horizon 3 innovation landscape, highlighting the critical interplay between emerging technologies, strategic management practices, and the broader innovation ecosystem. The map emphasizes the need for organizations to develop flexible, collaborative approaches to innovation while navigating high levels of uncertainty and rapid technological change. Key to success in this landscape will be the ability to balance cutting-edge technological development with strategic foresight, robust risk management, and adaptive IP strategies. Organizations that can effectively integrate these elements, while also engaging proactively with the regulatory environment, will be best positioned to capitalize on transformational opportunities and shape the industries of the future.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_21_Horizon_3:_Transformational_and_Disruptive_Innovat.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_21_Horizon_3:_Transformational_and_Disruptive_Innovat.md)
 
 In practice, navigating Horizon 3 using the LEGO Wardley Mapping approach for IP strategy requires a delicate balance of vision, flexibility, and pragmatism. It involves creating spaces for experimentation and failure, while also establishing mechanisms to quickly capitalise on breakthroughs when they occur.
 
@@ -1504,7 +1504,7 @@ Moreover, the LEGO Wardley Mapping approach facilitates better communication of 
 
 > The map reveals a well-structured IP strategy aligned with different innovation horizons. However, there's a need to strengthen the transition between horizons, particularly in converting early-stage innovations into protected IP. The organization is well-positioned in its core business but must develop more robust strategies for future markets to maintain long-term competitiveness. Key focus areas should include developing clear protection strategies for conceptual IP, accelerating the evolution of provisional patents, and creating flexible IP approaches for disruptive innovations. By addressing these areas, the organization can create a more resilient and future-proof IP portfolio that supports innovation across all horizons.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_22_Aligning_IP_Strategy_with_Innovation_Goals.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_22_Aligning_IP_Strategy_with_Innovation_Goals.md)
 
 In conclusion, aligning IP strategy with innovation goals across horizons requires a holistic view of the organisation's current assets, emerging opportunities, and long-term vision. The LEGO Wardley Mapping approach provides a flexible, intuitive tool for creating this view, enabling organisations to craft IP strategies that are both protective and proactive, ensuring they are well-positioned to navigate the complex landscape of innovation and intellectual property.
 
@@ -1589,7 +1589,7 @@ This approach not only enhances the effectiveness of IP management but also fost
 
 > This Wardley Map reveals a well-structured approach to IP management with a clear vision for future development. The integration of LEGO Wardley Mapping provides a unique advantage in strategic planning. Key focus areas should be bridging identified IP gaps, developing capabilities in emerging technologies, and fostering a more collaborative approach to IP creation and management. The balance between protecting current assets and investing in future opportunities is critical, with a need to potentially increase resources allocated to emerging opportunities. The map indicates a strong foundation for future growth, provided the organization can effectively navigate the transition from current IP landscapes to future innovation horizons.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_23_Identifying_IP_Gaps_and_Opportunities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_23_Identifying_IP_Gaps_and_Opportunities.md)
 
 
 
@@ -1642,7 +1642,7 @@ This iterative process ensures that organisations remain agile in their IP strat
 
 > This Wardley Map reveals a strategic inflection point in IP management, where organizations must balance the protection of current IP assets with the need to adapt to a more open, collaborative innovation ecosystem. The key to success lies in developing modular, adaptable IP strategies and capabilities for continuous reassessment. Organizations that can effectively navigate this transition, leveraging both traditional IP protection and emerging collaborative models, will be best positioned to create and capture value in future technology landscapes. The integration of public sector innovation and the focus on digital transformation suggest a holistic approach to IP strategy that goes beyond traditional corporate boundaries, emphasizing the need for ecosystem thinking in IP management.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_24_Balancing_Short-term_Protection_and_Long-term_Visi.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_24_Balancing_Short-term_Protection_and_Long-term_Visi.md)
 
 Case Study: UK Government Digital Service
 
@@ -1708,7 +1708,7 @@ This modular approach has allowed the UK government to build a comprehensive yet
 
 > The UK Government's strategy for a modular IP portfolio in AI ethics demonstrates a comprehensive and well-structured approach. It balances cutting-edge research with practical policy implementation and public engagement. The strategy's strength lies in its integrated approach and strong focus on public trust. However, to maintain leadership in this rapidly evolving field, there's a need to accelerate the evolution of flexible policy frameworks and strengthen the pipeline from research to implementation. The government is well-positioned to lead in AI ethics, but must remain agile and continue to invest in emerging areas like explainable AI and algorithmic fairness to stay ahead of global competition and technological advancements.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_25_Building_Modular_IP_Portfolios.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_25_Building_Modular_IP_Portfolios.md)
 
 By adopting a modular approach to IP portfolio building, organisations can create a dynamic and responsive intellectual asset base that aligns with their strategic goals across multiple time horizons. This LEGO-inspired technique, when combined with Wardley Mapping, provides a powerful tool for visualising, planning, and executing IP strategies that can adapt to the complex and ever-changing landscape of innovation.
 
@@ -1762,7 +1762,7 @@ In conclusion, the use of LEGO-inspired connector pieces in Wardley Mapping prov
 
 > This Wardley Map presents a sophisticated view of IP evolution across innovation horizons, highlighting the critical role of strategic connections and cross-horizon leverage. The key to success lies in effectively managing the transition of value from transformative innovations through emerging technologies to core assets, while continuously evolving legal and organizational frameworks. Organizations that can master this complex interplay of components will be well-positioned to maintain competitive advantage in a rapidly changing innovation landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_26_Using_Connector_Pieces_to_Bridge_Horizons.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_26_Using_Connector_Pieces_to_Bridge_Horizons.md)
 
 
 
@@ -1839,7 +1839,7 @@ In conclusion, the creation of flexible IP architectures using LEGO Wardley Mapp
 
 > This Wardley Map presents a forward-thinking approach to IP architecture, emphasizing flexibility and adaptability in response to market changes. The strategy of using modular, LEGO-like IP building blocks combined with interconnected systems and scenario planning positions the organization well for future challenges. However, to fully capitalize on this approach, there needs to be a continued focus on evolving the less certain components, particularly in areas of adaptive management and predictive modeling. The organization should prioritize developing more dynamic capabilities in scenario planning and adaptive portfolio management, while also exploring emerging technologies like AI and blockchain to enhance its IP strategy. By doing so, it can create a truly flexible IP architecture that not only responds to market changes but anticipates and shapes them, providing a significant competitive advantage in an increasingly complex IP landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_27_Creating_Flexible_IP_Architectures_for_Future_Adap.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_27_Creating_Flexible_IP_Architectures_for_Future_Adap.md)
 
 
 
@@ -1878,7 +1878,7 @@ For instance, a government agency developing new technologies for public service
 
 > This Wardley Map reveals a strategic inflection point in IP management, showcasing the transition from a primarily defensive posture to a more offensive, value-creating approach. The integration of emerging technologies and strategic intent into IP strategy presents significant opportunities for competitive advantage and new revenue streams. However, this evolution also introduces new risks and capability requirements. Success will depend on balancing traditional defensive measures with aggressive offensive tactics, all while maintaining agility to adapt to rapid technological changes. Companies that can effectively navigate this transition, leveraging both established and emerging components of their IP ecosystem, will be well-positioned to dominate their markets and drive innovation in their industries.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_28_Offensive_vs._Defensive_IP_Strategies.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_28_Offensive_vs._Defensive_IP_Strategies.md)
 
 In practice, the implementation of offensive and defensive IP strategies using the LEGO Wardley Mapping approach involves several key considerations:
 
@@ -1987,7 +1987,7 @@ As we move forward in this chapter, we will explore how these IP moat strategies
 
 > The Layered IP Protection Strategy presented in this Wardley Map demonstrates a mature and comprehensive approach to safeguarding intellectual property. The strategy effectively balances visible protections like patents and trademarks with less visible but crucial elements such as trade secrets and access controls. The positioning of the Core Innovation as the anchor underscores its critical importance to the overall business model. The multi-layered approach provides robust protection but may benefit from further evolution in areas like trade secret management and AI-driven IP analytics. To maintain competitive advantage, the organization should focus on enhancing its custom-built components, particularly in the realm of trade secrets and access controls, while also preparing for the increasing commoditization of basic IP protections. The strategy shows potential for adaptation to emerging technologies and changing market dynamics, positioning the organization well for future challenges in the IP landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_29_Creating_IP_Moats_and_Barriers_to_Entry.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_29_Creating_IP_Moats_and_Barriers_to_Entry.md)
 
 
 
@@ -2027,7 +2027,7 @@ Creating Value Through Collaboration: The ultimate goal of collaborative IP deve
 
 > This Collaborative IP Ecosystem map represents a forward-thinking approach to IP development, balancing traditional IP protection with open innovation and emerging technologies. The strategic positioning is strong, with clear pathways from foundational research to market-facing innovations. Key opportunities lie in further integration of AI, quantum computing, and biotechnology into the IP development process. The main challenges involve managing the risks of open collaboration while protecting valuable IP, and ensuring the organization can keep pace with rapidly evolving technologies. By focusing on strengthening internal capabilities in emerging tech, enhancing collaborative platforms, and maintaining a robust IP strategy, the organization can maintain its competitive edge and drive future innovation in the IP landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_30_Collaborative_IP_Development_and_Open_Innovation.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_30_Collaborative_IP_Development_and_Open_Innovation.md)
 
 Case Study: Government-Industry Collaboration in Emerging Technologies
 
@@ -2084,7 +2084,7 @@ For example, a patented technology that starts on the left side of the map (gene
 
 > This Wardley Map presents a robust framework for IP monetization, highlighting the critical role of licensing and cross-licensing in bridging IP creation and revenue generation. The strategic focus should be on optimizing the transition from Newly Filed Patents to Licensing Opportunities, while simultaneously developing advanced capabilities in Value Chain Integration. The inclusion of Cross-Licensing Agreements as a distinct component underscores its importance in modern IP strategies. To maintain a competitive edge, organizations must balance short-term optimization of licensing processes with long-term investments in ecosystem development and emerging technologies for IP management and valuation.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_31_Licensing_and_Cross-licensing_Opportunities.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_31_Licensing_and_Cross-licensing_Opportunities.md)
 
 Practical Considerations for Implementation: When implementing LEGO Wardley Mapping for licensing and cross-licensing strategies, organisations should consider the following best practices:
 
@@ -2123,7 +2123,7 @@ When applying LEGO Wardley Mapping techniques to IP-driven business models, we c
 
 > This map represents a well-structured, patent-centric IP strategy that effectively links R&D to revenue generation. However, it may be at risk of disruption from more open and collaborative innovation models. The key strategic challenge is to maintain the strengths of this approach while adapting to a more interconnected and rapidly evolving technological landscape. This may involve developing new capabilities in data-driven decision making, ecosystem management, and balancing proprietary IP with more open innovation approaches.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_32_IP-driven_Business_Models.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_32_IP-driven_Business_Models.md)
 
 One of the key advantages of using LEGO Wardley Mapping for IP-driven business models is the ability to visualise the modularity and flexibility of IP assets. Much like LEGO bricks, IP assets can be combined and reconfigured in various ways to create new value propositions and adapt to changing market conditions.
 
@@ -2225,7 +2225,7 @@ One of the key advantages of using the LEGO Wardley Mapping approach for IP trad
 
 > This Wardley Map reveals a sophisticated understanding of IP trading strategies across innovation horizons. It highlights the critical role of IP assets and the evolving nature of valuation and trading methods. The key strategic opportunity lies in better aligning short-term trading strategies with long-term innovation goals, while leveraging emerging technologies to enhance valuation and risk assessment capabilities. Organizations that can effectively integrate these elements and develop a holistic, forward-looking approach to IP monetization will be well-positioned to create and capture value in the evolving IP landscape.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_33_Valuing_and_Trading_IP_Assets.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_33_Valuing_and_Trading_IP_Assets.md)
 
 In practice, the process of valuing and trading IP assets using the LEGO Wardley Mapping approach involves several key steps:
 
@@ -2280,7 +2280,7 @@ Rapid Reconfiguration for Changing Landscapes: Perhaps the most powerful aspect 
 
 > This Wardley Map represents a forward-thinking approach to IP management, leveraging modular design principles inspired by LEGO to create a flexible and adaptive IP strategy. The focus on IP Sets and Rapid Reconfiguration positions the organization to respond quickly to market changes and technological breakthroughs. However, to fully realize the potential of this approach, there needs to be continued investment in evolving capabilities, particularly in the areas of Strategic Grouping and Interconnectivity. The LEGO-inspired Approach, while still in its early stages, has the potential to be a significant differentiator in the IP management landscape. To maintain this advantage, the organization should focus on accelerating the evolution of key components while also keeping an eye on emerging technologies and methodologies that could further enhance their IP strategy.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_34_Building_and_Reconfiguring_IP_'Sets'.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_34_Building_and_Reconfiguring_IP_'Sets'.md)
 
 A practical example of this approach in action can be seen in the UK Government's response to the COVID-19 pandemic. By rapidly reconfiguring existing IP 'sets' related to vaccine technology, data management, and public health systems, the government was able to accelerate vaccine development and rollout while ensuring appropriate IP protections were in place.
 
@@ -2387,7 +2387,7 @@ In conclusion, creating IP 'instructions' for different scenarios is a powerful 
 
 > This Wardley Map represents a sophisticated and forward-thinking approach to IP strategy management. The emphasis on scenario-based planning and modular strategies positions the organization well for adapting to rapidly changing IP landscapes. Key opportunities lie in further evolving Strategic Foresight capabilities and enhancing cross-functional collaboration. The integration of defensive, offensive, collaborative, and crisis scenarios provides a comprehensive framework for IP management. To maintain and enhance competitive advantage, focus should be placed on accelerating the evolution of key components like Scenario Identification and Modular IP Strategies, while also investing in emerging technologies that can revolutionize IP management practices. The organization is well-positioned to lead in IP strategy innovation, provided it addresses the identified capability gaps and continues to prioritize adaptability and continuous improvement in its approach.
 
-> [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_35_Creating_IP_'Instructions'_for_Different_Scenarios.md)
+> [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_35_Creating_IP_'Instructions'_for_Different_Scenarios.md)
 
 
 

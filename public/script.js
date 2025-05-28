@@ -9,6 +9,9 @@ class BooksLibrary {
 
     async initializeApp() {
         try {
+            // Initialize dynamic URLs
+            this.initializeDynamicUrls();
+            
             await this.loadBooksFromAPI();
             this.renderBooksList();
             this.setupEventListeners();
@@ -19,6 +22,51 @@ class BooksLibrary {
         } catch (error) {
             console.error('Failed to initialize app:', error);
             this.showError('Failed to load books. Please refresh the page.');
+        }
+    }
+
+    initializeDynamicUrls() {
+        // Get the current base URL dynamically
+        const baseUrl = `${window.location.protocol}//${window.location.host}${window.location.pathname}`;
+        const imageUrl = `${window.location.protocol}//${window.location.host}/assets/social-preview.png`;
+        
+        // Update Open Graph URLs
+        this.setMetaContent('og:url', baseUrl);
+        this.setMetaContent('og:image', imageUrl);
+        
+        // Update Twitter URLs  
+        this.setMetaContent('twitter:url', baseUrl);
+        this.setMetaContent('twitter:image', imageUrl);
+        
+        // Update canonical URL
+        const canonical = document.querySelector('link[rel="canonical"]');
+        if (canonical) {
+            canonical.setAttribute('href', baseUrl);
+        }
+        
+        // Update structured data
+        this.updateInitialStructuredData(baseUrl);
+    }
+    
+    setMetaContent(name, content) {
+        let selector = `meta[name="${name}"]`;
+        if (name.startsWith('og:') || name.startsWith('twitter:')) {
+            selector = `meta[property="${name}"]`;
+        }
+        
+        const metaTag = document.querySelector(selector);
+        if (metaTag) {
+            metaTag.setAttribute('content', content);
+        }
+    }
+    
+    updateInitialStructuredData(baseUrl) {
+        const structuredDataScript = document.getElementById('structured-data');
+        if (structuredDataScript) {
+            const structuredData = JSON.parse(structuredDataScript.textContent);
+            structuredData.url = baseUrl;
+            structuredData.potentialAction.target = `${baseUrl}?book={search_term_string}`;
+            structuredDataScript.textContent = JSON.stringify(structuredData, null, 2);
         }
     }
 

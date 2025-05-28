@@ -1,7 +1,7 @@
 {
-  "name": "genai-books-library",
+  "name": "wardley-map-library",
   "version": "1.0.0",
-  "description": "A web application to browse and read GenAI books collection",
+  "description": "A comprehensive library of Wardley Mapping resources, books, and strategic analysis reports",
   "main": "api/index.js",
   "scripts": {
     "build": "echo \"Build completed\"",
@@ -9,8 +9,9 @@
     "generate-manifest": "node generate-manifest.js"
   },
   "keywords": [
-    "books",
-    "ai",
+    "wardley-mapping",
+    "strategic-analysis",
+    "business-strategy",
     "library",
     "vercel",
     "serverless"

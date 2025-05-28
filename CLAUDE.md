@@ -1,16 +1,16 @@
 # Claude Development Notes 🤖
 
-This document contains important information for Claude Code to understand the GenAI Books Library project structure, conventions, and development guidelines.
+This document contains important information for Claude Code to understand the Wardley Map Library project structure, conventions, and development guidelines.
 
 ## 📋 Project Overview
 
-The GenAI Books Library is a Node.js web application that serves a collection of AI, technology, and business strategy books. The application automatically discovers books in the repository and provides a modern reading interface with advanced features.
+The Wardley Map Library is a Node.js web application that serves a comprehensive collection of Wardley Mapping resources, strategic analysis reports, and business strategy books. The application automatically discovers books in the repository and provides a modern reading interface with advanced features for strategic thinking and business analysis.
 
 ## 🏗️ Architecture
 
 ### Application Structure
 ```
-/workspaces/GenAI-Books/
+/workspaces/Wardley-Map-Library/
 ├── api/                   # Vercel serverless functions
 │   ├── books.js          # Books listing API
 │   ├── books/            # Individual book APIs

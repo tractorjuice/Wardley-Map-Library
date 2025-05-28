@@ -1,6 +1,6 @@
-# GenAI Books Library 📚
+# Wardley Map Library 🗺️
 
-A professional Node.js web application for browsing and reading a comprehensive collection of AI, technology, and business strategy books. Features a modern, responsive interface with advanced functionality for an optimal reading experience.
+A comprehensive digital library for Wardley Mapping resources, strategic analysis reports, and business strategy books. Features a modern, responsive interface with advanced functionality for exploring strategic thinking and business analysis.
 
 ## ✨ Key Features
 
@@ -45,7 +45,7 @@ A professional Node.js web application for browsing and reading a comprehensive 
 ## Project Structure
 
 ```
-GenAI-Books/
+Wardley-Map-Library/
 ├── books/                  # All book content organized here
 │   └── [Book Directories]/ # Individual book folders
 │       ├── full_book.md    # Book content in markdown (REQUIRED)

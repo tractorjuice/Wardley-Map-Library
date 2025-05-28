@@ -690,9 +690,9 @@ class BooksLibrary {
         
         // Update page title
         if (bookId && this.selectedBook) {
-            document.title = `${this.selectedBook.title} - GenAI Books Library`;
+            document.title = `${this.selectedBook.title} - Wardley Map Library`;
         } else {
-            document.title = 'GenAI Books Library';
+            document.title = 'Wardley Map Library';
         }
     }
     
@@ -758,19 +758,19 @@ class BooksLibrary {
         if (!book) return;
         
         // Update page title
-        document.title = `${book.title} - GenAI Books Library`;
+        document.title = `${book.title} - Wardley Map Library`;
         
         // Update meta description
-        const description = `Read "${book.title}" - ${book.category} insights in the GenAI Books Library. Comprehensive collection of AI, technology, and business strategy resources with interactive features.`;
+        const description = `Read "${book.title}" - ${book.category} insights in the Wardley Map Library. Comprehensive digital library of Wardley Mapping resources and strategic analysis reports with interactive features.`;
         this.updateMetaTag('description', description);
         
         // Update Open Graph tags
-        this.updateMetaTag('og:title', `${book.title} - GenAI Books Library`);
+        this.updateMetaTag('og:title', `${book.title} - Wardley Map Library`);
         this.updateMetaTag('og:description', description);
         this.updateMetaTag('og:url', `${window.location.origin}${window.location.pathname}?book=${book.id}`);
         
         // Update Twitter tags
-        this.updateMetaTag('twitter:title', `${book.title} - GenAI Books Library`);
+        this.updateMetaTag('twitter:title', `${book.title} - Wardley Map Library`);
         this.updateMetaTag('twitter:description', description);
         this.updateMetaTag('twitter:url', `${window.location.origin}${window.location.pathname}?book=${book.id}`);
         
@@ -834,7 +834,7 @@ class BooksLibrary {
             "isAccessibleForFree": true,
             "publisher": {
                 "@type": "Organization",
-                "name": "GenAI Books Library"
+                "name": "Wardley Map Library"
             },
             "mainEntity": {
                 "@type": "WebPage",
@@ -851,12 +851,12 @@ class BooksLibrary {
     
     resetMetaTags() {
         // Reset to default when no book is selected
-        document.title = 'GenAI Books Library - Comprehensive AI, Technology & Business Strategy Collection';
+        document.title = 'Wardley Map Library - Strategic Analysis & Business Strategy Resource Collection';
         
-        const defaultDescription = 'Explore 36+ comprehensive books on AI, generative AI, business strategy, healthcare innovation, sustainability, and technology. Features Wardley mapping, strategic frameworks, and cutting-edge insights for professionals and researchers.';
+        const defaultDescription = 'Comprehensive digital library of Wardley Mapping resources, strategic analysis reports, and business strategy books. Features advanced mapping insights, strategic frameworks, and cutting-edge business analysis for professionals and researchers.';
         this.updateMetaTag('description', defaultDescription);
-        this.updateMetaTag('og:title', 'GenAI Books Library - AI & Technology Book Collection');
-        this.updateMetaTag('og:description', 'Comprehensive collection of 36+ books on AI, technology, and business strategy with interactive features and Wardley mapping insights.');
+        this.updateMetaTag('og:title', 'Wardley Map Library - Strategic Analysis Resource Collection');
+        this.updateMetaTag('og:description', 'Comprehensive digital library of Wardley Mapping resources and strategic analysis reports with interactive features and advanced mapping insights.');
         this.updateMetaTag('og:url', `${window.location.origin}${window.location.pathname}`);
         
         this.updateCanonicalUrl(`${window.location.origin}${window.location.pathname}`);
@@ -868,7 +868,7 @@ class BooksLibrary {
         const shareUrl = `${window.location.origin}${window.location.pathname}?book=${this.selectedBook.id}`;
         const shareData = {
             title: this.selectedBook.title,
-            text: `Check out "${this.selectedBook.title}" in the GenAI Books Library`,
+            text: `Check out "${this.selectedBook.title}" in the Wardley Map Library`,
             url: shareUrl
         };
         
@@ -1108,7 +1108,7 @@ class BooksLibrary {
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     // Add some loading feedback
-    console.log('🚀 Initializing GenAI Books Library...');
+    console.log('🚀 Initializing Wardley Map Library...');
     
     const app = new BooksLibrary();
     

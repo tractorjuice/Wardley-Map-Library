@@ -8,6 +8,7 @@
     "dev": "nodemon server.js",
     "build": "echo \"Build completed\"",
     "vercel-build": "echo \"Vercel build completed\"",
+    "generate-manifest": "node generate-manifest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

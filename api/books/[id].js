@@ -5,85 +5,51 @@ class BookService {
     constructor() {
         this.books = [];
         this.initialized = false;
+        this.manifest = null;
     }
 
     async initialize() {
         if (this.initialized) return;
         
         try {
-            const booksDir = path.join(process.cwd(), 'books');
-            const items = await fs.readdir(booksDir);
+            // Try to load books.json manifest from multiple possible locations
+            const possibleManifestPaths = [
+                path.join(process.cwd(), 'books.json'),
+                path.join('/var/task', 'books.json'),
+                path.join('/vercel/path0', 'books.json'),
+                'books.json'
+            ];
             
-            this.books = [];
+            let manifestPath = null;
+            let manifestContent = null;
             
-            for (const item of items) {
-                const itemPath = path.join(booksDir, item);
-                const stat = await fs.stat(itemPath);
-                
-                if (stat.isDirectory()) {
-                    const fullBookPath = path.join(itemPath, 'full_book.md');
-                    
-                    try {
-                        await fs.access(fullBookPath);
-                        
-                        const bookId = this.generateBookId(item);
-                        const title = this.extractTitleFromDirName(item);
-                        const category = this.categorizeBook(title, item);
-                        
-                        this.books.push({
-                            id: bookId,
-                            title: title,
-                            category: category,
-                            directory: item,
-                            path: fullBookPath
-                        });
-                    } catch (error) {
-                        console.log(`No full_book.md found in ${item}, skipping...`);
-                    }
+            for (const possiblePath of possibleManifestPaths) {
+                try {
+                    manifestContent = await fs.readFile(possiblePath, 'utf8');
+                    manifestPath = possiblePath;
+                    console.log(`✅ Found books manifest at: ${possiblePath}`);
+                    break;
+                } catch (error) {
+                    console.log(`❌ Tried manifest path: ${possiblePath} - ${error.message}`);
                 }
             }
             
+            if (!manifestPath) {
+                console.error('Could not find books.json manifest in any expected location');
+                console.log('Current working directory:', process.cwd());
+                throw new Error('Books manifest not found');
+            }
+            
+            this.manifest = JSON.parse(manifestContent);
+            this.books = this.manifest.books || [];
+            
             this.initialized = true;
+            console.log(`📚 Loaded ${this.books.length} books from manifest`);
             
         } catch (error) {
             console.error('Error initializing book service:', error);
             throw error;
         }
-    }
-
-    generateBookId(dirName) {
-        return dirName
-            .toLowerCase()
-            .replace(/[_\s]+/g, '-')
-            .replace(/[^a-z0-9\-]/g, '')
-            .replace(/\-{2,}/g, '-')
-            .replace(/^\-|\-$/g, '');
-    }
-
-    extractTitleFromDirName(dirName) {
-        return dirName
-            .replace(/_/g, ' ')
-            .replace(/\s+[a-f0-9\-]{8,}.*$/i, '')
-            .trim();
-    }
-
-    categorizeBook(title, dirName) {
-        const titleLower = title.toLowerCase();
-        const dirLower = dirName.toLowerCase();
-        const text = titleLower + ' ' + dirLower;
-        
-        if (text.includes('wardley') || text.includes('mapping')) return 'Strategic Mapping';
-        if (text.includes('healthcare') || text.includes('medical') || text.includes('nhs')) return 'Healthcare';
-        if (text.includes('ai') || text.includes('artificial') || text.includes('genai') || text.includes('llm')) return 'Artificial Intelligence';
-        if (text.includes('startup') || text.includes('business') || text.includes('strategy')) return 'Business Strategy';
-        if (text.includes('government') || text.includes('public') || text.includes('nato')) return 'Government & Military';
-        if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) return 'Sustainability';
-        if (text.includes('game') || text.includes('gaming')) return 'Gaming';
-        if (text.includes('security') || text.includes('privacy')) return 'Security';
-        if (text.includes('data') || text.includes('science')) return 'Data Science';
-        if (text.includes('education') || text.includes('teaching')) return 'Education';
-        
-        return 'Technology';
     }
 
     getBookById(id) {

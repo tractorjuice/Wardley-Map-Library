@@ -434,6 +434,9 @@ class BooksLibrary {
             try {
                 bookContent.innerHTML = marked.parse(content);
                 
+                // Process image URLs for GitHub raw content
+                this.processImageUrls(bookContent, book);
+                
                 // Make external links open in new tabs
                 this.processExternalLinks(bookContent);
                 
@@ -493,6 +496,29 @@ class BooksLibrary {
             const count = visibleCount !== null ? visibleCount : this.books.length;
             bookCountElement.textContent = count;
         }
+    }
+
+    processImageUrls(container, book) {
+        const images = container.querySelectorAll('img');
+        
+        images.forEach(img => {
+            const src = img.getAttribute('src');
+            
+            // Check if it's a relative path (not already a full URL)
+            if (src && !src.startsWith('http') && !src.startsWith('//')) {
+                // Convert relative path to GitHub raw URL
+                const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development';
+                const fullImageUrl = `${githubBaseUrl}/books/${book.directory}/${src}`;
+                
+                img.setAttribute('src', fullImageUrl);
+                
+                // Add error handling for broken images
+                img.addEventListener('error', () => {
+                    console.warn(`Failed to load image: ${fullImageUrl}`);
+                    img.style.display = 'none';
+                });
+            }
+        });
     }
 
     processExternalLinks(container) {

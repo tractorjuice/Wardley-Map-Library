@@ -50,6 +50,7 @@ class ManifestGenerator {
         if (text.includes('home office') || text.includes('immigration') || text.includes('police') || text.includes('security')) categories.push('Home Office');
         if (text.includes('treasury') || text.includes('finance') || text.includes('budget') || text.includes('fiscal')) categories.push('HM Treasury');
         if (text.includes('foreign') || text.includes('diplomatic') || text.includes('international') || text.includes('embassy')) categories.push('Foreign, Commonwealth & Development Office');
+        if (text.includes('statistics') || text.includes('statistical') || text.includes('unsd') || text.includes('official statistics')) categories.push('UK Statistics Authority');
         // General government for books that don't fit specific departments
         if (text.includes('government') || text.includes('public sector') || text.includes('civil service') || text.includes('okrs')) categories.push('Government');
         if (text.includes('nato') || text.includes('military') || text.includes('warfighting') || text.includes('battlefield')) categories.push('Military');

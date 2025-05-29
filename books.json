@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-29T03:37:41.048Z",
+  "generated": "2025-05-29T03:39:21.073Z",
   "version": "1.0.0",
   "totalBooks": 49,
   "books": [
@@ -238,9 +238,13 @@
     {
       "id": "generative-ai-for-official-statistics-a-strategic-5065c7dc",
       "title": "Generative AI for Official Statistics  A Strategic",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "UK Statistics Authority"
+      ],
       "categories": [
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "UK Statistics Authority"
       ],
       "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
       "path": "/workspaces/GenAI-Books/books/Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc/full_book.md",

@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-29T03:35:23.232Z",
+  "generated": "2025-05-29T03:37:41.048Z",
   "version": "1.0.0",
   "totalBooks": 49,
   "books": [
@@ -9,11 +9,13 @@
       "category": [
         "Artificial Intelligence",
         "Business Strategy",
+        "Department for Business & Trade",
         "Sustainability"
       ],
       "categories": [
         "Artificial Intelligence",
         "Business Strategy",
+        "Department for Business & Trade",
         "Sustainability"
       ],
       "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
@@ -45,12 +47,12 @@
       "id": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
       "title": "AI Revolution in Healthcare  Navigating Challenges and Opportunities in the Age of Generative AI",
       "category": [
-        "Healthcare",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Healthcare"
       ],
       "categories": [
-        "Healthcare",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Healthcare"
       ],
       "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
       "path": "/workspaces/GenAI-Books/books/AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40/full_book.md",
@@ -207,12 +209,12 @@
       "category": [
         "Artificial Intelligence",
         "Business Strategy",
-        "Government"
+        "HM Revenue & Customs"
       ],
       "categories": [
         "Artificial Intelligence",
         "Business Strategy",
-        "Government"
+        "HM Revenue & Customs"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707/full_book.md",
@@ -223,11 +225,11 @@
       "title": "GenAI for HMRC  A Practical Guide to Transforming",
       "category": [
         "Artificial Intelligence",
-        "Government"
+        "HM Revenue & Customs"
       ],
       "categories": [
         "Artificial Intelligence",
-        "Government"
+        "HM Revenue & Customs"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f/full_book.md",
@@ -264,10 +266,12 @@
       "title": "Innovating MedTech Education  Wardley Mapping for Strategic Teaching and Research in Higher Education",
       "category": [
         "Strategic Mapping",
+        "Department for Education",
         "Education"
       ],
       "categories": [
         "Strategic Mapping",
+        "Department for Education",
         "Education"
       ],
       "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
@@ -279,13 +283,9 @@
     {
       "id": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
       "title": "Leasehold Liberation  Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
-      "category": [
-        "Consumer",
-        "UK Government"
-      ],
+      "category": "Consumer",
       "categories": [
-        "Consumer",
-        "UK Government"
+        "Consumer"
       ],
       "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
       "path": "/workspaces/GenAI-Books/books/Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47/full_book.md",
@@ -357,12 +357,14 @@
       "category": [
         "Strategic Mapping",
         "Artificial Intelligence",
-        "Business Strategy"
+        "Business Strategy",
+        "Department for Business & Trade"
       ],
       "categories": [
         "Strategic Mapping",
         "Artificial Intelligence",
-        "Business Strategy"
+        "Business Strategy",
+        "Department for Business & Trade"
       ],
       "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
       "path": "/workspaces/GenAI-Books/books/Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f/full_book.md",
@@ -385,12 +387,12 @@
       "id": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
       "title": "Meta s Closed-Source LLMs in Healthcare  A Critical Analysis of Risks and Benefits",
       "category": [
-        "Healthcare",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Healthcare"
       ],
       "categories": [
-        "Healthcare",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Healthcare"
       ],
       "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
       "path": "/workspaces/GenAI-Books/books/Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b/full_book.md",
@@ -421,13 +423,13 @@
       "id": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
       "title": "Oceans of Change  Advancing SDG 14 Through Science  Innovation  and Community Action",
       "category": [
-        "UK Government",
         "United Nations",
+        "UK Hydrographic Office",
         "Data Science"
       ],
       "categories": [
-        "UK Government",
         "United Nations",
+        "UK Hydrographic Office",
         "Data Science"
       ],
       "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
@@ -481,15 +483,15 @@
       "id": "revitalising-the-nhs-a-comprehensive-blueprint-for-sustainable-healthcare-2c167a18-f2ec-41",
       "title": "Revitalising the NHS  A Comprehensive Blueprint for Sustainable Healthcare",
       "category": [
-        "Healthcare",
         "Artificial Intelligence",
-        "UK Government",
+        "Department of Health & Social Care",
+        "Healthcare",
         "Sustainability"
       ],
       "categories": [
-        "Healthcare",
         "Artificial Intelligence",
-        "UK Government",
+        "Department of Health & Social Care",
+        "Healthcare",
         "Sustainability"
       ],
       "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
@@ -501,10 +503,12 @@
       "title": "Revolutionising MedTech Education  Wardley Mapping for Teaching and Research in Higher Education",
       "category": [
         "Strategic Mapping",
+        "Department for Education",
         "Education"
       ],
       "categories": [
         "Strategic Mapping",
+        "Department for Education",
         "Education"
       ],
       "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
@@ -514,9 +518,13 @@
     {
       "id": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
       "title": "Running to Stand Still  Mastering the Red Queen Effect in Business and Life",
-      "category": "Business Strategy",
+      "category": [
+        "Business Strategy",
+        "Department for Business & Trade"
+      ],
       "categories": [
-        "Business Strategy"
+        "Business Strategy",
+        "Department for Business & Trade"
       ],
       "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
       "path": "/workspaces/GenAI-Books/books/Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42/full_book.md",
@@ -705,11 +713,13 @@
       "title": "Wardley Mapping Mastery  Uncovering Hidden Opportunities in Business Strategy",
       "category": [
         "Strategic Mapping",
-        "Business Strategy"
+        "Business Strategy",
+        "Department for Business & Trade"
       ],
       "categories": [
         "Strategic Mapping",
-        "Business Strategy"
+        "Business Strategy",
+        "Department for Business & Trade"
       ],
       "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e/full_book.md",

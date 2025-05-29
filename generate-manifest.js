@@ -34,14 +34,24 @@ class ManifestGenerator {
 
         // Check all categories and add matches
         if (text.includes('wardley') || text.includes('mapping')) categories.push('Strategic Mapping');
-        if (text.includes('healthcare') || text.includes('medical') || text.includes('nhs')) categories.push('Healthcare');
         if (text.includes('ai') || text.includes('artificial') || text.includes('genai') || text.includes('llm')) categories.push('Artificial Intelligence');
         if (text.includes('startup') || text.includes('business') || text.includes('strategy')) categories.push('Business Strategy');
-        if (text.includes('hydrographic') || text.includes('ocean')) categories.push('UK Government');
         if (text.includes('UN ') || text.includes('united nations') || text.includes('sustainable development') || text.includes('sdg')) categories.push('United Nations');
         if (text.includes('british airways') || text.includes('leasehold')) categories.push('Consumer');
-        if (text.includes('nhs') || text.includes('uk ') || text.includes('england')) categories.push('UK Government');
-        if (text.includes('government') || text.includes('public') || text.includes('hmrc') || text.includes('okrs')) categories.push('Government');
+        // UK Government Department-specific categories
+        if (text.includes('hmrc') || text.includes('revenue') || text.includes('customs') || text.includes('tax')) categories.push('HM Revenue & Customs');
+        if (text.includes('nhs')) categories.push('Department of Health & Social Care');
+        if (text.includes('health') || text.includes('healthcare') || text.includes('medical')) categories.push('Healthcare');
+        if (text.includes('hydrographic') || text.includes('ocean')) categories.push('UK Hydrographic Office');
+        if (text.includes('education') || text.includes('teaching') || text.includes('university') || text.includes('school')) categories.push('Department for Education');
+        if (text.includes('business') || text.includes('trade') || text.includes('commerce')) categories.push('Department for Business & Trade');
+        if (text.includes('transport') || text.includes('aviation') || text.includes('rail') || text.includes('roads')) categories.push('Department for Transport');
+        if (text.includes('justice') || text.includes('legal') || text.includes('courts') || text.includes('law')) categories.push('Ministry of Justice');
+        if (text.includes('home office') || text.includes('immigration') || text.includes('police') || text.includes('security')) categories.push('Home Office');
+        if (text.includes('treasury') || text.includes('finance') || text.includes('budget') || text.includes('fiscal')) categories.push('HM Treasury');
+        if (text.includes('foreign') || text.includes('diplomatic') || text.includes('international') || text.includes('embassy')) categories.push('Foreign, Commonwealth & Development Office');
+        // General government for books that don't fit specific departments
+        if (text.includes('government') || text.includes('public sector') || text.includes('civil service') || text.includes('okrs')) categories.push('Government');
         if (text.includes('nato') || text.includes('military') || text.includes('warfighting') || text.includes('battlefield')) categories.push('Military');
         if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) categories.push('Sustainability');
         if (text.includes('game') || text.includes('gaming')) categories.push('Gaming');

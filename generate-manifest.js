@@ -41,7 +41,8 @@ class ManifestGenerator {
         if (text.includes('UN ') || text.includes('united nations') || text.includes('sustainable development') || text.includes('sdg')) categories.push('United Nations');
         if (text.includes('british airways') || text.includes('leasehold')) categories.push('Consumer');
         if (text.includes('nhs') || text.includes('uk ') || text.includes('england')) categories.push('UK Government');
-        if (text.includes('government') || text.includes('public') || text.includes('nato') || text.includes('hmrc')) categories.push('Government & Military');
+        if (text.includes('government') || text.includes('public') || text.includes('hmrc') || text.includes('okrs')) categories.push('Government');
+        if (text.includes('nato') || text.includes('military') || text.includes('warfighting') || text.includes('battlefield')) categories.push('Military');
         if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) categories.push('Sustainability');
         if (text.includes('game') || text.includes('gaming')) categories.push('Gaming');
         if (text.includes('security') || text.includes('privacy')) categories.push('Security');

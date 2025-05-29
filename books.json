@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-29T03:34:21.993Z",
+  "generated": "2025-05-29T03:35:23.232Z",
   "version": "1.0.0",
   "totalBooks": 49,
   "books": [
@@ -59,11 +59,9 @@
     {
       "id": "battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d",
       "title": "Battlefield Economics  The Hidden Forces Shaping Military Conflicts",
-      "category": [
-        "Technology"
-      ],
+      "category": "Military",
       "categories": [
-        "Technology"
+        "Military"
       ],
       "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
       "path": "/workspaces/GenAI-Books/books/Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d/full_book.md",
@@ -209,12 +207,12 @@
       "category": [
         "Artificial Intelligence",
         "Business Strategy",
-        "Government & Military"
+        "Government"
       ],
       "categories": [
         "Artificial Intelligence",
         "Business Strategy",
-        "Government & Military"
+        "Government"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707/full_book.md",
@@ -225,11 +223,11 @@
       "title": "GenAI for HMRC  A Practical Guide to Transforming",
       "category": [
         "Artificial Intelligence",
-        "Government & Military"
+        "Government"
       ],
       "categories": [
         "Artificial Intelligence",
-        "Government & Military"
+        "Government"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f/full_book.md",
@@ -251,11 +249,11 @@
       "title": "Harnessing the Power of GenAI  A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
       "category": [
         "Artificial Intelligence",
-        "Government & Military"
+        "Government"
       ],
       "categories": [
         "Artificial Intelligence",
-        "Government & Military"
+        "Government"
       ],
       "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
       "path": "/workspaces/GenAI-Books/books/Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48/full_book.md",
@@ -626,9 +624,9 @@
     {
       "id": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
       "title": "Transforming Government with OKRs  A Guide to Implementing Objectives and Key Results in the Public Sector",
-      "category": "Government & Military",
+      "category": "Government",
       "categories": [
-        "Government & Military"
+        "Government"
       ],
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
       "path": "/workspaces/GenAI-Books/books/Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40/full_book.md",
@@ -725,12 +723,12 @@
       "category": [
         "Strategic Mapping",
         "Artificial Intelligence",
-        "Government & Military"
+        "Military"
       ],
       "categories": [
         "Strategic Mapping",
         "Artificial Intelligence",
-        "Government & Military"
+        "Military"
       ],
       "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45/full_book.md",

@@ -1,7 +1,7 @@
 {
-  "generated": "2025-05-29T03:11:38.126Z",
+  "generated": "2025-05-29T03:29:53.016Z",
   "version": "1.0.0",
-  "totalBooks": 41,
+  "totalBooks": 49,
   "books": [
     {
       "id": "ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42",
@@ -204,6 +204,43 @@
       ]
     },
     {
+      "id": "genai-for-hmrc-a-practical-guide-to-strategy-b54d1707",
+      "title": "GenAI for HMRC  A Practical Guide to Strategy",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "genai-for-hmrc-a-practical-guide-to-transforming-bbdf344f",
+      "title": "GenAI for HMRC  A Practical Guide to Transforming",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "generative-ai-for-official-statistics-a-strategic-5065c7dc",
+      "title": "Generative AI for Official Statistics  A Strategic",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
+      "path": "/workspaces/GenAI-Books/books/Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48",
       "title": "Harnessing the Power of GenAI  A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
       "category": [
@@ -269,6 +306,28 @@
       ],
       "directory": "Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49",
       "path": "/workspaces/GenAI-Books/books/Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a",
+      "title": "Mapping the ILC Lifecycle  A Beginner s Guide to Wardley Mapping",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
+      "path": "/workspaces/GenAI-Books/books/Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mapping-the-red-queen-a-guide-to-wardley-mapping-bd4a3955-91c5",
+      "title": "Mapping the Red Queen  A Guide to Wardley Mapping",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
+      "path": "/workspaces/GenAI-Books/books/Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5/full_book.md",
       "additionalFiles": []
     },
     {
@@ -389,6 +448,17 @@
       ]
     },
     {
+      "id": "open-source-as-a-competitive-weapon-strategy-communication-0d597dd3-b074",
+      "title": "Open Source as a Competitive Weapon  Strategy  Communication",
+      "category": "Business Strategy",
+      "categories": [
+        "Business Strategy"
+      ],
+      "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
+      "path": "/workspaces/GenAI-Books/books/Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning-9509ccd5-7a28-40",
       "title": "Privacy-Preserving AI  Unlocking the Power of Secure Machine Learning",
       "category": [
@@ -464,6 +534,17 @@
       "additionalFiles": [
         "markdown/"
       ]
+    },
+    {
+      "id": "spimescript-beyond-ai-towards-the-malleable-future-c76174cb",
+      "title": "SpimeScript  Beyond AI  Towards the Malleable Future",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
+      "path": "/workspaces/GenAI-Books/books/SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "strategic-ai-advantage-a-comprehensive-framework-cde800e0-3f4d-47",
@@ -545,6 +626,23 @@
       ],
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
       "path": "/workspaces/GenAI-Books/books/Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "unlocking-the-power-of-generative-ai-for-sustainable-development-b341a861",
+      "title": "Unlocking the Power of Generative AI for Sustainable Development",
+      "category": [
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
+      "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
+      "path": "/workspaces/GenAI-Books/books/Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861/full_book.md",
       "additionalFiles": []
     },
     {

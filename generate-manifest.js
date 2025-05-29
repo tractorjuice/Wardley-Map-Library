@@ -29,21 +29,34 @@ class ManifestGenerator {
         const titleLower = title.toLowerCase();
         const dirLower = dirName.toLowerCase();
         const text = titleLower + ' ' + dirLower;
+        
+        const categories = [];
 
-        if (text.includes('wardley') || text.includes('mapping')) return 'Strategic Mapping';
-        if (text.includes('healthcare') || text.includes('medical') || text.includes('nhs')) return 'Healthcare';
-        if (text.includes('ai') || text.includes('artificial') || text.includes('genai') || text.includes('llm')) return 'Artificial Intelligence';
-        if (text.includes('startup') || text.includes('business') || text.includes('strategy')) return 'Business Strategy';
-        if (text.includes('UN ') || text.includes('united nations') || text.includes('sustainable development') || text.includes('sdg')) return 'United Nations';
-        if (text.includes('nhs') || text.includes('government')) return 'UK Government';
-        if (text.includes('government') || text.includes('public') || text.includes('nato')) return 'Government & Military';
-        if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) return 'Sustainability';
-        if (text.includes('game') || text.includes('gaming')) return 'Gaming';
-        if (text.includes('security') || text.includes('privacy')) return 'Security';
-        if (text.includes('data') || text.includes('science')) return 'Data Science';
-        if (text.includes('education') || text.includes('teaching')) return 'Education';
+        // Check all categories and add matches
+        if (text.includes('wardley') || text.includes('mapping')) categories.push('Strategic Mapping');
+        if (text.includes('healthcare') || text.includes('medical') || text.includes('nhs')) categories.push('Healthcare');
+        if (text.includes('ai') || text.includes('artificial') || text.includes('genai') || text.includes('llm')) categories.push('Artificial Intelligence');
+        if (text.includes('startup') || text.includes('business') || text.includes('strategy')) categories.push('Business Strategy');
+        if (text.includes('hydrographic') || text.includes('ocean')) categories.push('Government & Military');
+        if (text.includes('UN ') || text.includes('united nations') || text.includes('sustainable development') || text.includes('sdg')) categories.push('United Nations');
+        if (text.includes('nhs') || text.includes('british') || text.includes('uk ') || text.includes('england') || text.includes('leasehold')) categories.push('UK Government');
+        if (text.includes('government') || text.includes('public') || text.includes('nato')) categories.push('Government & Military');
+        if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) categories.push('Sustainability');
+        if (text.includes('game') || text.includes('gaming')) categories.push('Gaming');
+        if (text.includes('security') || text.includes('privacy')) categories.push('Security');
+        if (text.includes('data') || text.includes('science')) categories.push('Data Science');
+        if (text.includes('education') || text.includes('teaching')) categories.push('Education');
 
-        return 'Technology';
+        // Remove duplicates and return categories
+        const uniqueCategories = [...new Set(categories)];
+        
+        // If no categories found, return Technology
+        if (uniqueCategories.length === 0) {
+            return ['Technology'];
+        }
+        
+        // Return single category for backward compatibility, or multiple categories
+        return uniqueCategories.length === 1 ? uniqueCategories[0] : uniqueCategories;
     }
 
     async scanBooksDirectory() {
@@ -104,6 +117,7 @@ class ManifestGenerator {
                                 id: bookId,
                                 title: title,
                                 category: category,
+                                categories: Array.isArray(category) ? category : [category],
                                 directory: item,
                                 path: fullBookPath,
                                 additionalFiles: additionalFiles
@@ -149,7 +163,11 @@ class ManifestGenerator {
             // Show category breakdown
             const categories = {};
             this.books.forEach(book => {
-                categories[book.category] = (categories[book.category] || 0) + 1;
+                // Handle both single categories and multiple categories
+                const bookCategories = book.categories || [book.category];
+                bookCategories.forEach(cat => {
+                    categories[cat] = (categories[cat] || 0) + 1;
+                });
             });
 
             console.log('\n📋 Category breakdown:');

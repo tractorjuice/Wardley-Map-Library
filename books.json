@@ -1,12 +1,21 @@
 {
-  "generated": "2025-05-29T02:55:19.642Z",
+  "generated": "2025-05-29T03:01:51.218Z",
   "version": "1.0.0",
   "totalBooks": 41,
   "books": [
     {
       "id": "ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42",
       "title": "AI   ESG  A Critical Analysis of Technology s Role in Sustainable Business",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy",
+        "Sustainability"
+      ],
       "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
       "path": "/workspaces/GenAI-Books/books/AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42/full_book.md",
       "additionalFiles": [
@@ -16,7 +25,16 @@
     {
       "id": "ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a",
       "title": "AI for Global Goals  Leveraging Generative AI to Advance UN Sustainable Development",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
       "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
       "path": "/workspaces/GenAI-Books/books/AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a/full_book.md",
       "additionalFiles": [
@@ -26,7 +44,14 @@
     {
       "id": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
       "title": "AI Revolution in Healthcare  Navigating Challenges and Opportunities in the Age of Generative AI",
-      "category": "Healthcare",
+      "category": [
+        "Healthcare",
+        "Artificial Intelligence"
+      ],
+      "categories": [
+        "Healthcare",
+        "Artificial Intelligence"
+      ],
       "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
       "path": "/workspaces/GenAI-Books/books/AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40/full_book.md",
       "additionalFiles": []
@@ -34,7 +59,12 @@
     {
       "id": "battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d",
       "title": "Battlefield Economics  The Hidden Forces Shaping Military Conflicts",
-      "category": "Technology",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
       "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
       "path": "/workspaces/GenAI-Books/books/Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d/full_book.md",
       "additionalFiles": [
@@ -44,7 +74,14 @@
     {
       "id": "blue-planet-green-robots-harnessing-ai-for-environmental-sustainability-cdaf677f-34ac-43",
       "title": "Blue Planet  Green Robots  Harnessing AI for Environmental Sustainability",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
       "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
       "path": "/workspaces/GenAI-Books/books/Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43/full_book.md",
       "additionalFiles": [
@@ -54,7 +91,14 @@
     {
       "id": "british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success-f8b42d91-7e23-4a",
       "title": "British Airways 2030  Transforming Loyalty in the Digital Age A Strategic Framework for Future Success",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "UK Government"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "UK Government"
+      ],
       "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
       "path": "/workspaces/GenAI-Books/books/British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a/full_book.md",
       "additionalFiles": []
@@ -63,6 +107,9 @@
       "id": "building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f",
       "title": "Building IP Futures  The LEGO Wardley Mapping Manual for Intellectual Property Horizons",
       "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
       "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
       "path": "/workspaces/GenAI-Books/books/Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f/full_book.md",
       "additionalFiles": [
@@ -73,6 +120,9 @@
       "id": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
       "title": "Charting the AI Current  A Strategic Blueprint for",
       "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
       "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
       "path": "/workspaces/GenAI-Books/books/Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45/full_book.md",
       "additionalFiles": []
@@ -80,7 +130,12 @@
     {
       "id": "climbing-the-value-ladder-mastering-the-art-of-value-propositions-and-benefits-communication-465d7194-fd19-48",
       "title": "Climbing the Value Ladder  Mastering the Art of Value Propositions and Benefits Communication",
-      "category": "Technology",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
       "directory": "Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48",
       "path": "/workspaces/GenAI-Books/books/Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48/full_book.md",
       "additionalFiles": [
@@ -90,7 +145,12 @@
     {
       "id": "conscious-earth-harnessing-the-planet-s-information-platform-revolution-0b9366d1-db69-4d",
       "title": "Conscious Earth  Harnessing the Planet s Information Platform Revolution",
-      "category": "Technology",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
       "directory": "Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d",
       "path": "/workspaces/GenAI-Books/books/Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d/full_book.md",
       "additionalFiles": [
@@ -101,7 +161,14 @@
     {
       "id": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
       "title": "Data-Driven Open Source AI  The Imperative for Inclusive Definitions and Practices",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
       "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
       "path": "/workspaces/GenAI-Books/books/Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43/full_book.md",
       "additionalFiles": [
@@ -112,6 +179,9 @@
       "id": "from-lotus-to-ai-modernising-legacy-systems-for-the-generative-ai-era-88200f01-7a30-42",
       "title": "From Lotus to AI  Modernising Legacy Systems for the Generative AI Era",
       "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
       "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
       "path": "/workspaces/GenAI-Books/books/From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42/full_book.md",
       "additionalFiles": []
@@ -119,7 +189,14 @@
     {
       "id": "game-changer-how-generative-ai-is-revolutionising-the-future-of-gaming-682bb3ec-a92c-40",
       "title": "Game Changer  How Generative AI is Revolutionising the Future of Gaming",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Gaming"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Gaming"
+      ],
       "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
       "path": "/workspaces/GenAI-Books/books/Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40/full_book.md",
       "additionalFiles": [
@@ -129,7 +206,14 @@
     {
       "id": "harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48",
       "title": "Harnessing the Power of GenAI  A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Government & Military"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Government & Military"
+      ],
       "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
       "path": "/workspaces/GenAI-Books/books/Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48/full_book.md",
       "additionalFiles": []
@@ -137,7 +221,14 @@
     {
       "id": "innovating-medtech-education-wardley-mapping-for-strategic-teaching-and-research-in-higher-education-b4c7411f-04aa-4e",
       "title": "Innovating MedTech Education  Wardley Mapping for Strategic Teaching and Research in Higher Education",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Education"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Education"
+      ],
       "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
       "path": "/workspaces/GenAI-Books/books/Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e/full_book.md",
       "additionalFiles": [
@@ -147,7 +238,10 @@
     {
       "id": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
       "title": "Leasehold Liberation  Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
-      "category": "Technology",
+      "category": "UK Government",
+      "categories": [
+        "UK Government"
+      ],
       "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
       "path": "/workspaces/GenAI-Books/books/Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47/full_book.md",
       "additionalFiles": [
@@ -157,7 +251,18 @@
     {
       "id": "mapping-sustainable-futures-wardley-mapping-for-un-sustainable-development-goals-e7d8047e-89bc-49",
       "title": "Mapping Sustainable Futures  Wardley Mapping for UN Sustainable Development Goals",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "United Nations",
+        "Sustainability"
+      ],
       "directory": "Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49",
       "path": "/workspaces/GenAI-Books/books/Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49/full_book.md",
       "additionalFiles": []
@@ -165,7 +270,14 @@
     {
       "id": "mapping-your-startup-s-future-mastering-wardley-maps-for-strategic-success-67b791b3-7e33-4f",
       "title": "Mapping Your Startup s Future  Mastering Wardley Maps for Strategic Success",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
       "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
       "path": "/workspaces/GenAI-Books/books/Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f/full_book.md",
       "additionalFiles": [
@@ -175,7 +287,16 @@
     {
       "id": "mastering-ai-strategy-prompt-engineering-and-wardley-mapping-for-business-innovation-15a0ffe5-eefd-4f",
       "title": "Mastering AI Strategy  Prompt Engineering and Wardley Mapping for Business Innovation",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
       "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
       "path": "/workspaces/GenAI-Books/books/Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f/full_book.md",
       "additionalFiles": []
@@ -184,6 +305,9 @@
       "id": "mastering-wardley-mapping-for-project-success-a-strategic-guide-for-project-managers-35056a3c-4f4f-49",
       "title": "Mastering Wardley Mapping for Project Success  A Strategic Guide for Project Managers",
       "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
       "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
       "path": "/workspaces/GenAI-Books/books/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/full_book.md",
       "additionalFiles": [
@@ -193,7 +317,14 @@
     {
       "id": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
       "title": "Meta s Closed-Source LLMs in Healthcare  A Critical Analysis of Risks and Benefits",
-      "category": "Healthcare",
+      "category": [
+        "Healthcare",
+        "Artificial Intelligence"
+      ],
+      "categories": [
+        "Healthcare",
+        "Artificial Intelligence"
+      ],
       "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
       "path": "/workspaces/GenAI-Books/books/Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b/full_book.md",
       "additionalFiles": [
@@ -203,7 +334,16 @@
     {
       "id": "navigating-the-ai-frontier-wardley-mapping-for-genai-startups-dff595a3-603e-48",
       "title": "Navigating the AI Frontier  Wardley Mapping for GenAI Startups",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
       "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
       "path": "/workspaces/GenAI-Books/books/Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48/full_book.md",
       "additionalFiles": [
@@ -213,7 +353,16 @@
     {
       "id": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
       "title": "Oceans of Change  Advancing SDG 14 Through Science  Innovation  and Community Action",
-      "category": "United Nations",
+      "category": [
+        "Government & Military",
+        "United Nations",
+        "Data Science"
+      ],
+      "categories": [
+        "Government & Military",
+        "United Nations",
+        "Data Science"
+      ],
       "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
       "path": "/workspaces/GenAI-Books/books/Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264/full_book.md",
       "additionalFiles": []
@@ -221,7 +370,14 @@
     {
       "id": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
       "title": "Once Upon a Map  A Child s Guide to Wardley Mapping Through Fairy Tales",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence"
+      ],
       "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
       "path": "/workspaces/GenAI-Books/books/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/full_book.md",
       "additionalFiles": [
@@ -231,7 +387,14 @@
     {
       "id": "privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning-9509ccd5-7a28-40",
       "title": "Privacy-Preserving AI  Unlocking the Power of Secure Machine Learning",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Security"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Security"
+      ],
       "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
       "path": "/workspaces/GenAI-Books/books/Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40/full_book.md",
       "additionalFiles": []
@@ -239,7 +402,18 @@
     {
       "id": "revitalising-the-nhs-a-comprehensive-blueprint-for-sustainable-healthcare-2c167a18-f2ec-41",
       "title": "Revitalising the NHS  A Comprehensive Blueprint for Sustainable Healthcare",
-      "category": "Healthcare",
+      "category": [
+        "Healthcare",
+        "Artificial Intelligence",
+        "UK Government",
+        "Sustainability"
+      ],
+      "categories": [
+        "Healthcare",
+        "Artificial Intelligence",
+        "UK Government",
+        "Sustainability"
+      ],
       "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
       "path": "/workspaces/GenAI-Books/books/Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41/full_book.md",
       "additionalFiles": []
@@ -247,7 +421,14 @@
     {
       "id": "revolutionising-medtech-education-wardley-mapping-for-teaching-and-research-in-higher-education-425f0e30-380b-45",
       "title": "Revolutionising MedTech Education  Wardley Mapping for Teaching and Research in Higher Education",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Education"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Education"
+      ],
       "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
       "path": "/workspaces/GenAI-Books/books/Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45/full_book.md",
       "additionalFiles": []
@@ -256,6 +437,9 @@
       "id": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
       "title": "Running to Stand Still  Mastering the Red Queen Effect in Business and Life",
       "category": "Business Strategy",
+      "categories": [
+        "Business Strategy"
+      ],
       "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
       "path": "/workspaces/GenAI-Books/books/Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42/full_book.md",
       "additionalFiles": []
@@ -263,7 +447,14 @@
     {
       "id": "securing-llms-essential-questions-for-your-penetration-testing-strategy-be9e7c94-d513-43",
       "title": "Securing LLMs  Essential Questions for Your Penetration Testing Strategy",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
       "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
       "path": "/workspaces/GenAI-Books/books/Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43/full_book.md",
       "additionalFiles": [
@@ -274,6 +465,9 @@
       "id": "strategic-ai-advantage-a-comprehensive-framework-cde800e0-3f4d-47",
       "title": "Strategic AI Advantage  A Comprehensive Framework",
       "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
       "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
       "path": "/workspaces/GenAI-Books/books/Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47/full_book.md",
       "additionalFiles": []
@@ -282,6 +476,9 @@
       "id": "strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b",
       "title": "Strategic Synthesis  Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation",
       "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
       "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
       "path": "/workspaces/GenAI-Books/books/Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b/full_book.md",
       "additionalFiles": [
@@ -292,6 +489,9 @@
       "id": "the-agi-race-openai-vs-anthropic-in-the-battle-for-artificial-general-intelligence-7db60baa-c7d1-4c",
       "title": "The AGI Race  OpenAI vs Anthropic in the Battle for Artificial General Intelligence",
       "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
       "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
       "path": "/workspaces/GenAI-Books/books/The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c/full_book.md",
       "additionalFiles": [
@@ -301,7 +501,14 @@
     {
       "id": "the-ai-success-trinity-mastering-dataops-mlops-and-finops-for-transformative-ai-implementation-fd9c6f12-26aa-42",
       "title": "The AI Success Trinity  Mastering DataOps  MLOps  and FinOps for Transformative AI Implementation",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
       "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
       "path": "/workspaces/GenAI-Books/books/The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42/full_book.md",
       "additionalFiles": [
@@ -311,7 +518,16 @@
     {
       "id": "the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45",
       "title": "The Planet Information Platform  Mapping Earth with Satellites  AI  and Big Data",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Data Science"
+      ],
       "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
       "path": "/workspaces/GenAI-Books/books/The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45/full_book.md",
       "additionalFiles": []
@@ -319,7 +535,10 @@
     {
       "id": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
       "title": "Transforming Government with OKRs  A Guide to Implementing Objectives and Key Results in the Public Sector",
-      "category": "UK Government",
+      "category": "Government & Military",
+      "categories": [
+        "Government & Military"
+      ],
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
       "path": "/workspaces/GenAI-Books/books/Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40/full_book.md",
       "additionalFiles": []
@@ -327,7 +546,14 @@
     {
       "id": "wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e",
       "title": "Wardley Mapping  A Practical Guide to Strategy in",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
       "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e/full_book.md",
       "additionalFiles": []
@@ -335,7 +561,16 @@
     {
       "id": "wardley-mapping-for-data-science-revolutionising-strategy-in-technology-labs-b1cccb77-e255-4f",
       "title": "Wardley Mapping for Data Science  Revolutionising Strategy in Technology Labs",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy",
+        "Data Science"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy",
+        "Data Science"
+      ],
       "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f/full_book.md",
       "additionalFiles": []
@@ -343,7 +578,16 @@
     {
       "id": "wardley-mapping-for-startups-navigating-uncertainty-and-driving-innovation-5c03d220-6cf2-41",
       "title": "Wardley Mapping for Startups  Navigating Uncertainty and Driving Innovation",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
       "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41/full_book.md",
       "additionalFiles": [
@@ -353,7 +597,14 @@
     {
       "id": "wardley-mapping-mastery-uncovering-hidden-opportunities-in-business-strategy-058b2cd6-6fe2-4e",
       "title": "Wardley Mapping Mastery  Uncovering Hidden Opportunities in Business Strategy",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
       "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e/full_book.md",
       "additionalFiles": [
@@ -363,7 +614,16 @@
     {
       "id": "wardley-mapping-nato-s-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains-4d6eb348-b1cd-45",
       "title": "Wardley Mapping NATO s Warfighting Concept  A Strategic Analysis of the Six Operational Domains",
-      "category": "Strategic Mapping",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Government & Military"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Government & Military"
+      ],
       "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45/full_book.md",
       "additionalFiles": [
@@ -373,7 +633,12 @@
     {
       "id": "windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation-b74b18f6-96e9-45",
       "title": "Windows 11 Migration Mastery  A Strategic Guide to Enterprise Transformation",
-      "category": "Technology",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
       "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
       "path": "/workspaces/GenAI-Books/books/Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45/full_book.md",
       "additionalFiles": [

@@ -32,3 +32,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Temporary books directory
+temp_books/

@@ -13,6 +13,7 @@ class BooksLibrary {
             this.initializeDynamicUrls();
             
             await this.loadBooksFromAPI();
+            this.populateCategoryFilter();
             this.renderBooksList();
             this.setupEventListeners();
             this.updateBookCount();
@@ -93,6 +94,40 @@ class BooksLibrary {
         }
     }
 
+    populateCategoryFilter() {
+        const categoryFilter = document.getElementById('categoryFilter');
+        if (!categoryFilter) {
+            console.error('Category filter element not found');
+            return;
+        }
+
+        // Get all unique categories from books
+        const allCategories = new Set();
+        this.books.forEach(book => {
+            // Handle both single category (string) and multiple categories (array)
+            const categories = book.categories || (Array.isArray(book.category) ? book.category : [book.category]);
+            categories.forEach(category => {
+                if (category && category.trim()) {
+                    allCategories.add(category.trim());
+                }
+            });
+        });
+
+        // Sort categories alphabetically
+        const sortedCategories = Array.from(allCategories).sort();
+
+        // Clear existing options except "All Categories"
+        categoryFilter.innerHTML = '<option value="">All Categories</option>';
+
+        // Add category options
+        sortedCategories.forEach(category => {
+            const option = document.createElement('option');
+            option.value = category;
+            option.textContent = category;
+            categoryFilter.appendChild(option);
+        });
+    }
+
     renderBooksList() {
         const booksList = document.getElementById('booksList');
         
@@ -116,9 +151,13 @@ class BooksLibrary {
             listItem.className = 'book-item';
             listItem.dataset.bookId = book.id;
             
+            // Handle multiple categories display
+            const categories = book.categories || (Array.isArray(book.category) ? book.category : [book.category]);
+            const categoryDisplay = categories.slice(0, 2).join(', ') + (categories.length > 2 ? ` +${categories.length - 2} more` : '');
+            
             listItem.innerHTML = `
                 <div class="book-title">${this.escapeHtml(book.title)}</div>
-                <div class="book-category">${this.escapeHtml(book.category)}</div>
+                <div class="book-category">${this.escapeHtml(categoryDisplay)}</div>
             `;
             
             listItem.addEventListener('click', () => this.selectBook(book));
@@ -131,7 +170,12 @@ class BooksLibrary {
     setupEventListeners() {
         const searchInput = document.getElementById('searchInput');
         if (searchInput) {
-            searchInput.addEventListener('input', (e) => this.filterBooks(e.target.value));
+            searchInput.addEventListener('input', (e) => this.filterBooks());
+        }
+
+        const categoryFilter = document.getElementById('categoryFilter');
+        if (categoryFilter) {
+            categoryFilter.addEventListener('change', (e) => this.filterBooks());
         }
         
         // Setup splitter functionality
@@ -244,16 +288,31 @@ class BooksLibrary {
         }
     }
 
-    filterBooks(searchTerm) {
+    filterBooks() {
+        const searchInput = document.getElementById('searchInput');
+        const categoryFilter = document.getElementById('categoryFilter');
         const bookItems = document.querySelectorAll('.book-item');
-        const lowercaseSearch = searchTerm.toLowerCase();
+        
+        const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
+        const selectedCategory = categoryFilter ? categoryFilter.value : '';
 
         bookItems.forEach(item => {
             const title = item.querySelector('.book-title').textContent.toLowerCase();
             const category = item.querySelector('.book-category').textContent.toLowerCase();
-            const matches = title.includes(lowercaseSearch) || category.includes(lowercaseSearch);
+            const bookId = item.dataset.bookId;
             
-            item.style.display = matches ? 'block' : 'none';
+            // Find the book data to get all categories
+            const book = this.books.find(b => b.id === bookId);
+            const bookCategories = book ? (book.categories || (Array.isArray(book.category) ? book.category : [book.category])) : [];
+            
+            // Check search term match
+            const searchMatch = !searchTerm || title.includes(searchTerm) || category.includes(searchTerm);
+            
+            // Check category filter match
+            const categoryMatch = !selectedCategory || bookCategories.some(cat => cat === selectedCategory);
+            
+            // Show item only if both conditions are met
+            item.style.display = (searchMatch && categoryMatch) ? 'block' : 'none';
         });
 
         // Update visible count
@@ -364,13 +423,19 @@ class BooksLibrary {
         const bookCategory = document.getElementById('bookCategory');
         
         if (bookTitle) bookTitle.textContent = book.title;
-        if (bookCategory) bookCategory.textContent = book.category;
+        if (bookCategory) {
+            const categories = book.categories || (Array.isArray(book.category) ? book.category : [book.category]);
+            bookCategory.textContent = categories.join(', ');
+        }
 
         // Convert markdown to HTML and display
         const bookContent = document.getElementById('bookContent');
         if (bookContent) {
             try {
                 bookContent.innerHTML = marked.parse(content);
+                
+                // Process image URLs for GitHub raw content
+                this.processImageUrls(bookContent, book);
                 
                 // Make external links open in new tabs
                 this.processExternalLinks(bookContent);
@@ -431,6 +496,29 @@ class BooksLibrary {
             const count = visibleCount !== null ? visibleCount : this.books.length;
             bookCountElement.textContent = count;
         }
+    }
+
+    processImageUrls(container, book) {
+        const images = container.querySelectorAll('img');
+        
+        images.forEach(img => {
+            const src = img.getAttribute('src');
+            
+            // Check if it's a relative path (not already a full URL)
+            if (src && !src.startsWith('http') && !src.startsWith('//')) {
+                // Convert relative path to GitHub raw URL
+                const githubBaseUrl = 'https://raw.githubusercontent.com/tractorjuice/Wardley-Map-Library/Development';
+                const fullImageUrl = `${githubBaseUrl}/books/${book.directory}/${src}`;
+                
+                img.setAttribute('src', fullImageUrl);
+                
+                // Add error handling for broken images
+                img.addEventListener('error', () => {
+                    console.warn(`Failed to load image: ${fullImageUrl}`);
+                    img.style.display = 'none';
+                });
+            }
+        });
     }
 
     processExternalLinks(container) {

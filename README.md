@@ -1,6 +1,6 @@
 # Wardley Map Library 🗺️
 
-A comprehensive **open-source** digital library for Wardley Mapping resources, strategic analysis reports, and business strategy books. Features a modern, responsive interface with advanced functionality for exploring strategic thinking and business analysis.
+A comprehensive **open-source** digital library for Wardley Mapping resources, strategic analysis reports, and business strategy books. Currently featuring **88 strategic analysis books** with a modern, responsive interface and advanced functionality for exploring strategic thinking and business analysis.
 
 **🌐 Live Demo:** [Visit the Wardley Map Library](https://library.wardleymaps.ai/)
 
@@ -83,7 +83,8 @@ Wardley-Map-Library/
 │   └── [Book Directories]/ # Individual book folders
 │       ├── full_book.md    # Book content in markdown (REQUIRED)
 │       ├── full_book.docx  # Word document version (optional)
-│       └── markdown_wardley_map_reports/ # Wardley map reports
+│       └── markdown/
+│           └── wardley_map_reports/ # Wardley map reports
 ├── public/                 # Static frontend files
 │   ├── index.html         # Main application page
 │   ├── styles.css         # Responsive application styles
@@ -131,8 +132,8 @@ Books are automatically categorized based on their content:
 
 ### Available Scripts
 
-- `npm start` - Start production server
-- `npm run dev` - Start development server with auto-restart
+- `vercel dev` - Start local development server
+- `node generate-manifest.js` - Update book manifest
 - `npm test` - Run tests (placeholder)
 
 ### Adding New Books
@@ -140,7 +141,7 @@ Books are automatically categorized based on their content:
 1. Create a new directory inside the `books/` folder
 2. Add your book content as `full_book.md` (required)
 3. Optionally include `full_book.docx` and additional markdown files
-4. Restart the server to auto-discover the new book
+4. Run `node generate-manifest.js` to update the book manifest
 5. The book will be automatically categorized and added to the library
 
 **Example:**
@@ -175,7 +176,7 @@ books/
 ### Customization
 
 - **Styling**: Edit `public/styles.css` for visual customization
-- **Categories**: Modify the `categorizeBook()` method in `server.js`
+- **Categories**: Modify the `categorizeBook()` method in `generate-manifest.js`
 - **Frontend**: Update `public/script.js` for UI behavior changes
 - **External Links**: Configure link processing in `processExternalLinks()` method
 
@@ -236,14 +237,14 @@ MIT License - see LICENSE file for details
 
 #### Port Already in Use
 ```bash
-PORT=3001 npm start  # Use different port
+vercel dev --listen 3001  # Use different port
 ```
 
 #### Books Not Loading
 1. Verify `full_book.md` files exist in book directories
 2. Check file permissions are readable
-3. Review server logs for discovery errors
-4. Restart server to trigger re-discovery
+3. Run `node generate-manifest.js` to update book manifest
+4. Restart development server with `vercel dev`
 
 #### Broken Book Links
 - Links with wrong dashes are automatically corrected
@@ -264,7 +265,8 @@ PORT=3001 npm start  # Use different port
 - Open browser DevTools (F12)
 - Check Console tab for JavaScript errors
 - Monitor Network tab for API call failures
-- Use `/api/health` endpoint for server status
+- Use `/api/health` endpoint for API status
+- Use `vercel dev` for local development server
 
 ## 🤝 Contributing
 
@@ -278,7 +280,8 @@ We welcome contributions to the Wardley Map Library! Here's how you can help:
    books/Your_Book_Title_uniqueid/
    ├── full_book.md              # Required: Main book content
    ├── full_book.docx           # Optional: Word version
-   └── markdown_wardley_map_reports/ # Optional: Wardley maps
+   └── markdown/                 # Optional: Additional content
+       └── wardley_map_reports/  # Optional: Wardley maps
    ```
 4. **Create a pull request** with your addition
 
@@ -319,7 +322,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### For Developers
 - Review browser console for client-side errors
-- Check `/api/health` endpoint for server status
+- Check `/api/health` endpoint for API status
 - Monitor Network tab for API call failures
 - Verify Node.js version compatibility (14+)
 

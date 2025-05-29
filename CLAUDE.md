@@ -13,13 +13,14 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 - Wardley map integration operational
 - Responsive UI with interactive features
 - Dynamic book discovery and categorization
+- **88 books** currently available in the library
 - Vercel deployment optimized and stable
 
 ## 🏗️ Architecture
 
 ### Application Structure
 ```
-/workspaces/Wardley-Map-Library/
+/workspaces/GenAI-Books/
 ├── api/                   # Vercel serverless functions
 │   ├── books.js          # Books listing API
 │   ├── books/            # Individual book APIs
@@ -40,7 +41,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 │   ├── index.html         # Main application HTML
 │   ├── styles.css         # Complete CSS styling
 │   └── script.js          # Frontend JavaScript application
-├── server.js              # Express.js server (local development)
+├── generate-manifest.js   # Book discovery and manifest generation
 ├── package.json           # Dependencies and scripts
 ├── vercel.json           # Vercel deployment configuration
 ├── .gitignore            # Git ignore patterns
@@ -50,11 +51,10 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 
 ## 🔧 Key Components
 
-### Server-Side (`server.js`)
-- **BookService Class**: Handles book discovery and management
-- **Auto-Discovery**: Scans directories for `full_book.md` files
-- **Categorization**: AI-powered book categorization based on content
-- **API Endpoints**: RESTful API for books, content, and health checks
+### Serverless API Functions (`api/` directory)
+- **Book Discovery**: Automated scanning for `full_book.md` files via manifest
+- **Auto-Categorization**: AI-powered book categorization based on content
+- **RESTful Endpoints**: Books, content, and health check APIs
 - **URL Routing**: Smart redirects for legacy markdown links
 - **Error Handling**: Comprehensive error handling and logging
 
@@ -77,11 +77,12 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 ## 📚 Book Discovery System
 
 ### How Books Are Found
-1. Server scans all directories in the `books/` folder
+1. Manifest generator (`generate-manifest.js`) scans all directories in the `books/` folder
 2. Looks for `full_book.md` files in each directory
 3. Extracts book metadata from content and directory names
 4. Generates clean IDs from directory names
 5. Categorizes books based on title and content analysis
+6. Creates `books.json` manifest file for API consumption
 
 ### Book ID Generation
 - Converts directory names to lowercase
@@ -176,13 +177,13 @@ Books are categorized using keyword matching:
 1. Create directory inside `books/` folder with descriptive name
 2. Add `full_book.md` file with markdown content
 3. Optionally add `full_book.docx` and other markdown files
-4. Restart server to trigger discovery
+4. Run `node generate-manifest.js` to update the book manifest
 5. Book will be automatically categorized and listed
 
 ### Modifying Categories
-1. Edit `categorizeBook()` method in `server.js`
+1. Edit `categorizeBook()` method in `generate-manifest.js`
 2. Add new keyword mappings
-3. Restart server to apply changes
+3. Run `node generate-manifest.js` to regenerate manifest
 
 ### Updating Styles
 1. Edit `public/styles.css`
@@ -190,11 +191,11 @@ Books are categorized using keyword matching:
 3. Test responsive behavior on different screen sizes
 
 ### API Development
-1. **Local Development**: Add endpoints in `server.js`
-2. **Production**: Create serverless functions in `api/` directory
-3. Follow existing error handling patterns
-4. Update API documentation in README.md
-5. **Vercel Functions**: Use `export default async function handler(req, res)`
+1. **All Development**: Create serverless functions in `api/` directory
+2. Follow existing error handling patterns
+3. Update API documentation in README.md
+4. **Vercel Functions**: Use `export default async function handler(req, res)`
+5. Test locally with `vercel dev`
 
 ## 🐛 Debugging
 
@@ -232,7 +233,7 @@ Books are categorized using keyword matching:
 - Application runs on auto-generated Codespaces URL
 - Port forwarding handled automatically
 - HTTPS by default for secure features
-- Express.js server for local development
+- Vercel development server for local testing
 
 ## 🔄 Maintenance
 

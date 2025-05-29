@@ -1,7 +1,7 @@
 {
-  "generated": "2025-05-28T17:17:53.774Z",
+  "generated": "2025-05-29T02:55:19.642Z",
   "version": "1.0.0",
-  "totalBooks": 36,
+  "totalBooks": 41,
   "books": [
     {
       "id": "ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42",
@@ -52,6 +52,14 @@
       ]
     },
     {
+      "id": "british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success-f8b42d91-7e23-4a",
+      "title": "British Airways 2030  Transforming Loyalty in the Digital Age A Strategic Framework for Future Success",
+      "category": "Artificial Intelligence",
+      "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
+      "path": "/workspaces/GenAI-Books/books/British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f",
       "title": "Building IP Futures  The LEGO Wardley Mapping Manual for Intellectual Property Horizons",
       "category": "Strategic Mapping",
@@ -60,6 +68,14 @@
       "additionalFiles": [
         "markdown/"
       ]
+    },
+    {
+      "id": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
+      "title": "Charting the AI Current  A Strategic Blueprint for",
+      "category": "Artificial Intelligence",
+      "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
+      "path": "/workspaces/GenAI-Books/books/Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "climbing-the-value-ladder-mastering-the-art-of-value-propositions-and-benefits-communication-465d7194-fd19-48",
@@ -195,6 +211,14 @@
       ]
     },
     {
+      "id": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
+      "title": "Oceans of Change  Advancing SDG 14 Through Science  Innovation  and Community Action",
+      "category": "United Nations",
+      "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
+      "path": "/workspaces/GenAI-Books/books/Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
       "title": "Once Upon a Map  A Child s Guide to Wardley Mapping Through Fairy Tales",
       "category": "Strategic Mapping",
@@ -247,6 +271,14 @@
       ]
     },
     {
+      "id": "strategic-ai-advantage-a-comprehensive-framework-cde800e0-3f4d-47",
+      "title": "Strategic AI Advantage  A Comprehensive Framework",
+      "category": "Artificial Intelligence",
+      "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
+      "path": "/workspaces/GenAI-Books/books/Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b",
       "title": "Strategic Synthesis  Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation",
       "category": "Strategic Mapping",
@@ -287,9 +319,17 @@
     {
       "id": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
       "title": "Transforming Government with OKRs  A Guide to Implementing Objectives and Key Results in the Public Sector",
-      "category": "Government & Military",
+      "category": "UK Government",
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
       "path": "/workspaces/GenAI-Books/books/Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e",
+      "title": "Wardley Mapping  A Practical Guide to Strategy in",
+      "category": "Strategic Mapping",
+      "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
+      "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e/full_book.md",
       "additionalFiles": []
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2025-05-29T04:17:01.627Z",
+  "generated": "2025-05-29T04:55:36.197Z",
   "version": "1.0.0",
-  "totalBooks": 88,
+  "totalBooks": 87,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -811,23 +811,6 @@
       "additionalFiles": [
         "markdown/"
       ]
-    },
-    {
-      "id": "security-assurance-framework-for-defense-science-and-technology-laboratories-a-comprehensive-guide-31386b33",
-      "title": "Security Assurance Framework for Defense Science and Technology Laboratories  A Comprehensive Guide",
-      "category": [
-        "Home Office",
-        "Security",
-        "Data Science"
-      ],
-      "categories": [
-        "Home Office",
-        "Security",
-        "Data Science"
-      ],
-      "directory": "Security_Assurance_Framework_for_Defense_Science_and_Technology_Laboratories__A_Comprehensive_Guide_31386b33",
-      "path": "/workspaces/GenAI-Books/books/Security_Assurance_Framework_for_Defense_Science_and_Technology_Laboratories__A_Comprehensive_Guide_31386b33/full_book.md",
-      "additionalFiles": []
     },
     {
       "id": "spimescript-beyond-ai-towards-the-malleable-future-c76174cb",

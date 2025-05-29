@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-29T03:29:53.016Z",
+  "generated": "2025-05-29T03:34:21.993Z",
   "version": "1.0.0",
   "totalBooks": 49,
   "books": [
@@ -208,11 +208,13 @@
       "title": "GenAI for HMRC  A Practical Guide to Strategy",
       "category": [
         "Artificial Intelligence",
-        "Business Strategy"
+        "Business Strategy",
+        "Government & Military"
       ],
       "categories": [
         "Artificial Intelligence",
-        "Business Strategy"
+        "Business Strategy",
+        "Government & Military"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707/full_book.md",
@@ -221,9 +223,13 @@
     {
       "id": "genai-for-hmrc-a-practical-guide-to-transforming-bbdf344f",
       "title": "GenAI for HMRC  A Practical Guide to Transforming",
-      "category": "Artificial Intelligence",
+      "category": [
+        "Artificial Intelligence",
+        "Government & Military"
+      ],
       "categories": [
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Government & Military"
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f/full_book.md",

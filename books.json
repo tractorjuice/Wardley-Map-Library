@@ -1,5 +1,5 @@
 {
-  "generated": "2025-05-29T03:01:51.218Z",
+  "generated": "2025-05-29T03:11:38.126Z",
   "version": "1.0.0",
   "totalBooks": 41,
   "books": [
@@ -93,11 +93,11 @@
       "title": "British Airways 2030  Transforming Loyalty in the Digital Age A Strategic Framework for Future Success",
       "category": [
         "Artificial Intelligence",
-        "UK Government"
+        "Consumer"
       ],
       "categories": [
         "Artificial Intelligence",
-        "UK Government"
+        "Consumer"
       ],
       "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
       "path": "/workspaces/GenAI-Books/books/British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a/full_book.md",
@@ -238,8 +238,12 @@
     {
       "id": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
       "title": "Leasehold Liberation  Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
-      "category": "UK Government",
+      "category": [
+        "Consumer",
+        "UK Government"
+      ],
       "categories": [
+        "Consumer",
         "UK Government"
       ],
       "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
@@ -354,12 +358,12 @@
       "id": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
       "title": "Oceans of Change  Advancing SDG 14 Through Science  Innovation  and Community Action",
       "category": [
-        "Government & Military",
+        "UK Government",
         "United Nations",
         "Data Science"
       ],
       "categories": [
-        "Government & Military",
+        "UK Government",
         "United Nations",
         "Data Science"
       ],

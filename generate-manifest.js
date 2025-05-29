@@ -37,9 +37,10 @@ class ManifestGenerator {
         if (text.includes('healthcare') || text.includes('medical') || text.includes('nhs')) categories.push('Healthcare');
         if (text.includes('ai') || text.includes('artificial') || text.includes('genai') || text.includes('llm')) categories.push('Artificial Intelligence');
         if (text.includes('startup') || text.includes('business') || text.includes('strategy')) categories.push('Business Strategy');
-        if (text.includes('hydrographic') || text.includes('ocean')) categories.push('Government & Military');
+        if (text.includes('hydrographic') || text.includes('ocean')) categories.push('UK Government');
         if (text.includes('UN ') || text.includes('united nations') || text.includes('sustainable development') || text.includes('sdg')) categories.push('United Nations');
-        if (text.includes('nhs') || text.includes('british') || text.includes('uk ') || text.includes('england') || text.includes('leasehold')) categories.push('UK Government');
+        if (text.includes('british airways') || text.includes('leasehold')) categories.push('Consumer');
+        if (text.includes('nhs') || text.includes('uk ') || text.includes('england')) categories.push('UK Government');
         if (text.includes('government') || text.includes('public') || text.includes('nato')) categories.push('Government & Military');
         if (text.includes('sustainability') || text.includes('environment') || text.includes('sustainable') || text.includes('green')) categories.push('Sustainability');
         if (text.includes('game') || text.includes('gaming')) categories.push('Gaming');

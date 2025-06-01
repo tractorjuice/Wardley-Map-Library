@@ -142,6 +142,14 @@ Books are categorized using keyword matching:
 - Supports browser back/forward navigation
 - Updates page title dynamically
 
+### Hash Fragment Support (Deep Linking)
+- Format: `/?book={book-id}#section-name`
+- Example: `/?book=ai-revolution-in-healthcare#addressing-authorship-and-ownership-of-ai-created-content`
+- Preserves hash fragments during initial page load
+- Automatically scrolls to target section after content loads
+- Maintains hash fragments during browser back/forward navigation
+- Clears hash only when manually selecting new books from sidebar
+
 ### Legacy Link Handling
 - Redirects `/markdown/*` paths to appropriate books
 - Uses intelligent matching based on content keywords

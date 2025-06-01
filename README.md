@@ -14,7 +14,7 @@ A comprehensive digital library of Wardley Mapping resources, strategic analysis
 - **🔍 Smart Search**: Real-time search with category filtering and fuzzy matching
 - **📖 Interactive Reading**: Table of contents navigation, responsive design, mobile-optimized
 - **🎯 Auto-Categorization**: AI-powered book categorization across multiple domains
-- **🔗 External Integration**: Wardley map reports, direct linking, share functionality
+- **🔗 Smart Linking**: Deep linking to book sections, Wardley map reports, share functionality
 - **⚡ High Performance**: Serverless architecture with optimized loading and caching
 
 ## 🚀 Quick Start

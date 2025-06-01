@@ -1,6 +1,6 @@
-# Securing LLMs: Essential Questions for Your Penetration Testing Strategy
+# <a name="securing-llms-essential-questions-for-your-penetration-testing-strategy"></a>Securing LLMs: Essential Questions for Your Penetration Testing Strategy
 
-### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
+### <a name="warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources"></a>:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 
 # Table of Contents
 
@@ -60,11 +60,11 @@
   - [Specialised Applications](#specialised-applications)
 
 
-# Introduction: Understanding LLM Security Challenges
+# <a name="introduction-understanding-llm-security-challenges"></a>Introduction: Understanding LLM Security Challenges
 
-## The Evolving Landscape of AI Security
+## <a name="the-evolving-landscape-of-ai-security"></a>The Evolving Landscape of AI Security
 
-### Current State of LLM Deployments
+### <a name="current-state-of-llm-deployments"></a>Current State of LLM Deployments
 
 The deployment landscape of Large Language Models (LLMs) has undergone a dramatic transformation in recent years, marking a pivotal shift in how organisations approach artificial intelligence implementation. As we examine the current state of LLM deployments, we must acknowledge the rapid pace of adoption across various sectors, particularly within government and regulated industries.
 
@@ -101,7 +101,7 @@ The rapid evolution of LLM capabilities has outpaced the development of comprehe
 
 As we move forward, the landscape of LLM deployments continues to evolve, with emerging trends pointing towards increased model customisation, stricter regulatory requirements, and growing emphasis on model governance. These developments necessitate a dynamic and adaptive approach to security assessment, particularly in the context of penetration testing methodologies.
 
-### Unique Security Challenges of LLMs
+### <a name="unique-security-challenges-of-llms"></a>Unique Security Challenges of LLMs
 
 Large Language Models (LLMs) present unprecedented security challenges that fundamentally differ from traditional cybersecurity concerns. As an emerging technology operating at the intersection of artificial intelligence and information processing, LLMs introduce novel attack surfaces and vulnerabilities that require specialised security approaches and expertise.
 
@@ -137,7 +137,7 @@ The complexity is further compounded by the rapid pace of LLM development and de
 - Regulatory Uncertainty: Emerging regulations and compliance requirements create additional complexity in security implementation
 - Resource Intensity: Effective security testing for LLMs requires significant computational resources and specialised expertise
 
-### Stakes and Consequences of LLM Breaches
+### <a name="stakes-and-consequences-of-llm-breaches"></a>Stakes and Consequences of LLM Breaches
 
 The stakes and consequences of Large Language Model (LLM) breaches represent a new frontier in cybersecurity risk, with implications that extend far beyond traditional data breaches. As organisations increasingly integrate LLMs into their critical operations, the potential impact of security compromises has grown exponentially, creating unprecedented challenges for security professionals and business leaders alike.
 
@@ -175,9 +175,9 @@ The long-term consequences of LLM breaches often manifest in unexpected ways. Fo
 
 Understanding these stakes and consequences is crucial for developing appropriate security measures and response strategies. Organisations must adopt a holistic view of LLM security that encompasses not only technical controls but also governance frameworks, incident response procedures, and long-term recovery planning. This comprehensive approach is essential for protecting against and mitigating the unique risks posed by LLM breaches in today's rapidly evolving AI landscape.
 
-## Framework for LLM Security Assessment
+## <a name="framework-for-llm-security-assessment"></a>Framework for LLM Security Assessment
 
-### Key Components of LLM Security
+### <a name="key-components-of-llm-security"></a>Key Components of LLM Security
 
 As organisations increasingly deploy Large Language Models (LLMs) into their operational environments, understanding the fundamental components of LLM security becomes paramount. A robust security framework must address the unique characteristics and vulnerabilities inherent to these AI systems, whilst maintaining alignment with established cybersecurity principles.
 
@@ -216,7 +216,7 @@ When conducting security assessments, organisations must consider the interdepen
 
 Organisations must regularly review and update their security frameworks to address emerging threats and evolving attack vectors. This includes maintaining awareness of new vulnerabilities specific to LLMs, such as novel prompt injection techniques or methods for extracting training data. The framework should be flexible enough to incorporate new security controls and assessment methodologies as they become necessary.
 
-### Stakeholder Responsibilities
+### <a name="stakeholder-responsibilities"></a>Stakeholder Responsibilities
 
 In the complex ecosystem of LLM security, clearly defined stakeholder responsibilities form the cornerstone of an effective security assessment framework. The multi-faceted nature of LLM systems demands a coordinated approach where each stakeholder plays a distinct yet interconnected role in maintaining security integrity.
 
@@ -261,7 +261,7 @@ The effectiveness of stakeholder responsibilities hinges on establishing clear a
 
 Organisations must also consider the dynamic nature of LLM security threats and ensure stakeholder responsibilities evolve accordingly. This includes regular updates to security protocols and continuous assessment of the effectiveness of current responsibility distributions.
 
-### Risk Assessment Fundamentals
+### <a name="risk-assessment-fundamentals"></a>Risk Assessment Fundamentals
 
 Risk assessment fundamentals for Large Language Models (LLMs) represent a critical evolution in traditional security assessment frameworks. As an emerging technology with unique characteristics and attack surfaces, LLMs require a specialised approach to risk evaluation that combines established security principles with AI-specific considerations.
 
@@ -301,11 +301,11 @@ The assessment process must be iterative and continuous, reflecting the dynamic 
 
 Success in LLM risk assessment requires a balanced approach between rigorous security controls and operational flexibility. The framework must be robust enough to capture significant risks whilst remaining adaptable to accommodate the rapid pace of LLM technology evolution and emerging threat patterns.
 
-# Core Security Assessment Questions
+# <a name="core-security-assessment-questions"></a>Core Security Assessment Questions
 
-## Threat Modeling and Risk Analysis
+## <a name="threat-modeling-and-risk-analysis"></a>Threat Modeling and Risk Analysis
 
-### Business Impact Assessment Questions
+### <a name="business-impact-assessment-questions"></a>Business Impact Assessment Questions
 
 When conducting penetration testing for Large Language Models (LLMs), understanding the potential business impact of security breaches is paramount. The questions posed during the business impact assessment phase serve as the foundation for developing a comprehensive security testing strategy that aligns with organisational risk tolerance and operational requirements.
 
@@ -352,7 +352,7 @@ The assessment should also consider the temporal dimension of impacts, distingui
 
 Your penetration tester should help establish clear metrics and thresholds for measuring business impact, enabling informed decision-making about security investments and risk mitigation strategies. This includes developing specific scenarios that map potential security incidents to quantifiable business outcomes.
 
-### Threat Vector Identification Queries
+### <a name="threat-vector-identification-queries"></a>Threat Vector Identification Queries
 
 In the complex landscape of LLM security, identifying potential threat vectors requires a systematic and comprehensive approach. As organisations deploy increasingly sophisticated language models, the attack surface expands in ways that traditional security frameworks may not fully address. This section outlines the essential queries that penetration testers should pursue to identify and assess potential threat vectors specific to LLM implementations.
 
@@ -396,7 +396,7 @@ For each identified threat vector, penetration testers must assess the technical
 
 The identification of threat vectors should be an iterative process, updated as new attack techniques emerge and as the LLM system evolves. Penetration testers should maintain a threat intelligence feed specific to LLM vulnerabilities and attack patterns, ensuring their testing methodology remains current and comprehensive.
 
-### Vulnerability Assessment Checklist
+### <a name="vulnerability-assessment-checklist"></a>Vulnerability Assessment Checklist
 
 A comprehensive vulnerability assessment checklist is crucial for identifying potential weaknesses in LLM deployments. This systematic approach ensures thorough evaluation of security controls and potential attack vectors specific to large language models.
 
@@ -441,9 +441,9 @@ The vulnerability assessment process should culminate in a detailed report that 
 - Documentation of assessment methodology and tools
 - Clear escalation paths for critical findings
 
-## Technical Testing Methodology
+## <a name="technical-testing-methodology"></a>Technical Testing Methodology
 
-### Prompt Injection Testing Protocols
+### <a name="prompt-injection-testing-protocols"></a>Prompt Injection Testing Protocols
 
 Prompt injection testing represents one of the most critical aspects of LLM security assessment, requiring a systematic and thorough approach to identify potential vulnerabilities in how the system processes and responds to user inputs. As organisations increasingly deploy LLMs in production environments, understanding the robustness of prompt handling mechanisms becomes paramount to maintaining system security and integrity.
 
@@ -490,7 +490,7 @@ The testing protocol should include clear documentation of successful attacks, f
 
 Regular review and updates to the testing protocol ensure it remains effective against emerging threats. Your penetration testing team should demonstrate a commitment to staying current with the latest developments in prompt injection techniques and countermeasures.
 
-### Data Extraction Prevention Measures
+### <a name="data-extraction-prevention-measures"></a>Data Extraction Prevention Measures
 
 Data extraction prevention represents one of the most critical aspects of LLM security testing, particularly as these models often process sensitive information that could be vulnerable to various extraction techniques. As an expert who has conducted numerous security assessments of LLM deployments, I can attest that this area requires rigorous testing protocols and comprehensive validation approaches.
 
@@ -536,7 +536,7 @@ A crucial aspect often overlooked is the testing of temporal attack vectors, whe
 
 The penetration tester should also demonstrate their approach to testing the model's ability to maintain appropriate boundaries when handling sensitive information, including personally identifiable information (PII), commercial secrets, and classified data. This includes evaluating the effectiveness of data classification mechanisms and access control systems.
 
-### Model Manipulation Safeguards
+### <a name="model-manipulation-safeguards"></a>Model Manipulation Safeguards
 
 Model manipulation represents one of the most sophisticated attack vectors against Large Language Models, requiring rigorous penetration testing protocols to ensure robust safeguards. As an expert who has overseen numerous LLM security assessments, I can attest that protecting against model manipulation requires a multi-layered approach to security testing.
 
@@ -578,11 +578,11 @@ A crucial aspect of testing model manipulation safeguards is the evaluation of t
 
 The implementation of effective model manipulation safeguards requires a comprehensive understanding of both the technical vulnerabilities and the operational risks associated with LLM deployments. Penetration testers must be prepared to assess not just the immediate security controls, but also the broader ecosystem of processes and procedures that protect the model throughout its lifecycle.
 
-# Governance and Control Implementation
+# <a name="governance-and-control-implementation"></a>Governance and Control Implementation
 
-## Access Control and Authentication
+## <a name="access-control-and-authentication"></a>Access Control and Authentication
 
-### User Permission Management
+### <a name="user-permission-management"></a>User Permission Management
 
 <content>
 User permission management forms a critical cornerstone in securing Large Language Models (LLMs) within organisational environments. As these AI systems often handle sensitive data and can potentially expose intellectual property or confidential information, implementing robust permission structures becomes paramount for maintaining security and compliance.
@@ -632,7 +632,7 @@ Testing and validation of permission systems must be conducted regularly, with p
 
 </content>
 
-### API Security Measures
+### <a name="api-security-measures"></a>API Security Measures
 
 In the context of Large Language Models, API security measures represent a critical layer of defence that requires particular attention due to the unique challenges posed by AI systems. As an integral component of access control and authentication frameworks, robust API security helps prevent unauthorised access, data breaches, and potential model manipulation through exposed endpoints.
 
@@ -678,7 +678,7 @@ Organisations must also consider the implementation of API security measures tha
 
 The implementation of these security measures should be accompanied by regular testing and validation to ensure their effectiveness against both current and emerging threats. This includes continuous monitoring of API usage patterns, regular security assessments, and updates to security controls based on new threat intelligence.
 
-### Model Access Controls
+### <a name="model-access-controls"></a>Model Access Controls
 
 Model access controls represent a critical layer of security governance for Large Language Models, requiring sophisticated mechanisms to manage who can interact with the model, how they can interact, and under what circumstances. As an expert who has overseen numerous LLM deployments in sensitive government environments, I can attest that robust model access controls are fundamental to preventing unauthorised usage, data breaches, and model manipulation.
 
@@ -725,9 +725,9 @@ A crucial aspect often overlooked is the need for dynamic access control policie
 
 Regular penetration testing of model access controls should include attempts to bypass authentication mechanisms, escalate privileges, and access restricted model capabilities. Testers should specifically evaluate the effectiveness of controls in preventing unauthorised model fine-tuning, parameter manipulation, and prompt injection attacks.
 
-## Monitoring and Logging
+## <a name="monitoring-and-logging"></a>Monitoring and Logging
 
-### Activity Tracking Systems
+### <a name="activity-tracking-systems"></a>Activity Tracking Systems
 
 Activity tracking systems form the cornerstone of effective LLM security governance, serving as the primary mechanism for maintaining visibility and control over AI system interactions. As organisations increasingly deploy LLMs in production environments, the complexity and sophistication of tracking requirements have evolved significantly beyond traditional logging approaches.
 
@@ -774,7 +774,7 @@ Integration with existing security information and event management (SIEM) syste
 
 Performance considerations are crucial when implementing activity tracking systems for LLMs. The volume and velocity of log data can be substantial, requiring careful attention to storage efficiency, indexing strategies, and query performance. Organisations must balance the granularity of logging against system performance impacts and storage costs.
 
-### Anomaly Detection Methods
+### <a name="anomaly-detection-methods"></a>Anomaly Detection Methods
 
 In the context of LLM security governance, robust anomaly detection methods serve as a critical line of defence against potential security breaches and misuse. As an essential component of monitoring and logging frameworks, these methods must be specifically tailored to address the unique challenges posed by Large Language Models.
 
@@ -819,7 +819,7 @@ Integration of these detection methods with existing security infrastructure is 
 
 Regular review and refinement of anomaly detection methods is essential to maintain their effectiveness. This includes updating baseline profiles, adjusting thresholds based on operational experience, and incorporating new threat intelligence specific to LLM systems.
 
-### Audit Trail Requirements
+### <a name="audit-trail-requirements"></a>Audit Trail Requirements
 
 In the context of LLM security governance, comprehensive audit trail requirements form a critical component of monitoring and logging strategies. As an expert who has overseen numerous LLM deployments in sensitive government environments, I can attest that robust audit trails serve not only as a forensic tool but as a fundamental control mechanism for ensuring accountability and compliance.
 
@@ -867,11 +867,11 @@ Essential technical specifications for audit trail implementation must include t
 
 When implementing audit trail requirements, organisations must also consider the performance impact of comprehensive logging on their LLM systems. Based on field experience, I recommend implementing adaptive logging levels that can be adjusted based on threat levels and operational requirements, while maintaining minimum compliance standards.
 
-# Incident Management and Response
+# <a name="incident-management-and-response"></a>Incident Management and Response
 
-## Incident Detection and Classification
+## <a name="incident-detection-and-classification"></a>Incident Detection and Classification
 
-### LLM-Specific Incident Indicators
+### <a name="llm-specific-incident-indicators"></a>LLM-Specific Incident Indicators
 
 In the rapidly evolving landscape of Large Language Model security, identifying incident indicators specific to LLM systems requires a sophisticated understanding of both traditional cybersecurity signals and AI-specific anomalies. As organisations increasingly deploy LLMs in production environments, the ability to detect and classify security incidents becomes paramount for maintaining system integrity and protecting sensitive information.
 
@@ -921,7 +921,7 @@ Effective incident detection requires organisations to implement automated monit
 
 Organisations must also consider the temporal aspects of incident detection. Some LLM-specific attacks may occur gradually over extended periods, requiring long-term pattern analysis and sophisticated detection mechanisms that can identify subtle changes over time.
 
-### Severity Assessment Criteria
+### <a name="severity-assessment-criteria"></a>Severity Assessment Criteria
 
 In the rapidly evolving landscape of LLM security, establishing robust severity assessment criteria is crucial for effective incident management. Drawing from extensive experience in government and enterprise AI deployments, we recognise that traditional severity metrics must be adapted to address the unique challenges posed by LLM-specific security incidents.
 
@@ -965,7 +965,7 @@ Organisations must establish clear escalation paths based on severity levels. Th
 
 Regular assessment and updating of severity criteria is crucial as LLM technology evolves and new attack vectors emerge. Organisations should maintain a feedback loop between incident response teams, security researchers, and LLM development teams to ensure criteria remain relevant and effective.
 
-### Response Team Roles
+### <a name="response-team-roles"></a>Response Team Roles
 
 In the complex landscape of LLM security incidents, establishing clearly defined response team roles is crucial for effective incident management. The unique challenges presented by LLM-related security breaches require a specialised team structure that combines traditional incident response capabilities with AI-specific expertise.
 
@@ -1003,9 +1003,9 @@ Each role must maintain clear documentation of their activities and findings thr
 
 Regular training and simulation exercises are essential for maintaining team readiness. These exercises should include scenarios specifically designed to test the unique aspects of LLM security incidents, such as prompt injection attacks, model poisoning attempts, and data extraction events. The response team should also regularly review and update their roles and responsibilities based on emerging threats and lessons learned from previous incidents.
 
-## Recovery and Continuity Planning
+## <a name="recovery-and-continuity-planning"></a>Recovery and Continuity Planning
 
-### Model Restoration Procedures
+### <a name="model-restoration-procedures"></a>Model Restoration Procedures
 
 <content>
 Model restoration procedures form a critical component of LLM incident response and business continuity planning. As organisations increasingly rely on LLMs for critical operations, the ability to quickly and safely restore compromised models to a known good state becomes paramount. This section explores comprehensive procedures for model restoration, drawing from established best practices and emerging standards in AI security.
@@ -1056,7 +1056,7 @@ The final phase of model restoration involves comprehensive documentation and le
 
 </content>
 
-### Business Continuity Strategies
+### <a name="business-continuity-strategies"></a>Business Continuity Strategies
 
 In the context of LLM security incidents, business continuity strategies require a sophisticated approach that extends beyond traditional IT disaster recovery planning. As organisations increasingly rely on LLMs for critical operations, the ability to maintain essential services whilst recovering from security incidents becomes paramount.
 
@@ -1098,7 +1098,7 @@ Organisations must develop and maintain detailed playbooks for different types o
 
 The effectiveness of business continuity strategies must be regularly assessed through comprehensive testing programmes that simulate various incident scenarios. These assessments should evaluate not only the technical aspects of recovery but also the organisation's ability to maintain critical operations during LLM service disruptions.
 
-### Incident Documentation Requirements
+### <a name="incident-documentation-requirements"></a>Incident Documentation Requirements
 
 In the context of LLM security incidents, comprehensive documentation serves as both a legal safeguard and an operational necessity. Drawing from extensive experience in government and enterprise AI deployments, proper incident documentation for LLM security events requires a structured approach that goes beyond traditional IT security documentation practices.
 
@@ -1146,11 +1146,11 @@ The documentation requirements must also address the unique challenges of LLM in
 - Integration with Knowledge Management: Procedures for incorporating lessons learned into organisational knowledge base
 - Documentation Security Controls: Measures to protect sensitive incident documentation from unauthorised access
 
-# Regulatory Compliance and Ethical Considerations
+# <a name="regulatory-compliance-and-ethical-considerations"></a>Regulatory Compliance and Ethical Considerations
 
-## Compliance Framework Integration
+## <a name="compliance-framework-integration"></a>Compliance Framework Integration
 
-### Regulatory Requirements Mapping
+### <a name="regulatory-requirements-mapping"></a>Regulatory Requirements Mapping
 
 In the rapidly evolving landscape of Large Language Model deployments, mapping regulatory requirements has become a critical cornerstone of compliance framework integration. As organisations increasingly deploy LLMs across their operations, they face a complex web of overlapping regulations, standards, and guidelines that must be carefully mapped and addressed.
 
@@ -1196,7 +1196,7 @@ When questioning your penetration tester about regulatory requirements mapping, 
 
 The mapping process must also consider the hierarchical nature of regulatory requirements, from high-level principles to specific technical controls. This hierarchical approach ensures that both strategic compliance objectives and tactical implementation requirements are adequately addressed in the penetration testing scope.
 
-### Documentation Standards
+### <a name="documentation-standards"></a>Documentation Standards
 
 Documentation standards form the cornerstone of effective LLM security compliance, serving as the critical bridge between technical implementation and regulatory requirements. As organisations deploy increasingly sophisticated LLM systems, the need for robust, standardised documentation becomes paramount for demonstrating compliance, maintaining accountability, and ensuring consistent security practices.
 
@@ -1239,7 +1239,7 @@ When implementing documentation standards, organisations must consider the dynam
 - Incident Documentation Standards: Specific requirements for documenting security incidents and response measures
 - Training and Awareness: Documentation requirements for staff training and security awareness programmes
 
-### Compliance Monitoring Procedures
+### <a name="compliance-monitoring-procedures"></a>Compliance Monitoring Procedures
 
 In the rapidly evolving landscape of LLM security, establishing robust compliance monitoring procedures is crucial for maintaining regulatory alignment and ensuring continuous adherence to security standards. As organisations deploy increasingly sophisticated LLM systems, the complexity of compliance monitoring has grown exponentially, requiring a systematic and comprehensive approach to oversight.
 
@@ -1286,9 +1286,9 @@ Integration with existing governance frameworks is essential for successful comp
 
 The future of compliance monitoring for LLM systems will likely require increasingly sophisticated approaches as regulatory requirements evolve and LLM capabilities expand. Organisations must remain agile and prepared to adapt their monitoring procedures to address new compliance challenges as they emerge.
 
-## Ethical AI Security Practices
+## <a name="ethical-ai-security-practices"></a>Ethical AI Security Practices
 
-### Responsible AI Development
+### <a name="responsible-ai-development"></a>Responsible AI Development
 
 Responsible AI development forms the cornerstone of ethical LLM security practices, particularly when conducting penetration testing and security assessments. As organisations increasingly deploy LLM systems, the need for ethical considerations in security testing becomes paramount to ensure these powerful tools serve society whilst minimising potential harm.
 
@@ -1332,7 +1332,7 @@ Organisations must establish clear guidelines for ethical AI development that sp
 
 The future of responsible AI development in security testing lies in the ability to create robust, ethical frameworks that can adapt to emerging challenges whilst maintaining core principles of fairness, transparency, and accountability. Security practitioners must remain vigilant in ensuring their testing methodologies align with these ethical principles whilst effectively identifying and addressing security vulnerabilities.
 
-### Privacy Protection Measures
+### <a name="privacy-protection-measures"></a>Privacy Protection Measures
 
 In the realm of LLM security, privacy protection measures represent a critical intersection of technical safeguards, ethical considerations, and regulatory compliance. As organisations deploy increasingly sophisticated language models, the imperative to protect sensitive information whilst maintaining utility has never been more paramount.
 
@@ -1379,7 +1379,7 @@ Organisations must implement comprehensive monitoring and auditing capabilities 
 
 When questioning your penetration tester about privacy protection measures, it's essential to focus on both technical implementation and governance frameworks. The assessment should verify that privacy controls are not only present but effective in protecting sensitive information throughout the LLM lifecycle.
 
-### Transparency Requirements
+### <a name="transparency-requirements"></a>Transparency Requirements
 
 Transparency requirements form a critical cornerstone of ethical AI security practices, particularly in the context of Large Language Models. As an expert who has advised numerous government agencies on AI security implementation, I can attest that transparency goes far beyond simple documentation—it encompasses a comprehensive approach to making LLM operations, security measures, and decision-making processes visible and understandable to all stakeholders.
 
@@ -1423,22 +1423,22 @@ When implementing transparency requirements, it's essential to strike a balance 
 
 
 
-# Appendix
+# <a name="appendix"></a>Appendix
 
-## Book Generation Details
+## <a name="book-generation-details"></a>Book Generation Details
 
 - Initial Topic: Questions you should ask your pen tester about securing LLMs
 - Refined Topic: Questions you should ask your pen tester about securing LLMs
 - Total Output Tokens: 108826
 - Total LLM Cost: $1.63
 
-## Further Reading on Wardley Mapping
+## <a name="further-reading-on-wardley-mapping"></a>Further Reading on Wardley Mapping
 
-# Appendix: Further Reading on Wardley Mapping
+# <a name="appendix-further-reading-on-wardley-mapping"></a>Appendix: Further Reading on Wardley Mapping
 
 The following books, primarily authored by Mark Craddock, offer comprehensive insights into various aspects of Wardley Mapping:
 
-## Core Wardley Mapping Series
+## <a name="core-wardley-mapping-series"></a>Core Wardley Mapping Series
 
 1. **Wardley Mapping, The Knowledge: Part One, Topographical Intelligence in Business**
    - Author: Simon Wardley
@@ -1574,7 +1574,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Product managers and innovation teams
    - Anyone interested in cutting-edge strategic thinking
 
-## Practical Resources
+## <a name="practical-resources"></a>Practical Resources
 
 6. **Wardley Mapping Cheat Sheets & Notebook**
    - Author: Mark Craddock
@@ -1593,7 +1593,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Workshop facilitators and educators
    - Anyone wanting to practise and refine their mapping skills
 
-## Specialised Applications
+## <a name="specialised-applications"></a>Specialised Applications
 
 7. **UN Global Platform Handbook on Information Technology Strategy: Wardley Mapping The Sustainable Development Goals (SDGs)**
    - Author: Mark Craddock

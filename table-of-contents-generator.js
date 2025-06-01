@@ -160,6 +160,40 @@ class TableOfContentsGenerator {
     }
 
     /**
+     * Add anchor tags to headings in content
+     * @param {string} content - Original markdown content
+     * @param {Array} headings - Array of heading objects with anchors
+     * @param {Object} options - Processing options
+     * @returns {string} Updated content with anchor tags
+     */
+    addAnchorTags(content, headings, options = {}) {
+        if (!options.includeAnchors) {
+            return content;
+        }
+
+        let lines = content.split('\n');
+        
+        // Process headings and add anchor tags
+        for (const heading of headings) {
+            const lineIndex = heading.lineNumber - 1;
+            if (lineIndex >= 0 && lineIndex < lines.length) {
+                const line = lines[lineIndex];
+                const headingMatch = line.match(/^(#{1,6})\s+(.+)$/);
+                
+                if (headingMatch && !line.includes('<a name=')) {
+                    const level = headingMatch[1];
+                    const text = headingMatch[2];
+                    
+                    // Add anchor tag before the heading text
+                    lines[lineIndex] = `${level} <a name="${heading.anchor}"></a>${text}`;
+                }
+            }
+        }
+
+        return lines.join('\n');
+    }
+
+    /**
      * Update or insert table of contents in content
      * @param {string} content - Original markdown content
      * @param {string} newToC - Generated table of contents
@@ -277,7 +311,13 @@ class TableOfContentsGenerator {
                 }
             } else {
                 // Update the file
-                const updatedContent = this.updateToC(content, newToC);
+                let updatedContent = this.updateToC(content, newToC);
+                
+                // Add anchor tags to headings if anchors are enabled
+                if (options.includeAnchors) {
+                    updatedContent = this.addAnchorTags(updatedContent, headings, options);
+                }
+                
                 await fs.writeFile(fullBookPath, updatedContent, 'utf8');
                 
                 result.success = true;

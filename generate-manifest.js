@@ -2,11 +2,13 @@
 
 const fs = require('fs').promises;
 const path = require('path');
+const TableOfContentsGenerator = require('./table-of-contents-generator');
 
 class ManifestGenerator {
     constructor() {
         this.books = [];
         this.booksDir = path.join(process.cwd(), 'books');
+        this.tocGenerator = new TableOfContentsGenerator();
     }
 
     generateBookId(dirName) {
@@ -33,20 +35,30 @@ class ManifestGenerator {
             // First try: # Title
             let titleMatch = content.match(/^#\s+(.+)$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                // Clean up anchor tags and other HTML
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Second try: # **Title**
             titleMatch = content.match(/^#\s+\*\*(.+?)\*\*$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Third try: find multiple **title** patterns and combine them
             const boldTitles = content.match(/^#\s+\*\*(.+?)\*\*$/gm);
             if (boldTitles && boldTitles.length >= 2) {
-                const title1 = boldTitles[0].match(/\*\*(.+?)\*\*/)[1].trim();
-                const title2 = boldTitles[1].match(/\*\*(.+?)\*\*/)[1].trim();
+                let title1 = boldTitles[0].match(/\*\*(.+?)\*\*/)[1].trim();
+                let title2 = boldTitles[1].match(/\*\*(.+?)\*\*/)[1].trim();
+                // Clean up anchor tags and other HTML
+                title1 = title1.replace(/<a\s+[^>]*><\/a>/g, '').replace(/<[^>]*>/g, '').trim();
+                title2 = title2.replace(/<a\s+[^>]*><\/a>/g, '').replace(/<[^>]*>/g, '').trim();
                 if (title1 && title2) {
                     return `${title1}: ${title2}`;
                 }
@@ -55,7 +67,10 @@ class ManifestGenerator {
             // Fourth try: any heading with content
             titleMatch = content.match(/^#+\s+(.+)$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Fallback to directory name extraction
@@ -112,8 +127,32 @@ class ManifestGenerator {
         return uniqueCategories.length === 1 ? uniqueCategories[0] : uniqueCategories;
     }
 
-    async scanBooksDirectory() {
+    async extractTableOfContents(filePath, includeToC = false) {
+        if (!includeToC) return null;
+        
+        try {
+            const content = await fs.readFile(filePath, 'utf8');
+            const headings = this.tocGenerator.parseHeadings(content);
+            const existingToC = this.tocGenerator.extractExistingToC(content);
+            
+            return {
+                hasToC: existingToC.exists,
+                headingsCount: headings.length,
+                headings: headings.slice(0, 10).map(h => ({ // Limit to first 10 for API size
+                    level: h.level,
+                    text: h.text,
+                    anchor: h.anchor
+                })),
+                isValid: existingToC.exists ? this.tocGenerator.validateToC(existingToC.content, headings).isValid : null
+            };
+        } catch (error) {
+            return null;
+        }
+    }
+
+    async scanBooksDirectory(options = {}) {
         console.log('🔍 Scanning books directory...');
+        const { includeToC = false } = options;
 
         try {
             const items = await fs.readdir(this.booksDir);
@@ -172,7 +211,10 @@ class ManifestGenerator {
                                 console.log(`Warning: Could not scan directory contents for ${item}`);
                             }
 
-                            this.books.push({
+                            // Extract table of contents information if requested
+                            const tocInfo = await this.extractTableOfContents(fullBookPath, includeToC);
+
+                            const bookData = {
                                 id: bookId,
                                 title: title,
                                 category: category,
@@ -180,7 +222,14 @@ class ManifestGenerator {
                                 directory: item,
                                 path: fullBookPath,
                                 additionalFiles: additionalFiles
-                            });
+                            };
+
+                            // Add ToC information if extracted
+                            if (tocInfo) {
+                                bookData.tableOfContents = tocInfo;
+                            }
+
+                            this.books.push(bookData);
 
                             console.log(`✅ Found book: ${title}`);
 
@@ -242,11 +291,11 @@ class ManifestGenerator {
         }
     }
 
-    async run() {
+    async run(options = {}) {
         console.log('🚀 Starting book manifest generation...\n');
 
         try {
-            await this.scanBooksDirectory();
+            await this.scanBooksDirectory(options);
             await this.generateManifest();
 
             console.log('\n✅ Manifest generation completed successfully!');
@@ -262,7 +311,15 @@ class ManifestGenerator {
 // Run the generator if this script is executed directly
 if (require.main === module) {
     const generator = new ManifestGenerator();
-    generator.run();
+    const options = {
+        includeToC: process.argv.includes('--include-toc')
+    };
+    
+    if (options.includeToC) {
+        console.log('📚 Including table of contents information in manifest...\n');
+    }
+    
+    generator.run(options);
 }
 
 module.exports = ManifestGenerator;

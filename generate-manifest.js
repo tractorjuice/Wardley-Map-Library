@@ -35,20 +35,30 @@ class ManifestGenerator {
             // First try: # Title
             let titleMatch = content.match(/^#\s+(.+)$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                // Clean up anchor tags and other HTML
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Second try: # **Title**
             titleMatch = content.match(/^#\s+\*\*(.+?)\*\*$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Third try: find multiple **title** patterns and combine them
             const boldTitles = content.match(/^#\s+\*\*(.+?)\*\*$/gm);
             if (boldTitles && boldTitles.length >= 2) {
-                const title1 = boldTitles[0].match(/\*\*(.+?)\*\*/)[1].trim();
-                const title2 = boldTitles[1].match(/\*\*(.+?)\*\*/)[1].trim();
+                let title1 = boldTitles[0].match(/\*\*(.+?)\*\*/)[1].trim();
+                let title2 = boldTitles[1].match(/\*\*(.+?)\*\*/)[1].trim();
+                // Clean up anchor tags and other HTML
+                title1 = title1.replace(/<a\s+[^>]*><\/a>/g, '').replace(/<[^>]*>/g, '').trim();
+                title2 = title2.replace(/<a\s+[^>]*><\/a>/g, '').replace(/<[^>]*>/g, '').trim();
                 if (title1 && title2) {
                     return `${title1}: ${title2}`;
                 }
@@ -57,7 +67,10 @@ class ManifestGenerator {
             // Fourth try: any heading with content
             titleMatch = content.match(/^#+\s+(.+)$/m);
             if (titleMatch && titleMatch[1].trim()) {
-                return titleMatch[1].trim();
+                let title = titleMatch[1].trim();
+                title = title.replace(/<a\s+[^>]*><\/a>/g, ''); // Remove anchor tags
+                title = title.replace(/<[^>]*>/g, ''); // Remove any other HTML tags
+                return title.trim();
             }
             
             // Fallback to directory name extraction

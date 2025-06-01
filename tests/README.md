@@ -103,9 +103,9 @@ Top categories should include:
 
 If tests fail:
 
-1. **Books not found**: Regenerate manifest with `node generate-manifest.js`
+1. **Books not found**: Regenerate manifest with `node scripts/generate-manifest.js`
 2. **File permissions**: Ensure all book files are readable
-3. **Missing categories**: Check auto-categorization logic in `generate-manifest.js`
+3. **Missing categories**: Check auto-categorization logic in `scripts/generate-manifest.js`
 4. **Server issues**: Verify port 3000 is available for test server
 
 ## Integration with CI/CD

@@ -33,7 +33,7 @@ npm run generate-manifest
 Or run directly:
 
 ```bash
-node generate-manifest.js
+node scripts/generate-manifest.js
 ```
 
 ### Deploying to Vercel
@@ -45,7 +45,9 @@ node generate-manifest.js
 ```
 /workspaces/GenAI-Books/
 ├── books.json              # Generated manifest (commit this!)
-├── generate-manifest.js    # Manifest generator script
+├── scripts/                # Utility scripts directory
+│   ├── generate-manifest.js # Manifest generator script
+│   └── table-of-contents-generator.js # ToC generator script
 ├── books/                  # Book content directories
 │   └── [Book Directories]/ 
 │       └── full_book.md    # Required for discovery

@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- The AGI Race: OpenAI vs Anthropic in the Battle for Artificial General Intelligence
+    - :warning: WARNING: This content was generated using Generative AI. Readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The High Stakes of AGI
   - Defining AGI and Its Potential Impact
     - What is Artificial General Intelligence?
@@ -13,7 +15,6 @@
     - Origins and missions
     - Key figures and leadership
     - Philosophical approaches to AGI
-
 - Technical Innovations and AI Breakthroughs
   - OpenAI's Technical Advancements
     - GPT series and language models
@@ -27,7 +28,6 @@
     - Benchmarking performance
     - Unique strengths and weaknesses
     - Potential for AGI breakthrough
-
 - Business Strategies and Funding Models
   - OpenAI's Evolution and Business Model
     - From non-profit to 'capped-profit'
@@ -41,7 +41,6 @@
     - Market positioning and competitive advantage
     - Scalability and growth potential
     - Financial sustainability in the AGI race
-
 - Ethical Approaches and Safety Considerations
   - OpenAI's Ethical Framework
     - Commitment to beneficial AGI
@@ -55,7 +54,6 @@
     - Robustness of safety measures
     - Potential risks and mitigation strategies
     - Public perception and trust
-
 - Societal and Economic Impacts
   - Potential Transformations from OpenAI's Technology
     - Labour market disruptions
@@ -69,7 +67,6 @@
     - Short-term vs long-term effects
     - Global implications and inequalities
     - Potential scenarios for AGI deployment
-
 - The Role of Policy and Regulation
   - Current Regulatory Landscape
     - AI governance frameworks
@@ -83,7 +80,6 @@
     - Potential regulatory scenarios
     - Impact on AGI development timelines
     - Balancing innovation and safety
-
 - Conclusion: The Future of AGI and Human Civilisation
   - Assessing the Likelihood of AGI Supremacy
     - Evaluating OpenAI and Anthropic's positions
@@ -93,6 +89,11 @@
     - Preparing for an AGI future
     - Ethical considerations for society
     - The role of public engagement and understanding
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The High Stakes of AGI
 

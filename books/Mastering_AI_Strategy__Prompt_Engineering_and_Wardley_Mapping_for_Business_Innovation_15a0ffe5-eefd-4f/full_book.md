@@ -1,7 +1,8 @@
 # Mastering AI Strategy: Prompt Engineering and Wardley Mapping for Business Innovation
 
-## Table of Contents
+# Table of Contents
 
+- Mastering AI Strategy: Prompt Engineering and Wardley Mapping for Business Innovation
 - Foundations: AI Prompt Engineering and Wardley Mapping
   - Understanding AI Prompt Engineering
     - The Evolution of AI Interfaces
@@ -18,7 +19,6 @@
     - Integrating AI Capabilities into Value Chains
     - Visualizing AI Evolution on Wardley Maps
     - Case Study: AI-Enhanced Customer Service Strategy
-
 - Strategic Analysis of AI Capabilities Using Wardley Maps
   - Mapping the AI Landscape
     - Identifying Key AI Components and Services
@@ -35,7 +35,6 @@
     - Identifying Capability Gaps
     - Prioritising AI Investments
     - Building a Roadmap for AI Integration
-
 - Designing Effective Prompts for Business Applications
   - Prompt Engineering Fundamentals for Business
     - Understanding Business Use Cases for AI Prompts
@@ -52,7 +51,6 @@
     - Creating Prompts for Scenario Planning
     - Developing Prompts for Risk Assessment
     - Case Study: AI-Assisted Merger & Acquisition Analysis
-
 - Case Studies: Transforming Industries with AI and Wardley Mapping
   - Healthcare Revolution
     - Mapping the Future of Telemedicine
@@ -69,7 +67,6 @@
     - AI-Driven Predictive Maintenance Strategies
     - Optimizing Production with AI Prompts and Wardley Maps
     - Future-Proofing Manufacturing: A Strategic Approach
-
 - Future-Proofing Businesses: Anticipating AI Trends and Opportunities
   - Emerging AI Technologies and Their Impact
     - Next-Generation Language Models and Their Applications
@@ -86,6 +83,11 @@
     - Designing Responsible AI Prompts and Systems
     - Balancing Innovation and Regulation in AI Strategy
     - Building Trust and Transparency in AI-Driven Businesses
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Foundations: AI Prompt Engineering and Wardley Mapping
 

@@ -1,7 +1,8 @@
 # Running to Stand Still: Mastering the Red Queen Effect in Business and Life
 
-## Table of Contents
+# Table of Contents
 
+- Running to Stand Still: Mastering the Red Queen Effect in Business and Life
 - The Red Queen's Race: Understanding the Phenomenon
   - Origins and Principles
     - Lewis Carroll's Through the Looking-Glass
@@ -15,7 +16,6 @@
     - Cognitive biases and the illusion of progress
     - Stress and burnout in high-pressure environments
     - Mindset shifts for embracing continuous change
-
 - Digital Darwinism: Technology and the Red Queen Effect
   - The Accelerating Pace of Technological Change
     - Moore's Law and exponential growth
@@ -29,7 +29,6 @@
     - Keeping pace with technological skills
     - The gig economy and changing work paradigms
     - Digital literacy as a survival skill
-
 - Navigating Constant Change: Strategies for Businesses
   - Wardley Mapping: Charting the Competitive Landscape
     - Introduction to Wardley Mapping
@@ -43,7 +42,6 @@
     - Leveraging external resources and partnerships
     - Creating platforms and network effects
     - Collaborative approaches to R&D and problem-solving
-
 - Personal Growth in a Fast-Paced World
   - Developing Adaptability and Resilience
     - Cultivating a growth mindset
@@ -57,7 +55,6 @@
     - Crafting a compelling narrative
     - Networking and relationship-building in the digital age
     - Adapting your personal brand to changing market demands
-
 - Practical Applications: Thriving in the Red Queen's Race
   - Case Studies: Red Queen Effect in Action
     - Tech industry: The smartphone wars
@@ -71,6 +68,7 @@
     - 30-day challenge for personal adaptation
     - Organisational change roadmap
     - Metrics for measuring progress in the Red Queen's race
+
 
 # The Red Queen's Race: Understanding the Phenomenon
 

@@ -1,7 +1,8 @@
 # Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector
 
-## Table of Contents
+# Table of Contents
 
+- Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector
 - Chapter 1: Understanding OKRs in the Government Context
   - The OKR Framework: From Silicon Valley to Whitehall
     - Origins and evolution of OKRs
@@ -18,7 +19,6 @@
     - Driving innovation and agility in public services
     - Improving cross-departmental collaboration
     - Demonstrating value for taxpayers
-
 - Chapter 2: Citizen-Centric Goal Setting
   - Aligning Objectives with Public Needs
     - Conducting citizen engagement and feedback loops
@@ -35,7 +35,6 @@
     - Fostering vertical and horizontal alignment
     - Balancing standardisation with local flexibility
     - Managing conflicting priorities across departments
-
 - Chapter 3: Data-Driven Decision Making in Government OKRs
   - Leveraging Wardley Mapping for Strategic OKR Development
     - Introduction to Wardley Mapping in government contexts
@@ -52,7 +51,6 @@
     - Using A/B testing for policy and service delivery improvements
     - Balancing data-driven decisions with political realities
     - Fostering a culture of data literacy in public sector organisations
-
 - Chapter 4: Change Management: Implementing OKRs in Government Bureaucracies
   - Overcoming Resistance to OKRs in Public Sector Organisations
     - Identifying and addressing common sources of resistance
@@ -69,7 +67,6 @@
     - Recognising and rewarding OKR achievements
     - Facilitating cross-departmental knowledge sharing
     - Adapting OKRs to support long-term cultural change
-
 - Chapter 5: Case Studies and Success Stories
   - National Government OKR Implementations
     - Case study: UK Government Digital Service OKRs
@@ -86,6 +83,11 @@
     - Case study: OKRs in education - Finnish school system improvements
     - Case study: OKRs in environmental policy - New Zealand's climate action
     - Cross-sector learnings and best practices
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Chapter 1: Understanding OKRs in the Government Context
 

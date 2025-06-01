@@ -1,5 +1,48 @@
 # Strategic Equations: A Mathematical Approach to Modern Warfare
 
+# Table of Contents
+
+- Strategic Equations: A Mathematical Approach to Modern Warfare
+  - Introduction to Mathematical Models in Warfare: Historical Context and Evolution
+    - The Genesis of Warfare Mathematics
+      - Early Applications in Military Strategy
+      - Evolution Through the World Wars
+    - The Rise of Computational Models
+      - The Cold War and the Advent of Complex Models
+      - Transition to Digital and Computational Techniques
+  - Modern Warfare Challenges: Cybersecurity, Asymmetrical Threats, and Hybrid Warfare
+    - Cybersecurity in Modern Conflict
+      - Mathematical Approaches to Cyber Defense
+      - Case Studies in Cyber Warfare
+    - Asymmetrical and Hybrid Threats
+      - Understanding Asymmetrical Warfare
+      - Hybrid Warfare: A New Paradigm
+  - Mathematical Frameworks: Game Theory, Network Analysis, and Predictive Modeling
+    - Game Theory in Strategic Decision Making
+      - Basic Principles of Game Theory
+      - Applications in Military Strategy
+    - Network Analysis for Tactical Advantage
+      - Understanding Network Structures
+      - Utilizing Networks in Warfare
+    - Predictive Modeling for Future Conflicts
+      - Techniques in Predictive Analytics
+      - Forecasting Conflict Scenarios
+  - Case Studies: Successful Applications of Math Models in Recent Conflicts
+    - Operation Desert Storm
+      - Strategic Planning and Execution
+      - Mathematical Models Used
+    - Counterinsurgency in Afghanistan
+      - Challenges and Mathematical Solutions
+      - Outcome Analysis
+  - Ethical and Practical Considerations: Balancing Technology and Human Decision-Making
+    - Ethics in Automated Warfare
+      - Moral Implications of AI in Warfare
+      - Balancing Human and Machine Decisions
+    - Practical Limitations of Mathematical Models
+      - Understanding Model Limitations
+      - Integrating Human Insight
+
+
 ## Introduction to Mathematical Models in Warfare: Historical Context and Evolution
 
 ### The Genesis of Warfare Mathematics

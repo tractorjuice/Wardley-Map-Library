@@ -1,5 +1,55 @@
 # Mapping Sustainable Development: A Strategic Approach to SDGs using Wardley Mapping
 
+# Table of Contents
+
+- Mapping Sustainable Development: A Strategic Approach to SDGs using Wardley Mapping
+  - Introduction: Understanding the SDG Strategy Challenge
+    - The Complex World of Sustainable Development Goals
+      - Overview of the 17 SDGs and Their Targets
+      - Current Challenges in SDG Implementation
+      - The Need for Strategic Visualization
+    - Introduction to Wardley Mapping
+      - Core Principles and Components
+      - Value Chain Mapping Fundamentals
+      - Evolution and Strategic Planning
+  - Mapping the SDG Landscape
+    - Building SDG Value Chains
+      - Identifying Key Components
+      - Mapping Dependencies and Interconnections
+      - Evolution Assessment of SDG Components
+    - Visualizing SDG Dependencies
+      - Cross-Goal Dependencies
+      - Resource and Capability Requirements
+      - Impact Pathways and Trade-offs
+  - Stakeholder Ecosystem Mapping
+    - Identifying and Mapping Stakeholders
+      - Stakeholder Analysis Techniques
+      - Power-Interest Dynamics
+      - Collaboration Opportunities
+    - Building Strategic Alliances
+      - Partnership Development
+      - Resource Sharing Models
+      - Governance Structures
+  - Implementation Strategies and Case Studies
+    - Sector-Specific Applications
+      - Public Sector Implementation
+      - Private Sector Integration
+      - NGO and Civil Society Approaches
+    - Case Studies in SDG Mapping
+      - Urban Development Projects
+      - Climate Action Initiatives
+      - Poverty Reduction Programs
+  - Future Planning and Adaptation
+    - Scenario Planning for SDGs
+      - Future State Mapping
+      - Risk Assessment and Mitigation
+      - Adaptation Strategies
+    - Measuring Progress and Impact
+      - Key Performance Indicators
+      - Impact Assessment Frameworks
+      - Continuous Improvement Methods
+
+
 ## Introduction: Understanding the SDG Strategy Challenge
 
 ### The Complex World of Sustainable Development Goals

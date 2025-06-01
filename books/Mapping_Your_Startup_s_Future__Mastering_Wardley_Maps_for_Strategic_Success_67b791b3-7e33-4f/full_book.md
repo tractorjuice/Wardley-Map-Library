@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Power of Wardley Mapping for Startups
   - What is Wardley Mapping?
     - Origins and core concepts
@@ -11,7 +13,6 @@
   - The Startup Ecosystem and Wardley Maps
     - Unique challenges faced by startups
     - How Wardley Mapping addresses these challenges
-
 - Chapter 1: Fundamentals of Wardley Mapping for Startups
   - Components of a Wardley Map
     - Value chain analysis
@@ -25,7 +26,6 @@
     - Patterns and anti-patterns
     - Identifying strategic opportunities
     - Common pitfalls for startups
-
 - Chapter 2: Market Opportunity Analysis with Wardley Maps
   - Identifying Market Gaps
     - Using maps to spot underserved needs
@@ -39,7 +39,6 @@
     - Build, buy, or partner decisions
     - Prioritising product features
     - Timing market entry
-
 - Chapter 3: Scaling Strategies Using Wardley Maps
   - Resource Allocation
     - Identifying critical components
@@ -53,7 +52,6 @@
     - Evaluating technology choices
     - Planning for future scalability
     - Managing technical debt
-
 - Chapter 4: Case Studies: Wardley Mapping Success Stories
   - Tech Startup Case Study
     - Initial mapping and strategy
@@ -67,7 +65,6 @@
     - Product roadmap development
     - Supply chain optimisation
     - Competitive positioning
-
 - Conclusion: Integrating Wardley Mapping into Your Startup's DNA
   - Building a Map-Driven Culture
     - Regular mapping sessions
@@ -77,6 +74,14 @@
     - Emerging tools and technologies
     - Integration with other strategic frameworks
     - The evolving startup ecosystem
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Power of Wardley Mapping for Startups
 

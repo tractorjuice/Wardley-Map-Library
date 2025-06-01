@@ -1,5 +1,68 @@
 # Transforming Business Operations: APQC Process Classification in the Age of Generative AI
 
+# Table of Contents
+
+- Transforming Business Operations: APQC Process Classification in the Age of Generative AI
+  - Introduction: The Convergence of Process Classification and AI
+    - The Evolution of Business Process Management
+      - Historical Context of APQC Process Classification
+      - The Rise of Generative AI in Business Operations
+      - Current State of Process Management
+    - Setting the Foundation
+      - Book Overview and Objectives
+      - Key Concepts and Terminology
+      - How to Use This Book
+  - APQC Process Classification Framework Fundamentals
+    - Core Components and Structure
+      - Process Categories and Hierarchies
+      - Cross-Industry vs Industry-Specific Applications
+      - Performance Metrics and Benchmarking
+    - Digital Evolution of PCF
+      - Modernisation Initiatives
+      - Digital Integration Points
+      - Framework Adaptability
+  - Integrating GenAI with APQC Process Classifications
+    - Operational Process Enhancement
+      - Supply Chain and Manufacturing
+      - Customer Service and Support
+      - Sales and Marketing Operations
+    - Management and Support Processes
+      - Financial and Administrative Functions
+      - Human Capital Management
+      - Information Technology Services
+    - Strategic Planning and Development
+      - Vision and Strategy Development
+      - Market Analysis and Intelligence
+      - Product/Service Innovation
+  - Governance and Risk Management
+    - Risk Assessment Framework
+      - AI Implementation Risk Factors
+      - Compliance and Regulatory Considerations
+      - Data Security and Privacy
+    - Governance Structures
+      - AI Oversight Mechanisms
+      - Process Control Systems
+      - Performance Monitoring
+  - Implementation and Change Management
+    - Strategic Implementation
+      - Readiness Assessment
+      - Pilot Program Design
+      - Scaling Strategies
+    - Change Management
+      - Stakeholder Engagement
+      - Training and Development
+      - Cultural Transformation
+  - Future-Proofing Business Processes
+    - Adaptive Frameworks
+      - Flexible Process Design
+      - Scalability Considerations
+      - Technology Integration Pathways
+    - Continuous Improvement
+      - Performance Measurement
+      - Feedback Loops
+      - Innovation Management
+
+
 ## Introduction: The Convergence of Process Classification and AI
 
 ### The Evolution of Business Process Management

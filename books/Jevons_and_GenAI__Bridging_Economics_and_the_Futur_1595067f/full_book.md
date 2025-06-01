@@ -1,5 +1,69 @@
 # Jevons and GenAI: Bridging Economics and the Future of Technology
 
+# Table of Contents
+
+- Jevons and GenAI: Bridging Economics and the Future of Technology
+  - Introduction: The Convergence of Jevons and Generative AI
+    - Understanding Jevons' Legacy
+      - Who Was William Stanley Jevons?
+      - Key Contributions to Economic Theory
+      - Relevance of Jevons' Work in Today’s Technological Landscape
+    - The Rise of Generative AI
+      - What is Generative AI?
+      - Historical Development of AI Technologies
+      - The Intersection of AI and Economics
+  - Chapter 1: Historical Context
+    - Jevons' Contributions to Economics
+      - The Marginal Utility Theory
+      - Efficiency and Resource Allocation
+      - Impact on Contemporary Economic Thought
+    - Relevance of Jevons Today
+      - Economic Models in the Age of Technology
+      - Lessons from Jevons for Modern Economists
+      - The Role of Efficiency in Current Economic Challenges
+  - Chapter 2: Economic Implications of GenAI
+    - Labor Markets and Employment
+      - Impact of GenAI on Job Creation and Displacement
+      - The Future Role of Human Labor
+      - Jevons' Theory Applied to AI Disruption
+    - Productivity and Economic Models
+      - Generative AI’s Influence on Productivity
+      - Evaluating Economic Growth in the GenAI Era
+      - Revisiting Economic Models through Jevons' Lens
+  - Chapter 3: Ethical Considerations
+    - Moral Dimensions of AI Deployment
+      - Efficiency vs. Ethical Concerns
+      - The Societal Impact of AI Technologies
+      - Jevons' Advocacy for Social Welfare in Modern Context
+    - Regulating Generative AI
+      - The Need for Ethical Guidelines
+      - Balancing Innovation with Responsibility
+      - Case Studies of Ethical AI Implementation
+  - Chapter 4: Practical Applications
+    - Case Studies of Successful Integration
+      - Industry Leaders Leveraging GenAI
+      - Economic Principles in Practice
+      - Lessons Learned from Implementations
+    - Transformative Effects on Various Sectors
+      - Healthcare: Enhancements through AI
+      - Finance: AI-Driven Decision Making
+      - Manufacturing: Efficiency Improvements
+  - Chapter 5: Future Trends
+    - Evolving Landscape of Generative AI
+      - Predictions for AI Development
+      - The Impact of AI on Economic Theories
+      - Integrating Jevons' Ideas into Future Economic Models
+    - Preparing for Change
+      - Strategies for Economists and Policymakers
+      - The Role of Education in Adapting to New Technologies
+      - Fostering Innovation while Ensuring Ethical Standards
+  - Conclusion: The Future of Economics in the Age of AI
+    - Summarising Key Insights
+      - The Lasting Influence of Jevons
+      - The Interplay of AI and Economic Theory
+      - Looking Ahead: Challenges and Opportunities
+
+
 ## Introduction: The Convergence of Jevons and Generative AI
 
 ### Understanding Jevons' Legacy

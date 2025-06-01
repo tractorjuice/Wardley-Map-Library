@@ -6,6 +6,8 @@
 
 # Table of Contents
 
+- Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Power of Wardley Mapping for Project Managers
   - What is Wardley Mapping?
     - Origins and key concepts
@@ -14,7 +16,6 @@
     - Enhancing strategic decision-making
     - Improving project planning and execution
     - Anticipating and managing change
-
 - Chapter 1: Fundamentals of Wardley Mapping for Project Managers
   - Components of a Wardley Map
     - Understanding the value chain
@@ -28,7 +29,6 @@
     - Wardley Mapping and Agile
     - Wardley Mapping and Traditional Waterfall
     - Hybrid approaches for maximum benefit
-
 - Chapter 2: Strategic Project Planning with Wardley Maps
   - Identifying Project Opportunities and Risks
     - Using maps to spot potential pitfalls
@@ -42,7 +42,6 @@
     - Scenario planning with Wardley Maps
     - Adapting to change and uncertainty
     - Creating flexible project roadmaps
-
 - Chapter 3: Executing Projects with Wardley Mapping
   - Tactical Decision-Making During Project Execution
     - Using maps for daily and weekly planning
@@ -56,7 +55,6 @@
     - Using maps for post-project reviews
     - Building organisational knowledge through mapping
     - Evolving project management practices based on map insights
-
 - Chapter 4: Advanced Wardley Mapping Techniques for Project Managers
   - Multi-Project and Programme Management
     - Creating and managing portfolio maps
@@ -70,7 +68,6 @@
     - IT and software development projects
     - Product development and innovation projects
     - Organisational change and transformation projects
-
 - Conclusion: Becoming a Wardley Mapping Master
   - Developing Your Wardley Mapping Skills
     - Continuous learning and practice
@@ -80,6 +77,14 @@
     - Emerging trends and developments
     - Potential impacts on the project management profession
     - Preparing for the evolving landscape of strategic project management
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Power of Wardley Mapping for Project Managers
 

@@ -1,5 +1,235 @@
 # Cost-Effective Migration: Transitioning Applications from Windows 10 On-Premise to Windows 11 with Intune
 
+# Table of Contents
+
+- Cost-Effective Migration: Transitioning Applications from Windows 10 On-Premise to Windows 11 with Intune
+  - Introduction: The Modern Workplace Transition
+    - The Shifting IT Landscape
+      - From On-Premise to Cloud-Managed Environments
+      - Windows 11 and Microsoft Intune: The New Standard
+      - Business Drivers for Migration
+      - Cost Implications of Delaying Modernisation
+    - Understanding the Migration Challenge
+      - Common Migration Obstacles and Pain Points
+      - Technical vs. Financial Considerations
+      - Balancing Security, Compliance, and Cost
+      - Setting Realistic Migration Objectives
+    - Building the Business Case
+      - Total Cost of Ownership: On-Premise vs. Intune
+      - Quantifying Productivity and Security Benefits
+      - Calculating Return on Investment
+      - Securing Stakeholder Buy-in
+  - Chapter 1: Assessment and Planning for Cost-Effective Migration
+    - Application Discovery and Inventory
+      - Automated Tools for Application Discovery
+      - Creating a Comprehensive Application Catalogue
+      - Identifying Usage Patterns and Dependencies
+      - Prioritising Applications for Migration
+    - Compatibility Analysis
+      - Windows 11 Compatibility Requirements
+      - Application Compatibility Testing Methodologies
+    - Tiered Testing Approach
+    - Automated Compatibility Testing
+    - Pilot User Testing Methodology
+    - Vendor Certification Methodology
+    - Compatibility Testing Matrix
+    - Intune-Specific Compatibility Testing
+    - Reporting and Decision Support Framework
+    - Integration with Assessment Tools
+    - Conclusion
+      - Identifying Remediation Requirements
+      - Cost-Benefit Analysis of Application Replacement vs. Remediation
+    - Migration Strategy Development
+      - Phased vs. Big Bang Approaches
+      - Pilot Group Selection and Testing
+      - Risk Assessment and Mitigation Planning
+      - Creating a Detailed Migration Roadmap with Cost Projections
+    - Resource Planning and Budgeting
+      - Staffing Requirements and Skill Gaps
+    - Skills Assessment and Gap Analysis
+    - Staffing Models and Resource Allocation
+    - Training and Certification Planning
+    - External Resource Considerations
+    - Knowledge Transfer and Documentation
+    - Budgeting for Staffing and Skills Development
+      - Infrastructure and Licensing Costs
+      - Training and Change Management Budgeting
+      - Contingency Planning and Budget Buffers
+  - Chapter 2: Modern Deployment Techniques with Intune
+    - Intune Infrastructure Preparation
+      - Tenant Configuration and Optimisation
+    - Establishing a Clean Tenant Architecture
+    - Role-Based Access Control Optimisation
+    - Tenant Settings and Global Configurations
+    - Integration with Azure Active Directory
+    - Optimising Configuration Profiles
+    - Compliance and Conditional Access Integration
+    - Tenant Performance Optimisation
+    - Monitoring and Reporting Configuration
+    - Tenant Backup and Disaster Recovery
+    - Conclusion
+      - Azure AD Integration and Identity Management
+      - Network Considerations for Cloud-Based Management
+      - Scaling Intune for Enterprise Deployments
+    - Application Packaging for Intune
+      - Win32 App Packaging Techniques
+      - MSIX Packaging and App Attach
+      - Microsoft Store for Business Integration
+      - Web Apps and Progressive Web Apps (PWAs)
+      - Line-of-Business App Considerations
+    - Application Deployment Strategies
+      - Required vs. Available Installation Models
+      - User vs. Device Targeting
+      - Dependency and Supersedence Management
+      - Application Configuration Profiles
+      - Testing and Validation Processes
+  - Phased Testing Methodology
+  - Test Environment Configuration
+  - Automated Testing Approaches
+  - User Acceptance Testing
+  - Performance and Compatibility Validation
+  - Documentation and Approval Workflows
+  - Cost-Optimisation Strategies for Testing
+  - Conclusion
+    - Application Lifecycle Management
+      - Version Control and Update Management
+    - Establishing Application Versioning Standards
+    - Automated Update Deployment Strategies
+    - Dependency Management and Compatibility Testing
+    - Rollback and Recovery Planning
+    - Compliance Monitoring and Reporting
+    - Integration with Microsoft's Update Channels
+    - Practical Implementation Approach
+    - Conclusion
+      - Monitoring Application Health and Usage
+    - Implementing Application Health Monitoring
+    - Leveraging Usage Analytics for Cost Optimisation
+    - Integrating with Microsoft Endpoint Analytics
+    - Implementing Cost-Effective Monitoring Practices
+    - Challenges and Considerations
+    - Measuring ROI from Application Monitoring
+    - Conclusion
+      - Troubleshooting Deployment Issues
+    - Understanding Intune Deployment Architecture
+    - Common Deployment Issues and Resolution Strategies
+    - Leveraging Intune's Built-in Troubleshooting Tools
+    - Client-Side Logging and Diagnostics
+    - Implementing a Tiered Troubleshooting Approach
+    - Proactive Monitoring and Issue Prevention
+    - Creating a Troubleshooting Knowledge Base
+    - Automation of Common Remediation Tasks
+    - Conclusion: The Economics of Effective Troubleshooting
+      - Decommissioning Legacy Applications
+  - Identifying Applications for Decommissioning
+  - Stakeholder Engagement and Communication
+  - Data Preservation and Compliance Considerations
+  - Technical Decommissioning Process
+  - Cost Tracking and Benefit Realisation
+  - Continuous Improvement and Lifecycle Management
+  - Conclusion
+  - Chapter 3: Security and Compliance in the Migration Process
+    - Zero-Trust Architecture Implementation
+      - Identity and Access Management Fundamentals
+      - Conditional Access Policies
+      - Device Compliance Requirements
+      - Application-Level Protection Measures
+      - Cost-Effective Security Controls
+    - Data Protection Strategies
+      - Windows Information Protection Configuration
+      - BitLocker and Encryption Policies
+    - Encryption Policy Design and Implementation
+    - TPM Considerations for Windows 11
+    - Recovery Key Management
+    - Monitoring and Reporting
+    - Cost Optimisation Strategies
+    - Implementation Case Example
+    - Conclusion
+      - Data Loss Prevention Measures
+      - Backup and Recovery Planning
+    - Regulatory Compliance Management
+      - Industry-Specific Compliance Requirements
+      - Compliance Reporting and Documentation
+      - Audit Preparation and Response
+    - Continuous Compliance Documentation
+    - Leveraging Intune's Compliance Reporting Capabilities
+    - Audit Trail Implementation
+    - Mock Audit Programme
+    - Audit Response Playbooks
+    - Auditor Relationship Management
+    - Cost-Benefit Analysis of Compliance Automation
+    - Conclusion: The Compliance Dividend
+      - Balancing Compliance and Operational Efficiency
+    - Security Monitoring and Incident Response
+      - Intune Security Reports and Dashboards
+  - Core Security Dashboards in Intune
+  - Integration with Microsoft 365 Defender Portal
+  - Custom Reporting for Migration-Specific Insights
+  - Operational Efficiency Through Dashboard Customisation
+  - Alert Management and Tuning
+  - Cost-Effective Security Monitoring Implementation Strategy
+  - Measuring Security Monitoring ROI
+  - Conclusion: Security Monitoring as a Migration Accelerator
+      - Integration with Microsoft Defender for Endpoint
+      - Alert Management and Escalation
+      - Security Incident Handling Procedures
+    - Incident Classification Framework
+    - Intune-Specific Response Procedures
+    - Automated Containment Strategies
+    - Evidence Collection and Forensics
+    - Cross-Team Coordination
+    - Remediation and Recovery
+    - Post-Incident Analysis and Improvement
+    - Implementation Considerations During Migration
+    - Cost-Benefit Considerations
+    - Conclusion
+  - Chapter 4: Automation and Optimisation for Cost Reduction
+    - PowerShell Automation Fundamentals
+      - Microsoft Graph API for Intune Management
+      - PowerShell Scripts for Application Deployment
+      - Error Handling and Logging
+    - Structured Error Handling in PowerShell
+- Verify prerequisites
+- Attempt installation with timeout
+- Report to central monitoring
+- Cleanup temporary files regardless of success/failure
+    - Comprehensive Logging Framework
+- Create log directory if it doesn't exist
+- Format log entry
+- Write to local log file
+- Output to console based on level
+- Report to Intune management extension log for visibility in portal
+- This makes the log visible in Intune portal
+- Silently continue if unable to write to Intune log
+    - Centralised Log Collection and Analysis
+- Add standard fields to log data
+    - Error Categorisation and Remediation Automation
+    - Cost-Benefit Analysis of Robust Error Handling
+    - Integration with Intune Reporting
+    - Conclusion
+      - Script Maintenance and Version Control
+    - Establishing a Script Repository Architecture
+    - Version Control Best Practices for Migration Scripts
+    - Documentation as Code: The Key to Maintainable Scripts
+    - Testing and Validation Frameworks
+    - Modularisation and Reusability
+    - Continuous Integration for Script Quality
+    - Security Considerations for Migration Scripts
+    - Knowledge Transfer and Sustainability
+    - Conclusion: The ROI of Proper Script Maintenance
+    - CI/CD Pipelines for Application Deployment
+    - Proactive Monitoring and Remediation
+    - Cost Optimisation Techniques
+  - Chapter 5: Case Studies and ROI Models
+    - Small Business Migration Case Study
+    - Enterprise-Scale Migration Case Study
+    - Industry-Specific Case Studies
+    - ROI Calculation Models
+  - Conclusion: Building Your Migration Roadmap
+    - Creating Your Migration Strategy
+    - Future-Proofing Your Environment
+    - Final Recommendations and Best Practices
+
+
 ## Introduction: The Modern Workplace Transition
 
 ### The Shifting IT Landscape

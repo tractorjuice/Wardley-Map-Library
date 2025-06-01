@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Securing LLMs: Essential Questions for Your Penetration Testing Strategy
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: Understanding LLM Security Challenges
   - The Evolving Landscape of AI Security
     - Current State of LLM Deployments
@@ -13,7 +15,6 @@
     - Key Components of LLM Security
     - Stakeholder Responsibilities
     - Risk Assessment Fundamentals
-
 - Core Security Assessment Questions
   - Threat Modeling and Risk Analysis
     - Business Impact Assessment Questions
@@ -23,7 +24,6 @@
     - Prompt Injection Testing Protocols
     - Data Extraction Prevention Measures
     - Model Manipulation Safeguards
-
 - Governance and Control Implementation
   - Access Control and Authentication
     - User Permission Management
@@ -33,7 +33,6 @@
     - Activity Tracking Systems
     - Anomaly Detection Methods
     - Audit Trail Requirements
-
 - Incident Management and Response
   - Incident Detection and Classification
     - LLM-Specific Incident Indicators
@@ -43,7 +42,6 @@
     - Model Restoration Procedures
     - Business Continuity Strategies
     - Incident Documentation Requirements
-
 - Regulatory Compliance and Ethical Considerations
   - Compliance Framework Integration
     - Regulatory Requirements Mapping
@@ -53,6 +51,14 @@
     - Responsible AI Development
     - Privacy Protection Measures
     - Transparency Requirements
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialised Applications
+
 
 # Introduction: Understanding LLM Security Challenges
 

@@ -1,5 +1,117 @@
 # Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition
 
+# Table of Contents
+
+- Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition
+  - Chapter 1: Introduction – Charting the Landscape of Competition
+    - 1.1 The Red Queen Effect – Origins and Implications
+      - Historical context and biological metaphor
+      - Parallels in business competition
+    - 1.2 Wardley Mapping Fundamentals – Purpose and Power
+      - Defining Wardley Mapping and its lineage
+      - Key benefits for strategic clarity
+    - 1.3 Why Combine Wardley Mapping and the Red Queen Effect
+      - Complementary strengths of map and metaphor
+      - Strategic synergy for continuous adaptation
+    - 1.4 How to Use This Book
+      - Overview of chapters and progression
+      - Suggested reading paths for different audiences
+  - Chapter 2: Core Concepts – Fundamentals of Wardley Mapping and the Red Queen Effect
+    - 2.1 Anatomy of a Wardley Map
+      - Value chain decomposition
+      - Evolution axis and component positioning
+    - 2.2 Understanding the Red Queen Effect in Business
+      - Competitive races and arms races
+      - Mechanisms of continuous adaptation
+    - 2.3 Step‑by‑Step Map Creation
+      - Identifying user needs and actors
+      - Mapping components and evolution stages
+      - Plotting movement and flows
+    - 2.4 Iterative Map Refinement and Red Queen Dynamics
+      - Feedback loops and iteration cycles
+      - Adjusting strategies to competitor shifts
+  - Chapter 3: Situational Awareness – Mapping Value Chains, Landscape Evolution and Competitive Pressures
+    - 3.1 Deep Dive into Value Chain Mapping
+      - Decomposing products and services
+      - Ecosystem interdependencies and stakeholders
+    - 3.2 Tracking Landscape Evolution
+      - Life‑cycle stages of components
+      - Detecting evolution triggers
+    - 3.3 Identifying and Mapping Competitive Pressures
+      - Recognising competitor signals
+      - Mapping emerging market entrants
+    - 3.4 Environmental Scanning and Signal Detection
+      - Distinguishing noise from meaningful signals
+      - Tools for continuous scanning
+    - 3.5 Using Maps to Anticipate the Red Queen Race
+      - Scenario planning with maps
+      - Early‑warning indicators of competitor moves
+  - Chapter 4: Integrated Frameworks – Synergies with Agile, Lean Startup, Cynefin, OKRs and Game Theory
+    - 4.1 Agile and Wardley Mapping
+      - Incorporating iteration cycles
+  - Aligning Agile Sprints and Map Cadences
+  - Embedding Red Queen Feedback Loops
+      - Prioritisation based on map insights
+    - 4.2 Lean Startup Principles in the Map
+      - Build‑Measure‑Learn loop
+      - Hypothesis testing within value chains
+    - 4.3 Cynefin for Contextual Decision Making
+      - Mapping domains and contexts
+      - Selecting appropriate responses
+    - 4.4 Aligning OKRs with Strategic Maps
+      - Setting objectives from map insights
+      - Tracking key results over time
+    - 4.5 Game Theory Insights for Competitive Strategy
+      - Zero‑sum versus non‑zero‑sum games
+      - Payoff matrices and strategic moves
+  - Chapter 5: Cross‑Industry Case Studies – Real‑World Applications
+    - 5.1 Technology Sector
+      - Cloud evolution and commoditisation
+      - Platform wars and ecosystem plays
+    - 5.2 Healthcare Industry
+      - Digital transformation hurdles
+      - Navigating regulatory pressures
+    - 5.3 Finance and Banking
+      - Fintech disruption dynamics
+      - Compliance and legacy system evolution
+    - 5.4 Public Sector and Nonprofits
+      - Policy shifts and service delivery
+      - Citizen‑centric mapping approaches
+    - 5.5 Lessons Learned and Best Practices
+      - Common pitfalls across industries
+      - Patterns for successful adaptation
+  - Chapter 6: Overcoming Barriers – Inertia, Cultural Resistance, Ethics and Mapping Pitfalls
+    - 6.1 Recognising and Overcoming Organisational Inertia
+      - Change management frameworks
+      - Engaging leadership sponsors
+    - 6.2 Cultural Resistance and Adoption Strategies
+      - Building internal champions
+      - Designing training programmes
+    - Sample Training Sprint Schedule
+    - 6.3 Ethical and Privacy Considerations
+      - Data usage ethics
+      - Transparency and consent
+    - 6.4 Common Mapping Pitfalls and How to Avoid Them
+      - Overcomplexity and feature bloat
+      - Misplaced component boundaries
+    - 6.5 Sustaining Momentum and Continuous Learning
+      - Communities of practice
+      - Regular map audits and updates
+  - Chapter 7: Conclusion – Next Steps and the Future of Strategic Mapping
+    - 7.1 Synthesising Insights
+      - Key takeaways recap
+      - Integration checklist
+    - 7.2 Developing a Mapping Centre of Excellence
+      - Governance and operating models
+      - Skills and competency frameworks
+    - 7.3 Anticipating Future Red Queen Races
+      - Emerging technologies on the horizon
+      - Geopolitical and societal shifts
+    - 7.4 Further Resources and Communities
+      - Recommended reading and tools
+      - Professional networks and forums
+
+
 ## Chapter 1: Introduction – Charting the Landscape of Competition
 
 ### 1.1 The Red Queen Effect – Origins and Implications

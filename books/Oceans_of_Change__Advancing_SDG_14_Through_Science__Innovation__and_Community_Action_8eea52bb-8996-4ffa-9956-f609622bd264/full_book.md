@@ -1,5 +1,67 @@
 # Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action
 
+# Table of Contents
+
+- Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action
+  - Introduction: Understanding Life Below Water
+    - The State of Our Oceans
+      - Current Global Ocean Health Assessment
+      - Key Challenges and Threats
+      - SDG 14 Targets and Indicators
+    - Marine Ecosystems and Biodiversity
+      - Critical Marine Habitats
+      - Endangered Marine Species
+      - Ecosystem Services and Human Well-being
+  - Marine Conservation Science and Technology
+    - Advanced Ocean Monitoring Systems
+      - Satellite Technology and Remote Sensing
+      - Marine Data Collection Networks
+      - Artificial Intelligence in Ocean Monitoring
+    - Tackling Marine Pollution
+      - Innovative Plastic Removal Technologies
+      - Chemical Pollution Prevention
+      - Microplastics Detection and Mitigation
+    - Ecosystem Restoration Techniques
+      - Coral Reef Rehabilitation
+      - Mangrove and Seagrass Restoration
+      - Marine Species Recovery Programs
+  - Sustainable Blue Economy
+    - Responsible Fishing Practices
+      - Sustainable Fishing Technologies
+      - Stock Assessment and Management
+      - Small-scale Fisheries Support
+    - Innovative Aquaculture
+      - Sustainable Feed Solutions
+      - Integrated Multi-trophic Aquaculture
+      - Disease Management and Prevention
+    - Emerging Ocean Industries
+      - Marine Biotechnology Advances
+      - Offshore Renewable Energy
+      - Sustainable Marine Tourism
+  - Climate Change and Ocean Resilience
+    - Ocean-Climate Interactions
+      - Ocean Acidification Impacts
+      - Sea Level Rise Challenges
+      - Marine Heat Waves
+    - Adaptation Strategies
+      - Coastal Infrastructure Solutions
+      - Ecosystem-based Adaptation
+      - Climate-resilient Marine Protected Areas
+  - Community Action and Governance
+    - Local Marine Conservation Initiatives
+      - Community-led Projects
+      - Indigenous Ocean Management
+      - Educational Outreach Programs
+    - Policy Frameworks
+      - International Maritime Laws
+      - Regional Cooperation Mechanisms
+      - National Implementation Strategies
+    - Future Directions
+      - Emerging Opportunities
+      - Research Priorities
+      - Call to Action
+
+
 ## Introduction: Understanding Life Below Water
 
 ### The State of Our Oceans

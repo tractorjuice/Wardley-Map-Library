@@ -1,7 +1,8 @@
 # Harnessing the Power of GenAI: A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation
 
-## Table of Contents
+# Table of Contents
 
+- Harnessing the Power of GenAI: A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation
 - Understanding the GenAI Landscape
   - The Evolution of Artificial Intelligence
     - From Rule-Based Systems to Machine Learning
@@ -19,7 +20,6 @@
     - What GenAI Can and Cannot Do
     - Common Misconceptions and Hype vs. Reality
     - Forecasting GenAI Advancement and Future Potential
-
 - Building Effective GenAI Teams in Government
   - Identifying Key Roles and Skill Sets
     - The Importance of Multidisciplinary Teams
@@ -33,7 +33,6 @@
     - Engaging with Academia and Research Institutions
     - Partnering with Private Sector AI Providers
     - Fostering Public-Private Partnerships
-
 - Addressing Challenges in GenAI Implementation
   - Navigating Data Privacy and Security Concerns
     - Developing Robust Data Governance Frameworks
@@ -47,7 +46,6 @@
     - Communicating the Benefits of GenAI Adoption
     - Providing Training and Upskilling Opportunities
     - Encouraging Experimentation and Innovation
-
 - Case Studies and Success Stories
   - GenAI in Healthcare and Public Health
     - Predicting Disease Outbreaks and Spread
@@ -61,7 +59,6 @@
     - Optimising Traffic Flow and Congestion Management
     - Predictive Maintenance of Public Assets
     - Enhancing Urban Planning and Development
-
 - Tools and Methodologies for GenAI Implementation
   - Wardley Mapping for Strategic Planning
     - Understanding the Basics of Wardley Mapping
@@ -75,6 +72,7 @@
     - Choosing the Right Cloud Platform for GenAI
     - Scaling AI Infrastructure on Demand
     - Ensuring Data Security in the Cloud
+
 
 # Understanding the GenAI Landscape
 

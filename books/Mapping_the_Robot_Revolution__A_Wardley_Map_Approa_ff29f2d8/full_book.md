@@ -1,5 +1,103 @@
 # Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption
 
+# Table of Contents
+
+- Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption
+  - Introduction: Navigating the Age of Automation with Wardley Maps
+    - The Rise of Robots: Understanding the Automation Landscape
+      - Defining Automation: Beyond the Hype
+      - The Pervasiveness of Robotics and AI: A Sector-by-Sector Overview
+      - The Promise and Peril of Automation: Opportunities and Challenges
+    - Introducing Wardley Maps: A Strategic Compass
+      - What is Wardley Mapping? Core Concepts Explained
+      - Value Chains, Components, and Evolutionary Stages
+      - How Wardley Maps Help Us Understand Technological Evolution and Strategic Choices
+      - Why Wardley Maps are Crucial for Navigating the 'Robot Revolution'
+    - Setting the Stage: The Book's Roadmap
+      - A Chapter-by-Chapter Guide
+      - Target Audience and Key Takeaways
+      - How to Use This Book for Strategic Advantage
+  - Mapping the Robotics Ecosystem: Components and Evolution
+    - Identifying Key Components of the Robotics and AI Value Chain
+      - AI/Machine Learning Algorithms: From Genesis to Commodity
+      - Robotics Hardware: Types, Capabilities, and Evolution
+      - Data: The Fuel for Automation
+      - Compute Power: Infrastructure and Scalability
+      - Human Labor: Shifting Roles and Skill Requirements
+    - Mapping the Evolutionary Landscape: From Genesis to Utility
+      - Genesis: Cutting-Edge Research and Development
+      - Custom-Built: Bespoke Solutions for Specific Needs
+      - Product: Standardised Offerings and Market Adoption
+      - Commodity/Utility: Ubiquitous and Readily Available Services
+    - Visualising the Map: Practical Examples and Case Studies
+      - Mapping Automation in Manufacturing: A Detailed Example
+      - Mapping Automation in Transportation: A Detailed Example
+      - Mapping Automation in Customer Service: A Detailed Example
+      - Interpreting the Map: Identifying Strategic Opportunities and Threats
+  - Strategic Implications: Automation, Disruption, and Opportunity
+    - Industry-Specific Impacts: Winners and Losers
+      - Manufacturing: The Rise of Smart Factories
+      - Transportation: Autonomous Vehicles and Logistics
+      - Healthcare: Robotics in Surgery and Patient Care
+      - Finance: Algorithmic Trading and Automation of Financial Services
+      - Retail: Automated Checkout and Supply Chain Optimisation
+    - The Future of Work: Job Displacement and New Roles
+      - Identifying Jobs at Risk of Automation
+      - Emerging Roles in the Age of Robotics and AI
+      - Reskilling and Upskilling Strategies for the Future Workforce
+      - The Impact on Wages and Income Inequality
+    - Business Model Innovation: Adapting to the Automation Revolution
+      - Creating New Value Propositions with Automation
+      - Leveraging Automation for Competitive Advantage
+      - Building Agile and Resilient Organisations
+      - Case Studies: Companies Successfully Navigating Automation
+  - Navigating Disruption: Anticipating Change and Building Resilience
+    - Anticipating Disruptive Forces: Identifying Weak Signals
+      - Monitoring Technological Trends and Emerging Technologies
+      - Analysing Market Dynamics and Competitive Landscapes
+      - Understanding Regulatory Changes and Policy Implications
+      - Using Wardley Maps to Identify Potential Disruption
+    - Responding to Disruption: Strategies for Adaptation and Innovation
+      - Embracing Experimentation and Agile Development
+      - Building Strategic Partnerships and Ecosystems
+      - Investing in Research and Development
+      - Creating a Culture of Innovation
+    - Building Resilience: Preparing for Uncertainty
+      - Diversifying Business Models and Revenue Streams
+      - Developing Contingency Plans and Risk Management Strategies
+      - Investing in Employee Training and Development
+      - Fostering a Culture of Adaptability
+  - Ethical and Societal Considerations: Responsible Innovation in the Age of Robots
+    - Addressing Job Displacement: Mitigating the Social Impact of Automation
+      - Exploring Universal Basic Income and Other Social Safety Nets
+      - Investing in Education and Training Programs
+      - Promoting Entrepreneurship and Small Business Development
+      - Creating New Job Opportunities in Emerging Industries
+    - Bias in AI: Ensuring Fairness and Transparency
+      - Understanding the Sources of Bias in AI Algorithms
+      - Developing Techniques for Detecting and Mitigating Bias
+      - Promoting Diversity and Inclusion in AI Development Teams
+      - Establishing Ethical Guidelines and Standards for AI Development
+    - The Future of Humanity: Coexistence with Intelligent Machines
+      - Exploring the Philosophical Implications of AI
+      - Addressing Concerns about AI Safety and Control
+      - Promoting Responsible Innovation and Ethical Development
+      - Envisioning a Future Where Humans and Robots Collaborate
+  - Conclusion: Embracing the Future with Strategic Foresight
+    - The Power of Wardley Maps: A Recap
+      - Visualising the Automation Landscape
+      - Identifying Strategic Opportunities and Threats
+      - Navigating Disruption and Building Resilience
+    - Looking Ahead: The Ongoing Evolution of Automation
+      - Emerging Trends and Future Developments
+      - The Importance of Continuous Learning and Adaptation
+      - The Role of Humans in the Age of Robots
+    - Call to Action: Shaping a Better Future
+      - Embracing Responsible Innovation
+      - Promoting Ethical Development
+      - Building a More Equitable and Sustainable Future for All
+
+
 ## Introduction: Navigating the Age of Automation with Wardley Maps
 
 ### The Rise of Robots: Understanding the Automation Landscape

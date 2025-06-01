@@ -1,5 +1,58 @@
 # Wardley Mapping for Digital Transformation: A Strategic Decision-Making Guide
 
+# Table of Contents
+
+- Wardley Mapping for Digital Transformation: A Strategic Decision-Making Guide
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Decision-Making in the Digital Age
+      - The Evolution of Strategic Planning
+      - Why Traditional Methods Fall Short
+      - The Need for Visual Strategy
+    - Fundamentals of Wardley Mapping
+      - Core Components and Principles
+      - Value Chain Dynamics
+      - Evolution and Movement
+  - Building Your First Wardley Map
+    - Map Components and Construction
+      - Identifying User Needs
+      - Mapping Value Chains
+      - Understanding Evolution Axes
+      - Component Positioning
+    - Common Patterns and Antipatterns
+      - Strategic Patterns
+      - Gameplay Patterns
+      - Avoiding Common Mistakes
+  - Digital Transformation Strategy
+    - Mapping Digital Landscapes
+      - Technology Stack Analysis
+      - Legacy System Evolution
+      - Innovation Opportunities
+    - Transformation Planning
+      - Gap Analysis
+      - Capability Planning
+      - Risk Assessment
+      - Implementation Roadmaps
+  - Competitive Intelligence and Market Analysis
+    - Market Positioning
+      - Competitor Analysis
+      - Market Evolution Patterns
+      - Opportunity Identification
+    - Strategic Response Development
+      - Defensive Strategies
+      - Offensive Moves
+      - Innovation Planning
+  - Practical Implementation and Case Studies
+    - Implementation Frameworks
+      - Decision-Making Templates
+      - Workshop Guidelines
+      - Team Collaboration Tools
+    - Industry Case Studies
+      - Technology Sector Examples
+      - Healthcare Transformation Cases
+      - Financial Services Applications
+      - Manufacturing Evolution Studies
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Decision-Making in the Digital Age

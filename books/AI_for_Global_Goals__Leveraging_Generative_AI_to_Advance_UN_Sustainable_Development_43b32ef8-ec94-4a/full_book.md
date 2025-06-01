@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Convergence of AI and Sustainable Development
   - Understanding the SDG Landscape
     - Current Progress and Challenges
@@ -13,7 +15,6 @@
     - Core Components of AI-SDG Integration
     - Ethical Considerations and Principles
     - Stakeholder Ecosystem Mapping
-
 - SDG-Specific AI Solutions
   - Poverty and Economic Development (SDGs 1, 8, 9)
     - AI-Powered Microfinance Solutions
@@ -31,7 +32,6 @@
     - Climate Change Modeling
     - Resource Management Systems
     - Biodiversity Protection Tools
-
 - Implementation and Resource Optimization
   - Deployment Strategies
     - Infrastructure Assessment
@@ -41,7 +41,6 @@
     - AI-Driven Resource Allocation
     - Efficiency Optimization
     - Sustainable Implementation Models
-
 - Measuring Impact and Ensuring Success
   - Impact Assessment Framework
     - Key Performance Indicators
@@ -51,6 +50,14 @@
     - Partnership Development
     - Community Engagement
     - Knowledge Sharing Platforms
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Convergence of AI and Sustainable Development
 

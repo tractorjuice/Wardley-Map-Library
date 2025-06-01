@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Windows 11 Migration Mastery: A Strategic Guide to Enterprise Transformation
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Chapter 1: Building the Business Case for Windows 11 Migration
   - Strategic Assessment Framework
     - Evaluating Organisational Readiness
@@ -15,7 +17,6 @@
     - Return on Investment Projections
     - Productivity Gains Quantification
     - Risk Mitigation Value Assessment
-
 - Chapter 2: Technical Migration Architecture and Security
   - Migration Planning and Infrastructure
     - Assessment Tools and Methodologies
@@ -27,7 +28,6 @@
     - Device Security Enhancements
     - Network Segmentation Strategies
     - Security Monitoring and Response
-
 - Chapter 3: Change Management and User Adoption
   - Organisational Change Strategy
     - Stakeholder Analysis and Engagement
@@ -39,7 +39,6 @@
     - Productivity Feature Training
     - Accessibility Improvements
     - Performance Optimisation
-
 - Chapter 4: Modern Workplace Integration
   - Microsoft 365 Integration
     - Teams Integration Enhancements
@@ -51,7 +50,6 @@
     - Cross-Device Synchronisation
     - Virtual Desktop Infrastructure
     - Mobile Device Management
-
 - Chapter 5: Sustainability and Future-Proofing
   - Environmental Impact Management
     - Carbon Footprint Reduction Strategies
@@ -63,6 +61,14 @@
     - Technology Roadmap Development
     - Innovation Integration Framework
     - Continuous Improvement Strategies
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Chapter 1: Building the Business Case for Windows 11 Migration
 

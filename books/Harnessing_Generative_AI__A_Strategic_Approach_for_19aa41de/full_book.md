@@ -1,5 +1,56 @@
 # Harnessing Generative AI: A Strategic Approach for the UK Home Office
 
+# Table of Contents
+
+- Harnessing Generative AI: A Strategic Approach for the UK Home Office
+  - Introduction to Generative AI in Public Service
+    - Defining Generative AI
+      - What is Generative AI?
+      - Key Capabilities of Generative AI
+      - Implications for Public Service
+    - The Role of AI in Modern Governance
+      - AI's Impact on Public Sector Efficiency
+      - Enhancing Citizen Engagement with AI
+      - Challenges and Opportunities
+  - Strategic Frameworks for GenAI Implementation
+    - Developing a Tailored GenAI Strategy
+      - Understanding the Home Office's Needs
+      - Setting Strategic Objectives
+      - Aligning GenAI with Policy Goals
+    - Utilising Wardley Mapping
+      - Introduction to Wardley Mapping
+      - Mapping the Current Landscape
+      - Identifying Strategic Opportunities
+  - Case Studies of GenAI in Action
+    - Successful Implementations in the UK
+      - Case Study 1: AI in Policing
+      - Case Study 2: AI in Immigration Services
+    - Global Perspectives
+      - Case Study 3: AI in Public Health (USA)
+      - Case Study 4: AI in Social Services (Canada)
+  - Ethical Considerations in AI Deployment
+    - Understanding Bias in AI
+      - Types of Bias in AI Systems
+      - Mitigating Bias in GenAI Applications
+    - Addressing Controversies
+      - Public Perception of AI in Governance
+      - Regulatory Frameworks and Compliance
+  - Future Trends and Implications
+    - The Evolution of GenAI in the Home Office
+      - Emerging Technologies and Their Impact
+      - Anticipating Future Challenges
+    - Transforming Policy-Making and Citizen Engagement
+      - AI-Driven Decision Making
+      - Enhancing Transparency and Accountability
+  - Conclusion and Strategic Recommendations
+    - Key Takeaways
+      - Summarising the Strategic Framework
+      - Lessons Learned from Case Studies
+    - Next Steps for the Home Office
+      - Implementing the GenAI Strategy
+      - Monitoring and Evaluation Framework
+
+
 ## Introduction to Generative AI in Public Service
 
 ### Defining Generative AI

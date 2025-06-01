@@ -1,5 +1,88 @@
 # Wardley Mapping: Mastering Strategy in a Complex World
 
+# Table of Contents
+
+- Wardley Mapping: Mastering Strategy in a Complex World
+  - Foundations of Wardley Mapping
+    - Core Concepts and Components
+      - Introduction to Wardley Maps: Visualising Strategic Landscapes
+      - The Evolution Axis: Genesis to Commodity
+      - Value Chain Mapping: Connecting User Needs to Components
+      - Anchors and Positioning: Context and Relative Position
+      - Understanding the Map as a Dynamic System
+    - The Evolution of Wardley Maps
+      - Historical Context and Influences
+      - From Value Chains to Strategic Maps
+      - Key Principles and Assumptions
+      - Common Pitfalls and How to Avoid Them
+      - The Iterative Nature of Mapping
+  - Advanced Mapping Techniques
+    - Doctrine: Universal Principles for Strategic Action
+      - Introduction to Doctrine: Universally Applicable Choices
+      - Wardley's Doctrine: A Detailed Examination
+      - Applying Doctrine to Maps: Practical Examples
+      - The Importance of Transparency and Situational Awareness
+      - Managing Inertia and Embracing Failure
+    - Climatic Patterns: Anticipating Change
+      - Understanding Climatic Patterns: The Rules of the Game
+      - Everything Evolves: Supply and Demand Competition
+      - Characteristics Change: From Uncharted to Industrialised
+      - Efficiency Enables Innovation: Genesis Begets Evolution
+      - The Red Queen Effect: Adapting to Survive
+      - Past Success Breeds Inertia: Overcoming Resistance to Change
+    - Red Queen Dynamics and Ecosystems
+      - The Red Queen Hypothesis in Detail
+      - Ecosystem Management: Tending the Garden
+      - Building Sensing Engines (ILC Model)
+      - Defensive and Offensive Alliances
+      - Exploiting Ecosystems for Competitive Advantage
+  - Economic Patterns and Gameplays
+    - Understanding Economic Forces
+      - Commodification and Commoditisation: The Shift in Value
+      - Higher Order Systems Create New Sources of Worth
+      - Capital Flows and Investment Strategies
+      - The Impact of Efficiency on Innovation
+      - Jevons Paradox: Efficiency and Increased Consumption
+    - Strategic Gameplays: Influencing the Map
+      - Open Approaches: Source, Data, and Practice
+      - Intellectual Property Rights (IPR): Slowing Evolution
+      - Fear, Uncertainty, and Doubt (FUD): Exploiting Inertia
+      - Exploiting Constraint: Fragmenting Competitors
+      - Two-Factor Markets: Network Effects and Data Aggregation
+  - Practical Applications and Integration
+    - Real-World Case Studies
+      - Case Study 1: Applying Wardley Mapping in the Public Sector
+      - Case Study 2: Strategic Transformation in Financial Services
+      - Case Study 3: Innovation and Disruption in Retail
+      - Case Study 4: Optimising IT Infrastructure with Wardley Maps
+      - Analysing Case Studies: Lessons Learned and Best Practices
+    - Integrating with Agile and Lean Methodologies
+      - The Innovation Paradox: Managing Different Stages of Evolution
+      - Agile in the Uncharted: Experimentation and Discovery
+      - Lean in Transition: Reducing Waste and Improving Measurement
+      - Six Sigma in the Industrialised: Standardisation and Efficiency
+      - Choosing the Right Methodology for Each Component
+    - Mapping as a Continuous Process
+      - The Strategy Cycle: Observe, Orient, Decide, Act
+      - Using Maps for Retrospectives and Learning
+      - Adapting Maps to Changing Environments
+      - Building a Culture of Mapping within an Organisation
+      - Common Mistakes and How to Correct Them
+  - Mastering Strategy: A Continuous Journey
+    - The Path to Strategic Mastery
+      - Embracing Complexity and Uncertainty
+      - Developing Situational Awareness
+      - Learning from Climatic Patterns and Doctrine
+      - Adapting to the Red Queen Effect
+      - The Importance of Humility and Continuous Learning
+    - Future Trends and the Evolution of Wardley Mapping
+      - The Impact of AI and Automation
+      - New Economic Models and Gameplays
+      - The Role of Ethics in Strategic Decision-Making
+      - The Future of Mapping Tools and Techniques
+      - Continuing the Journey of Strategic Discovery
+
+
 ## Foundations of Wardley Mapping
 
 ### Core Concepts and Components

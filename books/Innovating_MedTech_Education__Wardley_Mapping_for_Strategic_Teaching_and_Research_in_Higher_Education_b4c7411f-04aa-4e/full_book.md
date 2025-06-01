@@ -2,8 +2,10 @@
 
 ### WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 
-## Table of Contents
+# Table of Contents
 
+- Innovating MedTech Education: Wardley Mapping for Strategic Teaching and Research in Higher Education
+    - WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Convergence of Wardley Mapping and MedTech in Higher Education
   - The MedTech Revolution and Higher Education
     - Current challenges in MedTech education
@@ -13,7 +15,6 @@
     - Core concepts and components of Wardley Maps
     - The evolution of technologies and practices in healthcare
     - Applying Wardley Mapping to MedTech scenarios
-
 - Integrating Wardley Mapping into MedTech Curricula
   - Designing Wardley Mapping-Enhanced MedTech Courses
     - Identifying key learning outcomes
@@ -27,7 +28,6 @@
     - Undergraduate biomedical engineering programme transformation
     - Postgraduate healthcare innovation curriculum redesign
     - Continuing professional development for healthcare technologists
-
 - Leveraging Wardley Mapping for Strategic MedTech Research
   - Mapping the MedTech Research Landscape
     - Identifying emerging technologies and research opportunities
@@ -41,7 +41,6 @@
     - Using Wardley Maps to strengthen research rationales
     - Visualising project impact and potential outcomes
     - Addressing reviewer concerns through strategic mapping
-
 - Fostering Academic-Industry Collaborations in MedTech
   - Mapping the Academic-Industry Interface
     - Understanding stakeholder motivations and constraints
@@ -55,7 +54,6 @@
     - Developing a novel medical device through strategic collaboration
     - Improving healthcare delivery systems through joint research
     - Commercialising academic research in digital health
-
 - Ethical Considerations and Future Trends in MedTech Innovation
   - Ethical Implications of Emerging MedTech
     - Privacy and data security in connected healthcare
@@ -69,6 +67,11 @@
     - Evolving mapping techniques for complex healthcare ecosystems
     - Integrating Wardley Mapping with other strategic tools
     - Building a community of practice in MedTech strategic thinking
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Convergence of Wardley Mapping and MedTech in Higher Education
 

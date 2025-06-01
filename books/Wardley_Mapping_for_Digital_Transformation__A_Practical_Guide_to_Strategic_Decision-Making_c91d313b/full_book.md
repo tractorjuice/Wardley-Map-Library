@@ -1,5 +1,63 @@
 # Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making
 
+# Table of Contents
+
+- Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making
+  - Introduction: The Power of Visual Strategy in Digital Transformation
+    - Understanding Strategic Decision-Making Challenges
+      - The Modern Business Landscape
+      - Common Strategic Planning Pitfalls
+      - Why Visual Strategy Matters
+    - Fundamentals of Wardley Mapping
+      - Core Concepts and Components
+      - Value Chain Basics
+      - Evolution and Movement
+  - Building Your First Wardley Map
+    - Map Creation Fundamentals
+      - Identifying User Needs
+      - Mapping Value Chains
+      - Understanding Evolution Stages
+      - Positioning Components
+    - Collaborative Mapping Workshops
+      - In-Person Workshop Techniques
+      - Remote Collaboration Tools
+      - Team Engagement Strategies
+      - Common First-Time Challenges
+  - Digital Transformation Through Mapping
+    - Mapping Digital Capabilities
+      - Cloud Services Assessment
+      - Technology Stack Analysis
+      - Digital Platform Strategy
+      - Emerging Technology Integration
+    - Ecosystem Mapping
+      - Partner Networks
+      - API Landscapes
+      - Data Flow Analysis
+      - Security Considerations
+  - Strategic Pattern Recognition and Analysis
+    - Common Business Evolution Patterns
+      - Market Evolution Cycles
+      - Technology Adoption Patterns
+      - Disruption Indicators
+      - Competitive Position Analysis
+    - Pattern-Based Decision Making
+      - Strategic Options Assessment
+      - Risk Analysis
+      - Opportunity Identification
+      - Timing Considerations
+  - From Maps to Action
+    - Creating Implementation Roadmaps
+      - Priority Setting
+      - Resource Allocation
+      - Timeline Development
+      - Success Metrics Definition
+    - Managing Strategic Change
+      - Stakeholder Communication
+      - Progress Tracking
+      - Adaptation Strategies
+      - Measuring Impact
+
+
 ## Introduction: The Power of Visual Strategy in Digital Transformation
 
 ### Understanding Strategic Decision-Making Challenges

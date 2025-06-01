@@ -1,5 +1,56 @@
 # Borovets: Bulgaria's Premier Mountain Resort - A Complete Guide Through the Seasons
 
+# Table of Contents
+
+- Borovets: Bulgaria's Premier Mountain Resort - A Complete Guide Through the Seasons
+  - Introduction: The Crown Jewel of Bulgarian Mountains
+    - Royal Beginnings
+      - From Chamkoriya to Borovets
+      - The Royal Hunting Lodge Legacy
+      - Evolution into a Modern Resort
+    - Resort Overview
+      - Geographic Location and Access
+      - Resort Layout and Facilities
+      - Year-round Appeal
+  - Winter Wonderland: The Complete Ski Experience
+    - Ski Infrastructure
+      - Piste Network and Difficulty Levels
+      - Lift Systems and Mountain Access
+      - Snow Conditions and Making
+    - Winter Activities
+      - Skiing and Snowboarding Schools
+      - Cross-country and Biathlon Facilities
+      - Night Skiing Adventures
+      - Winter Events and Competitions
+  - Summer Adventures in the Rila Mountains
+    - Mountain Activities
+      - Hiking Trails and Routes
+      - Mountain Biking Networks
+      - Rock Climbing Opportunities
+    - Natural Attractions
+      - Flora and Fauna Exploration
+      - Scenic Viewpoints
+      - Mountain Lakes and Waterfalls
+  - Cultural Heritage and Local Life
+    - Mountain Traditions
+      - Local Customs and Festivals
+      - Traditional Architecture
+      - Folk Arts and Crafts
+    - Culinary Journey
+      - Mountain Cuisine Specialties
+      - Local Restaurants and Mehanas
+      - Regional Wine and Spirits
+  - Practical Guide and Insider Tips
+    - Planning Your Visit
+      - Accommodation Options
+      - Transport and Logistics
+      - Equipment Rental and Services
+    - Hidden Gems
+      - Off-piste Adventures
+      - Secret Local Spots
+      - Best Photography Locations
+
+
 ## Introduction: The Crown Jewel of Bulgarian Mountains
 
 ### Royal Beginnings

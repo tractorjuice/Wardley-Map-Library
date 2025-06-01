@@ -1,5 +1,71 @@
 # Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance
 
+# Table of Contents
+
+- Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance
+  - Introduction: The UN's Environmental Mandate in a World of Crisis
+    - The Global Environmental Challenge
+      - The Scale of the Climate Emergency
+      - Biodiversity Loss and Ecosystem Collapse
+      - The Need for Coordinated Global Action
+    - The UN as Environmental Guardian
+      - Origins of UN Environmental Leadership
+      - Current Role and Responsibilities
+      - Key Questions and Critiques
+  - From Stockholm to Paris: The Evolution of Global Environmental Governance
+    - Foundational Moments
+      - Stockholm Conference 1972
+      - Rio Earth Summit 1992
+      - Key Declarations and Principles
+    - Building the Architecture
+      - Creation and Evolution of UNEP
+      - Development of the UNFCCC
+      - Integration with Development Goals
+    - Modern Framework
+      - Paris Agreement Architecture
+      - Sustainable Development Goals
+      - Current Governance Structures
+  - Success and Failure: Evaluating UN Environmental Initiatives
+    - Notable Successes
+      - The Montreal Protocol
+      - Protection of World Heritage Sites
+      - International Species Conservation
+    - Persistent Challenges
+      - Climate Action Implementation
+      - Biodiversity Protection Gaps
+      - Resource Management Conflicts
+    - Lessons Learned
+      - Elements of Successful Initiatives
+      - Common Obstacles
+      - Best Practices and Guidelines
+  - Reforming for the Future: Innovation and Transformation
+    - Structural Reform Options
+      - Strengthening UNEP's Mandate
+      - Improving Coordination Mechanisms
+      - New Governance Models
+    - Technological Integration
+      - Digital Monitoring Systems
+      - Blockchain for Transparency
+      - AI in Environmental Management
+    - Financial Innovation
+      - Green Finance Mechanisms
+      - Carbon Markets Evolution
+      - Climate Investment Frameworks
+  - The Path Forward: Scenarios and Recommendations
+    - Future Scenarios
+      - Enhanced UN Leadership
+      - Alternative Governance Models
+      - Hybrid Approaches
+    - Critical Success Factors
+      - Political Will and Commitment
+      - Resource Mobilisation
+      - Stakeholder Engagement
+    - Recommendations for Action
+      - Immediate Priorities
+      - Medium-term Reforms
+      - Long-term Vision
+
+
 ## Introduction: The UN's Environmental Mandate in a World of Crisis
 
 ### The Global Environmental Challenge

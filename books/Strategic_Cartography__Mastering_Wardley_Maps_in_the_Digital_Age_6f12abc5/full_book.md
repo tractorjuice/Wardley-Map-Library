@@ -1,5 +1,72 @@
 # Strategic Cartography: Mastering Wardley Maps in the Digital Age
 
+# Table of Contents
+
+- Strategic Cartography: Mastering Wardley Maps in the Digital Age
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Mapping
+      - Why Visual Strategy Matters
+      - The Evolution of Strategic Tools
+      - Introduction to Wardley Maps
+    - The Digital Landscape
+      - Modern Business Challenges
+      - Technology-Driven Market Dynamics
+      - The Need for Dynamic Strategy
+  - Fundamentals of Wardley Mapping
+    - Core Components
+      - Value Chain Basics
+      - Evolution Axis Explained
+      - Component Positioning
+      - Movement and Dynamics
+    - Modern Visualization Techniques
+      - Digital Tools and Software
+      - Interactive Mapping
+      - Collaborative Approaches
+    - Digital-First Examples
+      - Cloud Services Mapping
+      - AI Component Analysis
+      - Platform Economy Examples
+  - Strategic Patterns and Antipatterns
+    - Common Patterns
+      - Technology Adoption Cycles
+      - Innovation Patterns
+      - Market Evolution Patterns
+    - Antipatterns to Avoid
+      - Common Strategic Mistakes
+      - Technology Investment Pitfalls
+      - Market Position Errors
+    - Emerging Patterns in Digital Markets
+      - AI and Machine Learning Impacts
+      - Cloud Computing Dynamics
+      - Platform Business Models
+  - Practical Application and Integration
+    - Workshop Frameworks
+      - Team Mapping Sessions
+      - Validation Techniques
+      - Map Evolution Processes
+    - Integration with Other Tools
+      - Blue Ocean Strategy Integration
+      - Business Model Canvas Alignment
+      - Value Chain Analysis Combination
+    - Decision Making with Maps
+      - Strategic Options Analysis
+      - Investment Decisions
+      - Resource Allocation
+  - Case Studies and Real-World Applications
+    - Technology Sector Examples
+      - Cloud Provider Strategies
+      - Software Platform Evolution
+      - Digital Service Innovation
+    - Traditional Industry Transformation
+      - Manufacturing Digital Evolution
+      - Retail Transformation
+      - Financial Services Adaptation
+    - Future Applications
+      - Emerging Technology Impacts
+      - New Market Opportunities
+      - Strategic Planning Evolution
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Mapping

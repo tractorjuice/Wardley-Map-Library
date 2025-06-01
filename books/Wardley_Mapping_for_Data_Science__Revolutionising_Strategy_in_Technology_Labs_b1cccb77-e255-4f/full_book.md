@@ -1,7 +1,8 @@
 # Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs
 
-## Table of Contents
+# Table of Contents
 
+- Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs
 - Foundations of Wardley Mapping for Data Science
   - Understanding Wardley Mapping
     - The origins and principles of Wardley Mapping
@@ -18,7 +19,6 @@
     - Identifying key components in data science value chains
     - Mapping the evolution of data science technologies and methodologies
     - Potential impacts of Wardley Mapping on data science strategy
-
 - Implementing Wardley Mapping in Data Science Projects
   - Mapping the Data Science Project Lifecycle
     - Creating Wardley Maps for different types of data science projects
@@ -35,7 +35,6 @@
     - Developing mitigation strategies based on component evolution
     - Planning for technology shifts and obsolescence
     - Creating adaptive project plans using Wardley Maps
-
 - Driving Innovation and Strategic Advantage
   - Identifying Innovation Opportunities
     - Using Wardley Maps to spot gaps in the market
@@ -52,7 +51,6 @@
     - Aligning partnerships with evolutionary stages
     - Developing mutually beneficial collaboration strategies
     - Managing partnership lifecycles through mapping
-
 - Case Studies: Wardley Mapping Success Stories
   - Tech Giants: Reinventing Strategy
     - Google's use of Wardley Mapping in AI research
@@ -66,7 +64,6 @@
     - CERN's application of Wardley Mapping to particle physics research
     - NASA's use of mapping in space exploration planning
     - The Francis Crick Institute's adoption of Wardley Mapping in genomics research
-
 - Integrating Wardley Mapping with Data Science Methodologies
   - Wardley Mapping and Agile Data Science
     - Aligning Wardley Maps with Agile sprints and iterations
@@ -83,6 +80,7 @@
     - The role of Wardley Mapping in shaping future methodologies
     - Potential new frameworks combining Wardley Mapping with data science
     - Preparing for the next evolution in data science strategic planning
+
 
 # Foundations of Wardley Mapping for Data Science
 

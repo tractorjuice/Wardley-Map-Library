@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: Understanding the Leasehold Landscape
   - The Leasehold System in England: An Overview
     - What is a leasehold property?
@@ -13,7 +15,6 @@
     - Relevant legislation and regulations
     - Your rights as a leaseholder
     - Obligations of freeholders and management agents
-
 - Decoding Service Charges and Management Fees
   - Understanding Service Charges
     - What are service charges?
@@ -27,7 +28,6 @@
     - What management fees should cover
     - Benchmarking management fees
     - Challenging unreasonable management fees
-
 - Challenging Excessive Charges and Unfair Terms
   - Preparing Your Case
     - Gathering evidence and documentation
@@ -41,7 +41,6 @@
     - The First-tier Tribunal (Property Chamber)
     - Preparing for a tribunal hearing
     - Alternative legal routes: county courts and the Upper Tribunal
-
 - Reforming Bad Management Practices
   - Identifying Poor Management
     - Common signs of mismanagement
@@ -55,7 +54,6 @@
     - Legal routes to appointing a new agent
     - The process of changing management agents
     - Selecting a reputable replacement
-
 - Collective Action and Empowerment
   - Forming a Residents' Association
     - Benefits of a recognised association
@@ -69,7 +67,6 @@
     - The benefits and challenges of buying the freehold
     - Eligibility and process overview
     - Managing your property post-enfranchisement
-
 - Advocacy and Reform: Shaping the Future of Leasehold
   - Current Reform Initiatives
     - Overview of proposed leasehold reforms
@@ -83,7 +80,6 @@
     - Potential alternatives to leasehold
     - International comparisons and best practices
     - Preparing for a changing landscape
-
 - Conclusion: Empowered Leaseholders, Fairer Future
   - Recap of Key Strategies
     - Summary of main action points
@@ -93,6 +89,7 @@
     - Useful organisations and websites
     - Recommended reading and courses
     - Templates and checklists for common procedures
+
 
 # Introduction: Understanding the Leasehold Landscape
 

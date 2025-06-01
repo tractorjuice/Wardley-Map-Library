@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Game Changer: How Generative AI is Revolutionising the Future of Gaming
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Dawn of AI-Powered Gaming
   - The Evolution of Game Design
     - From Pong to Procedural Generation
@@ -13,7 +15,6 @@
     - Enhancing Player Experiences
     - Streamlining Development Processes
     - Creating New Genres and Gameplay Mechanics
-
 - Chapter 1: The Intersection of Generative AI and Game Design
   - Principles of AI-Driven Game Design
     - Balancing Creativity and Control
@@ -28,7 +29,6 @@
     - Automating Asset Creation
     - AI-Powered Level Design
     - Playtesting and Balancing with AI
-
 - Chapter 2: Adaptive Gameplay and Personalised Player Experiences
   - Dynamic Difficulty Adjustment
     - Player Skill Assessment
@@ -42,7 +42,6 @@
     - Predictive Analytics in Gaming
     - Emotion Recognition and Response
     - Personalised Recommendations and Rewards
-
 - Chapter 3: Ethical Considerations and Challenges
   - Data Privacy and Player Rights
     - Collecting and Using Player Data
@@ -60,7 +59,6 @@
     - AI and the Future of Game Development Jobs
     - Virtual Economies and AI
     - The Societal Impact of Hyper-Realistic AI Games
-
 - Chapter 4: Case Studies of Successful AI Implementation
   - AI in Open World Games
     - Case Study: No Man's Sky
@@ -78,7 +76,6 @@
     - Case Study: Replika
     - AI Companions and Chatbots
     - Personalisation in Casual Games
-
 - Chapter 5: Future Trends and Potential Disruptions
   - The Rise of AI Game Designers
     - Automated Game Creation
@@ -96,7 +93,6 @@
     - Quantum Computing and Game AI
     - Brain-Computer Interfaces in Gaming
     - AI and the Future of AR/VR Gaming
-
 - Conclusion: Embracing the AI-Powered Future of Gaming
   - Recapping the AI Revolution in Gaming
     - Key Takeaways
@@ -104,6 +100,12 @@
   - The Road Ahead
     - Challenges and Opportunities
     - The Role of Gamers, Developers, and Society
+- Appendix: Book Generation Details
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Dawn of AI-Powered Gaming
 

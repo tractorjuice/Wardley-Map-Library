@@ -1,5 +1,120 @@
 # Wardley Mapping: Mastering Strategy in a Dynamic World
 
+# Table of Contents
+
+- Wardley Mapping: Mastering Strategy in a Dynamic World
+  - Chapter 1: Foundations of Wardley Mapping
+    - 1.1 Introduction to Strategic Landscapes
+      - 1.1.1 The Need for Visual Strategy
+      - 1.1.2 Understanding the Business Landscape
+      - 1.1.3 What is Wardley Mapping?
+    - 1.2 Core Components of a Wardley Map
+      - 1.2.1 Users and Their Needs
+      - 1.2.2 Capabilities and Value Chains
+      - 1.2.3 Anchors and Positioning
+      - 1.2.4 Visual Representation and Conventions
+    - 1.3 The Evolution Axis: Genesis to Commodity
+      - 1.3.1 Understanding the Stages of Evolution
+      - 1.3.2 Genesis (Novel) Phase
+      - 1.3.3 Custom-Built Phase
+      - 1.3.4 Product/Rental Phase
+      - 1.3.5 Commodity/Utility Phase
+      - 1.3.6 Mapping Component Evolution
+    - 1.4 Building Your First Wardley Map: A Step-by-Step Guide
+      - 1.4.1 Identifying Users and Needs
+      - 1.4.2 Mapping the Value Chain
+      - 1.4.3 Positioning Components on the Evolution Axis
+      - 1.4.4 Reviewing and Refining the Map
+  - Chapter 2: Climatic Patterns, the Red Queen Effect, and Doctrine
+    - 2.1 Understanding Climatic Patterns
+      - 2.1.1 The Universal Applicability of Climatic Patterns
+      - 2.1.2 Examples of Common Climatic Patterns (e.g., Everything Evolves)
+      - 2.1.3 Past Success Leads to Inertia
+      - 2.1.4 Identifying and Responding to Climatic Forces
+    - 2.2 The Red Queen Effect in Competitive Dynamics
+      - 2.2.1 The Nature of the Red Queen Effect
+      - 2.2.2 How the Red Queen Effect Impacts Strategy
+      - 2.2.3 Strategies for Thriving in a Red Queen Environment
+      - 2.2.4 Examples of the Red Queen Effect in Different Industries
+    - 2.3 Doctrine: Universal Principles for Strategic Success
+      - 2.3.1 What is Doctrine?
+      - 2.3.2 Key Doctrines (e.g., Know Your Users, Focus on Data)
+      - 2.3.3 Applying Doctrine to Wardley Maps
+      - 2.3.4 The Importance of Situational Awareness
+    - 2.4 Inertia and its Impact on Evolution
+      - 2.4.1 Understanding Inertia
+      - 2.4.2 Factors that block or slow down evolution
+      - 2.4.3 Overcoming Inertia
+      - 2.4.4 Examples of Inertia in Organizations
+  - Chapter 3: Economic Gameplays and Strategic Actions
+    - 3.1 Introduction to Economic Gameplays
+      - 3.1.1 What are Economic Gameplays?
+      - 3.1.2 The Importance of Strategic Action
+      - 3.1.3 Aligning Gameplays with Wardley Maps
+    - 3.2 Exploiting Component Evolution
+      - 3.2.1 Identifying Opportunities in Different Evolutionary Stages
+      - 3.2.2 Strategies for Genesis Components
+      - 3.2.3 Strategies for Commodity Components
+      - 3.2.4 Managing the Transition Between Stages
+    - 3.3 Shaping the Landscape: Strategic Interventions
+      - 3.3.1 Understanding the Impact of Interventions
+      - 3.3.2 Examples of Strategic Interventions
+      - 3.3.3 Assessing the Risks and Rewards of Interventions
+      - 3.3.4 Ethical Considerations in Strategic Interventions
+    - 3.4 Value Chain Optimization
+      - 3.4.1 Analyzing Value Chain Efficiency
+      - 3.4.2 Identifying Bottlenecks and Inefficiencies
+      - 3.4.3 Strategies for Optimizing the Value Chain
+      - 3.4.4 The Role of Automation and Standardisation
+  - Chapter 4: Practical Applications and Case Studies
+    - 4.1 Wardley Mapping in Different Industries
+      - 4.1.1 Applying Wardley Mapping to Technology
+      - 4.1.2 Applying Wardley Mapping to Healthcare
+      - 4.1.3 Applying Wardley Mapping to Finance
+      - 4.1.4 Applying Wardley Mapping to Retail
+    - 4.2 Case Study 1: Disrupting a Traditional Market
+      - 4.2.1 Background and Context
+      - 4.2.2 The Wardley Map Analysis
+      - 4.2.3 Strategic Actions and Outcomes
+      - 4.2.4 Lessons Learned
+    - 4.3 Case Study 2: Navigating a Complex Ecosystem
+      - 4.3.1 Background and Context
+      - 4.3.2 The Wardley Map Analysis
+      - 4.3.3 Strategic Actions and Outcomes
+      - 4.3.4 Lessons Learned
+    - 4.4 Case Study 3: Responding to Market Disruption
+      - 4.4.1 Background and Context
+      - 4.4.2 The Wardley Map Analysis
+      - 4.4.3 Strategic Actions and Outcomes
+      - 4.4.4 Lessons Learned
+  - Chapter 5: Integrating Doctrine for Ethical and Sustainable Strategy
+    - 5.1 The Importance of Ethical Considerations
+      - 5.1.1 Why Ethics Matter in Strategy
+      - 5.1.2 The Consequences of Unethical Practices
+      - 5.1.3 Aligning Strategy with Values
+    - 5.2 Sustainable Strategy and Long-Term Value
+      - 5.2.1 The Principles of Sustainable Strategy
+      - 5.2.2 Balancing Short-Term and Long-Term Goals
+      - 5.2.3 Creating a Sustainable Competitive Advantage
+    - 5.3 Applying Doctrine to Ethical Decision-Making
+      - 5.3.1 Using Doctrine as a Moral Compass
+      - 5.3.2 Identifying Ethical Dilemmas
+      - 5.3.3 Making Responsible Choices
+    - 5.4 Building an Ethical and Sustainable Organisation
+      - 5.4.1 Creating a Culture of Ethics
+      - 5.4.2 Implementing Ethical Policies and Procedures
+      - 5.4.3 Measuring and Monitoring Ethical Performance
+  - Conclusion: The Future of Wardley Mapping
+    - 6.1 The Evolving Landscape of Strategy
+      - 6.1.1 Emerging Trends and Challenges
+      - 6.1.2 The Role of Wardley Mapping in the Future
+      - 6.1.3 Continuous Learning and Adaptation
+    - 6.2 Mastering Wardley Mapping: A Continuous Journey
+      - 6.2.1 Resources for Further Learning
+      - 6.2.2 Building a Community of Practice
+      - 6.2.3 The Power of Visual Strategy
+
+
 ## Chapter 1: Foundations of Wardley Mapping
 
 ### 1.1 Introduction to Strategic Landscapes

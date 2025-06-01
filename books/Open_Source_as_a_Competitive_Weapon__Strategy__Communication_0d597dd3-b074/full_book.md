@@ -1,5 +1,134 @@
 # Open Source as a Competitive Weapon: Strategy, Community and Business Insight
 
+# Table of Contents
+
+- Open Source as a Competitive Weapon: Strategy, Community and Business Insight
+  - Introduction: The Rise of Open Source as a Board‑Level Asset
+    - From Hobby to Strategy
+      - The evolution of open source in enterprise
+      - Why boards now care about open source
+      - Defining open source as a competitive weapon
+    - Key Themes and Structure of This Book
+      - Overview of strategic frameworks
+      - Community governance and health
+      - Business models and IP considerations
+      - Cross‑disciplinary insights and toolkits
+      - How to use the case studies and workshops
+  - Chapter 1: Strategic Frameworks and Cross‑Disciplinary Foundations
+    - Wardley Mapping for Open Source Advantage
+      - Core concepts of Wardley Mapping
+      - Mapping an open source ecosystem
+      - Identifying strategic plays and migrations
+    - Porter’s Five Forces Meets Lean Startup
+      - Adapting Porter’s model to communities
+      - Lean Startup principles in open source projects
+      - Integrating both frameworks for maximum insight
+    - Cross‑Disciplinary Lenses
+      - Economic public‑goods theory and commons management
+      - Organisational sociology of collaborative projects
+      - Network science: understanding ecosystem topology
+      - Behavioural psychology: motivating contributors
+  - Chapter 2: Building and Governing High‑Impact Communities
+    - Selecting and Evolving Governance Models
+      - Benevolent dictator vs foundation models
+      - Hybrid governance approaches
+      - Criteria for model selection
+    - Contributor Onboarding and Retention
+      - Crafting clear contribution pathways
+  - Sample CONTRIBUTING.md
+    - 1. Get the code
+    - 2. Choose an issue
+    - 3. Submit a pull request
+    - 4. Automated checks
+    - 5. Review and merge
+      - Mentorship and documentation best practices
+      - Incentives, recognition and long‑term engagement
+    - Measuring Community Health
+      - Key health metrics and indicators
+      - Building and using community dashboards
+- Sample dashboard configuration
+      - Continuous iteration based on data
+    - Conflict Resolution and Cultural Stewardship
+      - Common conflict scenarios
+      - Frameworks for mediation and resolution
+- Sample RACI escalation snippet
+      - Maintaining a positive community culture
+  - Chapter 3: Business Models, Monetisation and IP Management
+    - Open Core and Dual Licensing Strategies
+      - Designing an open core offering
+      - Mechanics and economics of dual licensing
+      - Risks, rewards and case comparisons
+    - Support, Services and Platform Plays
+      - Consulting, training and support models
+      - SaaS and hosted platform strategies
+      - Upsell and integration pathways
+- Sample integration module definition
+    - Navigating Licence Compliance and Patents
+      - Open source licence landscape
+      - Compliance tools and processes
+- Example GitLab CI job for licence scanning
+      - Defensive publishing and patent strategies
+    - Contributor Agreements and Legal Frameworks
+      - Contributor licence agreements (CLAs) vs developer certificate of origin (DCO)
+      - Best practices in legal onboarding
+      - Managing risk and liability
+  - Chapter 4: Case Studies in Strategic Open Source
+    - Elastic: Pivoting with Open Core
+      - Origins and business shift
+      - Community reactions and market impact
+      - Key strategic takeaways
+    - MongoDB’s Licensing Transformation
+      - From GPL to SSPL
+      - Competitive responses and ecosystem effects
+      - Lessons for licence strategy
+    - AWS’s Strategic Open Source Moves
+      - Contributions to key projects
+- Sample tracking of AWS open source contributions
+      - Balancing competition and collaboration
+      - Analysing ecosystem influence
+    - Synthesising Lessons Learned
+      - Cross‑case patterns
+      - Common pitfalls and success factors
+      - Translating insights to your context
+  - Chapter 5: Practical Toolkits and Workshops
+    - Wardley Mapping Workshop
+      - Workshop materials and setup
+      - Step‑by‑step mapping exercises
+      - Interpreting and actioning your map
+    - Community Health Dashboard Templates
+      - Selecting metrics and KPIs
+- Sample KPI configuration for community dashboard
+      - Dashboard design patterns
+      - Customisation examples
+    - Open Source ROI Calculators
+      - Building a financial model
+      - Input data and assumptions
+      - Interpreting ROI scenarios
+    - Governance Assessment Toolkit
+      - Self‑assessment questionnaires
+      - Decision matrices for governance evolution
+      - Implementation planning
+  - Conclusion: Embedding Open Source as a Sustained Competitive Weapon
+    - Roadmap for Board‑Level Adoption
+      - Phased implementation plan
+      - Key milestones and metrics
+      - Cross‑functional alignment
+    - Building Organisational Buy‑In
+      - Crafting the executive narrative
+- Strategic Context
+- Open Source Opportunity
+- Evidence
+- Proposed Actions
+- Expected Outcomes
+      - Stakeholder engagement strategies
+      - Measuring and celebrating wins
+- Sample announcement in team channel
+    - Sustaining Momentum and Future Trends
+      - Continuous improvement loops
+      - Emerging open source trends (AI, edge, standards)
+      - Preparing for the next wave of disruption
+
+
 ## Introduction: The Rise of Open Source as a Board‑Level Asset
 
 ### From Hobby to Strategy

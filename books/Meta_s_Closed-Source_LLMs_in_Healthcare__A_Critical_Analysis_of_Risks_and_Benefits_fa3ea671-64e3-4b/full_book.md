@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Healthcare AI Revolution
   - The Evolution of AI in Healthcare
     - Historical Context and Development
@@ -13,7 +15,6 @@
     - Technical Foundations
     - Proprietary vs Open-Source Models
     - Meta's LLM Architecture
-
 - Risk Assessment and Security Framework
   - Security Considerations
     - Data Protection Protocols
@@ -27,7 +28,6 @@
     - Patient Safety Protocols
     - Clinical Validation Methods
     - Error Management Systems
-
 - Implementation Strategy and Integration
   - Technical Integration
     - Infrastructure Requirements
@@ -41,7 +41,6 @@
     - Implementation Costs
     - ROI Calculations
     - Long-term Value Assessment
-
 - Ethical Considerations and Decision Framework
   - Ethical Decision Matrix
     - Stakeholder Impact Analysis
@@ -51,7 +50,6 @@
     - Current Regulations
     - Future Regulatory Trends
     - Compliance Strategies
-
 - Future-Proofing and Adaptation
   - Technology Evolution
     - Emerging AI Trends
@@ -61,6 +59,14 @@
     - Success Stories
     - Implementation Challenges
     - Lessons Learned
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialised Applications
+
 
 # Introduction: The Healthcare AI Revolution
 

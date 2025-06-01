@@ -1,5 +1,68 @@
 # Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems
 
+# Table of Contents
+
+- Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems
+  - Introduction to Wardley Mapping and Its Strategic Applications
+    - Understanding Wardley Mapping
+      - Origins and Evolution of Wardley Mapping
+      - Core Principles and Components
+      - Strategic Applications in Business and Technology
+    - The Need for Mathematical Modelling
+      - Limitations of Traditional Wardley Mapping
+      - Benefits of Integrating Mathematical Models
+      - Overview of the Combined Approach
+  - Mathematical Foundations for Modelling Complex Systems
+    - Key Mathematical Concepts
+      - Graph Theory and Network Analysis
+      - Dynamical Systems and Chaos Theory
+      - Probability and Statistical Models
+    - Mathematical Tools for System Modelling
+      - Linear Algebra and Matrix Operations
+      - Optimisation Techniques
+      - Simulation and Monte Carlo Methods
+  - Step-by-Step Methodology for Integrating Math Models into Wardley Maps
+    - Preparing Your Wardley Map
+      - Identifying Key Components and Dependencies
+      - Defining System Boundaries and Variables
+      - Data Collection and Validation
+    - Building the Mathematical Model
+      - Choosing the Right Mathematical Framework
+      - Mapping Components to Mathematical Constructs
+      - Calibrating and Validating the Model
+    - Integrating and Visualising Results
+      - Overlaying Mathematical Insights onto Wardley Maps
+      - Interpreting Results for Strategic Decision-Making
+      - Iterative Refinement and Continuous Improvement
+  - Real-World Case Studies Across Industries
+    - Technology Sector
+      - Case Study: Cloud Infrastructure Optimisation
+      - Case Study: Software Development Lifecycle
+    - Healthcare Sector
+      - Case Study: Hospital Resource Allocation
+      - Case Study: Pharmaceutical Supply Chain
+    - Finance Sector
+      - Case Study: Risk Management in Banking
+      - Case Study: Portfolio Optimisation
+  - Tools and Software for Implementing the Combined Approach
+    - Overview of Available Tools
+      - Wardley Mapping Tools (e.g., Online Wardley Maps)
+      - Mathematical Modelling Software (e.g., MATLAB, Python Libraries)
+      - Integrated Platforms for Combined Analysis
+    - Practical Implementation Guide
+      - Setting Up Your Environment
+      - Step-by-Step Tutorials for Key Tools
+      - Best Practices for Tool Integration
+  - Conclusion and Future Directions
+    - Recap of Key Insights
+      - Summary of the Combined Approach
+      - Lessons Learned from Case Studies
+    - Future Trends and Opportunities
+      - Emerging Technologies and Their Impact
+      - Potential for Cross-Disciplinary Applications
+      - Call to Action for Practitioners and Researchers
+
+
 ## Introduction to Wardley Mapping and Its Strategic Applications
 
 ### Understanding Wardley Mapping

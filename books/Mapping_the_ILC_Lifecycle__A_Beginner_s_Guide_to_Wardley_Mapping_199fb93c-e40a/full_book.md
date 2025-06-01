@@ -1,5 +1,85 @@
 # Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping
 
+# Table of Contents
+
+- Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping
+  - Foundations of Wardley Mapping and the ILC Lifecycle
+    - Introduction to Wardley Mapping
+      - What is Wardley Mapping?
+      - The Value‑Chain Y‑Axis
+      - The Evolution X‑Axis
+    - Building Your First Map
+      - Identifying Users and Needs
+      - Linking Components in the Value Chain
+      - Determining Evolution Stages
+    - Overview of the ILC Model
+      - Innovate‑Leverage‑Commoditise Explained
+    - Innovate Stage
+    - Leverage Stage
+    - Commoditise Stage
+    - Key Benefits of the ILC Approach
+      - How ILC Aligns with Wardley Maps
+      - Key Benefits of the ILC Approach
+  - Innovate Phase: Spotting and Mapping Emerging Innovations
+    - Genesis and Custom‑Built Components
+      - Characteristics of Genesis Stage
+      - Characteristics of Custom‑Built Stage
+    - Sensing Early‑Stage Innovation
+      - User‑Driven Experimentation
+      - Ecosystem Listening Techniques
+    - Mapping Techniques for the Innovate Phase
+      - Collaborative Workshops
+      - Using Templates and Digital Tools
+    - Tech Startup Case Study
+      - Scenario and Map Walk‑Through
+      - Lessons Learned
+  - Leverage Phase: Monitoring, Refining and Identifying Patterns
+    - Tracking Customer‑Driven Solutions
+      - Data Collection Methods
+      - Success Metrics and Indicators
+    - Maintaining and Updating Maps
+      - Versioning and Annotation
+      - Spotting Emerging Trends
+    - Identifying Repeatable Patterns
+      - Standardisation vs. Customisation
+      - Transitioning to Product Form
+    - Integrating Agile, Lean and Design Thinking
+      - Lean Startup for Hypothesis Testing
+      - Agile Iterations for Map Refinement
+      - Design Thinking for User Focus
+  - Commoditise Phase: Industrialising and Scaling Solutions
+    - Recognising Commodity Readiness
+      - Maturity Indicators
+      - Assessing Market Demand
+    - Best Practices for Commoditisation
+      - Automating and Standardising
+      - Building Platform Services
+    - Risk, Governance and Cost Optimisation
+      - Security and Compliance
+      - Operational Cost Controls
+    - Healthcare Sector Case Study
+      - Mapping Healthcare Services
+      - Outcomes and Impact
+  - Cross‑Industry Case Studies, Tools and Next Steps
+    - Technology Industry Example
+      - Mapping a SaaS Platform
+      - Key Takeaways
+    - Public Sector Transformation
+      - Unique Challenges
+      - Government Service Evolution
+    - Tools, Templates and Frameworks
+      - Open‑Source and Commercial Tools
+      - Customisable Map Templates
+    - Integrating ILC with Other Methodologies
+      - Combining ILC and Agile
+      - ILC in Lean Startup
+      - ILC for Design Thinking
+    - Looking Ahead: Next Steps and Conclusion
+      - Building Your ILC Practice
+      - Community and Further Learning
+      - Final Reflections
+
+
 ## Foundations of Wardley Mapping and the ILC Lifecycle
 
 ### Introduction to Wardley Mapping

@@ -1,5 +1,69 @@
 # Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence
 
+# Table of Contents
+
+- Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence
+  - Introduction to Jevons and GenAI
+    - Understanding Jevons' Economic Theories
+      - The Principle of Utility
+      - Resource Efficiency and Its Modern Implications
+      - Jevons Paradox in the Context of Technology
+    - The Rise of Generative AI
+      - Defining Generative AI
+      - Historical Development of AI Technologies
+      - Current Trends and Future Directions
+  - Historical Context: Jevons' Contributions and Their Relevance
+    - Jevons' Impact on Economic Thought
+      - Key Theories and Publications
+      - Influence on Modern Economics
+      - Comparative Analysis with Other Economists
+    - Connecting Jevons to Modern Technology
+      - The Evolution of Economic Models
+      - Technological Advancements and Economic Theories
+      - Lessons from Jevons for Today's Economy
+  - Economic Implications of GenAI
+    - Productivity and Economic Growth
+      - Generative AI as a Productivity Booster
+      - Economic Growth through Innovation
+      - Jevons' Theories Applied to AI Productivity
+    - Labor Market Dynamics
+      - Impact on Employment and Job Creation
+      - Skills and Training for the Future Workforce
+      - Jevons' Insights on Labor and Technology
+  - Ethical Considerations in AI Development
+    - Moral Implications of AI
+      - Resource Efficiency and Sustainability
+      - Ethical AI: Balancing Innovation and Responsibility
+      - Jevons' Perspective on Resource Allocation
+    - Regulatory and Policy Frameworks
+      - Current Regulations and Their Effectiveness
+      - Proposed Policies for Ethical AI Development
+      - Lessons from Economic History
+  - Practical Frameworks for GenAI Development
+    - Strategic Methodologies
+      - Introduction to Wardley Mapping
+      - Visualising the Strategic Landscape of GenAI
+      - Case Studies of Successful Implementation
+    - Integrating Jevons' Principles into Business Models
+      - Frameworks for Resource Efficiency
+      - Innovative Business Strategies Inspired by Jevons
+      - Real-World Applications and Success Stories
+  - Case Studies: Jevons' Principles in Action
+    - Successful Integrations of GenAI
+      - Case Study 1: Company A's Approach
+      - Case Study 2: Company B's Transformation
+      - Lessons Learned from Industry Leaders
+    - Evaluating Outcomes
+      - Measuring Success: Metrics and KPIs
+      - Long-Term Impacts on Business and Economy
+      - Future Trends and Predictions
+  - Conclusion: The Future of Jevons and GenAI
+    - Synthesis of Key Insights
+      - Recap of Jevons' Relevance in the AI Era
+      - The Path Forward for Economists and Technologists
+      - Final Thoughts on Innovation and Ethics
+
+
 ## Introduction to Jevons and GenAI
 
 ### Understanding Jevons' Economic Theories

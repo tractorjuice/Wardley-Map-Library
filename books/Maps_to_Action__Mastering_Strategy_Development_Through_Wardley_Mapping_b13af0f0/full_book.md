@@ -1,5 +1,71 @@
 # Maps to Action: Mastering Strategy Development Through Wardley Mapping
 
+# Table of Contents
+
+- Maps to Action: Mastering Strategy Development Through Wardley Mapping
+  - Introduction: The Power of Strategic Mapping
+    - Understanding the Strategic Landscape
+      - The Evolution of Strategic Planning
+      - Why Traditional Methods Fall Short
+      - Introduction to Wardley Mapping
+      - The Promise of Visual Strategy
+  - Chapter 1: Foundations of Wardley Mapping
+    - Core Components and Principles
+      - Value Chain Basics
+      - Evolution Axis Explained
+      - Component Positioning
+      - Movement and Dependencies
+    - Map Construction Fundamentals
+      - Identifying User Needs
+      - Mapping Components
+      - Understanding Evolution
+      - Validating Your Map
+  - Chapter 2: From Analysis to Strategy
+    - Strategic Landscape Assessment
+      - Competitive Position Analysis
+      - Market Evolution Patterns
+      - Digital Transformation Opportunities
+      - Identifying Strategic Leverage Points
+    - Decision Framework Development
+      - Creating Decision Matrices
+      - Prioritisation Methods
+      - Risk Assessment Tools
+      - Timeline Development
+  - Chapter 3: Implementation and Execution
+    - Action Planning
+      - Converting Maps to Action Plans
+      - Resource Allocation
+      - Milestone Setting
+      - Progress Tracking Methods
+    - Change Management Integration
+      - Stakeholder Engagement
+      - Communication Strategies
+      - Resistance Management
+      - Cultural Adaptation
+  - Chapter 4: Cross-Industry Applications
+    - Sector-Specific Case Studies
+      - Technology Sector Examples
+      - Healthcare Applications
+      - Financial Services Cases
+      - Manufacturing Implementations
+    - Common Patterns and Lessons
+      - Cross-Industry Insights
+      - Adaptation Strategies
+      - Success Factors
+      - Common Pitfalls
+  - Chapter 5: Future-State Planning
+    - Scenario Development
+      - Future State Mapping
+      - Technology Evolution Prediction
+      - Market Shift Analysis
+      - Opportunity Identification
+    - Strategic Adaptation
+      - Flexibility in Planning
+      - Response Mechanisms
+      - Innovation Integration
+      - Continuous Evolution
+
+
 ## Introduction: The Power of Strategic Mapping
 
 ### Understanding the Strategic Landscape

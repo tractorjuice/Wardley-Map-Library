@@ -1,5 +1,68 @@
 # DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power
 
+# Table of Contents
+
+- DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power
+  - Introduction: The DeepSeek Moment and the AI Landscape
+    - Defining the 'DeepSeek Bombshell': What It Means and Why It Matters
+    - Setting the Stage: The Current State of AI Development Globally
+  - China's Open-Source AI Strategy: Motivations and Implementation
+    - The Strategic Rationale: Why Open Source?
+    - DeepSeek and Beyond: Key Players and Initiatives
+    - Implementation Challenges and Opportunities
+  - West vs. East: A Comparative Analysis of AI Development Models
+    - The Western Approach: Proprietary Models and Concentrated Wealth
+    - China's Open-Source Model: Democratisation and Collaboration
+    - Strategic Gameplay: Wardley Mapping and Game Theory Perspectives
+      - Mapping the AI Landscape: Identifying Key Components and Dependencies
+      - Strategic Advantage: Open Source vs. Proprietary in Different Contexts
+      - Game Theory: Analysing the Interactions Between Players
+      - Evolving Strategies: Adapting to a Dynamic Environment
+  - Case Studies: Practical Applications of China's Open-Source AI
+    - AI in Manufacturing: Optimising Production and Efficiency
+      - Smart Factories: Automating Processes and Improving Quality
+      - Predictive Maintenance: Reducing Downtime and Costs
+      - Supply Chain Management: Enhancing Visibility and Resilience
+      - Case Study: A Chinese Manufacturing Company Leveraging DeepSeek
+    - AI in Healthcare: Improving Diagnosis and Treatment
+      - Medical Imaging: Detecting Diseases Earlier and More Accurately
+      - Drug Discovery: Accelerating the Development of New Therapies
+      - Personalised Medicine: Tailoring Treatments to Individual Patients
+      - Case Study: A Chinese Hospital Using Open-Source AI for Cancer Detection
+    - AI in Smart Cities: Enhancing Urban Living
+      - Traffic Management: Reducing Congestion and Improving Safety
+      - Public Safety: Preventing Crime and Responding to Emergencies
+      - Environmental Monitoring: Protecting Air and Water Quality
+      - Case Study: A Chinese City Implementing Open-Source AI for Smart Governance
+  - The Future of Global Power: AI, Division, and Collaboration
+    - Geopolitical Implications: A Shifting Balance of Power
+      - Economic Dominance: Who Will Control the AI Economy?
+      - Technological Leadership: The Race for AI Supremacy
+      - Military Applications: The AI Arms Race
+      - The Risk of Fragmentation: A Divided World?
+    - The Potential for Collaboration: A Shared Future?
+      - Open Standards: Promoting Interoperability and Compatibility
+      - Data Sharing: Facilitating Cross-Border Collaboration
+      - Ethical Frameworks: Establishing Common Principles for AI Development
+      - Global Governance: Addressing the Challenges of AI Regulation
+    - Navigating the DeepSeek Disruption: A Call to Action
+      - For Policymakers: Fostering Innovation and Ensuring Fairness
+      - For Businesses: Embracing Open Source and Adapting to Change
+      - For Researchers: Advancing the Frontiers of AI Knowledge
+      - For Individuals: Understanding the Impact of AI on Our Lives
+  - Conclusion: The AI Revolution and the Choice Before Us
+    - Reflecting on the DeepSeek Bombshell: Lessons Learned
+      - The Power of Open Source: A Catalyst for Innovation
+      - The Importance of Strategic Thinking: Navigating a Complex Landscape
+      - The Need for Ethical Considerations: Ensuring Responsible AI Development
+      - The Urgency of Global Collaboration: Building a Shared Future
+    - Looking Ahead: The Future of AI and Global Power
+      - Emerging Trends: What to Expect in the Coming Years
+      - Key Challenges: Addressing the Risks and Uncertainties
+      - Opportunities for Growth: Harnessing the Potential of AI
+      - A Vision for the Future: A World Transformed by AI
+
+
 ## Introduction: The DeepSeek Moment and the AI Landscape
 
 ### Defining the 'DeepSeek Bombshell': What It Means and Why It Matters

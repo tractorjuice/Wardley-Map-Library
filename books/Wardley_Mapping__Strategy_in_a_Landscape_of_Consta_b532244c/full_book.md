@@ -1,5 +1,268 @@
 # Wardley Mapping: Strategy in a Landscape of Constant Change
 
+# Table of Contents
+
+- Wardley Mapping: Strategy in a Landscape of Constant Change
+  - Introduction: Navigating Uncertainty with Wardley Maps
+    - The Strategic Void: Why Traditional Methods Fail
+      - The limitations of SWOT, Porter's Five Forces, and other frameworks
+      - The illusion of control and the danger of 'best practices'
+      - The need for situational awareness in a dynamic environment
+    - Introducing Wardley Mapping: A Visual Language for Strategy
+      - The core components: Value chain, anchor, and evolution
+      - Understanding position and movement: The key to strategic advantage
+      - How Wardley Mapping addresses the limitations of traditional methods
+    - The Five Factors: Purpose, Landscape, Climate, Doctrine, and Leadership
+      - Sun Tzu's influence on Wardley Mapping
+      - Defining each factor and its importance in strategic thinking
+      - The Strategy Cycle: An iterative approach to decision-making
+    - Who Should Read This Book?
+      - Business Leaders and Executives
+      - Strategists and Consultants
+      - Product Managers and Engineers
+      - Anyone seeking a competitive edge in a rapidly changing world
+  - Core Concepts: Building Your First Wardley Map
+    - Identifying User Needs: The Anchor of Your Map
+      - Defining scope and boundaries: What are you mapping?
+      - Eliciting user needs: Beyond wants to uncover true needs
+      - User journey mapping: Visualising the customer experience
+      - Distinguishing between user needs and business needs
+    - Constructing the Value Chain: Mapping Dependencies
+      - Identifying components: Activities, practices, data, and knowledge
+      - Visualising dependencies: What needs what?
+      - The importance of context: Tailoring the map to the specific situation
+      - Practical exercise: Building a value chain for a sample business
+    - Evolutionary Stages: From Genesis to Commodity
+      - Understanding the characteristics of each stage: Genesis, Custom-Built, Product, Commodity
+      - The cheat sheet: A quick reference for evolutionary stages
+      - Mapping components to their appropriate stage
+      - Challenging assumptions: Why group mapping is crucial
+      - Practical exercise: Placing components on the evolution axis
+    - Visualising the Map: Best Practices and Conventions
+      - Choosing the right tools: Whiteboards, software, and online platforms
+      - Using standard symbols and notations for clarity
+      - Communicating the map effectively to different audiences
+      - Common pitfalls to avoid when creating Wardley Maps
+  - Climatic Patterns: Anticipating Change and Economic Forces
+    - Understanding Climatic Patterns: The Rules of the Game
+      - Defining climatic patterns: Forces that shape the landscape
+      - Distinguishing between climatic patterns and gameplay
+      - The Van Valen's Red Queen Hypothesis: Adapting to survive
+      - The Jevons Paradox: Efficiency enabling increased consumption
+    - Key Climatic Patterns and Their Implications
+      - Everything Evolves: The relentless march from genesis to commodity
+      - Characteristics Change: How components transform over time
+      - No One Size Fits All: Tailoring methods to evolutionary stages
+      - Efficiency Enables Innovation: Componentisation and higher-order systems
+      - Higher Order Systems Create New Sources of Worth: Commodification and economic value
+      - Past Success Breeds Inertia: The challenges of adapting to change
+      - Coevolution: The interplay between components and practices
+      - Punctuated Equilibrium: Periods of rapid change and disruption
+      - Peace, War, and Wonder: The cyclical nature of economic competition
+    - Predictability and Weak Signals: Charting the Future
+      - Not all parts of the map are equally predictable
+      - Conditions, signals, and climatic patterns: A combined approach
+      - Using weak signals to anticipate change
+      - The limits of predictability: Embracing uncertainty
+      - Categorising Predictability: Known, Knowable, and Unknown
+    - Exercise: Applying Climatic Patterns to Your Map
+      - Identifying potential disruptions and opportunities
+      - Developing scenarios based on different climatic patterns
+      - Assessing the impact of change on your organisation
+      - Refining your map based on your findings
+  - Doctrine: Universal Principles for Effective Decision-Making
+    - Defining Doctrine: Universal Principles for Success
+      - Distinguishing doctrine from context-specific gameplay
+      - The importance of universal principles in a dynamic environment
+      - How doctrine provides a foundation for strategic decision-making
+    - Key Doctrine Principles and Their Application
+      - Focus on User Need: The foundation of value creation
+      - Use a Common Language: Maps as a communication tool
+      - Be Transparent: Sharing knowledge and challenging assumptions
+      - Challenge Assumptions: Questioning the status quo
+      - Remove Duplication and Bias: Streamlining operations
+      - Use Appropriate Methods: Tailoring approaches to evolutionary stages
+      - Think Small: Cell-based structures and autonomous teams
+      - Think Aptitude and Attitude: Matching skills to roles (PST)
+      - Design for Constant Evolution: Building adaptive organisations
+      - Be Humble: Recognising the limits of knowledge and embracing learning
+    - Organisational Structures: Pioneers, Settlers, and Town Planners
+      - Understanding the characteristics of each role
+      - Creating a balanced organisation with diverse skill sets
+      - Managing conflict and fostering collaboration between different roles
+      - The importance of leadership in guiding the organisation through change
+    - Implementing Doctrine: Practical Steps and Considerations
+      - Creating a culture of transparency and challenge
+      - Developing a common language for strategic thinking
+      - Empowering employees to make informed decisions
+      - Measuring the impact of doctrine on organisational performance
+    - Exercise: Applying Doctrine to Your Map
+      - Identifying areas where doctrine can improve decision-making
+      - Developing action plans to implement key principles
+  - Gameplay: Strategic Maneuvering in a Competitive Landscape
+    - Understanding Gameplay: Context-Specific Actions
+      - Defining gameplay: Actions to gain competitive advantage
+      - Distinguishing gameplay from doctrine and climatic patterns
+      - The importance of context: Tailoring actions to the specific situation
+    - Key Gameplay Strategies and Their Application
+      - Accelerators, Decelerators, and Constraints: Influencing the pace of evolution
+      - Innovate, Leverage, and Commoditise (ILC): A strategic framework for value creation
+      - Ecosystem Building: Fostering collaboration and innovation
+      - Open Source Strategies: Leveraging community development
+      - Defensive Plays: Protecting market position and mitigating threats
+      - Attacking Plays: Disrupting competitors and seizing opportunities
+      - Positional Plays: Securing strategic advantages in the landscape
+      - Poison Mechanisms: Preventing competitors from exploiting opportunities
+    - Ecosystem Models: Building and Managing Networks of Value
+      - Understanding different types of ecosystems
+      - Creating a thriving ecosystem around your product or service
+      - Managing relationships with partners and competitors
+      - Measuring the success of your ecosystem
+    - Ethical Considerations: Playing the Game Responsibly
+      - The importance of transparency and fairness
+      - Avoiding manipulative or deceptive practices
+      - Building trust with customers and partners
+      - Creating a sustainable and ethical business model
+    - Exercise: Developing a Gameplay Strategy for Your Map
+      - Identifying potential opportunities and threats
+      - Developing specific actions to exploit opportunities and mitigate threats
+      - Assessing the risks and rewards of different gameplay strategies
+  - Case Studies: Wardley Mapping in Action
+    - Case Study 1: Disrupting a Traditional Industry
+      - Mapping the landscape of the industry
+      - Identifying opportunities for disruption
+      - Developing a gameplay strategy to challenge incumbents
+      - Measuring the impact of the disruption
+    - Case Study 2: Building a Successful Ecosystem
+      - Mapping the value chain of the ecosystem
+      - Identifying key partners and stakeholders
+      - Developing a strategy to foster collaboration and innovation
+      - Measuring the success of the ecosystem
+    - Case Study 3: Navigating a Complex Regulatory Environment
+      - Mapping the regulatory landscape
+      - Identifying potential risks and opportunities
+      - Developing a strategy to comply with regulations and gain a competitive advantage
+      - Measuring the impact of regulations on organisational performance
+    - Key Takeaways from the Case Studies
+      - The importance of situational awareness
+      - The power of strategic thinking
+      - The value of collaboration and innovation
+      - The need for ethical and responsible business practices
+  - Advanced Techniques: Taking Your Mapping Skills to the Next Level
+    - Super Looper: Quantifying Uncertainty and Risk
+      - Getting messy with numbers: Assigning probabilities to different outcomes
+      - Managing inertia: Overcoming resistance to change
+      - Getting primitive: Identifying key assumptions and dependencies
+      - Looping around and common problems: Refining your analysis
+    - The Three Horizons: Planning for the Future
+      - Understanding the three horizons framework
+      - Mapping your organisation's activities across the three horizons
+      - Identifying opportunities for growth and innovation
+      - Balancing short-term and long-term goals
+    - Bias and Cognitive Traps: Avoiding Common Pitfalls
+      - Identifying common cognitive biases
+      - Developing strategies to mitigate the impact of bias
+      - Creating a culture of critical thinking and self-reflection
+    - Combining Wardley Mapping with Other Strategic Tools
+      - Integrating Wardley Mapping with Lean Startup principles
+      - Using Wardley Mapping to inform Agile development practices
+      - Combining Wardley Mapping with other strategic frameworks
+  - The Anti-Pattern Organisation: A Cautionary Tale
+    - Characteristics of the Anti-Pattern Organisation
+      - Failing to focus on user needs
+      - Failing to use a common language
+      - Failing to be transparent
+      - Failing to challenge assumptions
+      - Failing to remove duplication and bias
+      - Failing to use appropriate methods
+      - Failing to think small
+      - Failing to think aptitude and attitude
+      - Failing to design for constant evolution
+      - Failing to enable purpose, mastery, and autonomy
+      - Failing to understand basic economic patterns
+      - Failing to understand context-specific play
+      - Failing to understand the landscape
+      - Failing to understand strategy
+    - The Consequences of Corporate Blindness
+      - Loss of competitive advantage
+      - Inability to adapt to change
+      - Waste of resources and missed opportunities
+      - Organisational dysfunction and low morale
+    - Avoiding the Anti-Pattern: A Call to Action
+      - Embracing situational awareness and strategic thinking
+      - Building a culture of learning and adaptation
+      - Empowering employees to challenge the status quo
+      - Creating a sustainable and ethical business model
+  - The Hypothetical Gun Company: A Practical Application
+    - Setting the Scene: The Hypothetical Gun Company
+      - Introducing the company and its challenges
+      - Defining the scope and boundaries of the analysis
+      - Identifying key stakeholders and their needs
+    - Mapping the Landscape: The Gun Company's Value Chain
+      - Identifying key components and dependencies
+      - Mapping components to their appropriate evolutionary stage
+      - Visualising the flow of capital and information
+    - Applying Climatic Patterns: Anticipating Future Changes
+      - Identifying potential disruptions and opportunities
+      - Developing scenarios based on different climatic patterns
+      - Assessing the impact of change on the Gun Company
+    - Developing a Strategic Response: Gameplay and Doctrine
+      - Identifying potential gameplay strategies
+      - Applying doctrine to guide decision-making
+      - Developing a plan to adapt to the changing landscape
+    - The Outcome: Success or Failure?
+      - Analysing the results of the Gun Company's strategy
+      - Identifying key lessons learned
+      - Applying these lessons to other industries and organisations
+  - The Scenario: A Hands-On Exercise in Strategic Thinking
+    - The Company: Phoenix Facilities Management
+      - Understanding the company's history, mission, and values
+      - Identifying key stakeholders and their needs
+      - Assessing the company's current strengths and weaknesses
+    - The Product: Phoenix Energy Efficiency Software
+      - Understanding the product's features and benefits
+      - Identifying the product's key components and dependencies
+      - Assessing the product's competitive position in the market
+    - The Challenge: A Changing Market Landscape
+      - Identifying potential disruptions and opportunities
+      - Assessing the threat from the US competitor
+      - Understanding the impact of new technologies and regulations
+    - Your Task: Develop a Strategic Plan
+      - Prioritising key actions and initiatives
+      - Developing a plan to adapt to the changing landscape
+      - Communicating your plan to the executive board
+  - To Thine Own Self Be True: Reviewing the Scenario
+    - Mapping the Scenario: A Visual Analysis
+      - Constructing a Wardley Map of Phoenix Facilities Management
+      - Identifying key components and dependencies
+      - Mapping components to their appropriate evolutionary stage
+    - Examining Doctrine: Assessing the Company's Principles
+      - Identifying strengths and weaknesses in the company's values
+      - Applying key doctrine principles to guide decision-making
+      - Identifying potential areas for improvement
+    - Applying Gameplay: Strategic Options and Trade-offs
+      - Identifying potential opportunities and threats
+      - Developing specific actions to exploit opportunities and mitigate threats
+      - Assessing the risks and rewards of different gameplay strategies
+    - Making a Recommendation: A Strategic Path Forward
+      - Presenting a clear and concise recommendation to the executive board
+      - Justifying your recommendation with data and analysis
+      - Addressing potential concerns and objections
+  - Conclusion: The Journey of Strategic Mastery
+    - The Importance of Continuous Learning and Adaptation
+      - Embracing uncertainty and experimentation
+      - Developing a growth mindset
+      - Seeking feedback and challenging assumptions
+    - The Power of Visualisation and Collaboration
+      - Using Wardley Mapping to communicate complex ideas
+      - Fostering collaboration and shared understanding
+      - Building a culture of strategic thinking
+    - The Future of Strategy: A Call to Action
+      - Embracing new tools and techniques
+      - Challenging traditional assumptions
+      - Creating a more sustainable and ethical business world
+
+
 ## Introduction: Navigating Uncertainty with Wardley Maps
 
 ### The Strategic Void: Why Traditional Methods Fail

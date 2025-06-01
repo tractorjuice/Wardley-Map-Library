@@ -1,5 +1,70 @@
 # Reversible Revolution: Can Reversible Computing Cool Down Our Planet?
 
+# Table of Contents
+
+- Reversible Revolution: Can Reversible Computing Cool Down Our Planet?
+  - Understanding the Energy Crisis in Computing
+    - The Relentless Rise of Energy Consumption
+      - Moore's Law and Its Environmental Shadow
+      - Quantifying Energy Use in Data Centres
+      - The Carbon Footprint of Modern Algorithms
+      - Projected Growth and Future Implications
+    - Landau's Principle: The Thermodynamic Limit
+      - Information Erasure and Energy Dissipation
+      - The Theoretical Minimum Energy for Computation
+      - Implications for Current Computing Paradigms
+      - Beyond von Neumann Architectures
+  - Reversible Computing: A Path to Energy Efficiency
+    - Fundamentals of Reversible Computation
+      - Feynman's Vision and Reversible Logic Gates
+      - Conservative Logic and Information Preservation
+      - The Role of Quantum Mechanics
+      - Thermodynamic Reversibility vs. Logical Reversibility
+    - Adiabatic Computing: Approaching Reversibility in Practice
+      - Charge Recovery and Energy Recycling
+      - Clocked Adiabatic Logic Families
+      - Challenges in Implementing Adiabatic Circuits
+      - Performance Metrics and Efficiency Gains
+    - Reversible Architectures and Algorithms
+      - Reversible Instruction Set Architectures (RISAs)
+      - Designing Reversible Algorithms
+      - Compiler Optimizations for Reversible Code
+      - Simulation and Verification Techniques
+  - Real-World Applications and Impact
+    - Case Studies: Where Reversibility Makes a Difference
+      - High-Performance Computing (HPC) and Scientific Simulations
+      - Embedded Systems and Low-Power Devices
+      - Cryptography and Secure Computing
+      - Artificial Intelligence and Machine Learning
+    - Quantifying the Environmental Benefits
+      - Reduced Energy Consumption and Carbon Emissions
+      - Lower Cooling Costs and Infrastructure Requirements
+      - Extended Battery Life for Mobile Devices
+      - Sustainable Computing Practices
+  - Challenges and the Future of Reversible Computing
+    - Technological Hurdles and Limitations
+      - Complexity of Design and Verification
+      - Scalability and Integration with Existing Systems
+      - Material Science and Fabrication Challenges
+      - Error Rates and Reliability
+    - Economic and Adoption Barriers
+      - Initial Investment Costs and Return on Investment
+      - Lack of Standardisation and Tooling
+      - Industry Acceptance and Market Demand
+      - The Need for Interdisciplinary Collaboration
+    - The Road Ahead: Research Directions and Future Prospects
+      - Novel Materials and Devices for Reversible Computing
+      - Quantum Computing and Reversibility
+      - Developing User-Friendly Tools and Frameworks
+      - Policy and Regulatory Considerations
+  - Conclusion: A Sustainable Future Powered by Reversible Computing
+    - Reversible Computing's Potential for a Greener Tomorrow
+      - Recap of Key Benefits and Applications
+      - Addressing the Global Energy Crisis
+      - Promoting Sustainable Technological Development
+      - A Call to Action for Researchers, Industry, and Policymakers
+
+
 ## Understanding the Energy Crisis in Computing
 
 ### The Relentless Rise of Energy Consumption

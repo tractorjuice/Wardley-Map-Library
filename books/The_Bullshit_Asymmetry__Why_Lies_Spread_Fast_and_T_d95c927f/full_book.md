@@ -1,5 +1,51 @@
 # The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last
 
+# Table of Contents
+
+- The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last
+  - Introduction: The Modern Misinformation Challenge
+    - The Scale of the Problem
+      - The Digital Information Explosion
+      - The Cost of Misinformation to Society
+      - Understanding the Asymmetry Principle
+  - The Science Behind the Asymmetry
+    - Cognitive Foundations
+      - How Our Brains Process Information
+      - Common Cognitive Biases
+      - The Psychology of Belief Formation
+    - The Mathematics of Misinformation
+      - Quantifying Information Spread
+      - Network Effects and Viral Patterns
+      - The Energy Cost of Debunking
+  - The Digital Amplification Effect
+    - Social Media Dynamics
+      - Echo Chambers and Filter Bubbles
+      - Algorithmic Amplification
+      - Viral Content Mechanics
+    - Platform Architecture
+      - Content Distribution Systems
+      - Engagement Metrics
+      - Platform Policies and Their Impact
+  - Professional Strategies for Truth-Telling
+    - Institutional Approaches
+      - Media Organisation Protocols
+      - Educational Institution Guidelines
+      - Corporate Communication Strategies
+    - Efficient Debunking Methods
+      - Resource Optimization Techniques
+      - Rapid Response Frameworks
+      - Collaborative Fact-Checking Networks
+  - Personal Defence Against Misinformation
+    - Critical Thinking Tools
+      - Quick Assessment Techniques
+      - Source Evaluation Methods
+      - Logical Fallacy Detection
+    - Practical Fact-Checking
+      - Digital Literacy Skills
+      - Verification Tools and Resources
+      - Personal Information Hygiene
+
+
 ## Introduction: The Modern Misinformation Challenge
 
 ### The Scale of the Problem

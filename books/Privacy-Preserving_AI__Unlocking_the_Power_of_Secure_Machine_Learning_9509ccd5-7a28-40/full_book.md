@@ -2,8 +2,10 @@
 
 ### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 
-## Table of Contents
+# Table of Contents
 
+- Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Foundations of Privacy-Preserving Techniques
   - Introduction to Privacy in AI and Machine Learning
     - The importance of privacy in the age of big data
@@ -21,7 +23,6 @@
     - Concepts and properties of zero-knowledge proofs
     - Types of zero-knowledge proof systems
     - Integrating ZK proofs in AI systems
-
 - Implementing Privacy-Preserving Methods in Machine Learning
   - Privacy-Preserving Data Processing
     - Secure data collection and aggregation
@@ -39,7 +40,6 @@
     - Secure model testing and validation
     - Privacy-preserving inference and prediction
     - Techniques for model explainability with privacy
-
 - Industry Applications and Case Studies
   - Healthcare and Biomedical Research
     - Secure analysis of patient data
@@ -57,7 +57,6 @@
     - Privacy-preserving recommendation systems
     - Secure customer segmentation and targeting
     - Confidential auction and pricing mechanisms
-
 - Ethical Considerations and Regulatory Compliance
   - Ethical Frameworks for Privacy-Preserving AI
     - Balancing innovation and individual privacy
@@ -75,7 +74,6 @@
     - Privacy by design principles for AI systems
     - Training and awareness programmes for developers
     - Collaborative approaches to privacy-preserving AI
-
 - Future Trends and Emerging Technologies
   - Quantum-Resistant Cryptography
     - The quantum threat to current cryptographic systems
@@ -93,6 +91,11 @@
     - Scaling privacy-preserving AI for real-world deployment
     - Interdisciplinary approaches to privacy-preserving AI
     - The future of privacy-preserving AI research and innovation
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Foundations of Privacy-Preserving Techniques
 

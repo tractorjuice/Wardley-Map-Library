@@ -1,5 +1,59 @@
 # The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World
 
+# Table of Contents
+
+- The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World
+  - Introduction: The Dawn of Generative AI
+    - Setting the Stage
+      - The Current State of GenAI
+      - Why These Three Changes Matter
+      - How to Use This Book
+  - Economic Metamorphosis: The First Critical Change
+    - The Great Job Market Disruption
+      - Emerging Job Categories
+      - Skills Obsolescence and Evolution
+      - New Career Pathways
+    - Business Model Revolution
+      - AI-First Enterprise Models
+      - Value Chain Transformations
+      - Competitive Advantage Redefined
+    - Wealth Distribution Dynamics
+      - AI-Driven Economic Mobility
+      - Risk Mitigation Strategies
+      - Opportunity Identification Framework
+  - Social Infrastructure Evolution: The Second Critical Change
+    - Education System Transformation
+      - Personalised Learning Pathways
+      - AI-Enhanced Teaching Methods
+      - Skills Assessment Revolution
+    - Healthcare Reimagined
+      - AI-Powered Diagnostics
+      - Preventative Care Evolution
+      - Healthcare Access Transformation
+    - Public Services Revolution
+      - Smart City Integration
+      - Government Service Automation
+      - Community Impact Assessment
+  - Personal Agency Transformation: The Third Critical Change
+    - Decision-Making in the AI Era
+      - Cognitive Augmentation
+      - Choice Architecture Evolution
+      - Information Processing Changes
+    - Creativity and Innovation
+      - Human-AI Creative Collaboration
+      - Ideation Process Changes
+      - Innovation Framework Adaptation
+    - Personal Development Revolution
+      - Identity in the AI Age
+      - Skill Development Strategies
+      - Mental Model Evolution
+  - Conclusion: Navigating the Future
+    - Integration and Implementation
+      - Action Planning Framework
+      - Risk Management Strategies
+      - Success Metrics and Monitoring
+
+
 ## Introduction: The Dawn of Generative AI
 
 ### Setting the Stage

@@ -1,5 +1,78 @@
 # Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide
 
+# Table of Contents
+
+- Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide
+  - Understanding Wardley Mapping: Core Concepts and Principles
+    - Introduction to Wardley Mapping
+      - What is Wardley Mapping and Why is it Important?
+      - History and Context: Comparing Wardley Mapping to Traditional Strategy Techniques
+      - Key Terminology: A Glossary of Essential Wardley Mapping Terms
+    - The Core Components of a Wardley Map
+      - Value Chains: Defining User Needs and Building the Chain
+      - Anchors: Identifying Key Components and Their Position
+      - Climate: Understanding Environmental Forces and Their Impact
+      - Doctrine: Applying Universal Principles for Strategic Advantage
+    - Evolution: Mapping the Landscape of Change
+      - Understanding the Stages of Evolution: Genesis, Custom-Built, Product, Commodity
+      - Visualising Evolution on the Map
+      - The Impact of Evolution on Strategy
+  - Practical Application: Building and Interpreting Wardley Maps
+    - Creating Your First Wardley Map: A Step-by-Step Guide
+      - Identifying the User and Their Needs
+      - Building the Value Chain: From User Need to Component
+      - Positioning Components on the Evolution Axis
+      - Adding Climate and Doctrine to the Map
+    - Interpreting Wardley Maps: Strategic Insights and Decision Making
+      - Identifying Areas for Investment and Innovation
+      - Recognising Opportunities for Outsourcing
+      - Anticipating Future Changes and Adapting Strategy
+      - Using Maps to Communicate Strategic Vision
+    - Scenario Analysis: Applying Wardley Mapping to Real-World Situations
+      - Case Study 1: Disrupting an Existing Market
+      - Case Study 2: Building a New Product or Service
+      - Case Study 3: Responding to Competitive Threats
+      - Developing Your Own Scenario Analysis Skills
+  - Exam Preparation: Mastering the Foundation in Wardley Mapping Exam
+    - Exam Structure and Content
+      - Understanding the Exam Format: Multiple Choice Questions
+      - Key Topics Covered in the Exam Syllabus
+      - Bloom's Taxonomy and its Relevance to Exam Questions (Levels 1 & 2)
+      - Time Management Strategies for the Exam
+    - Practice Questions and Answers
+      - Sample Questions Covering Core Concepts
+      - Sample Questions Focusing on Practical Application
+      - Detailed Explanations of Correct Answers
+      - Identifying Common Mistakes and How to Avoid Them
+    - Exam-Taking Strategies and Tips
+      - Understanding Question Types and Answering Strategies
+      - How to Approach Tricky or Ambiguous Questions
+      - Dealing with Exam Anxiety and Maintaining Focus
+      - Final Checklist Before the Exam
+  - Common Pitfalls and Advanced Considerations
+    - Addressing Common Misconceptions
+      - Debunking Myths About Wardley Mapping
+      - Clarifying Confusing Concepts
+      - Avoiding Common Mistakes in Map Creation and Interpretation
+    - Connecting Wardley Mapping to Business Strategy
+      - Integrating Wardley Mapping into Strategic Planning Processes
+      - Using Wardley Mapping to Drive Innovation
+      - Aligning Wardley Mapping with Organisational Goals
+    - The Strategy Lifecycle
+      - Understanding the different stages
+      - How Wardley Mapping can be used at each stage
+      - Adapting to change
+  - Conclusion: Your Journey with Wardley Mapping
+    - Recap of Key Concepts and Principles
+      - Reinforcing the Fundamentals of Wardley Mapping
+      - Highlighting the Importance of Continuous Learning
+      - Encouraging Further Exploration and Application
+    - Resources for Continued Learning
+      - Recommended Books and Articles
+      - Online Communities and Forums
+      - Wardley Mapping Tools and Software
+
+
 ## Understanding Wardley Mapping: Core Concepts and Principles
 
 ### Introduction to Wardley Mapping

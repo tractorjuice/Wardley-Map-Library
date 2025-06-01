@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Magic of Maps
   - What is Wardley Mapping?
     - A simple explanation for children
@@ -11,7 +13,6 @@
   - How This Book Works
     - The structure of each chapter
     - How to use this book with children
-
 - Chapter 1: Hansel and Gretel's Forest Adventure
   - The Story of Hansel and Gretel
     - A child-friendly retelling
@@ -24,7 +25,6 @@
     - The importance of planning
     - Adapting to change
     - Finding your way home
-
 - Chapter 2: The Three Little Pigs' Construction Project
   - The Tale of the Three Little Pigs
     - A simplified version for children
@@ -37,7 +37,6 @@
     - The value of planning ahead
     - Balancing speed and quality
     - Learning from mistakes
-
 - Chapter 3: Cinderella's Magical Transformation
   - The Story of Cinderella
     - A child-appropriate retelling
@@ -50,7 +49,6 @@
     - The power of transformation
     - Recognizing opportunities
     - The importance of timing
-
 - Chapter 4: Jack's Beanstalk Business Venture
   - The Tale of Jack and the Beanstalk
     - A child-friendly version
@@ -63,7 +61,6 @@
     - Taking calculated risks
     - The value of unique resources
     - Balancing ethics and opportunity
-
 - Conclusion: Your Own Fairy Tale Map
   - Recap of Mapping Principles
     - Key elements of a Wardley Map
@@ -75,6 +72,12 @@
   - The Future of Your Mapping Adventure
     - Using mapping in everyday life
     - Continuing to learn and grow
+- Appendix: Book Generation Details
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialised Applications
+
 
 # Introduction: The Magic of Maps
 

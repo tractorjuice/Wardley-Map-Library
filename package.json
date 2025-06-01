@@ -6,7 +6,11 @@
   "scripts": {
     "build": "echo \"Build completed\"",
     "vercel-build": "echo \"Vercel build completed\"",
-    "generate-manifest": "node generate-manifest.js"
+    "generate-manifest": "node generate-manifest.js",
+    "generate-manifest-with-toc": "node generate-manifest.js --include-toc",
+    "generate-toc": "node table-of-contents-generator.js",
+    "generate-toc-dry": "node table-of-contents-generator.js --dry-run",
+    "build-all": "npm run generate-toc && npm run generate-manifest"
   },
   "keywords": [
     "wardley-mapping",

@@ -1,5 +1,63 @@
 # Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps
 
+# Table of Contents
+
+- Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Evolution Mapping
+      - The Challenge of Modern Strategy
+      - Introduction to Wardley Maps
+      - Why Visual Strategy Matters
+    - Foundation Concepts
+      - Evolution and Value Chain Basics
+      - Strategic Positioning Principles
+      - Map Components Overview
+  - Mastering Wardley Map Components
+    - Map Construction Fundamentals
+      - Value Chain Mapping
+      - Evolution Axis Analysis
+      - Component Positioning
+      - Movement and Dynamics
+    - Advanced Mapping Techniques
+      - Dependency Analysis
+      - Anchor Points and Perspectives
+      - Climate and Market Forces
+      - Strategic Patterns Recognition
+  - Strategic Landscape Analysis
+    - Market Evolution Patterns
+      - Industry Lifecycle Analysis
+      - Competition Dynamics
+      - Innovation Patterns
+      - Market Positioning Strategies
+    - Competitive Advantage Analysis
+      - Opportunity Identification
+      - Threat Assessment
+      - Strategic Options Evaluation
+      - Competitive Response Planning
+  - From Maps to Action
+    - Strategic Initiative Development
+      - Converting Insights to Actions
+      - Priority Setting Framework
+      - Resource Allocation Planning
+      - Timeline Development
+    - Implementation Architecture
+      - Organizational Capability Building
+      - Change Management Approaches
+      - Risk Mitigation Strategies
+      - Progress Monitoring Systems
+  - Real-World Applications and Case Studies
+    - Industry-Specific Applications
+      - Technology Sector Cases
+      - Manufacturing Industry Examples
+      - Service Industry Applications
+      - Cross-Industry Lessons
+    - Implementation Success Stories
+      - Digital Transformation Projects
+      - Market Entry Strategies
+      - Innovation Programme Cases
+      - Organizational Change Initiatives
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Evolution Mapping

@@ -1,5 +1,64 @@
 # Strategic Mapping: A Leader's Guide to Navigating Business Evolution with Wardley Maps
 
+# Table of Contents
+
+- Strategic Mapping: A Leader's Guide to Navigating Business Evolution with Wardley Maps
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Landscapes
+      - The Challenge of Modern Business Navigation
+      - Why Traditional Strategy Tools Fall Short
+      - Introduction to Wardley Mapping
+    - Foundations of Strategic Visualization
+      - The Value Chain Perspective
+      - Evolution and Movement
+      - Position and Power
+  - Mastering the Mapping Process
+    - Building Your First Map
+      - Identifying User Needs
+      - Mapping Dependencies
+      - Understanding Evolution Stages
+      - Positioning Components
+    - Advanced Mapping Techniques
+      - Handling Complex Systems
+      - Multiple Perspective Mapping
+      - Dynamic Map Updates
+      - Common Pitfalls and Solutions
+  - Strategic Decision-Making with Maps
+    - Reading the Landscape
+      - Identifying Patterns and Trends
+      - Spotting Strategic Opportunities
+      - Anticipating Market Movements
+    - Competitive Analysis
+      - Mapping Competitor Positions
+      - Identifying Strategic Advantages
+      - Predicting Disruption Points
+    - Strategic Planning
+      - Developing Strategic Options
+      - Resource Allocation
+      - Risk Assessment and Mitigation
+  - Implementation and Organizational Integration
+    - Building a Mapping Culture
+      - Training Teams
+      - Establishing Mapping Practices
+      - Overcoming Resistance
+    - Cross-Functional Applications
+      - Product Development
+      - Technology Strategy
+      - Business Model Innovation
+      - Investment Decisions
+  - Real-World Applications and Case Studies
+    - Industry-Specific Applications
+      - Technology Sector Cases
+      - Manufacturing Examples
+      - Healthcare Applications
+      - Service Industry Implementations
+    - Transformation Stories
+      - Digital Transformation Projects
+      - Market Entry Strategies
+      - Innovation Initiatives
+      - Organizational Change Programs
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Landscapes

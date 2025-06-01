@@ -2,8 +2,10 @@
 
 ### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 
-## Table of Contents
+# Table of Contents
 
+- Mapping Sustainable Futures: Wardley Mapping for UN Sustainable Development Goals
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: Wardley Mapping and Global Sustainability
   - The Power of Wardley Mapping for Complex Challenges
     - Understanding Wardley Mapping: Key Concepts and Principles
@@ -13,7 +15,6 @@
     - Why Traditional Approaches Fall Short
     - The Strategic Advantage of Value Chain Mapping
     - Building a Framework for SDG Implementation
-
 - Mapping the 17 Sustainable Development Goals
   - People: Mapping Social Development Goals
     - No Poverty and Zero Hunger
@@ -30,7 +31,6 @@
   - Peace and Partnership: Mapping Collaborative Goals
     - Peace, Justice, and Strong Institutions
     - Partnerships for the Goals
-
 - Cross-Sector Collaboration Through Map Comparisons
   - Identifying Synergies and Conflicts
     - Overlapping Value Chains Across SDGs
@@ -44,7 +44,6 @@
     - Integrating Individual SDG Maps
     - Identifying Key Leverage Points
     - Prioritising Actions for Maximum Impact
-
 - Case Studies: Wardley Mapping in Action for SDGs
   - National-Level Implementation
     - Case Study: Mapping SDG 13 (Climate Action) in a Developing Country
@@ -55,7 +54,6 @@
   - NGO and International Organisation Approaches
     - Case Study: UN Agency Using Wardley Mapping for SDG 2 (Zero Hunger)
     - Case Study: International NGO Tackling SDG 6 (Clean Water and Sanitation)
-
 - Future Scenarios and Adaptive Strategies
   - Anticipating Change in the Sustainability Landscape
     - Technological Disruptions and Their Impact on SDGs
@@ -69,7 +67,6 @@
     - Identifying and Mitigating Risks
     - Creating Flexible Implementation Frameworks
     - Fostering Innovation and Adaptability in Sustainability Efforts
-
 - Conclusion: Empowering Global Sustainability Through Strategic Mapping
   - Key Takeaways for SDG Implementation
     - The Transformative Power of Wardley Mapping for SDGs
@@ -79,6 +76,11 @@
     - Scaling Up Wardley Mapping for Global Impact
     - Fostering a Community of Practice
     - Continuous Learning and Improvement in SDG Strategies
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: Wardley Mapping and Global Sustainability
 

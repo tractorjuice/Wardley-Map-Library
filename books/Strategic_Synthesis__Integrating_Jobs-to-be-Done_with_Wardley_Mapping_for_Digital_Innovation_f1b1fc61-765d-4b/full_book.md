@@ -4,12 +4,13 @@
 
 # Table of Contents
 
+- Strategic Synthesis: Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Power of Combined Methodologies
   - The Evolution of Strategic Planning
     - Current Challenges in Digital Strategy
     - The Need for Integrated Frameworks
     - Overview of JTBD and Wardley Mapping Synergy
-
 - Foundations of JTBD and Wardley Mapping
   - Understanding Jobs-to-be-Done Theory
     - Ulwick's Outcome-Driven Innovation
@@ -19,7 +20,6 @@
     - Value Chain Visualization
     - Evolution and Movement
     - Strategic Positioning and Gameplay
-
 - Integration Framework and Methodology
   - Mapping Customer Jobs to Value Chains
     - Job Layer Analysis
@@ -29,7 +29,6 @@
     - Combined Analysis Templates
     - Strategic Planning Worksheets
     - Decision-Making Frameworks
-
 - Implementation and Execution
   - Digital Product Strategy
     - Opportunity Discovery Process
@@ -39,7 +38,6 @@
     - Platform Component Analysis
     - Ecosystem Mapping Techniques
     - Strategic Positioning Guidelines
-
 - Advanced Applications and Future Directions
   - Case Studies in Digital Innovation
     - Technology Sector Examples
@@ -49,6 +47,14 @@
     - AI and Machine Learning Integration
     - Ecosystem Evolution Patterns
     - Future of Strategic Planning
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Power of Combined Methodologies
 

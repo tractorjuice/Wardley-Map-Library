@@ -1,7 +1,8 @@
 # From Lotus to AI: Modernising Legacy Systems for the Generative AI Era
 
-## Table of Contents
+# Table of Contents
 
+- From Lotus to AI: Modernising Legacy Systems for the Generative AI Era
 - Chapter 1: Assessing Your Lotus Domino Legacy
   - Understanding Your Current Lotus Domino Environment
     - Cataloguing Existing Applications and Workflows
@@ -18,7 +19,6 @@
     - Evaluating Data for AI/ML Readiness
     - Spotting GenAI Use Cases in Current Workflows
     - Prioritising Quick Wins and Long-Term AI Initiatives
-
 - Chapter 2: Selecting AI-Powered Alternatives to Lotus Domino
   - Overview of Modern, AI-Enabled Collaboration Platforms
     - Cloud-Based vs On-Premises Solutions
@@ -40,7 +40,6 @@
     - Infrastructure and Operational Costs
     - Training and Change Management Expenses
     - Projected ROI from AI-Enabled Process Improvements
-
 - Chapter 3: Planning and Executing the Migration
   - Developing a Comprehensive Migration Strategy
     - Defining Scope and Objectives
@@ -62,7 +61,6 @@
     - Developing APIs and Connectors for Legacy Systems
     - Ensuring Seamless Data Flow Between Old and New Platforms
     - Implementing AI-Powered Integration Orchestration
-
 - Chapter 4: Change Management and User Adoption
   - Developing a Change Management Strategy
     - Stakeholder Analysis and Engagement
@@ -84,7 +82,6 @@
     - Creating Centres of Excellence for AI-Enabled Collaboration
     - Developing Metrics for Measuring AI Impact and ROI
     - Planning for Continuous Platform Evolution and AI Advancement
-
 - Chapter 5: Case Studies and ROI Analysis
   - Financial Services Sector Migration
     - Background and Challenges
@@ -106,6 +103,11 @@
     - Benchmarking Migration Costs and Timeframes
     - Analysing AI-Driven Productivity and Innovation Gains
     - Developing a Business Case for Lotus Domino Migration
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Chapter 1: Assessing Your Lotus Domino Legacy
 

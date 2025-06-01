@@ -1,7 +1,8 @@
 # Wardley Mapping Mastery: Uncovering Hidden Opportunities in Business Strategy
 
-## Table of Contents
+# Table of Contents
 
+- Wardley Mapping Mastery: Uncovering Hidden Opportunities in Business Strategy
 - Foundations of Wardley Mapping
   - The Evolution of Business Strategy
     - From Porter to Wardley: A Brief History
@@ -16,7 +17,6 @@
     - Mapping the Value Chain
     - Positioning Components on the Evolution Axis
     - Analysing Movement and Dependencies
-
 - Advanced Techniques for Gameplay Identification
   - Pattern Recognition in Wardley Maps
     - Common Patterns and Their Significance
@@ -35,7 +35,6 @@
     - Exploiting Market Inefficiencies
     - Creating New Value Chains
     - Disrupting Existing Ecosystems
-
 - Integrating Wardley Mapping with Other Strategic Frameworks
   - Wardley Mapping and Blue Ocean Strategy
     - Identifying Blue Oceans on Wardley Maps
@@ -49,7 +48,6 @@
     - Building Minimum Viable Products with Wardley Insights
     - Pivot or Persevere: Using Wardley Maps for Decision-Making
     - Scaling Strategies Informed by Evolutionary Mapping
-
 - Case Studies: Wardley Mapping in Action
   - Amazon's Strategic Evolution
     - Mapping Amazon's Initial Bookselling Strategy
@@ -63,7 +61,6 @@
     - Mapping Tesla's Vertical Integration Strategy
     - Identifying Key Gameplays in Electric Vehicle Market
     - Future Scenarios: Energy, Autonomy, and Beyond
-
 - Implementing Wardley Mapping Across Different Contexts
   - Wardley Mapping for Startups
     - Identifying Market Opportunities and Gaps
@@ -81,6 +78,11 @@
     - Training and Skill Development
     - Integrating Mapping into Decision-Making Processes
     - Continuous Learning and Adaptation
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Foundations of Wardley Mapping
 

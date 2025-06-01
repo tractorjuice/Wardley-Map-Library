@@ -1,5 +1,75 @@
 # Generative AI for Official Statistics: A Strategic Roadmap for the UN Statistics Division
 
+# Table of Contents
+
+- Generative AI for Official Statistics: A Strategic Roadmap for the UN Statistics Division
+  - Chapter 1: Understanding the Landscape: GenAI and the UN Statistics Division
+    - 1.1 The Evolving Role of Official Statistics in the 21st Century
+      - 1.1.1 The Increasing Demand for Timely and Granular Data
+      - 1.1.2 Challenges in Traditional Statistical Production
+      - 1.1.3 The Potential of GenAI to Transform Official Statistics
+    - 1.2 The UN Statistics Division: Mandate, Operations, and Data Ecosystem
+      - 1.2.1 UNSD's Role in Global Statistical Standards and Coordination
+      - 1.2.2 Overview of UNSD's Data Collection, Processing, and Dissemination Methods
+      - 1.2.3 Identifying Pain Points and Opportunities for Improvement
+    - 1.3 Generative AI: A Primer for Statisticians
+      - 1.3.1 Defining Generative AI: Models, Techniques, and Applications
+      - 1.3.2 Key Concepts: Large Language Models, Diffusion Models, and GANs
+      - 1.3.3 Understanding the Strengths and Limitations of GenAI
+  - Chapter 2: Ethical and Responsible GenAI Implementation in Official Statistics
+    - 2.1 Navigating the Ethical Landscape of GenAI
+      - 2.1.1 Bias and Fairness in GenAI Models
+      - 2.1.2 Transparency and Explainability in Statistical Applications
+      - 2.1.3 Data Privacy and Security Considerations
+    - 2.2 UN Principles for Ethical AI: A Framework for UNSD
+      - 2.2.1 Aligning GenAI Initiatives with UN Ethical Guidelines
+      - 2.2.2 Establishing a Governance Framework for Responsible AI Use
+      - 2.2.3 Ensuring Accountability and Oversight
+    - 2.3 Mitigating Risks and Promoting Trust in GenAI-Generated Statistics
+      - 2.3.1 Developing Strategies for Bias Detection and Mitigation
+      - 2.3.2 Implementing Transparency Mechanisms for GenAI Processes
+      - 2.3.3 Protecting Data Privacy and Confidentiality
+  - Chapter 3: GenAI Applications for Statistical Data Enhancement: Use Cases and Implementation
+    - 3.1 Enhancing Data Quality and Completeness with GenAI
+      - 3.1.1 Data Imputation: Filling in Missing Values with GenAI
+      - 3.1.2 Anomaly Detection: Identifying Outliers and Errors in Datasets
+      - 3.1.3 Data Harmonization: Standardizing Data from Diverse Sources
+    - 3.2 Accelerating Statistical Production with GenAI
+      - 3.2.1 Automated Report Generation: Creating Statistical Reports from Data
+      - 3.2.2 Text Summarization: Condensing Large Volumes of Textual Data
+      - 3.2.3 Data Augmentation: Generating Synthetic Data for Training and Analysis
+    - 3.3 Case Studies: Real-World Applications of GenAI in Official Statistics
+      - 3.3.1 GenAI for Improving SDG Monitoring and Reporting
+      - 3.3.2 GenAI for Enhancing Census Data Analysis
+      - 3.3.3 GenAI for Supporting Humanitarian Response Efforts
+  - Chapter 4: Building a Sustainable GenAI Infrastructure for the UNSD
+    - 4.1 Technological Infrastructure Requirements
+      - 4.1.1 Cloud Computing and Scalable Infrastructure
+      - 4.1.2 Data Storage and Management Solutions
+      - 4.1.3 Access to GenAI Platforms and Tools
+    - 4.2 Data Governance and Management Policies
+      - 4.2.1 Establishing Data Quality Standards for GenAI Applications
+      - 4.2.2 Defining Data Access and Sharing Protocols
+      - 4.2.3 Ensuring Data Security and Compliance
+    - 4.3 Capacity Building and Training Programs
+      - 4.3.1 Developing GenAI Skills among Statisticians
+      - 4.3.2 Training Programs for Data Scientists and Engineers
+      - 4.3.3 Promoting a Culture of Innovation and Experimentation
+  - Chapter 5: Measuring Impact, Ensuring Accountability, and the Future of GenAI at the UNSD
+    - 5.1 Establishing Key Performance Indicators (KPIs) for GenAI Initiatives
+      - 5.1.1 Defining Metrics for Data Quality Improvement
+      - 5.1.2 Measuring Efficiency Gains in Statistical Production
+      - 5.1.3 Tracking the Impact of GenAI on SDG Monitoring
+    - 5.2 Monitoring and Evaluating GenAI Performance
+      - 5.2.1 Implementing a System for Tracking GenAI Project Outcomes
+      - 5.2.2 Conducting Regular Audits of GenAI Applications
+      - 5.2.3 Ensuring Transparency and Accountability in GenAI Decision-Making
+    - 5.3 The Future of GenAI in Official Statistics: Trends and Opportunities
+      - 5.3.1 Emerging GenAI Technologies and Their Potential Applications
+      - 5.3.2 Addressing the Challenges of Scaling GenAI Initiatives
+      - 5.3.3 Fostering Collaboration and Knowledge Sharing in the GenAI Community
+
+
 ![Chapter: Chapter 1: Understanding the Landscape: GenAI and the UN Statistics Division](images/Generative_AI_f_28c26d2b_Google_chapter_full_8caf4c87-476e-4ee6-9069-1f3a107fbd61.png)
 
 ## Chapter 1: Understanding the Landscape: GenAI and the UN Statistics Division

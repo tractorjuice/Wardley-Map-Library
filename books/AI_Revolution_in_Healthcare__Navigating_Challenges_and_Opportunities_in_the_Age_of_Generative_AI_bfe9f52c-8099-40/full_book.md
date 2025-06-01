@@ -1,7 +1,8 @@
 # AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI
 
-## Table of Contents
+# Table of Contents
 
+- AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI
 - The Dawn of Generative AI in Health and Life Sciences
   - Understanding Generative AI Technologies
     - Defining Generative AI and Its Capabilities
@@ -12,7 +13,6 @@
     - Enhancing Diagnostic Accuracy and Personalised Medicine
     - Streamlining Administrative Processes and Resource Allocation
     - Augmenting Healthcare Professional Capabilities
-
 - Ethical Implications and Governance Challenges
   - Data Privacy and Security Concerns
     - Protecting Patient Confidentiality in the AI Era
@@ -26,7 +26,6 @@
     - Regulatory Challenges in a Rapidly Evolving Landscape
     - Establishing Ethical Guidelines for AI Use in Healthcare
     - Creating Accountability Mechanisms for AI-driven Decisions
-
 - Implementation Hurdles and Operational Challenges
   - Infrastructure and Technology Integration
     - Upgrading Legacy Systems for AI Compatibility
@@ -40,7 +39,6 @@
     - Establishing Protocols for AI Model Validation
     - Ensuring Transparency and Explainability of AI Systems
     - Continuous Monitoring and Improvement of AI Performance
-
 - Legal and Regulatory Landscape
   - Navigating Intellectual Property Rights
     - Patenting AI-generated Innovations in Healthcare
@@ -54,7 +52,6 @@
     - Assessing and Mitigating AI-related Risks
     - Evolving Insurance Models for AI in Healthcare
     - Preparing for Potential AI-related Litigation
-
 - Future-proofing Health and Life Sciences Organisations
   - Strategic Planning for AI Integration
     - Developing a Comprehensive AI Roadmap
@@ -68,6 +65,11 @@
     - Participating in Policy Development and Standardisation
     - Engaging in Public Dialogue and Trust-building
     - Driving Responsible AI Innovation in Health and Life Sciences
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # The Dawn of Generative AI in Health and Life Sciences
 

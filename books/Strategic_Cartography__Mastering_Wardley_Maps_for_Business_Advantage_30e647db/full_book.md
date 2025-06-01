@@ -1,5 +1,65 @@
 # Strategic Cartography: Mastering Wardley Maps for Business Advantage
 
+# Table of Contents
+
+- Strategic Cartography: Mastering Wardley Maps for Business Advantage
+  - Chapter 1: Foundations of Wardley Mapping
+    - Understanding Visual Strategy
+      - The Power of Visual Thinking in Strategy
+      - Core Principles of Wardley Maps
+      - Evolution and Value Chain Basics
+      - Map Components and Notation
+    - Building Your First Map
+      - Identifying User Needs
+      - Mapping Value Chains
+      - Understanding Evolution Axes
+      - Basic Map Construction Exercise
+  - Chapter 2: Digital Landscape Navigation
+    - Technology Evolution Patterns
+      - Innovation to Commodity Cycle
+      - Identifying Technology Phases
+      - Disruption Patterns
+      - Digital Infrastructure Mapping
+    - Market Dynamics Analysis
+      - Competition Mapping
+      - Market Position Assessment
+      - Technology Adoption Cycles
+      - Digital Transformation Opportunities
+  - Chapter 3: Ecosystem Strategy Development
+    - Partnership and Dependency Analysis
+      - Identifying Strategic Dependencies
+      - Partnership Opportunity Mapping
+      - Supplier Relationship Assessment
+      - Ecosystem Risk Analysis
+    - Strategic Positioning
+      - Competitive Advantage Mapping
+      - Strategic Play Development
+      - Ecosystem Leverage Points
+      - Alliance Strategy Formation
+  - Chapter 4: Practical Implementation Guide
+    - Map Creation Process
+      - Data Gathering Techniques
+      - Stakeholder Workshops
+      - Iterative Refinement Process
+      - Validation Methods
+    - Strategic Decision Making
+      - Map Analysis Frameworks
+      - Action Planning
+      - Resource Allocation
+      - Implementation Roadmaps
+  - Chapter 5: Future-State Planning
+    - Anticipating Market Evolution
+      - Future Scenario Mapping
+      - Evolution Prediction Techniques
+      - Opportunity Identification
+      - Risk Assessment Methods
+    - Strategic Positioning for the Future
+      - Long-term Strategy Development
+      - Capability Building Plans
+      - Innovation Portfolio Management
+      - Adaptive Strategy Frameworks
+
+
 ## Chapter 1: Foundations of Wardley Mapping
 
 ### Understanding Visual Strategy

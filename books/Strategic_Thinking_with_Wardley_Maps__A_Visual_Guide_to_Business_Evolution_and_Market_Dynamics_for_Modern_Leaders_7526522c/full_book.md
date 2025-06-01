@@ -1,5 +1,63 @@
 # Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders
 
+# Table of Contents
+
+- Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Blindspots
+      - The Challenge of Modern Strategy
+      - Why Traditional Strategic Tools Fall Short
+      - The Need for Visual Strategic Thinking
+    - Fundamentals of Wardley Mapping
+      - Core Components of a Wardley Map
+      - Value Chain Basics
+      - Evolution Axis Explained
+  - Mapping Your Business Landscape
+    - Building Your First Wardley Map
+      - Identifying User Needs
+      - Mapping Dependencies
+      - Positioning Components
+      - Evolution Assessment
+    - Understanding Market Evolution
+      - Genesis to Commodity Patterns
+      - Pace of Evolution
+      - Inertia and Market Forces
+      - Anticipating Change
+  - Competitive Strategy and Market Dynamics
+    - Analyzing Competitive Positions
+      - Value Chain Analysis
+      - Competitor Mapping
+      - Identifying Strategic Opportunities
+      - Threat Assessment
+    - Strategic Plays and Patterns
+      - Common Strategic Patterns
+      - Defensive Strategies
+      - Offensive Moves
+      - Timing and Execution
+  - Digital Transformation and Innovation
+    - Mapping Digital Landscapes
+      - Technology Evolution Patterns
+      - Digital Value Chains
+      - Platform Strategies
+      - Innovation Opportunities
+    - Leading Digital Change
+      - Transformation Roadmapping
+      - Managing Technical Debt
+      - Building Digital Capabilities
+      - Measuring Progress
+  - Strategic Decision Making in Practice
+    - Decision Framework Implementation
+      - Situational Assessment
+      - Option Analysis
+      - Risk Evaluation
+      - Action Planning
+    - Real-World Applications
+      - Case Studies
+      - Implementation Stories
+      - Common Pitfalls
+      - Success Patterns
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Blindspots

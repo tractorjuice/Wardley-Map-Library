@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The Convergence of Wardley Mapping and Military Strategy
   - Understanding Wardley Mapping
     - Origins and principles of Wardley Mapping
@@ -17,7 +19,6 @@
     - The potential of Wardley Mapping in military context
     - Challenges and opportunities in applying Wardley Mapping to NWCC
     - Overview of the book's approach and structure
-
 - Decoding NATO's Warfighting Capstone Concept (NWCC)
   - The Genesis and Purpose of NWCC
     - NATO's strategic environment and challenges
@@ -34,7 +35,6 @@
     - Cross-domain synergies and dependencies
     - Challenges in achieving seamless integration
     - The role of technology and innovation in NWCC
-
 - Mapping the Six NWCC Domains: A Wardley Mapping Approach
   - Methodology for Mapping Military Domains
     - Adapting Wardley Mapping for military context
@@ -52,7 +52,6 @@
     - Identifying cross-domain dependencies and opportunities
     - Mapping the integration of all six domains
     - Strategic insights from the integrated Wardley Map
-
 - Practical Applications and Case Studies
   - Scenario-Based Exercises
     - Developing Wardley Maps for hypothetical conflict scenarios
@@ -66,7 +65,6 @@
     - Mapping current geopolitical tensions
     - Anticipating future warfare scenarios
     - Strategies for adapting NWCC using Wardley Mapping insights
-
 - The Future of Military Strategy: Wardley Mapping and Beyond
   - Evolving NWCC through Continuous Mapping
     - Establishing a framework for regular strategy reviews
@@ -80,6 +78,14 @@
     - Enhancing decision-making processes in military leadership
     - Training and education implications for military strategists
     - The future of AI-assisted Wardley Mapping in military planning
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The Convergence of Wardley Mapping and Military Strategy
 

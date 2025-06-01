@@ -1,5 +1,67 @@
 # The Creative Revolution: How Generative AI is Transforming Human Potential
 
+# Table of Contents
+
+- The Creative Revolution: How Generative AI is Transforming Human Potential
+  - Introduction: The Dawn of Human-AI Partnership
+    - The GenAI Watershed Moment
+      - From Tools to Creative Partners
+      - Understanding the Scale of Change
+      - Setting the Stage for Transformation
+  - Chapter 1: The Creativity Paradox
+    - Redefining Human Creativity
+      - Traditional Creative Processes
+      - AI-Enhanced Creative Thinking
+      - The New Creative Spectrum
+    - AI as Creative Catalyst
+      - Amplifying Human Ideas
+      - Breaking Creative Blocks
+      - Expanding Possibilities
+    - Creative Tensions
+      - Authenticity vs Automation
+      - Originality in the Age of AI
+      - Navigating Creative Identity
+  - Chapter 2: The Workforce Evolution
+    - Job Transformation Landscape
+      - Roles Being Augmented
+      - Emerging Opportunities
+      - Skills in Transition
+    - Industry Impact Analysis
+      - Creative Industries
+      - Knowledge Work
+      - Service Sectors
+    - Adaptation Strategies
+      - Reskilling Pathways
+      - Career Pivots
+      - Professional Development
+  - Chapter 3: The Cognitive Partnership Framework
+    - Building Effective Collaboration
+      - Understanding AI Capabilities
+      - Human-AI Workflow Design
+      - Communication Protocols
+    - Co-Creation Methodologies
+      - Ideation Techniques
+      - Iterative Development
+      - Quality Control
+    - Optimising Outcomes
+      - Performance Metrics
+      - Feedback Loops
+      - Continuous Improvement
+  - Chapter 4: Future-Proofing Strategies
+    - Developing AI-Resistant Skills
+      - Critical Thinking
+      - Emotional Intelligence
+      - Complex Problem Solving
+    - Building Adaptive Capacity
+      - Learning Agility
+      - Technological Fluency
+      - Change Resilience
+    - Creating Sustainable Value
+      - Personal Brand Development
+      - Unique Value Proposition
+      - Long-term Career Planning
+
+
 ## Introduction: The Dawn of Human-AI Partnership
 
 ### The GenAI Watershed Moment

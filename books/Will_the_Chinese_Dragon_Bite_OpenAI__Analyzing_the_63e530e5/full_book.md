@@ -1,5 +1,65 @@
 # Will the Chinese Dragon Bite OpenAI? Analyzing the Geopolitical and Technological Rivalry in Artificial Intelligence
 
+# Table of Contents
+
+- Will the Chinese Dragon Bite OpenAI? Analyzing the Geopolitical and Technological Rivalry in Artificial Intelligence
+  - Introduction: The AI Arms Race
+    - Understanding the Stakes
+      - The Global AI Landscape
+      - Key Players: China vs. the US
+      - Historical Context of AI Development
+  - Chapter 1: Geopolitical Landscape
+    - Current State of AI Development
+      - Key Policies in China and the US
+      - Strategic Investments and Initiatives
+      - The Role of Government in AI Advancement
+    - Comparative Analysis of AI Ecosystems
+      - Strengths and Weaknesses of Each Region
+      - International Collaborations and Rivalries
+      - Impact on Global AI Standards
+  - Chapter 2: Technological Innovation
+    - Advancements in AI Technologies
+      - Breakthroughs in Machine Learning and Deep Learning
+      - The Role of Big Data and Cloud Computing
+      - Emerging Technologies: Quantum Computing and AI
+    - Sectoral Impacts of AI
+      - Transformations in Healthcare
+      - AI in Finance and Banking
+      - Implications for Manufacturing and Supply Chains
+  - Chapter 3: Ethical Considerations
+    - AI Ethics in Different Contexts
+      - Surveillance and Privacy Concerns
+      - Human Rights Implications of AI Deployment
+      - Censorship and Control Mechanisms
+    - Building Ethical Frameworks
+      - Comparing Ethical Standards in China and the US
+      - Global Initiatives for AI Governance
+      - Role of Corporations in Ethical AI
+  - Chapter 4: Future Scenarios
+    - Projecting Outcomes of the AI Rivalry
+      - Optimistic Scenarios: Collaboration and Innovation
+      - Pessimistic Scenarios: Conflict and Fragmentation
+      - Middle Ground: A Possible Path Forward
+    - Global AI Governance and Collaboration
+      - The Role of International Organizations
+      - Bilateral Agreements and Treaties
+      - Building Trust in a Competitive Landscape
+  - Chapter 5: Case Studies
+    - Competitive Dynamics in Action
+      - Comparing Leading AI Companies: Baidu vs. Google
+      - Innovative Startups in China and the US
+      - Government-backed Initiatives: Successes and Failures
+    - Lessons Learned from AI Deployments
+      - Case Studies of AI in Public Health
+      - AI in National Security: Strategies and Implications
+      - Collaborative Projects between East and West
+  - Conclusion: Navigating the Future
+    - Summarising Key Insights
+      - The Importance of Ethical AI Development
+      - Strategies for International Cooperation
+      - Final Thoughts on the AI Landscape
+
+
 ## Introduction: The AI Arms Race
 
 ### Understanding the Stakes

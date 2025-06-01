@@ -1,5 +1,63 @@
 # Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption
 
+# Table of Contents
+
+- Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption
+  - Introduction: The Evolution of Strategic Visualization
+    - The Modern Strategic Landscape
+      - Challenges of Traditional Strategic Planning
+      - The Need for Dynamic Strategy Tools
+      - Introduction to Wardley Mapping Principles
+    - Understanding Value Chain Dynamics
+      - Components of Value Creation
+      - Evolution and Movement
+      - Mapping Business Landscapes
+  - Mastering Wardley Mapping Fundamentals
+    - Core Components and Visualization
+      - Map Components and Structure
+      - Evolution Axes and Movement
+      - Dependencies and Anchoring
+      - Modern Visualization Techniques
+    - Building Your First Maps
+      - Identifying User Needs
+      - Mapping Value Chains
+      - Understanding Component Evolution
+      - Common Pitfalls and Solutions
+  - Competitive Intelligence and Market Positioning
+    - Market Analysis Through Mapping
+      - Competitor Landscape Mapping
+      - Identifying Strategic Opportunities
+      - Market Evolution Patterns
+      - Positioning for Advantage
+    - Industry Case Studies
+      - Technology Sector Analysis
+      - Retail Transformation Maps
+      - Financial Services Evolution
+      - Cross-Industry Insights
+  - Digital Transformation and Technology Stack Evolution
+    - Mapping Digital Transformation
+      - Technology Stack Analysis
+      - Legacy System Evolution
+      - Cloud Migration Mapping
+      - Innovation Opportunity Spotting
+    - Implementation Strategies
+      - Change Management Through Mapping
+      - Resource Allocation
+      - Risk Assessment
+      - Measuring Transformation Success
+  - Strategic Framework Integration and Future-Proofing
+    - Integrating Strategic Frameworks
+      - Blue Ocean Strategy Integration
+      - Jobs-to-be-Done Analysis
+      - Platform Strategy Mapping
+      - Creating Hybrid Approaches
+    - Future-Proofing Organizations
+      - Anticipating Market Changes
+      - Building Strategic Awareness
+      - Adaptive Planning Methods
+      - Long-term Resilience Building
+
+
 ## Introduction: The Evolution of Strategic Visualization
 
 ### The Modern Strategic Landscape

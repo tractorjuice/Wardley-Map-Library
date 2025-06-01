@@ -1,7 +1,8 @@
 # Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education
 
-## Table of Contents
+# Table of Contents
 
+- Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education
 - Foundations of Wardley Mapping in MedTech Education
   - Introduction to Wardley Mapping
     - Origins and core principles of Wardley Mapping
@@ -18,7 +19,6 @@
     - Visualising the MedTech education value chain
     - Identifying opportunities for innovation in teaching and research
     - Anticipating future trends and preparing students accordingly
-
 - Applying Wardley Mapping to Curriculum Design in MedTech Programs
   - Mapping the MedTech Curriculum
     - Identifying key components of a MedTech curriculum
@@ -35,7 +35,6 @@
     - Developing authentic assessment tasks using Wardley Maps
     - Incorporating real-world problem-solving in evaluations
     - Preparing students for industry certifications and standards
-
 - Enhancing Research Planning and Collaboration in MedTech
   - Mapping the MedTech Research Landscape
     - Identifying key research areas and their evolutionary stages
@@ -52,7 +51,6 @@
     - Identifying mutually beneficial research projects
     - Structuring effective industry-academia collaborations
     - Navigating intellectual property and commercialisation challenges
-
 - Case Studies: Successful Wardley Mapping Implementations in MedTech Education
   - Curriculum Transformation at Leading MedTech Institutions
     - Case study 1: Revamping a biomedical engineering program
@@ -69,7 +67,6 @@
     - Case study 2: Establishing a MedTech innovation hub
     - Case study 3: Creating industry-aligned internship programs
     - Strategies for sustaining and scaling successful partnerships
-
 - Future-Proofing MedTech Education with Wardley Mapping
   - Anticipating Future Trends in MedTech
     - Using Wardley Maps to forecast technological advancements
@@ -86,6 +83,11 @@
     - Developing sustainable funding models for MedTech programs
     - Establishing global collaborations and knowledge exchange networks
     - Measuring and improving the long-term impact of MedTech education
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Foundations of Wardley Mapping in MedTech Education
 

@@ -1,5 +1,123 @@
 # Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay
 
+# Table of Contents
+
+- Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay
+  - Foundations: Navigating the Strategic Landscape
+    - The Essence of Strategy: Beyond Execution
+      - The Limitations of Traditional Strategic Frameworks (SWOT, Porter's Five Forces)
+      - Introducing Wardley Mapping: A Visual Approach to Strategy
+      - Situational Awareness: The Critical Missing Piece
+      - From Alchemy to Chess: Understanding the Strategic Game
+    - Core Components of Wardley Maps
+      - Users and Needs: The Anchor of Strategic Thinking
+      - Value Chains: Mapping Dependencies and Flows
+      - Evolutionary Axes: Genesis, Custom-Built, Product, Commodity
+      - Visual Representation: Communicating Complex Systems Clearly
+    - Constructing Your First Map: A Practical Guide
+      - Step 1: Identifying User Needs and Value
+      - Step 2: Building the Value Chain
+      - Step 3: Mapping Components on the Evolutionary Axis
+      - Common Pitfalls and How to Avoid Them
+  - Doctrine: Universal Principles for Strategic Advantage
+    - Understanding Doctrine: Timeless Principles in a Dynamic World
+      - Differentiating Doctrine from Context-Specific Gameplay
+      - The Importance of Universal Principles
+      - Avoiding Outcome Bias: Evaluating Strategic Choices
+    - Key Doctrines for Effective Strategy
+      - Focus on User Needs: The Foundation of Value Creation
+      - Use a Common Language: Maps as a Communication Tool
+      - Be Transparent: Encouraging Challenge and Collaboration
+      - Challenge Assumptions: Questioning the Status Quo
+      - Remove Duplication and Bias: Optimising Resource Allocation
+      - Use Appropriate Methods: Tailoring Approaches to Context
+      - Think Small: Embracing Componentisation and Autonomy
+      - Think Aptitude and Attitude: Matching Skills to Evolutionary Stages
+      - Design for Constant Evolution: Building Adaptive Organisations
+      - Be Humble: Acknowledging Limitations and Embracing Learning
+    - Applying Doctrine to Your Maps: A Practical Exercise
+      - Identifying Areas for Improvement Based on Doctrine
+      - Developing Actionable Steps to Implement Key Principles
+      - Measuring the Impact of Doctrine on Strategic Outcomes
+  - Climatic Patterns: Anticipating Market Shifts and Economic Forces
+    - Understanding Climatic Patterns: The Forces Shaping the Landscape
+      - Differentiating Climatic Patterns from Doctrine and Gameplay
+      - The Importance of Anticipating Change
+      - Categorising Climatic Patterns: Influences on Components, Finance, Speed, Inertia, Competition, and Predictability
+    - Key Climatic Patterns and Their Strategic Implications
+      - Everything Evolves: The Inevitable March of Progress
+      - Characteristics Change: From Genesis to Commodity
+      - No One Size Fits All: Tailoring Approaches to Evolutionary Stages
+      - Efficiency Enables Innovation: Componentisation and Higher-Order Systems
+      - Higher-Order Systems Create New Sources of Worth: Commodification and Commoditisation
+      - No Choice on Evolution: The Red Queen Hypothesis
+      - Past Success Breeds Inertia: Overcoming Resistance to Change
+      - Punctuated Equilibrium: The Rapid Pace of Transformation
+      - Coevolution: The Interplay Between Components and Practices
+      - Peace, War, and Wonder: The Cycle of Economic Competition
+    - Charting the Future: Using Climatic Patterns to Anticipate Change
+      - Identifying Conditions and Signals: Recognizing Early Indicators
+      - Assessing the Predictability of Change: What, When, and Who
+      - Developing Scenarios Based on Climatic Patterns
+      - Applying Climatic Patterns to Your Maps: A Practical Exercise
+  - Context-Specific Gameplay: Strategic Moves in a Dynamic Environment
+    - Understanding Context-Specific Gameplay: Adapting to the Situation
+      - Differentiating Gameplay from Doctrine and Climatic Patterns
+      - The Importance of Situational Awareness in Strategic Decision-Making
+      - The Two Types of 'Why': Purpose and Movement
+    - Key Gameplay Strategies and Tactics
+      - Accelerators, Decelerators, and Constraints: Influencing the Pace of Evolution
+      - Innovate, Leverage, and Commoditise (ILC): The Virtuous Cycle of Value Creation
+      - Ecosystem Models: Building and Managing Networks of Innovation
+      - Positional Plays: Exploiting Terrain and Competitor Weaknesses
+      - Defensive Plays: Protecting Value and Mitigating Risk
+      - Attacking Plays: Disrupting Competitors and Seizing Opportunities
+      - Poison Mechanisms: Preventing Competitor Advancement
+    - Making Strategic Decisions: Balancing Risk and Opportunity
+      - Identifying Potential Points of Attack and Defence
+      - Evaluating the Pros and Cons of Different Gameplay Strategies
+      - Developing a Strategic Plan Based on Context-Specific Considerations
+      - Applying Gameplay to Your Maps: A Practical Exercise
+  - Real-World Applications: Case Studies and Practical Examples
+    - Analysing the Kodak Case Study: A Cautionary Tale of Inertia
+      - Mapping the Changing Landscape of the Photography Industry
+      - Identifying Kodak's Strategic Missteps
+      - Lessons Learned: The Importance of Adapting to Change
+    - The Zimki Story: A Pioneer's Journey into Utility Computing
+      - Mapping the Evolution of Computing Infrastructure
+      - Identifying the Key Strategic Decisions and Challenges
+      - Lessons Learned: The Importance of Vision and Execution
+    - The Hypothetical Gun Company: Balancing Competing Interests
+      - Mapping the Gun Industry and its Stakeholders
+      - Identifying the Conflicting Needs of Different User Groups
+      - Lessons Learned: The Importance of Stakeholder Management
+    - The LFP Scenario: A Practical Exercise in Strategic Decision-Making
+      - Analysing the Landscape and Identifying Key Opportunities
+      - Evaluating Different Strategic Options Based on Doctrine and Climatic Patterns
+      - Developing a Strategic Plan for the LFP Project
+      - A Post-Mortem Analysis: What Went Right, What Went Wrong, and What Could Have Been Done Differently
+    - The Self-Driving Car Industry: A Look into the Future
+      - Mapping the Emerging Landscape of Autonomous Vehicles
+      - Identifying Key Players and Their Strategic Positions
+      - Anticipating Future Trends and Disruptions
+      - Developing a Strategic Plan for Navigating the Autonomous Vehicle Revolution
+  - Overcoming Challenges and Embracing Continuous Learning
+    - Common Pitfalls and How to Avoid Them
+      - The Simple Trap: Oversimplifying Complex Systems
+      - The Dangers of Past Success: Overcoming Inertia
+      - The Tyranny of Action: Prioritizing Awareness Over Execution
+      - The Illusion of Control: Embracing Uncertainty
+    - Building a Strategic Culture: Fostering Collaboration and Challenge
+      - Creating a Common Language for Strategy
+      - Encouraging Transparency and Open Communication
+      - Promoting a Culture of Continuous Learning and Improvement
+      - Empowering Teams to Make Strategic Decisions
+    - The Journey Continues: Embracing the Ever-Evolving Landscape
+      - The Importance of Continuous Monitoring and Adaptation
+      - Developing a Framework for Reviewing and Refining Strategic Plans
+      - Staying Ahead of the Curve: Cultivating a Mindset of Curiosity and Exploration
+
+
 ## Foundations: Navigating the Strategic Landscape
 
 ### The Essence of Strategy: Beyond Execution

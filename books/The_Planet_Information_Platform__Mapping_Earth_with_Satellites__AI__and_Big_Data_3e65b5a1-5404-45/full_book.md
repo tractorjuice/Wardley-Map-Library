@@ -2,8 +2,10 @@
 
 ### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 
-## Table of Contents
+# Table of Contents
 
+- The Planet Information Platform: Mapping Earth with Satellites, AI, and Big Data
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: A New Era of Planetary Observation
   - The Vision of a Global Information Platform
     - Defining the Planet Information Platform
@@ -14,7 +16,6 @@
     - Machine Learning and AI
     - Big Data Analytics
     - Generative AI
-
 - Fundamentals of Earth Observation Technologies
   - Satellite Systems and Sensors
     - Types of Earth Observation Satellites
@@ -29,7 +30,6 @@
     - Radar and SAR Data
     - Multispectral and Hyperspectral Data
     - Atmospheric and Environmental Measurements
-
 - AI and Machine Learning for Satellite Data Analysis
   - Fundamentals of AI and ML in Earth Observation
     - Key ML Algorithms for Satellite Data
@@ -47,7 +47,6 @@
     - Enhancing Image Resolution and Quality
     - Filling Data Gaps and Interpolation
     - Simulating Future Scenarios
-
 - The Planet Information Platform: Architecture and Implementation
   - System Architecture
     - Data Ingestion and Storage
@@ -66,7 +65,6 @@
     - Data Validation and Verification Processes
     - Handling Uncertainties and Error Propagation
     - Continuous Monitoring and System Maintenance
-
 - Applications and Impact
   - Environmental Monitoring and Conservation
     - Deforestation and Land Use Change Detection
@@ -88,7 +86,6 @@
     - Crop Yield Prediction and Optimization
     - Precision Agriculture and Resource Management
     - Early Detection of Crop Diseases and Pests
-
 - Ethical Considerations and Policy Implications
   - Privacy and Data Protection
     - Balancing Transparency and Individual Privacy
@@ -106,7 +103,6 @@
     - Energy Consumption and Carbon Footprint of Data Centers
     - Responsible AI Development and Deployment
     - Addressing Bias and Fairness in Global Monitoring Systems
-
 - Conclusion: The Future of Planetary Intelligence
   - Emerging Trends and Technologies
     - Next-generation Satellite Systems
@@ -120,6 +116,11 @@
     - Realizing the UN Sustainable Development Goals
     - Empowering Global Decision-making
     - Fostering a Planetary Consciousness
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: A New Era of Planetary Observation
 

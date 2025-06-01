@@ -1,5 +1,55 @@
 # The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence
 
+# Table of Contents
+
+- The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence
+  - Introduction: The New AI Landscape
+    - The Stakes of the AI Race
+      - The Current State of AI Development
+      - Why These Three Companies Matter
+      - The Battle for AI Leadership
+  - Philosophical Foundations and Corporate Cultures
+    - OpenAI's Evolution: From Non-Profit to Capped-Profit
+      - Original Mission and Values
+      - The Transition Debate
+      - Current Ethical Framework
+    - Anthropic's Constitutional AI Approach
+      - Foundations in AI Safety
+      - Constitutional AI Principles
+      - Implementation Methods
+    - Google's Corporate AI Philosophy
+      - Balancing Innovation with Responsibility
+      - Internal AI Guidelines
+      - Public AI Commitments
+  - Technical Innovations and Capabilities
+    - Language Model Architectures
+      - GPT Series Evolution
+      - Claude's Technical Distinctions
+      - PaLM and Gemini Innovations
+    - Safety and Control Mechanisms
+      - Training Methodologies
+      - Safety Features Comparison
+      - Performance Benchmarks
+  - Market Strategies and Business Impact
+    - Business Models and Monetisation
+      - API Services and Pricing
+      - Enterprise Solutions
+      - Research Commercialisation
+    - Strategic Partnerships
+      - Microsoft-OpenAI Alliance
+      - Anthropic's Funding Sources
+      - Google's Ecosystem Advantages
+  - Shaping the Future: Impact and Implications
+    - Policy and Regulation Influence
+      - Government Relations
+      - Industry Standards Setting
+      - Public Policy Positions
+    - Future Trajectories
+      - Technology Roadmaps
+      - Competitive Dynamics
+      - Potential Convergence Points
+
+
 ## Introduction: The New AI Landscape
 
 ### The Stakes of the AI Race

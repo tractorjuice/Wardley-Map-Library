@@ -1,5 +1,78 @@
 # Strategic Cartography: Mastering Wardley Maps for Business Transformation
 
+# Table of Contents
+
+- Strategic Cartography: Mastering Wardley Maps for Business Transformation
+  - Introduction: The Power of Visual Strategy
+    - Understanding Strategic Mapping
+      - The Evolution of Strategic Planning
+      - Why Visual Thinking Matters
+      - Introduction to Wardley Maps
+    - The Modern Business Landscape
+      - Digital Transformation Challenges
+      - Competitive Dynamics
+      - Value Creation in the Digital Age
+  - Fundamentals of Wardley Mapping
+    - Core Components
+      - Value Chain Basics
+      - Evolution Axis
+      - Movement and Anchoring
+      - Dependencies and Links
+    - Visual Thinking Principles
+      - Spatial Arrangement
+      - Visual Hierarchy
+      - Pattern Recognition
+      - Cognitive Load Management
+    - Map Construction
+      - Identifying Users and Needs
+      - Mapping Components
+      - Understanding Evolution
+      - Validating Your Map
+  - Practical Application and Workshop Guide
+    - Workshop Design
+      - Setting Objectives
+      - Participant Preparation
+      - Room Setup and Materials
+      - Facilitation Techniques
+    - Mapping Exercises
+      - Individual Mapping Sessions
+      - Team Mapping Activities
+      - Cross-functional Collaboration
+      - Remote Mapping Workshops
+    - Common Challenges and Solutions
+      - Component Identification Issues
+      - Evolution Assessment Problems
+      - Team Alignment Difficulties
+      - Map Refinement Strategies
+  - Integration with Strategic Tools
+    - Complementary Frameworks
+      - Business Model Canvas Integration
+      - Blue Ocean Strategy Alignment
+      - Value Chain Analysis Synthesis
+      - Strategic Planning Tools Ecosystem
+    - Enhanced Decision Making
+      - Multi-framework Analysis
+      - Strategic Options Generation
+      - Risk Assessment
+      - Investment Prioritisation
+  - Case Studies and Real-World Applications
+    - Success Stories
+      - Technology Sector Transformations
+      - Manufacturing Industry Evolution
+      - Service Industry Innovations
+      - Public Sector Implementations
+    - Learning from Failures
+      - Common Pitfalls
+      - Implementation Challenges
+      - Recovery Strategies
+      - Lessons Learned
+    - Future Applications
+      - Emerging Trends
+      - New Use Cases
+      - Tool Evolution
+      - Community Development
+
+
 ## Introduction: The Power of Visual Strategy
 
 ### Understanding Strategic Mapping

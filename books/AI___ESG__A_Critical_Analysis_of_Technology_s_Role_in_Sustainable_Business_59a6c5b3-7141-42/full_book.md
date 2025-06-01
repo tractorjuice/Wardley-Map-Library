@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+- AI & ESG: A Critical Analysis of Technology's Role in Sustainable Business
+    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
 - Introduction: The AI-ESG Paradox
   - The Promise and Peril of AI in ESG
     - Current State of ESG Implementation
@@ -13,7 +15,6 @@
     - Key Stakeholders and Their Interests
     - Regulatory Landscape
     - Book Structure and Approach
-
 - Chapter 1: The Dual Nature of AI in ESG
   - Environmental Impact
     - Energy Consumption of AI Systems
@@ -27,7 +28,6 @@
     - AI Decision-Making Transparency
     - Accountability Frameworks
     - Risk Management Structures
-
 - Chapter 2: Measuring AI's ESG Impact
   - The ESG-AI Scorecard
     - Key Performance Indicators
@@ -37,7 +37,6 @@
     - Quantitative Metrics
     - Qualitative Assessments
     - Benchmarking Standards
-
 - Chapter 3: Strategic Implementation
   - Risk-Opportunity Mapping
     - Wardley Mapping Application
@@ -48,7 +47,6 @@
     - Resource Allocation
     - Change Management
     - Monitoring and Adjustment
-
 - Chapter 4: Future Horizons
   - Emerging Trends
     - Technological Advancements
@@ -58,6 +56,14 @@
     - Scenario Planning
     - Adaptive Strategies
     - Long-term Sustainability
+- Appendix
+  - Book Generation Details
+  - Further Reading on Wardley Mapping
+- Appendix: Further Reading on Wardley Mapping
+  - Core Wardley Mapping Series
+  - Practical Resources
+  - Specialized Applications
+
 
 # Introduction: The AI-ESG Paradox
 

@@ -1,5 +1,55 @@
 # Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery
 
+# Table of Contents
+
+- Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery
+  - Introduction: The Landscape of Government Digital Transformation
+    - Current State of Digital Government
+      - Understanding the Public Sector Digital Environment
+      - Key Challenges and Opportunities
+      - The Role of Leadership in Government Transformation
+    - Framework for Success
+      - Core Principles of Government Digital Transformation
+      - Balancing Innovation with Public Service Requirements
+      - Building Blocks of Successful Digital Initiatives
+  - Strategic Leadership and Governance
+    - Navigating Government Complexity
+      - Understanding Bureaucratic Constraints
+      - Stakeholder Mapping and Management
+      - Building Cross-Department Coalitions
+    - Governance Frameworks
+      - Establishing Effective Governance Structures
+      - Risk Management in Public Sector Projects
+      - Decision-Making Protocols and Escalation Paths
+  - Agile Delivery in Government Context
+    - Adapting Agile for Government
+      - Modified Agile Frameworks for Public Sector
+      - Compliance-Aware Sprint Planning
+      - Measuring Success in Government Projects
+    - Process Optimization
+      - Streamlining Government Workflows
+      - Change Management in Public Sector
+      - Continuous Improvement Strategies
+  - Technical Excellence and Security
+    - DevOps and Cloud Integration
+      - Government Cloud First Policies
+      - Security-Focused DevOps Practices
+      - Infrastructure Automation in Regulated Environments
+    - Quality and Compliance
+      - Building Secure Government Systems
+      - Quality Assurance in Public Sector IT
+      - Meeting Regulatory Requirements
+  - Team Leadership and Resource Management
+    - Managing Hybrid Teams
+      - Leading Mixed Internal-External Teams
+      - Capacity Planning and Resource Allocation
+      - Skills Development and Knowledge Transfer
+    - Delivery Excellence
+      - Maintaining Team Productivity
+      - Managing Priority-Driven Environments
+      - Building High-Performing Government Teams
+
+
 ## Introduction: The Landscape of Government Digital Transformation
 
 ### Current State of Digital Government

@@ -1,5 +1,65 @@
 # Data Science in Rwanda: A Beginner's Guide to Digital Transformation in Africa
 
+# Table of Contents
+
+- Data Science in Rwanda: A Beginner's Guide to Digital Transformation in Africa
+  - Introduction to Data Science Through a Rwandan Lens
+    - Understanding Data Science Fundamentals
+      - What is Data Science?
+      - The Role of Data in Rwanda's Digital Evolution
+      - Key Tools and Technologies in African Context
+      - Data Science Success Stories from Rwanda
+    - The African Data Landscape
+      - Unique Characteristics of African Data
+      - Data Collection Challenges and Solutions
+      - Digital Infrastructure in Rwanda
+      - Data Sources and Accessibility
+  - Python Programming with Local Datasets
+    - Getting Started with Python
+      - Setting Up Your Development Environment
+      - Basic Python Concepts
+      - Working with Data Structures
+      - File Handling and Data Import
+    - Analyzing Rwandan Datasets
+      - Agricultural Data Analysis
+      - Healthcare Statistics Processing
+      - Mobile Money Transaction Analysis
+      - Visualization of Local Data
+  - Machine Learning for African Development
+    - Core ML Concepts
+      - Introduction to Machine Learning
+      - Supervised vs Unsupervised Learning
+      - Model Selection and Evaluation
+      - Feature Engineering with Local Data
+    - Practical Applications
+      - Crop Yield Prediction Models
+      - Healthcare Outcome Analysis
+      - Financial Inclusion Projects
+      - Urban Planning Applications
+  - Data Ethics and Cultural Considerations
+    - Ethical Framework
+      - Data Privacy in African Context
+      - Cultural Sensitivity in Data Collection
+      - Local Regulations and Compliance
+      - Community Engagement Principles
+    - Responsible Data Practices
+      - Data Security Measures
+      - Bias Detection and Mitigation
+      - Sustainable Data Management
+      - Ethical Decision Making
+  - Building Your Data Science Career
+    - Career Pathways
+      - Local Job Market Overview
+      - Required Skills and Qualifications
+      - Remote Work Opportunities
+      - Building a Professional Network
+    - Professional Development
+      - Continuous Learning Resources
+      - Project Portfolio Development
+      - Industry Certifications
+      - Mentorship and Community
+
+
 ## Introduction to Data Science Through a Rwandan Lens
 
 ### Understanding Data Science Fundamentals

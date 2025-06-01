@@ -853,8 +853,11 @@ class BooksLibrary {
         
         if (bookId) {
             url.searchParams.set('book', bookId);
+            // Clear hash when switching books to ensure we start at the top
+            url.hash = '';
         } else {
             url.searchParams.delete('book');
+            url.hash = '';
         }
         
         window.history.pushState({ bookId }, '', url);

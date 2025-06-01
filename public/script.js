@@ -191,6 +191,13 @@ class BooksLibrary {
         window.addEventListener('popstate', (e) => {
             this.handlePopState(e);
         });
+        
+        // Setup hash change handling for in-page navigation
+        window.addEventListener('hashchange', (e) => {
+            if (window.location.hash && this.selectedBook) {
+                this.scrollToHash(window.location.hash);
+            }
+        });
     }
 
     setupSplitter() {
@@ -450,10 +457,17 @@ class BooksLibrary {
             }
         }
 
-        // Scroll to top
+        // Handle scrolling - check for hash fragment in URL
         const bookContentContainer = document.querySelector('.book-content');
         if (bookContentContainer) {
-            bookContentContainer.scrollTop = 0;
+            // Use setTimeout to ensure content is rendered before scrolling
+            setTimeout(() => {
+                if (window.location.hash) {
+                    this.scrollToHash(window.location.hash);
+                } else {
+                    bookContentContainer.scrollTop = 0;
+                }
+            }, 100);
         }
     }
 
@@ -722,6 +736,42 @@ class BooksLibrary {
                 }, 1500);
             }, 300); // Delay to let scroll animation start
         }
+    }
+
+    scrollToHash(hash) {
+        if (!hash) return;
+        
+        // Remove the # if present
+        const targetId = hash.startsWith('#') ? hash.slice(1) : hash;
+        
+        // Find the target element
+        const targetElement = document.getElementById(targetId);
+        if (!targetElement) {
+            console.warn(`Target element with id '${targetId}' not found`);
+            return;
+        }
+        
+        // Get the book content container
+        const bookContentContainer = document.querySelector('.book-content');
+        if (!bookContentContainer) {
+            console.warn('Book content container not found');
+            return;
+        }
+        
+        // Calculate the scroll position relative to the container
+        const containerRect = bookContentContainer.getBoundingClientRect();
+        const targetRect = targetElement.getBoundingClientRect();
+        
+        // Calculate the scroll offset (accounting for container's current scroll position)
+        const targetScrollTop = bookContentContainer.scrollTop + (targetRect.top - containerRect.top) - 20; // 20px offset for better visibility
+        
+        // Smooth scroll to the target
+        bookContentContainer.scrollTo({
+            top: targetScrollTop,
+            behavior: 'smooth'
+        });
+        
+        console.log(`Scrolled to element with id: ${targetId}`);
     }
 
     // URL routing methods

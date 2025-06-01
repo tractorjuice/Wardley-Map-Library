@@ -1,80 +1,142 @@
-# Wardley Map Library Documentation
+# Wardley Map Library 🗺️
 
-This directory contains comprehensive documentation for the Wardley Map Library project.
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://library.wardleymaps.ai/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Books](https://img.shields.io/badge/Books-174-blue.svg)](https://library.wardleymaps.ai/)
 
-## 📚 Documentation Index
+A comprehensive digital library of Wardley Mapping resources, strategic analysis reports, and business strategy books. Built with Vercel serverless functions and modern web technologies for optimal performance and user experience.
 
-### Development Documentation
-- **[CLAUDE.md](./CLAUDE.md)** - Development notes and guidelines for Claude Code
-  - Project structure and architecture
-  - Development workflows and branch strategy
-  - Code conventions and best practices
-  - Common tasks and debugging guides
+**🌐 Live Application:** [https://library.wardleymaps.ai/](https://library.wardleymaps.ai/)
 
-### Planning and Enhancement
-- **[ENHANCEMENTS.md](./ENHANCEMENTS.md)** - Future enhancement roadmap
-  - Authentication system implementation plans
-  - Review system design options
-  - Feature prioritization matrix
-  - Technical implementation strategies
+## ✨ Features
 
-### Content Management
-- **[MANIFEST.md](./MANIFEST.md)** - Book discovery and categorization system
-  - How book manifests are generated
-  - Categorization logic and rules
-  - Book metadata structure
+- **📚 174+ Books**: Comprehensive collection of strategic analysis and Wardley Mapping resources
+- **🔍 Smart Search**: Real-time search with category filtering and fuzzy matching
+- **📖 Interactive Reading**: Table of contents navigation, responsive design, mobile-optimized
+- **🎯 Auto-Categorization**: AI-powered book categorization across multiple domains
+- **🔗 External Integration**: Wardley map reports, direct linking, share functionality
+- **⚡ High Performance**: Serverless architecture with optimized loading and caching
 
-- **[TABLE_OF_CONTENTS.md](./TABLE_OF_CONTENTS.md)** - TOC generation system
-  - Automated table of contents creation
-  - Anchor generation and navigation
-  - TOC validation and testing
-
-## 🏗️ Project Structure
-
-```
-/workspaces/GenAI-Books/
-├── docs/                    # Documentation (this folder)
-│   ├── README.md           # Documentation index (this file)
-│   ├── CLAUDE.md           # Development guidelines
-│   ├── ENHANCEMENTS.md     # Enhancement roadmap
-│   ├── MANIFEST.md         # Book discovery system
-│   └── TABLE_OF_CONTENTS.md # TOC generation system
-├── README.md               # Main project README
-├── api/                    # Vercel serverless functions
-├── books/                  # Book content library
-├── public/                 # Frontend assets
-├── tests/                  # Test suite
-└── ...                     # Other project files
-```
-
-## 🎯 Quick Links
-
-### For Developers
-- Start with [CLAUDE.md](./CLAUDE.md) for development setup and guidelines
-- Review [ENHANCEMENTS.md](./ENHANCEMENTS.md) for planned features and implementation strategies
-
-### For Content Contributors
-- See [MANIFEST.md](./MANIFEST.md) to understand how books are discovered and categorized
-- Check [TABLE_OF_CONTENTS.md](./TABLE_OF_CONTENTS.md) for TOC generation requirements
+## 🚀 Quick Start
 
 ### For Users
-- Visit the main [README.md](../README.md) for project overview and usage instructions
+Visit [library.wardleymaps.ai](https://library.wardleymaps.ai/) to browse and read books instantly.
 
-## 📝 Documentation Guidelines
+### For Developers
+```bash
+# Clone the repository
+git clone https://github.com/tractorjuice/GenAI-Books.git
+cd GenAI-Books
 
-### Keeping Documentation Updated
-- Update relevant docs when making architectural changes
-- Add new enhancement ideas to ENHANCEMENTS.md
-- Document new development patterns in CLAUDE.md
-- Keep the main README.md user-focused and concise
+# Install dependencies
+npm install
 
-### Documentation Standards
-- Use clear, descriptive headings
-- Include code examples where helpful
-- Maintain consistent formatting
-- Link between related documentation sections
-- Update modification dates when making significant changes
+# Generate book manifest
+npm run generate-manifest
+
+# Start local development
+npm run test-server
+```
+
+## 📂 Project Structure
+
+```
+├── api/                    # Vercel serverless functions
+│   ├── books.js           # Books listing API
+│   ├── books/[id].js      # Individual book details
+│   └── wardley/           # Wardley map integration
+├── books/                 # Book content library (174+ books)
+├── docs/                  # Comprehensive documentation
+├── public/                # Frontend application
+├── scripts/               # Utility scripts
+└── tests/                 # Test suite
+```
+
+## 📚 Book Categories
+
+The library covers diverse strategic domains:
+
+- **Strategic Mapping** (53 books): Wardley Mapping methodology and applications
+- **Artificial Intelligence** (89 books): GenAI, LLMs, and AI strategy
+- **Business Strategy** (30 books): Strategic planning and competitive advantage  
+- **Government** (10 books): Public sector transformation and policy
+- **Sustainability** (15 books): Environmental and social governance
+- **Healthcare** (4 books): Medical technology and health systems
+- **Gaming** (4 books): AI in gaming and interactive entertainment
+- **Security** (4 books): Cybersecurity and privacy frameworks
+
+## 🛠️ Development
+
+### Key Scripts
+```bash
+npm run generate-manifest      # Scan books and update manifest
+npm run generate-toc          # Generate table of contents for all books
+npm run build-all            # Complete build process
+```
+
+### Adding New Books
+1. Add book directory to `books/` with `full_book.md`
+2. Run `npm run generate-manifest` to update catalog
+3. Test with `npm run test-server`
+
+### Architecture
+- **Frontend**: Vanilla JavaScript with modern ES6+ features
+- **Backend**: Vercel serverless functions with manifest-based discovery
+- **Storage**: Git-based content management with GitHub integration
+- **Deployment**: Automated Vercel deployment from Development branch
+
+## 📖 Documentation
+
+Comprehensive documentation is available in the [`docs/`](./docs/) directory:
+
+- **[Development Guide](./docs/README.md)** - Complete documentation index
+- **[Developer Notes](./CLAUDE.md)** - Architecture and development workflows  
+- **[Enhancement Roadmap](./docs/ENHANCEMENTS.md)** - Planned features and implementation
+- **[Manifest System](./docs/MANIFEST.md)** - Book discovery and categorization
+- **[Table of Contents](./docs/TABLE_OF_CONTENTS.md)** - TOC generation system
+
+## 🧪 Testing
+
+```bash
+# Run all tests
+npm run test-all
+
+# Test individual components
+node tests/test-books.js        # Book data verification
+node tests/test-api-endpoints.js # API functionality
+node tests/test-server.js       # Local development server
+```
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our development guidelines:
+
+1. **Branch Strategy**: All development happens on the `Development` branch
+2. **Code Quality**: Follow existing patterns and conventions
+3. **Documentation**: Update relevant docs for any changes
+4. **Testing**: Ensure all tests pass before submitting
+
+```bash
+git checkout Development
+# Make your changes
+npm run generate-manifest  # Update manifest if adding books
+npm run test-all           # Verify everything works
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Links
+
+- **Live Application**: [library.wardleymaps.ai](https://library.wardleymaps.ai/)
+- **Repository**: [GitHub](https://github.com/tractorjuice/GenAI-Books)
+- **Issues**: [Bug Reports & Features](https://github.com/tractorjuice/GenAI-Books/issues)
+
+## 🏆 Acknowledgments
+
+This library serves the strategic thinking community by providing free access to high-quality Wardley Mapping and strategic analysis resources. Built with modern web technologies for optimal performance and user experience.
 
 ---
 
-*Documentation organized: January 6, 2025*
+*Empowering strategic thinking through accessible knowledge and interactive learning.*

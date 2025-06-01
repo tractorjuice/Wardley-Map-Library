@@ -1,6 +1,6 @@
 # Wardley Map Library 🗺️
 
-A comprehensive **open-source** digital library for Wardley Mapping resources, strategic analysis reports, and business strategy books. Currently featuring **88 strategic analysis books** with a modern, responsive interface and advanced functionality for exploring strategic thinking and business analysis.
+A comprehensive **open-source** digital library for Wardley Mapping resources, strategic analysis reports, and business strategy books. Currently featuring **177 strategic analysis books** with a modern, responsive interface and advanced functionality for exploring strategic thinking and business analysis.
 
 **🌐 Live Demo:** [Visit the Wardley Map Library](https://library.wardleymaps.ai/)
 

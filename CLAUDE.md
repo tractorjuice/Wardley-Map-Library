@@ -13,7 +13,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 - Wardley map integration operational
 - Responsive UI with interactive features
 - Dynamic book discovery and categorization
-- **88 books** currently available in the library
+- **177 books** currently available in the library
 - Vercel deployment optimized and stable
 
 ## 🏗️ Architecture

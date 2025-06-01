@@ -1,7 +1,7 @@
 {
-  "generated": "2025-05-29T04:55:36.197Z",
+  "generated": "2025-06-01T07:50:34.115Z",
   "version": "1.0.0",
-  "totalBooks": 87,
+  "totalBooks": 177,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -12,6 +12,17 @@
       ],
       "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
       "path": "/workspaces/GenAI-Books/books/A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "ace-your-foundation-in-wardley-mapping-exam-a-com-e3a63103",
+      "title": "Ace Your Foundation in Wardley Mapping Exam  A Com",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
+      "path": "/workspaces/GenAI-Books/books/Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103/full_book.md",
       "additionalFiles": []
     },
     {
@@ -67,6 +78,39 @@
       ],
       "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
       "path": "/workspaces/GenAI-Books/books/AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "ai-supremacy-the-battle-between-openai-anthropic-8cd4825c",
+      "title": "AI Supremacy  The Battle Between OpenAI  Anthropic",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c",
+      "path": "/workspaces/GenAI-Books/books/AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "are-the-genai-agents-taking-over-navigating-the-f-987fcdf5",
+      "title": "Are the GenAI Agents Taking Over  Navigating the F",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
+      "path": "/workspaces/GenAI-Books/books/Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "automating-g-cloud14-r-d-claims-a-comprehensive-g-a3ba647b",
+      "title": "Automating G-Cloud14 R D Claims  A Comprehensive G",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Automating_G-Cloud14_R_D_Claims__A_Comprehensive_G_a3ba647b",
+      "path": "/workspaces/GenAI-Books/books/Automating_G-Cloud14_R_D_Claims__A_Comprehensive_G_a3ba647b/full_book.md",
       "additionalFiles": []
     },
     {
@@ -128,6 +172,34 @@
       "additionalFiles": []
     },
     {
+      "id": "bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3",
+      "title": "Bridging the Divide  Strategies for Reducing Inequ",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
+      "path": "/workspaces/GenAI-Books/books/Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "british-airways-2030-transforming-loyalty-in-the-514a98bb",
+      "title": "British Airways 2030  Transforming Loyalty in the",
+      "category": [
+        "Artificial Intelligence",
+        "Consumer"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Consumer"
+      ],
+      "directory": "British_Airways_2030__Transforming_Loyalty_in_the__514a98bb",
+      "path": "/workspaces/GenAI-Books/books/British_Airways_2030__Transforming_Loyalty_in_the__514a98bb/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success-f8b42d91-7e23-4a",
       "title": "British Airways 2030  Transforming Loyalty in the Digital Age A Strategic Framework for Future Success",
       "category": [
@@ -171,6 +243,19 @@
       "additionalFiles": []
     },
     {
+      "id": "can-the-un-save-the-planet-challenges-transforma-e05551a1",
+      "title": "Can the UN Save the Planet  Challenges  Transforma",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
+      "path": "/workspaces/GenAI-Books/books/Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
       "title": "Charting the AI Current  A Strategic Blueprint for",
       "category": "Artificial Intelligence",
@@ -197,6 +282,19 @@
       ]
     },
     {
+      "id": "co-pilot-pcs-in-the-enterprise-a-strategic-guide-5e79a385",
+      "title": "Co-pilot PCs in the Enterprise  A Strategic Guide",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
+      "path": "/workspaces/GenAI-Books/books/Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "conscious-earth-harnessing-the-planet-s-information-platform-revolution-0b9366d1-db69-4d",
       "title": "Conscious Earth  Harnessing the Planet s Information Platform Revolution",
       "category": [
@@ -211,6 +309,45 @@
         "README.md",
         "markdown/"
       ]
+    },
+    {
+      "id": "cost-effective-migration-transitioning-applicatio-366f9974",
+      "title": "Cost-Effective Migration  Transitioning Applicatio",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
+      "path": "/workspaces/GenAI-Books/books/Cost-Effective_Migration__Transitioning_Applicatio_366f9974/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af",
+      "title": "Data in the Age of AI  Will LLMs Redefine Data Sto",
+      "category": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
+      "path": "/workspaces/GenAI-Books/books/Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "data-science-in-rwanda-a-beginners-guide-to-digital-transformation-in-africa-5909ed60",
+      "title": "Data Science in Rwanda - A Beginner's Guide to Digital Transformation in Africa",
+      "category": "Data Science",
+      "categories": [
+        "Data Science"
+      ],
+      "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
+      "path": "/workspaces/GenAI-Books/books/Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
@@ -230,6 +367,17 @@
       ]
     },
     {
+      "id": "deepseek-disruption-china-s-open-source-ai-and-th-3e7ecd8a",
+      "title": "DeepSeek Disruption  China s Open-Source AI and th",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
+      "path": "/workspaces/GenAI-Books/books/DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "digital-battlefield-storage-a-wardley-mapping-approach-to-military-data-strategy-482015f5",
       "title": "Digital Battlefield Storage  A Wardley Mapping Approach to Military Data Strategy",
       "category": [
@@ -246,6 +394,56 @@
       ],
       "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
       "path": "/workspaces/GenAI-Books/books/Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "digital-bridges-empowering-offline-communities-th-391100c7",
+      "title": "Digital Bridges  Empowering Offline Communities Th",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
+      "path": "/workspaces/GenAI-Books/books/Digital_Bridges__Empowering_Offline_Communities_Th_391100c7/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "digital-darwinism-how-genai-challenges-the-surviv-7d84aea4",
+      "title": "Digital Darwinism  How GenAI Challenges the Surviv",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4",
+      "path": "/workspaces/GenAI-Books/books/Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "digital-excellence-the-strategic-case-for-a-uk-lo-0ab4cf1c",
+      "title": "Digital Excellence  The Strategic Case for a UK Lo",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c",
+      "path": "/workspaces/GenAI-Books/books/Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "digital-titans-the-epic-battle-between-apple-mic-c2b141ff",
+      "title": "Digital Titans  The Epic Battle Between Apple  Mic",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
+      "path": "/workspaces/GenAI-Books/books/Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff/full_book.md",
       "additionalFiles": []
     },
     {
@@ -282,6 +480,41 @@
       "additionalFiles": []
     },
     {
+      "id": "ecosystem-advantage-mapping-and-orchestrating-for-46fa9d88",
+      "title": "Ecosystem Advantage  Mapping and Orchestrating for",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
+      "path": "/workspaces/GenAI-Books/books/Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "empowering-the-future-achieving-affordable-and-cl-6bb54cc5",
+      "title": "Empowering the Future  Achieving Affordable and Cl",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
+      "path": "/workspaces/GenAI-Books/books/Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "ensuring-healthy-lives-a-comprehensive-guide-to-s-3229dd35",
+      "title": "Ensuring Healthy Lives  A Comprehensive Guide to S",
+      "category": "Healthcare",
+      "categories": [
+        "Healthcare"
+      ],
+      "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
+      "path": "/workspaces/GenAI-Books/books/Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "first-mover-intelligence-mastering-early-recognition-and-strategic-adaptation-in-a-dynamic-world-0b7ec179",
       "title": "First-Mover Intelligence  Mastering Early Recognition and Strategic Adaptation in a Dynamic World",
       "category": [
@@ -303,6 +536,17 @@
       ],
       "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
       "path": "/workspaces/GenAI-Books/books/From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "functionalism-and-genai-bridging-philosophy-and-t-d45b6cea",
+      "title": "Functionalism and GenAI  Bridging Philosophy and T",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
+      "path": "/workspaces/GenAI-Books/books/Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea/full_book.md",
       "additionalFiles": []
     },
     {
@@ -351,6 +595,21 @@
       "additionalFiles": []
     },
     {
+      "id": "genai-for-hmrc-a-practical-guide-to-transforming-26ebe7b6",
+      "title": "GenAI for HMRC  A Practical Guide to Transforming",
+      "category": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming__26ebe7b6",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming__26ebe7b6/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "genai-for-hmrc-a-practical-guide-to-transforming-bbdf344f",
       "title": "GenAI for HMRC  A Practical Guide to Transforming",
       "category": [
@@ -363,6 +622,83 @@
       ],
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
       "path": "/workspaces/GenAI-Books/books/GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "genai-for-official-statistics-a-strategic-guide-f-29969967",
+      "title": "GenAI for Official Statistics  A Strategic Guide f",
+      "category": [
+        "Artificial Intelligence",
+        "UK Statistics Authority"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "UK Statistics Authority"
+      ],
+      "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "genai-for-public-good-a-practical-strategy-for-go-0806731f",
+      "title": "GenAI for Public Good  A Practical Strategy for GO",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "directory": "GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "genai-for-the-nhs-a-practical-guide-to-strategy-82b9d881",
+      "title": "GenAI for the NHS  A Practical Guide to Strategy",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy",
+        "Department of Health & Social Care"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy",
+        "Department of Health & Social Care"
+      ],
+      "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
+      "path": "/workspaces/GenAI-Books/books/GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "genai-in-hmrc-a-strategic-guide-to-transforming-t-506e97f6",
+      "title": "GenAI in HMRC  A Strategic Guide to Transforming T",
+      "category": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "directory": "GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6",
+      "path": "/workspaces/GenAI-Books/books/GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "generative-ai-engineering-from-data-to-deployment-6410d8f6",
+      "title": "Generative AI Engineering  From Data to Deployment",
+      "category": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
+      "path": "/workspaces/GenAI-Books/books/Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6/full_book.md",
       "additionalFiles": []
     },
     {
@@ -381,6 +717,58 @@
       "additionalFiles": []
     },
     {
+      "id": "generative-ai-for-public-sector-transformation-a-4749e098",
+      "title": "Generative AI for Public Sector Transformation  A",
+      "category": [
+        "Artificial Intelligence",
+        "Government"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Government"
+      ],
+      "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
+      "path": "/workspaces/GenAI-Books/books/Generative_AI_for_Public_Sector_Transformation__A__4749e098/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "generative-ai-in-defence-applications-ethics-an-af931312",
+      "title": "Generative AI in Defence  Applications  Ethics  an",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
+      "path": "/workspaces/GenAI-Books/books/Generative_AI_in_Defence__Applications__Ethics__an_af931312/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "harnessing-genai-for-environmental-stewardship-a-c7f85312",
+      "title": "Harnessing GenAI for Environmental Stewardship  A",
+      "category": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
+      "path": "/workspaces/GenAI-Books/books/Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "harnessing-generative-ai-a-strategic-approach-for-19aa41de",
+      "title": "Harnessing Generative AI  A Strategic Approach for",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
+      "path": "/workspaces/GenAI-Books/books/Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48",
       "title": "Harnessing the Power of GenAI  A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
       "category": [
@@ -393,6 +781,17 @@
       ],
       "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
       "path": "/workspaces/GenAI-Books/books/Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "infrastructure-technical-debt-a-data-driven-appro-05cf694f",
+      "title": "Infrastructure Technical Debt  A Data-Driven Appro",
+      "category": "Data Science",
+      "categories": [
+        "Data Science"
+      ],
+      "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
+      "path": "/workspaces/GenAI-Books/books/Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f/full_book.md",
       "additionalFiles": []
     },
     {
@@ -413,6 +812,28 @@
       "additionalFiles": [
         "full_book_German.md"
       ]
+    },
+    {
+      "id": "jevons-and-genai-bridging-economics-and-the-futur-1595067f",
+      "title": "Jevons and GenAI  Bridging Economics and the Futur",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Jevons_and_GenAI__Bridging_Economics_and_the_Futur_1595067f",
+      "path": "/workspaces/GenAI-Books/books/Jevons_and_GenAI__Bridging_Economics_and_the_Futur_1595067f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "jevons-and-genai-navigating-economic-theories-in-e75ac76f",
+      "title": "Jevons and GenAI  Navigating Economic Theories in",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
+      "path": "/workspaces/GenAI-Books/books/Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "leading-digital-transformation-in-government-a-practitioner-s-guide-to-complex-project-delivery-2485b672",
@@ -437,6 +858,17 @@
       "additionalFiles": [
         "markdown/"
       ]
+    },
+    {
+      "id": "mapping-armageddon-a-wardley-map-approach-to-worl-c1f4c8c5",
+      "title": "Mapping Armageddon  A Wardley Map Approach to Worl",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5",
+      "path": "/workspaces/GenAI-Books/books/Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "mapping-evolution-mastering-strategy-in-a-red-queen-world-19ec116b",
@@ -492,6 +924,21 @@
       "additionalFiles": []
     },
     {
+      "id": "mapping-the-future-of-uk-transport-a-wardley-mapp-8f45c6a1",
+      "title": "Mapping the Future of UK Transport  A Wardley Mapp",
+      "category": [
+        "Strategic Mapping",
+        "Department for Transport"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Department for Transport"
+      ],
+      "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
+      "path": "/workspaces/GenAI-Books/books/Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a",
       "title": "Mapping the ILC Lifecycle  A Beginner s Guide to Wardley Mapping",
       "category": "Strategic Mapping",
@@ -511,6 +958,28 @@
       ],
       "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
       "path": "/workspaces/GenAI-Books/books/Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mapping-the-robot-revolution-a-wardley-map-approa-ff29f2d8",
+      "title": "Mapping the Robot Revolution  A Wardley Map Approa",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
+      "path": "/workspaces/GenAI-Books/books/Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mapping-your-competitive-advantage-a-practical-gu-2f6d09c6",
+      "title": "Mapping Your Competitive Advantage  A Practical Gu",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
+      "path": "/workspaces/GenAI-Books/books/Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6/full_book.md",
       "additionalFiles": []
     },
     {
@@ -591,6 +1060,69 @@
       ]
     },
     {
+      "id": "mathematical-modelling-for-wardley-mapping-a-stra-ae168311",
+      "title": "Mathematical Modelling for Wardley Mapping  A Stra",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
+      "path": "/workspaces/GenAI-Books/books/Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mathematical-models-for-infrastructure-technical-d-957371a8",
+      "title": "Mathematical Models for Infrastructure Technical D",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
+      "path": "/workspaces/GenAI-Books/books/Mathematical_Models_for_Infrastructure_Technical_D_957371a8/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mathematical-models-for-wardley-mapping-a-quantit-7db3030c",
+      "title": "Mathematical Models for Wardley Mapping  A Quantit",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Mathematical_Models_for_Wardley_Mapping__A_Quantit_7db3030c",
+      "path": "/workspaces/GenAI-Books/books/Mathematical_Models_for_Wardley_Mapping__A_Quantit_7db3030c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mathematical-models-for-wardley-mapping-gameplay-f929d065",
+      "title": "Mathematical Models for Wardley Mapping Gameplay",
+      "category": [
+        "Strategic Mapping",
+        "Gaming"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Gaming"
+      ],
+      "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
+      "path": "/workspaces/GenAI-Books/books/Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "mathematical-models-of-strategic-evolution-innova-9a665255",
+      "title": "Mathematical Models of Strategic Evolution  Innova",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
+      "path": "/workspaces/GenAI-Books/books/Mathematical_Models_of_Strategic_Evolution__Innova_9a665255/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
       "title": "Meta s Closed-Source LLMs in Healthcare  A Critical Analysis of Risks and Benefits",
       "category": [
@@ -620,6 +1152,17 @@
       ],
       "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
       "path": "/workspaces/GenAI-Books/books/Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "navigating-complexity-wardley-mapping-climatic-pa-69102bf8",
+      "title": "Navigating Complexity  Wardley Mapping Climatic Pa",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
+      "path": "/workspaces/GenAI-Books/books/Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8/full_book.md",
       "additionalFiles": []
     },
     {
@@ -691,6 +1234,43 @@
       ]
     },
     {
+      "id": "open-banking-for-you-take-control-of-your-finance-05f3f2ae",
+      "title": "Open Banking for You  Take Control of Your Finance",
+      "category": "HM Treasury",
+      "categories": [
+        "HM Treasury"
+      ],
+      "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
+      "path": "/workspaces/GenAI-Books/books/Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "open-source-advantage-transforming-business-compe-3bca9762",
+      "title": "Open Source Advantage  Transforming Business Compe",
+      "category": [
+        "Business Strategy",
+        "Department for Business & Trade"
+      ],
+      "categories": [
+        "Business Strategy",
+        "Department for Business & Trade"
+      ],
+      "directory": "Open_Source_Advantage__Transforming_Business_Compe_3bca9762",
+      "path": "/workspaces/GenAI-Books/books/Open_Source_Advantage__Transforming_Business_Compe_3bca9762/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "open-source-ai-as-a-competitive-advantage-strateg-9a0ae605",
+      "title": "Open Source AI as a Competitive Advantage  Strateg",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
+      "path": "/workspaces/GenAI-Books/books/Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "open-source-as-a-competitive-weapon-strategy-communication-0d597dd3-b074",
       "title": "Open Source as a Competitive Weapon  Strategy  Communication",
       "category": "Business Strategy",
@@ -702,6 +1282,19 @@
       "additionalFiles": []
     },
     {
+      "id": "platform-design-mastery-building-and-scaling-gena-399fb4a2",
+      "title": "Platform Design Mastery  Building and Scaling GenA",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
+      "path": "/workspaces/GenAI-Books/books/Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "platform-mastery-strategic-design-and-mapping-for-digital-success-65a53175",
       "title": "Platform Mastery  Strategic Design and Mapping for Digital Success",
       "category": "Strategic Mapping",
@@ -710,6 +1303,17 @@
       ],
       "directory": "Platform_Mastery__Strategic_Design_and_Mapping_for_Digital_Success_65a53175",
       "path": "/workspaces/GenAI-Books/books/Platform_Mastery__Strategic_Design_and_Mapping_for_Digital_Success_65a53175/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "pricing-strategies-for-genai-applications-unlocki-e92115bb",
+      "title": "Pricing Strategies for GenAI Applications  Unlocki",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb",
+      "path": "/workspaces/GenAI-Books/books/Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb/full_book.md",
       "additionalFiles": []
     },
     {
@@ -725,6 +1329,30 @@
       ],
       "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
       "path": "/workspaces/GenAI-Books/books/Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "reversible-revolution-can-reversible-computing-co-3c18fbe5",
+      "title": "Reversible Revolution  Can Reversible Computing Co",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
+      "path": "/workspaces/GenAI-Books/books/Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "reversible-revolution-can-vaire-computing-cool-do-0a9bab82",
+      "title": "Reversible Revolution  Can Vaire Computing Cool Do",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
+      "path": "/workspaces/GenAI-Books/books/Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82/full_book.md",
       "additionalFiles": []
     },
     {
@@ -764,6 +1392,32 @@
       "additionalFiles": []
     },
     {
+      "id": "running-faster-to-stay-in-place-mastering-the-red-5c412daa",
+      "title": "Running Faster to Stay in Place  Mastering the Red",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
+      "path": "/workspaces/GenAI-Books/books/Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "running-to-stand-still-mastering-the-red-queen-ef-17142133",
+      "title": "Running to Stand Still  Mastering the Red Queen Ef",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
+      "path": "/workspaces/GenAI-Books/books/Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
       "title": "Running to Stand Still  Mastering the Red Queen Effect in Business and Life",
       "category": [
@@ -796,6 +1450,21 @@
       "additionalFiles": []
     },
     {
+      "id": "securing-generative-ai-in-defence-science-a-compr-e487b92b",
+      "title": "Securing Generative AI in Defence Science  A Compr",
+      "category": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science"
+      ],
+      "directory": "Securing_Generative_AI_in_Defence_Science__A_Compr_e487b92b",
+      "path": "/workspaces/GenAI-Books/books/Securing_Generative_AI_in_Defence_Science__A_Compr_e487b92b/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "securing-llms-essential-questions-for-your-penetration-testing-strategy-be9e7c94-d513-43",
       "title": "Securing LLMs  Essential Questions for Your Penetration Testing Strategy",
       "category": [
@@ -813,6 +1482,52 @@
       ]
     },
     {
+      "id": "securing-the-digital-depths-economic-and-military-f1239f21",
+      "title": "Securing the Digital Depths  Economic and Military",
+      "category": "Military",
+      "categories": [
+        "Military"
+      ],
+      "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
+      "path": "/workspaces/GenAI-Books/books/Securing_the_Digital_Depths__Economic_and_Military_f1239f21/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "seizing-the-ai-tide-a-practical-guide-to-building-26a20eda",
+      "title": "Seizing the AI Tide  A Practical Guide to Building",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
+      "path": "/workspaces/GenAI-Books/books/Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "seizing-the-ai-tide-a-practical-guide-to-building-a-marine-maritime-ai-hub-in-plymouth-b861c4c4",
+      "title": "Seizing the AI Tide - A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Seizing_the_AI_Tide_-_A_Practical_Guide_to_Building_a_Marine_&_Maritime_AI_Hub_in_Plymouth_b861c4c4",
+      "path": "/workspaces/GenAI-Books/books/Seizing_the_AI_Tide_-_A_Practical_Guide_to_Building_a_Marine_&_Maritime_AI_Hub_in_Plymouth_b861c4c4/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc",
+      "title": "Silent Warfare  Russia s Strategic Targeting of Gl",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
+      "path": "/workspaces/GenAI-Books/books/Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "spimescript-beyond-ai-towards-the-malleable-future-c76174cb",
       "title": "SpimeScript  Beyond AI  Towards the Malleable Future",
       "category": "Artificial Intelligence",
@@ -821,6 +1536,19 @@
       ],
       "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
       "path": "/workspaces/GenAI-Books/books/SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "starship-vs-blue-origin-the-new-space-race-and-th-8f339d59",
+      "title": "Starship vs Blue Origin  The New Space Race and th",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
+      "path": "/workspaces/GenAI-Books/books/Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59/full_book.md",
       "additionalFiles": []
     },
     {
@@ -877,6 +1605,19 @@
       ],
       "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
       "path": "/workspaces/GenAI-Books/books/Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "strategic-equations-a-mathematical-approach-to-mo-e276a698",
+      "title": "Strategic Equations  A Mathematical Approach to Mo",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
+      "path": "/workspaces/GenAI-Books/books/Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698/full_book.md",
       "additionalFiles": []
     },
     {
@@ -940,6 +1681,19 @@
       "additionalFiles": []
     },
     {
+      "id": "strategic-mastery-creating-math-models-for-wardle-78d38b18",
+      "title": "Strategic Mastery  Creating Math Models for Wardle",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
+      "path": "/workspaces/GenAI-Books/books/Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b",
       "title": "Strategic Synthesis  Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation",
       "category": "Strategic Mapping",
@@ -996,6 +1750,102 @@
       "additionalFiles": []
     },
     {
+      "id": "supply-chain-innovation-in-oligopolistic-markets-cf77dcfe",
+      "title": "Supply Chain Innovation in Oligopolistic Markets",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
+      "path": "/workspaces/GenAI-Books/books/Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "sustainable-futures-strategies-for-life-on-land-61799596",
+      "title": "Sustainable Futures  Strategies for Life on Land",
+      "category": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
+      "path": "/workspaces/GenAI-Books/books/Sustainable_Futures__Strategies_for_Life_on_Land_61799596/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "symbolic-instructions-understanding-ai-training-d-5f31a286",
+      "title": "Symbolic Instructions  Understanding AI Training D",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Symbolic_Instructions__Understanding_AI_Training_D_5f31a286",
+      "path": "/workspaces/GenAI-Books/books/Symbolic_Instructions__Understanding_AI_Training_D_5f31a286/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "technical-debt-assessment-framework-a-comprehensi-802d9f78",
+      "title": "Technical Debt Assessment Framework  A Comprehensi",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78",
+      "path": "/workspaces/GenAI-Books/books/Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "technical-debt-intelligence-ai-powered-infrastruc-5b615b6c",
+      "title": "Technical Debt Intelligence  AI-Powered Infrastruc",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
+      "path": "/workspaces/GenAI-Books/books/Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "technical-debt-mathematics-in-infrastructure-a-qu-b886df5d",
+      "title": "Technical Debt Mathematics in Infrastructure  A Qu",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
+      "path": "/workspaces/GenAI-Books/books/Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-age-of-agency-navigating-the-genai-revolution-458c1358",
+      "title": "The Age of Agency  Navigating the GenAI Revolution",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
+      "path": "/workspaces/GenAI-Books/books/The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-age-of-agency-navigating-the-genai-revolution-cc843484",
+      "title": "The Age of Agency - Navigating the GenAI Revolution",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_Age_of_Agency_-_Navigating_the_GenAI_Revolution_cc843484",
+      "path": "/workspaces/GenAI-Books/books/The_Age_of_Agency_-_Navigating_the_GenAI_Revolution_cc843484/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "the-agi-race-openai-vs-anthropic-in-the-battle-for-artificial-general-intelligence-7db60baa-c7d1-4c",
       "title": "The AGI Race  OpenAI vs Anthropic in the Battle for Artificial General Intelligence",
       "category": "Artificial Intelligence",
@@ -1007,6 +1857,28 @@
       "additionalFiles": [
         "markdown/"
       ]
+    },
+    {
+      "id": "the-ai-agent-revolution-navigating-the-future-of-05666c37",
+      "title": "The AI Agent Revolution  Navigating the Future of",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
+      "path": "/workspaces/GenAI-Books/books/The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-ai-efficiency-paradox-how-generative-ai-s-suc-a2c47878",
+      "title": "The AI Efficiency Paradox  How Generative AI s Suc",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
+      "path": "/workspaces/GenAI-Books/books/The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878/full_book.md",
+      "additionalFiles": []
     },
     {
       "id": "the-ai-revolution-s-triple-threat-understanding-and-navigating-the-three-critical-changes-reshaping-our-world-abce334f",
@@ -1037,6 +1909,28 @@
       ]
     },
     {
+      "id": "the-ai-superpower-showdown-inside-the-us-china-ra-78bf7278",
+      "title": "The AI Superpower Showdown  Inside the US-China Ra",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
+      "path": "/workspaces/GenAI-Books/books/The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-ai-titans-openai-anthropic-and-google-in-th-14c119ee",
+      "title": "The AI Titans  OpenAI  Anthropic  and Google in th",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee",
+      "path": "/workspaces/GenAI-Books/books/The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "the-ai-titans-openai-anthropic-and-google-s-race-to-define-the-future-of-artificial-intelligence-2946058b",
       "title": "The AI Titans  OpenAI  Anthropic  and Google s Race to Define the Future of Artificial Intelligence",
       "category": "Artificial Intelligence",
@@ -1045,6 +1939,41 @@
       ],
       "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
       "path": "/workspaces/GenAI-Books/books/The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-ai-climate-paradox-navigating-the-battle-betw-51e07659",
+      "title": "The AI-Climate Paradox  Navigating the Battle Betw",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
+      "path": "/workspaces/GenAI-Books/books/The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-algorithmic-consumer-how-ai-agents-are-rewrit-08335ae6",
+      "title": "The Algorithmic Consumer  How AI Agents are Rewrit",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
+      "path": "/workspaces/GenAI-Books/books/The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-bullshit-asymmetry-why-lies-spread-fast-and-t-d95c927f",
+      "title": "The Bullshit Asymmetry  Why Lies Spread Fast and T",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
+      "path": "/workspaces/GenAI-Books/books/The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f/full_book.md",
       "additionalFiles": []
     },
     {
@@ -1081,6 +2010,30 @@
       "additionalFiles": []
     },
     {
+      "id": "the-jevons-paradox-in-the-age-of-generative-ai-im-6e310b8c",
+      "title": "The Jevons Paradox in the Age of Generative AI  Im",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c",
+      "path": "/workspaces/GenAI-Books/books/The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-modern-ciso-s-guide-to-identity-and-access-man-17559242",
+      "title": "The Modern CISO s Guide to Identity and Access Man",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
+      "path": "/workspaces/GenAI-Books/books/The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45",
       "title": "The Planet Information Platform  Mapping Earth with Satellites  AI  and Big Data",
       "category": [
@@ -1095,6 +2048,28 @@
       ],
       "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
       "path": "/workspaces/GenAI-Books/books/The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-red-queen-and-the-ai-race-staying-ahead-with-1889668b",
+      "title": "The Red Queen and the AI Race  Staying Ahead with",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "The_Red_Queen_and_the_AI_Race__Staying_Ahead_with__1889668b",
+      "path": "/workspaces/GenAI-Books/books/The_Red_Queen_and_the_AI_Race__Staying_Ahead_with__1889668b/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-red-queen-s-race-wardley-mapping-for-competit-bcd40363",
+      "title": "The Red Queen s Race  Wardley Mapping for Competit",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
+      "path": "/workspaces/GenAI-Books/books/The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363/full_book.md",
       "additionalFiles": []
     },
     {
@@ -1113,6 +2088,36 @@
       "additionalFiles": []
     },
     {
+      "id": "transforming-business-operations-apqc-process-cla-6740a4f7",
+      "title": "Transforming Business Operations  APQC Process Cla",
+      "category": [
+        "Business Strategy",
+        "Department for Business & Trade"
+      ],
+      "categories": [
+        "Business Strategy",
+        "Department for Business & Trade"
+      ],
+      "directory": "Transforming_Business_Operations__APQC_Process_Cla_6740a4f7",
+      "path": "/workspaces/GenAI-Books/books/Transforming_Business_Operations__APQC_Process_Cla_6740a4f7/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "transforming-government-through-ai-a-strategic-ac-815b907d",
+      "title": "Transforming Government Through AI  A Strategic Ac",
+      "category": [
+        "Artificial Intelligence",
+        "Government"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Government"
+      ],
+      "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
+      "path": "/workspaces/GenAI-Books/books/Transforming_Government_Through_AI__A_Strategic_Ac_815b907d/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
       "title": "Transforming Government with OKRs  A Guide to Implementing Objectives and Key Results in the Public Sector",
       "category": "Government",
@@ -1121,6 +2126,21 @@
       ],
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
       "path": "/workspaces/GenAI-Books/books/Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "unlocking-national-insights-a-genai-strategy-for-487c81b2",
+      "title": "Unlocking National Insights  A GenAI Strategy for",
+      "category": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Business Strategy"
+      ],
+      "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
+      "path": "/workspaces/GenAI-Books/books/Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2/full_book.md",
       "additionalFiles": []
     },
     {
@@ -1141,6 +2161,19 @@
       "additionalFiles": []
     },
     {
+      "id": "using-open-source-as-a-competitive-weapon-6b2baecc",
+      "title": "Using Open Source as a Competitive Weapon",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
+      "path": "/workspaces/GenAI-Books/books/Using_Open_Source_as_a_Competitive_Weapon_6b2baecc/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e",
       "title": "Wardley Mapping  A Practical Guide to Strategy in",
       "category": [
@@ -1153,6 +2186,66 @@
       ],
       "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
       "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "wardley-mapping-mastering-strategy-in-a-complex-w-04f95a3e",
+      "title": "Wardley Mapping  Mastering Strategy in a Complex W",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
+      "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "wardley-mapping-mastering-strategy-in-a-dynamic-w-25fc793c",
+      "title": "Wardley Mapping  Mastering Strategy in a Dynamic W",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
+      "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "wardley-mapping-mastering-strategy-through-landsc-1ad8b99f",
+      "title": "Wardley Mapping  Mastering Strategy Through Landsc",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
+      "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "wardley-mapping-strategy-in-a-landscape-of-consta-b532244c",
+      "title": "Wardley Mapping  Strategy in a Landscape of Consta",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "directory": "Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c",
+      "path": "/workspaces/GenAI-Books/books/Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c/full_book.md",
       "additionalFiles": []
     },
     {
@@ -1252,6 +2345,17 @@
       ]
     },
     {
+      "id": "will-the-chinese-dragon-bite-openai-analyzing-the-63e530e5",
+      "title": "Will the Chinese Dragon Bite OpenAI  Analyzing the",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "directory": "Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5",
+      "path": "/workspaces/GenAI-Books/books/Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation-b74b18f6-96e9-45",
       "title": "Windows 11 Migration Mastery  A Strategic Guide to Enterprise Transformation",
       "category": [
@@ -1279,6 +2383,32 @@
       ],
       "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
       "path": "/workspaces/GenAI-Books/books/Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f",
+      "title": "World War III  An Expert s Guide to Geopolitics  T",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
+      "path": "/workspaces/GenAI-Books/books/World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "world-war-iii-geopolitics-technology-and-the-co-2ce84ecf",
+      "title": "World War III  Geopolitics  Technology  and the Co",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
+      "path": "/workspaces/GenAI-Books/books/World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf/full_book.md",
       "additionalFiles": []
     }
   ]

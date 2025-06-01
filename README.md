@@ -69,15 +69,21 @@ The library covers diverse strategic domains:
 
 ### Key Scripts
 ```bash
-npm run generate-manifest      # Scan books and update manifest
+npm run generate-manifest      # Scan books, update manifest, and generate sitemap
 npm run generate-toc          # Generate table of contents for all books
 npm run build-all            # Complete build process
 ```
 
 ### Adding New Books
 1. Add book directory to `books/` with `full_book.md`
-2. Run `npm run generate-manifest` to update catalog
+2. Run `npm run generate-manifest` to update catalog and sitemap
 3. Test with `npm run test-server`
+
+### SEO and Search Engines
+- **Sitemap**: Automatically generated at `/public/sitemap.xml` (accessible via `library.wardleymaps.ai/sitemap.xml`)
+- **Auto-Updates**: Sitemap regenerates whenever books are added/removed
+- **Coverage**: 200+ URLs including all books, categories, and API endpoints
+- **Search Console**: Submit sitemap to Google Search Console and Bing Webmaster Tools
 
 ### Architecture
 - **Frontend**: Vanilla JavaScript with modern ES6+ features
@@ -119,7 +125,7 @@ We welcome contributions! Please see our development guidelines:
 ```bash
 git checkout Development
 # Make your changes
-npm run generate-manifest  # Update manifest if adding books
+npm run generate-manifest  # Update manifest and sitemap if adding books
 npm run test-all           # Verify everything works
 ```
 

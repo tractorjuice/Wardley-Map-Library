@@ -253,6 +253,84 @@ class ManifestGenerator {
         }
     }
 
+    async generateSitemap() {
+        const sitemapPath = path.join(process.cwd(), 'public', 'sitemap.xml');
+        const currentDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD format
+
+        // Get unique categories for category pages
+        const categories = new Set();
+        this.books.forEach(book => {
+            const bookCategories = book.categories || [book.category];
+            bookCategories.forEach(cat => categories.add(cat));
+        });
+
+        const categoryUrls = Array.from(categories).map(category => {
+            const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+            return `  <url>
+    <loc>https://library.wardleymaps.ai/?category=${categorySlug}</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>`;
+        }).join('\n\n');
+
+        const bookUrls = this.books.map(book => {
+            return `  <url>
+    <loc>https://library.wardleymaps.ai/?book=${book.id}</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>`;
+        }).join('\n\n');
+
+        const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://library.wardleymaps.ai/</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- API Health Check -->
+  <url>
+    <loc>https://library.wardleymaps.ai/api/health</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Books API -->
+  <url>
+    <loc>https://library.wardleymaps.ai/api/books</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Category Collection Pages -->
+${categoryUrls}
+
+  <!-- Individual Book Pages -->
+${bookUrls}
+
+</urlset>`;
+
+        try {
+            await fs.writeFile(sitemapPath, sitemapContent);
+            console.log(`✅ Generated sitemap file: ${sitemapPath}`);
+            console.log(`🗺️  Total URLs: ${3 + categories.size + this.books.length}`);
+        } catch (error) {
+            console.error('❌ Error writing sitemap file:', error);
+            throw error;
+        }
+    }
+
     async generateManifest() {
         const manifestPath = path.join(process.cwd(), 'books.json');
 
@@ -297,9 +375,11 @@ class ManifestGenerator {
         try {
             await this.scanBooksDirectory(options);
             await this.generateManifest();
+            await this.generateSitemap();
 
-            console.log('\n✅ Manifest generation completed successfully!');
+            console.log('\n✅ Manifest and sitemap generation completed successfully!');
             console.log('   The books.json file is ready for use by Vercel functions.');
+            console.log('   The sitemap.xml file is ready for search engine submission.');
 
         } catch (error) {
             console.error('\n❌ Manifest generation failed:', error);

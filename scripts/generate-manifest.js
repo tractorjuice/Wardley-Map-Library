@@ -151,9 +151,105 @@ class ManifestGenerator {
         }
     }
 
+    async scanFigures(bookDirectory, bookTitle) {
+        const figures = [];
+        let figureCounter = 1;
+        
+        try {
+            const bookPath = path.join(this.booksDir, bookDirectory);
+            
+            // 1. Scan full_book.md for image references
+            const fullBookPath = path.join(bookPath, 'full_book.md');
+            try {
+                const content = await fs.readFile(fullBookPath, 'utf8');
+                
+                // Find all image references in markdown
+                const imagePatterns = [
+                    // ![alt text](url)
+                    /!\[([^\]]*)\]\(([^)]+\.(png|jpg|jpeg|gif|svg))\)/gi,
+                    // [View Wardley Map Image](url)
+                    /\[([^[\]]*(?:image|map|figure)[^\]]*)\]\(([^)]+\.(png|jpg|jpeg|gif|svg))\)/gi
+                ];
+                
+                imagePatterns.forEach(pattern => {
+                    let match;
+                    while ((match = pattern.exec(content)) !== null) {
+                        const caption = match[1]?.trim() || `Figure ${figureCounter}`;
+                        const url = match[2];
+                        const isWardleyMap = /wardley|map/i.test(caption) || /wardleymaps\.ai/i.test(url);
+                        
+                        // Extract chapter context (find nearest heading above the image)
+                        const beforeImage = content.substring(0, match.index);
+                        const chapterMatch = beforeImage.match(/^#+\s+(.+)$/gm);
+                        const chapter = chapterMatch ? chapterMatch[chapterMatch.length - 1].replace(/^#+\s+/, '') : 'Introduction';
+                        
+                        figures.push({
+                            id: `fig-${figureCounter}`,
+                            type: isWardleyMap ? 'wardley_map' : 'image',
+                            source: url.startsWith('http') ? 'external' : 'local',
+                            url: url,
+                            caption: caption,
+                            chapter: chapter.replace(/<[^>]*>/g, '').trim(),
+                            file: 'full_book.md',
+                            alt_text: match[1] || ''
+                        });
+                        figureCounter++;
+                    }
+                });
+            } catch (error) {
+                console.log(`Warning: Could not read full_book.md for ${bookDirectory}`);
+            }
+            
+            // 2. Scan images directory for local image files
+            const imagesPath = path.join(bookPath, 'images');
+            try {
+                await fs.access(imagesPath);
+                const imageFiles = await fs.readdir(imagesPath);
+                
+                for (const file of imageFiles) {
+                    if (/\.(png|jpg|jpeg|gif|svg)$/i.test(file)) {
+                        const isWardleyMap = /chapter|wardley|map/i.test(file);
+                        const caption = `Figure ${figureCounter}: ${file.replace(/\.(png|jpg|jpeg|gif|svg)$/i, '').replace(/_/g, ' ')}`;
+                        
+                        figures.push({
+                            id: `fig-${figureCounter}`,
+                            type: isWardleyMap ? 'wardley_map' : 'image',
+                            source: 'local',
+                            url: `images/${file}`,
+                            caption: caption,
+                            chapter: 'Images',
+                            file: `images/${file}`,
+                            alt_text: caption
+                        });
+                        figureCounter++;
+                    }
+                }
+            } catch (error) {
+                // No images directory
+            }
+            
+            // Remove duplicates based on URL
+            const uniqueFigures = [];
+            const seenUrls = new Set();
+            
+            for (const figure of figures) {
+                if (!seenUrls.has(figure.url)) {
+                    seenUrls.add(figure.url);
+                    uniqueFigures.push(figure);
+                }
+            }
+            
+            return uniqueFigures;
+            
+        } catch (error) {
+            console.log(`Warning: Error scanning figures for ${bookDirectory}: ${error.message}`);
+            return [];
+        }
+    }
+
     async scanBooksDirectory(options = {}) {
         console.log('🔍 Scanning books directory...');
-        const { includeToC = false } = options;
+        const { includeToC = false, includeFigures = false } = options;
 
         try {
             const items = await fs.readdir(this.booksDir);
@@ -215,6 +311,9 @@ class ManifestGenerator {
                             // Extract table of contents information if requested
                             const tocInfo = await this.extractTableOfContents(fullBookPath, includeToC);
 
+                            // Extract figures information if requested
+                            const figures = includeFigures ? await this.scanFigures(item, title) : [];
+
                             const bookData = {
                                 id: bookId,
                                 title: title,
@@ -228,6 +327,16 @@ class ManifestGenerator {
                             // Add ToC information if extracted
                             if (tocInfo) {
                                 bookData.tableOfContents = tocInfo;
+                            }
+
+                            // Add figures information if extracted
+                            if (includeFigures && figures.length > 0) {
+                                bookData.figures = {
+                                    total: figures.length,
+                                    wardleyMaps: figures.filter(f => f.type === 'wardley_map').length,
+                                    images: figures.filter(f => f.type === 'image').length,
+                                    list: figures
+                                };
                             }
 
                             this.books.push(bookData);
@@ -406,11 +515,16 @@ ${bookUrls}
 if (require.main === module) {
     const generator = new ManifestGenerator();
     const options = {
-        includeToC: process.argv.includes('--include-toc')
+        includeToC: process.argv.includes('--include-toc'),
+        includeFigures: process.argv.includes('--include-figures')
     };
     
     if (options.includeToC) {
         console.log('📚 Including table of contents information in manifest...\n');
+    }
+    
+    if (options.includeFigures) {
+        console.log('🖼️  Including figures information in manifest...\n');
     }
     
     generator.run(options);

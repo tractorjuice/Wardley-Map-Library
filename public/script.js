@@ -455,6 +455,9 @@ class BooksLibrary {
                 // Extract and display TOC
                 this.extractAndDisplayTOC(bookContent);
                 
+                // Extract and display figures list if available
+                this.displayFiguresList(book);
+                
             } catch (error) {
                 console.error('Error parsing markdown:', error);
                 bookContent.innerHTML = `<pre>${this.escapeHtml(content)}</pre>`;
@@ -505,6 +508,159 @@ class BooksLibrary {
                     </button>
                 </div>
             `;
+        }
+    }
+
+    displayFiguresList(book) {
+        const figuresButton = document.getElementById('showFiguresButton');
+        const figuresPanel = document.getElementById('figuresPanel');
+        const figuresContent = document.getElementById('figuresContent');
+        
+        // Check if book has figures
+        if (!book.figures || !book.figures.list || book.figures.list.length === 0) {
+            if (figuresButton) figuresButton.style.display = 'none';
+            if (figuresPanel) figuresPanel.style.display = 'none';
+            return;
+        }
+
+        // Show figures button
+        if (figuresButton) {
+            figuresButton.style.display = 'inline-flex';
+            figuresButton.onclick = () => this.toggleFiguresPanel();
+        }
+
+        // Populate figures content
+        if (figuresContent) {
+            const figures = book.figures.list;
+            const figuresHtml = `
+                <div class="figures-summary">
+                    <p><strong>${book.figures.total}</strong> figures total</p>
+                    <div class="figures-breakdown">
+                        <span class="figure-count wardley-maps">${book.figures.wardleyMaps} Wardley Maps</span>
+                        <span class="figure-count images">${book.figures.images} Images</span>
+                    </div>
+                </div>
+                <div class="figures-list">
+                    ${figures.map(figure => `
+                        <div class="figure-item ${figure.type}" data-figure-id="${figure.id}">
+                            <div class="figure-preview">
+                                ${this.createFigurePreview(figure)}
+                            </div>
+                            <div class="figure-details">
+                                <h4 class="figure-caption">${this.escapeHtml(figure.caption)}</h4>
+                                <div class="figure-meta">
+                                    <span class="figure-type">${figure.type === 'wardley_map' ? 'Wardley Map' : 'Image'}</span>
+                                    <span class="figure-chapter">${this.escapeHtml(figure.chapter)}</span>
+                                </div>
+                                <div class="figure-actions">
+                                    <button onclick="library.scrollToFigure('${figure.id}')" class="figure-action" title="Go to figure">
+                                        📍 Go to
+                                    </button>
+                                    <button onclick="library.openFigure('${figure.url}')" class="figure-action" title="View full size">
+                                        🔍 View
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+            figuresContent.innerHTML = figuresHtml;
+        }
+    }
+
+    createFigurePreview(figure) {
+        if (figure.type === 'wardley_map' && figure.source === 'external') {
+            return `<img src="${figure.url}" alt="${this.escapeHtml(figure.alt_text)}" 
+                         class="figure-thumbnail wardley-map-thumb" 
+                         onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIgcnk9IjIiIHN0cm9rZT0iIzk5OSIgZmlsbD0iI2Y5ZjlmOSIvPgo8Y2lyY2xlIGN4PSI4LjUiIGN5PSI4LjUiIHI9IjEuNSIgZmlsbD0iIzk5OSIvPgo8cG9seWxpbmUgcG9pbnRzPSIyMSwxNSAxNiwxMCA1LDIxIiBzdHJva2U9IiM5OTkiLz4KPHN2Zz4K'"/>`;
+        } else if (figure.source === 'local') {
+            const bookBaseUrl = `https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development/books/${this.selectedBook.directory}`;
+            return `<img src="${bookBaseUrl}/${figure.url}" alt="${this.escapeHtml(figure.alt_text)}" 
+                         class="figure-thumbnail" 
+                         onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIgcnk9IjIiIHN0cm9rZT0iIzk5OSIgZmlsbD0iI2Y5ZjlmOSIvPgo8Y2lyY2xlIGN4PSI4LjUiIGN5PSI4LjUiIHI9IjEuNSIgZmlsbD0iIzk5OSIvPgo8cG9seWxpbmUgcG9pbnRzPSIyMSwxNSAxNiwxMCA1LDIxIiBzdHJva2U9IiM5OTkiLz4KPHN2Zz4K'"/>`;
+        } else {
+            return `<div class="figure-placeholder">📊</div>`;
+        }
+    }
+
+    toggleFiguresPanel() {
+        const figuresPanel = document.getElementById('figuresPanel');
+        const splitterToc = document.getElementById('splitterToc');
+        const figuresButton = document.getElementById('showFiguresButton');
+        
+        if (!figuresPanel) return;
+        
+        const isVisible = figuresPanel.style.display !== 'none';
+        
+        if (isVisible) {
+            figuresPanel.style.display = 'none';
+            if (splitterToc) splitterToc.style.display = 'none';
+            if (figuresButton) figuresButton.title = 'Show figures list';
+        } else {
+            figuresPanel.style.display = 'block';
+            if (splitterToc) splitterToc.style.display = 'block';
+            if (figuresButton) figuresButton.title = 'Hide figures list';
+            
+            // Hide TOC panel if it's visible to avoid conflicts
+            const tocPanel = document.getElementById('tocPanel');
+            if (tocPanel && tocPanel.style.display !== 'none') {
+                tocPanel.style.display = 'none';
+            }
+        }
+        
+        this.updateLayout();
+    }
+
+    scrollToFigure(figureId) {
+        // Find the figure in the content by its URL or caption
+        const bookContent = document.getElementById('bookContent');
+        if (!bookContent) return;
+        
+        // Try to find image by various methods
+        const images = bookContent.querySelectorAll('img');
+        const links = bookContent.querySelectorAll('a[href*=".png"], a[href*=".jpg"], a[href*=".jpeg"], a[href*=".gif"], a[href*=".svg"]');
+        
+        // Look for the figure based on the stored data
+        const figure = this.selectedBook?.figures?.list?.find(f => f.id === figureId);
+        if (!figure) return;
+        
+        let targetElement = null;
+        
+        // Try to find by URL match
+        for (let img of images) {
+            if (img.src.includes(figure.url) || figure.url.includes(img.getAttribute('src'))) {
+                targetElement = img;
+                break;
+            }
+        }
+        
+        // Try to find by link text or href
+        if (!targetElement) {
+            for (let link of links) {
+                if (link.href.includes(figure.url) || figure.url.includes(link.getAttribute('href'))) {
+                    targetElement = link;
+                    break;
+                }
+            }
+        }
+        
+        if (targetElement) {
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            // Highlight the element briefly
+            targetElement.style.boxShadow = '0 0 10px #007bff';
+            setTimeout(() => {
+                targetElement.style.boxShadow = '';
+            }, 2000);
+        }
+    }
+
+    openFigure(url) {
+        if (url.startsWith('http')) {
+            window.open(url, '_blank');
+        } else if (this.selectedBook) {
+            const bookBaseUrl = `https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development/books/${this.selectedBook.directory}`;
+            window.open(`${bookBaseUrl}/${url}`, '_blank');
         }
     }
 

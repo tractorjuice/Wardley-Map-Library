@@ -25,6 +25,46 @@ class ManifestGenerator {
             .trim();
     }
 
+    async extractTitleFromContent(filePath) {
+        try {
+            const content = await fs.readFile(filePath, 'utf8');
+            
+            // Look for various title patterns in markdown
+            // First try: # Title
+            let titleMatch = content.match(/^#\s+(.+)$/m);
+            if (titleMatch && titleMatch[1].trim()) {
+                return titleMatch[1].trim();
+            }
+            
+            // Second try: # **Title**
+            titleMatch = content.match(/^#\s+\*\*(.+?)\*\*$/m);
+            if (titleMatch && titleMatch[1].trim()) {
+                return titleMatch[1].trim();
+            }
+            
+            // Third try: find multiple **title** patterns and combine them
+            const boldTitles = content.match(/^#\s+\*\*(.+?)\*\*$/gm);
+            if (boldTitles && boldTitles.length >= 2) {
+                const title1 = boldTitles[0].match(/\*\*(.+?)\*\*/)[1].trim();
+                const title2 = boldTitles[1].match(/\*\*(.+?)\*\*/)[1].trim();
+                if (title1 && title2) {
+                    return `${title1}: ${title2}`;
+                }
+            }
+            
+            // Fourth try: any heading with content
+            titleMatch = content.match(/^#+\s+(.+)$/m);
+            if (titleMatch && titleMatch[1].trim()) {
+                return titleMatch[1].trim();
+            }
+            
+            // Fallback to directory name extraction
+            return null;
+        } catch (error) {
+            return null;
+        }
+    }
+
     categorizeBook(title, dirName) {
         const titleLower = title.toLowerCase();
         const dirLower = dirName.toLowerCase();
@@ -92,7 +132,13 @@ class ManifestGenerator {
                             await fs.access(fullBookPath);
 
                             const bookId = this.generateBookId(item);
-                            const title = this.extractTitleFromDirName(item);
+                            
+                            // Try to extract title from content first, fallback to directory name
+                            let title = await this.extractTitleFromContent(fullBookPath);
+                            if (!title) {
+                                title = this.extractTitleFromDirName(item);
+                            }
+                            
                             const category = this.categorizeBook(title, item);
 
                             // Check for additional files

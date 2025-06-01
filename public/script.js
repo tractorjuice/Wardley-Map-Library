@@ -327,7 +327,7 @@ class BooksLibrary {
         this.updateBookCount(visibleItems.length);
     }
 
-    async selectBook(book, updateUrl = true) {
+    async selectBook(book, updateUrl = true, preserveHash = false) {
         try {
             // Update UI selection
             document.querySelectorAll('.book-item').forEach(item => {
@@ -354,7 +354,7 @@ class BooksLibrary {
             
             // Update URL and browser history
             if (updateUrl) {
-                this.updateUrl(book.id);
+                this.updateUrl(book.id, preserveHash);
             }
             
             this.selectedBook = book;
@@ -900,6 +900,7 @@ class BooksLibrary {
     handleInitialRoute() {
         const urlParams = new URLSearchParams(window.location.search);
         const bookId = urlParams.get('book');
+        const hasHash = window.location.hash.length > 0;
         
         if (bookId) {
             let book = this.books.find(b => b.id === bookId);
@@ -910,7 +911,8 @@ class BooksLibrary {
             }
             
             if (book) {
-                this.selectBook(book, true); // Update URL to correct ID if needed
+                // Preserve hash fragment if present
+                this.selectBook(book, true, hasHash);
             } else {
                 console.warn(`Book with ID '${bookId}' not found`);
                 // Remove invalid book param from URL
@@ -958,11 +960,12 @@ class BooksLibrary {
     handlePopState(event) {
         const urlParams = new URLSearchParams(window.location.search);
         const bookId = urlParams.get('book');
+        const hasHash = window.location.hash.length > 0;
         
         if (bookId) {
             const book = this.books.find(b => b.id === bookId);
             if (book) {
-                this.selectBook(book, false);
+                this.selectBook(book, false, hasHash);
             }
         } else {
             // No book selected, show welcome screen
@@ -970,13 +973,15 @@ class BooksLibrary {
         }
     }
     
-    updateUrl(bookId) {
+    updateUrl(bookId, preserveHash = false) {
         const url = new URL(window.location);
         
         if (bookId) {
             url.searchParams.set('book', bookId);
-            // Clear hash when switching books to ensure we start at the top
-            url.hash = '';
+            // Only clear hash when switching books if not preserving it
+            if (!preserveHash) {
+                url.hash = '';
+            }
         } else {
             url.searchParams.delete('book');
             url.hash = '';

@@ -16,6 +16,33 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 - **177 books** currently available in the library
 - Vercel deployment optimized and stable
 
+## 🌿 **IMPORTANT: Development Branch Workflow**
+
+**⚠️ CRITICAL DEVELOPMENT RULE: ALL CHANGES MUST BE MADE TO THE `Development` BRANCH**
+
+### Branch Strategy
+- **`main`**: Production branch - deployed to https://library.wardleymaps.ai/
+- **`Development`**: Active development branch - ALL WORK HAPPENS HERE
+
+### Development Workflow
+1. **Always work on `Development` branch**: `git checkout Development`
+2. **Make all changes** (code, books, tests, documentation) on `Development`
+3. **Test thoroughly** using the test suite in `tests/` directory
+4. **Commit and push** to `Development` branch
+5. **Only merge to `main`** when ready for production deployment
+
+### For Claude Code:
+- **NEVER make direct changes to `main` branch**
+- **ALWAYS check current branch** before making changes: `git branch`
+- **Switch to Development** if needed: `git checkout Development`
+- **Verify you're on Development** before any file modifications
+- **All new books, features, fixes, tests** go to `Development` first
+
+### Current Branch Status
+- Both `main` and `Development` are currently synchronized
+- Future development should only happen on `Development`
+- This ensures production stability while allowing active development
+
 ## 🏗️ Architecture
 
 ### Application Structure
@@ -291,15 +318,17 @@ const wardleyUrl = `${githubBaseUrl}/books/${book.directory}/${fileName}`;
 
 When working with this project:
 
-1. **Always check existing patterns** before implementing new features
-2. **Test responsive design** on different screen sizes
-3. **Verify API endpoints** work correctly after changes
-4. **Check browser console** for JavaScript errors
-5. **Test external link behavior** after modifications
-6. **Ensure book discovery** works with new content
-7. **Validate URL routing** handles edge cases
-8. **Check accessibility** features remain functional
-9. **Wardley Maps**: Test with different path formats and cache behavior
-10. **Vercel Deployment**: Consider function size limits and serverless constraints
+1. **🌿 FIRST: Ensure you're on Development branch** (`git checkout Development`)
+2. **Always check existing patterns** before implementing new features
+3. **Test responsive design** on different screen sizes
+4. **Verify API endpoints** work correctly after changes
+5. **Check browser console** for JavaScript errors
+6. **Test external link behavior** after modifications
+7. **Ensure book discovery** works with new content
+8. **Validate URL routing** handles edge cases
+9. **Check accessibility** features remain functional
+10. **Wardley Maps**: Test with different path formats and cache behavior
+11. **Vercel Deployment**: Consider function size limits and serverless constraints
+12. **🧪 Run test suite** in `tests/` directory before committing changes
 
 The codebase follows modern web development practices with clean separation of concerns, comprehensive error handling, and user-friendly features. The application is designed to be maintainable, extensible, and performant.

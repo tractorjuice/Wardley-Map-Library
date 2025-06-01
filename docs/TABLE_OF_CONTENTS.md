@@ -54,29 +54,29 @@ npm run build-all
 
 ```bash
 # Basic usage
-node table-of-contents-generator.js
+node scripts/table-of-contents-generator.js
 
 # Dry run (preview only, no file changes)
-node table-of-contents-generator.js --dry-run
+node scripts/table-of-contents-generator.js --dry-run
 
 # Customize maximum heading depth (default: 4)
-node table-of-contents-generator.js --max-depth=3
+node scripts/table-of-contents-generator.js --max-depth=3
 
 # Set minimum entries required (default: 2)
-node table-of-contents-generator.js --min-entries=5
+node scripts/table-of-contents-generator.js --min-entries=5
 
 # Include clickable anchor links
-node table-of-contents-generator.js --anchors
+node scripts/table-of-contents-generator.js --anchors
 ```
 
 #### Manifest Generator with ToC
 
 ```bash
 # Standard manifest generation
-node generate-manifest.js
+node scripts/generate-manifest.js
 
 # Include ToC information in manifest
-node generate-manifest.js --include-toc
+node scripts/generate-manifest.js --include-toc
 ```
 
 ## Configuration Options

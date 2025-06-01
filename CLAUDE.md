@@ -68,7 +68,9 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 │   ├── index.html         # Main application HTML
 │   ├── styles.css         # Complete CSS styling
 │   └── script.js          # Frontend JavaScript application
-├── generate-manifest.js   # Book discovery and manifest generation
+├── scripts/               # Utility scripts directory
+│   ├── generate-manifest.js # Book discovery and manifest generation
+│   └── table-of-contents-generator.js # ToC generator script
 ├── package.json           # Dependencies and scripts
 ├── vercel.json           # Vercel deployment configuration
 ├── .gitignore            # Git ignore patterns
@@ -104,7 +106,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 ## 📚 Book Discovery System
 
 ### How Books Are Found
-1. Manifest generator (`generate-manifest.js`) scans all directories in the `books/` folder
+1. Manifest generator (`scripts/generate-manifest.js`) scans all directories in the `books/` folder
 2. Looks for `full_book.md` files in each directory
 3. Extracts book metadata from content and directory names
 4. Generates clean IDs from directory names

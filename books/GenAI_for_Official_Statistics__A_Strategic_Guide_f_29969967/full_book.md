@@ -2,92 +2,92 @@
 
 # Table of Contents
 
-- GenAI for Official Statistics: A Strategic Guide for the Office for National Statistics
-  - Understanding the Landscape: Data, Statistics, and GenAI at the ONS
-    - The ONS Data Ecosystem: A Foundation for GenAI
-      - Overview of ONS Data Holdings and Statistical Outputs
-      - Data Governance and Quality Assurance Frameworks
-      - Current Statistical Processes and Methodologies
-      - Identifying Pain Points and Opportunities for Improvement
-    - GenAI Fundamentals: Capabilities and Limitations
-      - Introduction to Generative AI and Large Language Models (LLMs)
-      - Key GenAI Techniques: Text Generation, Summarization, and Data Synthesis
-      - Understanding the Limitations of GenAI: Bias, Hallucinations, and Data Dependency
-      - Ethical Considerations and Responsible AI Principles
-    - ONS's Existing AI Initiatives: A Stepping Stone to GenAI
-      - Review of Current AI Applications at the ONS (e.g., Search Improvement, Summarization)
-      - Lessons Learned from Existing AI Projects
-      - Infrastructure and Resources Available for GenAI Implementation
-      - Alignment with the ONS Data Strategy and AI Strategy
-  - Identifying and Prioritizing GenAI Use Cases: Transforming Statistical Production
-    - GenAI for Statistical Production: Streamlining Processes and Enhancing Efficiency
-      - Automated Data Cleaning and Preprocessing
-      - Generating Synthetic Data for Privacy Preservation
-      - Automated Code Generation for Statistical Analysis (replacing legacy methods)
-      - Improving the Efficiency of Statistical Modelling and Forecasting
-    - GenAI for Statistical Analysis: Uncovering Insights and Exploring New Data Sources
-      - Automated Hypothesis Generation and Testing
-      - Enhanced Data Visualisation and Storytelling
-      - Analyzing Unstructured Data Sources (e.g., Social Media, Text Data)
-      - Identifying Trends and Anomalies in Large Datasets
-    - GenAI for Statistical Dissemination: Improving Accessibility and Engagement
-      - Generating Non-Technical Summaries of Statistical Reports
-      - Creating Interactive Data Visualizations and Dashboards
-      - Personalized Statistical Information Delivery
-      - Improving the Searchability of Statistics on the ONS Website
-    - Prioritization Framework: Evaluating and Selecting High-Impact Use Cases
-      - Defining Key Performance Indicators (KPIs) for GenAI Success
-      - Assessing the Feasibility and Impact of Different Use Cases
-      - Considering Resource Constraints and Technical Requirements
-      - Stakeholder Engagement and Alignment
-  - Ethical Considerations and Risk Management: Building Trust and Transparency
-    - Developing an Ethical Framework for GenAI in Official Statistics
-      - Addressing Bias in GenAI Models and Data
-      - Ensuring Fairness and Equity in Statistical Outputs
-      - Protecting Privacy and Confidentiality of Data
-      - Promoting Transparency and Explainability of AI-Driven Processes
-    - Risk Assessment and Mitigation Strategies
-      - Identifying Potential Risks: Bias, Misinformation, Data Security, and Model Drift
-      - Developing Mitigation Strategies for Each Identified Risk
-      - Implementing Robust Monitoring and Evaluation Mechanisms
-      - Establishing Clear Accountability and Governance Structures
-    - Building Public Trust and Transparency
-      - Communicating the Use of GenAI to the Public
-      - Providing Clear Explanations of AI-Driven Statistical Outputs
-      - Engaging with Stakeholders to Address Concerns and Build Confidence
-      - Establishing Mechanisms for Public Feedback and Redress
-  - Implementation and Governance: A Roadmap for Success
-    - Building the GenAI Infrastructure and Team
-      - Identifying Required Skills and Expertise
-      - Developing a Training and Development Program
-      - Selecting Appropriate GenAI Platforms and Tools
-      - Establishing a Secure and Scalable Infrastructure
-    - Establishing a Governance Framework for GenAI
-      - Defining Roles and Responsibilities
-      - Developing Clear Policies and Procedures
-      - Establishing a Review and Approval Process
-      - Ensuring Compliance with Ethical Guidelines and Regulations
-    - Measuring and Monitoring the Impact of GenAI
-      - Tracking Key Performance Indicators (KPIs)
-      - Conducting Regular Evaluations of GenAI Projects
-      - Identifying Areas for Improvement and Optimization
-      - Reporting on the Benefits and Risks of GenAI
-  - The Future of GenAI at the ONS: Innovation and Transformation
-    - Emerging Trends in GenAI and Official Statistics
-      - Exploring New GenAI Techniques and Applications
-      - Anticipating Future Challenges and Opportunities
-      - Staying Ahead of the Curve in AI Innovation
-      - The Role of the ONS in Shaping the Future of AI in Official Statistics
-    - Recommendations for a Sustainable GenAI Strategy
-      - Investing in Research and Development
-      - Fostering Collaboration and Knowledge Sharing
-      - Building a Culture of Innovation and Experimentation
-      - Ensuring Long-Term Sustainability and Scalability
-    - Conclusion: Realizing the Potential of GenAI for the ONS
-      - Recap of Key Findings and Recommendations
-      - A Vision for the Future of Official Statistics with GenAI
-      - Call to Action for the ONS and Stakeholders
-      - Final Thoughts on the Transformative Power of GenAI
+- [GenAI for Official Statistics: A Strategic Guide for the Office for National Statistics](#genai-for-official-statistics-a-strategic-guide-for-the-office-for-national-statistics)
+  - [Understanding the Landscape: Data, Statistics, and GenAI at the ONS](#understanding-the-landscape-data-statistics-and-genai-at-the-ons)
+    - [The ONS Data Ecosystem: A Foundation for GenAI](#the-ons-data-ecosystem-a-foundation-for-genai)
+      - [Overview of ONS Data Holdings and Statistical Outputs](#overview-of-ons-data-holdings-and-statistical-outputs)
+      - [Data Governance and Quality Assurance Frameworks](#data-governance-and-quality-assurance-frameworks)
+      - [Current Statistical Processes and Methodologies](#current-statistical-processes-and-methodologies)
+      - [Identifying Pain Points and Opportunities for Improvement](#identifying-pain-points-and-opportunities-for-improvement)
+    - [GenAI Fundamentals: Capabilities and Limitations](#genai-fundamentals-capabilities-and-limitations)
+      - [Introduction to Generative AI and Large Language Models (LLMs)](#introduction-to-generative-ai-and-large-language-models-llms)
+      - [Key GenAI Techniques: Text Generation, Summarization, and Data Synthesis](#key-genai-techniques-text-generation-summarization-and-data-synthesis)
+      - [Understanding the Limitations of GenAI: Bias, Hallucinations, and Data Dependency](#understanding-the-limitations-of-genai-bias-hallucinations-and-data-dependency)
+      - [Ethical Considerations and Responsible AI Principles](#ethical-considerations-and-responsible-ai-principles)
+    - [ONS's Existing AI Initiatives: A Stepping Stone to GenAI](#onss-existing-ai-initiatives-a-stepping-stone-to-genai)
+      - [Review of Current AI Applications at the ONS (e.g., Search Improvement, Summarization)](#review-of-current-ai-applications-at-the-ons-eg-search-improvement-summarization)
+      - [Lessons Learned from Existing AI Projects](#lessons-learned-from-existing-ai-projects)
+      - [Infrastructure and Resources Available for GenAI Implementation](#infrastructure-and-resources-available-for-genai-implementation)
+      - [Alignment with the ONS Data Strategy and AI Strategy](#alignment-with-the-ons-data-strategy-and-ai-strategy)
+  - [Identifying and Prioritizing GenAI Use Cases: Transforming Statistical Production](#identifying-and-prioritizing-genai-use-cases-transforming-statistical-production)
+    - [GenAI for Statistical Production: Streamlining Processes and Enhancing Efficiency](#genai-for-statistical-production-streamlining-processes-and-enhancing-efficiency)
+      - [Automated Data Cleaning and Preprocessing](#automated-data-cleaning-and-preprocessing)
+      - [Generating Synthetic Data for Privacy Preservation](#generating-synthetic-data-for-privacy-preservation)
+      - [Automated Code Generation for Statistical Analysis (replacing legacy methods)](#automated-code-generation-for-statistical-analysis-replacing-legacy-methods)
+      - [Improving the Efficiency of Statistical Modelling and Forecasting](#improving-the-efficiency-of-statistical-modelling-and-forecasting)
+    - [GenAI for Statistical Analysis: Uncovering Insights and Exploring New Data Sources](#genai-for-statistical-analysis-uncovering-insights-and-exploring-new-data-sources)
+      - [Automated Hypothesis Generation and Testing](#automated-hypothesis-generation-and-testing)
+      - [Enhanced Data Visualisation and Storytelling](#enhanced-data-visualisation-and-storytelling)
+      - [Analyzing Unstructured Data Sources (e.g., Social Media, Text Data)](#analyzing-unstructured-data-sources-eg-social-media-text-data)
+      - [Identifying Trends and Anomalies in Large Datasets](#identifying-trends-and-anomalies-in-large-datasets)
+    - [GenAI for Statistical Dissemination: Improving Accessibility and Engagement](#genai-for-statistical-dissemination-improving-accessibility-and-engagement)
+      - [Generating Non-Technical Summaries of Statistical Reports](#generating-non-technical-summaries-of-statistical-reports)
+      - [Creating Interactive Data Visualizations and Dashboards](#creating-interactive-data-visualizations-and-dashboards)
+      - [Personalized Statistical Information Delivery](#personalized-statistical-information-delivery)
+      - [Improving the Searchability of Statistics on the ONS Website](#improving-the-searchability-of-statistics-on-the-ons-website)
+    - [Prioritization Framework: Evaluating and Selecting High-Impact Use Cases](#prioritization-framework-evaluating-and-selecting-high-impact-use-cases)
+      - [Defining Key Performance Indicators (KPIs) for GenAI Success](#defining-key-performance-indicators-kpis-for-genai-success)
+      - [Assessing the Feasibility and Impact of Different Use Cases](#assessing-the-feasibility-and-impact-of-different-use-cases)
+      - [Considering Resource Constraints and Technical Requirements](#considering-resource-constraints-and-technical-requirements)
+      - [Stakeholder Engagement and Alignment](#stakeholder-engagement-and-alignment)
+  - [Ethical Considerations and Risk Management: Building Trust and Transparency](#ethical-considerations-and-risk-management-building-trust-and-transparency)
+    - [Developing an Ethical Framework for GenAI in Official Statistics](#developing-an-ethical-framework-for-genai-in-official-statistics)
+      - [Addressing Bias in GenAI Models and Data](#addressing-bias-in-genai-models-and-data)
+      - [Ensuring Fairness and Equity in Statistical Outputs](#ensuring-fairness-and-equity-in-statistical-outputs)
+      - [Protecting Privacy and Confidentiality of Data](#protecting-privacy-and-confidentiality-of-data)
+      - [Promoting Transparency and Explainability of AI-Driven Processes](#promoting-transparency-and-explainability-of-ai-driven-processes)
+    - [Risk Assessment and Mitigation Strategies](#risk-assessment-and-mitigation-strategies)
+      - [Identifying Potential Risks: Bias, Misinformation, Data Security, and Model Drift](#identifying-potential-risks-bias-misinformation-data-security-and-model-drift)
+      - [Developing Mitigation Strategies for Each Identified Risk](#developing-mitigation-strategies-for-each-identified-risk)
+      - [Implementing Robust Monitoring and Evaluation Mechanisms](#implementing-robust-monitoring-and-evaluation-mechanisms)
+      - [Establishing Clear Accountability and Governance Structures](#establishing-clear-accountability-and-governance-structures)
+    - [Building Public Trust and Transparency](#building-public-trust-and-transparency)
+      - [Communicating the Use of GenAI to the Public](#communicating-the-use-of-genai-to-the-public)
+      - [Providing Clear Explanations of AI-Driven Statistical Outputs](#providing-clear-explanations-of-ai-driven-statistical-outputs)
+      - [Engaging with Stakeholders to Address Concerns and Build Confidence](#engaging-with-stakeholders-to-address-concerns-and-build-confidence)
+      - [Establishing Mechanisms for Public Feedback and Redress](#establishing-mechanisms-for-public-feedback-and-redress)
+  - [Implementation and Governance: A Roadmap for Success](#implementation-and-governance-a-roadmap-for-success)
+    - [Building the GenAI Infrastructure and Team](#building-the-genai-infrastructure-and-team)
+      - [Identifying Required Skills and Expertise](#identifying-required-skills-and-expertise)
+      - [Developing a Training and Development Program](#developing-a-training-and-development-program)
+      - [Selecting Appropriate GenAI Platforms and Tools](#selecting-appropriate-genai-platforms-and-tools)
+      - [Establishing a Secure and Scalable Infrastructure](#establishing-a-secure-and-scalable-infrastructure)
+    - [Establishing a Governance Framework for GenAI](#establishing-a-governance-framework-for-genai)
+      - [Defining Roles and Responsibilities](#defining-roles-and-responsibilities)
+      - [Developing Clear Policies and Procedures](#developing-clear-policies-and-procedures)
+      - [Establishing a Review and Approval Process](#establishing-a-review-and-approval-process)
+      - [Ensuring Compliance with Ethical Guidelines and Regulations](#ensuring-compliance-with-ethical-guidelines-and-regulations)
+    - [Measuring and Monitoring the Impact of GenAI](#measuring-and-monitoring-the-impact-of-genai)
+      - [Tracking Key Performance Indicators (KPIs)](#tracking-key-performance-indicators-kpis)
+      - [Conducting Regular Evaluations of GenAI Projects](#conducting-regular-evaluations-of-genai-projects)
+      - [Identifying Areas for Improvement and Optimization](#identifying-areas-for-improvement-and-optimization)
+      - [Reporting on the Benefits and Risks of GenAI](#reporting-on-the-benefits-and-risks-of-genai)
+  - [The Future of GenAI at the ONS: Innovation and Transformation](#the-future-of-genai-at-the-ons-innovation-and-transformation)
+    - [Emerging Trends in GenAI and Official Statistics](#emerging-trends-in-genai-and-official-statistics)
+      - [Exploring New GenAI Techniques and Applications](#exploring-new-genai-techniques-and-applications)
+      - [Anticipating Future Challenges and Opportunities](#anticipating-future-challenges-and-opportunities)
+      - [Staying Ahead of the Curve in AI Innovation](#staying-ahead-of-the-curve-in-ai-innovation)
+      - [The Role of the ONS in Shaping the Future of AI in Official Statistics](#the-role-of-the-ons-in-shaping-the-future-of-ai-in-official-statistics)
+    - [Recommendations for a Sustainable GenAI Strategy](#recommendations-for-a-sustainable-genai-strategy)
+      - [Investing in Research and Development](#investing-in-research-and-development)
+      - [Fostering Collaboration and Knowledge Sharing](#fostering-collaboration-and-knowledge-sharing)
+      - [Building a Culture of Innovation and Experimentation](#building-a-culture-of-innovation-and-experimentation)
+      - [Ensuring Long-Term Sustainability and Scalability](#ensuring-long-term-sustainability-and-scalability)
+    - [Conclusion: Realizing the Potential of GenAI for the ONS](#conclusion-realizing-the-potential-of-genai-for-the-ons)
+      - [Recap of Key Findings and Recommendations](#recap-of-key-findings-and-recommendations)
+      - [A Vision for the Future of Official Statistics with GenAI](#a-vision-for-the-future-of-official-statistics-with-genai)
+      - [Call to Action for the ONS and Stakeholders](#call-to-action-for-the-ons-and-stakeholders)
+      - [Final Thoughts on the Transformative Power of GenAI](#final-thoughts-on-the-transformative-power-of-genai)
 
 
 ## Understanding the Landscape: Data, Statistics, and GenAI at the ONS

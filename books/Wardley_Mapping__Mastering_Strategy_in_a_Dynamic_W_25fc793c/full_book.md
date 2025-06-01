@@ -2,117 +2,117 @@
 
 # Table of Contents
 
-- Wardley Mapping: Mastering Strategy in a Dynamic World
-  - Chapter 1: Foundations of Wardley Mapping
-    - 1.1 Introduction to Strategic Landscapes
-      - 1.1.1 The Need for Visual Strategy
-      - 1.1.2 Understanding the Business Landscape
-      - 1.1.3 What is Wardley Mapping?
-    - 1.2 Core Components of a Wardley Map
-      - 1.2.1 Users and Their Needs
-      - 1.2.2 Capabilities and Value Chains
-      - 1.2.3 Anchors and Positioning
-      - 1.2.4 Visual Representation and Conventions
-    - 1.3 The Evolution Axis: Genesis to Commodity
-      - 1.3.1 Understanding the Stages of Evolution
-      - 1.3.2 Genesis (Novel) Phase
-      - 1.3.3 Custom-Built Phase
-      - 1.3.4 Product/Rental Phase
-      - 1.3.5 Commodity/Utility Phase
-      - 1.3.6 Mapping Component Evolution
-    - 1.4 Building Your First Wardley Map: A Step-by-Step Guide
-      - 1.4.1 Identifying Users and Needs
-      - 1.4.2 Mapping the Value Chain
-      - 1.4.3 Positioning Components on the Evolution Axis
-      - 1.4.4 Reviewing and Refining the Map
-  - Chapter 2: Climatic Patterns, the Red Queen Effect, and Doctrine
-    - 2.1 Understanding Climatic Patterns
-      - 2.1.1 The Universal Applicability of Climatic Patterns
-      - 2.1.2 Examples of Common Climatic Patterns (e.g., Everything Evolves)
-      - 2.1.3 Past Success Leads to Inertia
-      - 2.1.4 Identifying and Responding to Climatic Forces
-    - 2.2 The Red Queen Effect in Competitive Dynamics
-      - 2.2.1 The Nature of the Red Queen Effect
-      - 2.2.2 How the Red Queen Effect Impacts Strategy
-      - 2.2.3 Strategies for Thriving in a Red Queen Environment
-      - 2.2.4 Examples of the Red Queen Effect in Different Industries
-    - 2.3 Doctrine: Universal Principles for Strategic Success
-      - 2.3.1 What is Doctrine?
-      - 2.3.2 Key Doctrines (e.g., Know Your Users, Focus on Data)
-      - 2.3.3 Applying Doctrine to Wardley Maps
-      - 2.3.4 The Importance of Situational Awareness
-    - 2.4 Inertia and its Impact on Evolution
-      - 2.4.1 Understanding Inertia
-      - 2.4.2 Factors that block or slow down evolution
-      - 2.4.3 Overcoming Inertia
-      - 2.4.4 Examples of Inertia in Organizations
-  - Chapter 3: Economic Gameplays and Strategic Actions
-    - 3.1 Introduction to Economic Gameplays
-      - 3.1.1 What are Economic Gameplays?
-      - 3.1.2 The Importance of Strategic Action
-      - 3.1.3 Aligning Gameplays with Wardley Maps
-    - 3.2 Exploiting Component Evolution
-      - 3.2.1 Identifying Opportunities in Different Evolutionary Stages
-      - 3.2.2 Strategies for Genesis Components
-      - 3.2.3 Strategies for Commodity Components
-      - 3.2.4 Managing the Transition Between Stages
-    - 3.3 Shaping the Landscape: Strategic Interventions
-      - 3.3.1 Understanding the Impact of Interventions
-      - 3.3.2 Examples of Strategic Interventions
-      - 3.3.3 Assessing the Risks and Rewards of Interventions
-      - 3.3.4 Ethical Considerations in Strategic Interventions
-    - 3.4 Value Chain Optimization
-      - 3.4.1 Analyzing Value Chain Efficiency
-      - 3.4.2 Identifying Bottlenecks and Inefficiencies
-      - 3.4.3 Strategies for Optimizing the Value Chain
-      - 3.4.4 The Role of Automation and Standardisation
-  - Chapter 4: Practical Applications and Case Studies
-    - 4.1 Wardley Mapping in Different Industries
-      - 4.1.1 Applying Wardley Mapping to Technology
-      - 4.1.2 Applying Wardley Mapping to Healthcare
-      - 4.1.3 Applying Wardley Mapping to Finance
-      - 4.1.4 Applying Wardley Mapping to Retail
-    - 4.2 Case Study 1: Disrupting a Traditional Market
-      - 4.2.1 Background and Context
-      - 4.2.2 The Wardley Map Analysis
-      - 4.2.3 Strategic Actions and Outcomes
-      - 4.2.4 Lessons Learned
-    - 4.3 Case Study 2: Navigating a Complex Ecosystem
-      - 4.3.1 Background and Context
-      - 4.3.2 The Wardley Map Analysis
-      - 4.3.3 Strategic Actions and Outcomes
-      - 4.3.4 Lessons Learned
-    - 4.4 Case Study 3: Responding to Market Disruption
-      - 4.4.1 Background and Context
-      - 4.4.2 The Wardley Map Analysis
-      - 4.4.3 Strategic Actions and Outcomes
-      - 4.4.4 Lessons Learned
-  - Chapter 5: Integrating Doctrine for Ethical and Sustainable Strategy
-    - 5.1 The Importance of Ethical Considerations
-      - 5.1.1 Why Ethics Matter in Strategy
-      - 5.1.2 The Consequences of Unethical Practices
-      - 5.1.3 Aligning Strategy with Values
-    - 5.2 Sustainable Strategy and Long-Term Value
-      - 5.2.1 The Principles of Sustainable Strategy
-      - 5.2.2 Balancing Short-Term and Long-Term Goals
-      - 5.2.3 Creating a Sustainable Competitive Advantage
-    - 5.3 Applying Doctrine to Ethical Decision-Making
-      - 5.3.1 Using Doctrine as a Moral Compass
-      - 5.3.2 Identifying Ethical Dilemmas
-      - 5.3.3 Making Responsible Choices
-    - 5.4 Building an Ethical and Sustainable Organisation
-      - 5.4.1 Creating a Culture of Ethics
-      - 5.4.2 Implementing Ethical Policies and Procedures
-      - 5.4.3 Measuring and Monitoring Ethical Performance
-  - Conclusion: The Future of Wardley Mapping
-    - 6.1 The Evolving Landscape of Strategy
-      - 6.1.1 Emerging Trends and Challenges
-      - 6.1.2 The Role of Wardley Mapping in the Future
-      - 6.1.3 Continuous Learning and Adaptation
-    - 6.2 Mastering Wardley Mapping: A Continuous Journey
-      - 6.2.1 Resources for Further Learning
-      - 6.2.2 Building a Community of Practice
-      - 6.2.3 The Power of Visual Strategy
+- [Wardley Mapping: Mastering Strategy in a Dynamic World](#wardley-mapping-mastering-strategy-in-a-dynamic-world)
+  - [Chapter 1: Foundations of Wardley Mapping](#chapter-1-foundations-of-wardley-mapping)
+    - [1.1 Introduction to Strategic Landscapes](#11-introduction-to-strategic-landscapes)
+      - [1.1.1 The Need for Visual Strategy](#111-the-need-for-visual-strategy)
+      - [1.1.2 Understanding the Business Landscape](#112-understanding-the-business-landscape)
+      - [1.1.3 What is Wardley Mapping?](#113-what-is-wardley-mapping)
+    - [1.2 Core Components of a Wardley Map](#12-core-components-of-a-wardley-map)
+      - [1.2.1 Users and Their Needs](#121-users-and-their-needs)
+      - [1.2.2 Capabilities and Value Chains](#122-capabilities-and-value-chains)
+      - [1.2.3 Anchors and Positioning](#123-anchors-and-positioning)
+      - [1.2.4 Visual Representation and Conventions](#124-visual-representation-and-conventions)
+    - [1.3 The Evolution Axis: Genesis to Commodity](#13-the-evolution-axis-genesis-to-commodity)
+      - [1.3.1 Understanding the Stages of Evolution](#131-understanding-the-stages-of-evolution)
+      - [1.3.2 Genesis (Novel) Phase](#132-genesis-novel-phase)
+      - [1.3.3 Custom-Built Phase](#133-custom-built-phase)
+      - [1.3.4 Product/Rental Phase](#134-productrental-phase)
+      - [1.3.5 Commodity/Utility Phase](#135-commodityutility-phase)
+      - [1.3.6 Mapping Component Evolution](#136-mapping-component-evolution)
+    - [1.4 Building Your First Wardley Map: A Step-by-Step Guide](#14-building-your-first-wardley-map-a-step-by-step-guide)
+      - [1.4.1 Identifying Users and Needs](#141-identifying-users-and-needs)
+      - [1.4.2 Mapping the Value Chain](#142-mapping-the-value-chain)
+      - [1.4.3 Positioning Components on the Evolution Axis](#143-positioning-components-on-the-evolution-axis)
+      - [1.4.4 Reviewing and Refining the Map](#144-reviewing-and-refining-the-map)
+  - [Chapter 2: Climatic Patterns, the Red Queen Effect, and Doctrine](#chapter-2-climatic-patterns-the-red-queen-effect-and-doctrine)
+    - [2.1 Understanding Climatic Patterns](#21-understanding-climatic-patterns)
+      - [2.1.1 The Universal Applicability of Climatic Patterns](#211-the-universal-applicability-of-climatic-patterns)
+      - [2.1.2 Examples of Common Climatic Patterns (e.g., Everything Evolves)](#212-examples-of-common-climatic-patterns-eg-everything-evolves)
+      - [2.1.3 Past Success Leads to Inertia](#213-past-success-leads-to-inertia)
+      - [2.1.4 Identifying and Responding to Climatic Forces](#214-identifying-and-responding-to-climatic-forces)
+    - [2.2 The Red Queen Effect in Competitive Dynamics](#22-the-red-queen-effect-in-competitive-dynamics)
+      - [2.2.1 The Nature of the Red Queen Effect](#221-the-nature-of-the-red-queen-effect)
+      - [2.2.2 How the Red Queen Effect Impacts Strategy](#222-how-the-red-queen-effect-impacts-strategy)
+      - [2.2.3 Strategies for Thriving in a Red Queen Environment](#223-strategies-for-thriving-in-a-red-queen-environment)
+      - [2.2.4 Examples of the Red Queen Effect in Different Industries](#224-examples-of-the-red-queen-effect-in-different-industries)
+    - [2.3 Doctrine: Universal Principles for Strategic Success](#23-doctrine-universal-principles-for-strategic-success)
+      - [2.3.1 What is Doctrine?](#231-what-is-doctrine)
+      - [2.3.2 Key Doctrines (e.g., Know Your Users, Focus on Data)](#232-key-doctrines-eg-know-your-users-focus-on-data)
+      - [2.3.3 Applying Doctrine to Wardley Maps](#233-applying-doctrine-to-wardley-maps)
+      - [2.3.4 The Importance of Situational Awareness](#234-the-importance-of-situational-awareness)
+    - [2.4 Inertia and its Impact on Evolution](#24-inertia-and-its-impact-on-evolution)
+      - [2.4.1 Understanding Inertia](#241-understanding-inertia)
+      - [2.4.2 Factors that block or slow down evolution](#242-factors-that-block-or-slow-down-evolution)
+      - [2.4.3 Overcoming Inertia](#243-overcoming-inertia)
+      - [2.4.4 Examples of Inertia in Organizations](#244-examples-of-inertia-in-organizations)
+  - [Chapter 3: Economic Gameplays and Strategic Actions](#chapter-3-economic-gameplays-and-strategic-actions)
+    - [3.1 Introduction to Economic Gameplays](#31-introduction-to-economic-gameplays)
+      - [3.1.1 What are Economic Gameplays?](#311-what-are-economic-gameplays)
+      - [3.1.2 The Importance of Strategic Action](#312-the-importance-of-strategic-action)
+      - [3.1.3 Aligning Gameplays with Wardley Maps](#313-aligning-gameplays-with-wardley-maps)
+    - [3.2 Exploiting Component Evolution](#32-exploiting-component-evolution)
+      - [3.2.1 Identifying Opportunities in Different Evolutionary Stages](#321-identifying-opportunities-in-different-evolutionary-stages)
+      - [3.2.2 Strategies for Genesis Components](#322-strategies-for-genesis-components)
+      - [3.2.3 Strategies for Commodity Components](#323-strategies-for-commodity-components)
+      - [3.2.4 Managing the Transition Between Stages](#324-managing-the-transition-between-stages)
+    - [3.3 Shaping the Landscape: Strategic Interventions](#33-shaping-the-landscape-strategic-interventions)
+      - [3.3.1 Understanding the Impact of Interventions](#331-understanding-the-impact-of-interventions)
+      - [3.3.2 Examples of Strategic Interventions](#332-examples-of-strategic-interventions)
+      - [3.3.3 Assessing the Risks and Rewards of Interventions](#333-assessing-the-risks-and-rewards-of-interventions)
+      - [3.3.4 Ethical Considerations in Strategic Interventions](#334-ethical-considerations-in-strategic-interventions)
+    - [3.4 Value Chain Optimization](#34-value-chain-optimization)
+      - [3.4.1 Analyzing Value Chain Efficiency](#341-analyzing-value-chain-efficiency)
+      - [3.4.2 Identifying Bottlenecks and Inefficiencies](#342-identifying-bottlenecks-and-inefficiencies)
+      - [3.4.3 Strategies for Optimizing the Value Chain](#343-strategies-for-optimizing-the-value-chain)
+      - [3.4.4 The Role of Automation and Standardisation](#344-the-role-of-automation-and-standardisation)
+  - [Chapter 4: Practical Applications and Case Studies](#chapter-4-practical-applications-and-case-studies)
+    - [4.1 Wardley Mapping in Different Industries](#41-wardley-mapping-in-different-industries)
+      - [4.1.1 Applying Wardley Mapping to Technology](#411-applying-wardley-mapping-to-technology)
+      - [4.1.2 Applying Wardley Mapping to Healthcare](#412-applying-wardley-mapping-to-healthcare)
+      - [4.1.3 Applying Wardley Mapping to Finance](#413-applying-wardley-mapping-to-finance)
+      - [4.1.4 Applying Wardley Mapping to Retail](#414-applying-wardley-mapping-to-retail)
+    - [4.2 Case Study 1: Disrupting a Traditional Market](#42-case-study-1-disrupting-a-traditional-market)
+      - [4.2.1 Background and Context](#421-background-and-context)
+      - [4.2.2 The Wardley Map Analysis](#422-the-wardley-map-analysis)
+      - [4.2.3 Strategic Actions and Outcomes](#423-strategic-actions-and-outcomes)
+      - [4.2.4 Lessons Learned](#424-lessons-learned)
+    - [4.3 Case Study 2: Navigating a Complex Ecosystem](#43-case-study-2-navigating-a-complex-ecosystem)
+      - [4.3.1 Background and Context](#431-background-and-context)
+      - [4.3.2 The Wardley Map Analysis](#432-the-wardley-map-analysis)
+      - [4.3.3 Strategic Actions and Outcomes](#433-strategic-actions-and-outcomes)
+      - [4.3.4 Lessons Learned](#434-lessons-learned)
+    - [4.4 Case Study 3: Responding to Market Disruption](#44-case-study-3-responding-to-market-disruption)
+      - [4.4.1 Background and Context](#441-background-and-context)
+      - [4.4.2 The Wardley Map Analysis](#442-the-wardley-map-analysis)
+      - [4.4.3 Strategic Actions and Outcomes](#443-strategic-actions-and-outcomes)
+      - [4.4.4 Lessons Learned](#444-lessons-learned)
+  - [Chapter 5: Integrating Doctrine for Ethical and Sustainable Strategy](#chapter-5-integrating-doctrine-for-ethical-and-sustainable-strategy)
+    - [5.1 The Importance of Ethical Considerations](#51-the-importance-of-ethical-considerations)
+      - [5.1.1 Why Ethics Matter in Strategy](#511-why-ethics-matter-in-strategy)
+      - [5.1.2 The Consequences of Unethical Practices](#512-the-consequences-of-unethical-practices)
+      - [5.1.3 Aligning Strategy with Values](#513-aligning-strategy-with-values)
+    - [5.2 Sustainable Strategy and Long-Term Value](#52-sustainable-strategy-and-long-term-value)
+      - [5.2.1 The Principles of Sustainable Strategy](#521-the-principles-of-sustainable-strategy)
+      - [5.2.2 Balancing Short-Term and Long-Term Goals](#522-balancing-short-term-and-long-term-goals)
+      - [5.2.3 Creating a Sustainable Competitive Advantage](#523-creating-a-sustainable-competitive-advantage)
+    - [5.3 Applying Doctrine to Ethical Decision-Making](#53-applying-doctrine-to-ethical-decision-making)
+      - [5.3.1 Using Doctrine as a Moral Compass](#531-using-doctrine-as-a-moral-compass)
+      - [5.3.2 Identifying Ethical Dilemmas](#532-identifying-ethical-dilemmas)
+      - [5.3.3 Making Responsible Choices](#533-making-responsible-choices)
+    - [5.4 Building an Ethical and Sustainable Organisation](#54-building-an-ethical-and-sustainable-organisation)
+      - [5.4.1 Creating a Culture of Ethics](#541-creating-a-culture-of-ethics)
+      - [5.4.2 Implementing Ethical Policies and Procedures](#542-implementing-ethical-policies-and-procedures)
+      - [5.4.3 Measuring and Monitoring Ethical Performance](#543-measuring-and-monitoring-ethical-performance)
+  - [Conclusion: The Future of Wardley Mapping](#conclusion-the-future-of-wardley-mapping)
+    - [6.1 The Evolving Landscape of Strategy](#61-the-evolving-landscape-of-strategy)
+      - [6.1.1 Emerging Trends and Challenges](#611-emerging-trends-and-challenges)
+      - [6.1.2 The Role of Wardley Mapping in the Future](#612-the-role-of-wardley-mapping-in-the-future)
+      - [6.1.3 Continuous Learning and Adaptation](#613-continuous-learning-and-adaptation)
+    - [6.2 Mastering Wardley Mapping: A Continuous Journey](#62-mastering-wardley-mapping-a-continuous-journey)
+      - [6.2.1 Resources for Further Learning](#621-resources-for-further-learning)
+      - [6.2.2 Building a Community of Practice](#622-building-a-community-of-practice)
+      - [6.2.3 The Power of Visual Strategy](#623-the-power-of-visual-strategy)
 
 
 ## Chapter 1: Foundations of Wardley Mapping

@@ -2,61 +2,61 @@
 
 # Table of Contents
 
-- Strategic Mapping: A Leader's Guide to Navigating Business Evolution with Wardley Maps
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Landscapes
-      - The Challenge of Modern Business Navigation
-      - Why Traditional Strategy Tools Fall Short
-      - Introduction to Wardley Mapping
-    - Foundations of Strategic Visualization
-      - The Value Chain Perspective
-      - Evolution and Movement
-      - Position and Power
-  - Mastering the Mapping Process
-    - Building Your First Map
-      - Identifying User Needs
-      - Mapping Dependencies
-      - Understanding Evolution Stages
-      - Positioning Components
-    - Advanced Mapping Techniques
-      - Handling Complex Systems
-      - Multiple Perspective Mapping
-      - Dynamic Map Updates
-      - Common Pitfalls and Solutions
-  - Strategic Decision-Making with Maps
-    - Reading the Landscape
-      - Identifying Patterns and Trends
-      - Spotting Strategic Opportunities
-      - Anticipating Market Movements
-    - Competitive Analysis
-      - Mapping Competitor Positions
-      - Identifying Strategic Advantages
-      - Predicting Disruption Points
-    - Strategic Planning
-      - Developing Strategic Options
-      - Resource Allocation
-      - Risk Assessment and Mitigation
-  - Implementation and Organizational Integration
-    - Building a Mapping Culture
-      - Training Teams
-      - Establishing Mapping Practices
-      - Overcoming Resistance
-    - Cross-Functional Applications
-      - Product Development
-      - Technology Strategy
-      - Business Model Innovation
-      - Investment Decisions
-  - Real-World Applications and Case Studies
-    - Industry-Specific Applications
-      - Technology Sector Cases
-      - Manufacturing Examples
-      - Healthcare Applications
-      - Service Industry Implementations
-    - Transformation Stories
-      - Digital Transformation Projects
-      - Market Entry Strategies
-      - Innovation Initiatives
-      - Organizational Change Programs
+- [Strategic Mapping: A Leader's Guide to Navigating Business Evolution with Wardley Maps](#strategic-mapping-a-leaders-guide-to-navigating-business-evolution-with-wardley-maps)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Landscapes](#understanding-strategic-landscapes)
+      - [The Challenge of Modern Business Navigation](#the-challenge-of-modern-business-navigation)
+      - [Why Traditional Strategy Tools Fall Short](#why-traditional-strategy-tools-fall-short)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+    - [Foundations of Strategic Visualization](#foundations-of-strategic-visualization)
+      - [The Value Chain Perspective](#the-value-chain-perspective)
+      - [Evolution and Movement](#evolution-and-movement)
+      - [Position and Power](#position-and-power)
+  - [Mastering the Mapping Process](#mastering-the-mapping-process)
+    - [Building Your First Map](#building-your-first-map)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Dependencies](#mapping-dependencies)
+      - [Understanding Evolution Stages](#understanding-evolution-stages)
+      - [Positioning Components](#positioning-components)
+    - [Advanced Mapping Techniques](#advanced-mapping-techniques)
+      - [Handling Complex Systems](#handling-complex-systems)
+      - [Multiple Perspective Mapping](#multiple-perspective-mapping)
+      - [Dynamic Map Updates](#dynamic-map-updates)
+      - [Common Pitfalls and Solutions](#common-pitfalls-and-solutions)
+  - [Strategic Decision-Making with Maps](#strategic-decision-making-with-maps)
+    - [Reading the Landscape](#reading-the-landscape)
+      - [Identifying Patterns and Trends](#identifying-patterns-and-trends)
+      - [Spotting Strategic Opportunities](#spotting-strategic-opportunities)
+      - [Anticipating Market Movements](#anticipating-market-movements)
+    - [Competitive Analysis](#competitive-analysis)
+      - [Mapping Competitor Positions](#mapping-competitor-positions)
+      - [Identifying Strategic Advantages](#identifying-strategic-advantages)
+      - [Predicting Disruption Points](#predicting-disruption-points)
+    - [Strategic Planning](#strategic-planning)
+      - [Developing Strategic Options](#developing-strategic-options)
+      - [Resource Allocation](#resource-allocation)
+      - [Risk Assessment and Mitigation](#risk-assessment-and-mitigation)
+  - [Implementation and Organizational Integration](#implementation-and-organizational-integration)
+    - [Building a Mapping Culture](#building-a-mapping-culture)
+      - [Training Teams](#training-teams)
+      - [Establishing Mapping Practices](#establishing-mapping-practices)
+      - [Overcoming Resistance](#overcoming-resistance)
+    - [Cross-Functional Applications](#cross-functional-applications)
+      - [Product Development](#product-development)
+      - [Technology Strategy](#technology-strategy)
+      - [Business Model Innovation](#business-model-innovation)
+      - [Investment Decisions](#investment-decisions)
+  - [Real-World Applications and Case Studies](#real-world-applications-and-case-studies)
+    - [Industry-Specific Applications](#industry-specific-applications)
+      - [Technology Sector Cases](#technology-sector-cases)
+      - [Manufacturing Examples](#manufacturing-examples)
+      - [Healthcare Applications](#healthcare-applications)
+      - [Service Industry Implementations](#service-industry-implementations)
+    - [Transformation Stories](#transformation-stories)
+      - [Digital Transformation Projects](#digital-transformation-projects)
+      - [Market Entry Strategies](#market-entry-strategies)
+      - [Innovation Initiatives](#innovation-initiatives)
+      - [Organizational Change Programs](#organizational-change-programs)
 
 
 ## Introduction: The Power of Visual Strategy

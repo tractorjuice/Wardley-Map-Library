@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- The AI-Climate Paradox: Navigating the Battle Between Artificial Intelligence and Environmental Sustainability
-  - Introduction: Setting the Stage for the AI-Environment Conflict
-    - The Rise of GenAI and Environmental Concerns
-      - The Exponential Growth of AI Technology
-      - Current State of Environmental Crisis
-      - The Emerging Tension Between Progress and Preservation
-    - Understanding the Stakes
-      - Key Players and Stakeholders
-      - Global Impact Assessment
-      - Timeline of Critical Developments
-  - Chapter 1: The Environmental Price Tag of AI
-    - Computing Infrastructure's Environmental Impact
-      - Data Center Energy Consumption
-      - Hardware Manufacturing Footprint
-      - E-waste and Resource Depletion
-    - Carbon Footprint Metrics
-      - Measuring AI's Carbon Impact
-      - Comparative Analysis with Other Industries
-      - Future Projections and Trends
-  - Chapter 2: Sustainable AI Solutions
-    - Green Computing Innovations
-      - Energy-Efficient Algorithms
-      - Sustainable Hardware Design
-      - Optimization Techniques
-    - Renewable Energy Integration
-      - Solar and Wind Power Solutions
-      - Energy Storage Technologies
-      - Smart Grid Implementation
-  - Chapter 3: Governance and Economic Considerations
-    - Policy Framework Development
-      - Environmental Regulations for AI
-      - Corporate Responsibility Standards
-      - International Cooperation Models
-    - Economic Analysis
-      - Cost-Benefit Assessment
-      - Market Incentives for Green AI
-      - Investment in Sustainable Technologies
-  - Chapter 4: Charting the Path Forward
-    - Practical Implementation Strategies
-      - Industry Best Practices
-      - Technology Transition Plans
-      - Monitoring and Assessment Tools
-    - Future Scenarios and Solutions
-      - Balanced Growth Models
-      - Innovation Pathways
-      - Collaborative Frameworks
+- [The AI-Climate Paradox: Navigating the Battle Between Artificial Intelligence and Environmental Sustainability](#the-ai-climate-paradox-navigating-the-battle-between-artificial-intelligence-and-environmental-sustainability)
+  - [Introduction: Setting the Stage for the AI-Environment Conflict](#introduction-setting-the-stage-for-the-ai-environment-conflict)
+    - [The Rise of GenAI and Environmental Concerns](#the-rise-of-genai-and-environmental-concerns)
+      - [The Exponential Growth of AI Technology](#the-exponential-growth-of-ai-technology)
+      - [Current State of Environmental Crisis](#current-state-of-environmental-crisis)
+      - [The Emerging Tension Between Progress and Preservation](#the-emerging-tension-between-progress-and-preservation)
+    - [Understanding the Stakes](#understanding-the-stakes)
+      - [Key Players and Stakeholders](#key-players-and-stakeholders)
+      - [Global Impact Assessment](#global-impact-assessment)
+      - [Timeline of Critical Developments](#timeline-of-critical-developments)
+  - [Chapter 1: The Environmental Price Tag of AI](#chapter-1-the-environmental-price-tag-of-ai)
+    - [Computing Infrastructure's Environmental Impact](#computing-infrastructures-environmental-impact)
+      - [Data Center Energy Consumption](#data-center-energy-consumption)
+      - [Hardware Manufacturing Footprint](#hardware-manufacturing-footprint)
+      - [E-waste and Resource Depletion](#e-waste-and-resource-depletion)
+    - [Carbon Footprint Metrics](#carbon-footprint-metrics)
+      - [Measuring AI's Carbon Impact](#measuring-ais-carbon-impact)
+      - [Comparative Analysis with Other Industries](#comparative-analysis-with-other-industries)
+      - [Future Projections and Trends](#future-projections-and-trends)
+  - [Chapter 2: Sustainable AI Solutions](#chapter-2-sustainable-ai-solutions)
+    - [Green Computing Innovations](#green-computing-innovations)
+      - [Energy-Efficient Algorithms](#energy-efficient-algorithms)
+      - [Sustainable Hardware Design](#sustainable-hardware-design)
+      - [Optimization Techniques](#optimization-techniques)
+    - [Renewable Energy Integration](#renewable-energy-integration)
+      - [Solar and Wind Power Solutions](#solar-and-wind-power-solutions)
+      - [Energy Storage Technologies](#energy-storage-technologies)
+      - [Smart Grid Implementation](#smart-grid-implementation)
+  - [Chapter 3: Governance and Economic Considerations](#chapter-3-governance-and-economic-considerations)
+    - [Policy Framework Development](#policy-framework-development)
+      - [Environmental Regulations for AI](#environmental-regulations-for-ai)
+      - [Corporate Responsibility Standards](#corporate-responsibility-standards)
+      - [International Cooperation Models](#international-cooperation-models)
+    - [Economic Analysis](#economic-analysis)
+      - [Cost-Benefit Assessment](#cost-benefit-assessment)
+      - [Market Incentives for Green AI](#market-incentives-for-green-ai)
+      - [Investment in Sustainable Technologies](#investment-in-sustainable-technologies)
+  - [Chapter 4: Charting the Path Forward](#chapter-4-charting-the-path-forward)
+    - [Practical Implementation Strategies](#practical-implementation-strategies)
+      - [Industry Best Practices](#industry-best-practices)
+      - [Technology Transition Plans](#technology-transition-plans)
+      - [Monitoring and Assessment Tools](#monitoring-and-assessment-tools)
+    - [Future Scenarios and Solutions](#future-scenarios-and-solutions)
+      - [Balanced Growth Models](#balanced-growth-models)
+      - [Innovation Pathways](#innovation-pathways)
+      - [Collaborative Frameworks](#collaborative-frameworks)
 
 
 ## Introduction: Setting the Stage for the AI-Environment Conflict

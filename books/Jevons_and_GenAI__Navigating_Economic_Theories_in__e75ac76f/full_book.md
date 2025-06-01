@@ -2,66 +2,66 @@
 
 # Table of Contents
 
-- Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence
-  - Introduction to Jevons and GenAI
-    - Understanding Jevons' Economic Theories
-      - The Principle of Utility
-      - Resource Efficiency and Its Modern Implications
-      - Jevons Paradox in the Context of Technology
-    - The Rise of Generative AI
-      - Defining Generative AI
-      - Historical Development of AI Technologies
-      - Current Trends and Future Directions
-  - Historical Context: Jevons' Contributions and Their Relevance
-    - Jevons' Impact on Economic Thought
-      - Key Theories and Publications
-      - Influence on Modern Economics
-      - Comparative Analysis with Other Economists
-    - Connecting Jevons to Modern Technology
-      - The Evolution of Economic Models
-      - Technological Advancements and Economic Theories
-      - Lessons from Jevons for Today's Economy
-  - Economic Implications of GenAI
-    - Productivity and Economic Growth
-      - Generative AI as a Productivity Booster
-      - Economic Growth through Innovation
-      - Jevons' Theories Applied to AI Productivity
-    - Labor Market Dynamics
-      - Impact on Employment and Job Creation
-      - Skills and Training for the Future Workforce
-      - Jevons' Insights on Labor and Technology
-  - Ethical Considerations in AI Development
-    - Moral Implications of AI
-      - Resource Efficiency and Sustainability
-      - Ethical AI: Balancing Innovation and Responsibility
-      - Jevons' Perspective on Resource Allocation
-    - Regulatory and Policy Frameworks
-      - Current Regulations and Their Effectiveness
-      - Proposed Policies for Ethical AI Development
-      - Lessons from Economic History
-  - Practical Frameworks for GenAI Development
-    - Strategic Methodologies
-      - Introduction to Wardley Mapping
-      - Visualising the Strategic Landscape of GenAI
-      - Case Studies of Successful Implementation
-    - Integrating Jevons' Principles into Business Models
-      - Frameworks for Resource Efficiency
-      - Innovative Business Strategies Inspired by Jevons
-      - Real-World Applications and Success Stories
-  - Case Studies: Jevons' Principles in Action
-    - Successful Integrations of GenAI
-      - Case Study 1: Company A's Approach
-      - Case Study 2: Company B's Transformation
-      - Lessons Learned from Industry Leaders
-    - Evaluating Outcomes
-      - Measuring Success: Metrics and KPIs
-      - Long-Term Impacts on Business and Economy
-      - Future Trends and Predictions
-  - Conclusion: The Future of Jevons and GenAI
-    - Synthesis of Key Insights
-      - Recap of Jevons' Relevance in the AI Era
-      - The Path Forward for Economists and Technologists
-      - Final Thoughts on Innovation and Ethics
+- [Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence](#jevons-and-genai-navigating-economic-theories-in-the-age-of-artificial-intelligence)
+  - [Introduction to Jevons and GenAI](#introduction-to-jevons-and-genai)
+    - [Understanding Jevons' Economic Theories](#understanding-jevons-economic-theories)
+      - [The Principle of Utility](#the-principle-of-utility)
+      - [Resource Efficiency and Its Modern Implications](#resource-efficiency-and-its-modern-implications)
+      - [Jevons Paradox in the Context of Technology](#jevons-paradox-in-the-context-of-technology)
+    - [The Rise of Generative AI](#the-rise-of-generative-ai)
+      - [Defining Generative AI](#defining-generative-ai)
+      - [Historical Development of AI Technologies](#historical-development-of-ai-technologies)
+      - [Current Trends and Future Directions](#current-trends-and-future-directions)
+  - [Historical Context: Jevons' Contributions and Their Relevance](#historical-context-jevons-contributions-and-their-relevance)
+    - [Jevons' Impact on Economic Thought](#jevons-impact-on-economic-thought)
+      - [Key Theories and Publications](#key-theories-and-publications)
+      - [Influence on Modern Economics](#influence-on-modern-economics)
+      - [Comparative Analysis with Other Economists](#comparative-analysis-with-other-economists)
+    - [Connecting Jevons to Modern Technology](#connecting-jevons-to-modern-technology)
+      - [The Evolution of Economic Models](#the-evolution-of-economic-models)
+      - [Technological Advancements and Economic Theories](#technological-advancements-and-economic-theories)
+      - [Lessons from Jevons for Today's Economy](#lessons-from-jevons-for-todays-economy)
+  - [Economic Implications of GenAI](#economic-implications-of-genai)
+    - [Productivity and Economic Growth](#productivity-and-economic-growth)
+      - [Generative AI as a Productivity Booster](#generative-ai-as-a-productivity-booster)
+      - [Economic Growth through Innovation](#economic-growth-through-innovation)
+      - [Jevons' Theories Applied to AI Productivity](#jevons-theories-applied-to-ai-productivity)
+    - [Labor Market Dynamics](#labor-market-dynamics)
+      - [Impact on Employment and Job Creation](#impact-on-employment-and-job-creation)
+      - [Skills and Training for the Future Workforce](#skills-and-training-for-the-future-workforce)
+      - [Jevons' Insights on Labor and Technology](#jevons-insights-on-labor-and-technology)
+  - [Ethical Considerations in AI Development](#ethical-considerations-in-ai-development)
+    - [Moral Implications of AI](#moral-implications-of-ai)
+      - [Resource Efficiency and Sustainability](#resource-efficiency-and-sustainability)
+      - [Ethical AI: Balancing Innovation and Responsibility](#ethical-ai-balancing-innovation-and-responsibility)
+      - [Jevons' Perspective on Resource Allocation](#jevons-perspective-on-resource-allocation)
+    - [Regulatory and Policy Frameworks](#regulatory-and-policy-frameworks)
+      - [Current Regulations and Their Effectiveness](#current-regulations-and-their-effectiveness)
+      - [Proposed Policies for Ethical AI Development](#proposed-policies-for-ethical-ai-development)
+      - [Lessons from Economic History](#lessons-from-economic-history)
+  - [Practical Frameworks for GenAI Development](#practical-frameworks-for-genai-development)
+    - [Strategic Methodologies](#strategic-methodologies)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Visualising the Strategic Landscape of GenAI](#visualising-the-strategic-landscape-of-genai)
+      - [Case Studies of Successful Implementation](#case-studies-of-successful-implementation)
+    - [Integrating Jevons' Principles into Business Models](#integrating-jevons-principles-into-business-models)
+      - [Frameworks for Resource Efficiency](#frameworks-for-resource-efficiency)
+      - [Innovative Business Strategies Inspired by Jevons](#innovative-business-strategies-inspired-by-jevons)
+      - [Real-World Applications and Success Stories](#real-world-applications-and-success-stories)
+  - [Case Studies: Jevons' Principles in Action](#case-studies-jevons-principles-in-action)
+    - [Successful Integrations of GenAI](#successful-integrations-of-genai)
+      - [Case Study 1: Company A's Approach](#case-study-1-company-as-approach)
+      - [Case Study 2: Company B's Transformation](#case-study-2-company-bs-transformation)
+      - [Lessons Learned from Industry Leaders](#lessons-learned-from-industry-leaders)
+    - [Evaluating Outcomes](#evaluating-outcomes)
+      - [Measuring Success: Metrics and KPIs](#measuring-success-metrics-and-kpis)
+      - [Long-Term Impacts on Business and Economy](#long-term-impacts-on-business-and-economy)
+      - [Future Trends and Predictions](#future-trends-and-predictions)
+  - [Conclusion: The Future of Jevons and GenAI](#conclusion-the-future-of-jevons-and-genai)
+    - [Synthesis of Key Insights](#synthesis-of-key-insights)
+      - [Recap of Jevons' Relevance in the AI Era](#recap-of-jevons-relevance-in-the-ai-era)
+      - [The Path Forward for Economists and Technologists](#the-path-forward-for-economists-and-technologists)
+      - [Final Thoughts on Innovation and Ethics](#final-thoughts-on-innovation-and-ethics)
 
 
 ## Introduction to Jevons and GenAI

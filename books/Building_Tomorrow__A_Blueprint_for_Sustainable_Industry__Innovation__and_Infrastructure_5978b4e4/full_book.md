@@ -2,57 +2,57 @@
 
 # Table of Contents
 
-- Building Tomorrow: A Blueprint for Sustainable Industry, Innovation, and Infrastructure
-  - Introduction: The Foundation of Sustainable Development
-    - Understanding SDG 9
-      - Global Context and Importance
-      - Key Challenges and Opportunities
-      - Interconnections with Other SDGs
-  - Digital Infrastructure: Bridging Global Divides
-    - The Digital Landscape
-      - Current State of Global Digital Infrastructure
-      - Understanding Digital Divides
-      - Emerging Technologies and Solutions
-    - Inclusive Digital Solutions
-      - Last-Mile Connectivity Strategies
-      - Rural Digital Integration
-      - Digital Literacy and Capacity Building
-  - Sustainable Industrial Transformation
-    - Green Industrial Revolution
-      - Circular Economy Principles
-      - Clean Technology Integration
-      - Resource Efficiency Frameworks
-    - Industry 4.0 Implementation
-      - Smart Manufacturing Systems
-      - Digital Twin Technologies
-      - Industrial IoT Solutions
-  - Innovation Ecosystems and Collaboration
-    - Triple Helix Model
-      - Academia-Industry Partnerships
-      - Government Support Mechanisms
-      - Knowledge Transfer Systems
-    - Innovation Hubs and Clusters
-      - Incubator and Accelerator Models
-      - Research Commercialization
-      - Start-up Support Networks
-  - Resilient Infrastructure Development
-    - Climate-Adaptive Infrastructure
-      - Risk Assessment Methodologies
-      - Adaptation Strategies
-      - Green Infrastructure Solutions
-    - Disaster Resilience
-      - Early Warning Systems
-      - Infrastructure Hardening Techniques
-      - Recovery and Reconstruction Frameworks
-  - Financing Sustainable Infrastructure
-    - Innovative Funding Models
-      - Green Bonds and Climate Finance
-      - Blended Finance Solutions
-      - Impact Investment Strategies
-    - Public-Private Partnerships
-      - Partnership Frameworks
-      - Risk Allocation Models
-      - Success Case Studies
+- [Building Tomorrow: A Blueprint for Sustainable Industry, Innovation, and Infrastructure](#building-tomorrow-a-blueprint-for-sustainable-industry-innovation-and-infrastructure)
+  - [Introduction: The Foundation of Sustainable Development](#introduction-the-foundation-of-sustainable-development)
+    - [Understanding SDG 9](#understanding-sdg-9)
+      - [Global Context and Importance](#global-context-and-importance)
+      - [Key Challenges and Opportunities](#key-challenges-and-opportunities)
+      - [Interconnections with Other SDGs](#interconnections-with-other-sdgs)
+  - [Digital Infrastructure: Bridging Global Divides](#digital-infrastructure-bridging-global-divides)
+    - [The Digital Landscape](#the-digital-landscape)
+      - [Current State of Global Digital Infrastructure](#current-state-of-global-digital-infrastructure)
+      - [Understanding Digital Divides](#understanding-digital-divides)
+      - [Emerging Technologies and Solutions](#emerging-technologies-and-solutions)
+    - [Inclusive Digital Solutions](#inclusive-digital-solutions)
+      - [Last-Mile Connectivity Strategies](#last-mile-connectivity-strategies)
+      - [Rural Digital Integration](#rural-digital-integration)
+      - [Digital Literacy and Capacity Building](#digital-literacy-and-capacity-building)
+  - [Sustainable Industrial Transformation](#sustainable-industrial-transformation)
+    - [Green Industrial Revolution](#green-industrial-revolution)
+      - [Circular Economy Principles](#circular-economy-principles)
+      - [Clean Technology Integration](#clean-technology-integration)
+      - [Resource Efficiency Frameworks](#resource-efficiency-frameworks)
+    - [Industry 4.0 Implementation](#industry-40-implementation)
+      - [Smart Manufacturing Systems](#smart-manufacturing-systems)
+      - [Digital Twin Technologies](#digital-twin-technologies)
+      - [Industrial IoT Solutions](#industrial-iot-solutions)
+  - [Innovation Ecosystems and Collaboration](#innovation-ecosystems-and-collaboration)
+    - [Triple Helix Model](#triple-helix-model)
+      - [Academia-Industry Partnerships](#academia-industry-partnerships)
+      - [Government Support Mechanisms](#government-support-mechanisms)
+      - [Knowledge Transfer Systems](#knowledge-transfer-systems)
+    - [Innovation Hubs and Clusters](#innovation-hubs-and-clusters)
+      - [Incubator and Accelerator Models](#incubator-and-accelerator-models)
+      - [Research Commercialization](#research-commercialization)
+      - [Start-up Support Networks](#start-up-support-networks)
+  - [Resilient Infrastructure Development](#resilient-infrastructure-development)
+    - [Climate-Adaptive Infrastructure](#climate-adaptive-infrastructure)
+      - [Risk Assessment Methodologies](#risk-assessment-methodologies)
+      - [Adaptation Strategies](#adaptation-strategies)
+      - [Green Infrastructure Solutions](#green-infrastructure-solutions)
+    - [Disaster Resilience](#disaster-resilience)
+      - [Early Warning Systems](#early-warning-systems)
+      - [Infrastructure Hardening Techniques](#infrastructure-hardening-techniques)
+      - [Recovery and Reconstruction Frameworks](#recovery-and-reconstruction-frameworks)
+  - [Financing Sustainable Infrastructure](#financing-sustainable-infrastructure)
+    - [Innovative Funding Models](#innovative-funding-models)
+      - [Green Bonds and Climate Finance](#green-bonds-and-climate-finance)
+      - [Blended Finance Solutions](#blended-finance-solutions)
+      - [Impact Investment Strategies](#impact-investment-strategies)
+    - [Public-Private Partnerships](#public-private-partnerships)
+      - [Partnership Frameworks](#partnership-frameworks)
+      - [Risk Allocation Models](#risk-allocation-models)
+      - [Success Case Studies](#success-case-studies)
 
 
 ## Introduction: The Foundation of Sustainable Development

@@ -2,97 +2,97 @@
 
 # Table of Contents
 
-- Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance
-  - Chapter 1: Unveiling Wardley Mapping: A Strategic Compass
-    - 1.1: The Essence of Wardley Mapping
-      - 1.1.1: Introducing Wardley Maps: Visualising the Landscape
-      - 1.1.2: Core Components: Value Chain, Evolution, and Context
-      - 1.1.3: Understanding the Plane of Evolution: Genesis to Commodity
-      - 1.1.4: Benefits of Wardley Mapping: Clarity, Alignment, and Foresight
-    - 1.2: Doctrine: Universal Principles for Strategic Success
-      - 1.2.1: Understanding Doctrine: A Foundation for Action
-      - 1.2.2: Examples of Doctrine: Learn to See, Think Small, Move Fast
-      - 1.2.3: Applying Doctrine: Guiding Principles in Practice
-      - 1.2.4: The Importance of Challenging Doctrine: Adaptability and Evolution
-    - 1.3: Navigating the Landscape: Understanding Context and User Needs
-      - 1.3.1: Identifying User Needs: The Starting Point
-      - 1.3.2: Mapping the Value Chain: Connecting Needs to Components
-      - 1.3.3: Context is King: Understanding the Environment
-      - 1.3.4: Visualising Dependencies: Identifying Critical Paths
-  - Chapter 2: Mastering the Strategy Cycle: From Map to Action
-    - 2.1: The Wardley Mapping Strategy Cycle: A Dynamic Approach
-      - 2.1.1: Sensing: Observing the Landscape and Identifying Opportunities
-      - 2.1.2: Learning: Understanding the Implications of Change
-      - 2.1.3: Acting: Implementing Strategic Decisions
-      - 2.1.4: Adapting: Refining Strategy Based on Feedback
-    - 2.2: Climatic Patterns: Anticipating Change and Disruption
-      - 2.2.1: Understanding Climatic Patterns: Forces Shaping the Landscape
-      - 2.2.2: Examples of Climatic Patterns: Industrialisation, Commoditisation, and Standardisation
-      - 2.2.3: Predicting Future Evolution: Leveraging Climatic Patterns
-      - 2.2.4: Preparing for Disruption: Building Resilience
-    - 2.3: The Red Queen Effect: Running to Stay in Place
-      - 2.3.1: Explaining the Red Queen Effect: Constant Evolution
-      - 2.3.2: Identifying Red Queen Scenarios: Competitive Pressures
-      - 2.3.3: Strategies for Thriving: Innovation and Differentiation
-      - 2.3.4: Avoiding the Trap: Proactive Adaptation
-    - 2.4: Economic Patterns: Understanding Market Dynamics
-      - 2.4.1: Cost Reduction and Efficiency Gains
-      - 2.4.2: The Power of Leverage and Economies of Scale
-      - 2.4.3: Understanding Supply and Demand in the Map
-      - 2.4.4: Identifying Opportunities for Innovation and Value Creation
-  - Chapter 3: Gameplays for Competitive Advantage: Strategic Moves on the Map
-    - 3.1: Introduction to Gameplays: Strategic Actions on the Map
-      - 3.1.1: Defining Gameplays: Purposeful Interventions
-      - 3.1.2: Types of Gameplays: Attack, Defence, and Maneuvering
-      - 3.1.3: Choosing the Right Gameplay: Context Matters
-      - 3.1.4: The Importance of Timing: Executing Gameplays Effectively
-    - 3.2: Exploiting Evolution: Commoditisation and Innovation
-      - 3.2.1: Commoditisation Plays: Driving Down Costs and Increasing Efficiency
-      - 3.2.2: Innovation Plays: Creating New Value and Differentiation
-      - 3.2.3: Leveraging Open Source: Building on Existing Components
-      - 3.2.4: Managing the Transition: Balancing Old and New
-    - 3.3: Strategic Resource Allocation: Focusing on What Matters
-      - 3.3.1: Identifying Critical Components: Prioritising Investments
-      - 3.3.2: Outsourcing and Partnerships: Leveraging External Expertise
-      - 3.3.3: Managing Technical Debt: Avoiding Future Problems
-      - 3.3.4: Building a Resilient Organisation: Adapting to Change
-    - 3.4: Pushing Boundaries: Cutting-Edge Concepts and Techniques
-      - 3.4.1: Advanced Mapping Techniques
-      - 3.4.2: Novel Gameplays for Emerging Landscapes
-      - 3.4.3: Integrating Wardley Mapping with Other Strategic Frameworks
-      - 3.4.4: The Future of Wardley Mapping
-  - Chapter 4: Wardley Mapping in Action: Case Studies and Real-World Applications
-    - 4.1: Case Study 1: Transforming a Traditional Business
-      - 4.1.1: The Challenge: Stagnation and Disruption
-      - 4.1.2: The Solution: Applying Wardley Mapping
-      - 4.1.3: The Results: Increased Agility and Competitiveness
-      - 4.1.4: Lessons Learned: Key Takeaways
-    - 4.2: Case Study 2: Disrupting an Established Market
-      - 4.2.1: The Opportunity: Identifying a Weakness in the Market
-      - 4.2.2: The Strategy: Leveraging Wardley Mapping for Innovation
-      - 4.2.3: The Impact: Market Leadership and Growth
-      - 4.2.4: Key Success Factors: Execution and Adaptation
-    - 4.3: Case Study 3: Navigating a Complex Ecosystem
-      - 4.3.1: The Challenge: Managing Interdependencies
-      - 4.3.2: The Approach: Mapping the Ecosystem
-      - 4.3.3: The Outcome: Improved Collaboration and Efficiency
-      - 4.3.4: Best Practices: Building Strong Relationships
-  - Chapter 5: Embedding Wardley Mapping: Organizational Transformation and Culture
-    - 5.1: Integrating Wardley Mapping into Organizational Processes
-      - 5.1.1: Training and Education: Building Mapping Skills
-      - 5.1.2: Facilitating Mapping Workshops: Collaborative Strategy
-      - 5.1.3: Incorporating Maps into Decision-Making: Data-Driven Choices
-      - 5.1.4: Measuring the Impact: Tracking Key Metrics
-    - 5.2: Fostering a Strategic Culture: Embracing Change and Innovation
-      - 5.2.1: Leadership Support: Championing Wardley Mapping
-      - 5.2.2: Open Communication: Sharing Insights and Knowledge
-      - 5.2.3: Experimentation and Learning: Embracing Failure
-      - 5.2.4: Continuous Improvement: Refining the Mapping Process
-    - 5.3: Overcoming Resistance: Addressing Common Challenges
-      - 5.3.1: Addressing Skepticism: Demonstrating Value
-      - 5.3.2: Managing Complexity: Simplifying the Process
-      - 5.3.3: Building Consensus: Aligning Stakeholders
-      - 5.3.4: Sustaining Momentum: Maintaining Engagement
+- [Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance](#mapping-your-competitive-advantage-a-practical-guide-to-wardley-mapping-for-strategic-dominance)
+  - [Chapter 1: Unveiling Wardley Mapping: A Strategic Compass](#chapter-1-unveiling-wardley-mapping-a-strategic-compass)
+    - [1.1: The Essence of Wardley Mapping](#11-the-essence-of-wardley-mapping)
+      - [1.1.1: Introducing Wardley Maps: Visualising the Landscape](#111-introducing-wardley-maps-visualising-the-landscape)
+      - [1.1.2: Core Components: Value Chain, Evolution, and Context](#112-core-components-value-chain-evolution-and-context)
+      - [1.1.3: Understanding the Plane of Evolution: Genesis to Commodity](#113-understanding-the-plane-of-evolution-genesis-to-commodity)
+      - [1.1.4: Benefits of Wardley Mapping: Clarity, Alignment, and Foresight](#114-benefits-of-wardley-mapping-clarity-alignment-and-foresight)
+    - [1.2: Doctrine: Universal Principles for Strategic Success](#12-doctrine-universal-principles-for-strategic-success)
+      - [1.2.1: Understanding Doctrine: A Foundation for Action](#121-understanding-doctrine-a-foundation-for-action)
+      - [1.2.2: Examples of Doctrine: Learn to See, Think Small, Move Fast](#122-examples-of-doctrine-learn-to-see-think-small-move-fast)
+      - [1.2.3: Applying Doctrine: Guiding Principles in Practice](#123-applying-doctrine-guiding-principles-in-practice)
+      - [1.2.4: The Importance of Challenging Doctrine: Adaptability and Evolution](#124-the-importance-of-challenging-doctrine-adaptability-and-evolution)
+    - [1.3: Navigating the Landscape: Understanding Context and User Needs](#13-navigating-the-landscape-understanding-context-and-user-needs)
+      - [1.3.1: Identifying User Needs: The Starting Point](#131-identifying-user-needs-the-starting-point)
+      - [1.3.2: Mapping the Value Chain: Connecting Needs to Components](#132-mapping-the-value-chain-connecting-needs-to-components)
+      - [1.3.3: Context is King: Understanding the Environment](#133-context-is-king-understanding-the-environment)
+      - [1.3.4: Visualising Dependencies: Identifying Critical Paths](#134-visualising-dependencies-identifying-critical-paths)
+  - [Chapter 2: Mastering the Strategy Cycle: From Map to Action](#chapter-2-mastering-the-strategy-cycle-from-map-to-action)
+    - [2.1: The Wardley Mapping Strategy Cycle: A Dynamic Approach](#21-the-wardley-mapping-strategy-cycle-a-dynamic-approach)
+      - [2.1.1: Sensing: Observing the Landscape and Identifying Opportunities](#211-sensing-observing-the-landscape-and-identifying-opportunities)
+      - [2.1.2: Learning: Understanding the Implications of Change](#212-learning-understanding-the-implications-of-change)
+      - [2.1.3: Acting: Implementing Strategic Decisions](#213-acting-implementing-strategic-decisions)
+      - [2.1.4: Adapting: Refining Strategy Based on Feedback](#214-adapting-refining-strategy-based-on-feedback)
+    - [2.2: Climatic Patterns: Anticipating Change and Disruption](#22-climatic-patterns-anticipating-change-and-disruption)
+      - [2.2.1: Understanding Climatic Patterns: Forces Shaping the Landscape](#221-understanding-climatic-patterns-forces-shaping-the-landscape)
+      - [2.2.2: Examples of Climatic Patterns: Industrialisation, Commoditisation, and Standardisation](#222-examples-of-climatic-patterns-industrialisation-commoditisation-and-standardisation)
+      - [2.2.3: Predicting Future Evolution: Leveraging Climatic Patterns](#223-predicting-future-evolution-leveraging-climatic-patterns)
+      - [2.2.4: Preparing for Disruption: Building Resilience](#224-preparing-for-disruption-building-resilience)
+    - [2.3: The Red Queen Effect: Running to Stay in Place](#23-the-red-queen-effect-running-to-stay-in-place)
+      - [2.3.1: Explaining the Red Queen Effect: Constant Evolution](#231-explaining-the-red-queen-effect-constant-evolution)
+      - [2.3.2: Identifying Red Queen Scenarios: Competitive Pressures](#232-identifying-red-queen-scenarios-competitive-pressures)
+      - [2.3.3: Strategies for Thriving: Innovation and Differentiation](#233-strategies-for-thriving-innovation-and-differentiation)
+      - [2.3.4: Avoiding the Trap: Proactive Adaptation](#234-avoiding-the-trap-proactive-adaptation)
+    - [2.4: Economic Patterns: Understanding Market Dynamics](#24-economic-patterns-understanding-market-dynamics)
+      - [2.4.1: Cost Reduction and Efficiency Gains](#241-cost-reduction-and-efficiency-gains)
+      - [2.4.2: The Power of Leverage and Economies of Scale](#242-the-power-of-leverage-and-economies-of-scale)
+      - [2.4.3: Understanding Supply and Demand in the Map](#243-understanding-supply-and-demand-in-the-map)
+      - [2.4.4: Identifying Opportunities for Innovation and Value Creation](#244-identifying-opportunities-for-innovation-and-value-creation)
+  - [Chapter 3: Gameplays for Competitive Advantage: Strategic Moves on the Map](#chapter-3-gameplays-for-competitive-advantage-strategic-moves-on-the-map)
+    - [3.1: Introduction to Gameplays: Strategic Actions on the Map](#31-introduction-to-gameplays-strategic-actions-on-the-map)
+      - [3.1.1: Defining Gameplays: Purposeful Interventions](#311-defining-gameplays-purposeful-interventions)
+      - [3.1.2: Types of Gameplays: Attack, Defence, and Maneuvering](#312-types-of-gameplays-attack-defence-and-maneuvering)
+      - [3.1.3: Choosing the Right Gameplay: Context Matters](#313-choosing-the-right-gameplay-context-matters)
+      - [3.1.4: The Importance of Timing: Executing Gameplays Effectively](#314-the-importance-of-timing-executing-gameplays-effectively)
+    - [3.2: Exploiting Evolution: Commoditisation and Innovation](#32-exploiting-evolution-commoditisation-and-innovation)
+      - [3.2.1: Commoditisation Plays: Driving Down Costs and Increasing Efficiency](#321-commoditisation-plays-driving-down-costs-and-increasing-efficiency)
+      - [3.2.2: Innovation Plays: Creating New Value and Differentiation](#322-innovation-plays-creating-new-value-and-differentiation)
+      - [3.2.3: Leveraging Open Source: Building on Existing Components](#323-leveraging-open-source-building-on-existing-components)
+      - [3.2.4: Managing the Transition: Balancing Old and New](#324-managing-the-transition-balancing-old-and-new)
+    - [3.3: Strategic Resource Allocation: Focusing on What Matters](#33-strategic-resource-allocation-focusing-on-what-matters)
+      - [3.3.1: Identifying Critical Components: Prioritising Investments](#331-identifying-critical-components-prioritising-investments)
+      - [3.3.2: Outsourcing and Partnerships: Leveraging External Expertise](#332-outsourcing-and-partnerships-leveraging-external-expertise)
+      - [3.3.3: Managing Technical Debt: Avoiding Future Problems](#333-managing-technical-debt-avoiding-future-problems)
+      - [3.3.4: Building a Resilient Organisation: Adapting to Change](#334-building-a-resilient-organisation-adapting-to-change)
+    - [3.4: Pushing Boundaries: Cutting-Edge Concepts and Techniques](#34-pushing-boundaries-cutting-edge-concepts-and-techniques)
+      - [3.4.1: Advanced Mapping Techniques](#341-advanced-mapping-techniques)
+      - [3.4.2: Novel Gameplays for Emerging Landscapes](#342-novel-gameplays-for-emerging-landscapes)
+      - [3.4.3: Integrating Wardley Mapping with Other Strategic Frameworks](#343-integrating-wardley-mapping-with-other-strategic-frameworks)
+      - [3.4.4: The Future of Wardley Mapping](#344-the-future-of-wardley-mapping)
+  - [Chapter 4: Wardley Mapping in Action: Case Studies and Real-World Applications](#chapter-4-wardley-mapping-in-action-case-studies-and-real-world-applications)
+    - [4.1: Case Study 1: Transforming a Traditional Business](#41-case-study-1-transforming-a-traditional-business)
+      - [4.1.1: The Challenge: Stagnation and Disruption](#411-the-challenge-stagnation-and-disruption)
+      - [4.1.2: The Solution: Applying Wardley Mapping](#412-the-solution-applying-wardley-mapping)
+      - [4.1.3: The Results: Increased Agility and Competitiveness](#413-the-results-increased-agility-and-competitiveness)
+      - [4.1.4: Lessons Learned: Key Takeaways](#414-lessons-learned-key-takeaways)
+    - [4.2: Case Study 2: Disrupting an Established Market](#42-case-study-2-disrupting-an-established-market)
+      - [4.2.1: The Opportunity: Identifying a Weakness in the Market](#421-the-opportunity-identifying-a-weakness-in-the-market)
+      - [4.2.2: The Strategy: Leveraging Wardley Mapping for Innovation](#422-the-strategy-leveraging-wardley-mapping-for-innovation)
+      - [4.2.3: The Impact: Market Leadership and Growth](#423-the-impact-market-leadership-and-growth)
+      - [4.2.4: Key Success Factors: Execution and Adaptation](#424-key-success-factors-execution-and-adaptation)
+    - [4.3: Case Study 3: Navigating a Complex Ecosystem](#43-case-study-3-navigating-a-complex-ecosystem)
+      - [4.3.1: The Challenge: Managing Interdependencies](#431-the-challenge-managing-interdependencies)
+      - [4.3.2: The Approach: Mapping the Ecosystem](#432-the-approach-mapping-the-ecosystem)
+      - [4.3.3: The Outcome: Improved Collaboration and Efficiency](#433-the-outcome-improved-collaboration-and-efficiency)
+      - [4.3.4: Best Practices: Building Strong Relationships](#434-best-practices-building-strong-relationships)
+  - [Chapter 5: Embedding Wardley Mapping: Organizational Transformation and Culture](#chapter-5-embedding-wardley-mapping-organizational-transformation-and-culture)
+    - [5.1: Integrating Wardley Mapping into Organizational Processes](#51-integrating-wardley-mapping-into-organizational-processes)
+      - [5.1.1: Training and Education: Building Mapping Skills](#511-training-and-education-building-mapping-skills)
+      - [5.1.2: Facilitating Mapping Workshops: Collaborative Strategy](#512-facilitating-mapping-workshops-collaborative-strategy)
+      - [5.1.3: Incorporating Maps into Decision-Making: Data-Driven Choices](#513-incorporating-maps-into-decision-making-data-driven-choices)
+      - [5.1.4: Measuring the Impact: Tracking Key Metrics](#514-measuring-the-impact-tracking-key-metrics)
+    - [5.2: Fostering a Strategic Culture: Embracing Change and Innovation](#52-fostering-a-strategic-culture-embracing-change-and-innovation)
+      - [5.2.1: Leadership Support: Championing Wardley Mapping](#521-leadership-support-championing-wardley-mapping)
+      - [5.2.2: Open Communication: Sharing Insights and Knowledge](#522-open-communication-sharing-insights-and-knowledge)
+      - [5.2.3: Experimentation and Learning: Embracing Failure](#523-experimentation-and-learning-embracing-failure)
+      - [5.2.4: Continuous Improvement: Refining the Mapping Process](#524-continuous-improvement-refining-the-mapping-process)
+    - [5.3: Overcoming Resistance: Addressing Common Challenges](#53-overcoming-resistance-addressing-common-challenges)
+      - [5.3.1: Addressing Skepticism: Demonstrating Value](#531-addressing-skepticism-demonstrating-value)
+      - [5.3.2: Managing Complexity: Simplifying the Process](#532-managing-complexity-simplifying-the-process)
+      - [5.3.3: Building Consensus: Aligning Stakeholders](#533-building-consensus-aligning-stakeholders)
+      - [5.3.4: Sustaining Momentum: Maintaining Engagement](#534-sustaining-momentum-maintaining-engagement)
 
 
 ## Chapter 1: Unveiling Wardley Mapping: A Strategic Compass

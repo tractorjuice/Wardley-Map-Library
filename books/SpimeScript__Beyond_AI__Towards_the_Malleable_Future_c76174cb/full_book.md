@@ -2,138 +2,138 @@
 
 # Table of Contents
 
-- SpimeScript: Beyond AI, Towards the Malleable Future
-  - Introduction: When Dull is Good, and What Comes Next
-    - The AI Plateau: Normalisation and the Search for the Next Frontier
-      - From Hoopla to Utility: AI's Maturation (AIOps, MLOps, VibeOps)
-      - The Emerging Roles in the AI Ecosystem (Vibe Wrangler, CHOP Engineer)
-      - Conversational Programming: A Step, Not the Destination
-      - Why 'Dull is Good': The Value of Integrated, Understood Technology
-      - Limitations and Lessons Learned from the AI Wave (e.g., Don't Fire Your Engineers!)
-    - Acknowledging the Boundaries: The Inherent Limitations of Current AI
-    - Absorbing the Lessons: Wisdom from the Hype Cycle
-    - The "Don't Fire Your Engineers!" Imperative: Augmentation, Not Replacement
-    - Implications for Government and the Public Sector
-    - Conclusion: The Value of a Realistic Plateau
-    - Pivoting to the Past: Unearthing 'The Big One'
-      - Introducing SpimeScript: A Concept Forged in 2004-2006
-      - The Core Premise: Hardware as Malleable as Software
-      - Why Now? Foundational Components Falling into Place
-      - Setting the Stage: A Transformation Dwarfing AI
-  - Chapter 1: The Genesis and Vision - From 'Shaping Things' to SpimeScript
-    - Intellectual Origins: Ideas Have Histories
-      - EuroFoo 2004: The Spark of an Idea
-      - Bruce Sterling's 'Shaping Things': Spimes Defined
-      - EuroOSCON 2006: Presenting SpimeScript to the World
-      - Connecting the Dots: IoT, Ubiquitous Computing, and the Spime Concept
-    - Defining SpimeScript: The Language of Malleable Objects
-      - Beyond Digital Twins: Objects Defined by Function, Not Just State
-      - The Fundamental Question: Hardware or Software Implementation?
-      - The Compiler's Crucial Role: Optimising for Function Across Domains
-      - SpimeScript vs. Traditional Programming and Hardware Description Languages
-  - Chapter 2: The Mechanics of Malleability - How SpimeScript Works
-    - Describing Function: The Core of SpimeScript
-      - Towards a Universal Functional Description Language
-      - Abstraction Layers: Hiding Physical Implementation Details
-      - Representing Physical Constraints and Capabilities
-      - Potential Syntaxes and Structures (Theoretical Examples)
-    - The Spime Compiler: Bridging Digital Intent and Physical Reality
-      - Decision Logic: When to Choose Hardware vs. Software
-      - Optimisation Criteria: Cost, Performance, Energy, Material Use
-      - Interfacing with Fabrication: Translating Compiled Output to Action
-      - Verification and Simulation in the Physical/Digital Realm
-    - Enabling Technologies: Making Malleable Hardware Possible
-      - Advanced Materials Science: Programmable Matter and Metamaterials
-      - Hybrid Manufacturing: Combining Additive, Subtractive, and Assembly Processes
-      - Embedded Systems and FPGAs: Software-Defined Hardware Today
-      - Sensor Networks and Feedback Loops: Closing the Physical-Digital Loop
-  - Chapter 3: Rewriting Reality - The SpimeScript Transformation
-    - Shattering Supply Chains: From Global Logistics to Local Fabrication
-      - The End of Fixed Function Hardware?
-      - On-Demand Physical Functionality
-      - Impact on Logistics, Inventory, and Warehousing
-    - Logistics Transformation: From Shipping Products to Moving Potential
-    - Inventory Revolution: From Physical Stockpiles to Digital Libraries and Raw Materials
-    - Warehousing Reimagined: From Storage Hubs to Fabrication Centres
-      - Resilience and Customisation in Manufacturing
-    - Mapping the Disruption: Value Chain Analysis
-      - Applying Wardley Mapping to the SpimeScript Transition
-      - Identifying Inertia and Points of Resistance
-      - New Value Creation Opportunities
-      - Case Study: Reimagining Consumer Electronics Production
-      - Case Study: Transforming Industrial Equipment Lifecycles
-    - Redefining Products, Design, and Ownership
-      - Products as Services: The Ultimate Expression?
-      - Continuous Evolution and Upgradability (Hardware Patches)
-      - The Role of Designers in a Malleable World
-      - Implications for Intellectual Property and Licensing
-    - Redefining Protectable Assets: From Physical Form to Functional Intent
-    - Authorship and Ownership in a Compiled World: Echoes of AI
-    - Licensing Functions, Not Just Objects: A New Commercial Paradigm
-    - Managing Updates and 'Hardware Patches': The Ownership Blur
-    - The Role of Openness and Standards: Balancing Innovation and Access
-    - Enforcement and Infringement: A New Frontier
-    - Conclusion: Navigating the Uncharted Territory of Functional IP
-  - Chapter 4: Early Signals and Proto-Languages - Finding Spimes in the Wild
-    - The Blurring Boundary: Physical/Digital Convergence Today
-      - IoT and Cyber-Physical Systems as Precursors
-      - Digital Twins: Static Representations vs. Dynamic Function
-      - AR/VR Interfaces to Physical-Digital Systems
-      - Learnings from Current Phygital Implementations (Retail, Industry)
-    - Searching for Proto-SpimeScript: Languages Describing Physical Function
-      - Academic Research in Programmable Matter and Self-Reconfiguring Systems
-      - Domain-Specific Languages (DSLs) in Robotics and Automation
-    - Abstraction: Speaking the Language of Robots and Tasks
-    - Describing Physical Function: From Movement to Complex Tasks
-    - Automation, Code Generation, and Integration
-    - Limitations and Comparison to SpimeScript
-    - Conclusion: Valuable Stepping Stones
-      - Frameworks for Describing Hardware/Software Co-Design
-      - Are Existing Prototype-Based Languages (e.g., JavaScript, Lua) Relevant? (Analogy vs. Direct Use)
-      - Identifying Nascent Projects and Experiments (Author's Research Focus)
-    - Interpreting the Signals: What Indicates a Move Towards SpimeScript?
-      - Focus on Functional Description over Implementation
-      - Compiler/Automated Decision-Making for Physical Output
-      - Integration with Advanced Fabrication Technologies
-      - Open Standards and Community Efforts
-  - Chapter 5: Navigating the Spime Era - Challenges and Opportunities
-    - Technical and Implementation Hurdles
-      - Complexity of the Spime Compiler
-      - Material Science Limitations
-      - Fabrication Speed, Cost, and Fidelity
-      - Ensuring Reliability and Safety of Malleable Objects
-    - Economic and Societal Shifts
-      - Job Displacement and Creation in Manufacturing and Design
-      - Impact on Global Trade and Geopolitics
-      - Accessibility and the Digital (and Physical) Divide
-    - Bridging the Divides: The Promise of Functional Customisation
-    - Exacerbating the Divides: The Risks of Unequal Access
-    - Policy Considerations for Inclusive Adaptation
-      - Planned Obsolescence vs. Sustainable Lifecycles
-    - Security, Ethics, and Governance
-      - Securing Malleable Hardware: New Attack Surfaces
-      - Privacy Implications of Functionally Aware Objects
-      - Ethical Use of Programmable Physicality
-      - The Need for New Regulatory Frameworks and Standards
-    - The Immense Opportunities
-      - Unprecedented Customisation and Personalisation
-      - Revolutionising Repair and Sustainability
-      - Accelerating Scientific Discovery and Engineering
-      - New Forms of Art and Expression
-  - Conclusion: The Dawn of Malleable Reality
-    - Recap: SpimeScript as the Next Great Disruption
-      - Beyond the Limits of Software and Fixed Hardware
-      - The Power of Functional Description and Compilation
-      - Why This is Bigger Than AI (Revisited)
-    - The Road Ahead: What to Watch For
-      - Key Milestones in Research and Development
-      - Industry Adoption Patterns
-      - The Role of Open Source and Collaboration
-      - Preparing for the Transformation
-    - A Call to Imagine
-      - Thinking Functionally About the Physical World
-      - The Long-Term Vision: A World Shaped by SpimeScript
-      - Final Thoughts: Embracing the Malleable Future
+- [SpimeScript: Beyond AI, Towards the Malleable Future](#spimescript-beyond-ai-towards-the-malleable-future)
+  - [Introduction: When Dull is Good, and What Comes Next](#introduction-when-dull-is-good-and-what-comes-next)
+    - [The AI Plateau: Normalisation and the Search for the Next Frontier](#the-ai-plateau-normalisation-and-the-search-for-the-next-frontier)
+      - [From Hoopla to Utility: AI's Maturation (AIOps, MLOps, VibeOps)](#from-hoopla-to-utility-ais-maturation-aiops-mlops-vibeops)
+      - [The Emerging Roles in the AI Ecosystem (Vibe Wrangler, CHOP Engineer)](#the-emerging-roles-in-the-ai-ecosystem-vibe-wrangler-chop-engineer)
+      - [Conversational Programming: A Step, Not the Destination](#conversational-programming-a-step-not-the-destination)
+      - [Why 'Dull is Good': The Value of Integrated, Understood Technology](#why-dull-is-good-the-value-of-integrated-understood-technology)
+      - [Limitations and Lessons Learned from the AI Wave (e.g., Don't Fire Your Engineers!)](#limitations-and-lessons-learned-from-the-ai-wave-eg-dont-fire-your-engineers)
+    - [Acknowledging the Boundaries: The Inherent Limitations of Current AI](#acknowledging-the-boundaries-the-inherent-limitations-of-current-ai)
+    - [Absorbing the Lessons: Wisdom from the Hype Cycle](#absorbing-the-lessons-wisdom-from-the-hype-cycle)
+    - [The "Don't Fire Your Engineers!" Imperative: Augmentation, Not Replacement](#the-dont-fire-your-engineers-imperative-augmentation-not-replacement)
+    - [Implications for Government and the Public Sector](#implications-for-government-and-the-public-sector)
+    - [Conclusion: The Value of a Realistic Plateau](#conclusion-the-value-of-a-realistic-plateau)
+    - [Pivoting to the Past: Unearthing 'The Big One'](#pivoting-to-the-past-unearthing-the-big-one)
+      - [Introducing SpimeScript: A Concept Forged in 2004-2006](#introducing-spimescript-a-concept-forged-in-2004-2006)
+      - [The Core Premise: Hardware as Malleable as Software](#the-core-premise-hardware-as-malleable-as-software)
+      - [Why Now? Foundational Components Falling into Place](#why-now-foundational-components-falling-into-place)
+      - [Setting the Stage: A Transformation Dwarfing AI](#setting-the-stage-a-transformation-dwarfing-ai)
+  - [Chapter 1: The Genesis and Vision - From 'Shaping Things' to SpimeScript](#chapter-1-the-genesis-and-vision-from-shaping-things-to-spimescript)
+    - [Intellectual Origins: Ideas Have Histories](#intellectual-origins-ideas-have-histories)
+      - [EuroFoo 2004: The Spark of an Idea](#eurofoo-2004-the-spark-of-an-idea)
+      - [Bruce Sterling's 'Shaping Things': Spimes Defined](#bruce-sterlings-shaping-things-spimes-defined)
+      - [EuroOSCON 2006: Presenting SpimeScript to the World](#eurooscon-2006-presenting-spimescript-to-the-world)
+      - [Connecting the Dots: IoT, Ubiquitous Computing, and the Spime Concept](#connecting-the-dots-iot-ubiquitous-computing-and-the-spime-concept)
+    - [Defining SpimeScript: The Language of Malleable Objects](#defining-spimescript-the-language-of-malleable-objects)
+      - [Beyond Digital Twins: Objects Defined by Function, Not Just State](#beyond-digital-twins-objects-defined-by-function-not-just-state)
+      - [The Fundamental Question: Hardware or Software Implementation?](#the-fundamental-question-hardware-or-software-implementation)
+      - [The Compiler's Crucial Role: Optimising for Function Across Domains](#the-compilers-crucial-role-optimising-for-function-across-domains)
+      - [SpimeScript vs. Traditional Programming and Hardware Description Languages](#spimescript-vs-traditional-programming-and-hardware-description-languages)
+  - [Chapter 2: The Mechanics of Malleability - How SpimeScript Works](#chapter-2-the-mechanics-of-malleability-how-spimescript-works)
+    - [Describing Function: The Core of SpimeScript](#describing-function-the-core-of-spimescript)
+      - [Towards a Universal Functional Description Language](#towards-a-universal-functional-description-language)
+      - [Abstraction Layers: Hiding Physical Implementation Details](#abstraction-layers-hiding-physical-implementation-details)
+      - [Representing Physical Constraints and Capabilities](#representing-physical-constraints-and-capabilities)
+      - [Potential Syntaxes and Structures (Theoretical Examples)](#potential-syntaxes-and-structures-theoretical-examples)
+    - [The Spime Compiler: Bridging Digital Intent and Physical Reality](#the-spime-compiler-bridging-digital-intent-and-physical-reality)
+      - [Decision Logic: When to Choose Hardware vs. Software](#decision-logic-when-to-choose-hardware-vs-software)
+      - [Optimisation Criteria: Cost, Performance, Energy, Material Use](#optimisation-criteria-cost-performance-energy-material-use)
+      - [Interfacing with Fabrication: Translating Compiled Output to Action](#interfacing-with-fabrication-translating-compiled-output-to-action)
+      - [Verification and Simulation in the Physical/Digital Realm](#verification-and-simulation-in-the-physicaldigital-realm)
+    - [Enabling Technologies: Making Malleable Hardware Possible](#enabling-technologies-making-malleable-hardware-possible)
+      - [Advanced Materials Science: Programmable Matter and Metamaterials](#advanced-materials-science-programmable-matter-and-metamaterials)
+      - [Hybrid Manufacturing: Combining Additive, Subtractive, and Assembly Processes](#hybrid-manufacturing-combining-additive-subtractive-and-assembly-processes)
+      - [Embedded Systems and FPGAs: Software-Defined Hardware Today](#embedded-systems-and-fpgas-software-defined-hardware-today)
+      - [Sensor Networks and Feedback Loops: Closing the Physical-Digital Loop](#sensor-networks-and-feedback-loops-closing-the-physical-digital-loop)
+  - [Chapter 3: Rewriting Reality - The SpimeScript Transformation](#chapter-3-rewriting-reality-the-spimescript-transformation)
+    - [Shattering Supply Chains: From Global Logistics to Local Fabrication](#shattering-supply-chains-from-global-logistics-to-local-fabrication)
+      - [The End of Fixed Function Hardware?](#the-end-of-fixed-function-hardware)
+      - [On-Demand Physical Functionality](#on-demand-physical-functionality)
+      - [Impact on Logistics, Inventory, and Warehousing](#impact-on-logistics-inventory-and-warehousing)
+    - [Logistics Transformation: From Shipping Products to Moving Potential](#logistics-transformation-from-shipping-products-to-moving-potential)
+    - [Inventory Revolution: From Physical Stockpiles to Digital Libraries and Raw Materials](#inventory-revolution-from-physical-stockpiles-to-digital-libraries-and-raw-materials)
+    - [Warehousing Reimagined: From Storage Hubs to Fabrication Centres](#warehousing-reimagined-from-storage-hubs-to-fabrication-centres)
+      - [Resilience and Customisation in Manufacturing](#resilience-and-customisation-in-manufacturing)
+    - [Mapping the Disruption: Value Chain Analysis](#mapping-the-disruption-value-chain-analysis)
+      - [Applying Wardley Mapping to the SpimeScript Transition](#applying-wardley-mapping-to-the-spimescript-transition)
+      - [Identifying Inertia and Points of Resistance](#identifying-inertia-and-points-of-resistance)
+      - [New Value Creation Opportunities](#new-value-creation-opportunities)
+      - [Case Study: Reimagining Consumer Electronics Production](#case-study-reimagining-consumer-electronics-production)
+      - [Case Study: Transforming Industrial Equipment Lifecycles](#case-study-transforming-industrial-equipment-lifecycles)
+    - [Redefining Products, Design, and Ownership](#redefining-products-design-and-ownership)
+      - [Products as Services: The Ultimate Expression?](#products-as-services-the-ultimate-expression)
+      - [Continuous Evolution and Upgradability (Hardware Patches)](#continuous-evolution-and-upgradability-hardware-patches)
+      - [The Role of Designers in a Malleable World](#the-role-of-designers-in-a-malleable-world)
+      - [Implications for Intellectual Property and Licensing](#implications-for-intellectual-property-and-licensing)
+    - [Redefining Protectable Assets: From Physical Form to Functional Intent](#redefining-protectable-assets-from-physical-form-to-functional-intent)
+    - [Authorship and Ownership in a Compiled World: Echoes of AI](#authorship-and-ownership-in-a-compiled-world-echoes-of-ai)
+    - [Licensing Functions, Not Just Objects: A New Commercial Paradigm](#licensing-functions-not-just-objects-a-new-commercial-paradigm)
+    - [Managing Updates and 'Hardware Patches': The Ownership Blur](#managing-updates-and-hardware-patches-the-ownership-blur)
+    - [The Role of Openness and Standards: Balancing Innovation and Access](#the-role-of-openness-and-standards-balancing-innovation-and-access)
+    - [Enforcement and Infringement: A New Frontier](#enforcement-and-infringement-a-new-frontier)
+    - [Conclusion: Navigating the Uncharted Territory of Functional IP](#conclusion-navigating-the-uncharted-territory-of-functional-ip)
+  - [Chapter 4: Early Signals and Proto-Languages - Finding Spimes in the Wild](#chapter-4-early-signals-and-proto-languages-finding-spimes-in-the-wild)
+    - [The Blurring Boundary: Physical/Digital Convergence Today](#the-blurring-boundary-physicaldigital-convergence-today)
+      - [IoT and Cyber-Physical Systems as Precursors](#iot-and-cyber-physical-systems-as-precursors)
+      - [Digital Twins: Static Representations vs. Dynamic Function](#digital-twins-static-representations-vs-dynamic-function)
+      - [AR/VR Interfaces to Physical-Digital Systems](#arvr-interfaces-to-physical-digital-systems)
+      - [Learnings from Current Phygital Implementations (Retail, Industry)](#learnings-from-current-phygital-implementations-retail-industry)
+    - [Searching for Proto-SpimeScript: Languages Describing Physical Function](#searching-for-proto-spimescript-languages-describing-physical-function)
+      - [Academic Research in Programmable Matter and Self-Reconfiguring Systems](#academic-research-in-programmable-matter-and-self-reconfiguring-systems)
+      - [Domain-Specific Languages (DSLs) in Robotics and Automation](#domain-specific-languages-dsls-in-robotics-and-automation)
+    - [Abstraction: Speaking the Language of Robots and Tasks](#abstraction-speaking-the-language-of-robots-and-tasks)
+    - [Describing Physical Function: From Movement to Complex Tasks](#describing-physical-function-from-movement-to-complex-tasks)
+    - [Automation, Code Generation, and Integration](#automation-code-generation-and-integration)
+    - [Limitations and Comparison to SpimeScript](#limitations-and-comparison-to-spimescript)
+    - [Conclusion: Valuable Stepping Stones](#conclusion-valuable-stepping-stones)
+      - [Frameworks for Describing Hardware/Software Co-Design](#frameworks-for-describing-hardwaresoftware-co-design)
+      - [Are Existing Prototype-Based Languages (e.g., JavaScript, Lua) Relevant? (Analogy vs. Direct Use)](#are-existing-prototype-based-languages-eg-javascript-lua-relevant-analogy-vs-direct-use)
+      - [Identifying Nascent Projects and Experiments (Author's Research Focus)](#identifying-nascent-projects-and-experiments-authors-research-focus)
+    - [Interpreting the Signals: What Indicates a Move Towards SpimeScript?](#interpreting-the-signals-what-indicates-a-move-towards-spimescript)
+      - [Focus on Functional Description over Implementation](#focus-on-functional-description-over-implementation)
+      - [Compiler/Automated Decision-Making for Physical Output](#compilerautomated-decision-making-for-physical-output)
+      - [Integration with Advanced Fabrication Technologies](#integration-with-advanced-fabrication-technologies)
+      - [Open Standards and Community Efforts](#open-standards-and-community-efforts)
+  - [Chapter 5: Navigating the Spime Era - Challenges and Opportunities](#chapter-5-navigating-the-spime-era-challenges-and-opportunities)
+    - [Technical and Implementation Hurdles](#technical-and-implementation-hurdles)
+      - [Complexity of the Spime Compiler](#complexity-of-the-spime-compiler)
+      - [Material Science Limitations](#material-science-limitations)
+      - [Fabrication Speed, Cost, and Fidelity](#fabrication-speed-cost-and-fidelity)
+      - [Ensuring Reliability and Safety of Malleable Objects](#ensuring-reliability-and-safety-of-malleable-objects)
+    - [Economic and Societal Shifts](#economic-and-societal-shifts)
+      - [Job Displacement and Creation in Manufacturing and Design](#job-displacement-and-creation-in-manufacturing-and-design)
+      - [Impact on Global Trade and Geopolitics](#impact-on-global-trade-and-geopolitics)
+      - [Accessibility and the Digital (and Physical) Divide](#accessibility-and-the-digital-and-physical-divide)
+    - [Bridging the Divides: The Promise of Functional Customisation](#bridging-the-divides-the-promise-of-functional-customisation)
+    - [Exacerbating the Divides: The Risks of Unequal Access](#exacerbating-the-divides-the-risks-of-unequal-access)
+    - [Policy Considerations for Inclusive Adaptation](#policy-considerations-for-inclusive-adaptation)
+      - [Planned Obsolescence vs. Sustainable Lifecycles](#planned-obsolescence-vs-sustainable-lifecycles)
+    - [Security, Ethics, and Governance](#security-ethics-and-governance)
+      - [Securing Malleable Hardware: New Attack Surfaces](#securing-malleable-hardware-new-attack-surfaces)
+      - [Privacy Implications of Functionally Aware Objects](#privacy-implications-of-functionally-aware-objects)
+      - [Ethical Use of Programmable Physicality](#ethical-use-of-programmable-physicality)
+      - [The Need for New Regulatory Frameworks and Standards](#the-need-for-new-regulatory-frameworks-and-standards)
+    - [The Immense Opportunities](#the-immense-opportunities)
+      - [Unprecedented Customisation and Personalisation](#unprecedented-customisation-and-personalisation)
+      - [Revolutionising Repair and Sustainability](#revolutionising-repair-and-sustainability)
+      - [Accelerating Scientific Discovery and Engineering](#accelerating-scientific-discovery-and-engineering)
+      - [New Forms of Art and Expression](#new-forms-of-art-and-expression)
+  - [Conclusion: The Dawn of Malleable Reality](#conclusion-the-dawn-of-malleable-reality)
+    - [Recap: SpimeScript as the Next Great Disruption](#recap-spimescript-as-the-next-great-disruption)
+      - [Beyond the Limits of Software and Fixed Hardware](#beyond-the-limits-of-software-and-fixed-hardware)
+      - [The Power of Functional Description and Compilation](#the-power-of-functional-description-and-compilation)
+      - [Why This is Bigger Than AI (Revisited)](#why-this-is-bigger-than-ai-revisited)
+    - [The Road Ahead: What to Watch For](#the-road-ahead-what-to-watch-for)
+      - [Key Milestones in Research and Development](#key-milestones-in-research-and-development)
+      - [Industry Adoption Patterns](#industry-adoption-patterns)
+      - [The Role of Open Source and Collaboration](#the-role-of-open-source-and-collaboration)
+      - [Preparing for the Transformation](#preparing-for-the-transformation)
+    - [A Call to Imagine](#a-call-to-imagine)
+      - [Thinking Functionally About the Physical World](#thinking-functionally-about-the-physical-world)
+      - [The Long-Term Vision: A World Shaped by SpimeScript](#the-long-term-vision-a-world-shaped-by-spimescript)
+      - [Final Thoughts: Embracing the Malleable Future](#final-thoughts-embracing-the-malleable-future)
 
 
 ## Introduction: When Dull is Good, and What Comes Next

@@ -2,73 +2,73 @@
 
 # Table of Contents
 
-- Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector
-  - Introduction: The AI Revolution in UK Government
-    - Current State of AI in UK Government
-      - Overview of Existing AI Initiatives
-      - Global Context and UK's Position
-      - Key Challenges and Opportunities
-    - Vision for AI-Enabled Public Services
-      - Strategic Objectives
-      - Expected Outcomes
-      - Measuring Success
-  - Strategic Assessment and Readiness
-    - Wardley Mapping for AI Services
-      - Understanding Wardley Mapping Principles
-      - Mapping AI Service Evolution
-      - Department-Specific Value Chain Analysis
-    - Organisational Readiness Assessment
-      - Technical Infrastructure Evaluation
-      - Skills and Capability Assessment
-      - Cultural Readiness Analysis
-    - Resource Planning
-      - Budget Allocation Framework
-      - Talent Acquisition Strategy
-      - Infrastructure Requirements
-  - Policy Framework and Ethical Guidelines
-    - Governance Structure
-      - Regulatory Compliance Framework
-      - Decision-Making Protocols
-      - Accountability Mechanisms
-    - Ethical AI Guidelines
-      - Core Principles and Values
-      - Bias Prevention and Fairness
-      - Transparency Requirements
-    - Data Governance
-      - Data Protection Standards
-      - Information Sharing Protocols
-      - Quality Assurance Methods
-  - Implementation Strategy and Roadmap
-    - Phased Implementation Approach
-      - Pilot Programme Design
-      - Scaling Strategy
-      - Success Metrics
-    - Case Studies and Best Practices
-      - Early Adopter Success Stories
-      - Lessons Learned
-      - Adaptation Strategies
-    - Change Management
-      - Stakeholder Engagement
-      - Training and Development
-      - Communication Strategy
-  - Risk Management and Public Trust
-    - Security Framework
-      - Threat Assessment Models
-      - Security Protocols
-      - Incident Response Plans
-    - Public Trust Building
-      - Transparency Initiatives
-      - Public Engagement Strategies
-      - Trust Measurement Methods
-  - Cross-Department Collaboration
-    - Partnership Models
-      - Internal Collaboration Frameworks
-      - Private Sector Engagement
-      - Knowledge Sharing Platforms
-    - Resource Optimisation
-      - Shared Services Model
-      - Cost-Sharing Frameworks
-      - Joint Project Management
+- [Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector](#transforming-government-through-ai-a-strategic-action-plan-for-the-uk-public-sector)
+  - [Introduction: The AI Revolution in UK Government](#introduction-the-ai-revolution-in-uk-government)
+    - [Current State of AI in UK Government](#current-state-of-ai-in-uk-government)
+      - [Overview of Existing AI Initiatives](#overview-of-existing-ai-initiatives)
+      - [Global Context and UK's Position](#global-context-and-uks-position)
+      - [Key Challenges and Opportunities](#key-challenges-and-opportunities)
+    - [Vision for AI-Enabled Public Services](#vision-for-ai-enabled-public-services)
+      - [Strategic Objectives](#strategic-objectives)
+      - [Expected Outcomes](#expected-outcomes)
+      - [Measuring Success](#measuring-success)
+  - [Strategic Assessment and Readiness](#strategic-assessment-and-readiness)
+    - [Wardley Mapping for AI Services](#wardley-mapping-for-ai-services)
+      - [Understanding Wardley Mapping Principles](#understanding-wardley-mapping-principles)
+      - [Mapping AI Service Evolution](#mapping-ai-service-evolution)
+      - [Department-Specific Value Chain Analysis](#department-specific-value-chain-analysis)
+    - [Organisational Readiness Assessment](#organisational-readiness-assessment)
+      - [Technical Infrastructure Evaluation](#technical-infrastructure-evaluation)
+      - [Skills and Capability Assessment](#skills-and-capability-assessment)
+      - [Cultural Readiness Analysis](#cultural-readiness-analysis)
+    - [Resource Planning](#resource-planning)
+      - [Budget Allocation Framework](#budget-allocation-framework)
+      - [Talent Acquisition Strategy](#talent-acquisition-strategy)
+      - [Infrastructure Requirements](#infrastructure-requirements)
+  - [Policy Framework and Ethical Guidelines](#policy-framework-and-ethical-guidelines)
+    - [Governance Structure](#governance-structure)
+      - [Regulatory Compliance Framework](#regulatory-compliance-framework)
+      - [Decision-Making Protocols](#decision-making-protocols)
+      - [Accountability Mechanisms](#accountability-mechanisms)
+    - [Ethical AI Guidelines](#ethical-ai-guidelines)
+      - [Core Principles and Values](#core-principles-and-values)
+      - [Bias Prevention and Fairness](#bias-prevention-and-fairness)
+      - [Transparency Requirements](#transparency-requirements)
+    - [Data Governance](#data-governance)
+      - [Data Protection Standards](#data-protection-standards)
+      - [Information Sharing Protocols](#information-sharing-protocols)
+      - [Quality Assurance Methods](#quality-assurance-methods)
+  - [Implementation Strategy and Roadmap](#implementation-strategy-and-roadmap)
+    - [Phased Implementation Approach](#phased-implementation-approach)
+      - [Pilot Programme Design](#pilot-programme-design)
+      - [Scaling Strategy](#scaling-strategy)
+      - [Success Metrics](#success-metrics)
+    - [Case Studies and Best Practices](#case-studies-and-best-practices)
+      - [Early Adopter Success Stories](#early-adopter-success-stories)
+      - [Lessons Learned](#lessons-learned)
+      - [Adaptation Strategies](#adaptation-strategies)
+    - [Change Management](#change-management)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Training and Development](#training-and-development)
+      - [Communication Strategy](#communication-strategy)
+  - [Risk Management and Public Trust](#risk-management-and-public-trust)
+    - [Security Framework](#security-framework)
+      - [Threat Assessment Models](#threat-assessment-models)
+      - [Security Protocols](#security-protocols)
+      - [Incident Response Plans](#incident-response-plans)
+    - [Public Trust Building](#public-trust-building)
+      - [Transparency Initiatives](#transparency-initiatives)
+      - [Public Engagement Strategies](#public-engagement-strategies)
+      - [Trust Measurement Methods](#trust-measurement-methods)
+  - [Cross-Department Collaboration](#cross-department-collaboration)
+    - [Partnership Models](#partnership-models)
+      - [Internal Collaboration Frameworks](#internal-collaboration-frameworks)
+      - [Private Sector Engagement](#private-sector-engagement)
+      - [Knowledge Sharing Platforms](#knowledge-sharing-platforms)
+    - [Resource Optimisation](#resource-optimisation)
+      - [Shared Services Model](#shared-services-model)
+      - [Cost-Sharing Frameworks](#cost-sharing-frameworks)
+      - [Joint Project Management](#joint-project-management)
 
 
 ## Introduction: The AI Revolution in UK Government

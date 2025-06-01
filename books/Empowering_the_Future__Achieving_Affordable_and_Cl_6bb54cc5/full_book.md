@@ -2,71 +2,71 @@
 
 # Table of Contents
 
-- Empowering the Future: Achieving Affordable and Clean Energy for All
-  - Chapter 1: Overview of SDG 7: Importance and Global Context
-    - 1.1 Understanding SDG 7
-      - The Origins of SDG 7
-      - Key Targets and Indicators
-      - Global Commitments and Agreements
-    - 1.2 The Importance of Clean Energy
-      - Impact on Economic Development
-      - Health and Environmental Benefits
-      - Energy Access and Social Equity
-    - 1.3 Current Global Energy Landscape
-      - Energy Consumption Patterns
-      - Regional Disparities in Energy Access
-  - Chapter 2: Innovative Technologies in Renewable Energy: Trends and Case Studies
-    - 2.1 Emerging Renewable Energy Technologies
-      - Solar Power Innovations
-      - Wind Energy Developments
-      - Hydropower Advances
-    - 2.2 Energy Storage Solutions
-      - Battery Technologies
-      - Grid Integration Strategies
-      - Role of Hydrogen in Energy Storage
-    - 2.3 Case Studies of Successful Implementation
-      - Community Solar Projects
-      - Offshore Wind Farms
-      - Innovative Biogas Solutions
-  - Chapter 3: Policy Frameworks and Economic Models Supporting Clean Energy
-    - 3.1 Global Policy Initiatives
-      - Paris Agreement and Its Implications
-      - Nationally Determined Contributions (NDCs)
-      - Role of International Organizations
-    - 3.2 Economic Models for Clean Energy
-      - Cost-Benefit Analysis of Renewable Investments
-      - Incentives and Subsidies for Clean Energy
-      - Financing Mechanisms for Sustainable Projects
-    - 3.3 Regulatory Frameworks
-      - Energy Policies and Legislation
-      - Market Structures and Competition
-      - Environmental Regulations and Compliance
-  - Chapter 4: Community Engagement: Grassroots Movements and Local Solutions
-    - 4.1 The Role of Communities in Energy Transition
-      - Community-Led Renewable Projects
-      - Engaging Local Stakeholders
-      - Building Capacity and Knowledge
-    - 4.2 Case Studies of Grassroots Movements
-      - Successful Local Initiatives
-      - Collaborative Models for Energy Access
-      - Lessons Learned from Community Engagement
-    - 4.3 Challenges and Opportunities
-      - Overcoming Barriers to Participation
-      - Funding and Resource Allocation
-      - Sustaining Community Efforts
-  - Chapter 5: Future Challenges: Navigating Controversies and Global Disparities
-    - 5.1 Controversies in Clean Energy
-      - Debates on Nuclear Energy
-      - Impact of Renewable Energy on Wildlife
-      - Social Justice and Energy Transition
-    - 5.2 Addressing Global Disparities
-      - Energy Poverty and Access Issues
-      - Technological Transfer to Developing Countries
-      - Equitable Policy Development
-    - 5.3 The Path Forward
-      - Innovative Solutions for Future Challenges
-      - Collaboration Across Sectors
-      - Vision for a Sustainable Energy Future
+- [Empowering the Future: Achieving Affordable and Clean Energy for All](#empowering-the-future-achieving-affordable-and-clean-energy-for-all)
+  - [Chapter 1: Overview of SDG 7: Importance and Global Context](#chapter-1-overview-of-sdg-7-importance-and-global-context)
+    - [1.1 Understanding SDG 7](#11-understanding-sdg-7)
+      - [The Origins of SDG 7](#the-origins-of-sdg-7)
+      - [Key Targets and Indicators](#key-targets-and-indicators)
+      - [Global Commitments and Agreements](#global-commitments-and-agreements)
+    - [1.2 The Importance of Clean Energy](#12-the-importance-of-clean-energy)
+      - [Impact on Economic Development](#impact-on-economic-development)
+      - [Health and Environmental Benefits](#health-and-environmental-benefits)
+      - [Energy Access and Social Equity](#energy-access-and-social-equity)
+    - [1.3 Current Global Energy Landscape](#13-current-global-energy-landscape)
+      - [Energy Consumption Patterns](#energy-consumption-patterns)
+      - [Regional Disparities in Energy Access](#regional-disparities-in-energy-access)
+  - [Chapter 2: Innovative Technologies in Renewable Energy: Trends and Case Studies](#chapter-2-innovative-technologies-in-renewable-energy-trends-and-case-studies)
+    - [2.1 Emerging Renewable Energy Technologies](#21-emerging-renewable-energy-technologies)
+      - [Solar Power Innovations](#solar-power-innovations)
+      - [Wind Energy Developments](#wind-energy-developments)
+      - [Hydropower Advances](#hydropower-advances)
+    - [2.2 Energy Storage Solutions](#22-energy-storage-solutions)
+      - [Battery Technologies](#battery-technologies)
+      - [Grid Integration Strategies](#grid-integration-strategies)
+      - [Role of Hydrogen in Energy Storage](#role-of-hydrogen-in-energy-storage)
+    - [2.3 Case Studies of Successful Implementation](#23-case-studies-of-successful-implementation)
+      - [Community Solar Projects](#community-solar-projects)
+      - [Offshore Wind Farms](#offshore-wind-farms)
+      - [Innovative Biogas Solutions](#innovative-biogas-solutions)
+  - [Chapter 3: Policy Frameworks and Economic Models Supporting Clean Energy](#chapter-3-policy-frameworks-and-economic-models-supporting-clean-energy)
+    - [3.1 Global Policy Initiatives](#31-global-policy-initiatives)
+      - [Paris Agreement and Its Implications](#paris-agreement-and-its-implications)
+      - [Nationally Determined Contributions (NDCs)](#nationally-determined-contributions-ndcs)
+      - [Role of International Organizations](#role-of-international-organizations)
+    - [3.2 Economic Models for Clean Energy](#32-economic-models-for-clean-energy)
+      - [Cost-Benefit Analysis of Renewable Investments](#cost-benefit-analysis-of-renewable-investments)
+      - [Incentives and Subsidies for Clean Energy](#incentives-and-subsidies-for-clean-energy)
+      - [Financing Mechanisms for Sustainable Projects](#financing-mechanisms-for-sustainable-projects)
+    - [3.3 Regulatory Frameworks](#33-regulatory-frameworks)
+      - [Energy Policies and Legislation](#energy-policies-and-legislation)
+      - [Market Structures and Competition](#market-structures-and-competition)
+      - [Environmental Regulations and Compliance](#environmental-regulations-and-compliance)
+  - [Chapter 4: Community Engagement: Grassroots Movements and Local Solutions](#chapter-4-community-engagement-grassroots-movements-and-local-solutions)
+    - [4.1 The Role of Communities in Energy Transition](#41-the-role-of-communities-in-energy-transition)
+      - [Community-Led Renewable Projects](#community-led-renewable-projects)
+      - [Engaging Local Stakeholders](#engaging-local-stakeholders)
+      - [Building Capacity and Knowledge](#building-capacity-and-knowledge)
+    - [4.2 Case Studies of Grassroots Movements](#42-case-studies-of-grassroots-movements)
+      - [Successful Local Initiatives](#successful-local-initiatives)
+      - [Collaborative Models for Energy Access](#collaborative-models-for-energy-access)
+      - [Lessons Learned from Community Engagement](#lessons-learned-from-community-engagement)
+    - [4.3 Challenges and Opportunities](#43-challenges-and-opportunities)
+      - [Overcoming Barriers to Participation](#overcoming-barriers-to-participation)
+      - [Funding and Resource Allocation](#funding-and-resource-allocation)
+      - [Sustaining Community Efforts](#sustaining-community-efforts)
+  - [Chapter 5: Future Challenges: Navigating Controversies and Global Disparities](#chapter-5-future-challenges-navigating-controversies-and-global-disparities)
+    - [5.1 Controversies in Clean Energy](#51-controversies-in-clean-energy)
+      - [Debates on Nuclear Energy](#debates-on-nuclear-energy)
+      - [Impact of Renewable Energy on Wildlife](#impact-of-renewable-energy-on-wildlife)
+      - [Social Justice and Energy Transition](#social-justice-and-energy-transition)
+    - [5.2 Addressing Global Disparities](#52-addressing-global-disparities)
+      - [Energy Poverty and Access Issues](#energy-poverty-and-access-issues)
+      - [Technological Transfer to Developing Countries](#technological-transfer-to-developing-countries)
+      - [Equitable Policy Development](#equitable-policy-development)
+    - [5.3 The Path Forward](#53-the-path-forward)
+      - [Innovative Solutions for Future Challenges](#innovative-solutions-for-future-challenges)
+      - [Collaboration Across Sectors](#collaboration-across-sectors)
+      - [Vision for a Sustainable Energy Future](#vision-for-a-sustainable-energy-future)
 
 
 ## Chapter 1: Overview of SDG 7: Importance and Global Context

@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Running to Stand Still: Mastering the Red Queen Effect in the AI Revolution
-  - Introduction: The AI Arms Race and the Red Queen's Game
-    - Understanding the Red Queen Effect
-      - The Origin and Evolution of the Red Queen Hypothesis
-      - Modern Applications in Technology and Business
-      - The Unique Dynamics of AI-Driven Markets
-    - The AI Revolution's Impact on Competition
-      - Accelerating Pace of Innovation
-      - Shifting Competitive Landscapes
-      - The New Rules of Digital Darwinism
-  - The Evolutionary Dynamics of AI Markets
-    - Digital Market Evolution
-      - Network Effects and AI Scaling
-      - Data as Competitive Currency
-      - Platform Economics in AI Industries
-    - Competitive Co-Evolution
-      - AI Innovation Cycles
-      - Cross-Industry Impact
-      - Ecosystem Dependencies
-  - Adaptation Strategies for AI-Driven Change
-    - Organizational Learning Systems
-      - Building Learning Infrastructure
-      - Cultural Transformation
-      - Measuring Adaptive Capacity
-    - Strategic Flexibility
-      - Dynamic Resource Allocation
-      - Modular Organisation Design
-      - Rapid Experimentation Frameworks
-  - Competitive Intelligence in the AI Age
-    - AI Development Monitoring
-      - Technical Intelligence Gathering
-      - Patent and Research Analysis
-      - Market Signal Detection
-    - Response Mechanisms
-      - Early Warning Systems
-      - Decision-Making Frameworks
-      - Action Planning and Execution
-  - Building Sustainable Innovation Advantage
-    - Innovation Architecture
-      - Core Capability Development
-      - Innovation Portfolio Management
-      - Strategic Partnership Design
-    - Future-Proofing Strategies
-      - Technology Stack Resilience
-      - Talent Development and Retention
-      - Adaptive Business Models
+- [Running to Stand Still: Mastering the Red Queen Effect in the AI Revolution](#running-to-stand-still-mastering-the-red-queen-effect-in-the-ai-revolution)
+  - [Introduction: The AI Arms Race and the Red Queen's Game](#introduction-the-ai-arms-race-and-the-red-queens-game)
+    - [Understanding the Red Queen Effect](#understanding-the-red-queen-effect)
+      - [The Origin and Evolution of the Red Queen Hypothesis](#the-origin-and-evolution-of-the-red-queen-hypothesis)
+      - [Modern Applications in Technology and Business](#modern-applications-in-technology-and-business)
+      - [The Unique Dynamics of AI-Driven Markets](#the-unique-dynamics-of-ai-driven-markets)
+    - [The AI Revolution's Impact on Competition](#the-ai-revolutions-impact-on-competition)
+      - [Accelerating Pace of Innovation](#accelerating-pace-of-innovation)
+      - [Shifting Competitive Landscapes](#shifting-competitive-landscapes)
+      - [The New Rules of Digital Darwinism](#the-new-rules-of-digital-darwinism)
+  - [The Evolutionary Dynamics of AI Markets](#the-evolutionary-dynamics-of-ai-markets)
+    - [Digital Market Evolution](#digital-market-evolution)
+      - [Network Effects and AI Scaling](#network-effects-and-ai-scaling)
+      - [Data as Competitive Currency](#data-as-competitive-currency)
+      - [Platform Economics in AI Industries](#platform-economics-in-ai-industries)
+    - [Competitive Co-Evolution](#competitive-co-evolution)
+      - [AI Innovation Cycles](#ai-innovation-cycles)
+      - [Cross-Industry Impact](#cross-industry-impact)
+      - [Ecosystem Dependencies](#ecosystem-dependencies)
+  - [Adaptation Strategies for AI-Driven Change](#adaptation-strategies-for-ai-driven-change)
+    - [Organizational Learning Systems](#organizational-learning-systems)
+      - [Building Learning Infrastructure](#building-learning-infrastructure)
+      - [Cultural Transformation](#cultural-transformation)
+      - [Measuring Adaptive Capacity](#measuring-adaptive-capacity)
+    - [Strategic Flexibility](#strategic-flexibility)
+      - [Dynamic Resource Allocation](#dynamic-resource-allocation)
+      - [Modular Organisation Design](#modular-organisation-design)
+      - [Rapid Experimentation Frameworks](#rapid-experimentation-frameworks)
+  - [Competitive Intelligence in the AI Age](#competitive-intelligence-in-the-ai-age)
+    - [AI Development Monitoring](#ai-development-monitoring)
+      - [Technical Intelligence Gathering](#technical-intelligence-gathering)
+      - [Patent and Research Analysis](#patent-and-research-analysis)
+      - [Market Signal Detection](#market-signal-detection)
+    - [Response Mechanisms](#response-mechanisms)
+      - [Early Warning Systems](#early-warning-systems)
+      - [Decision-Making Frameworks](#decision-making-frameworks)
+      - [Action Planning and Execution](#action-planning-and-execution)
+  - [Building Sustainable Innovation Advantage](#building-sustainable-innovation-advantage)
+    - [Innovation Architecture](#innovation-architecture)
+      - [Core Capability Development](#core-capability-development)
+      - [Innovation Portfolio Management](#innovation-portfolio-management)
+      - [Strategic Partnership Design](#strategic-partnership-design)
+    - [Future-Proofing Strategies](#future-proofing-strategies)
+      - [Technology Stack Resilience](#technology-stack-resilience)
+      - [Talent Development and Retention](#talent-development-and-retention)
+      - [Adaptive Business Models](#adaptive-business-models)
 
 
 ## Introduction: The AI Arms Race and the Red Queen's Game

@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- Generative AI Engineering: From Data to Deployment - A Comprehensive Guide to Building Production-Ready AI Systems
-  - 1. Introduction to Production-Grade Generative AI
-    - 1.1 The GenAI Engineering Landscape
-      - 1.1.1 Current State of Generative AI
-      - 1.1.2 Key Components of Production Systems
-      - 1.1.3 Engineering Challenges and Opportunities
-    - 1.2 Foundation Concepts
-      - 1.2.1 Architecture Overview
-      - 1.2.2 Development Lifecycle
-      - 1.2.3 Quality Metrics and Standards
-  - 2. Data Engineering for GenAI Systems
-    - 2.1 Training Data Architecture
-      - 2.1.1 Data Quality Requirements
-      - 2.1.2 Collection Strategies
-      - 2.1.3 Validation Frameworks
-    - 2.2 Data Cleaning and Preprocessing
-      - 2.2.1 Automated Cleaning Pipelines
-      - 2.2.2 Quality Assurance Methods
-      - 2.2.3 Data Versioning
-    - 2.3 Data Optimization Techniques
-      - 2.3.1 Augmentation Strategies
-      - 2.3.2 Synthetic Data Generation
-      - 2.3.3 Bias Detection and Mitigation
-  - 3. Advanced Tokenization Engineering
-    - 3.1 Tokenization Fundamentals
-      - 3.1.1 Token Types and Properties
-      - 3.1.2 Vocabulary Design
-      - 3.1.3 Encoding Schemes
-    - 3.2 Custom Tokenizer Development
-      - 3.2.1 Domain-Specific Tokenizers
-      - 3.2.2 Multilingual Support
-      - 3.2.3 Performance Optimization
-  - 4. Prompt Engineering and Chain Design
-    - 4.1 System Prompt Architecture
-      - 4.1.1 Prompt Templates
-      - 4.1.2 Context Management
-      - 4.1.3 Response Formatting
-    - 4.2 Few-Shot Learning Implementation
-      - 4.2.1 Example Selection
-      - 4.2.2 Pattern Design
-      - 4.2.3 Dynamic Adaptation
-    - 4.3 Production Chain Development
-      - 4.3.1 Chain Components
-      - 4.3.2 Error Handling
-      - 4.3.3 Performance Monitoring
-  - 5. Production System Architecture and Deployment
-    - 5.1 Scalable System Design
-      - 5.1.1 Infrastructure Requirements
-      - 5.1.2 Load Balancing
-      - 5.1.3 Resource Optimization
-    - 5.2 Monitoring and Maintenance
-      - 5.2.1 Performance Metrics
-      - 5.2.2 Quality Assurance
-      - 5.2.3 System Updates
-    - 5.3 Production Best Practices
-      - 5.3.1 Security Considerations
-      - 5.3.2 Cost Management
-      - 5.3.3 Compliance and Documentation
+- [Generative AI Engineering: From Data to Deployment - A Comprehensive Guide to Building Production-Ready AI Systems](#generative-ai-engineering-from-data-to-deployment-a-comprehensive-guide-to-building-production-ready-ai-systems)
+  - [1. Introduction to Production-Grade Generative AI](#1-introduction-to-production-grade-generative-ai)
+    - [1.1 The GenAI Engineering Landscape](#11-the-genai-engineering-landscape)
+      - [1.1.1 Current State of Generative AI](#111-current-state-of-generative-ai)
+      - [1.1.2 Key Components of Production Systems](#112-key-components-of-production-systems)
+      - [1.1.3 Engineering Challenges and Opportunities](#113-engineering-challenges-and-opportunities)
+    - [1.2 Foundation Concepts](#12-foundation-concepts)
+      - [1.2.1 Architecture Overview](#121-architecture-overview)
+      - [1.2.2 Development Lifecycle](#122-development-lifecycle)
+      - [1.2.3 Quality Metrics and Standards](#123-quality-metrics-and-standards)
+  - [2. Data Engineering for GenAI Systems](#2-data-engineering-for-genai-systems)
+    - [2.1 Training Data Architecture](#21-training-data-architecture)
+      - [2.1.1 Data Quality Requirements](#211-data-quality-requirements)
+      - [2.1.2 Collection Strategies](#212-collection-strategies)
+      - [2.1.3 Validation Frameworks](#213-validation-frameworks)
+    - [2.2 Data Cleaning and Preprocessing](#22-data-cleaning-and-preprocessing)
+      - [2.2.1 Automated Cleaning Pipelines](#221-automated-cleaning-pipelines)
+      - [2.2.2 Quality Assurance Methods](#222-quality-assurance-methods)
+      - [2.2.3 Data Versioning](#223-data-versioning)
+    - [2.3 Data Optimization Techniques](#23-data-optimization-techniques)
+      - [2.3.1 Augmentation Strategies](#231-augmentation-strategies)
+      - [2.3.2 Synthetic Data Generation](#232-synthetic-data-generation)
+      - [2.3.3 Bias Detection and Mitigation](#233-bias-detection-and-mitigation)
+  - [3. Advanced Tokenization Engineering](#3-advanced-tokenization-engineering)
+    - [3.1 Tokenization Fundamentals](#31-tokenization-fundamentals)
+      - [3.1.1 Token Types and Properties](#311-token-types-and-properties)
+      - [3.1.2 Vocabulary Design](#312-vocabulary-design)
+      - [3.1.3 Encoding Schemes](#313-encoding-schemes)
+    - [3.2 Custom Tokenizer Development](#32-custom-tokenizer-development)
+      - [3.2.1 Domain-Specific Tokenizers](#321-domain-specific-tokenizers)
+      - [3.2.2 Multilingual Support](#322-multilingual-support)
+      - [3.2.3 Performance Optimization](#323-performance-optimization)
+  - [4. Prompt Engineering and Chain Design](#4-prompt-engineering-and-chain-design)
+    - [4.1 System Prompt Architecture](#41-system-prompt-architecture)
+      - [4.1.1 Prompt Templates](#411-prompt-templates)
+      - [4.1.2 Context Management](#412-context-management)
+      - [4.1.3 Response Formatting](#413-response-formatting)
+    - [4.2 Few-Shot Learning Implementation](#42-few-shot-learning-implementation)
+      - [4.2.1 Example Selection](#421-example-selection)
+      - [4.2.2 Pattern Design](#422-pattern-design)
+      - [4.2.3 Dynamic Adaptation](#423-dynamic-adaptation)
+    - [4.3 Production Chain Development](#43-production-chain-development)
+      - [4.3.1 Chain Components](#431-chain-components)
+      - [4.3.2 Error Handling](#432-error-handling)
+      - [4.3.3 Performance Monitoring](#433-performance-monitoring)
+  - [5. Production System Architecture and Deployment](#5-production-system-architecture-and-deployment)
+    - [5.1 Scalable System Design](#51-scalable-system-design)
+      - [5.1.1 Infrastructure Requirements](#511-infrastructure-requirements)
+      - [5.1.2 Load Balancing](#512-load-balancing)
+      - [5.1.3 Resource Optimization](#513-resource-optimization)
+    - [5.2 Monitoring and Maintenance](#52-monitoring-and-maintenance)
+      - [5.2.1 Performance Metrics](#521-performance-metrics)
+      - [5.2.2 Quality Assurance](#522-quality-assurance)
+      - [5.2.3 System Updates](#523-system-updates)
+    - [5.3 Production Best Practices](#53-production-best-practices)
+      - [5.3.1 Security Considerations](#531-security-considerations)
+      - [5.3.2 Cost Management](#532-cost-management)
+      - [5.3.3 Compliance and Documentation](#533-compliance-and-documentation)
 
 
 ## 1. Introduction to Production-Grade Generative AI

@@ -2,104 +2,104 @@
 
 # Table of Contents
 
-- Mapping the Future of UK Transport: A Wardley Mapping Approach
-  - Chapter 1: Introduction to Wardley Mapping and Strategic Thinking
-    - 1.1 Understanding Wardley Mapping Fundamentals
-      - 1.1.1 Core Concepts: Value Chains, Evolution, and Context
-      - 1.1.2 The Map as a Strategic Tool: Visualisation and Communication
-      - 1.1.3 Climatic Patterns, Doctrine, and Forms of Gameplay
-      - 1.1.4 The Strategy Cycle: Observe, Orient, Decide, Act
-    - 1.2 The Power of Visualisation in Strategic Planning
-      - 1.2.1 Overcoming Cognitive Biases with Visual Tools
-      - 1.2.2 Facilitating Collaboration and Shared Understanding
-      - 1.2.3 Identifying Strategic Blind Spots and Opportunities
-      - 1.2.4 Wardley Mapping vs. Other Strategic Frameworks (e.g., SWOT, PESTLE)
-    - 1.3 Setting the Stage: Why Wardley Mapping for UK Transport?
-      - 1.3.1 The Complexities of the UK Transport Landscape
-      - 1.3.2 The Need for Adaptive and Forward-Looking Strategies
-      - 1.3.3 How Wardley Mapping Addresses Key Challenges
-      - 1.3.4 Book Overview and Reader Guide
-  - Chapter 2: Mapping the UK Transport Landscape: A Current State Assessment
-    - 2.1 Defining the Scope: Key Components of the UK Transport System
-      - 2.1.1 Road Infrastructure and Vehicle Fleets
-      - 2.1.2 Rail Networks and Rolling Stock
-      - 2.1.3 Air Transport: Airports and Airlines
-      - 2.1.4 Maritime Transport: Ports and Shipping
-      - 2.1.5 Public Transport Systems: Buses, Trams, and Underground
-    - 2.2 Building the Map: Placing Components on the Value Chain
-      - 2.2.1 Identifying User Needs and Value Propositions
-      - 2.2.2 Mapping Components to User Needs: A Layered Approach
-      - 2.2.3 Examples: Mapping a Commuter Journey, Freight Transport, and Tourism
-      - 2.2.4 Addressing Interdependencies and Systemic Effects
-    - 2.3 Assessing Evolution: From Genesis to Commodity
-      - 2.3.1 Identifying Components in Different Stages of Evolution
-      - 2.3.2 Understanding the Implications of Evolution for Strategy
-      - 2.3.3 Examples: Mapping Electric Vehicle Charging Infrastructure, Smart Ticketing Systems, and Autonomous Vehicles
-      - 2.3.4 Visualising the Current State Map: A Comprehensive Overview
-  - Chapter 3: Future Trends and Disruptions: Navigating Uncertainty
-    - 3.1 Identifying Key Climatic Patterns Affecting UK Transport
-      - 3.1.1 Economic Factors: Growth, Recession, and Investment
-      - 3.1.2 Technological Advancements: AI, Automation, and Connectivity
-      - 3.1.3 Environmental Concerns: Climate Change and Sustainability
-      - 3.1.4 Social Trends: Urbanisation, Demographics, and Mobility Preferences
-    - 3.2 Anticipating Disruptions: Black Swans and Grey Rhinos
-      - 3.2.1 Understanding the Nature of Disruptive Events
-      - 3.2.2 Identifying Potential Black Swans in the Transport Sector
-      - 3.2.3 Addressing Grey Rhinos: Recognising and Mitigating Obvious Risks
-      - 3.2.4 Scenario Planning: Preparing for Multiple Futures
-    - 3.3 Mapping Future States: Evolving the Transport Landscape
-      - 3.3.1 Projecting the Evolution of Key Components
-      - 3.3.2 Identifying Emerging Opportunities and Threats
-      - 3.3.3 Visualising Future State Maps: Scenarios and Contingencies
-      - 3.3.4 The Role of Innovation and Experimentation
-  - Chapter 4: Developing Strategic Options and Prioritization Frameworks
-    - 4.1 Leveraging Doctrine: Universal Principles for Effective Strategy
-      - 4.1.1 Focus on User Needs and Value Creation
-      - 4.1.2 Embrace Open Source and Standardisation
-      - 4.1.3 Automate and Optimise Commodity Components
-      - 4.1.4 Promote Innovation and Experimentation in Genesis Areas
-    - 4.2 Forms of Gameplay: Strategic Moves in the Transport Sector
-      - 4.2.1 Build vs. Buy Decisions: Strategic Sourcing and Partnerships
-      - 4.2.2 Shaping the Market: Influencing Standards and Regulations
-      - 4.2.3 Exploiting Evolution: Capitalising on Emerging Technologies
-      - 4.2.4 Managing Risk: Diversification and Contingency Planning
-    - 4.3 Prioritization Frameworks: Making Informed Decisions
-      - 4.3.1 Cost-Benefit Analysis: Quantifying Strategic Value
-      - 4.3.2 Risk Assessment: Evaluating Potential Downsides
-      - 4.3.3 Strategic Alignment: Ensuring Consistency with Overall Goals
-      - 4.3.4 Stakeholder Engagement: Balancing Competing Interests
-  - Chapter 5: Case Studies: Applying Wardley Mapping to Specific Transport Challenges in the UK
-    - 5.1 Case Study 1: The Future of Urban Mobility in London
-      - 5.1.1 Mapping the Current State of London's Transport System
-      - 5.1.2 Identifying Key Challenges: Congestion, Pollution, and Accessibility
-      - 5.1.3 Developing Strategic Options: Electric Vehicles, Cycling Infrastructure, and Public Transport Integration
-      - 5.1.4 Prioritising Investments: A Wardley Mapping-Informed Approach
-    - 5.2 Case Study 2: High Speed Rail and Regional Connectivity
-      - 5.2.1 Mapping the Value Chain of High Speed Rail
-      - 5.2.2 Assessing the Impact on Regional Economies
-      - 5.2.3 Identifying Opportunities for Innovation: Smart Ticketing, Real-Time Information, and Seamless Integration
-      - 5.2.4 Strategic Recommendations for Maximising Benefits
-    - 5.3 Case Study 3: Decarbonising Freight Transport
-      - 5.3.1 Mapping the Freight Transport Ecosystem
-      - 5.3.2 Identifying Key Challenges: Emissions, Efficiency, and Infrastructure
-      - 5.3.3 Developing Strategic Options: Electric Trucks, Rail Freight, and Sustainable Logistics
-      - 5.3.4 Prioritising Investments: A Wardley Mapping-Informed Approach
-  - Chapter 6: Conclusion: Embracing Strategic Agility in the UK Transport Sector
-    - 6.1 The Importance of Continuous Mapping and Adaptation
-      - 6.1.1 Embedding Wardley Mapping into Organisational Culture
-      - 6.1.2 Monitoring Key Trends and Disruptions
-      - 6.1.3 Regularly Updating and Refining Maps
-      - 6.1.4 Fostering a Culture of Experimentation and Learning
-    - 6.2 Overcoming Barriers to Adoption
-      - 6.2.1 Addressing Resistance to Change
-      - 6.2.2 Building Internal Expertise and Capacity
-      - 6.2.3 Communicating the Value of Wardley Mapping
-      - 6.2.4 Securing Leadership Support and Commitment
-    - 6.3 The Future of Transport Strategy in the UK
-      - 6.3.1 Embracing a Systems Thinking Approach
-      - 6.3.2 Fostering Collaboration and Innovation
-      - 6.3.3 Building a Sustainable and Resilient Transport System
-      - 6.3.4 A Call to Action: Shaping the Future of UK Transport
+- [Mapping the Future of UK Transport: A Wardley Mapping Approach](#mapping-the-future-of-uk-transport-a-wardley-mapping-approach)
+  - [Chapter 1: Introduction to Wardley Mapping and Strategic Thinking](#chapter-1-introduction-to-wardley-mapping-and-strategic-thinking)
+    - [1.1 Understanding Wardley Mapping Fundamentals](#11-understanding-wardley-mapping-fundamentals)
+      - [1.1.1 Core Concepts: Value Chains, Evolution, and Context](#111-core-concepts-value-chains-evolution-and-context)
+      - [1.1.2 The Map as a Strategic Tool: Visualisation and Communication](#112-the-map-as-a-strategic-tool-visualisation-and-communication)
+      - [1.1.3 Climatic Patterns, Doctrine, and Forms of Gameplay](#113-climatic-patterns-doctrine-and-forms-of-gameplay)
+      - [1.1.4 The Strategy Cycle: Observe, Orient, Decide, Act](#114-the-strategy-cycle-observe-orient-decide-act)
+    - [1.2 The Power of Visualisation in Strategic Planning](#12-the-power-of-visualisation-in-strategic-planning)
+      - [1.2.1 Overcoming Cognitive Biases with Visual Tools](#121-overcoming-cognitive-biases-with-visual-tools)
+      - [1.2.2 Facilitating Collaboration and Shared Understanding](#122-facilitating-collaboration-and-shared-understanding)
+      - [1.2.3 Identifying Strategic Blind Spots and Opportunities](#123-identifying-strategic-blind-spots-and-opportunities)
+      - [1.2.4 Wardley Mapping vs. Other Strategic Frameworks (e.g., SWOT, PESTLE)](#124-wardley-mapping-vs-other-strategic-frameworks-eg-swot-pestle)
+    - [1.3 Setting the Stage: Why Wardley Mapping for UK Transport?](#13-setting-the-stage-why-wardley-mapping-for-uk-transport)
+      - [1.3.1 The Complexities of the UK Transport Landscape](#131-the-complexities-of-the-uk-transport-landscape)
+      - [1.3.2 The Need for Adaptive and Forward-Looking Strategies](#132-the-need-for-adaptive-and-forward-looking-strategies)
+      - [1.3.3 How Wardley Mapping Addresses Key Challenges](#133-how-wardley-mapping-addresses-key-challenges)
+      - [1.3.4 Book Overview and Reader Guide](#134-book-overview-and-reader-guide)
+  - [Chapter 2: Mapping the UK Transport Landscape: A Current State Assessment](#chapter-2-mapping-the-uk-transport-landscape-a-current-state-assessment)
+    - [2.1 Defining the Scope: Key Components of the UK Transport System](#21-defining-the-scope-key-components-of-the-uk-transport-system)
+      - [2.1.1 Road Infrastructure and Vehicle Fleets](#211-road-infrastructure-and-vehicle-fleets)
+      - [2.1.2 Rail Networks and Rolling Stock](#212-rail-networks-and-rolling-stock)
+      - [2.1.3 Air Transport: Airports and Airlines](#213-air-transport-airports-and-airlines)
+      - [2.1.4 Maritime Transport: Ports and Shipping](#214-maritime-transport-ports-and-shipping)
+      - [2.1.5 Public Transport Systems: Buses, Trams, and Underground](#215-public-transport-systems-buses-trams-and-underground)
+    - [2.2 Building the Map: Placing Components on the Value Chain](#22-building-the-map-placing-components-on-the-value-chain)
+      - [2.2.1 Identifying User Needs and Value Propositions](#221-identifying-user-needs-and-value-propositions)
+      - [2.2.2 Mapping Components to User Needs: A Layered Approach](#222-mapping-components-to-user-needs-a-layered-approach)
+      - [2.2.3 Examples: Mapping a Commuter Journey, Freight Transport, and Tourism](#223-examples-mapping-a-commuter-journey-freight-transport-and-tourism)
+      - [2.2.4 Addressing Interdependencies and Systemic Effects](#224-addressing-interdependencies-and-systemic-effects)
+    - [2.3 Assessing Evolution: From Genesis to Commodity](#23-assessing-evolution-from-genesis-to-commodity)
+      - [2.3.1 Identifying Components in Different Stages of Evolution](#231-identifying-components-in-different-stages-of-evolution)
+      - [2.3.2 Understanding the Implications of Evolution for Strategy](#232-understanding-the-implications-of-evolution-for-strategy)
+      - [2.3.3 Examples: Mapping Electric Vehicle Charging Infrastructure, Smart Ticketing Systems, and Autonomous Vehicles](#233-examples-mapping-electric-vehicle-charging-infrastructure-smart-ticketing-systems-and-autonomous-vehicles)
+      - [2.3.4 Visualising the Current State Map: A Comprehensive Overview](#234-visualising-the-current-state-map-a-comprehensive-overview)
+  - [Chapter 3: Future Trends and Disruptions: Navigating Uncertainty](#chapter-3-future-trends-and-disruptions-navigating-uncertainty)
+    - [3.1 Identifying Key Climatic Patterns Affecting UK Transport](#31-identifying-key-climatic-patterns-affecting-uk-transport)
+      - [3.1.1 Economic Factors: Growth, Recession, and Investment](#311-economic-factors-growth-recession-and-investment)
+      - [3.1.2 Technological Advancements: AI, Automation, and Connectivity](#312-technological-advancements-ai-automation-and-connectivity)
+      - [3.1.3 Environmental Concerns: Climate Change and Sustainability](#313-environmental-concerns-climate-change-and-sustainability)
+      - [3.1.4 Social Trends: Urbanisation, Demographics, and Mobility Preferences](#314-social-trends-urbanisation-demographics-and-mobility-preferences)
+    - [3.2 Anticipating Disruptions: Black Swans and Grey Rhinos](#32-anticipating-disruptions-black-swans-and-grey-rhinos)
+      - [3.2.1 Understanding the Nature of Disruptive Events](#321-understanding-the-nature-of-disruptive-events)
+      - [3.2.2 Identifying Potential Black Swans in the Transport Sector](#322-identifying-potential-black-swans-in-the-transport-sector)
+      - [3.2.3 Addressing Grey Rhinos: Recognising and Mitigating Obvious Risks](#323-addressing-grey-rhinos-recognising-and-mitigating-obvious-risks)
+      - [3.2.4 Scenario Planning: Preparing for Multiple Futures](#324-scenario-planning-preparing-for-multiple-futures)
+    - [3.3 Mapping Future States: Evolving the Transport Landscape](#33-mapping-future-states-evolving-the-transport-landscape)
+      - [3.3.1 Projecting the Evolution of Key Components](#331-projecting-the-evolution-of-key-components)
+      - [3.3.2 Identifying Emerging Opportunities and Threats](#332-identifying-emerging-opportunities-and-threats)
+      - [3.3.3 Visualising Future State Maps: Scenarios and Contingencies](#333-visualising-future-state-maps-scenarios-and-contingencies)
+      - [3.3.4 The Role of Innovation and Experimentation](#334-the-role-of-innovation-and-experimentation)
+  - [Chapter 4: Developing Strategic Options and Prioritization Frameworks](#chapter-4-developing-strategic-options-and-prioritization-frameworks)
+    - [4.1 Leveraging Doctrine: Universal Principles for Effective Strategy](#41-leveraging-doctrine-universal-principles-for-effective-strategy)
+      - [4.1.1 Focus on User Needs and Value Creation](#411-focus-on-user-needs-and-value-creation)
+      - [4.1.2 Embrace Open Source and Standardisation](#412-embrace-open-source-and-standardisation)
+      - [4.1.3 Automate and Optimise Commodity Components](#413-automate-and-optimise-commodity-components)
+      - [4.1.4 Promote Innovation and Experimentation in Genesis Areas](#414-promote-innovation-and-experimentation-in-genesis-areas)
+    - [4.2 Forms of Gameplay: Strategic Moves in the Transport Sector](#42-forms-of-gameplay-strategic-moves-in-the-transport-sector)
+      - [4.2.1 Build vs. Buy Decisions: Strategic Sourcing and Partnerships](#421-build-vs-buy-decisions-strategic-sourcing-and-partnerships)
+      - [4.2.2 Shaping the Market: Influencing Standards and Regulations](#422-shaping-the-market-influencing-standards-and-regulations)
+      - [4.2.3 Exploiting Evolution: Capitalising on Emerging Technologies](#423-exploiting-evolution-capitalising-on-emerging-technologies)
+      - [4.2.4 Managing Risk: Diversification and Contingency Planning](#424-managing-risk-diversification-and-contingency-planning)
+    - [4.3 Prioritization Frameworks: Making Informed Decisions](#43-prioritization-frameworks-making-informed-decisions)
+      - [4.3.1 Cost-Benefit Analysis: Quantifying Strategic Value](#431-cost-benefit-analysis-quantifying-strategic-value)
+      - [4.3.2 Risk Assessment: Evaluating Potential Downsides](#432-risk-assessment-evaluating-potential-downsides)
+      - [4.3.3 Strategic Alignment: Ensuring Consistency with Overall Goals](#433-strategic-alignment-ensuring-consistency-with-overall-goals)
+      - [4.3.4 Stakeholder Engagement: Balancing Competing Interests](#434-stakeholder-engagement-balancing-competing-interests)
+  - [Chapter 5: Case Studies: Applying Wardley Mapping to Specific Transport Challenges in the UK](#chapter-5-case-studies-applying-wardley-mapping-to-specific-transport-challenges-in-the-uk)
+    - [5.1 Case Study 1: The Future of Urban Mobility in London](#51-case-study-1-the-future-of-urban-mobility-in-london)
+      - [5.1.1 Mapping the Current State of London's Transport System](#511-mapping-the-current-state-of-londons-transport-system)
+      - [5.1.2 Identifying Key Challenges: Congestion, Pollution, and Accessibility](#512-identifying-key-challenges-congestion-pollution-and-accessibility)
+      - [5.1.3 Developing Strategic Options: Electric Vehicles, Cycling Infrastructure, and Public Transport Integration](#513-developing-strategic-options-electric-vehicles-cycling-infrastructure-and-public-transport-integration)
+      - [5.1.4 Prioritising Investments: A Wardley Mapping-Informed Approach](#514-prioritising-investments-a-wardley-mapping-informed-approach)
+    - [5.2 Case Study 2: High Speed Rail and Regional Connectivity](#52-case-study-2-high-speed-rail-and-regional-connectivity)
+      - [5.2.1 Mapping the Value Chain of High Speed Rail](#521-mapping-the-value-chain-of-high-speed-rail)
+      - [5.2.2 Assessing the Impact on Regional Economies](#522-assessing-the-impact-on-regional-economies)
+      - [5.2.3 Identifying Opportunities for Innovation: Smart Ticketing, Real-Time Information, and Seamless Integration](#523-identifying-opportunities-for-innovation-smart-ticketing-real-time-information-and-seamless-integration)
+      - [5.2.4 Strategic Recommendations for Maximising Benefits](#524-strategic-recommendations-for-maximising-benefits)
+    - [5.3 Case Study 3: Decarbonising Freight Transport](#53-case-study-3-decarbonising-freight-transport)
+      - [5.3.1 Mapping the Freight Transport Ecosystem](#531-mapping-the-freight-transport-ecosystem)
+      - [5.3.2 Identifying Key Challenges: Emissions, Efficiency, and Infrastructure](#532-identifying-key-challenges-emissions-efficiency-and-infrastructure)
+      - [5.3.3 Developing Strategic Options: Electric Trucks, Rail Freight, and Sustainable Logistics](#533-developing-strategic-options-electric-trucks-rail-freight-and-sustainable-logistics)
+      - [5.3.4 Prioritising Investments: A Wardley Mapping-Informed Approach](#534-prioritising-investments-a-wardley-mapping-informed-approach)
+  - [Chapter 6: Conclusion: Embracing Strategic Agility in the UK Transport Sector](#chapter-6-conclusion-embracing-strategic-agility-in-the-uk-transport-sector)
+    - [6.1 The Importance of Continuous Mapping and Adaptation](#61-the-importance-of-continuous-mapping-and-adaptation)
+      - [6.1.1 Embedding Wardley Mapping into Organisational Culture](#611-embedding-wardley-mapping-into-organisational-culture)
+      - [6.1.2 Monitoring Key Trends and Disruptions](#612-monitoring-key-trends-and-disruptions)
+      - [6.1.3 Regularly Updating and Refining Maps](#613-regularly-updating-and-refining-maps)
+      - [6.1.4 Fostering a Culture of Experimentation and Learning](#614-fostering-a-culture-of-experimentation-and-learning)
+    - [6.2 Overcoming Barriers to Adoption](#62-overcoming-barriers-to-adoption)
+      - [6.2.1 Addressing Resistance to Change](#621-addressing-resistance-to-change)
+      - [6.2.2 Building Internal Expertise and Capacity](#622-building-internal-expertise-and-capacity)
+      - [6.2.3 Communicating the Value of Wardley Mapping](#623-communicating-the-value-of-wardley-mapping)
+      - [6.2.4 Securing Leadership Support and Commitment](#624-securing-leadership-support-and-commitment)
+    - [6.3 The Future of Transport Strategy in the UK](#63-the-future-of-transport-strategy-in-the-uk)
+      - [6.3.1 Embracing a Systems Thinking Approach](#631-embracing-a-systems-thinking-approach)
+      - [6.3.2 Fostering Collaboration and Innovation](#632-fostering-collaboration-and-innovation)
+      - [6.3.3 Building a Sustainable and Resilient Transport System](#633-building-a-sustainable-and-resilient-transport-system)
+      - [6.3.4 A Call to Action: Shaping the Future of UK Transport](#634-a-call-to-action-shaping-the-future-of-uk-transport)
 
 
 ## Chapter 1: Introduction to Wardley Mapping and Strategic Thinking

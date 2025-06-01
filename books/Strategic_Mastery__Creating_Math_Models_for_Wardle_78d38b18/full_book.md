@@ -2,65 +2,65 @@
 
 # Table of Contents
 
-- Strategic Mastery: Creating Math Models for Wardley Mapping Gameplays
-  - Introduction to Wardley Mapping and Gameplays
-    - Understanding Wardley Maps
-      - History and Origin
-      - Core Concepts and Components
-      - Purpose and Benefits
-    - The Role of Gameplays in Strategy
-      - Definition and Types of Gameplays
-      - Enhancing Strategic Decision-Making
-      - Competitive Advantage through Gameplays
-    - Using This Book
-      - Structure and Organisation
-      - Reading Approaches
-      - Applying Concepts in Real-World Scenarios
-  - Mathematical Foundations for Strategic Analysis
-    - Key Mathematical Concepts
-      - Probability and Statistics
-      - Game Theory
-      - Optimization Techniques
-    - Quantitative Models in Strategy
-      - Modeling Competitive Dynamics
-      - Predictive Analytics
-      - Scenario Analysis
-  - Developing Quantitative Models for Gameplays
-    - Creating Math Models for Gameplays
-      - Identifying Variables and Parameters
-      - Building the Model
-      - Testing and Validation
-    - Integrating Models with Wardley Maps
-      - Mapping Mathematical Insights
-      - Enhancing Map Accuracy
-      - Iterative Model Refinement
-  - Case Studies and Practical Applications
-    - Real-World Examples
-      - Tech Industry Applications
-      - Healthcare Innovations
-      - Financial Sector Strategies
-    - Lessons Learned
-      - Success Stories
-      - Common Pitfalls
-      - Future Opportunities
-  - Cross-Disciplinary Insights from Systems Theory and Data Science
-    - Systems Theory Applications
-      - Understanding Complex Systems
-      - Feedback Loops and Dynamics
-      - Systemic Risk Management
-    - Data Science Techniques
-      - Data Collection and Analysis
-      - Machine Learning Applications
-      - Visualizing Data for Strategic Insights
-  - Conclusion and Future Directions
-    - The Evolving Landscape of Strategy
-      - Emerging Trends
-      - Technological Integration
-      - Ethical Considerations
-    - Continuous Learning and Adaptation
-      - Building a Culture of Strategic Thinking
-      - Balancing Theory and Practice
-      - Embracing Uncertainty
+- [Strategic Mastery: Creating Math Models for Wardley Mapping Gameplays](#strategic-mastery-creating-math-models-for-wardley-mapping-gameplays)
+  - [Introduction to Wardley Mapping and Gameplays](#introduction-to-wardley-mapping-and-gameplays)
+    - [Understanding Wardley Maps](#understanding-wardley-maps)
+      - [History and Origin](#history-and-origin)
+      - [Core Concepts and Components](#core-concepts-and-components)
+      - [Purpose and Benefits](#purpose-and-benefits)
+    - [The Role of Gameplays in Strategy](#the-role-of-gameplays-in-strategy)
+      - [Definition and Types of Gameplays](#definition-and-types-of-gameplays)
+      - [Enhancing Strategic Decision-Making](#enhancing-strategic-decision-making)
+      - [Competitive Advantage through Gameplays](#competitive-advantage-through-gameplays)
+    - [Using This Book](#using-this-book)
+      - [Structure and Organisation](#structure-and-organisation)
+      - [Reading Approaches](#reading-approaches)
+      - [Applying Concepts in Real-World Scenarios](#applying-concepts-in-real-world-scenarios)
+  - [Mathematical Foundations for Strategic Analysis](#mathematical-foundations-for-strategic-analysis)
+    - [Key Mathematical Concepts](#key-mathematical-concepts)
+      - [Probability and Statistics](#probability-and-statistics)
+      - [Game Theory](#game-theory)
+      - [Optimization Techniques](#optimization-techniques)
+    - [Quantitative Models in Strategy](#quantitative-models-in-strategy)
+      - [Modeling Competitive Dynamics](#modeling-competitive-dynamics)
+      - [Predictive Analytics](#predictive-analytics)
+      - [Scenario Analysis](#scenario-analysis)
+  - [Developing Quantitative Models for Gameplays](#developing-quantitative-models-for-gameplays)
+    - [Creating Math Models for Gameplays](#creating-math-models-for-gameplays)
+      - [Identifying Variables and Parameters](#identifying-variables-and-parameters)
+      - [Building the Model](#building-the-model)
+      - [Testing and Validation](#testing-and-validation)
+    - [Integrating Models with Wardley Maps](#integrating-models-with-wardley-maps)
+      - [Mapping Mathematical Insights](#mapping-mathematical-insights)
+      - [Enhancing Map Accuracy](#enhancing-map-accuracy)
+      - [Iterative Model Refinement](#iterative-model-refinement)
+  - [Case Studies and Practical Applications](#case-studies-and-practical-applications)
+    - [Real-World Examples](#real-world-examples)
+      - [Tech Industry Applications](#tech-industry-applications)
+      - [Healthcare Innovations](#healthcare-innovations)
+      - [Financial Sector Strategies](#financial-sector-strategies)
+    - [Lessons Learned](#lessons-learned)
+      - [Success Stories](#success-stories)
+      - [Common Pitfalls](#common-pitfalls)
+      - [Future Opportunities](#future-opportunities)
+  - [Cross-Disciplinary Insights from Systems Theory and Data Science](#cross-disciplinary-insights-from-systems-theory-and-data-science)
+    - [Systems Theory Applications](#systems-theory-applications)
+      - [Understanding Complex Systems](#understanding-complex-systems)
+      - [Feedback Loops and Dynamics](#feedback-loops-and-dynamics)
+      - [Systemic Risk Management](#systemic-risk-management)
+    - [Data Science Techniques](#data-science-techniques)
+      - [Data Collection and Analysis](#data-collection-and-analysis)
+      - [Machine Learning Applications](#machine-learning-applications)
+      - [Visualizing Data for Strategic Insights](#visualizing-data-for-strategic-insights)
+  - [Conclusion and Future Directions](#conclusion-and-future-directions)
+    - [The Evolving Landscape of Strategy](#the-evolving-landscape-of-strategy)
+      - [Emerging Trends](#emerging-trends)
+      - [Technological Integration](#technological-integration)
+      - [Ethical Considerations](#ethical-considerations)
+    - [Continuous Learning and Adaptation](#continuous-learning-and-adaptation)
+      - [Building a Culture of Strategic Thinking](#building-a-culture-of-strategic-thinking)
+      - [Balancing Theory and Practice](#balancing-theory-and-practice)
+      - [Embracing Uncertainty](#embracing-uncertainty)
 
 
 ## Introduction to Wardley Mapping and Gameplays

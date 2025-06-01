@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks
-  - Introduction: The Hidden Battlefield Beneath the Waves
-    - The Critical Nature of Submarine Cable Infrastructure
-      - Global Dependency on Undersea Networks
-      - Historical Context of Submarine Cable Development
-      - Current State of Global Cable Infrastructure
-    - Russia's Maritime Strategy Evolution
-      - Post-Cold War Naval Doctrine
-      - Modern Maritime Ambitions
-      - Strategic Focus on Undersea Operations
-  - Technical Vulnerabilities and Infrastructure Assessment
-    - Anatomy of Submarine Cable Networks
-      - Physical Components and Design
-      - Network Architecture
-      - Critical Junction Points
-    - Vulnerability Analysis
-      - Physical Threat Vectors
-      - Deep-Sea Access Points
-      - Landing Station Vulnerabilities
-    - Detection and Monitoring Challenges
-      - Current Surveillance Capabilities
-      - Blind Spots in Network Protection
-      - Early Warning Systems
-  - Russian Capabilities and Strategic Operations
-    - Specialized Naval Assets
-      - Deep-Sea Research Vessels
-      - Submarine Fleet Capabilities
-      - ROV and Autonomous Systems
-    - Known Operations and Incidents
-      - Historical Case Studies
-      - Pattern Analysis
-      - Attribution Challenges
-    - Strategic Objectives
-      - Military Advantages
-      - Economic Warfare Potential
-      - Information Control Capabilities
-  - Global Impact and Response Mechanisms
-    - Economic Implications
-      - Financial Market Disruption Scenarios
-      - Business Continuity Challenges
-      - Insurance and Risk Assessment
-    - International Legal Framework
-      - Maritime Law Applications
-      - State Responsibility
-      - Enforcement Challenges
-    - NATO and Allied Response
-      - Current Protection Strategies
-      - Military Deterrence Measures
-      - International Cooperation Frameworks
-  - Future Security and Resilience
-    - Technological Solutions
-      - Advanced Monitoring Systems
-      - Cable Protection Innovations
-      - Alternative Communication Networks
-    - Strategic Redundancy
-      - Network Diversification
-      - Emergency Response Protocols
-      - Recovery Capabilities
-    - Policy Recommendations
-      - International Cooperation Enhancement
-      - Infrastructure Investment Priorities
-      - Regulatory Framework Updates
+- [Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks](#silent-warfare-russias-strategic-targeting-of-global-submarine-cable-networks)
+  - [Introduction: The Hidden Battlefield Beneath the Waves](#introduction-the-hidden-battlefield-beneath-the-waves)
+    - [The Critical Nature of Submarine Cable Infrastructure](#the-critical-nature-of-submarine-cable-infrastructure)
+      - [Global Dependency on Undersea Networks](#global-dependency-on-undersea-networks)
+      - [Historical Context of Submarine Cable Development](#historical-context-of-submarine-cable-development)
+      - [Current State of Global Cable Infrastructure](#current-state-of-global-cable-infrastructure)
+    - [Russia's Maritime Strategy Evolution](#russias-maritime-strategy-evolution)
+      - [Post-Cold War Naval Doctrine](#post-cold-war-naval-doctrine)
+      - [Modern Maritime Ambitions](#modern-maritime-ambitions)
+      - [Strategic Focus on Undersea Operations](#strategic-focus-on-undersea-operations)
+  - [Technical Vulnerabilities and Infrastructure Assessment](#technical-vulnerabilities-and-infrastructure-assessment)
+    - [Anatomy of Submarine Cable Networks](#anatomy-of-submarine-cable-networks)
+      - [Physical Components and Design](#physical-components-and-design)
+      - [Network Architecture](#network-architecture)
+      - [Critical Junction Points](#critical-junction-points)
+    - [Vulnerability Analysis](#vulnerability-analysis)
+      - [Physical Threat Vectors](#physical-threat-vectors)
+      - [Deep-Sea Access Points](#deep-sea-access-points)
+      - [Landing Station Vulnerabilities](#landing-station-vulnerabilities)
+    - [Detection and Monitoring Challenges](#detection-and-monitoring-challenges)
+      - [Current Surveillance Capabilities](#current-surveillance-capabilities)
+      - [Blind Spots in Network Protection](#blind-spots-in-network-protection)
+      - [Early Warning Systems](#early-warning-systems)
+  - [Russian Capabilities and Strategic Operations](#russian-capabilities-and-strategic-operations)
+    - [Specialized Naval Assets](#specialized-naval-assets)
+      - [Deep-Sea Research Vessels](#deep-sea-research-vessels)
+      - [Submarine Fleet Capabilities](#submarine-fleet-capabilities)
+      - [ROV and Autonomous Systems](#rov-and-autonomous-systems)
+    - [Known Operations and Incidents](#known-operations-and-incidents)
+      - [Historical Case Studies](#historical-case-studies)
+      - [Pattern Analysis](#pattern-analysis)
+      - [Attribution Challenges](#attribution-challenges)
+    - [Strategic Objectives](#strategic-objectives)
+      - [Military Advantages](#military-advantages)
+      - [Economic Warfare Potential](#economic-warfare-potential)
+      - [Information Control Capabilities](#information-control-capabilities)
+  - [Global Impact and Response Mechanisms](#global-impact-and-response-mechanisms)
+    - [Economic Implications](#economic-implications)
+      - [Financial Market Disruption Scenarios](#financial-market-disruption-scenarios)
+      - [Business Continuity Challenges](#business-continuity-challenges)
+      - [Insurance and Risk Assessment](#insurance-and-risk-assessment)
+    - [International Legal Framework](#international-legal-framework)
+      - [Maritime Law Applications](#maritime-law-applications)
+      - [State Responsibility](#state-responsibility)
+      - [Enforcement Challenges](#enforcement-challenges)
+    - [NATO and Allied Response](#nato-and-allied-response)
+      - [Current Protection Strategies](#current-protection-strategies)
+      - [Military Deterrence Measures](#military-deterrence-measures)
+      - [International Cooperation Frameworks](#international-cooperation-frameworks)
+  - [Future Security and Resilience](#future-security-and-resilience)
+    - [Technological Solutions](#technological-solutions)
+      - [Advanced Monitoring Systems](#advanced-monitoring-systems)
+      - [Cable Protection Innovations](#cable-protection-innovations)
+      - [Alternative Communication Networks](#alternative-communication-networks)
+    - [Strategic Redundancy](#strategic-redundancy)
+      - [Network Diversification](#network-diversification)
+      - [Emergency Response Protocols](#emergency-response-protocols)
+      - [Recovery Capabilities](#recovery-capabilities)
+    - [Policy Recommendations](#policy-recommendations)
+      - [International Cooperation Enhancement](#international-cooperation-enhancement)
+      - [Infrastructure Investment Priorities](#infrastructure-investment-priorities)
+      - [Regulatory Framework Updates](#regulatory-framework-updates)
 
 
 ## Introduction: The Hidden Battlefield Beneath the Waves

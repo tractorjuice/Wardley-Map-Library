@@ -2,91 +2,91 @@
 
 # Table of Contents
 
-- Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector
-- Chapter 1: Understanding OKRs in the Government Context
-  - The OKR Framework: From Silicon Valley to Whitehall
-    - Origins and evolution of OKRs
-    - Core principles of OKRs
-    - Adapting OKRs for government: Challenges and opportunities
-    - The value proposition of OKRs in public service
-  - Unique Considerations for Government OKRs
-    - Balancing political priorities with operational goals
-    - Navigating bureaucratic structures and processes
-    - Addressing multi-stakeholder complexity
-    - Aligning with existing performance frameworks
-  - Building the Case for OKRs in Government
-    - Enhancing accountability and transparency
-    - Driving innovation and agility in public services
-    - Improving cross-departmental collaboration
-    - Demonstrating value for taxpayers
-- Chapter 2: Citizen-Centric Goal Setting
-  - Aligning Objectives with Public Needs
-    - Conducting citizen engagement and feedback loops
-    - Utilising data analytics to identify public priorities
-    - Balancing short-term demands with long-term strategic goals
-    - Incorporating social value in objective setting
-  - Crafting Meaningful Key Results for Public Services
-    - Defining measurable outcomes in government contexts
-    - Balancing quantitative and qualitative key results
-    - Addressing the challenge of long-term impact measurement
-    - Ensuring inclusivity and accessibility in key results
-  - Cascading OKRs Across Government Levels
-    - Aligning national, regional, and local objectives
-    - Fostering vertical and horizontal alignment
-    - Balancing standardisation with local flexibility
-    - Managing conflicting priorities across departments
-- Chapter 3: Data-Driven Decision Making in Government OKRs
-  - Leveraging Wardley Mapping for Strategic OKR Development
-    - Introduction to Wardley Mapping in government contexts
-    - Using Wardley Maps to identify strategic objectives
-    - Aligning OKRs with evolving landscapes and citizen needs
-    - Case study: Wardley Mapping in UK government digital transformation
-  - Harnessing Government Data for OKR Tracking
-    - Building data infrastructure for OKR measurement
-    - Ensuring data quality and reliability in government settings
-    - Addressing data privacy and security concerns
-    - Developing data visualisation tools for OKR dashboards
-  - Agile Analytics for Continuous OKR Refinement
-    - Implementing rapid feedback cycles in government OKRs
-    - Using A/B testing for policy and service delivery improvements
-    - Balancing data-driven decisions with political realities
-    - Fostering a culture of data literacy in public sector organisations
-- Chapter 4: Change Management: Implementing OKRs in Government Bureaucracies
-  - Overcoming Resistance to OKRs in Public Sector Organisations
-    - Identifying and addressing common sources of resistance
-    - Building a coalition of OKR champions across departments
-    - Developing tailored communication strategies for different stakeholders
-    - Aligning OKRs with existing performance management systems
-  - Training and Capacity Building for OKR Implementation
-    - Designing OKR training programmes for government employees
-    - Developing OKR coaching and mentoring networks
-    - Integrating OKRs into leadership development programmes
-    - Creating resources and tools for ongoing OKR support
-  - Fostering a Culture of Continuous Improvement
-    - Encouraging experimentation and learning from failure
-    - Recognising and rewarding OKR achievements
-    - Facilitating cross-departmental knowledge sharing
-    - Adapting OKRs to support long-term cultural change
-- Chapter 5: Case Studies and Success Stories
-  - National Government OKR Implementations
-    - Case study: UK Government Digital Service OKRs
-    - Case study: US Department of Veterans Affairs OKR programme
-    - Lessons learned from national-level OKR rollouts
-    - Impact on policy development and service delivery
-  - Local Government OKR Success Stories
-    - Case study: Manchester City Council's OKR journey
-    - Case study: Seattle's use of OKRs in urban planning
-    - Adapting OKRs for diverse local government contexts
-    - Measuring community impact through OKRs
-  - OKRs in Specific Government Domains
-    - Case study: OKRs in healthcare - NHS Digital transformation
-    - Case study: OKRs in education - Finnish school system improvements
-    - Case study: OKRs in environmental policy - New Zealand's climate action
-    - Cross-sector learnings and best practices
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector](#transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector)
+- [Chapter 1: Understanding OKRs in the Government Context](#chapter-1-understanding-okrs-in-the-government-context)
+  - [The OKR Framework: From Silicon Valley to Whitehall](#the-okr-framework-from-silicon-valley-to-whitehall)
+    - [Origins and evolution of OKRs](#origins-and-evolution-of-okrs)
+    - [Core principles of OKRs](#core-principles-of-okrs)
+    - [Adapting OKRs for government: Challenges and opportunities](#adapting-okrs-for-government-challenges-and-opportunities)
+    - [The value proposition of OKRs in public service](#the-value-proposition-of-okrs-in-public-service)
+  - [Unique Considerations for Government OKRs](#unique-considerations-for-government-okrs)
+    - [Balancing political priorities with operational goals](#balancing-political-priorities-with-operational-goals)
+    - [Navigating bureaucratic structures and processes](#navigating-bureaucratic-structures-and-processes)
+    - [Addressing multi-stakeholder complexity](#addressing-multi-stakeholder-complexity)
+    - [Aligning with existing performance frameworks](#aligning-with-existing-performance-frameworks)
+  - [Building the Case for OKRs in Government](#building-the-case-for-okrs-in-government)
+    - [Enhancing accountability and transparency](#enhancing-accountability-and-transparency)
+    - [Driving innovation and agility in public services](#driving-innovation-and-agility-in-public-services)
+    - [Improving cross-departmental collaboration](#improving-cross-departmental-collaboration)
+    - [Demonstrating value for taxpayers](#demonstrating-value-for-taxpayers)
+- [Chapter 2: Citizen-Centric Goal Setting](#chapter-2-citizen-centric-goal-setting)
+  - [Aligning Objectives with Public Needs](#aligning-objectives-with-public-needs)
+    - [Conducting citizen engagement and feedback loops](#conducting-citizen-engagement-and-feedback-loops)
+    - [Utilising data analytics to identify public priorities](#utilising-data-analytics-to-identify-public-priorities)
+    - [Balancing short-term demands with long-term strategic goals](#balancing-short-term-demands-with-long-term-strategic-goals)
+    - [Incorporating social value in objective setting](#incorporating-social-value-in-objective-setting)
+  - [Crafting Meaningful Key Results for Public Services](#crafting-meaningful-key-results-for-public-services)
+    - [Defining measurable outcomes in government contexts](#defining-measurable-outcomes-in-government-contexts)
+    - [Balancing quantitative and qualitative key results](#balancing-quantitative-and-qualitative-key-results)
+    - [Addressing the challenge of long-term impact measurement](#addressing-the-challenge-of-long-term-impact-measurement)
+    - [Ensuring inclusivity and accessibility in key results](#ensuring-inclusivity-and-accessibility-in-key-results)
+  - [Cascading OKRs Across Government Levels](#cascading-okrs-across-government-levels)
+    - [Aligning national, regional, and local objectives](#aligning-national-regional-and-local-objectives)
+    - [Fostering vertical and horizontal alignment](#fostering-vertical-and-horizontal-alignment)
+    - [Balancing standardisation with local flexibility](#balancing-standardisation-with-local-flexibility)
+    - [Managing conflicting priorities across departments](#managing-conflicting-priorities-across-departments)
+- [Chapter 3: Data-Driven Decision Making in Government OKRs](#chapter-3-data-driven-decision-making-in-government-okrs)
+  - [Leveraging Wardley Mapping for Strategic OKR Development](#leveraging-wardley-mapping-for-strategic-okr-development)
+    - [Introduction to Wardley Mapping in government contexts](#introduction-to-wardley-mapping-in-government-contexts)
+    - [Using Wardley Maps to identify strategic objectives](#using-wardley-maps-to-identify-strategic-objectives)
+    - [Aligning OKRs with evolving landscapes and citizen needs](#aligning-okrs-with-evolving-landscapes-and-citizen-needs)
+    - [Case study: Wardley Mapping in UK government digital transformation](#case-study-wardley-mapping-in-uk-government-digital-transformation)
+  - [Harnessing Government Data for OKR Tracking](#harnessing-government-data-for-okr-tracking)
+    - [Building data infrastructure for OKR measurement](#building-data-infrastructure-for-okr-measurement)
+    - [Ensuring data quality and reliability in government settings](#ensuring-data-quality-and-reliability-in-government-settings)
+    - [Addressing data privacy and security concerns](#addressing-data-privacy-and-security-concerns)
+    - [Developing data visualisation tools for OKR dashboards](#developing-data-visualisation-tools-for-okr-dashboards)
+  - [Agile Analytics for Continuous OKR Refinement](#agile-analytics-for-continuous-okr-refinement)
+    - [Implementing rapid feedback cycles in government OKRs](#implementing-rapid-feedback-cycles-in-government-okrs)
+    - [Using A/B testing for policy and service delivery improvements](#using-ab-testing-for-policy-and-service-delivery-improvements)
+    - [Balancing data-driven decisions with political realities](#balancing-data-driven-decisions-with-political-realities)
+    - [Fostering a culture of data literacy in public sector organisations](#fostering-a-culture-of-data-literacy-in-public-sector-organisations)
+- [Chapter 4: Change Management: Implementing OKRs in Government Bureaucracies](#chapter-4-change-management-implementing-okrs-in-government-bureaucracies)
+  - [Overcoming Resistance to OKRs in Public Sector Organisations](#overcoming-resistance-to-okrs-in-public-sector-organisations)
+    - [Identifying and addressing common sources of resistance](#identifying-and-addressing-common-sources-of-resistance)
+    - [Building a coalition of OKR champions across departments](#building-a-coalition-of-okr-champions-across-departments)
+    - [Developing tailored communication strategies for different stakeholders](#developing-tailored-communication-strategies-for-different-stakeholders)
+    - [Aligning OKRs with existing performance management systems](#aligning-okrs-with-existing-performance-management-systems)
+  - [Training and Capacity Building for OKR Implementation](#training-and-capacity-building-for-okr-implementation)
+    - [Designing OKR training programmes for government employees](#designing-okr-training-programmes-for-government-employees)
+    - [Developing OKR coaching and mentoring networks](#developing-okr-coaching-and-mentoring-networks)
+    - [Integrating OKRs into leadership development programmes](#integrating-okrs-into-leadership-development-programmes)
+    - [Creating resources and tools for ongoing OKR support](#creating-resources-and-tools-for-ongoing-okr-support)
+  - [Fostering a Culture of Continuous Improvement](#fostering-a-culture-of-continuous-improvement)
+    - [Encouraging experimentation and learning from failure](#encouraging-experimentation-and-learning-from-failure)
+    - [Recognising and rewarding OKR achievements](#recognising-and-rewarding-okr-achievements)
+    - [Facilitating cross-departmental knowledge sharing](#facilitating-cross-departmental-knowledge-sharing)
+    - [Adapting OKRs to support long-term cultural change](#adapting-okrs-to-support-long-term-cultural-change)
+- [Chapter 5: Case Studies and Success Stories](#chapter-5-case-studies-and-success-stories)
+  - [National Government OKR Implementations](#national-government-okr-implementations)
+    - [Case study: UK Government Digital Service OKRs](#case-study-uk-government-digital-service-okrs)
+    - [Case study: US Department of Veterans Affairs OKR programme](#case-study-us-department-of-veterans-affairs-okr-programme)
+    - [Lessons learned from national-level OKR rollouts](#lessons-learned-from-national-level-okr-rollouts)
+    - [Impact on policy development and service delivery](#impact-on-policy-development-and-service-delivery)
+  - [Local Government OKR Success Stories](#local-government-okr-success-stories)
+    - [Case study: Manchester City Council's OKR journey](#case-study-manchester-city-councils-okr-journey)
+    - [Case study: Seattle's use of OKRs in urban planning](#case-study-seattles-use-of-okrs-in-urban-planning)
+    - [Adapting OKRs for diverse local government contexts](#adapting-okrs-for-diverse-local-government-contexts)
+    - [Measuring community impact through OKRs](#measuring-community-impact-through-okrs)
+  - [OKRs in Specific Government Domains](#okrs-in-specific-government-domains)
+    - [Case study: OKRs in healthcare - NHS Digital transformation](#case-study-okrs-in-healthcare-nhs-digital-transformation)
+    - [Case study: OKRs in education - Finnish school system improvements](#case-study-okrs-in-education-finnish-school-system-improvements)
+    - [Case study: OKRs in environmental policy - New Zealand's climate action](#case-study-okrs-in-environmental-policy-new-zealands-climate-action)
+    - [Cross-sector learnings and best practices](#cross-sector-learnings-and-best-practices)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Chapter 1: Understanding OKRs in the Government Context

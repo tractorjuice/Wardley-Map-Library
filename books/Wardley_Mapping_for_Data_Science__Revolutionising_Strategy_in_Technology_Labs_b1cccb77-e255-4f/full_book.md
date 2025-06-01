@@ -2,84 +2,84 @@
 
 # Table of Contents
 
-- Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs
-- Foundations of Wardley Mapping for Data Science
-  - Understanding Wardley Mapping
-    - The origins and principles of Wardley Mapping
-    - Key components of a Wardley Map
-    - The evolution axis: From genesis to commodity
-    - The value chain axis: Anchoring user needs
-  - The Data Science and Technology Laboratory Landscape
-    - Unique challenges in data science environments
-    - The evolving role of technology labs
-    - Current strategic planning approaches in data science
-    - The need for enhanced strategic tools in tech labs
-  - Bridging Wardley Mapping and Data Science
-    - Aligning Wardley Mapping concepts with data science workflows
-    - Identifying key components in data science value chains
-    - Mapping the evolution of data science technologies and methodologies
-    - Potential impacts of Wardley Mapping on data science strategy
-- Implementing Wardley Mapping in Data Science Projects
-  - Mapping the Data Science Project Lifecycle
-    - Creating Wardley Maps for different types of data science projects
-    - Identifying critical dependencies and bottlenecks
-    - Visualising the evolution of project components
-    - Using maps to optimise project workflows
-  - Resource Allocation and Team Structure
-    - Using Wardley Maps to inform staffing decisions
-    - Aligning team structures with project evolution
-    - Identifying skill gaps and training needs
-    - Optimising resource allocation across multiple projects
-  - Risk Management and Contingency Planning
-    - Identifying risks through Wardley Mapping
-    - Developing mitigation strategies based on component evolution
-    - Planning for technology shifts and obsolescence
-    - Creating adaptive project plans using Wardley Maps
-- Driving Innovation and Strategic Advantage
-  - Identifying Innovation Opportunities
-    - Using Wardley Maps to spot gaps in the market
-    - Predicting future technology trends and needs
-    - Aligning innovation efforts with strategic goals
-    - Balancing incremental and disruptive innovation
-  - Competitive Analysis and Positioning
-    - Mapping competitor landscapes
-    - Identifying strategic advantages through comparative mapping
-    - Developing strategies to outmanoeuvre competitors
-    - Anticipating and responding to market shifts
-  - Building Strategic Partnerships
-    - Using Wardley Maps to identify potential partners
-    - Aligning partnerships with evolutionary stages
-    - Developing mutually beneficial collaboration strategies
-    - Managing partnership lifecycles through mapping
-- Case Studies: Wardley Mapping Success Stories
-  - Tech Giants: Reinventing Strategy
-    - Google's use of Wardley Mapping in AI research
-    - Amazon's application of mapping to cloud services evolution
-    - Microsoft's strategic shifts guided by Wardley Mapping
-  - Startups and Scale-ups: Navigating Growth
-    - How Monzo Bank used Wardley Mapping to disrupt financial services
-    - Spotify's application of mapping to product development
-    - Palantir's use of Wardley Mapping in government contracting
-  - Research Institutions: Advancing Science
-    - CERN's application of Wardley Mapping to particle physics research
-    - NASA's use of mapping in space exploration planning
-    - The Francis Crick Institute's adoption of Wardley Mapping in genomics research
-- Integrating Wardley Mapping with Data Science Methodologies
-  - Wardley Mapping and Agile Data Science
-    - Aligning Wardley Maps with Agile sprints and iterations
-    - Using mapping to inform backlog prioritisation
-    - Enhancing Agile ceremonies with Wardley Mapping insights
-    - Case study: Spotify's integration of Wardley Mapping and Agile
-  - Enhancing CRISP-DM with Wardley Mapping
-    - Mapping the CRISP-DM process
-    - Using Wardley Maps to enhance business understanding
-    - Improving data preparation and modeling strategies
-    - Integrating evaluation and deployment with evolutionary thinking
-  - The Future of Data Science Strategy
-    - Emerging trends in data science and their impact on strategy
-    - The role of Wardley Mapping in shaping future methodologies
-    - Potential new frameworks combining Wardley Mapping with data science
-    - Preparing for the next evolution in data science strategic planning
+- [Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs](#wardley-mapping-for-data-science-revolutionising-strategy-in-technology-labs)
+- [Foundations of Wardley Mapping for Data Science](#foundations-of-wardley-mapping-for-data-science)
+  - [Understanding Wardley Mapping](#understanding-wardley-mapping)
+    - [The origins and principles of Wardley Mapping](#the-origins-and-principles-of-wardley-mapping)
+    - [Key components of a Wardley Map](#key-components-of-a-wardley-map)
+    - [The evolution axis: From genesis to commodity](#the-evolution-axis-from-genesis-to-commodity)
+    - [The value chain axis: Anchoring user needs](#the-value-chain-axis-anchoring-user-needs)
+  - [The Data Science and Technology Laboratory Landscape](#the-data-science-and-technology-laboratory-landscape)
+    - [Unique challenges in data science environments](#unique-challenges-in-data-science-environments)
+    - [The evolving role of technology labs](#the-evolving-role-of-technology-labs)
+    - [Current strategic planning approaches in data science](#current-strategic-planning-approaches-in-data-science)
+    - [The need for enhanced strategic tools in tech labs](#the-need-for-enhanced-strategic-tools-in-tech-labs)
+  - [Bridging Wardley Mapping and Data Science](#bridging-wardley-mapping-and-data-science)
+    - [Aligning Wardley Mapping concepts with data science workflows](#aligning-wardley-mapping-concepts-with-data-science-workflows)
+    - [Identifying key components in data science value chains](#identifying-key-components-in-data-science-value-chains)
+    - [Mapping the evolution of data science technologies and methodologies](#mapping-the-evolution-of-data-science-technologies-and-methodologies)
+    - [Potential impacts of Wardley Mapping on data science strategy](#potential-impacts-of-wardley-mapping-on-data-science-strategy)
+- [Implementing Wardley Mapping in Data Science Projects](#implementing-wardley-mapping-in-data-science-projects)
+  - [Mapping the Data Science Project Lifecycle](#mapping-the-data-science-project-lifecycle)
+    - [Creating Wardley Maps for different types of data science projects](#creating-wardley-maps-for-different-types-of-data-science-projects)
+    - [Identifying critical dependencies and bottlenecks](#identifying-critical-dependencies-and-bottlenecks)
+    - [Visualising the evolution of project components](#visualising-the-evolution-of-project-components)
+    - [Using maps to optimise project workflows](#using-maps-to-optimise-project-workflows)
+  - [Resource Allocation and Team Structure](#resource-allocation-and-team-structure)
+    - [Using Wardley Maps to inform staffing decisions](#using-wardley-maps-to-inform-staffing-decisions)
+    - [Aligning team structures with project evolution](#aligning-team-structures-with-project-evolution)
+    - [Identifying skill gaps and training needs](#identifying-skill-gaps-and-training-needs)
+    - [Optimising resource allocation across multiple projects](#optimising-resource-allocation-across-multiple-projects)
+  - [Risk Management and Contingency Planning](#risk-management-and-contingency-planning)
+    - [Identifying risks through Wardley Mapping](#identifying-risks-through-wardley-mapping)
+    - [Developing mitigation strategies based on component evolution](#developing-mitigation-strategies-based-on-component-evolution)
+    - [Planning for technology shifts and obsolescence](#planning-for-technology-shifts-and-obsolescence)
+    - [Creating adaptive project plans using Wardley Maps](#creating-adaptive-project-plans-using-wardley-maps)
+- [Driving Innovation and Strategic Advantage](#driving-innovation-and-strategic-advantage)
+  - [Identifying Innovation Opportunities](#identifying-innovation-opportunities)
+    - [Using Wardley Maps to spot gaps in the market](#using-wardley-maps-to-spot-gaps-in-the-market)
+    - [Predicting future technology trends and needs](#predicting-future-technology-trends-and-needs)
+    - [Aligning innovation efforts with strategic goals](#aligning-innovation-efforts-with-strategic-goals)
+    - [Balancing incremental and disruptive innovation](#balancing-incremental-and-disruptive-innovation)
+  - [Competitive Analysis and Positioning](#competitive-analysis-and-positioning)
+    - [Mapping competitor landscapes](#mapping-competitor-landscapes)
+    - [Identifying strategic advantages through comparative mapping](#identifying-strategic-advantages-through-comparative-mapping)
+    - [Developing strategies to outmanoeuvre competitors](#developing-strategies-to-outmanoeuvre-competitors)
+    - [Anticipating and responding to market shifts](#anticipating-and-responding-to-market-shifts)
+  - [Building Strategic Partnerships](#building-strategic-partnerships)
+    - [Using Wardley Maps to identify potential partners](#using-wardley-maps-to-identify-potential-partners)
+    - [Aligning partnerships with evolutionary stages](#aligning-partnerships-with-evolutionary-stages)
+    - [Developing mutually beneficial collaboration strategies](#developing-mutually-beneficial-collaboration-strategies)
+    - [Managing partnership lifecycles through mapping](#managing-partnership-lifecycles-through-mapping)
+- [Case Studies: Wardley Mapping Success Stories](#case-studies-wardley-mapping-success-stories)
+  - [Tech Giants: Reinventing Strategy](#tech-giants-reinventing-strategy)
+    - [Google's use of Wardley Mapping in AI research](#googles-use-of-wardley-mapping-in-ai-research)
+    - [Amazon's application of mapping to cloud services evolution](#amazons-application-of-mapping-to-cloud-services-evolution)
+    - [Microsoft's strategic shifts guided by Wardley Mapping](#microsofts-strategic-shifts-guided-by-wardley-mapping)
+  - [Startups and Scale-ups: Navigating Growth](#startups-and-scale-ups-navigating-growth)
+    - [How Monzo Bank used Wardley Mapping to disrupt financial services](#how-monzo-bank-used-wardley-mapping-to-disrupt-financial-services)
+    - [Spotify's application of mapping to product development](#spotifys-application-of-mapping-to-product-development)
+    - [Palantir's use of Wardley Mapping in government contracting](#palantirs-use-of-wardley-mapping-in-government-contracting)
+  - [Research Institutions: Advancing Science](#research-institutions-advancing-science)
+    - [CERN's application of Wardley Mapping to particle physics research](#cerns-application-of-wardley-mapping-to-particle-physics-research)
+    - [NASA's use of mapping in space exploration planning](#nasas-use-of-mapping-in-space-exploration-planning)
+    - [The Francis Crick Institute's adoption of Wardley Mapping in genomics research](#the-francis-crick-institutes-adoption-of-wardley-mapping-in-genomics-research)
+- [Integrating Wardley Mapping with Data Science Methodologies](#integrating-wardley-mapping-with-data-science-methodologies)
+  - [Wardley Mapping and Agile Data Science](#wardley-mapping-and-agile-data-science)
+    - [Aligning Wardley Maps with Agile sprints and iterations](#aligning-wardley-maps-with-agile-sprints-and-iterations)
+    - [Using mapping to inform backlog prioritisation](#using-mapping-to-inform-backlog-prioritisation)
+    - [Enhancing Agile ceremonies with Wardley Mapping insights](#enhancing-agile-ceremonies-with-wardley-mapping-insights)
+    - [Case study: Spotify's integration of Wardley Mapping and Agile](#case-study-spotifys-integration-of-wardley-mapping-and-agile)
+  - [Enhancing CRISP-DM with Wardley Mapping](#enhancing-crisp-dm-with-wardley-mapping)
+    - [Mapping the CRISP-DM process](#mapping-the-crisp-dm-process)
+    - [Using Wardley Maps to enhance business understanding](#using-wardley-maps-to-enhance-business-understanding)
+    - [Improving data preparation and modeling strategies](#improving-data-preparation-and-modeling-strategies)
+    - [Integrating evaluation and deployment with evolutionary thinking](#integrating-evaluation-and-deployment-with-evolutionary-thinking)
+  - [The Future of Data Science Strategy](#the-future-of-data-science-strategy)
+    - [Emerging trends in data science and their impact on strategy](#emerging-trends-in-data-science-and-their-impact-on-strategy)
+    - [The role of Wardley Mapping in shaping future methodologies](#the-role-of-wardley-mapping-in-shaping-future-methodologies)
+    - [Potential new frameworks combining Wardley Mapping with data science](#potential-new-frameworks-combining-wardley-mapping-with-data-science)
+    - [Preparing for the next evolution in data science strategic planning](#preparing-for-the-next-evolution-in-data-science-strategic-planning)
 
 
 # Foundations of Wardley Mapping for Data Science

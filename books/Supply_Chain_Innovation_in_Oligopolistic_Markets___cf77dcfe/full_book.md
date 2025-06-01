@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Supply Chain Innovation in Oligopolistic Markets: Building Competitive Advantage Through Network Dynamics
-  - Introduction: The New Paradigm of Supply Chain Innovation
-    - Understanding Modern Oligopolistic Markets
-      - Defining Contemporary Market Structures
-      - The Evolution of Supply Chain Competition
-      - Innovation as a Competitive Differentiator
-    - Complex Systems and Market Dynamics
-      - Principles of Complex Adaptive Systems
-      - Network Effects in Supply Chains
-      - Emergence and Self-Organization in Market Competition
-  - Supply Chain Network Effects and Innovation Velocity
-    - Mathematical Foundations of Network Effects
-      - Network Topology and Innovation Diffusion
-      - Quantifying Supply Chain Depth
-      - Measuring Innovation Speed and Impact
-    - Empirical Evidence and Analysis
-      - Cross-Industry Studies
-      - Innovation Acceleration Patterns
-      - Network Density and Innovation Outcomes
-  - Strategic Innovation Management in Deep Supply Networks
-    - Framework Development and Implementation
-      - Strategic Network Design
-      - Innovation Pipeline Management
-      - Collaborative Innovation Models
-    - Operational Excellence
-      - Resource Allocation Strategies
-      - Risk Management in Innovation Networks
-      - Performance Measurement Systems
-  - Case Studies in Supply Chain Innovation
-    - Technology Sector Analysis
-      - Semiconductor Industry Networks
-      - Cloud Computing Ecosystems
-      - Mobile Device Supply Chains
-    - Manufacturing and Energy Innovations
-      - Automotive Industry Transformation
-      - Renewable Energy Supply Networks
-      - Advanced Manufacturing Cases
-  - Building Future-Proof Supply Networks
-    - Resilience Engineering
-      - Network Redundancy Design
-      - Adaptive Capacity Building
-      - Crisis Response Mechanisms
-    - Innovation-Driving Architectures
-      - Digital Transformation Strategies
-      - Sustainable Network Design
-      - Future-Ready Capabilities
+- [Supply Chain Innovation in Oligopolistic Markets: Building Competitive Advantage Through Network Dynamics](#supply-chain-innovation-in-oligopolistic-markets-building-competitive-advantage-through-network-dynamics)
+  - [Introduction: The New Paradigm of Supply Chain Innovation](#introduction-the-new-paradigm-of-supply-chain-innovation)
+    - [Understanding Modern Oligopolistic Markets](#understanding-modern-oligopolistic-markets)
+      - [Defining Contemporary Market Structures](#defining-contemporary-market-structures)
+      - [The Evolution of Supply Chain Competition](#the-evolution-of-supply-chain-competition)
+      - [Innovation as a Competitive Differentiator](#innovation-as-a-competitive-differentiator)
+    - [Complex Systems and Market Dynamics](#complex-systems-and-market-dynamics)
+      - [Principles of Complex Adaptive Systems](#principles-of-complex-adaptive-systems)
+      - [Network Effects in Supply Chains](#network-effects-in-supply-chains)
+      - [Emergence and Self-Organization in Market Competition](#emergence-and-self-organization-in-market-competition)
+  - [Supply Chain Network Effects and Innovation Velocity](#supply-chain-network-effects-and-innovation-velocity)
+    - [Mathematical Foundations of Network Effects](#mathematical-foundations-of-network-effects)
+      - [Network Topology and Innovation Diffusion](#network-topology-and-innovation-diffusion)
+      - [Quantifying Supply Chain Depth](#quantifying-supply-chain-depth)
+      - [Measuring Innovation Speed and Impact](#measuring-innovation-speed-and-impact)
+    - [Empirical Evidence and Analysis](#empirical-evidence-and-analysis)
+      - [Cross-Industry Studies](#cross-industry-studies)
+      - [Innovation Acceleration Patterns](#innovation-acceleration-patterns)
+      - [Network Density and Innovation Outcomes](#network-density-and-innovation-outcomes)
+  - [Strategic Innovation Management in Deep Supply Networks](#strategic-innovation-management-in-deep-supply-networks)
+    - [Framework Development and Implementation](#framework-development-and-implementation)
+      - [Strategic Network Design](#strategic-network-design)
+      - [Innovation Pipeline Management](#innovation-pipeline-management)
+      - [Collaborative Innovation Models](#collaborative-innovation-models)
+    - [Operational Excellence](#operational-excellence)
+      - [Resource Allocation Strategies](#resource-allocation-strategies)
+      - [Risk Management in Innovation Networks](#risk-management-in-innovation-networks)
+      - [Performance Measurement Systems](#performance-measurement-systems)
+  - [Case Studies in Supply Chain Innovation](#case-studies-in-supply-chain-innovation)
+    - [Technology Sector Analysis](#technology-sector-analysis)
+      - [Semiconductor Industry Networks](#semiconductor-industry-networks)
+      - [Cloud Computing Ecosystems](#cloud-computing-ecosystems)
+      - [Mobile Device Supply Chains](#mobile-device-supply-chains)
+    - [Manufacturing and Energy Innovations](#manufacturing-and-energy-innovations)
+      - [Automotive Industry Transformation](#automotive-industry-transformation)
+      - [Renewable Energy Supply Networks](#renewable-energy-supply-networks)
+      - [Advanced Manufacturing Cases](#advanced-manufacturing-cases)
+  - [Building Future-Proof Supply Networks](#building-future-proof-supply-networks)
+    - [Resilience Engineering](#resilience-engineering)
+      - [Network Redundancy Design](#network-redundancy-design)
+      - [Adaptive Capacity Building](#adaptive-capacity-building)
+      - [Crisis Response Mechanisms](#crisis-response-mechanisms)
+    - [Innovation-Driving Architectures](#innovation-driving-architectures)
+      - [Digital Transformation Strategies](#digital-transformation-strategies)
+      - [Sustainable Network Design](#sustainable-network-design)
+      - [Future-Ready Capabilities](#future-ready-capabilities)
 
 
 ## Introduction: The New Paradigm of Supply Chain Innovation

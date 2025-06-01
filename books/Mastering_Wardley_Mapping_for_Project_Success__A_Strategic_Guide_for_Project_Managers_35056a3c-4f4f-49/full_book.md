@@ -6,84 +6,84 @@
 
 # Table of Contents
 
-- Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Power of Wardley Mapping for Project Managers
-  - What is Wardley Mapping?
-    - Origins and key concepts
-    - How Wardley Mapping differs from traditional project management tools
-  - Why Project Managers Need Wardley Mapping
-    - Enhancing strategic decision-making
-    - Improving project planning and execution
-    - Anticipating and managing change
-- Chapter 1: Fundamentals of Wardley Mapping for Project Managers
-  - Components of a Wardley Map
-    - Understanding the value chain
-    - Mapping evolution and movement
-    - Anchoring the map with user needs
-  - Creating Your First Wardley Map
-    - Step-by-step guide to mapping a project
-    - Common pitfalls and how to avoid them
-    - Iterating and refining your map
-  - Integrating Wardley Mapping with Project Management Methodologies
-    - Wardley Mapping and Agile
-    - Wardley Mapping and Traditional Waterfall
-    - Hybrid approaches for maximum benefit
-- Chapter 2: Strategic Project Planning with Wardley Maps
-  - Identifying Project Opportunities and Risks
-    - Using maps to spot potential pitfalls
-    - Leveraging maps for resource allocation
-    - Anticipating market changes and their impact on projects
-  - Stakeholder Management and Communication
-    - Visualising stakeholder needs and expectations
-    - Using maps to align project goals with organisational strategy
-    - Effective communication of project strategy using Wardley Maps
-  - Building Resilient Project Strategies
-    - Scenario planning with Wardley Maps
-    - Adapting to change and uncertainty
-    - Creating flexible project roadmaps
-- Chapter 3: Executing Projects with Wardley Mapping
-  - Tactical Decision-Making During Project Execution
-    - Using maps for daily and weekly planning
-    - Prioritising tasks and activities based on map insights
-    - Managing dependencies and constraints
-  - Monitoring and Controlling Projects with Wardley Maps
-    - Tracking project progress and evolution
-    - Identifying and addressing bottlenecks
-    - Adapting to unexpected changes and challenges
-  - Continuous Improvement and Learning
-    - Using maps for post-project reviews
-    - Building organisational knowledge through mapping
-    - Evolving project management practices based on map insights
-- Chapter 4: Advanced Wardley Mapping Techniques for Project Managers
-  - Multi-Project and Programme Management
-    - Creating and managing portfolio maps
-    - Balancing resources across multiple projects
-    - Identifying synergies and conflicts between projects
-  - Integrating Wardley Mapping with Other Strategic Tools
-    - Combining Wardley Maps with SWOT analysis
-    - Using Wardley Maps alongside Balanced Scorecards
-    - Enhancing Risk Management with Wardley Mapping
-  - Wardley Mapping for Specific Project Types
-    - IT and software development projects
-    - Product development and innovation projects
-    - Organisational change and transformation projects
-- Conclusion: Becoming a Wardley Mapping Master
-  - Developing Your Wardley Mapping Skills
-    - Continuous learning and practice
-    - Building a community of practice within your organisation
-    - Resources for further study and improvement
-  - The Future of Project Management with Wardley Mapping
-    - Emerging trends and developments
-    - Potential impacts on the project management profession
-    - Preparing for the evolving landscape of strategic project management
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers](#mastering-wardley-mapping-for-project-success-a-strategic-guide-for-project-managers)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Power of Wardley Mapping for Project Managers](#introduction-the-power-of-wardley-mapping-for-project-managers)
+  - [What is Wardley Mapping?](#what-is-wardley-mapping)
+    - [Origins and key concepts](#origins-and-key-concepts)
+    - [How Wardley Mapping differs from traditional project management tools](#how-wardley-mapping-differs-from-traditional-project-management-tools)
+  - [Why Project Managers Need Wardley Mapping](#why-project-managers-need-wardley-mapping)
+    - [Enhancing strategic decision-making](#enhancing-strategic-decision-making)
+    - [Improving project planning and execution](#improving-project-planning-and-execution)
+    - [Anticipating and managing change](#anticipating-and-managing-change)
+- [Chapter 1: Fundamentals of Wardley Mapping for Project Managers](#chapter-1-fundamentals-of-wardley-mapping-for-project-managers)
+  - [Components of a Wardley Map](#components-of-a-wardley-map)
+    - [Understanding the value chain](#understanding-the-value-chain)
+    - [Mapping evolution and movement](#mapping-evolution-and-movement)
+    - [Anchoring the map with user needs](#anchoring-the-map-with-user-needs)
+  - [Creating Your First Wardley Map](#creating-your-first-wardley-map)
+    - [Step-by-step guide to mapping a project](#step-by-step-guide-to-mapping-a-project)
+    - [Common pitfalls and how to avoid them](#common-pitfalls-and-how-to-avoid-them)
+    - [Iterating and refining your map](#iterating-and-refining-your-map)
+  - [Integrating Wardley Mapping with Project Management Methodologies](#integrating-wardley-mapping-with-project-management-methodologies)
+    - [Wardley Mapping and Agile](#wardley-mapping-and-agile)
+    - [Wardley Mapping and Traditional Waterfall](#wardley-mapping-and-traditional-waterfall)
+    - [Hybrid approaches for maximum benefit](#hybrid-approaches-for-maximum-benefit)
+- [Chapter 2: Strategic Project Planning with Wardley Maps](#chapter-2-strategic-project-planning-with-wardley-maps)
+  - [Identifying Project Opportunities and Risks](#identifying-project-opportunities-and-risks)
+    - [Using maps to spot potential pitfalls](#using-maps-to-spot-potential-pitfalls)
+    - [Leveraging maps for resource allocation](#leveraging-maps-for-resource-allocation)
+    - [Anticipating market changes and their impact on projects](#anticipating-market-changes-and-their-impact-on-projects)
+  - [Stakeholder Management and Communication](#stakeholder-management-and-communication)
+    - [Visualising stakeholder needs and expectations](#visualising-stakeholder-needs-and-expectations)
+    - [Using maps to align project goals with organisational strategy](#using-maps-to-align-project-goals-with-organisational-strategy)
+    - [Effective communication of project strategy using Wardley Maps](#effective-communication-of-project-strategy-using-wardley-maps)
+  - [Building Resilient Project Strategies](#building-resilient-project-strategies)
+    - [Scenario planning with Wardley Maps](#scenario-planning-with-wardley-maps)
+    - [Adapting to change and uncertainty](#adapting-to-change-and-uncertainty)
+    - [Creating flexible project roadmaps](#creating-flexible-project-roadmaps)
+- [Chapter 3: Executing Projects with Wardley Mapping](#chapter-3-executing-projects-with-wardley-mapping)
+  - [Tactical Decision-Making During Project Execution](#tactical-decision-making-during-project-execution)
+    - [Using maps for daily and weekly planning](#using-maps-for-daily-and-weekly-planning)
+    - [Prioritising tasks and activities based on map insights](#prioritising-tasks-and-activities-based-on-map-insights)
+    - [Managing dependencies and constraints](#managing-dependencies-and-constraints)
+  - [Monitoring and Controlling Projects with Wardley Maps](#monitoring-and-controlling-projects-with-wardley-maps)
+    - [Tracking project progress and evolution](#tracking-project-progress-and-evolution)
+    - [Identifying and addressing bottlenecks](#identifying-and-addressing-bottlenecks)
+    - [Adapting to unexpected changes and challenges](#adapting-to-unexpected-changes-and-challenges)
+  - [Continuous Improvement and Learning](#continuous-improvement-and-learning)
+    - [Using maps for post-project reviews](#using-maps-for-post-project-reviews)
+    - [Building organisational knowledge through mapping](#building-organisational-knowledge-through-mapping)
+    - [Evolving project management practices based on map insights](#evolving-project-management-practices-based-on-map-insights)
+- [Chapter 4: Advanced Wardley Mapping Techniques for Project Managers](#chapter-4-advanced-wardley-mapping-techniques-for-project-managers)
+  - [Multi-Project and Programme Management](#multi-project-and-programme-management)
+    - [Creating and managing portfolio maps](#creating-and-managing-portfolio-maps)
+    - [Balancing resources across multiple projects](#balancing-resources-across-multiple-projects)
+    - [Identifying synergies and conflicts between projects](#identifying-synergies-and-conflicts-between-projects)
+  - [Integrating Wardley Mapping with Other Strategic Tools](#integrating-wardley-mapping-with-other-strategic-tools)
+    - [Combining Wardley Maps with SWOT analysis](#combining-wardley-maps-with-swot-analysis)
+    - [Using Wardley Maps alongside Balanced Scorecards](#using-wardley-maps-alongside-balanced-scorecards)
+    - [Enhancing Risk Management with Wardley Mapping](#enhancing-risk-management-with-wardley-mapping)
+  - [Wardley Mapping for Specific Project Types](#wardley-mapping-for-specific-project-types)
+    - [IT and software development projects](#it-and-software-development-projects)
+    - [Product development and innovation projects](#product-development-and-innovation-projects)
+    - [Organisational change and transformation projects](#organisational-change-and-transformation-projects)
+- [Conclusion: Becoming a Wardley Mapping Master](#conclusion-becoming-a-wardley-mapping-master)
+  - [Developing Your Wardley Mapping Skills](#developing-your-wardley-mapping-skills)
+    - [Continuous learning and practice](#continuous-learning-and-practice)
+    - [Building a community of practice within your organisation](#building-a-community-of-practice-within-your-organisation)
+    - [Resources for further study and improvement](#resources-for-further-study-and-improvement)
+  - [The Future of Project Management with Wardley Mapping](#the-future-of-project-management-with-wardley-mapping)
+    - [Emerging trends and developments](#emerging-trends-and-developments)
+    - [Potential impacts on the project management profession](#potential-impacts-on-the-project-management-profession)
+    - [Preparing for the evolving landscape of strategic project management](#preparing-for-the-evolving-landscape-of-strategic-project-management)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The Power of Wardley Mapping for Project Managers

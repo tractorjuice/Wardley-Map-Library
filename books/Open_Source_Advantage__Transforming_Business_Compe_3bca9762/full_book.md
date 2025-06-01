@@ -2,61 +2,61 @@
 
 # Table of Contents
 
-- Open Source Advantage: Transforming Business Competition Through Strategic Open Source
-  - Introduction: The Open Source Competitive Landscape
-    - The Evolution of Open Source as a Business Strategy
-      - From Cost Savings to Strategic Asset
-      - Modern Open Source Business Models
-      - Current Market Dynamics and Trends
-    - Understanding Competitive Advantages
-      - Traditional vs. Open Source-Based Advantages
-      - Network Effects in Open Source
-      - The Innovation Multiplier Effect
-  - Strategic Decision-Making Framework
-    - Evaluating Open Source Opportunities
-      - Use vs. Create vs. Contribute Decision Matrix
-      - Market Position Analysis
-      - Resource Capability Assessment
-    - Building Strategic Alignment
-      - Mapping Open Source to Business Objectives
-      - Stakeholder Analysis and Management
-      - Creating the Strategic Roadmap
-  - Value Creation and Community Leadership
-    - Community-Driven Value Models
-      - Ecosystem Development Strategies
-      - Building Developer Mindshare
-      - Managing Community-Corporate Balance
-    - Strategic Contributions
-      - Identifying High-Impact Contribution Areas
-      - Resource Allocation Strategies
-      - Measuring Contribution ROI
-  - Risk Management and Legal Strategy
-    - Legal Framework Navigation
-      - License Strategy Development
-      - Patent Portfolio Management
-      - Compliance Systems and Processes
-    - Competitive Risk Management
-      - IP Protection Strategies
-      - Fork Management
-      - Competitive Intelligence Through Open Source
-  - Talent and Organisation
-    - Building Open Source Talent Strategy
-      - Attraction and Recruitment
-      - Skills Development Framework
-      - Career Path Development
-    - Organisational Transformation
-      - Cultural Change Management
-      - Internal Process Adaptation
-      - Knowledge Management Systems
-  - Measuring Success and ROI
-    - Metrics Framework
-      - Key Performance Indicators
-      - Community Health Metrics
-      - Business Impact Measurements
-    - ROI Analysis Models
-      - Cost-Benefit Analysis Framework
-      - Long-term Value Assessment
-      - Strategic Impact Evaluation
+- [Open Source Advantage: Transforming Business Competition Through Strategic Open Source](#open-source-advantage-transforming-business-competition-through-strategic-open-source)
+  - [Introduction: The Open Source Competitive Landscape](#introduction-the-open-source-competitive-landscape)
+    - [The Evolution of Open Source as a Business Strategy](#the-evolution-of-open-source-as-a-business-strategy)
+      - [From Cost Savings to Strategic Asset](#from-cost-savings-to-strategic-asset)
+      - [Modern Open Source Business Models](#modern-open-source-business-models)
+      - [Current Market Dynamics and Trends](#current-market-dynamics-and-trends)
+    - [Understanding Competitive Advantages](#understanding-competitive-advantages)
+      - [Traditional vs. Open Source-Based Advantages](#traditional-vs-open-source-based-advantages)
+      - [Network Effects in Open Source](#network-effects-in-open-source)
+      - [The Innovation Multiplier Effect](#the-innovation-multiplier-effect)
+  - [Strategic Decision-Making Framework](#strategic-decision-making-framework)
+    - [Evaluating Open Source Opportunities](#evaluating-open-source-opportunities)
+      - [Use vs. Create vs. Contribute Decision Matrix](#use-vs-create-vs-contribute-decision-matrix)
+      - [Market Position Analysis](#market-position-analysis)
+      - [Resource Capability Assessment](#resource-capability-assessment)
+    - [Building Strategic Alignment](#building-strategic-alignment)
+      - [Mapping Open Source to Business Objectives](#mapping-open-source-to-business-objectives)
+      - [Stakeholder Analysis and Management](#stakeholder-analysis-and-management)
+      - [Creating the Strategic Roadmap](#creating-the-strategic-roadmap)
+  - [Value Creation and Community Leadership](#value-creation-and-community-leadership)
+    - [Community-Driven Value Models](#community-driven-value-models)
+      - [Ecosystem Development Strategies](#ecosystem-development-strategies)
+      - [Building Developer Mindshare](#building-developer-mindshare)
+      - [Managing Community-Corporate Balance](#managing-community-corporate-balance)
+    - [Strategic Contributions](#strategic-contributions)
+      - [Identifying High-Impact Contribution Areas](#identifying-high-impact-contribution-areas)
+      - [Resource Allocation Strategies](#resource-allocation-strategies)
+      - [Measuring Contribution ROI](#measuring-contribution-roi)
+  - [Risk Management and Legal Strategy](#risk-management-and-legal-strategy)
+    - [Legal Framework Navigation](#legal-framework-navigation)
+      - [License Strategy Development](#license-strategy-development)
+      - [Patent Portfolio Management](#patent-portfolio-management)
+      - [Compliance Systems and Processes](#compliance-systems-and-processes)
+    - [Competitive Risk Management](#competitive-risk-management)
+      - [IP Protection Strategies](#ip-protection-strategies)
+      - [Fork Management](#fork-management)
+      - [Competitive Intelligence Through Open Source](#competitive-intelligence-through-open-source)
+  - [Talent and Organisation](#talent-and-organisation)
+    - [Building Open Source Talent Strategy](#building-open-source-talent-strategy)
+      - [Attraction and Recruitment](#attraction-and-recruitment)
+      - [Skills Development Framework](#skills-development-framework)
+      - [Career Path Development](#career-path-development)
+    - [Organisational Transformation](#organisational-transformation)
+      - [Cultural Change Management](#cultural-change-management)
+      - [Internal Process Adaptation](#internal-process-adaptation)
+      - [Knowledge Management Systems](#knowledge-management-systems)
+  - [Measuring Success and ROI](#measuring-success-and-roi)
+    - [Metrics Framework](#metrics-framework)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Community Health Metrics](#community-health-metrics)
+      - [Business Impact Measurements](#business-impact-measurements)
+    - [ROI Analysis Models](#roi-analysis-models)
+      - [Cost-Benefit Analysis Framework](#cost-benefit-analysis-framework)
+      - [Long-term Value Assessment](#long-term-value-assessment)
+      - [Strategic Impact Evaluation](#strategic-impact-evaluation)
 
 
 ## Introduction: The Open Source Competitive Landscape

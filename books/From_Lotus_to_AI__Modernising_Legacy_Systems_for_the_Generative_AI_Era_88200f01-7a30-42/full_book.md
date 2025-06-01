@@ -2,111 +2,111 @@
 
 # Table of Contents
 
-- From Lotus to AI: Modernising Legacy Systems for the Generative AI Era
-- Chapter 1: Assessing Your Lotus Domino Legacy
-  - Understanding Your Current Lotus Domino Environment
-    - Cataloguing Existing Applications and Workflows
-    - Identifying Critical Business Processes
-    - Mapping Data Structures and Relationships
-    - Evaluating Integration Points with Other Systems
-  - Applying Wardley Mapping to Legacy Infrastructure
-    - Introduction to Wardley Mapping for IT Modernisation
-    - Mapping Lotus Domino Components and Dependencies
-    - Identifying Evolution Opportunities in Your IT Landscape
-    - Prioritising Modernisation Initiatives Based on Wardley Maps
-  - Identifying AI-Ready Modernisation Opportunities
-    - Assessing Process Automation Potential
-    - Evaluating Data for AI/ML Readiness
-    - Spotting GenAI Use Cases in Current Workflows
-    - Prioritising Quick Wins and Long-Term AI Initiatives
-- Chapter 2: Selecting AI-Powered Alternatives to Lotus Domino
-  - Overview of Modern, AI-Enabled Collaboration Platforms
-    - Cloud-Based vs On-Premises Solutions
-    - Key Features of AI-Enhanced Collaboration Tools
-    - Integration Capabilities with AI and ML Services
-    - Security and Compliance Considerations in the AI Era
-  - Comparative Analysis of Leading Platforms
-    - Microsoft 365 and Power Platform
-    - Google Workspace and Google Cloud AI
-    - Atlassian Suite with AI Integrations
-    - Open-Source Alternatives with AI Capabilities
-  - Evaluating AI Readiness and Extensibility
-    - Assessing Built-in AI Capabilities
-    - API and Integration Options for Custom AI Solutions
-    - Scalability and Performance for AI Workloads
-    - Future-Proofing: Roadmaps and Vendor AI Strategies
-  - Total Cost of Ownership and ROI Projections
-    - Licensing and Subscription Models
-    - Infrastructure and Operational Costs
-    - Training and Change Management Expenses
-    - Projected ROI from AI-Enabled Process Improvements
-- Chapter 3: Planning and Executing the Migration
-  - Developing a Comprehensive Migration Strategy
-    - Defining Scope and Objectives
-    - Creating a Phased Migration Plan
-    - Establishing a Migration Governance Framework
-    - Risk Assessment and Mitigation Strategies
-  - Data Migration and Transformation
-    - Analysing and Cleansing Lotus Domino Data
-    - Mapping Data to New Platform Structures
-    - Developing ETL Processes and Scripts
-    - Ensuring Data Integrity and Compliance During Migration
-  - Application Modernisation and Redesign
-    - Assessing Applications for Rehost, Refactor, or Rebuild
-    - Redesigning Workflows for AI Enhancement
-    - Developing New AI-Powered Features and Capabilities
-    - Testing and Quality Assurance in AI-Enabled Environments
-  - Integration and Interoperability
-    - Mapping Integration Points and Dependencies
-    - Developing APIs and Connectors for Legacy Systems
-    - Ensuring Seamless Data Flow Between Old and New Platforms
-    - Implementing AI-Powered Integration Orchestration
-- Chapter 4: Change Management and User Adoption
-  - Developing a Change Management Strategy
-    - Stakeholder Analysis and Engagement
-    - Creating a Compelling Vision for AI-Enabled Collaboration
-    - Designing Communication Plans for Various User Groups
-    - Establishing Feedback Mechanisms and Continuous Improvement
-  - Training and Skill Development
-    - Assessing Current Skills and Identifying Gaps
-    - Developing Role-Based Training Programs
-    - Creating Self-Service Learning Resources and AI Assistants
-    - Fostering a Culture of Continuous Learning and AI Adoption
-  - Managing Resistance and Overcoming Challenges
-    - Identifying and Addressing Common Resistance Factors
-    - Leveraging Early Adopters and Change Champions
-    - Implementing Gamification and Incentives for Adoption
-    - Measuring and Celebrating Success Milestones
-  - Ensuring Long-Term Success and Evolution
-    - Establishing Governance for Ongoing AI Integration
-    - Creating Centres of Excellence for AI-Enabled Collaboration
-    - Developing Metrics for Measuring AI Impact and ROI
-    - Planning for Continuous Platform Evolution and AI Advancement
-- Chapter 5: Case Studies and ROI Analysis
-  - Financial Services Sector Migration
-    - Background and Challenges
-    - Migration Approach and AI Integration Strategy
-    - Key Outcomes and Lessons Learned
-    - Quantifiable Benefits and ROI Analysis
-  - Manufacturing Industry Transformation
-    - Legacy System Landscape and Modernisation Goals
-    - Phased Migration and AI-Enabled Process Redesign
-    - Impact on Operational Efficiency and Innovation
-    - Cost Savings and Productivity Improvements
-  - Government Agency Modernisation
-    - Regulatory Compliance and Security Considerations
-    - Citizen Service Enhancement through AI Integration
-    - Change Management in a Public Sector Context
-    - Long-Term Benefits and Public Value Creation
-  - Cross-Industry ROI Comparison and Best Practices
-    - Common Success Factors and Pitfalls
-    - Benchmarking Migration Costs and Timeframes
-    - Analysing AI-Driven Productivity and Innovation Gains
-    - Developing a Business Case for Lotus Domino Migration
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [From Lotus to AI: Modernising Legacy Systems for the Generative AI Era](#from-lotus-to-ai-modernising-legacy-systems-for-the-generative-ai-era)
+- [Chapter 1: Assessing Your Lotus Domino Legacy](#chapter-1-assessing-your-lotus-domino-legacy)
+  - [Understanding Your Current Lotus Domino Environment](#understanding-your-current-lotus-domino-environment)
+    - [Cataloguing Existing Applications and Workflows](#cataloguing-existing-applications-and-workflows)
+    - [Identifying Critical Business Processes](#identifying-critical-business-processes)
+    - [Mapping Data Structures and Relationships](#mapping-data-structures-and-relationships)
+    - [Evaluating Integration Points with Other Systems](#evaluating-integration-points-with-other-systems)
+  - [Applying Wardley Mapping to Legacy Infrastructure](#applying-wardley-mapping-to-legacy-infrastructure)
+    - [Introduction to Wardley Mapping for IT Modernisation](#introduction-to-wardley-mapping-for-it-modernisation)
+    - [Mapping Lotus Domino Components and Dependencies](#mapping-lotus-domino-components-and-dependencies)
+    - [Identifying Evolution Opportunities in Your IT Landscape](#identifying-evolution-opportunities-in-your-it-landscape)
+    - [Prioritising Modernisation Initiatives Based on Wardley Maps](#prioritising-modernisation-initiatives-based-on-wardley-maps)
+  - [Identifying AI-Ready Modernisation Opportunities](#identifying-ai-ready-modernisation-opportunities)
+    - [Assessing Process Automation Potential](#assessing-process-automation-potential)
+    - [Evaluating Data for AI/ML Readiness](#evaluating-data-for-aiml-readiness)
+    - [Spotting GenAI Use Cases in Current Workflows](#spotting-genai-use-cases-in-current-workflows)
+    - [Prioritising Quick Wins and Long-Term AI Initiatives](#prioritising-quick-wins-and-long-term-ai-initiatives)
+- [Chapter 2: Selecting AI-Powered Alternatives to Lotus Domino](#chapter-2-selecting-ai-powered-alternatives-to-lotus-domino)
+  - [Overview of Modern, AI-Enabled Collaboration Platforms](#overview-of-modern-ai-enabled-collaboration-platforms)
+    - [Cloud-Based vs On-Premises Solutions](#cloud-based-vs-on-premises-solutions)
+    - [Key Features of AI-Enhanced Collaboration Tools](#key-features-of-ai-enhanced-collaboration-tools)
+    - [Integration Capabilities with AI and ML Services](#integration-capabilities-with-ai-and-ml-services)
+    - [Security and Compliance Considerations in the AI Era](#security-and-compliance-considerations-in-the-ai-era)
+  - [Comparative Analysis of Leading Platforms](#comparative-analysis-of-leading-platforms)
+    - [Microsoft 365 and Power Platform](#microsoft-365-and-power-platform)
+    - [Google Workspace and Google Cloud AI](#google-workspace-and-google-cloud-ai)
+    - [Atlassian Suite with AI Integrations](#atlassian-suite-with-ai-integrations)
+    - [Open-Source Alternatives with AI Capabilities](#open-source-alternatives-with-ai-capabilities)
+  - [Evaluating AI Readiness and Extensibility](#evaluating-ai-readiness-and-extensibility)
+    - [Assessing Built-in AI Capabilities](#assessing-built-in-ai-capabilities)
+    - [API and Integration Options for Custom AI Solutions](#api-and-integration-options-for-custom-ai-solutions)
+    - [Scalability and Performance for AI Workloads](#scalability-and-performance-for-ai-workloads)
+    - [Future-Proofing: Roadmaps and Vendor AI Strategies](#future-proofing-roadmaps-and-vendor-ai-strategies)
+  - [Total Cost of Ownership and ROI Projections](#total-cost-of-ownership-and-roi-projections)
+    - [Licensing and Subscription Models](#licensing-and-subscription-models)
+    - [Infrastructure and Operational Costs](#infrastructure-and-operational-costs)
+    - [Training and Change Management Expenses](#training-and-change-management-expenses)
+    - [Projected ROI from AI-Enabled Process Improvements](#projected-roi-from-ai-enabled-process-improvements)
+- [Chapter 3: Planning and Executing the Migration](#chapter-3-planning-and-executing-the-migration)
+  - [Developing a Comprehensive Migration Strategy](#developing-a-comprehensive-migration-strategy)
+    - [Defining Scope and Objectives](#defining-scope-and-objectives)
+    - [Creating a Phased Migration Plan](#creating-a-phased-migration-plan)
+    - [Establishing a Migration Governance Framework](#establishing-a-migration-governance-framework)
+    - [Risk Assessment and Mitigation Strategies](#risk-assessment-and-mitigation-strategies)
+  - [Data Migration and Transformation](#data-migration-and-transformation)
+    - [Analysing and Cleansing Lotus Domino Data](#analysing-and-cleansing-lotus-domino-data)
+    - [Mapping Data to New Platform Structures](#mapping-data-to-new-platform-structures)
+    - [Developing ETL Processes and Scripts](#developing-etl-processes-and-scripts)
+    - [Ensuring Data Integrity and Compliance During Migration](#ensuring-data-integrity-and-compliance-during-migration)
+  - [Application Modernisation and Redesign](#application-modernisation-and-redesign)
+    - [Assessing Applications for Rehost, Refactor, or Rebuild](#assessing-applications-for-rehost-refactor-or-rebuild)
+    - [Redesigning Workflows for AI Enhancement](#redesigning-workflows-for-ai-enhancement)
+    - [Developing New AI-Powered Features and Capabilities](#developing-new-ai-powered-features-and-capabilities)
+    - [Testing and Quality Assurance in AI-Enabled Environments](#testing-and-quality-assurance-in-ai-enabled-environments)
+  - [Integration and Interoperability](#integration-and-interoperability)
+    - [Mapping Integration Points and Dependencies](#mapping-integration-points-and-dependencies)
+    - [Developing APIs and Connectors for Legacy Systems](#developing-apis-and-connectors-for-legacy-systems)
+    - [Ensuring Seamless Data Flow Between Old and New Platforms](#ensuring-seamless-data-flow-between-old-and-new-platforms)
+    - [Implementing AI-Powered Integration Orchestration](#implementing-ai-powered-integration-orchestration)
+- [Chapter 4: Change Management and User Adoption](#chapter-4-change-management-and-user-adoption)
+  - [Developing a Change Management Strategy](#developing-a-change-management-strategy)
+    - [Stakeholder Analysis and Engagement](#stakeholder-analysis-and-engagement)
+    - [Creating a Compelling Vision for AI-Enabled Collaboration](#creating-a-compelling-vision-for-ai-enabled-collaboration)
+    - [Designing Communication Plans for Various User Groups](#designing-communication-plans-for-various-user-groups)
+    - [Establishing Feedback Mechanisms and Continuous Improvement](#establishing-feedback-mechanisms-and-continuous-improvement)
+  - [Training and Skill Development](#training-and-skill-development)
+    - [Assessing Current Skills and Identifying Gaps](#assessing-current-skills-and-identifying-gaps)
+    - [Developing Role-Based Training Programs](#developing-role-based-training-programs)
+    - [Creating Self-Service Learning Resources and AI Assistants](#creating-self-service-learning-resources-and-ai-assistants)
+    - [Fostering a Culture of Continuous Learning and AI Adoption](#fostering-a-culture-of-continuous-learning-and-ai-adoption)
+  - [Managing Resistance and Overcoming Challenges](#managing-resistance-and-overcoming-challenges)
+    - [Identifying and Addressing Common Resistance Factors](#identifying-and-addressing-common-resistance-factors)
+    - [Leveraging Early Adopters and Change Champions](#leveraging-early-adopters-and-change-champions)
+    - [Implementing Gamification and Incentives for Adoption](#implementing-gamification-and-incentives-for-adoption)
+    - [Measuring and Celebrating Success Milestones](#measuring-and-celebrating-success-milestones)
+  - [Ensuring Long-Term Success and Evolution](#ensuring-long-term-success-and-evolution)
+    - [Establishing Governance for Ongoing AI Integration](#establishing-governance-for-ongoing-ai-integration)
+    - [Creating Centres of Excellence for AI-Enabled Collaboration](#creating-centres-of-excellence-for-ai-enabled-collaboration)
+    - [Developing Metrics for Measuring AI Impact and ROI](#developing-metrics-for-measuring-ai-impact-and-roi)
+    - [Planning for Continuous Platform Evolution and AI Advancement](#planning-for-continuous-platform-evolution-and-ai-advancement)
+- [Chapter 5: Case Studies and ROI Analysis](#chapter-5-case-studies-and-roi-analysis)
+  - [Financial Services Sector Migration](#financial-services-sector-migration)
+    - [Background and Challenges](#background-and-challenges)
+    - [Migration Approach and AI Integration Strategy](#migration-approach-and-ai-integration-strategy)
+    - [Key Outcomes and Lessons Learned](#key-outcomes-and-lessons-learned)
+    - [Quantifiable Benefits and ROI Analysis](#quantifiable-benefits-and-roi-analysis)
+  - [Manufacturing Industry Transformation](#manufacturing-industry-transformation)
+    - [Legacy System Landscape and Modernisation Goals](#legacy-system-landscape-and-modernisation-goals)
+    - [Phased Migration and AI-Enabled Process Redesign](#phased-migration-and-ai-enabled-process-redesign)
+    - [Impact on Operational Efficiency and Innovation](#impact-on-operational-efficiency-and-innovation)
+    - [Cost Savings and Productivity Improvements](#cost-savings-and-productivity-improvements)
+  - [Government Agency Modernisation](#government-agency-modernisation)
+    - [Regulatory Compliance and Security Considerations](#regulatory-compliance-and-security-considerations)
+    - [Citizen Service Enhancement through AI Integration](#citizen-service-enhancement-through-ai-integration)
+    - [Change Management in a Public Sector Context](#change-management-in-a-public-sector-context)
+    - [Long-Term Benefits and Public Value Creation](#long-term-benefits-and-public-value-creation)
+  - [Cross-Industry ROI Comparison and Best Practices](#cross-industry-roi-comparison-and-best-practices)
+    - [Common Success Factors and Pitfalls](#common-success-factors-and-pitfalls)
+    - [Benchmarking Migration Costs and Timeframes](#benchmarking-migration-costs-and-timeframes)
+    - [Analysing AI-Driven Productivity and Innovation Gains](#analysing-ai-driven-productivity-and-innovation-gains)
+    - [Developing a Business Case for Lotus Domino Migration](#developing-a-business-case-for-lotus-domino-migration)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Chapter 1: Assessing Your Lotus Domino Legacy

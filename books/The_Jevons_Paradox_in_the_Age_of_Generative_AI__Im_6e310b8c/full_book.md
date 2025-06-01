@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- The Jevons Paradox in the Age of Generative AI: Implications for Productivity, Resource Consumption, and the Future of Work
-  - The Ghost in the Machine: Understanding the Jevons Paradox
-    - The Historical Context of the Jevons Paradox
-      - William Stanley Jevons and the Coal Question
-      - The Paradox's Enduring Relevance
-      - Examples of the Paradox in Action: From Lighting to Transportation
-    - The Mechanics of the Paradox: Rebound Effects and Efficiency Gains
-      - Direct, Indirect, and Economy-Wide Rebound Effects
-      - The Role of Innovation and Technological Advancement
-      - Challenges in Measuring and Quantifying Rebound Effects
-  - Generative AI: A New Frontier for Productivity and Resource Consumption
-    - The Transformative Power of GenAI
-      - Automating Tasks and Augmenting Human Capabilities
-      - Impact on Various Industries: From Manufacturing to Creative Arts
-      - Potential for Economic Growth and Societal Transformation
-    - The Environmental Footprint of GenAI
-      - Energy Consumption of AI Training and Inference
-      - E-waste Generation and the Lifecycle of AI Hardware
-      - Strategies for Mitigating the Environmental Impact
-  - The Future of Work in the Shadow of the Paradox
-    - AI-Driven Job Displacement and Creation
-      - The Potential for Automation Across Different Sectors
-      - Emerging Job Roles and the Evolving Skills Landscape
-      - The Importance of Reskilling and Lifelong Learning
-    - Adapting to the Changing Nature of Work
-      - Policy Recommendations for a Smooth Transition
-      - The Role of Education and Training Institutions
-      - Creating a Sustainable and Inclusive Future of Work
-  - Navigating the Ethical Landscape of Generative AI
-    - Bias, Fairness, and Transparency in AI Systems
-      - Addressing Algorithmic Bias and Discrimination
-      - Promoting Transparency and Explainability in AI
-      - Ensuring Accountability and Responsible AI Development
-    - Misinformation, Manipulation, and the Potential for Misuse
-      - Combating AI-Generated Fake News and Propaganda
-      - Safeguarding against Malicious Use of GenAI
-      - Developing Ethical Guidelines and Regulatory Frameworks
-  - Beyond the Paradox: Towards a Sustainable and Equitable Future with AI
-    - Rethinking Growth and Progress in the Age of AI
-      - Moving Beyond Traditional Economic Metrics
-      - Prioritizing Human Well-being and Environmental Sustainability
-      - Redefining the Relationship Between Humans and Technology
-    - Shaping the Future of AI: A Call to Action
-      - Fostering Collaboration Between Stakeholders
-      - Investing in Research and Development for Responsible AI
-      - Empowering Individuals and Communities to Navigate the AI-Driven World
+- [The Jevons Paradox in the Age of Generative AI: Implications for Productivity, Resource Consumption, and the Future of Work](#the-jevons-paradox-in-the-age-of-generative-ai-implications-for-productivity-resource-consumption-and-the-future-of-work)
+  - [The Ghost in the Machine: Understanding the Jevons Paradox](#the-ghost-in-the-machine-understanding-the-jevons-paradox)
+    - [The Historical Context of the Jevons Paradox](#the-historical-context-of-the-jevons-paradox)
+      - [William Stanley Jevons and the Coal Question](#william-stanley-jevons-and-the-coal-question)
+      - [The Paradox's Enduring Relevance](#the-paradoxs-enduring-relevance)
+      - [Examples of the Paradox in Action: From Lighting to Transportation](#examples-of-the-paradox-in-action-from-lighting-to-transportation)
+    - [The Mechanics of the Paradox: Rebound Effects and Efficiency Gains](#the-mechanics-of-the-paradox-rebound-effects-and-efficiency-gains)
+      - [Direct, Indirect, and Economy-Wide Rebound Effects](#direct-indirect-and-economy-wide-rebound-effects)
+      - [The Role of Innovation and Technological Advancement](#the-role-of-innovation-and-technological-advancement)
+      - [Challenges in Measuring and Quantifying Rebound Effects](#challenges-in-measuring-and-quantifying-rebound-effects)
+  - [Generative AI: A New Frontier for Productivity and Resource Consumption](#generative-ai-a-new-frontier-for-productivity-and-resource-consumption)
+    - [The Transformative Power of GenAI](#the-transformative-power-of-genai)
+      - [Automating Tasks and Augmenting Human Capabilities](#automating-tasks-and-augmenting-human-capabilities)
+      - [Impact on Various Industries: From Manufacturing to Creative Arts](#impact-on-various-industries-from-manufacturing-to-creative-arts)
+      - [Potential for Economic Growth and Societal Transformation](#potential-for-economic-growth-and-societal-transformation)
+    - [The Environmental Footprint of GenAI](#the-environmental-footprint-of-genai)
+      - [Energy Consumption of AI Training and Inference](#energy-consumption-of-ai-training-and-inference)
+      - [E-waste Generation and the Lifecycle of AI Hardware](#e-waste-generation-and-the-lifecycle-of-ai-hardware)
+      - [Strategies for Mitigating the Environmental Impact](#strategies-for-mitigating-the-environmental-impact)
+  - [The Future of Work in the Shadow of the Paradox](#the-future-of-work-in-the-shadow-of-the-paradox)
+    - [AI-Driven Job Displacement and Creation](#ai-driven-job-displacement-and-creation)
+      - [The Potential for Automation Across Different Sectors](#the-potential-for-automation-across-different-sectors)
+      - [Emerging Job Roles and the Evolving Skills Landscape](#emerging-job-roles-and-the-evolving-skills-landscape)
+      - [The Importance of Reskilling and Lifelong Learning](#the-importance-of-reskilling-and-lifelong-learning)
+    - [Adapting to the Changing Nature of Work](#adapting-to-the-changing-nature-of-work)
+      - [Policy Recommendations for a Smooth Transition](#policy-recommendations-for-a-smooth-transition)
+      - [The Role of Education and Training Institutions](#the-role-of-education-and-training-institutions)
+      - [Creating a Sustainable and Inclusive Future of Work](#creating-a-sustainable-and-inclusive-future-of-work)
+  - [Navigating the Ethical Landscape of Generative AI](#navigating-the-ethical-landscape-of-generative-ai)
+    - [Bias, Fairness, and Transparency in AI Systems](#bias-fairness-and-transparency-in-ai-systems)
+      - [Addressing Algorithmic Bias and Discrimination](#addressing-algorithmic-bias-and-discrimination)
+      - [Promoting Transparency and Explainability in AI](#promoting-transparency-and-explainability-in-ai)
+      - [Ensuring Accountability and Responsible AI Development](#ensuring-accountability-and-responsible-ai-development)
+    - [Misinformation, Manipulation, and the Potential for Misuse](#misinformation-manipulation-and-the-potential-for-misuse)
+      - [Combating AI-Generated Fake News and Propaganda](#combating-ai-generated-fake-news-and-propaganda)
+      - [Safeguarding against Malicious Use of GenAI](#safeguarding-against-malicious-use-of-genai)
+      - [Developing Ethical Guidelines and Regulatory Frameworks](#developing-ethical-guidelines-and-regulatory-frameworks)
+  - [Beyond the Paradox: Towards a Sustainable and Equitable Future with AI](#beyond-the-paradox-towards-a-sustainable-and-equitable-future-with-ai)
+    - [Rethinking Growth and Progress in the Age of AI](#rethinking-growth-and-progress-in-the-age-of-ai)
+      - [Moving Beyond Traditional Economic Metrics](#moving-beyond-traditional-economic-metrics)
+      - [Prioritizing Human Well-being and Environmental Sustainability](#prioritizing-human-well-being-and-environmental-sustainability)
+      - [Redefining the Relationship Between Humans and Technology](#redefining-the-relationship-between-humans-and-technology)
+    - [Shaping the Future of AI: A Call to Action](#shaping-the-future-of-ai-a-call-to-action)
+      - [Fostering Collaboration Between Stakeholders](#fostering-collaboration-between-stakeholders)
+      - [Investing in Research and Development for Responsible AI](#investing-in-research-and-development-for-responsible-ai)
+      - [Empowering Individuals and Communities to Navigate the AI-Driven World](#empowering-individuals-and-communities-to-navigate-the-ai-driven-world)
 
 
 ## The Ghost in the Machine: Understanding the Jevons Paradox

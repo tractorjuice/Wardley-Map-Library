@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence
-  - Introduction: The New AI Landscape
-    - The Stakes of the AI Race
-      - The Current State of AI Development
-      - Why These Three Companies Matter
-      - The Battle for AI Leadership
-  - Philosophical Foundations and Corporate Cultures
-    - OpenAI's Evolution: From Non-Profit to Capped-Profit
-      - Original Mission and Values
-      - The Transition Debate
-      - Current Ethical Framework
-    - Anthropic's Constitutional AI Approach
-      - Foundations in AI Safety
-      - Constitutional AI Principles
-      - Implementation Methods
-    - Google's Corporate AI Philosophy
-      - Balancing Innovation with Responsibility
-      - Internal AI Guidelines
-      - Public AI Commitments
-  - Technical Innovations and Capabilities
-    - Language Model Architectures
-      - GPT Series Evolution
-      - Claude's Technical Distinctions
-      - PaLM and Gemini Innovations
-    - Safety and Control Mechanisms
-      - Training Methodologies
-      - Safety Features Comparison
-      - Performance Benchmarks
-  - Market Strategies and Business Impact
-    - Business Models and Monetisation
-      - API Services and Pricing
-      - Enterprise Solutions
-      - Research Commercialisation
-    - Strategic Partnerships
-      - Microsoft-OpenAI Alliance
-      - Anthropic's Funding Sources
-      - Google's Ecosystem Advantages
-  - Shaping the Future: Impact and Implications
-    - Policy and Regulation Influence
-      - Government Relations
-      - Industry Standards Setting
-      - Public Policy Positions
-    - Future Trajectories
-      - Technology Roadmaps
-      - Competitive Dynamics
-      - Potential Convergence Points
+- [The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence](#the-ai-titans-openai-anthropic-and-googles-race-to-define-the-future-of-artificial-intelligence)
+  - [Introduction: The New AI Landscape](#introduction-the-new-ai-landscape)
+    - [The Stakes of the AI Race](#the-stakes-of-the-ai-race)
+      - [The Current State of AI Development](#the-current-state-of-ai-development)
+      - [Why These Three Companies Matter](#why-these-three-companies-matter)
+      - [The Battle for AI Leadership](#the-battle-for-ai-leadership)
+  - [Philosophical Foundations and Corporate Cultures](#philosophical-foundations-and-corporate-cultures)
+    - [OpenAI's Evolution: From Non-Profit to Capped-Profit](#openais-evolution-from-non-profit-to-capped-profit)
+      - [Original Mission and Values](#original-mission-and-values)
+      - [The Transition Debate](#the-transition-debate)
+      - [Current Ethical Framework](#current-ethical-framework)
+    - [Anthropic's Constitutional AI Approach](#anthropics-constitutional-ai-approach)
+      - [Foundations in AI Safety](#foundations-in-ai-safety)
+      - [Constitutional AI Principles](#constitutional-ai-principles)
+      - [Implementation Methods](#implementation-methods)
+    - [Google's Corporate AI Philosophy](#googles-corporate-ai-philosophy)
+      - [Balancing Innovation with Responsibility](#balancing-innovation-with-responsibility)
+      - [Internal AI Guidelines](#internal-ai-guidelines)
+      - [Public AI Commitments](#public-ai-commitments)
+  - [Technical Innovations and Capabilities](#technical-innovations-and-capabilities)
+    - [Language Model Architectures](#language-model-architectures)
+      - [GPT Series Evolution](#gpt-series-evolution)
+      - [Claude's Technical Distinctions](#claudes-technical-distinctions)
+      - [PaLM and Gemini Innovations](#palm-and-gemini-innovations)
+    - [Safety and Control Mechanisms](#safety-and-control-mechanisms)
+      - [Training Methodologies](#training-methodologies)
+      - [Safety Features Comparison](#safety-features-comparison)
+      - [Performance Benchmarks](#performance-benchmarks)
+  - [Market Strategies and Business Impact](#market-strategies-and-business-impact)
+    - [Business Models and Monetisation](#business-models-and-monetisation)
+      - [API Services and Pricing](#api-services-and-pricing)
+      - [Enterprise Solutions](#enterprise-solutions)
+      - [Research Commercialisation](#research-commercialisation)
+    - [Strategic Partnerships](#strategic-partnerships)
+      - [Microsoft-OpenAI Alliance](#microsoft-openai-alliance)
+      - [Anthropic's Funding Sources](#anthropics-funding-sources)
+      - [Google's Ecosystem Advantages](#googles-ecosystem-advantages)
+  - [Shaping the Future: Impact and Implications](#shaping-the-future-impact-and-implications)
+    - [Policy and Regulation Influence](#policy-and-regulation-influence)
+      - [Government Relations](#government-relations)
+      - [Industry Standards Setting](#industry-standards-setting)
+      - [Public Policy Positions](#public-policy-positions)
+    - [Future Trajectories](#future-trajectories)
+      - [Technology Roadmaps](#technology-roadmaps)
+      - [Competitive Dynamics](#competitive-dynamics)
+      - [Potential Convergence Points](#potential-convergence-points)
 
 
 ## Introduction: The New AI Landscape

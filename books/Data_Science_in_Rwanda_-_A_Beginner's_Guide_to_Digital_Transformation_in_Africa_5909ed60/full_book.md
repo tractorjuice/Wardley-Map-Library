@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Data Science in Rwanda: A Beginner's Guide to Digital Transformation in Africa
-  - Introduction to Data Science Through a Rwandan Lens
-    - Understanding Data Science Fundamentals
-      - What is Data Science?
-      - The Role of Data in Rwanda's Digital Evolution
-      - Key Tools and Technologies in African Context
-      - Data Science Success Stories from Rwanda
-    - The African Data Landscape
-      - Unique Characteristics of African Data
-      - Data Collection Challenges and Solutions
-      - Digital Infrastructure in Rwanda
-      - Data Sources and Accessibility
-  - Python Programming with Local Datasets
-    - Getting Started with Python
-      - Setting Up Your Development Environment
-      - Basic Python Concepts
-      - Working with Data Structures
-      - File Handling and Data Import
-    - Analyzing Rwandan Datasets
-      - Agricultural Data Analysis
-      - Healthcare Statistics Processing
-      - Mobile Money Transaction Analysis
-      - Visualization of Local Data
-  - Machine Learning for African Development
-    - Core ML Concepts
-      - Introduction to Machine Learning
-      - Supervised vs Unsupervised Learning
-      - Model Selection and Evaluation
-      - Feature Engineering with Local Data
-    - Practical Applications
-      - Crop Yield Prediction Models
-      - Healthcare Outcome Analysis
-      - Financial Inclusion Projects
-      - Urban Planning Applications
-  - Data Ethics and Cultural Considerations
-    - Ethical Framework
-      - Data Privacy in African Context
-      - Cultural Sensitivity in Data Collection
-      - Local Regulations and Compliance
-      - Community Engagement Principles
-    - Responsible Data Practices
-      - Data Security Measures
-      - Bias Detection and Mitigation
-      - Sustainable Data Management
-      - Ethical Decision Making
-  - Building Your Data Science Career
-    - Career Pathways
-      - Local Job Market Overview
-      - Required Skills and Qualifications
-      - Remote Work Opportunities
-      - Building a Professional Network
-    - Professional Development
-      - Continuous Learning Resources
-      - Project Portfolio Development
-      - Industry Certifications
-      - Mentorship and Community
+- [Data Science in Rwanda: A Beginner's Guide to Digital Transformation in Africa](#data-science-in-rwanda-a-beginners-guide-to-digital-transformation-in-africa)
+  - [Introduction to Data Science Through a Rwandan Lens](#introduction-to-data-science-through-a-rwandan-lens)
+    - [Understanding Data Science Fundamentals](#understanding-data-science-fundamentals)
+      - [What is Data Science?](#what-is-data-science)
+      - [The Role of Data in Rwanda's Digital Evolution](#the-role-of-data-in-rwandas-digital-evolution)
+      - [Key Tools and Technologies in African Context](#key-tools-and-technologies-in-african-context)
+      - [Data Science Success Stories from Rwanda](#data-science-success-stories-from-rwanda)
+    - [The African Data Landscape](#the-african-data-landscape)
+      - [Unique Characteristics of African Data](#unique-characteristics-of-african-data)
+      - [Data Collection Challenges and Solutions](#data-collection-challenges-and-solutions)
+      - [Digital Infrastructure in Rwanda](#digital-infrastructure-in-rwanda)
+      - [Data Sources and Accessibility](#data-sources-and-accessibility)
+  - [Python Programming with Local Datasets](#python-programming-with-local-datasets)
+    - [Getting Started with Python](#getting-started-with-python)
+      - [Setting Up Your Development Environment](#setting-up-your-development-environment)
+      - [Basic Python Concepts](#basic-python-concepts)
+      - [Working with Data Structures](#working-with-data-structures)
+      - [File Handling and Data Import](#file-handling-and-data-import)
+    - [Analyzing Rwandan Datasets](#analyzing-rwandan-datasets)
+      - [Agricultural Data Analysis](#agricultural-data-analysis)
+      - [Healthcare Statistics Processing](#healthcare-statistics-processing)
+      - [Mobile Money Transaction Analysis](#mobile-money-transaction-analysis)
+      - [Visualization of Local Data](#visualization-of-local-data)
+  - [Machine Learning for African Development](#machine-learning-for-african-development)
+    - [Core ML Concepts](#core-ml-concepts)
+      - [Introduction to Machine Learning](#introduction-to-machine-learning)
+      - [Supervised vs Unsupervised Learning](#supervised-vs-unsupervised-learning)
+      - [Model Selection and Evaluation](#model-selection-and-evaluation)
+      - [Feature Engineering with Local Data](#feature-engineering-with-local-data)
+    - [Practical Applications](#practical-applications)
+      - [Crop Yield Prediction Models](#crop-yield-prediction-models)
+      - [Healthcare Outcome Analysis](#healthcare-outcome-analysis)
+      - [Financial Inclusion Projects](#financial-inclusion-projects)
+      - [Urban Planning Applications](#urban-planning-applications)
+  - [Data Ethics and Cultural Considerations](#data-ethics-and-cultural-considerations)
+    - [Ethical Framework](#ethical-framework)
+      - [Data Privacy in African Context](#data-privacy-in-african-context)
+      - [Cultural Sensitivity in Data Collection](#cultural-sensitivity-in-data-collection)
+      - [Local Regulations and Compliance](#local-regulations-and-compliance)
+      - [Community Engagement Principles](#community-engagement-principles)
+    - [Responsible Data Practices](#responsible-data-practices)
+      - [Data Security Measures](#data-security-measures)
+      - [Bias Detection and Mitigation](#bias-detection-and-mitigation)
+      - [Sustainable Data Management](#sustainable-data-management)
+      - [Ethical Decision Making](#ethical-decision-making)
+  - [Building Your Data Science Career](#building-your-data-science-career)
+    - [Career Pathways](#career-pathways)
+      - [Local Job Market Overview](#local-job-market-overview)
+      - [Required Skills and Qualifications](#required-skills-and-qualifications)
+      - [Remote Work Opportunities](#remote-work-opportunities)
+      - [Building a Professional Network](#building-a-professional-network)
+    - [Professional Development](#professional-development)
+      - [Continuous Learning Resources](#continuous-learning-resources)
+      - [Project Portfolio Development](#project-portfolio-development)
+      - [Industry Certifications](#industry-certifications)
+      - [Mentorship and Community](#mentorship-and-community)
 
 
 ## Introduction to Data Science Through a Rwandan Lens

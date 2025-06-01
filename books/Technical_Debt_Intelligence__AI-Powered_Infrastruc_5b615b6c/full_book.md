@@ -2,82 +2,82 @@
 
 # Table of Contents
 
-- Technical Debt Intelligence: AI-Powered Infrastructure Assessment Using Large Language Models
-  - Introduction to Technical Debt Modeling with AI
-    - Understanding Technical Debt in Modern Infrastructure
-      - Definition and Evolution of Technical Debt
-      - Impact on Infrastructure and Operations
-      - Current Assessment Challenges
-      - The Role of AI in Technical Debt Management
-    - Overview of LLM Capabilities in Infrastructure Analysis
-      - Introduction to Large Language Models
-      - LLM Applications in Code Analysis
-      - Infrastructure Pattern Recognition
-      - Limitations and Considerations
-  - Mathematical Foundations for Technical Debt Assessment
-    - Cost Modeling Framework
-      - Principal and Interest Calculations
-      - Maintenance Cost Projections
-      - Resource Allocation Models
-      - Cost-Benefit Analysis Methods
-    - Risk Quantification Models
-      - Probability Distribution Analysis
-      - Impact Assessment Metrics
-      - Risk Scoring Algorithms
-      - Uncertainty Modeling
-    - Time-Value Calculations
-      - Depreciation Models
-      - Future Cost Estimation
-      - Technical Debt Accumulation Rates
-      - ROI Calculations for Debt Resolution
-  - LLM Integration and Prompt Engineering
-    - Prompt Engineering Fundamentals
-      - Prompt Structure Design
-      - Context Window Optimization
-      - Token Management Strategies
-      - Response Format Templates
-    - Infrastructure Analysis Patterns
-      - Code Quality Assessment Prompts
-      - Architecture Pattern Recognition
-      - Dependency Analysis Techniques
-      - Performance Impact Evaluation
-    - Model Integration Framework
-      - Data Pipeline Architecture
-      - Mathematical Model Integration
-      - Result Interpretation Methods
-      - Feedback Loop Implementation
-  - Implementation and Best Practices
-    - Assessment Workflow Design
-      - Process Framework Setup
-      - Data Collection Methods
-      - Analysis Pipeline Configuration
-      - Reporting System Design
-    - Case Studies
-      - Legacy System Assessment
-      - Cloud Infrastructure Analysis
-      - Microservices Architecture Evaluation
-      - DevOps Pipeline Optimization
-    - Best Practices and Guidelines
-      - Model Calibration Techniques
-      - Quality Assurance Processes
-      - Performance Optimization Strategies
-      - Maintenance Procedures
-  - Future Considerations and Evolution
-    - Scaling Strategies
-      - Large-Scale Implementation Approaches
-      - Performance Optimization Methods
-      - Resource Management Techniques
-      - Cost Control Measures
-    - Model Maintenance and Updates
-      - LLM Version Management
-      - Mathematical Model Updates
-      - Integration Framework Evolution
-      - Documentation Standards
-    - Emerging Trends and Opportunities
-      - Advanced AI Capabilities
-      - New Assessment Methodologies
-      - Industry Standard Evolution
-      - Future Research Directions
+- [Technical Debt Intelligence: AI-Powered Infrastructure Assessment Using Large Language Models](#technical-debt-intelligence-ai-powered-infrastructure-assessment-using-large-language-models)
+  - [Introduction to Technical Debt Modeling with AI](#introduction-to-technical-debt-modeling-with-ai)
+    - [Understanding Technical Debt in Modern Infrastructure](#understanding-technical-debt-in-modern-infrastructure)
+      - [Definition and Evolution of Technical Debt](#definition-and-evolution-of-technical-debt)
+      - [Impact on Infrastructure and Operations](#impact-on-infrastructure-and-operations)
+      - [Current Assessment Challenges](#current-assessment-challenges)
+      - [The Role of AI in Technical Debt Management](#the-role-of-ai-in-technical-debt-management)
+    - [Overview of LLM Capabilities in Infrastructure Analysis](#overview-of-llm-capabilities-in-infrastructure-analysis)
+      - [Introduction to Large Language Models](#introduction-to-large-language-models)
+      - [LLM Applications in Code Analysis](#llm-applications-in-code-analysis)
+      - [Infrastructure Pattern Recognition](#infrastructure-pattern-recognition)
+      - [Limitations and Considerations](#limitations-and-considerations)
+  - [Mathematical Foundations for Technical Debt Assessment](#mathematical-foundations-for-technical-debt-assessment)
+    - [Cost Modeling Framework](#cost-modeling-framework)
+      - [Principal and Interest Calculations](#principal-and-interest-calculations)
+      - [Maintenance Cost Projections](#maintenance-cost-projections)
+      - [Resource Allocation Models](#resource-allocation-models)
+      - [Cost-Benefit Analysis Methods](#cost-benefit-analysis-methods)
+    - [Risk Quantification Models](#risk-quantification-models)
+      - [Probability Distribution Analysis](#probability-distribution-analysis)
+      - [Impact Assessment Metrics](#impact-assessment-metrics)
+      - [Risk Scoring Algorithms](#risk-scoring-algorithms)
+      - [Uncertainty Modeling](#uncertainty-modeling)
+    - [Time-Value Calculations](#time-value-calculations)
+      - [Depreciation Models](#depreciation-models)
+      - [Future Cost Estimation](#future-cost-estimation)
+      - [Technical Debt Accumulation Rates](#technical-debt-accumulation-rates)
+      - [ROI Calculations for Debt Resolution](#roi-calculations-for-debt-resolution)
+  - [LLM Integration and Prompt Engineering](#llm-integration-and-prompt-engineering)
+    - [Prompt Engineering Fundamentals](#prompt-engineering-fundamentals)
+      - [Prompt Structure Design](#prompt-structure-design)
+      - [Context Window Optimization](#context-window-optimization)
+      - [Token Management Strategies](#token-management-strategies)
+      - [Response Format Templates](#response-format-templates)
+    - [Infrastructure Analysis Patterns](#infrastructure-analysis-patterns)
+      - [Code Quality Assessment Prompts](#code-quality-assessment-prompts)
+      - [Architecture Pattern Recognition](#architecture-pattern-recognition)
+      - [Dependency Analysis Techniques](#dependency-analysis-techniques)
+      - [Performance Impact Evaluation](#performance-impact-evaluation)
+    - [Model Integration Framework](#model-integration-framework)
+      - [Data Pipeline Architecture](#data-pipeline-architecture)
+      - [Mathematical Model Integration](#mathematical-model-integration)
+      - [Result Interpretation Methods](#result-interpretation-methods)
+      - [Feedback Loop Implementation](#feedback-loop-implementation)
+  - [Implementation and Best Practices](#implementation-and-best-practices)
+    - [Assessment Workflow Design](#assessment-workflow-design)
+      - [Process Framework Setup](#process-framework-setup)
+      - [Data Collection Methods](#data-collection-methods)
+      - [Analysis Pipeline Configuration](#analysis-pipeline-configuration)
+      - [Reporting System Design](#reporting-system-design)
+    - [Case Studies](#case-studies)
+      - [Legacy System Assessment](#legacy-system-assessment)
+      - [Cloud Infrastructure Analysis](#cloud-infrastructure-analysis)
+      - [Microservices Architecture Evaluation](#microservices-architecture-evaluation)
+      - [DevOps Pipeline Optimization](#devops-pipeline-optimization)
+    - [Best Practices and Guidelines](#best-practices-and-guidelines)
+      - [Model Calibration Techniques](#model-calibration-techniques)
+      - [Quality Assurance Processes](#quality-assurance-processes)
+      - [Performance Optimization Strategies](#performance-optimization-strategies)
+      - [Maintenance Procedures](#maintenance-procedures)
+  - [Future Considerations and Evolution](#future-considerations-and-evolution)
+    - [Scaling Strategies](#scaling-strategies)
+      - [Large-Scale Implementation Approaches](#large-scale-implementation-approaches)
+      - [Performance Optimization Methods](#performance-optimization-methods)
+      - [Resource Management Techniques](#resource-management-techniques)
+      - [Cost Control Measures](#cost-control-measures)
+    - [Model Maintenance and Updates](#model-maintenance-and-updates)
+      - [LLM Version Management](#llm-version-management)
+      - [Mathematical Model Updates](#mathematical-model-updates)
+      - [Integration Framework Evolution](#integration-framework-evolution)
+      - [Documentation Standards](#documentation-standards)
+    - [Emerging Trends and Opportunities](#emerging-trends-and-opportunities)
+      - [Advanced AI Capabilities](#advanced-ai-capabilities)
+      - [New Assessment Methodologies](#new-assessment-methodologies)
+      - [Industry Standard Evolution](#industry-standard-evolution)
+      - [Future Research Directions](#future-research-directions)
 
 
 ## Introduction to Technical Debt Modeling with AI

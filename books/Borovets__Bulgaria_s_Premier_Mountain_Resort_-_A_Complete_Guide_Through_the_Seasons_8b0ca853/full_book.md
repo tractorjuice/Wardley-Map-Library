@@ -2,53 +2,53 @@
 
 # Table of Contents
 
-- Borovets: Bulgaria's Premier Mountain Resort - A Complete Guide Through the Seasons
-  - Introduction: The Crown Jewel of Bulgarian Mountains
-    - Royal Beginnings
-      - From Chamkoriya to Borovets
-      - The Royal Hunting Lodge Legacy
-      - Evolution into a Modern Resort
-    - Resort Overview
-      - Geographic Location and Access
-      - Resort Layout and Facilities
-      - Year-round Appeal
-  - Winter Wonderland: The Complete Ski Experience
-    - Ski Infrastructure
-      - Piste Network and Difficulty Levels
-      - Lift Systems and Mountain Access
-      - Snow Conditions and Making
-    - Winter Activities
-      - Skiing and Snowboarding Schools
-      - Cross-country and Biathlon Facilities
-      - Night Skiing Adventures
-      - Winter Events and Competitions
-  - Summer Adventures in the Rila Mountains
-    - Mountain Activities
-      - Hiking Trails and Routes
-      - Mountain Biking Networks
-      - Rock Climbing Opportunities
-    - Natural Attractions
-      - Flora and Fauna Exploration
-      - Scenic Viewpoints
-      - Mountain Lakes and Waterfalls
-  - Cultural Heritage and Local Life
-    - Mountain Traditions
-      - Local Customs and Festivals
-      - Traditional Architecture
-      - Folk Arts and Crafts
-    - Culinary Journey
-      - Mountain Cuisine Specialties
-      - Local Restaurants and Mehanas
-      - Regional Wine and Spirits
-  - Practical Guide and Insider Tips
-    - Planning Your Visit
-      - Accommodation Options
-      - Transport and Logistics
-      - Equipment Rental and Services
-    - Hidden Gems
-      - Off-piste Adventures
-      - Secret Local Spots
-      - Best Photography Locations
+- [Borovets: Bulgaria's Premier Mountain Resort - A Complete Guide Through the Seasons](#borovets-bulgarias-premier-mountain-resort-a-complete-guide-through-the-seasons)
+  - [Introduction: The Crown Jewel of Bulgarian Mountains](#introduction-the-crown-jewel-of-bulgarian-mountains)
+    - [Royal Beginnings](#royal-beginnings)
+      - [From Chamkoriya to Borovets](#from-chamkoriya-to-borovets)
+      - [The Royal Hunting Lodge Legacy](#the-royal-hunting-lodge-legacy)
+      - [Evolution into a Modern Resort](#evolution-into-a-modern-resort)
+    - [Resort Overview](#resort-overview)
+      - [Geographic Location and Access](#geographic-location-and-access)
+      - [Resort Layout and Facilities](#resort-layout-and-facilities)
+      - [Year-round Appeal](#year-round-appeal)
+  - [Winter Wonderland: The Complete Ski Experience](#winter-wonderland-the-complete-ski-experience)
+    - [Ski Infrastructure](#ski-infrastructure)
+      - [Piste Network and Difficulty Levels](#piste-network-and-difficulty-levels)
+      - [Lift Systems and Mountain Access](#lift-systems-and-mountain-access)
+      - [Snow Conditions and Making](#snow-conditions-and-making)
+    - [Winter Activities](#winter-activities)
+      - [Skiing and Snowboarding Schools](#skiing-and-snowboarding-schools)
+      - [Cross-country and Biathlon Facilities](#cross-country-and-biathlon-facilities)
+      - [Night Skiing Adventures](#night-skiing-adventures)
+      - [Winter Events and Competitions](#winter-events-and-competitions)
+  - [Summer Adventures in the Rila Mountains](#summer-adventures-in-the-rila-mountains)
+    - [Mountain Activities](#mountain-activities)
+      - [Hiking Trails and Routes](#hiking-trails-and-routes)
+      - [Mountain Biking Networks](#mountain-biking-networks)
+      - [Rock Climbing Opportunities](#rock-climbing-opportunities)
+    - [Natural Attractions](#natural-attractions)
+      - [Flora and Fauna Exploration](#flora-and-fauna-exploration)
+      - [Scenic Viewpoints](#scenic-viewpoints)
+      - [Mountain Lakes and Waterfalls](#mountain-lakes-and-waterfalls)
+  - [Cultural Heritage and Local Life](#cultural-heritage-and-local-life)
+    - [Mountain Traditions](#mountain-traditions)
+      - [Local Customs and Festivals](#local-customs-and-festivals)
+      - [Traditional Architecture](#traditional-architecture)
+      - [Folk Arts and Crafts](#folk-arts-and-crafts)
+    - [Culinary Journey](#culinary-journey)
+      - [Mountain Cuisine Specialties](#mountain-cuisine-specialties)
+      - [Local Restaurants and Mehanas](#local-restaurants-and-mehanas)
+      - [Regional Wine and Spirits](#regional-wine-and-spirits)
+  - [Practical Guide and Insider Tips](#practical-guide-and-insider-tips)
+    - [Planning Your Visit](#planning-your-visit)
+      - [Accommodation Options](#accommodation-options)
+      - [Transport and Logistics](#transport-and-logistics)
+      - [Equipment Rental and Services](#equipment-rental-and-services)
+    - [Hidden Gems](#hidden-gems)
+      - [Off-piste Adventures](#off-piste-adventures)
+      - [Secret Local Spots](#secret-local-spots)
+      - [Best Photography Locations](#best-photography-locations)
 
 
 ## Introduction: The Crown Jewel of Bulgarian Mountains

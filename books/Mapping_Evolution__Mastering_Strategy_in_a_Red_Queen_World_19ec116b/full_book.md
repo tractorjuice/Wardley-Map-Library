@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Mapping Evolution: Mastering Strategy in a Red Queen World
-  - Introduction: The Strategic Imperative of Continuous Evolution
-    - Understanding the Red Queen Effect in Modern Business
-      - The Biology of Business Competition
-      - Why Standing Still Means Falling Behind
-      - The Role of Strategic Mapping in Survival
-    - Foundations of Wardley Mapping
-      - Core Components and Visual Grammar
-      - Value Chain Dynamics
-      - Evolution and Movement
-  - Mapping the Evolutionary Landscape
-    - Components of Competitive Evolution
-      - Identifying Value Chain Elements
-      - Mapping Evolutionary States
-      - Understanding Movement and Inertia
-    - Detecting Evolutionary Patterns
-      - Signs of Industry Evolution
-      - Competitive Pressure Indicators
-      - Anticipating Market Shifts
-    - Advanced Mapping Techniques
-      - Dynamic Component Mapping
-      - Ecosystem Analysis
-      - Future State Projection
-  - Building Adaptive Response Systems
-    - Real-time Competition Monitoring
-      - Setting Up Early Warning Systems
-      - Measuring Competitive Velocity
-      - Response Triggering Mechanisms
-    - Organizational Adaptation Frameworks
-      - Building Flexible Team Structures
-      - Developing Dynamic Capabilities
-      - Creating Evolution-Ready Culture
-  - Strategic Evolution in Practice
-    - Case Studies in Evolutionary Success
-      - Technology Sector Adaptations
-      - Manufacturing Evolution Stories
-      - Service Industry Transformations
-    - Implementation Playbooks
-      - 90-Day Evolution Sprint
-      - Team Training Programs
-      - Measurement and Refinement
-  - Conclusion: Sustaining Evolution
-    - Long-term Evolution Strategies
-      - Building Sustainable Advantage
-      - Future-Proofing Organizations
-      - Continuous Learning Systems
+- [Mapping Evolution: Mastering Strategy in a Red Queen World](#mapping-evolution-mastering-strategy-in-a-red-queen-world)
+  - [Introduction: The Strategic Imperative of Continuous Evolution](#introduction-the-strategic-imperative-of-continuous-evolution)
+    - [Understanding the Red Queen Effect in Modern Business](#understanding-the-red-queen-effect-in-modern-business)
+      - [The Biology of Business Competition](#the-biology-of-business-competition)
+      - [Why Standing Still Means Falling Behind](#why-standing-still-means-falling-behind)
+      - [The Role of Strategic Mapping in Survival](#the-role-of-strategic-mapping-in-survival)
+    - [Foundations of Wardley Mapping](#foundations-of-wardley-mapping)
+      - [Core Components and Visual Grammar](#core-components-and-visual-grammar)
+      - [Value Chain Dynamics](#value-chain-dynamics)
+      - [Evolution and Movement](#evolution-and-movement)
+  - [Mapping the Evolutionary Landscape](#mapping-the-evolutionary-landscape)
+    - [Components of Competitive Evolution](#components-of-competitive-evolution)
+      - [Identifying Value Chain Elements](#identifying-value-chain-elements)
+      - [Mapping Evolutionary States](#mapping-evolutionary-states)
+      - [Understanding Movement and Inertia](#understanding-movement-and-inertia)
+    - [Detecting Evolutionary Patterns](#detecting-evolutionary-patterns)
+      - [Signs of Industry Evolution](#signs-of-industry-evolution)
+      - [Competitive Pressure Indicators](#competitive-pressure-indicators)
+      - [Anticipating Market Shifts](#anticipating-market-shifts)
+    - [Advanced Mapping Techniques](#advanced-mapping-techniques)
+      - [Dynamic Component Mapping](#dynamic-component-mapping)
+      - [Ecosystem Analysis](#ecosystem-analysis)
+      - [Future State Projection](#future-state-projection)
+  - [Building Adaptive Response Systems](#building-adaptive-response-systems)
+    - [Real-time Competition Monitoring](#real-time-competition-monitoring)
+      - [Setting Up Early Warning Systems](#setting-up-early-warning-systems)
+      - [Measuring Competitive Velocity](#measuring-competitive-velocity)
+      - [Response Triggering Mechanisms](#response-triggering-mechanisms)
+    - [Organizational Adaptation Frameworks](#organizational-adaptation-frameworks)
+      - [Building Flexible Team Structures](#building-flexible-team-structures)
+      - [Developing Dynamic Capabilities](#developing-dynamic-capabilities)
+      - [Creating Evolution-Ready Culture](#creating-evolution-ready-culture)
+  - [Strategic Evolution in Practice](#strategic-evolution-in-practice)
+    - [Case Studies in Evolutionary Success](#case-studies-in-evolutionary-success)
+      - [Technology Sector Adaptations](#technology-sector-adaptations)
+      - [Manufacturing Evolution Stories](#manufacturing-evolution-stories)
+      - [Service Industry Transformations](#service-industry-transformations)
+    - [Implementation Playbooks](#implementation-playbooks)
+      - [90-Day Evolution Sprint](#90-day-evolution-sprint)
+      - [Team Training Programs](#team-training-programs)
+      - [Measurement and Refinement](#measurement-and-refinement)
+  - [Conclusion: Sustaining Evolution](#conclusion-sustaining-evolution)
+    - [Long-term Evolution Strategies](#long-term-evolution-strategies)
+      - [Building Sustainable Advantage](#building-sustainable-advantage)
+      - [Future-Proofing Organizations](#future-proofing-organizations)
+      - [Continuous Learning Systems](#continuous-learning-systems)
 
 
 ## Introduction: The Strategic Imperative of Continuous Evolution

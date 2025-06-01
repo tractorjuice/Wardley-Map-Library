@@ -2,65 +2,65 @@
 
 # Table of Contents
 
-- Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems
-  - Introduction to Wardley Mapping and Its Strategic Applications
-    - Understanding Wardley Mapping
-      - Origins and Evolution of Wardley Mapping
-      - Core Principles and Components
-      - Strategic Applications in Business and Technology
-    - The Need for Mathematical Modelling
-      - Limitations of Traditional Wardley Mapping
-      - Benefits of Integrating Mathematical Models
-      - Overview of the Combined Approach
-  - Mathematical Foundations for Modelling Complex Systems
-    - Key Mathematical Concepts
-      - Graph Theory and Network Analysis
-      - Dynamical Systems and Chaos Theory
-      - Probability and Statistical Models
-    - Mathematical Tools for System Modelling
-      - Linear Algebra and Matrix Operations
-      - Optimisation Techniques
-      - Simulation and Monte Carlo Methods
-  - Step-by-Step Methodology for Integrating Math Models into Wardley Maps
-    - Preparing Your Wardley Map
-      - Identifying Key Components and Dependencies
-      - Defining System Boundaries and Variables
-      - Data Collection and Validation
-    - Building the Mathematical Model
-      - Choosing the Right Mathematical Framework
-      - Mapping Components to Mathematical Constructs
-      - Calibrating and Validating the Model
-    - Integrating and Visualising Results
-      - Overlaying Mathematical Insights onto Wardley Maps
-      - Interpreting Results for Strategic Decision-Making
-      - Iterative Refinement and Continuous Improvement
-  - Real-World Case Studies Across Industries
-    - Technology Sector
-      - Case Study: Cloud Infrastructure Optimisation
-      - Case Study: Software Development Lifecycle
-    - Healthcare Sector
-      - Case Study: Hospital Resource Allocation
-      - Case Study: Pharmaceutical Supply Chain
-    - Finance Sector
-      - Case Study: Risk Management in Banking
-      - Case Study: Portfolio Optimisation
-  - Tools and Software for Implementing the Combined Approach
-    - Overview of Available Tools
-      - Wardley Mapping Tools (e.g., Online Wardley Maps)
-      - Mathematical Modelling Software (e.g., MATLAB, Python Libraries)
-      - Integrated Platforms for Combined Analysis
-    - Practical Implementation Guide
-      - Setting Up Your Environment
-      - Step-by-Step Tutorials for Key Tools
-      - Best Practices for Tool Integration
-  - Conclusion and Future Directions
-    - Recap of Key Insights
-      - Summary of the Combined Approach
-      - Lessons Learned from Case Studies
-    - Future Trends and Opportunities
-      - Emerging Technologies and Their Impact
-      - Potential for Cross-Disciplinary Applications
-      - Call to Action for Practitioners and Researchers
+- [Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems](#mathematical-modelling-for-wardley-mapping-a-strategic-framework-for-complex-systems)
+  - [Introduction to Wardley Mapping and Its Strategic Applications](#introduction-to-wardley-mapping-and-its-strategic-applications)
+    - [Understanding Wardley Mapping](#understanding-wardley-mapping)
+      - [Origins and Evolution of Wardley Mapping](#origins-and-evolution-of-wardley-mapping)
+      - [Core Principles and Components](#core-principles-and-components)
+      - [Strategic Applications in Business and Technology](#strategic-applications-in-business-and-technology)
+    - [The Need for Mathematical Modelling](#the-need-for-mathematical-modelling)
+      - [Limitations of Traditional Wardley Mapping](#limitations-of-traditional-wardley-mapping)
+      - [Benefits of Integrating Mathematical Models](#benefits-of-integrating-mathematical-models)
+      - [Overview of the Combined Approach](#overview-of-the-combined-approach)
+  - [Mathematical Foundations for Modelling Complex Systems](#mathematical-foundations-for-modelling-complex-systems)
+    - [Key Mathematical Concepts](#key-mathematical-concepts)
+      - [Graph Theory and Network Analysis](#graph-theory-and-network-analysis)
+      - [Dynamical Systems and Chaos Theory](#dynamical-systems-and-chaos-theory)
+      - [Probability and Statistical Models](#probability-and-statistical-models)
+    - [Mathematical Tools for System Modelling](#mathematical-tools-for-system-modelling)
+      - [Linear Algebra and Matrix Operations](#linear-algebra-and-matrix-operations)
+      - [Optimisation Techniques](#optimisation-techniques)
+      - [Simulation and Monte Carlo Methods](#simulation-and-monte-carlo-methods)
+  - [Step-by-Step Methodology for Integrating Math Models into Wardley Maps](#step-by-step-methodology-for-integrating-math-models-into-wardley-maps)
+    - [Preparing Your Wardley Map](#preparing-your-wardley-map)
+      - [Identifying Key Components and Dependencies](#identifying-key-components-and-dependencies)
+      - [Defining System Boundaries and Variables](#defining-system-boundaries-and-variables)
+      - [Data Collection and Validation](#data-collection-and-validation)
+    - [Building the Mathematical Model](#building-the-mathematical-model)
+      - [Choosing the Right Mathematical Framework](#choosing-the-right-mathematical-framework)
+      - [Mapping Components to Mathematical Constructs](#mapping-components-to-mathematical-constructs)
+      - [Calibrating and Validating the Model](#calibrating-and-validating-the-model)
+    - [Integrating and Visualising Results](#integrating-and-visualising-results)
+      - [Overlaying Mathematical Insights onto Wardley Maps](#overlaying-mathematical-insights-onto-wardley-maps)
+      - [Interpreting Results for Strategic Decision-Making](#interpreting-results-for-strategic-decision-making)
+      - [Iterative Refinement and Continuous Improvement](#iterative-refinement-and-continuous-improvement)
+  - [Real-World Case Studies Across Industries](#real-world-case-studies-across-industries)
+    - [Technology Sector](#technology-sector)
+      - [Case Study: Cloud Infrastructure Optimisation](#case-study-cloud-infrastructure-optimisation)
+      - [Case Study: Software Development Lifecycle](#case-study-software-development-lifecycle)
+    - [Healthcare Sector](#healthcare-sector)
+      - [Case Study: Hospital Resource Allocation](#case-study-hospital-resource-allocation)
+      - [Case Study: Pharmaceutical Supply Chain](#case-study-pharmaceutical-supply-chain)
+    - [Finance Sector](#finance-sector)
+      - [Case Study: Risk Management in Banking](#case-study-risk-management-in-banking)
+      - [Case Study: Portfolio Optimisation](#case-study-portfolio-optimisation)
+  - [Tools and Software for Implementing the Combined Approach](#tools-and-software-for-implementing-the-combined-approach)
+    - [Overview of Available Tools](#overview-of-available-tools)
+      - [Wardley Mapping Tools (e.g., Online Wardley Maps)](#wardley-mapping-tools-eg-online-wardley-maps)
+      - [Mathematical Modelling Software (e.g., MATLAB, Python Libraries)](#mathematical-modelling-software-eg-matlab-python-libraries)
+      - [Integrated Platforms for Combined Analysis](#integrated-platforms-for-combined-analysis)
+    - [Practical Implementation Guide](#practical-implementation-guide)
+      - [Setting Up Your Environment](#setting-up-your-environment)
+      - [Step-by-Step Tutorials for Key Tools](#step-by-step-tutorials-for-key-tools)
+      - [Best Practices for Tool Integration](#best-practices-for-tool-integration)
+  - [Conclusion and Future Directions](#conclusion-and-future-directions)
+    - [Recap of Key Insights](#recap-of-key-insights)
+      - [Summary of the Combined Approach](#summary-of-the-combined-approach)
+      - [Lessons Learned from Case Studies](#lessons-learned-from-case-studies)
+    - [Future Trends and Opportunities](#future-trends-and-opportunities)
+      - [Emerging Technologies and Their Impact](#emerging-technologies-and-their-impact)
+      - [Potential for Cross-Disciplinary Applications](#potential-for-cross-disciplinary-applications)
+      - [Call to Action for Practitioners and Researchers](#call-to-action-for-practitioners-and-researchers)
 
 
 ## Introduction to Wardley Mapping and Its Strategic Applications

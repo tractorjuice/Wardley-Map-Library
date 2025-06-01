@@ -2,60 +2,60 @@
 
 # Table of Contents
 
-- Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making
-  - Introduction: The Power of Visual Strategy in Digital Transformation
-    - Understanding Strategic Decision-Making Challenges
-      - The Modern Business Landscape
-      - Common Strategic Planning Pitfalls
-      - Why Visual Strategy Matters
-    - Fundamentals of Wardley Mapping
-      - Core Concepts and Components
-      - Value Chain Basics
-      - Evolution and Movement
-  - Building Your First Wardley Map
-    - Map Creation Fundamentals
-      - Identifying User Needs
-      - Mapping Value Chains
-      - Understanding Evolution Stages
-      - Positioning Components
-    - Collaborative Mapping Workshops
-      - In-Person Workshop Techniques
-      - Remote Collaboration Tools
-      - Team Engagement Strategies
-      - Common First-Time Challenges
-  - Digital Transformation Through Mapping
-    - Mapping Digital Capabilities
-      - Cloud Services Assessment
-      - Technology Stack Analysis
-      - Digital Platform Strategy
-      - Emerging Technology Integration
-    - Ecosystem Mapping
-      - Partner Networks
-      - API Landscapes
-      - Data Flow Analysis
-      - Security Considerations
-  - Strategic Pattern Recognition and Analysis
-    - Common Business Evolution Patterns
-      - Market Evolution Cycles
-      - Technology Adoption Patterns
-      - Disruption Indicators
-      - Competitive Position Analysis
-    - Pattern-Based Decision Making
-      - Strategic Options Assessment
-      - Risk Analysis
-      - Opportunity Identification
-      - Timing Considerations
-  - From Maps to Action
-    - Creating Implementation Roadmaps
-      - Priority Setting
-      - Resource Allocation
-      - Timeline Development
-      - Success Metrics Definition
-    - Managing Strategic Change
-      - Stakeholder Communication
-      - Progress Tracking
-      - Adaptation Strategies
-      - Measuring Impact
+- [Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making](#wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making)
+  - [Introduction: The Power of Visual Strategy in Digital Transformation](#introduction-the-power-of-visual-strategy-in-digital-transformation)
+    - [Understanding Strategic Decision-Making Challenges](#understanding-strategic-decision-making-challenges)
+      - [The Modern Business Landscape](#the-modern-business-landscape)
+      - [Common Strategic Planning Pitfalls](#common-strategic-planning-pitfalls)
+      - [Why Visual Strategy Matters](#why-visual-strategy-matters)
+    - [Fundamentals of Wardley Mapping](#fundamentals-of-wardley-mapping)
+      - [Core Concepts and Components](#core-concepts-and-components)
+      - [Value Chain Basics](#value-chain-basics)
+      - [Evolution and Movement](#evolution-and-movement)
+  - [Building Your First Wardley Map](#building-your-first-wardley-map)
+    - [Map Creation Fundamentals](#map-creation-fundamentals)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Value Chains](#mapping-value-chains)
+      - [Understanding Evolution Stages](#understanding-evolution-stages)
+      - [Positioning Components](#positioning-components)
+    - [Collaborative Mapping Workshops](#collaborative-mapping-workshops)
+      - [In-Person Workshop Techniques](#in-person-workshop-techniques)
+      - [Remote Collaboration Tools](#remote-collaboration-tools)
+      - [Team Engagement Strategies](#team-engagement-strategies)
+      - [Common First-Time Challenges](#common-first-time-challenges)
+  - [Digital Transformation Through Mapping](#digital-transformation-through-mapping)
+    - [Mapping Digital Capabilities](#mapping-digital-capabilities)
+      - [Cloud Services Assessment](#cloud-services-assessment)
+      - [Technology Stack Analysis](#technology-stack-analysis)
+      - [Digital Platform Strategy](#digital-platform-strategy)
+      - [Emerging Technology Integration](#emerging-technology-integration)
+    - [Ecosystem Mapping](#ecosystem-mapping)
+      - [Partner Networks](#partner-networks)
+      - [API Landscapes](#api-landscapes)
+      - [Data Flow Analysis](#data-flow-analysis)
+      - [Security Considerations](#security-considerations)
+  - [Strategic Pattern Recognition and Analysis](#strategic-pattern-recognition-and-analysis)
+    - [Common Business Evolution Patterns](#common-business-evolution-patterns)
+      - [Market Evolution Cycles](#market-evolution-cycles)
+      - [Technology Adoption Patterns](#technology-adoption-patterns)
+      - [Disruption Indicators](#disruption-indicators)
+      - [Competitive Position Analysis](#competitive-position-analysis)
+    - [Pattern-Based Decision Making](#pattern-based-decision-making)
+      - [Strategic Options Assessment](#strategic-options-assessment)
+      - [Risk Analysis](#risk-analysis)
+      - [Opportunity Identification](#opportunity-identification)
+      - [Timing Considerations](#timing-considerations)
+  - [From Maps to Action](#from-maps-to-action)
+    - [Creating Implementation Roadmaps](#creating-implementation-roadmaps)
+      - [Priority Setting](#priority-setting)
+      - [Resource Allocation](#resource-allocation)
+      - [Timeline Development](#timeline-development)
+      - [Success Metrics Definition](#success-metrics-definition)
+    - [Managing Strategic Change](#managing-strategic-change)
+      - [Stakeholder Communication](#stakeholder-communication)
+      - [Progress Tracking](#progress-tracking)
+      - [Adaptation Strategies](#adaptation-strategies)
+      - [Measuring Impact](#measuring-impact)
 
 
 ## Introduction: The Power of Visual Strategy in Digital Transformation

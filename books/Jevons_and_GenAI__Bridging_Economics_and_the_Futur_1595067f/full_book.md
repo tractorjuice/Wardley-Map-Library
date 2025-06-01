@@ -2,66 +2,66 @@
 
 # Table of Contents
 
-- Jevons and GenAI: Bridging Economics and the Future of Technology
-  - Introduction: The Convergence of Jevons and Generative AI
-    - Understanding Jevons' Legacy
-      - Who Was William Stanley Jevons?
-      - Key Contributions to Economic Theory
-      - Relevance of Jevons' Work in Today’s Technological Landscape
-    - The Rise of Generative AI
-      - What is Generative AI?
-      - Historical Development of AI Technologies
-      - The Intersection of AI and Economics
-  - Chapter 1: Historical Context
-    - Jevons' Contributions to Economics
-      - The Marginal Utility Theory
-      - Efficiency and Resource Allocation
-      - Impact on Contemporary Economic Thought
-    - Relevance of Jevons Today
-      - Economic Models in the Age of Technology
-      - Lessons from Jevons for Modern Economists
-      - The Role of Efficiency in Current Economic Challenges
-  - Chapter 2: Economic Implications of GenAI
-    - Labor Markets and Employment
-      - Impact of GenAI on Job Creation and Displacement
-      - The Future Role of Human Labor
-      - Jevons' Theory Applied to AI Disruption
-    - Productivity and Economic Models
-      - Generative AI’s Influence on Productivity
-      - Evaluating Economic Growth in the GenAI Era
-      - Revisiting Economic Models through Jevons' Lens
-  - Chapter 3: Ethical Considerations
-    - Moral Dimensions of AI Deployment
-      - Efficiency vs. Ethical Concerns
-      - The Societal Impact of AI Technologies
-      - Jevons' Advocacy for Social Welfare in Modern Context
-    - Regulating Generative AI
-      - The Need for Ethical Guidelines
-      - Balancing Innovation with Responsibility
-      - Case Studies of Ethical AI Implementation
-  - Chapter 4: Practical Applications
-    - Case Studies of Successful Integration
-      - Industry Leaders Leveraging GenAI
-      - Economic Principles in Practice
-      - Lessons Learned from Implementations
-    - Transformative Effects on Various Sectors
-      - Healthcare: Enhancements through AI
-      - Finance: AI-Driven Decision Making
-      - Manufacturing: Efficiency Improvements
-  - Chapter 5: Future Trends
-    - Evolving Landscape of Generative AI
-      - Predictions for AI Development
-      - The Impact of AI on Economic Theories
-      - Integrating Jevons' Ideas into Future Economic Models
-    - Preparing for Change
-      - Strategies for Economists and Policymakers
-      - The Role of Education in Adapting to New Technologies
-      - Fostering Innovation while Ensuring Ethical Standards
-  - Conclusion: The Future of Economics in the Age of AI
-    - Summarising Key Insights
-      - The Lasting Influence of Jevons
-      - The Interplay of AI and Economic Theory
-      - Looking Ahead: Challenges and Opportunities
+- [Jevons and GenAI: Bridging Economics and the Future of Technology](#jevons-and-genai-bridging-economics-and-the-future-of-technology)
+  - [Introduction: The Convergence of Jevons and Generative AI](#introduction-the-convergence-of-jevons-and-generative-ai)
+    - [Understanding Jevons' Legacy](#understanding-jevons-legacy)
+      - [Who Was William Stanley Jevons?](#who-was-william-stanley-jevons)
+      - [Key Contributions to Economic Theory](#key-contributions-to-economic-theory)
+      - [Relevance of Jevons' Work in Today’s Technological Landscape](#relevance-of-jevons-work-in-todays-technological-landscape)
+    - [The Rise of Generative AI](#the-rise-of-generative-ai)
+      - [What is Generative AI?](#what-is-generative-ai)
+      - [Historical Development of AI Technologies](#historical-development-of-ai-technologies)
+      - [The Intersection of AI and Economics](#the-intersection-of-ai-and-economics)
+  - [Chapter 1: Historical Context](#chapter-1-historical-context)
+    - [Jevons' Contributions to Economics](#jevons-contributions-to-economics)
+      - [The Marginal Utility Theory](#the-marginal-utility-theory)
+      - [Efficiency and Resource Allocation](#efficiency-and-resource-allocation)
+      - [Impact on Contemporary Economic Thought](#impact-on-contemporary-economic-thought)
+    - [Relevance of Jevons Today](#relevance-of-jevons-today)
+      - [Economic Models in the Age of Technology](#economic-models-in-the-age-of-technology)
+      - [Lessons from Jevons for Modern Economists](#lessons-from-jevons-for-modern-economists)
+      - [The Role of Efficiency in Current Economic Challenges](#the-role-of-efficiency-in-current-economic-challenges)
+  - [Chapter 2: Economic Implications of GenAI](#chapter-2-economic-implications-of-genai)
+    - [Labor Markets and Employment](#labor-markets-and-employment)
+      - [Impact of GenAI on Job Creation and Displacement](#impact-of-genai-on-job-creation-and-displacement)
+      - [The Future Role of Human Labor](#the-future-role-of-human-labor)
+      - [Jevons' Theory Applied to AI Disruption](#jevons-theory-applied-to-ai-disruption)
+    - [Productivity and Economic Models](#productivity-and-economic-models)
+      - [Generative AI’s Influence on Productivity](#generative-ais-influence-on-productivity)
+      - [Evaluating Economic Growth in the GenAI Era](#evaluating-economic-growth-in-the-genai-era)
+      - [Revisiting Economic Models through Jevons' Lens](#revisiting-economic-models-through-jevons-lens)
+  - [Chapter 3: Ethical Considerations](#chapter-3-ethical-considerations)
+    - [Moral Dimensions of AI Deployment](#moral-dimensions-of-ai-deployment)
+      - [Efficiency vs. Ethical Concerns](#efficiency-vs-ethical-concerns)
+      - [The Societal Impact of AI Technologies](#the-societal-impact-of-ai-technologies)
+      - [Jevons' Advocacy for Social Welfare in Modern Context](#jevons-advocacy-for-social-welfare-in-modern-context)
+    - [Regulating Generative AI](#regulating-generative-ai)
+      - [The Need for Ethical Guidelines](#the-need-for-ethical-guidelines)
+      - [Balancing Innovation with Responsibility](#balancing-innovation-with-responsibility)
+      - [Case Studies of Ethical AI Implementation](#case-studies-of-ethical-ai-implementation)
+  - [Chapter 4: Practical Applications](#chapter-4-practical-applications)
+    - [Case Studies of Successful Integration](#case-studies-of-successful-integration)
+      - [Industry Leaders Leveraging GenAI](#industry-leaders-leveraging-genai)
+      - [Economic Principles in Practice](#economic-principles-in-practice)
+      - [Lessons Learned from Implementations](#lessons-learned-from-implementations)
+    - [Transformative Effects on Various Sectors](#transformative-effects-on-various-sectors)
+      - [Healthcare: Enhancements through AI](#healthcare-enhancements-through-ai)
+      - [Finance: AI-Driven Decision Making](#finance-ai-driven-decision-making)
+      - [Manufacturing: Efficiency Improvements](#manufacturing-efficiency-improvements)
+  - [Chapter 5: Future Trends](#chapter-5-future-trends)
+    - [Evolving Landscape of Generative AI](#evolving-landscape-of-generative-ai)
+      - [Predictions for AI Development](#predictions-for-ai-development)
+      - [The Impact of AI on Economic Theories](#the-impact-of-ai-on-economic-theories)
+      - [Integrating Jevons' Ideas into Future Economic Models](#integrating-jevons-ideas-into-future-economic-models)
+    - [Preparing for Change](#preparing-for-change)
+      - [Strategies for Economists and Policymakers](#strategies-for-economists-and-policymakers)
+      - [The Role of Education in Adapting to New Technologies](#the-role-of-education-in-adapting-to-new-technologies)
+      - [Fostering Innovation while Ensuring Ethical Standards](#fostering-innovation-while-ensuring-ethical-standards)
+  - [Conclusion: The Future of Economics in the Age of AI](#conclusion-the-future-of-economics-in-the-age-of-ai)
+    - [Summarising Key Insights](#summarising-key-insights)
+      - [The Lasting Influence of Jevons](#the-lasting-influence-of-jevons)
+      - [The Interplay of AI and Economic Theory](#the-interplay-of-ai-and-economic-theory)
+      - [Looking Ahead: Challenges and Opportunities](#looking-ahead-challenges-and-opportunities)
 
 
 ## Introduction: The Convergence of Jevons and Generative AI

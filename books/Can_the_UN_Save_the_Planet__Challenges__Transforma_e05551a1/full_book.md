@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance
-  - Introduction: The UN's Environmental Mandate in a World of Crisis
-    - The Global Environmental Challenge
-      - The Scale of the Climate Emergency
-      - Biodiversity Loss and Ecosystem Collapse
-      - The Need for Coordinated Global Action
-    - The UN as Environmental Guardian
-      - Origins of UN Environmental Leadership
-      - Current Role and Responsibilities
-      - Key Questions and Critiques
-  - From Stockholm to Paris: The Evolution of Global Environmental Governance
-    - Foundational Moments
-      - Stockholm Conference 1972
-      - Rio Earth Summit 1992
-      - Key Declarations and Principles
-    - Building the Architecture
-      - Creation and Evolution of UNEP
-      - Development of the UNFCCC
-      - Integration with Development Goals
-    - Modern Framework
-      - Paris Agreement Architecture
-      - Sustainable Development Goals
-      - Current Governance Structures
-  - Success and Failure: Evaluating UN Environmental Initiatives
-    - Notable Successes
-      - The Montreal Protocol
-      - Protection of World Heritage Sites
-      - International Species Conservation
-    - Persistent Challenges
-      - Climate Action Implementation
-      - Biodiversity Protection Gaps
-      - Resource Management Conflicts
-    - Lessons Learned
-      - Elements of Successful Initiatives
-      - Common Obstacles
-      - Best Practices and Guidelines
-  - Reforming for the Future: Innovation and Transformation
-    - Structural Reform Options
-      - Strengthening UNEP's Mandate
-      - Improving Coordination Mechanisms
-      - New Governance Models
-    - Technological Integration
-      - Digital Monitoring Systems
-      - Blockchain for Transparency
-      - AI in Environmental Management
-    - Financial Innovation
-      - Green Finance Mechanisms
-      - Carbon Markets Evolution
-      - Climate Investment Frameworks
-  - The Path Forward: Scenarios and Recommendations
-    - Future Scenarios
-      - Enhanced UN Leadership
-      - Alternative Governance Models
-      - Hybrid Approaches
-    - Critical Success Factors
-      - Political Will and Commitment
-      - Resource Mobilisation
-      - Stakeholder Engagement
-    - Recommendations for Action
-      - Immediate Priorities
-      - Medium-term Reforms
-      - Long-term Vision
+- [Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance](#can-the-un-save-the-planet-challenges-transformations-and-the-future-of-global-environmental-governance)
+  - [Introduction: The UN's Environmental Mandate in a World of Crisis](#introduction-the-uns-environmental-mandate-in-a-world-of-crisis)
+    - [The Global Environmental Challenge](#the-global-environmental-challenge)
+      - [The Scale of the Climate Emergency](#the-scale-of-the-climate-emergency)
+      - [Biodiversity Loss and Ecosystem Collapse](#biodiversity-loss-and-ecosystem-collapse)
+      - [The Need for Coordinated Global Action](#the-need-for-coordinated-global-action)
+    - [The UN as Environmental Guardian](#the-un-as-environmental-guardian)
+      - [Origins of UN Environmental Leadership](#origins-of-un-environmental-leadership)
+      - [Current Role and Responsibilities](#current-role-and-responsibilities)
+      - [Key Questions and Critiques](#key-questions-and-critiques)
+  - [From Stockholm to Paris: The Evolution of Global Environmental Governance](#from-stockholm-to-paris-the-evolution-of-global-environmental-governance)
+    - [Foundational Moments](#foundational-moments)
+      - [Stockholm Conference 1972](#stockholm-conference-1972)
+      - [Rio Earth Summit 1992](#rio-earth-summit-1992)
+      - [Key Declarations and Principles](#key-declarations-and-principles)
+    - [Building the Architecture](#building-the-architecture)
+      - [Creation and Evolution of UNEP](#creation-and-evolution-of-unep)
+      - [Development of the UNFCCC](#development-of-the-unfccc)
+      - [Integration with Development Goals](#integration-with-development-goals)
+    - [Modern Framework](#modern-framework)
+      - [Paris Agreement Architecture](#paris-agreement-architecture)
+      - [Sustainable Development Goals](#sustainable-development-goals)
+      - [Current Governance Structures](#current-governance-structures)
+  - [Success and Failure: Evaluating UN Environmental Initiatives](#success-and-failure-evaluating-un-environmental-initiatives)
+    - [Notable Successes](#notable-successes)
+      - [The Montreal Protocol](#the-montreal-protocol)
+      - [Protection of World Heritage Sites](#protection-of-world-heritage-sites)
+      - [International Species Conservation](#international-species-conservation)
+    - [Persistent Challenges](#persistent-challenges)
+      - [Climate Action Implementation](#climate-action-implementation)
+      - [Biodiversity Protection Gaps](#biodiversity-protection-gaps)
+      - [Resource Management Conflicts](#resource-management-conflicts)
+    - [Lessons Learned](#lessons-learned)
+      - [Elements of Successful Initiatives](#elements-of-successful-initiatives)
+      - [Common Obstacles](#common-obstacles)
+      - [Best Practices and Guidelines](#best-practices-and-guidelines)
+  - [Reforming for the Future: Innovation and Transformation](#reforming-for-the-future-innovation-and-transformation)
+    - [Structural Reform Options](#structural-reform-options)
+      - [Strengthening UNEP's Mandate](#strengthening-uneps-mandate)
+      - [Improving Coordination Mechanisms](#improving-coordination-mechanisms)
+      - [New Governance Models](#new-governance-models)
+    - [Technological Integration](#technological-integration)
+      - [Digital Monitoring Systems](#digital-monitoring-systems)
+      - [Blockchain for Transparency](#blockchain-for-transparency)
+      - [AI in Environmental Management](#ai-in-environmental-management)
+    - [Financial Innovation](#financial-innovation)
+      - [Green Finance Mechanisms](#green-finance-mechanisms)
+      - [Carbon Markets Evolution](#carbon-markets-evolution)
+      - [Climate Investment Frameworks](#climate-investment-frameworks)
+  - [The Path Forward: Scenarios and Recommendations](#the-path-forward-scenarios-and-recommendations)
+    - [Future Scenarios](#future-scenarios)
+      - [Enhanced UN Leadership](#enhanced-un-leadership)
+      - [Alternative Governance Models](#alternative-governance-models)
+      - [Hybrid Approaches](#hybrid-approaches)
+    - [Critical Success Factors](#critical-success-factors)
+      - [Political Will and Commitment](#political-will-and-commitment)
+      - [Resource Mobilisation](#resource-mobilisation)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+    - [Recommendations for Action](#recommendations-for-action)
+      - [Immediate Priorities](#immediate-priorities)
+      - [Medium-term Reforms](#medium-term-reforms)
+      - [Long-term Vision](#long-term-vision)
 
 
 ## Introduction: The UN's Environmental Mandate in a World of Crisis

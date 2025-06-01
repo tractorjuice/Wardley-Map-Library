@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Mathematical Models of Strategic Evolution: Innovate, Leverage, Commoditise
-  - Introduction to Strategic Evolution Modeling
-    - Foundations of Strategic Evolution
-      - The ILC Framework: Innovate, Leverage, Commoditise
-      - Mathematical Approaches to Strategy
-      - Key Components of Strategic Evolution
-    - Mathematical Fundamentals
-      - Quantitative Analysis Tools
-      - Statistical Methods in Strategy
-      - Game Theory Applications
-  - Modeling Innovation Phases
-    - Innovation Metrics and Variables
-      - Measuring Innovation Potential
-      - Risk Assessment Models
-      - Resource Allocation Optimization
-    - Innovation Phase Transitions
-      - Timing Models for Innovation
-      - Market Readiness Indicators
-      - Transition Point Analysis
-  - Leverage Phase Modeling
-    - Market Penetration Models
-      - Scaling Functions and Growth Curves
-      - Network Effect Quantification
-      - Market Share Optimization
-    - Resource Optimization
-      - Cost-Benefit Analysis Models
-      - Efficiency Metrics
-      - Investment Return Optimization
-  - Commoditisation Analysis
-    - Commoditisation Indicators
-      - Market Saturation Metrics
-      - Price Equilibrium Models
-      - Competition Analysis Functions
-    - Strategic Responses
-      - Diversification Models
-      - Value Chain Optimization
-      - Market Exit Timing
-  - Integrated Strategic Evolution Models
-    - System Dynamics
-      - Feedback Loop Analysis
-      - Component Interaction Models
-      - Evolution Path Prediction
-    - Practical Applications
-      - Case Study Analysis
-      - Implementation Frameworks
-      - Decision Support Systems
+- [Mathematical Models of Strategic Evolution: Innovate, Leverage, Commoditise](#mathematical-models-of-strategic-evolution-innovate-leverage-commoditise)
+  - [Introduction to Strategic Evolution Modeling](#introduction-to-strategic-evolution-modeling)
+    - [Foundations of Strategic Evolution](#foundations-of-strategic-evolution)
+      - [The ILC Framework: Innovate, Leverage, Commoditise](#the-ilc-framework-innovate-leverage-commoditise)
+      - [Mathematical Approaches to Strategy](#mathematical-approaches-to-strategy)
+      - [Key Components of Strategic Evolution](#key-components-of-strategic-evolution)
+    - [Mathematical Fundamentals](#mathematical-fundamentals)
+      - [Quantitative Analysis Tools](#quantitative-analysis-tools)
+      - [Statistical Methods in Strategy](#statistical-methods-in-strategy)
+      - [Game Theory Applications](#game-theory-applications)
+  - [Modeling Innovation Phases](#modeling-innovation-phases)
+    - [Innovation Metrics and Variables](#innovation-metrics-and-variables)
+      - [Measuring Innovation Potential](#measuring-innovation-potential)
+      - [Risk Assessment Models](#risk-assessment-models)
+      - [Resource Allocation Optimization](#resource-allocation-optimization)
+    - [Innovation Phase Transitions](#innovation-phase-transitions)
+      - [Timing Models for Innovation](#timing-models-for-innovation)
+      - [Market Readiness Indicators](#market-readiness-indicators)
+      - [Transition Point Analysis](#transition-point-analysis)
+  - [Leverage Phase Modeling](#leverage-phase-modeling)
+    - [Market Penetration Models](#market-penetration-models)
+      - [Scaling Functions and Growth Curves](#scaling-functions-and-growth-curves)
+      - [Network Effect Quantification](#network-effect-quantification)
+      - [Market Share Optimization](#market-share-optimization)
+    - [Resource Optimization](#resource-optimization)
+      - [Cost-Benefit Analysis Models](#cost-benefit-analysis-models)
+      - [Efficiency Metrics](#efficiency-metrics)
+      - [Investment Return Optimization](#investment-return-optimization)
+  - [Commoditisation Analysis](#commoditisation-analysis)
+    - [Commoditisation Indicators](#commoditisation-indicators)
+      - [Market Saturation Metrics](#market-saturation-metrics)
+      - [Price Equilibrium Models](#price-equilibrium-models)
+      - [Competition Analysis Functions](#competition-analysis-functions)
+    - [Strategic Responses](#strategic-responses)
+      - [Diversification Models](#diversification-models)
+      - [Value Chain Optimization](#value-chain-optimization)
+      - [Market Exit Timing](#market-exit-timing)
+  - [Integrated Strategic Evolution Models](#integrated-strategic-evolution-models)
+    - [System Dynamics](#system-dynamics)
+      - [Feedback Loop Analysis](#feedback-loop-analysis)
+      - [Component Interaction Models](#component-interaction-models)
+      - [Evolution Path Prediction](#evolution-path-prediction)
+    - [Practical Applications](#practical-applications)
+      - [Case Study Analysis](#case-study-analysis)
+      - [Implementation Frameworks](#implementation-frameworks)
+      - [Decision Support Systems](#decision-support-systems)
 
 
 ## Introduction to Strategic Evolution Modeling

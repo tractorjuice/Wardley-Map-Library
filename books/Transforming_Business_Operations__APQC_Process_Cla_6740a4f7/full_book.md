@@ -2,65 +2,65 @@
 
 # Table of Contents
 
-- Transforming Business Operations: APQC Process Classification in the Age of Generative AI
-  - Introduction: The Convergence of Process Classification and AI
-    - The Evolution of Business Process Management
-      - Historical Context of APQC Process Classification
-      - The Rise of Generative AI in Business Operations
-      - Current State of Process Management
-    - Setting the Foundation
-      - Book Overview and Objectives
-      - Key Concepts and Terminology
-      - How to Use This Book
-  - APQC Process Classification Framework Fundamentals
-    - Core Components and Structure
-      - Process Categories and Hierarchies
-      - Cross-Industry vs Industry-Specific Applications
-      - Performance Metrics and Benchmarking
-    - Digital Evolution of PCF
-      - Modernisation Initiatives
-      - Digital Integration Points
-      - Framework Adaptability
-  - Integrating GenAI with APQC Process Classifications
-    - Operational Process Enhancement
-      - Supply Chain and Manufacturing
-      - Customer Service and Support
-      - Sales and Marketing Operations
-    - Management and Support Processes
-      - Financial and Administrative Functions
-      - Human Capital Management
-      - Information Technology Services
-    - Strategic Planning and Development
-      - Vision and Strategy Development
-      - Market Analysis and Intelligence
-      - Product/Service Innovation
-  - Governance and Risk Management
-    - Risk Assessment Framework
-      - AI Implementation Risk Factors
-      - Compliance and Regulatory Considerations
-      - Data Security and Privacy
-    - Governance Structures
-      - AI Oversight Mechanisms
-      - Process Control Systems
-      - Performance Monitoring
-  - Implementation and Change Management
-    - Strategic Implementation
-      - Readiness Assessment
-      - Pilot Program Design
-      - Scaling Strategies
-    - Change Management
-      - Stakeholder Engagement
-      - Training and Development
-      - Cultural Transformation
-  - Future-Proofing Business Processes
-    - Adaptive Frameworks
-      - Flexible Process Design
-      - Scalability Considerations
-      - Technology Integration Pathways
-    - Continuous Improvement
-      - Performance Measurement
-      - Feedback Loops
-      - Innovation Management
+- [Transforming Business Operations: APQC Process Classification in the Age of Generative AI](#transforming-business-operations-apqc-process-classification-in-the-age-of-generative-ai)
+  - [Introduction: The Convergence of Process Classification and AI](#introduction-the-convergence-of-process-classification-and-ai)
+    - [The Evolution of Business Process Management](#the-evolution-of-business-process-management)
+      - [Historical Context of APQC Process Classification](#historical-context-of-apqc-process-classification)
+      - [The Rise of Generative AI in Business Operations](#the-rise-of-generative-ai-in-business-operations)
+      - [Current State of Process Management](#current-state-of-process-management)
+    - [Setting the Foundation](#setting-the-foundation)
+      - [Book Overview and Objectives](#book-overview-and-objectives)
+      - [Key Concepts and Terminology](#key-concepts-and-terminology)
+      - [How to Use This Book](#how-to-use-this-book)
+  - [APQC Process Classification Framework Fundamentals](#apqc-process-classification-framework-fundamentals)
+    - [Core Components and Structure](#core-components-and-structure)
+      - [Process Categories and Hierarchies](#process-categories-and-hierarchies)
+      - [Cross-Industry vs Industry-Specific Applications](#cross-industry-vs-industry-specific-applications)
+      - [Performance Metrics and Benchmarking](#performance-metrics-and-benchmarking)
+    - [Digital Evolution of PCF](#digital-evolution-of-pcf)
+      - [Modernisation Initiatives](#modernisation-initiatives)
+      - [Digital Integration Points](#digital-integration-points)
+      - [Framework Adaptability](#framework-adaptability)
+  - [Integrating GenAI with APQC Process Classifications](#integrating-genai-with-apqc-process-classifications)
+    - [Operational Process Enhancement](#operational-process-enhancement)
+      - [Supply Chain and Manufacturing](#supply-chain-and-manufacturing)
+      - [Customer Service and Support](#customer-service-and-support)
+      - [Sales and Marketing Operations](#sales-and-marketing-operations)
+    - [Management and Support Processes](#management-and-support-processes)
+      - [Financial and Administrative Functions](#financial-and-administrative-functions)
+      - [Human Capital Management](#human-capital-management)
+      - [Information Technology Services](#information-technology-services)
+    - [Strategic Planning and Development](#strategic-planning-and-development)
+      - [Vision and Strategy Development](#vision-and-strategy-development)
+      - [Market Analysis and Intelligence](#market-analysis-and-intelligence)
+      - [Product/Service Innovation](#productservice-innovation)
+  - [Governance and Risk Management](#governance-and-risk-management)
+    - [Risk Assessment Framework](#risk-assessment-framework)
+      - [AI Implementation Risk Factors](#ai-implementation-risk-factors)
+      - [Compliance and Regulatory Considerations](#compliance-and-regulatory-considerations)
+      - [Data Security and Privacy](#data-security-and-privacy)
+    - [Governance Structures](#governance-structures)
+      - [AI Oversight Mechanisms](#ai-oversight-mechanisms)
+      - [Process Control Systems](#process-control-systems)
+      - [Performance Monitoring](#performance-monitoring)
+  - [Implementation and Change Management](#implementation-and-change-management)
+    - [Strategic Implementation](#strategic-implementation)
+      - [Readiness Assessment](#readiness-assessment)
+      - [Pilot Program Design](#pilot-program-design)
+      - [Scaling Strategies](#scaling-strategies)
+    - [Change Management](#change-management)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Training and Development](#training-and-development)
+      - [Cultural Transformation](#cultural-transformation)
+  - [Future-Proofing Business Processes](#future-proofing-business-processes)
+    - [Adaptive Frameworks](#adaptive-frameworks)
+      - [Flexible Process Design](#flexible-process-design)
+      - [Scalability Considerations](#scalability-considerations)
+      - [Technology Integration Pathways](#technology-integration-pathways)
+    - [Continuous Improvement](#continuous-improvement)
+      - [Performance Measurement](#performance-measurement)
+      - [Feedback Loops](#feedback-loops)
+      - [Innovation Management](#innovation-management)
 
 
 ## Introduction: The Convergence of Process Classification and AI

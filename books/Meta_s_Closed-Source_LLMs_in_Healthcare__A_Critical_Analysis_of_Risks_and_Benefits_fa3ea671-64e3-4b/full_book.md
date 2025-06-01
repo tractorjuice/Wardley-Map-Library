@@ -4,68 +4,68 @@
 
 # Table of Contents
 
-- Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Healthcare AI Revolution
-  - The Evolution of AI in Healthcare
-    - Historical Context and Development
-    - Current State of LLMs in Healthcare
-    - Meta's Role in Healthcare AI
-  - Understanding Closed-Source LLMs
-    - Technical Foundations
-    - Proprietary vs Open-Source Models
-    - Meta's LLM Architecture
-- Risk Assessment and Security Framework
-  - Security Considerations
-    - Data Protection Protocols
-    - Access Control Mechanisms
-    - Vulnerability Assessment
-  - Privacy Compliance
-    - HIPAA Compliance Requirements
-    - GDPR and International Standards
-    - Data Governance Frameworks
-  - Clinical Risk Management
-    - Patient Safety Protocols
-    - Clinical Validation Methods
-    - Error Management Systems
-- Implementation Strategy and Integration
-  - Technical Integration
-    - Infrastructure Requirements
-    - API Integration Protocols
-    - Performance Optimization
-  - Organizational Change Management
-    - Staff Training Programs
-    - Workflow Integration
-    - Resistance Management
-  - Cost-Benefit Analysis
-    - Implementation Costs
-    - ROI Calculations
-    - Long-term Value Assessment
-- Ethical Considerations and Decision Framework
-  - Ethical Decision Matrix
-    - Stakeholder Impact Analysis
-    - Bias Assessment
-    - Fairness Metrics
-  - Regulatory Compliance
-    - Current Regulations
-    - Future Regulatory Trends
-    - Compliance Strategies
-- Future-Proofing and Adaptation
-  - Technology Evolution
-    - Emerging AI Trends
-    - Adaptation Strategies
-    - Scalability Planning
-  - Case Studies
-    - Success Stories
-    - Implementation Challenges
-    - Lessons Learned
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialised Applications
+- [Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits](#metas-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Healthcare AI Revolution](#introduction-the-healthcare-ai-revolution)
+  - [The Evolution of AI in Healthcare](#the-evolution-of-ai-in-healthcare)
+    - [Historical Context and Development](#historical-context-and-development)
+    - [Current State of LLMs in Healthcare](#current-state-of-llms-in-healthcare)
+    - [Meta's Role in Healthcare AI](#metas-role-in-healthcare-ai)
+  - [Understanding Closed-Source LLMs](#understanding-closed-source-llms)
+    - [Technical Foundations](#technical-foundations)
+    - [Proprietary vs Open-Source Models](#proprietary-vs-open-source-models)
+    - [Meta's LLM Architecture](#metas-llm-architecture)
+- [Risk Assessment and Security Framework](#risk-assessment-and-security-framework)
+  - [Security Considerations](#security-considerations)
+    - [Data Protection Protocols](#data-protection-protocols)
+    - [Access Control Mechanisms](#access-control-mechanisms)
+    - [Vulnerability Assessment](#vulnerability-assessment)
+  - [Privacy Compliance](#privacy-compliance)
+    - [HIPAA Compliance Requirements](#hipaa-compliance-requirements)
+    - [GDPR and International Standards](#gdpr-and-international-standards)
+    - [Data Governance Frameworks](#data-governance-frameworks)
+  - [Clinical Risk Management](#clinical-risk-management)
+    - [Patient Safety Protocols](#patient-safety-protocols)
+    - [Clinical Validation Methods](#clinical-validation-methods)
+    - [Error Management Systems](#error-management-systems)
+- [Implementation Strategy and Integration](#implementation-strategy-and-integration)
+  - [Technical Integration](#technical-integration)
+    - [Infrastructure Requirements](#infrastructure-requirements)
+    - [API Integration Protocols](#api-integration-protocols)
+    - [Performance Optimization](#performance-optimization)
+  - [Organizational Change Management](#organizational-change-management)
+    - [Staff Training Programs](#staff-training-programs)
+    - [Workflow Integration](#workflow-integration)
+    - [Resistance Management](#resistance-management)
+  - [Cost-Benefit Analysis](#cost-benefit-analysis)
+    - [Implementation Costs](#implementation-costs)
+    - [ROI Calculations](#roi-calculations)
+    - [Long-term Value Assessment](#long-term-value-assessment)
+- [Ethical Considerations and Decision Framework](#ethical-considerations-and-decision-framework)
+  - [Ethical Decision Matrix](#ethical-decision-matrix)
+    - [Stakeholder Impact Analysis](#stakeholder-impact-analysis)
+    - [Bias Assessment](#bias-assessment)
+    - [Fairness Metrics](#fairness-metrics)
+  - [Regulatory Compliance](#regulatory-compliance)
+    - [Current Regulations](#current-regulations)
+    - [Future Regulatory Trends](#future-regulatory-trends)
+    - [Compliance Strategies](#compliance-strategies)
+- [Future-Proofing and Adaptation](#future-proofing-and-adaptation)
+  - [Technology Evolution](#technology-evolution)
+    - [Emerging AI Trends](#emerging-ai-trends)
+    - [Adaptation Strategies](#adaptation-strategies)
+    - [Scalability Planning](#scalability-planning)
+  - [Case Studies](#case-studies)
+    - [Success Stories](#success-stories)
+    - [Implementation Challenges](#implementation-challenges)
+    - [Lessons Learned](#lessons-learned)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialised Applications](#specialised-applications)
 
 
 # Introduction: The Healthcare AI Revolution

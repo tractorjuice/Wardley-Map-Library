@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Platform Mastery: Strategic Design and Mapping for Digital Success
-  - Introduction: The Platform Economy Revolution
-    - Understanding Modern Platform Dynamics
-      - Evolution of Digital Platforms
-      - Current Market Landscape
-      - Why Platform Design Matters
-    - Foundation Concepts
-      - Platform Design Toolkit Overview
-      - Wardley Mapping Fundamentals
-      - Integration Benefits
-  - Strategic Platform Architecture
-    - Platform Design Toolkit Implementation
-      - Ecosystem Canvas Development
-      - Transaction Board Mapping
-      - Learning Engine Design
-    - Wardley Mapping for Platform Strategy
-      - Value Chain Analysis
-      - Evolution Assessment
-      - Strategic Positioning
-    - Integration Framework
-      - Combining PDT and Wardley Maps
-      - Strategic Decision Matrix
-      - Risk Assessment Integration
-  - Ecosystem Value Creation and Network Effects
-    - Multi-sided Market Dynamics
-      - Participant Role Definition
-      - Value Exchange Mapping
-      - Network Effect Catalysts
-    - AI and Automation Integration
-      - AI Architecture Planning
-      - Automation Opportunity Mapping
-      - Implementation Strategies
-  - Governance and Risk Management
-    - Platform Governance Framework
-      - Policy Development
-      - Compliance Mapping
-      - Stakeholder Management
-    - Risk Management Strategies
-      - Risk Assessment Tools
-      - Mitigation Planning
-      - Monitoring Systems
-  - Implementation and Case Studies
-    - Implementation Roadmap
-      - Phase Planning
-      - Resource Allocation
-      - Success Metrics
-    - Industry Case Studies
-      - Technology Sector Examples
-      - Traditional Industry Transformations
-      - Emerging Market Applications
+- [Platform Mastery: Strategic Design and Mapping for Digital Success](#platform-mastery-strategic-design-and-mapping-for-digital-success)
+  - [Introduction: The Platform Economy Revolution](#introduction-the-platform-economy-revolution)
+    - [Understanding Modern Platform Dynamics](#understanding-modern-platform-dynamics)
+      - [Evolution of Digital Platforms](#evolution-of-digital-platforms)
+      - [Current Market Landscape](#current-market-landscape)
+      - [Why Platform Design Matters](#why-platform-design-matters)
+    - [Foundation Concepts](#foundation-concepts)
+      - [Platform Design Toolkit Overview](#platform-design-toolkit-overview)
+      - [Wardley Mapping Fundamentals](#wardley-mapping-fundamentals)
+      - [Integration Benefits](#integration-benefits)
+  - [Strategic Platform Architecture](#strategic-platform-architecture)
+    - [Platform Design Toolkit Implementation](#platform-design-toolkit-implementation)
+      - [Ecosystem Canvas Development](#ecosystem-canvas-development)
+      - [Transaction Board Mapping](#transaction-board-mapping)
+      - [Learning Engine Design](#learning-engine-design)
+    - [Wardley Mapping for Platform Strategy](#wardley-mapping-for-platform-strategy)
+      - [Value Chain Analysis](#value-chain-analysis)
+      - [Evolution Assessment](#evolution-assessment)
+      - [Strategic Positioning](#strategic-positioning)
+    - [Integration Framework](#integration-framework)
+      - [Combining PDT and Wardley Maps](#combining-pdt-and-wardley-maps)
+      - [Strategic Decision Matrix](#strategic-decision-matrix)
+      - [Risk Assessment Integration](#risk-assessment-integration)
+  - [Ecosystem Value Creation and Network Effects](#ecosystem-value-creation-and-network-effects)
+    - [Multi-sided Market Dynamics](#multi-sided-market-dynamics)
+      - [Participant Role Definition](#participant-role-definition)
+      - [Value Exchange Mapping](#value-exchange-mapping)
+      - [Network Effect Catalysts](#network-effect-catalysts)
+    - [AI and Automation Integration](#ai-and-automation-integration)
+      - [AI Architecture Planning](#ai-architecture-planning)
+      - [Automation Opportunity Mapping](#automation-opportunity-mapping)
+      - [Implementation Strategies](#implementation-strategies)
+  - [Governance and Risk Management](#governance-and-risk-management)
+    - [Platform Governance Framework](#platform-governance-framework)
+      - [Policy Development](#policy-development)
+      - [Compliance Mapping](#compliance-mapping)
+      - [Stakeholder Management](#stakeholder-management)
+    - [Risk Management Strategies](#risk-management-strategies)
+      - [Risk Assessment Tools](#risk-assessment-tools)
+      - [Mitigation Planning](#mitigation-planning)
+      - [Monitoring Systems](#monitoring-systems)
+  - [Implementation and Case Studies](#implementation-and-case-studies)
+    - [Implementation Roadmap](#implementation-roadmap)
+      - [Phase Planning](#phase-planning)
+      - [Resource Allocation](#resource-allocation)
+      - [Success Metrics](#success-metrics)
+    - [Industry Case Studies](#industry-case-studies)
+      - [Technology Sector Examples](#technology-sector-examples)
+      - [Traditional Industry Transformations](#traditional-industry-transformations)
+      - [Emerging Market Applications](#emerging-market-applications)
 
 
 ## Introduction: The Platform Economy Revolution

@@ -2,67 +2,67 @@
 
 # Table of Contents
 
-- Secure by Design: Implementing UK Government Security Standards in Modern Systems
-  - Introduction to UK Government's Secure by Design Framework
-    - Understanding Secure by Design Principles
-      - Core Principles and Objectives
-      - Regulatory Context and Compliance Requirements
-      - Business Benefits and Risk Mitigation
-      - Key Stakeholders and Responsibilities
-    - Strategic Planning and Assessment
-      - Initial Security Posture Assessment
-      - Gap Analysis Methodology
-      - Resource Planning and Allocation
-      - Timeline Development
-  - Technical Implementation Framework
-    - Security Architecture Patterns
-      - Reference Architecture Models
-      - Security Control Integration
-      - API Security Patterns
-      - Data Protection Mechanisms
-    - Code-level Security Implementation
-      - Secure Coding Standards
-      - Authentication and Authorization
-      - Encryption Implementation
-      - Security Testing Frameworks
-    - Infrastructure Security
-      - Network Security Architecture
-      - Cloud Security Controls
-      - Container Security
-      - Monitoring and Logging
-  - Risk Management and Compliance
-    - Risk Assessment Methodology
-      - Threat Modeling Techniques
-      - Vulnerability Assessment
-      - Impact Analysis
-      - Risk Prioritization
-    - Compliance Framework Integration
-      - Regulatory Requirements Mapping
-      - Control Implementation
-      - Audit Preparation
-      - Continuous Compliance Monitoring
-  - Organizational Implementation
-    - Security Culture Development
-      - Training and Awareness Programs
-      - Role-based Security Responsibilities
-      - Communication Strategies
-      - Measuring Security Culture
-    - Change Management
-      - Stakeholder Engagement
-      - Resistance Management
-      - Implementation Phases
-      - Success Metrics
-  - Case Studies and Best Practices
-    - Success Stories
-      - Public Sector Implementations
-      - Private Sector Adaptations
-      - Key Success Factors
-      - Measurable Outcomes
-    - Lessons Learned
-      - Common Implementation Challenges
-      - Risk Mitigation Strategies
-      - Adaptation Strategies
-      - Future Considerations
+- [Secure by Design: Implementing UK Government Security Standards in Modern Systems](#secure-by-design-implementing-uk-government-security-standards-in-modern-systems)
+  - [Introduction to UK Government's Secure by Design Framework](#introduction-to-uk-governments-secure-by-design-framework)
+    - [Understanding Secure by Design Principles](#understanding-secure-by-design-principles)
+      - [Core Principles and Objectives](#core-principles-and-objectives)
+      - [Regulatory Context and Compliance Requirements](#regulatory-context-and-compliance-requirements)
+      - [Business Benefits and Risk Mitigation](#business-benefits-and-risk-mitigation)
+      - [Key Stakeholders and Responsibilities](#key-stakeholders-and-responsibilities)
+    - [Strategic Planning and Assessment](#strategic-planning-and-assessment)
+      - [Initial Security Posture Assessment](#initial-security-posture-assessment)
+      - [Gap Analysis Methodology](#gap-analysis-methodology)
+      - [Resource Planning and Allocation](#resource-planning-and-allocation)
+      - [Timeline Development](#timeline-development)
+  - [Technical Implementation Framework](#technical-implementation-framework)
+    - [Security Architecture Patterns](#security-architecture-patterns)
+      - [Reference Architecture Models](#reference-architecture-models)
+      - [Security Control Integration](#security-control-integration)
+      - [API Security Patterns](#api-security-patterns)
+      - [Data Protection Mechanisms](#data-protection-mechanisms)
+    - [Code-level Security Implementation](#code-level-security-implementation)
+      - [Secure Coding Standards](#secure-coding-standards)
+      - [Authentication and Authorization](#authentication-and-authorization)
+      - [Encryption Implementation](#encryption-implementation)
+      - [Security Testing Frameworks](#security-testing-frameworks)
+    - [Infrastructure Security](#infrastructure-security)
+      - [Network Security Architecture](#network-security-architecture)
+      - [Cloud Security Controls](#cloud-security-controls)
+      - [Container Security](#container-security)
+      - [Monitoring and Logging](#monitoring-and-logging)
+  - [Risk Management and Compliance](#risk-management-and-compliance)
+    - [Risk Assessment Methodology](#risk-assessment-methodology)
+      - [Threat Modeling Techniques](#threat-modeling-techniques)
+      - [Vulnerability Assessment](#vulnerability-assessment)
+      - [Impact Analysis](#impact-analysis)
+      - [Risk Prioritization](#risk-prioritization)
+    - [Compliance Framework Integration](#compliance-framework-integration)
+      - [Regulatory Requirements Mapping](#regulatory-requirements-mapping)
+      - [Control Implementation](#control-implementation)
+      - [Audit Preparation](#audit-preparation)
+      - [Continuous Compliance Monitoring](#continuous-compliance-monitoring)
+  - [Organizational Implementation](#organizational-implementation)
+    - [Security Culture Development](#security-culture-development)
+      - [Training and Awareness Programs](#training-and-awareness-programs)
+      - [Role-based Security Responsibilities](#role-based-security-responsibilities)
+      - [Communication Strategies](#communication-strategies)
+      - [Measuring Security Culture](#measuring-security-culture)
+    - [Change Management](#change-management)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Resistance Management](#resistance-management)
+      - [Implementation Phases](#implementation-phases)
+      - [Success Metrics](#success-metrics)
+  - [Case Studies and Best Practices](#case-studies-and-best-practices)
+    - [Success Stories](#success-stories)
+      - [Public Sector Implementations](#public-sector-implementations)
+      - [Private Sector Adaptations](#private-sector-adaptations)
+      - [Key Success Factors](#key-success-factors)
+      - [Measurable Outcomes](#measurable-outcomes)
+    - [Lessons Learned](#lessons-learned)
+      - [Common Implementation Challenges](#common-implementation-challenges)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+      - [Adaptation Strategies](#adaptation-strategies)
+      - [Future Considerations](#future-considerations)
 
 
 ## Introduction to UK Government's Secure by Design Framework

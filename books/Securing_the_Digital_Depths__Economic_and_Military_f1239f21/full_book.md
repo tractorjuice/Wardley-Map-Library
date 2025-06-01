@@ -2,60 +2,60 @@
 
 # Table of Contents
 
-- Securing the Digital Depths: Economic and Military Strategies Against Russian Submarine Cable Operations
-  - Introduction: The Undersea Battlefield
-    - The Critical Nature of Submarine Cable Infrastructure
-      - Global Economic Dependencies
-      - Military Communication Networks
-      - Current Threat Landscape
-    - Understanding Russian Maritime Strategy
-      - Evolution of Naval Doctrine
-      - Strategic Focus on Undersea Operations
-      - Integration with Hybrid Warfare
-  - Economic Defense Framework
-    - Financial Market Protection
-      - Critical Trading Infrastructure
-      - Market Circuit Breakers
-      - Alternative Trading Systems
-    - Business Continuity Planning
-      - Redundancy Requirements
-      - Emergency Communication Protocols
-      - Recovery Time Objectives
-    - Insurance and Risk Management
-      - Coverage Frameworks
-      - Risk Assessment Models
-      - Public-Private Risk Sharing
-  - Military Response Strategy
-    - Detection and Surveillance
-      - Advanced Monitoring Systems
-      - Early Warning Networks
-      - Intelligence Sharing Protocols
-    - Deterrence Operations
-      - Naval Presence Strategy
-      - Response Force Structure
-      - Escalation Management
-    - NATO Integration
-      - Allied Response Frameworks
-      - Joint Exercise Programs
-      - Resource Sharing Agreements
-  - Legal and Regulatory Framework
-    - International Maritime Law
-      - UNCLOS Applications
-      - State Responsibility
-      - Enforcement Mechanisms
-    - Regulatory Standards
-      - Infrastructure Protection Requirements
-      - Operator Obligations
-      - Compliance Monitoring
-  - Future Resilience Planning
-    - Technological Innovation
-      - Cable Protection Systems
-      - Alternative Communication Networks
-      - Quantum Security Applications
-    - Strategic Infrastructure Development
-      - Route Diversification
-      - Landing Station Hardening
-      - Redundancy Implementation
+- [Securing the Digital Depths: Economic and Military Strategies Against Russian Submarine Cable Operations](#securing-the-digital-depths-economic-and-military-strategies-against-russian-submarine-cable-operations)
+  - [Introduction: The Undersea Battlefield](#introduction-the-undersea-battlefield)
+    - [The Critical Nature of Submarine Cable Infrastructure](#the-critical-nature-of-submarine-cable-infrastructure)
+      - [Global Economic Dependencies](#global-economic-dependencies)
+      - [Military Communication Networks](#military-communication-networks)
+      - [Current Threat Landscape](#current-threat-landscape)
+    - [Understanding Russian Maritime Strategy](#understanding-russian-maritime-strategy)
+      - [Evolution of Naval Doctrine](#evolution-of-naval-doctrine)
+      - [Strategic Focus on Undersea Operations](#strategic-focus-on-undersea-operations)
+      - [Integration with Hybrid Warfare](#integration-with-hybrid-warfare)
+  - [Economic Defense Framework](#economic-defense-framework)
+    - [Financial Market Protection](#financial-market-protection)
+      - [Critical Trading Infrastructure](#critical-trading-infrastructure)
+      - [Market Circuit Breakers](#market-circuit-breakers)
+      - [Alternative Trading Systems](#alternative-trading-systems)
+    - [Business Continuity Planning](#business-continuity-planning)
+      - [Redundancy Requirements](#redundancy-requirements)
+      - [Emergency Communication Protocols](#emergency-communication-protocols)
+      - [Recovery Time Objectives](#recovery-time-objectives)
+    - [Insurance and Risk Management](#insurance-and-risk-management)
+      - [Coverage Frameworks](#coverage-frameworks)
+      - [Risk Assessment Models](#risk-assessment-models)
+      - [Public-Private Risk Sharing](#public-private-risk-sharing)
+  - [Military Response Strategy](#military-response-strategy)
+    - [Detection and Surveillance](#detection-and-surveillance)
+      - [Advanced Monitoring Systems](#advanced-monitoring-systems)
+      - [Early Warning Networks](#early-warning-networks)
+      - [Intelligence Sharing Protocols](#intelligence-sharing-protocols)
+    - [Deterrence Operations](#deterrence-operations)
+      - [Naval Presence Strategy](#naval-presence-strategy)
+      - [Response Force Structure](#response-force-structure)
+      - [Escalation Management](#escalation-management)
+    - [NATO Integration](#nato-integration)
+      - [Allied Response Frameworks](#allied-response-frameworks)
+      - [Joint Exercise Programs](#joint-exercise-programs)
+      - [Resource Sharing Agreements](#resource-sharing-agreements)
+  - [Legal and Regulatory Framework](#legal-and-regulatory-framework)
+    - [International Maritime Law](#international-maritime-law)
+      - [UNCLOS Applications](#unclos-applications)
+      - [State Responsibility](#state-responsibility)
+      - [Enforcement Mechanisms](#enforcement-mechanisms)
+    - [Regulatory Standards](#regulatory-standards)
+      - [Infrastructure Protection Requirements](#infrastructure-protection-requirements)
+      - [Operator Obligations](#operator-obligations)
+      - [Compliance Monitoring](#compliance-monitoring)
+  - [Future Resilience Planning](#future-resilience-planning)
+    - [Technological Innovation](#technological-innovation)
+      - [Cable Protection Systems](#cable-protection-systems)
+      - [Alternative Communication Networks](#alternative-communication-networks)
+      - [Quantum Security Applications](#quantum-security-applications)
+    - [Strategic Infrastructure Development](#strategic-infrastructure-development)
+      - [Route Diversification](#route-diversification)
+      - [Landing Station Hardening](#landing-station-hardening)
+      - [Redundancy Implementation](#redundancy-implementation)
 
 
 ## Introduction: The Undersea Battlefield

@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Maps to Action: Mastering Strategy Development Through Wardley Mapping
-  - Introduction: The Power of Strategic Mapping
-    - Understanding the Strategic Landscape
-      - The Evolution of Strategic Planning
-      - Why Traditional Methods Fall Short
-      - Introduction to Wardley Mapping
-      - The Promise of Visual Strategy
-  - Chapter 1: Foundations of Wardley Mapping
-    - Core Components and Principles
-      - Value Chain Basics
-      - Evolution Axis Explained
-      - Component Positioning
-      - Movement and Dependencies
-    - Map Construction Fundamentals
-      - Identifying User Needs
-      - Mapping Components
-      - Understanding Evolution
-      - Validating Your Map
-  - Chapter 2: From Analysis to Strategy
-    - Strategic Landscape Assessment
-      - Competitive Position Analysis
-      - Market Evolution Patterns
-      - Digital Transformation Opportunities
-      - Identifying Strategic Leverage Points
-    - Decision Framework Development
-      - Creating Decision Matrices
-      - Prioritisation Methods
-      - Risk Assessment Tools
-      - Timeline Development
-  - Chapter 3: Implementation and Execution
-    - Action Planning
-      - Converting Maps to Action Plans
-      - Resource Allocation
-      - Milestone Setting
-      - Progress Tracking Methods
-    - Change Management Integration
-      - Stakeholder Engagement
-      - Communication Strategies
-      - Resistance Management
-      - Cultural Adaptation
-  - Chapter 4: Cross-Industry Applications
-    - Sector-Specific Case Studies
-      - Technology Sector Examples
-      - Healthcare Applications
-      - Financial Services Cases
-      - Manufacturing Implementations
-    - Common Patterns and Lessons
-      - Cross-Industry Insights
-      - Adaptation Strategies
-      - Success Factors
-      - Common Pitfalls
-  - Chapter 5: Future-State Planning
-    - Scenario Development
-      - Future State Mapping
-      - Technology Evolution Prediction
-      - Market Shift Analysis
-      - Opportunity Identification
-    - Strategic Adaptation
-      - Flexibility in Planning
-      - Response Mechanisms
-      - Innovation Integration
-      - Continuous Evolution
+- [Maps to Action: Mastering Strategy Development Through Wardley Mapping](#maps-to-action-mastering-strategy-development-through-wardley-mapping)
+  - [Introduction: The Power of Strategic Mapping](#introduction-the-power-of-strategic-mapping)
+    - [Understanding the Strategic Landscape](#understanding-the-strategic-landscape)
+      - [The Evolution of Strategic Planning](#the-evolution-of-strategic-planning)
+      - [Why Traditional Methods Fall Short](#why-traditional-methods-fall-short)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [The Promise of Visual Strategy](#the-promise-of-visual-strategy)
+  - [Chapter 1: Foundations of Wardley Mapping](#chapter-1-foundations-of-wardley-mapping)
+    - [Core Components and Principles](#core-components-and-principles)
+      - [Value Chain Basics](#value-chain-basics)
+      - [Evolution Axis Explained](#evolution-axis-explained)
+      - [Component Positioning](#component-positioning)
+      - [Movement and Dependencies](#movement-and-dependencies)
+    - [Map Construction Fundamentals](#map-construction-fundamentals)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Components](#mapping-components)
+      - [Understanding Evolution](#understanding-evolution)
+      - [Validating Your Map](#validating-your-map)
+  - [Chapter 2: From Analysis to Strategy](#chapter-2-from-analysis-to-strategy)
+    - [Strategic Landscape Assessment](#strategic-landscape-assessment)
+      - [Competitive Position Analysis](#competitive-position-analysis)
+      - [Market Evolution Patterns](#market-evolution-patterns)
+      - [Digital Transformation Opportunities](#digital-transformation-opportunities)
+      - [Identifying Strategic Leverage Points](#identifying-strategic-leverage-points)
+    - [Decision Framework Development](#decision-framework-development)
+      - [Creating Decision Matrices](#creating-decision-matrices)
+      - [Prioritisation Methods](#prioritisation-methods)
+      - [Risk Assessment Tools](#risk-assessment-tools)
+      - [Timeline Development](#timeline-development)
+  - [Chapter 3: Implementation and Execution](#chapter-3-implementation-and-execution)
+    - [Action Planning](#action-planning)
+      - [Converting Maps to Action Plans](#converting-maps-to-action-plans)
+      - [Resource Allocation](#resource-allocation)
+      - [Milestone Setting](#milestone-setting)
+      - [Progress Tracking Methods](#progress-tracking-methods)
+    - [Change Management Integration](#change-management-integration)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Communication Strategies](#communication-strategies)
+      - [Resistance Management](#resistance-management)
+      - [Cultural Adaptation](#cultural-adaptation)
+  - [Chapter 4: Cross-Industry Applications](#chapter-4-cross-industry-applications)
+    - [Sector-Specific Case Studies](#sector-specific-case-studies)
+      - [Technology Sector Examples](#technology-sector-examples)
+      - [Healthcare Applications](#healthcare-applications)
+      - [Financial Services Cases](#financial-services-cases)
+      - [Manufacturing Implementations](#manufacturing-implementations)
+    - [Common Patterns and Lessons](#common-patterns-and-lessons)
+      - [Cross-Industry Insights](#cross-industry-insights)
+      - [Adaptation Strategies](#adaptation-strategies)
+      - [Success Factors](#success-factors)
+      - [Common Pitfalls](#common-pitfalls)
+  - [Chapter 5: Future-State Planning](#chapter-5-future-state-planning)
+    - [Scenario Development](#scenario-development)
+      - [Future State Mapping](#future-state-mapping)
+      - [Technology Evolution Prediction](#technology-evolution-prediction)
+      - [Market Shift Analysis](#market-shift-analysis)
+      - [Opportunity Identification](#opportunity-identification)
+    - [Strategic Adaptation](#strategic-adaptation)
+      - [Flexibility in Planning](#flexibility-in-planning)
+      - [Response Mechanisms](#response-mechanisms)
+      - [Innovation Integration](#innovation-integration)
+      - [Continuous Evolution](#continuous-evolution)
 
 
 ## Introduction: The Power of Strategic Mapping

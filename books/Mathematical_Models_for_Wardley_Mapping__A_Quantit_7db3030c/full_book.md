@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Mathematical Models for Wardley Mapping: A Quantitative Framework for Strategic Evolution
-  - Introduction to Mathematical Modeling in Wardley Mapping
-    - Foundations of Wardley Mapping
-      - Core Concepts and Components
-      - The Need for Quantitative Analysis
-      - Mathematical Modeling in Strategic Decision-Making
-    - Mathematical Prerequisites
-      - Essential Mathematical Concepts
-      - Statistical Foundations
-      - Complex Systems Theory Basics
-  - Quantitative Framework for Component Evolution
-    - Modeling Evolution Dynamics
-      - Mathematical Representation of Evolution Stages
-      - Rate of Evolution Equations
-      - Evolution Acceleration Factors
-    - Component Interaction Models
-      - Dependency Matrices
-      - Network Effect Calculations
-      - Cross-Component Evolution Impact
-  - Data Analytics Integration
-    - Data Collection and Processing
-      - Key Metrics and Indicators
-      - Data Normalization Techniques
-      - Quality Assurance Methods
-    - Advanced Analytics Methods
-      - Machine Learning Applications
-      - Pattern Recognition Algorithms
-      - Predictive Analytics Models
-  - Predictive Modeling and Strategic Forecasting
-    - Evolution Trajectory Prediction
-      - Time Series Analysis
-      - Trend Projection Methods
-      - Confidence Interval Calculations
-    - Strategic Outcome Modeling
-      - Scenario Analysis Frameworks
-      - Risk Assessment Models
-      - Decision Impact Quantification
-  - Practical Implementation and Case Studies
-    - Implementation Guidelines
-      - Model Selection Criteria
-      - Data Requirements
-      - Integration with Existing Systems
-    - Real-World Applications
-      - Industry Case Studies
-      - Success Metrics and Results
-      - Lessons Learned and Best Practices
+- [Mathematical Models for Wardley Mapping: A Quantitative Framework for Strategic Evolution](#mathematical-models-for-wardley-mapping-a-quantitative-framework-for-strategic-evolution)
+  - [Introduction to Mathematical Modeling in Wardley Mapping](#introduction-to-mathematical-modeling-in-wardley-mapping)
+    - [Foundations of Wardley Mapping](#foundations-of-wardley-mapping)
+      - [Core Concepts and Components](#core-concepts-and-components)
+      - [The Need for Quantitative Analysis](#the-need-for-quantitative-analysis)
+      - [Mathematical Modeling in Strategic Decision-Making](#mathematical-modeling-in-strategic-decision-making)
+    - [Mathematical Prerequisites](#mathematical-prerequisites)
+      - [Essential Mathematical Concepts](#essential-mathematical-concepts)
+      - [Statistical Foundations](#statistical-foundations)
+      - [Complex Systems Theory Basics](#complex-systems-theory-basics)
+  - [Quantitative Framework for Component Evolution](#quantitative-framework-for-component-evolution)
+    - [Modeling Evolution Dynamics](#modeling-evolution-dynamics)
+      - [Mathematical Representation of Evolution Stages](#mathematical-representation-of-evolution-stages)
+      - [Rate of Evolution Equations](#rate-of-evolution-equations)
+      - [Evolution Acceleration Factors](#evolution-acceleration-factors)
+    - [Component Interaction Models](#component-interaction-models)
+      - [Dependency Matrices](#dependency-matrices)
+      - [Network Effect Calculations](#network-effect-calculations)
+      - [Cross-Component Evolution Impact](#cross-component-evolution-impact)
+  - [Data Analytics Integration](#data-analytics-integration)
+    - [Data Collection and Processing](#data-collection-and-processing)
+      - [Key Metrics and Indicators](#key-metrics-and-indicators)
+      - [Data Normalization Techniques](#data-normalization-techniques)
+      - [Quality Assurance Methods](#quality-assurance-methods)
+    - [Advanced Analytics Methods](#advanced-analytics-methods)
+      - [Machine Learning Applications](#machine-learning-applications)
+      - [Pattern Recognition Algorithms](#pattern-recognition-algorithms)
+      - [Predictive Analytics Models](#predictive-analytics-models)
+  - [Predictive Modeling and Strategic Forecasting](#predictive-modeling-and-strategic-forecasting)
+    - [Evolution Trajectory Prediction](#evolution-trajectory-prediction)
+      - [Time Series Analysis](#time-series-analysis)
+      - [Trend Projection Methods](#trend-projection-methods)
+      - [Confidence Interval Calculations](#confidence-interval-calculations)
+    - [Strategic Outcome Modeling](#strategic-outcome-modeling)
+      - [Scenario Analysis Frameworks](#scenario-analysis-frameworks)
+      - [Risk Assessment Models](#risk-assessment-models)
+      - [Decision Impact Quantification](#decision-impact-quantification)
+  - [Practical Implementation and Case Studies](#practical-implementation-and-case-studies)
+    - [Implementation Guidelines](#implementation-guidelines)
+      - [Model Selection Criteria](#model-selection-criteria)
+      - [Data Requirements](#data-requirements)
+      - [Integration with Existing Systems](#integration-with-existing-systems)
+    - [Real-World Applications](#real-world-applications)
+      - [Industry Case Studies](#industry-case-studies)
+      - [Success Metrics and Results](#success-metrics-and-results)
+      - [Lessons Learned and Best Practices](#lessons-learned-and-best-practices)
 
 
 ## Introduction to Mathematical Modeling in Wardley Mapping

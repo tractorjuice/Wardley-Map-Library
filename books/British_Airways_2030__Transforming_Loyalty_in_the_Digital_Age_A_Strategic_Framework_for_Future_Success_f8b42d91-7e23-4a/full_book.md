@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- British Airways 2030: Transforming Loyalty in the Digital Age - A Strategic Framework for Future Success
-  - Introduction: The Evolution of Airline Loyalty
-    - Current State of British Airways Executive Club
-      - Historical Context and Programme Evolution
-      - Market Position and Competitive Analysis
-      - Key Challenges and Opportunities
-    - The Changing Landscape of Airline Loyalty
-      - Post-Pandemic Travel Patterns
-      - Emerging Customer Expectations
-      - Technology and Sustainability Drivers
-  - Digital Transformation and Customer-Centricity
-    - AI-Powered Personalisation Strategy
-      - Predictive Analytics Implementation
-      - Real-time Customer Journey Mapping
-      - Behavioural Data Integration
-    - Blockchain Technology Integration
-      - Smart Contracts for Loyalty Points
-      - Enhanced Security Measures
-      - Cross-Partner Transaction Management
-    - Digital Customer Experience Enhancement
-      - Mobile-First Engagement Strategy
-      - Personalised Communications Framework
-      - Digital Touchpoint Optimization
-  - Sustainable Aviation and Loyalty Integration
-    - Green Loyalty Framework
-      - Sustainable Travel Rewards Structure
-      - Carbon Offset Integration
-      - Environmental Impact Tracking
-    - Customer Engagement in Sustainability
-      - Educational Content Strategy
-      - Green Choice Incentives
-      - Community Building Initiatives
-  - Strategic Partnerships and Ecosystem Development
-    - Next-Generation Partnership Model
-      - Sustainable Brand Collaborations
-      - Technology Partner Integration
-      - Lifestyle Services Expansion
-    - Value Creation Framework
-      - Partner Selection Criteria
-      - Revenue Share Models
-      - Customer Value Proposition Enhancement
-  - Financial Sustainability and Risk Management
-    - Economic Modelling
-      - Customer Lifetime Value Analysis
-      - Cost Structure Optimization
-      - Revenue Generation Strategies
-    - Risk Management Framework
-      - Economic Uncertainty Mitigation
-      - Operational Risk Assessment
-      - Compliance and Governance
+- [British Airways 2030: Transforming Loyalty in the Digital Age - A Strategic Framework for Future Success](#british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success)
+  - [Introduction: The Evolution of Airline Loyalty](#introduction-the-evolution-of-airline-loyalty)
+    - [Current State of British Airways Executive Club](#current-state-of-british-airways-executive-club)
+      - [Historical Context and Programme Evolution](#historical-context-and-programme-evolution)
+      - [Market Position and Competitive Analysis](#market-position-and-competitive-analysis)
+      - [Key Challenges and Opportunities](#key-challenges-and-opportunities)
+    - [The Changing Landscape of Airline Loyalty](#the-changing-landscape-of-airline-loyalty)
+      - [Post-Pandemic Travel Patterns](#post-pandemic-travel-patterns)
+      - [Emerging Customer Expectations](#emerging-customer-expectations)
+      - [Technology and Sustainability Drivers](#technology-and-sustainability-drivers)
+  - [Digital Transformation and Customer-Centricity](#digital-transformation-and-customer-centricity)
+    - [AI-Powered Personalisation Strategy](#ai-powered-personalisation-strategy)
+      - [Predictive Analytics Implementation](#predictive-analytics-implementation)
+      - [Real-time Customer Journey Mapping](#real-time-customer-journey-mapping)
+      - [Behavioural Data Integration](#behavioural-data-integration)
+    - [Blockchain Technology Integration](#blockchain-technology-integration)
+      - [Smart Contracts for Loyalty Points](#smart-contracts-for-loyalty-points)
+      - [Enhanced Security Measures](#enhanced-security-measures)
+      - [Cross-Partner Transaction Management](#cross-partner-transaction-management)
+    - [Digital Customer Experience Enhancement](#digital-customer-experience-enhancement)
+      - [Mobile-First Engagement Strategy](#mobile-first-engagement-strategy)
+      - [Personalised Communications Framework](#personalised-communications-framework)
+      - [Digital Touchpoint Optimization](#digital-touchpoint-optimization)
+  - [Sustainable Aviation and Loyalty Integration](#sustainable-aviation-and-loyalty-integration)
+    - [Green Loyalty Framework](#green-loyalty-framework)
+      - [Sustainable Travel Rewards Structure](#sustainable-travel-rewards-structure)
+      - [Carbon Offset Integration](#carbon-offset-integration)
+      - [Environmental Impact Tracking](#environmental-impact-tracking)
+    - [Customer Engagement in Sustainability](#customer-engagement-in-sustainability)
+      - [Educational Content Strategy](#educational-content-strategy)
+      - [Green Choice Incentives](#green-choice-incentives)
+      - [Community Building Initiatives](#community-building-initiatives)
+  - [Strategic Partnerships and Ecosystem Development](#strategic-partnerships-and-ecosystem-development)
+    - [Next-Generation Partnership Model](#next-generation-partnership-model)
+      - [Sustainable Brand Collaborations](#sustainable-brand-collaborations)
+      - [Technology Partner Integration](#technology-partner-integration)
+      - [Lifestyle Services Expansion](#lifestyle-services-expansion)
+    - [Value Creation Framework](#value-creation-framework)
+      - [Partner Selection Criteria](#partner-selection-criteria)
+      - [Revenue Share Models](#revenue-share-models)
+      - [Customer Value Proposition Enhancement](#customer-value-proposition-enhancement)
+  - [Financial Sustainability and Risk Management](#financial-sustainability-and-risk-management)
+    - [Economic Modelling](#economic-modelling)
+      - [Customer Lifetime Value Analysis](#customer-lifetime-value-analysis)
+      - [Cost Structure Optimization](#cost-structure-optimization)
+      - [Revenue Generation Strategies](#revenue-generation-strategies)
+    - [Risk Management Framework](#risk-management-framework)
+      - [Economic Uncertainty Mitigation](#economic-uncertainty-mitigation)
+      - [Operational Risk Assessment](#operational-risk-assessment)
+      - [Compliance and Governance](#compliance-and-governance)
 
 
 ## Introduction: The Evolution of Airline Loyalty

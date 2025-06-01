@@ -2,48 +2,48 @@
 
 # Table of Contents
 
-- The GenAI Paradox: Understanding and Navigating the Future of Artificial General Intelligence
-  - Introduction: The GenAI Revolution
-    - Setting the Stage
-      - The Current State of GenAI
-      - Why This Conversation Matters
-      - Separating Fact from Fiction
-  - Chapter 1: The Evolution of Artificial Intelligence
-    - The Journey to GenAI
-      - Early AI Development
-      - Key Breakthroughs
-      - The Emergence of GenAI
-    - Understanding Modern GenAI Systems
-      - Core Technologies
-      - Capabilities and Limitations
-      - Current Applications
-  - Chapter 2: Assessing the Real Risks
-    - Technical Risks
-      - System Control and Alignment
-      - Security Vulnerabilities
-      - Scalability Challenges
-    - Societal Risks
-      - Economic Disruption
-      - Social Inequality
-      - Cultural Impact
-    - Existential Risks
-      - Control Problem Analysis
-      - Unintended Consequences
-      - Worst-Case Scenarios
-  - Chapter 3: Building a Sustainable Future with GenAI
-    - Governance and Control
-      - Regulatory Frameworks
-      - Ethical Guidelines
-      - Safety Protocols
-    - Human-AI Collaboration
-      - Integration Strategies
-      - Skills Adaptation
-      - Maintaining Human Agency
-  - Conclusion: Charting the Path Forward
-    - Action Plans
-      - Individual Preparation
-      - Collective Responsibility
-      - Future Roadmap
+- [The GenAI Paradox: Understanding and Navigating the Future of Artificial General Intelligence](#the-genai-paradox-understanding-and-navigating-the-future-of-artificial-general-intelligence)
+  - [Introduction: The GenAI Revolution](#introduction-the-genai-revolution)
+    - [Setting the Stage](#setting-the-stage)
+      - [The Current State of GenAI](#the-current-state-of-genai)
+      - [Why This Conversation Matters](#why-this-conversation-matters)
+      - [Separating Fact from Fiction](#separating-fact-from-fiction)
+  - [Chapter 1: The Evolution of Artificial Intelligence](#chapter-1-the-evolution-of-artificial-intelligence)
+    - [The Journey to GenAI](#the-journey-to-genai)
+      - [Early AI Development](#early-ai-development)
+      - [Key Breakthroughs](#key-breakthroughs)
+      - [The Emergence of GenAI](#the-emergence-of-genai)
+    - [Understanding Modern GenAI Systems](#understanding-modern-genai-systems)
+      - [Core Technologies](#core-technologies)
+      - [Capabilities and Limitations](#capabilities-and-limitations)
+      - [Current Applications](#current-applications)
+  - [Chapter 2: Assessing the Real Risks](#chapter-2-assessing-the-real-risks)
+    - [Technical Risks](#technical-risks)
+      - [System Control and Alignment](#system-control-and-alignment)
+      - [Security Vulnerabilities](#security-vulnerabilities)
+      - [Scalability Challenges](#scalability-challenges)
+    - [Societal Risks](#societal-risks)
+      - [Economic Disruption](#economic-disruption)
+      - [Social Inequality](#social-inequality)
+      - [Cultural Impact](#cultural-impact)
+    - [Existential Risks](#existential-risks)
+      - [Control Problem Analysis](#control-problem-analysis)
+      - [Unintended Consequences](#unintended-consequences)
+      - [Worst-Case Scenarios](#worst-case-scenarios)
+  - [Chapter 3: Building a Sustainable Future with GenAI](#chapter-3-building-a-sustainable-future-with-genai)
+    - [Governance and Control](#governance-and-control)
+      - [Regulatory Frameworks](#regulatory-frameworks)
+      - [Ethical Guidelines](#ethical-guidelines)
+      - [Safety Protocols](#safety-protocols)
+    - [Human-AI Collaboration](#human-ai-collaboration)
+      - [Integration Strategies](#integration-strategies)
+      - [Skills Adaptation](#skills-adaptation)
+      - [Maintaining Human Agency](#maintaining-human-agency)
+  - [Conclusion: Charting the Path Forward](#conclusion-charting-the-path-forward)
+    - [Action Plans](#action-plans)
+      - [Individual Preparation](#individual-preparation)
+      - [Collective Responsibility](#collective-responsibility)
+      - [Future Roadmap](#future-roadmap)
 
 
 ## Introduction: The GenAI Revolution

@@ -2,101 +2,101 @@
 
 # Table of Contents
 
-- The Age of Agency: Navigating the GenAI Revolution
-  - Understanding GenAI Agents: A New Era of Autonomy
-    - Defining GenAI and Agency
-      - The Spectrum of AI: From Automation to Agency
-      - What Makes a GenAI Agent 'Intelligent'?
-      - Key Characteristics of GenAI Agents: Learning, Adaptation, and Decision-Making
-      - Differentiating GenAI Agents from Traditional AI Systems
-    - The Architecture of Agency: How GenAI Agents Function
-      - Core Components: Perception, Reasoning, and Action
-      - Learning Mechanisms: Supervised, Unsupervised, and Reinforcement Learning
-      - Knowledge Representation and Reasoning Techniques
-      - The Role of Data in GenAI Agent Development
-    - A Taxonomy of GenAI Agents: Classifying by Function and Application
-      - Task-Specific Agents: Optimising Efficiency and Performance
-      - Creative Agents: Generating Novel Content and Ideas
-      - Collaborative Agents: Working Alongside Humans
-      - Autonomous Agents: Operating Independently in Complex Environments
-  - Transformative Impacts: Reshaping Industries and Society
-    - GenAI in Healthcare: Revolutionising Patient Care and Research
-      - AI-Powered Diagnostics and Personalized Treatment
-      - Drug Discovery and Development Acceleration
-      - Remote Patient Monitoring and Telehealth
-      - Ethical Considerations in AI-Driven Healthcare
-    - GenAI in Finance: Automating Processes and Enhancing Decision-Making
-      - Algorithmic Trading and Risk Management
-      - Fraud Detection and Prevention
-      - Personalized Financial Advice and Robo-Advisors
-      - The Future of Banking with GenAI Agents
-    - GenAI in Education: Personalising Learning and Improving Outcomes
-      - AI-Driven Tutoring Systems and Personalized Learning Paths
-      - Automated Grading and Feedback
-      - Creating Engaging and Interactive Learning Experiences
-      - Addressing the Digital Divide in AI-Enhanced Education
-    - GenAI in Creative Industries: Augmenting Human Creativity and Innovation
-      - AI-Assisted Content Creation: Music, Art, and Writing
-      - Generating Novel Ideas and Concepts
-      - Personalized Entertainment Experiences
-      - The Role of AI in the Future of Art and Culture
-  - Ethical Challenges and Responsible Development
-    - Bias and Fairness in GenAI Agents
-      - Identifying and Mitigating Bias in Training Data
-      - Ensuring Fairness and Equity in AI-Driven Decisions
-      - Developing Bias Detection and Mitigation Tools
-      - The Importance of Diverse and Representative Datasets
-    - Accountability and Transparency: Building Trust in AI Systems
-      - Establishing Clear Lines of Responsibility for AI Actions
-      - Making AI Decision-Making Processes More Transparent
-      - Explainable AI (XAI): Understanding How AI Agents Arrive at Conclusions
-      - Auditing and Monitoring AI Systems for Ethical Compliance
-    - Control and Safety: Preventing Unintended Consequences
-      - Developing Robust Safety Mechanisms for Autonomous Agents
-      - Addressing the Potential for AI Misuse
-      - Human Oversight and Intervention in AI Decision-Making
-      - The Importance of AI Safety Research
-  - The Future of Work: Human-AI Collaboration and the Evolving Workforce
-    - The Changing Nature of Work: Automation and Augmentation
-      - Identifying Tasks That Can Be Automated by GenAI Agents
-      - Augmenting Human Capabilities with AI Tools
-      - The Rise of the 'Hybrid' Workforce: Humans and AI Working Together
-      - The Impact of GenAI on Job Creation and Displacement
-    - Skills for the Future: Adapting to the Age of AI
-      - Developing Critical Thinking and Problem-Solving Skills
-      - Enhancing Creativity and Innovation
-      - Cultivating Emotional Intelligence and Interpersonal Skills
-      - The Importance of Lifelong Learning and Adaptability
-    - Building Effective Human-AI Teams
-      - Designing Collaborative Workflows
-      - Establishing Clear Roles and Responsibilities
-      - Promoting Trust and Communication Between Humans and AI
-      - Addressing the Challenges of Human-AI Collaboration
-  - Governance and Regulation: Shaping the Future of GenAI
-    - The Need for Responsible AI Development and Deployment
-      - Establishing Ethical Guidelines for AI Research and Development
-      - Promoting Transparency and Accountability in AI Systems
-      - Addressing the Potential Risks and Harms of AI
-      - The Role of Stakeholders in Shaping the Future of AI
-    - Policy Recommendations for GenAI Governance
-      - Developing Regulatory Frameworks for AI
-      - Promoting International Cooperation on AI Governance
-      - Investing in AI Education and Research
-      - Ensuring Public Engagement in AI Policy Discussions
-    - The Future of GenAI: Opportunities and Challenges Ahead
-      - Emerging Trends in GenAI Research and Development
-      - The Potential for GenAI to Solve Global Challenges
-      - Addressing the Long-Term Implications of AI
-      - The Importance of a Human-Centred Approach to AI Development
-  - Conclusion: Embracing the Age of Agency Responsibly
-    - Recap of Key Themes and Insights
-      - The Transformative Power of GenAI Agents
-      - The Importance of Ethical Considerations
-      - The Need for Responsible Development and Governance
-    - A Call to Action: Shaping a Future Where AI Benefits All
-      - Promoting Collaboration and Innovation
-      - Investing in Education and Research
-      - Ensuring a Human-Centred Approach to AI
+- [The Age of Agency: Navigating the GenAI Revolution](#the-age-of-agency-navigating-the-genai-revolution)
+  - [Understanding GenAI Agents: A New Era of Autonomy](#understanding-genai-agents-a-new-era-of-autonomy)
+    - [Defining GenAI and Agency](#defining-genai-and-agency)
+      - [The Spectrum of AI: From Automation to Agency](#the-spectrum-of-ai-from-automation-to-agency)
+      - [What Makes a GenAI Agent 'Intelligent'?](#what-makes-a-genai-agent-intelligent)
+      - [Key Characteristics of GenAI Agents: Learning, Adaptation, and Decision-Making](#key-characteristics-of-genai-agents-learning-adaptation-and-decision-making)
+      - [Differentiating GenAI Agents from Traditional AI Systems](#differentiating-genai-agents-from-traditional-ai-systems)
+    - [The Architecture of Agency: How GenAI Agents Function](#the-architecture-of-agency-how-genai-agents-function)
+      - [Core Components: Perception, Reasoning, and Action](#core-components-perception-reasoning-and-action)
+      - [Learning Mechanisms: Supervised, Unsupervised, and Reinforcement Learning](#learning-mechanisms-supervised-unsupervised-and-reinforcement-learning)
+      - [Knowledge Representation and Reasoning Techniques](#knowledge-representation-and-reasoning-techniques)
+      - [The Role of Data in GenAI Agent Development](#the-role-of-data-in-genai-agent-development)
+    - [A Taxonomy of GenAI Agents: Classifying by Function and Application](#a-taxonomy-of-genai-agents-classifying-by-function-and-application)
+      - [Task-Specific Agents: Optimising Efficiency and Performance](#task-specific-agents-optimising-efficiency-and-performance)
+      - [Creative Agents: Generating Novel Content and Ideas](#creative-agents-generating-novel-content-and-ideas)
+      - [Collaborative Agents: Working Alongside Humans](#collaborative-agents-working-alongside-humans)
+      - [Autonomous Agents: Operating Independently in Complex Environments](#autonomous-agents-operating-independently-in-complex-environments)
+  - [Transformative Impacts: Reshaping Industries and Society](#transformative-impacts-reshaping-industries-and-society)
+    - [GenAI in Healthcare: Revolutionising Patient Care and Research](#genai-in-healthcare-revolutionising-patient-care-and-research)
+      - [AI-Powered Diagnostics and Personalized Treatment](#ai-powered-diagnostics-and-personalized-treatment)
+      - [Drug Discovery and Development Acceleration](#drug-discovery-and-development-acceleration)
+      - [Remote Patient Monitoring and Telehealth](#remote-patient-monitoring-and-telehealth)
+      - [Ethical Considerations in AI-Driven Healthcare](#ethical-considerations-in-ai-driven-healthcare)
+    - [GenAI in Finance: Automating Processes and Enhancing Decision-Making](#genai-in-finance-automating-processes-and-enhancing-decision-making)
+      - [Algorithmic Trading and Risk Management](#algorithmic-trading-and-risk-management)
+      - [Fraud Detection and Prevention](#fraud-detection-and-prevention)
+      - [Personalized Financial Advice and Robo-Advisors](#personalized-financial-advice-and-robo-advisors)
+      - [The Future of Banking with GenAI Agents](#the-future-of-banking-with-genai-agents)
+    - [GenAI in Education: Personalising Learning and Improving Outcomes](#genai-in-education-personalising-learning-and-improving-outcomes)
+      - [AI-Driven Tutoring Systems and Personalized Learning Paths](#ai-driven-tutoring-systems-and-personalized-learning-paths)
+      - [Automated Grading and Feedback](#automated-grading-and-feedback)
+      - [Creating Engaging and Interactive Learning Experiences](#creating-engaging-and-interactive-learning-experiences)
+      - [Addressing the Digital Divide in AI-Enhanced Education](#addressing-the-digital-divide-in-ai-enhanced-education)
+    - [GenAI in Creative Industries: Augmenting Human Creativity and Innovation](#genai-in-creative-industries-augmenting-human-creativity-and-innovation)
+      - [AI-Assisted Content Creation: Music, Art, and Writing](#ai-assisted-content-creation-music-art-and-writing)
+      - [Generating Novel Ideas and Concepts](#generating-novel-ideas-and-concepts)
+      - [Personalized Entertainment Experiences](#personalized-entertainment-experiences)
+      - [The Role of AI in the Future of Art and Culture](#the-role-of-ai-in-the-future-of-art-and-culture)
+  - [Ethical Challenges and Responsible Development](#ethical-challenges-and-responsible-development)
+    - [Bias and Fairness in GenAI Agents](#bias-and-fairness-in-genai-agents)
+      - [Identifying and Mitigating Bias in Training Data](#identifying-and-mitigating-bias-in-training-data)
+      - [Ensuring Fairness and Equity in AI-Driven Decisions](#ensuring-fairness-and-equity-in-ai-driven-decisions)
+      - [Developing Bias Detection and Mitigation Tools](#developing-bias-detection-and-mitigation-tools)
+      - [The Importance of Diverse and Representative Datasets](#the-importance-of-diverse-and-representative-datasets)
+    - [Accountability and Transparency: Building Trust in AI Systems](#accountability-and-transparency-building-trust-in-ai-systems)
+      - [Establishing Clear Lines of Responsibility for AI Actions](#establishing-clear-lines-of-responsibility-for-ai-actions)
+      - [Making AI Decision-Making Processes More Transparent](#making-ai-decision-making-processes-more-transparent)
+      - [Explainable AI (XAI): Understanding How AI Agents Arrive at Conclusions](#explainable-ai-xai-understanding-how-ai-agents-arrive-at-conclusions)
+      - [Auditing and Monitoring AI Systems for Ethical Compliance](#auditing-and-monitoring-ai-systems-for-ethical-compliance)
+    - [Control and Safety: Preventing Unintended Consequences](#control-and-safety-preventing-unintended-consequences)
+      - [Developing Robust Safety Mechanisms for Autonomous Agents](#developing-robust-safety-mechanisms-for-autonomous-agents)
+      - [Addressing the Potential for AI Misuse](#addressing-the-potential-for-ai-misuse)
+      - [Human Oversight and Intervention in AI Decision-Making](#human-oversight-and-intervention-in-ai-decision-making)
+      - [The Importance of AI Safety Research](#the-importance-of-ai-safety-research)
+  - [The Future of Work: Human-AI Collaboration and the Evolving Workforce](#the-future-of-work-human-ai-collaboration-and-the-evolving-workforce)
+    - [The Changing Nature of Work: Automation and Augmentation](#the-changing-nature-of-work-automation-and-augmentation)
+      - [Identifying Tasks That Can Be Automated by GenAI Agents](#identifying-tasks-that-can-be-automated-by-genai-agents)
+      - [Augmenting Human Capabilities with AI Tools](#augmenting-human-capabilities-with-ai-tools)
+      - [The Rise of the 'Hybrid' Workforce: Humans and AI Working Together](#the-rise-of-the-hybrid-workforce-humans-and-ai-working-together)
+      - [The Impact of GenAI on Job Creation and Displacement](#the-impact-of-genai-on-job-creation-and-displacement)
+    - [Skills for the Future: Adapting to the Age of AI](#skills-for-the-future-adapting-to-the-age-of-ai)
+      - [Developing Critical Thinking and Problem-Solving Skills](#developing-critical-thinking-and-problem-solving-skills)
+      - [Enhancing Creativity and Innovation](#enhancing-creativity-and-innovation)
+      - [Cultivating Emotional Intelligence and Interpersonal Skills](#cultivating-emotional-intelligence-and-interpersonal-skills)
+      - [The Importance of Lifelong Learning and Adaptability](#the-importance-of-lifelong-learning-and-adaptability)
+    - [Building Effective Human-AI Teams](#building-effective-human-ai-teams)
+      - [Designing Collaborative Workflows](#designing-collaborative-workflows)
+      - [Establishing Clear Roles and Responsibilities](#establishing-clear-roles-and-responsibilities)
+      - [Promoting Trust and Communication Between Humans and AI](#promoting-trust-and-communication-between-humans-and-ai)
+      - [Addressing the Challenges of Human-AI Collaboration](#addressing-the-challenges-of-human-ai-collaboration)
+  - [Governance and Regulation: Shaping the Future of GenAI](#governance-and-regulation-shaping-the-future-of-genai)
+    - [The Need for Responsible AI Development and Deployment](#the-need-for-responsible-ai-development-and-deployment)
+      - [Establishing Ethical Guidelines for AI Research and Development](#establishing-ethical-guidelines-for-ai-research-and-development)
+      - [Promoting Transparency and Accountability in AI Systems](#promoting-transparency-and-accountability-in-ai-systems)
+      - [Addressing the Potential Risks and Harms of AI](#addressing-the-potential-risks-and-harms-of-ai)
+      - [The Role of Stakeholders in Shaping the Future of AI](#the-role-of-stakeholders-in-shaping-the-future-of-ai)
+    - [Policy Recommendations for GenAI Governance](#policy-recommendations-for-genai-governance)
+      - [Developing Regulatory Frameworks for AI](#developing-regulatory-frameworks-for-ai)
+      - [Promoting International Cooperation on AI Governance](#promoting-international-cooperation-on-ai-governance)
+      - [Investing in AI Education and Research](#investing-in-ai-education-and-research)
+      - [Ensuring Public Engagement in AI Policy Discussions](#ensuring-public-engagement-in-ai-policy-discussions)
+    - [The Future of GenAI: Opportunities and Challenges Ahead](#the-future-of-genai-opportunities-and-challenges-ahead)
+      - [Emerging Trends in GenAI Research and Development](#emerging-trends-in-genai-research-and-development)
+      - [The Potential for GenAI to Solve Global Challenges](#the-potential-for-genai-to-solve-global-challenges)
+      - [Addressing the Long-Term Implications of AI](#addressing-the-long-term-implications-of-ai)
+      - [The Importance of a Human-Centred Approach to AI Development](#the-importance-of-a-human-centred-approach-to-ai-development)
+  - [Conclusion: Embracing the Age of Agency Responsibly](#conclusion-embracing-the-age-of-agency-responsibly)
+    - [Recap of Key Themes and Insights](#recap-of-key-themes-and-insights)
+      - [The Transformative Power of GenAI Agents](#the-transformative-power-of-genai-agents)
+      - [The Importance of Ethical Considerations](#the-importance-of-ethical-considerations)
+      - [The Need for Responsible Development and Governance](#the-need-for-responsible-development-and-governance)
+    - [A Call to Action: Shaping a Future Where AI Benefits All](#a-call-to-action-shaping-a-future-where-ai-benefits-all)
+      - [Promoting Collaboration and Innovation](#promoting-collaboration-and-innovation)
+      - [Investing in Education and Research](#investing-in-education-and-research)
+      - [Ensuring a Human-Centred Approach to AI](#ensuring-a-human-centred-approach-to-ai)
 
 
 ## Understanding GenAI Agents: A New Era of Autonomy

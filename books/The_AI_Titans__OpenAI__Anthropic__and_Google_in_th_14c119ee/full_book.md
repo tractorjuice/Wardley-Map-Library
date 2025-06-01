@@ -2,90 +2,90 @@
 
 # Table of Contents
 
-- The AI Titans: OpenAI, Anthropic, and Google in the Race for Supremacy
-  - Introduction: The Dawn of the AI Era
-    - The Rise of AI Titans
-      - The Emergence of OpenAI
-      - Anthropic's Mission for Safe AI
-      - Google's Dominance in AI Research
-    - The Stakes of the AI Race
-      - Economic and Technological Implications
-      - Ethical and Societal Challenges
-      - The Global Impact of AI Leadership
-  - Competitive Strategies: Business Models and Market Positioning
-    - OpenAI's Approach
-      - OpenAI's Business Model
-      - R&D Investments and Innovations
-      - Market Positioning and Partnerships
-    - Anthropic's Strategy
-      - Anthropic's Unique Value Proposition
-      - Focus on AI Safety and Ethics
-      - Funding and Growth Trajectory
-    - Google's Dominance
-      - Google's AI Ecosystem
-      - Integration with Existing Products
-      - Competitive Advantages and Challenges
-  - Ethical Dilemmas: Navigating Bias, Transparency, and Safety
-    - OpenAI's Ethical Framework
-      - Addressing Bias in AI Models
-      - Transparency and Openness
-      - AI Safety Initiatives
-    - Anthropic's Commitment to Safety
-      - Principles of AI Alignment
-      - Transparency in AI Development
-      - Mitigating Long-Term Risks
-    - Google's Ethical Challenges
-      - Balancing Innovation with Responsibility
-      - Public Scrutiny and Controversies
-      - Efforts in AI Governance
-  - Societal Impact: Transforming Industries and Everyday Life
-    - Healthcare Revolution
-      - AI in Diagnostics and Treatment
-      - Personalised Medicine
-      - Ethical Considerations in Healthcare AI
-    - Financial Sector Disruption
-      - AI in Fraud Detection
-      - Algorithmic Trading
-      - Regulatory Challenges
-    - Education and Workforce
-      - AI in Education
-      - Job Displacement and Creation
-      - Reskilling the Workforce
-  - Case Studies: Real-World Applications of AI
-    - OpenAI in Action
-      - GPT in Content Creation
-      - DALL-E and Creative Industries
-      - Case Study: AI in Customer Service
-    - Anthropic's Practical Applications
-      - AI in Legal Research
-      - Case Study: AI in Public Policy
-      - Anthropic's Role in AI Safety Research
-    - Google's AI Innovations
-      - Google Translate and Language Processing
-      - Case Study: AI in Autonomous Vehicles
-      - Google's AI in Everyday Tools
-  - Future Scenarios: The Long-Term Consequences of AI Rivalry
-    - Innovation and Competition
-      - The Pace of AI Advancements
-      - Collaboration vs. Competition
-      - The Role of Startups and Academia
-    - Global AI Governance
-      - The Need for International Regulations
-      - Ethical Standards and Compliance
-      - The Role of Governments and NGOs
-    - The Future of Humanity and AI
-      - AI and Human Augmentation
-      - Long-Term Societal Impacts
-      - Ensuring a Beneficial AI Future
-  - Conclusion: The Path Forward for AI Titans
-    - Lessons from the AI Race
-      - Key Takeaways from OpenAI, Anthropic, and Google
-      - The Importance of Ethical AI Development
-      - The Future of AI Leadership
-    - A Call to Action
-      - Collaborative Efforts for AI Safety
-      - The Role of the Public and Private Sectors
-      - Shaping a Responsible AI Future
+- [The AI Titans: OpenAI, Anthropic, and Google in the Race for Supremacy](#the-ai-titans-openai-anthropic-and-google-in-the-race-for-supremacy)
+  - [Introduction: The Dawn of the AI Era](#introduction-the-dawn-of-the-ai-era)
+    - [The Rise of AI Titans](#the-rise-of-ai-titans)
+      - [The Emergence of OpenAI](#the-emergence-of-openai)
+      - [Anthropic's Mission for Safe AI](#anthropics-mission-for-safe-ai)
+      - [Google's Dominance in AI Research](#googles-dominance-in-ai-research)
+    - [The Stakes of the AI Race](#the-stakes-of-the-ai-race)
+      - [Economic and Technological Implications](#economic-and-technological-implications)
+      - [Ethical and Societal Challenges](#ethical-and-societal-challenges)
+      - [The Global Impact of AI Leadership](#the-global-impact-of-ai-leadership)
+  - [Competitive Strategies: Business Models and Market Positioning](#competitive-strategies-business-models-and-market-positioning)
+    - [OpenAI's Approach](#openais-approach)
+      - [OpenAI's Business Model](#openais-business-model)
+      - [R&D Investments and Innovations](#rd-investments-and-innovations)
+      - [Market Positioning and Partnerships](#market-positioning-and-partnerships)
+    - [Anthropic's Strategy](#anthropics-strategy)
+      - [Anthropic's Unique Value Proposition](#anthropics-unique-value-proposition)
+      - [Focus on AI Safety and Ethics](#focus-on-ai-safety-and-ethics)
+      - [Funding and Growth Trajectory](#funding-and-growth-trajectory)
+    - [Google's Dominance](#googles-dominance)
+      - [Google's AI Ecosystem](#googles-ai-ecosystem)
+      - [Integration with Existing Products](#integration-with-existing-products)
+      - [Competitive Advantages and Challenges](#competitive-advantages-and-challenges)
+  - [Ethical Dilemmas: Navigating Bias, Transparency, and Safety](#ethical-dilemmas-navigating-bias-transparency-and-safety)
+    - [OpenAI's Ethical Framework](#openais-ethical-framework)
+      - [Addressing Bias in AI Models](#addressing-bias-in-ai-models)
+      - [Transparency and Openness](#transparency-and-openness)
+      - [AI Safety Initiatives](#ai-safety-initiatives)
+    - [Anthropic's Commitment to Safety](#anthropics-commitment-to-safety)
+      - [Principles of AI Alignment](#principles-of-ai-alignment)
+      - [Transparency in AI Development](#transparency-in-ai-development)
+      - [Mitigating Long-Term Risks](#mitigating-long-term-risks)
+    - [Google's Ethical Challenges](#googles-ethical-challenges)
+      - [Balancing Innovation with Responsibility](#balancing-innovation-with-responsibility)
+      - [Public Scrutiny and Controversies](#public-scrutiny-and-controversies)
+      - [Efforts in AI Governance](#efforts-in-ai-governance)
+  - [Societal Impact: Transforming Industries and Everyday Life](#societal-impact-transforming-industries-and-everyday-life)
+    - [Healthcare Revolution](#healthcare-revolution)
+      - [AI in Diagnostics and Treatment](#ai-in-diagnostics-and-treatment)
+      - [Personalised Medicine](#personalised-medicine)
+      - [Ethical Considerations in Healthcare AI](#ethical-considerations-in-healthcare-ai)
+    - [Financial Sector Disruption](#financial-sector-disruption)
+      - [AI in Fraud Detection](#ai-in-fraud-detection)
+      - [Algorithmic Trading](#algorithmic-trading)
+      - [Regulatory Challenges](#regulatory-challenges)
+    - [Education and Workforce](#education-and-workforce)
+      - [AI in Education](#ai-in-education)
+      - [Job Displacement and Creation](#job-displacement-and-creation)
+      - [Reskilling the Workforce](#reskilling-the-workforce)
+  - [Case Studies: Real-World Applications of AI](#case-studies-real-world-applications-of-ai)
+    - [OpenAI in Action](#openai-in-action)
+      - [GPT in Content Creation](#gpt-in-content-creation)
+      - [DALL-E and Creative Industries](#dall-e-and-creative-industries)
+      - [Case Study: AI in Customer Service](#case-study-ai-in-customer-service)
+    - [Anthropic's Practical Applications](#anthropics-practical-applications)
+      - [AI in Legal Research](#ai-in-legal-research)
+      - [Case Study: AI in Public Policy](#case-study-ai-in-public-policy)
+      - [Anthropic's Role in AI Safety Research](#anthropics-role-in-ai-safety-research)
+    - [Google's AI Innovations](#googles-ai-innovations)
+      - [Google Translate and Language Processing](#google-translate-and-language-processing)
+      - [Case Study: AI in Autonomous Vehicles](#case-study-ai-in-autonomous-vehicles)
+      - [Google's AI in Everyday Tools](#googles-ai-in-everyday-tools)
+  - [Future Scenarios: The Long-Term Consequences of AI Rivalry](#future-scenarios-the-long-term-consequences-of-ai-rivalry)
+    - [Innovation and Competition](#innovation-and-competition)
+      - [The Pace of AI Advancements](#the-pace-of-ai-advancements)
+      - [Collaboration vs. Competition](#collaboration-vs-competition)
+      - [The Role of Startups and Academia](#the-role-of-startups-and-academia)
+    - [Global AI Governance](#global-ai-governance)
+      - [The Need for International Regulations](#the-need-for-international-regulations)
+      - [Ethical Standards and Compliance](#ethical-standards-and-compliance)
+      - [The Role of Governments and NGOs](#the-role-of-governments-and-ngos)
+    - [The Future of Humanity and AI](#the-future-of-humanity-and-ai)
+      - [AI and Human Augmentation](#ai-and-human-augmentation)
+      - [Long-Term Societal Impacts](#long-term-societal-impacts)
+      - [Ensuring a Beneficial AI Future](#ensuring-a-beneficial-ai-future)
+  - [Conclusion: The Path Forward for AI Titans](#conclusion-the-path-forward-for-ai-titans)
+    - [Lessons from the AI Race](#lessons-from-the-ai-race)
+      - [Key Takeaways from OpenAI, Anthropic, and Google](#key-takeaways-from-openai-anthropic-and-google)
+      - [The Importance of Ethical AI Development](#the-importance-of-ethical-ai-development)
+      - [The Future of AI Leadership](#the-future-of-ai-leadership)
+    - [A Call to Action](#a-call-to-action)
+      - [Collaborative Efforts for AI Safety](#collaborative-efforts-for-ai-safety)
+      - [The Role of the Public and Private Sectors](#the-role-of-the-public-and-private-sectors)
+      - [Shaping a Responsible AI Future](#shaping-a-responsible-ai-future)
 
 
 ## Introduction: The Dawn of the AI Era

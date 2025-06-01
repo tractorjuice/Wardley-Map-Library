@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Digital Transformation Leadership in Government: A Strategic Framework for Complex Organizations
-  - Introduction: The Government Digital Transformation Landscape
-    - The Unique Context of Government Digital Transformation
-      - Current State of Digital Government
-      - Regulatory and Compliance Frameworks
-      - Stakeholder Complexity in Public Sector
-      - Security and Privacy Considerations
-    - Core Challenges and Opportunities
-      - Legacy System Dependencies
-      - Cultural Resistance to Change
-      - Resource Constraints
-      - Public Service Delivery Expectations
-  - Strategic Leadership in Public Sector Digital Transformation
-    - Navigating Complex Stakeholder Environments
-      - Mapping Stakeholder Landscapes
-      - Building Cross-Agency Coalitions
-      - Managing Political Dynamics
-      - Developing Stakeholder Communication Strategies
-    - Change Management in Government Organizations
-      - Creating a Vision for Digital Government
-      - Building Change Resilience
-      - Measuring Transformation Progress
-      - Sustaining Long-term Change
-  - Modernizing Government Operations
-    - Process Optimization Within Regulatory Constraints
-      - Identifying Process Inefficiencies
-      - Compliance-Aware Process Design
-      - Automation Opportunities
-      - Implementation Strategies
-    - Modern Engineering Practices in Government
-      - Agile Methodologies in Government Context
-      - Test Automation and Quality Assurance
-      - DevSecOps for Government
-      - Cloud Adoption Strategies
-  - Leading Hybrid Government Teams
-    - Building High-Performance Teams
-      - Team Structure and Governance
-      - Performance Management Framework
-      - Skills Development and Training
-      - Knowledge Management
-    - Distributed Team Management
-      - Remote Collaboration Tools and Practices
-      - Virtual Team Leadership
-      - Security in Distributed Environments
-      - Building Team Culture Remotely
-  - Resource Optimization and Sustainable Implementation
-    - Strategic Resource Management
-      - Workforce Planning and Development
-      - Budget Optimization
-      - Technology Resource Allocation
-      - Vendor Management
-    - Measuring Success and Ensuring Sustainability
-      - Key Performance Indicators
-      - Return on Investment Analysis
-      - Long-term Sustainability Planning
-      - Continuous Improvement Framework
+- [Digital Transformation Leadership in Government: A Strategic Framework for Complex Organizations](#digital-transformation-leadership-in-government-a-strategic-framework-for-complex-organizations)
+  - [Introduction: The Government Digital Transformation Landscape](#introduction-the-government-digital-transformation-landscape)
+    - [The Unique Context of Government Digital Transformation](#the-unique-context-of-government-digital-transformation)
+      - [Current State of Digital Government](#current-state-of-digital-government)
+      - [Regulatory and Compliance Frameworks](#regulatory-and-compliance-frameworks)
+      - [Stakeholder Complexity in Public Sector](#stakeholder-complexity-in-public-sector)
+      - [Security and Privacy Considerations](#security-and-privacy-considerations)
+    - [Core Challenges and Opportunities](#core-challenges-and-opportunities)
+      - [Legacy System Dependencies](#legacy-system-dependencies)
+      - [Cultural Resistance to Change](#cultural-resistance-to-change)
+      - [Resource Constraints](#resource-constraints)
+      - [Public Service Delivery Expectations](#public-service-delivery-expectations)
+  - [Strategic Leadership in Public Sector Digital Transformation](#strategic-leadership-in-public-sector-digital-transformation)
+    - [Navigating Complex Stakeholder Environments](#navigating-complex-stakeholder-environments)
+      - [Mapping Stakeholder Landscapes](#mapping-stakeholder-landscapes)
+      - [Building Cross-Agency Coalitions](#building-cross-agency-coalitions)
+      - [Managing Political Dynamics](#managing-political-dynamics)
+      - [Developing Stakeholder Communication Strategies](#developing-stakeholder-communication-strategies)
+    - [Change Management in Government Organizations](#change-management-in-government-organizations)
+      - [Creating a Vision for Digital Government](#creating-a-vision-for-digital-government)
+      - [Building Change Resilience](#building-change-resilience)
+      - [Measuring Transformation Progress](#measuring-transformation-progress)
+      - [Sustaining Long-term Change](#sustaining-long-term-change)
+  - [Modernizing Government Operations](#modernizing-government-operations)
+    - [Process Optimization Within Regulatory Constraints](#process-optimization-within-regulatory-constraints)
+      - [Identifying Process Inefficiencies](#identifying-process-inefficiencies)
+      - [Compliance-Aware Process Design](#compliance-aware-process-design)
+      - [Automation Opportunities](#automation-opportunities)
+      - [Implementation Strategies](#implementation-strategies)
+    - [Modern Engineering Practices in Government](#modern-engineering-practices-in-government)
+      - [Agile Methodologies in Government Context](#agile-methodologies-in-government-context)
+      - [Test Automation and Quality Assurance](#test-automation-and-quality-assurance)
+      - [DevSecOps for Government](#devsecops-for-government)
+      - [Cloud Adoption Strategies](#cloud-adoption-strategies)
+  - [Leading Hybrid Government Teams](#leading-hybrid-government-teams)
+    - [Building High-Performance Teams](#building-high-performance-teams)
+      - [Team Structure and Governance](#team-structure-and-governance)
+      - [Performance Management Framework](#performance-management-framework)
+      - [Skills Development and Training](#skills-development-and-training)
+      - [Knowledge Management](#knowledge-management)
+    - [Distributed Team Management](#distributed-team-management)
+      - [Remote Collaboration Tools and Practices](#remote-collaboration-tools-and-practices)
+      - [Virtual Team Leadership](#virtual-team-leadership)
+      - [Security in Distributed Environments](#security-in-distributed-environments)
+      - [Building Team Culture Remotely](#building-team-culture-remotely)
+  - [Resource Optimization and Sustainable Implementation](#resource-optimization-and-sustainable-implementation)
+    - [Strategic Resource Management](#strategic-resource-management)
+      - [Workforce Planning and Development](#workforce-planning-and-development)
+      - [Budget Optimization](#budget-optimization)
+      - [Technology Resource Allocation](#technology-resource-allocation)
+      - [Vendor Management](#vendor-management)
+    - [Measuring Success and Ensuring Sustainability](#measuring-success-and-ensuring-sustainability)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Return on Investment Analysis](#return-on-investment-analysis)
+      - [Long-term Sustainability Planning](#long-term-sustainability-planning)
+      - [Continuous Improvement Framework](#continuous-improvement-framework)
 
 
 ## Introduction: The Government Digital Transformation Landscape

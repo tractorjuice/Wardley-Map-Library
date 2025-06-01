@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Technical Debt Mathematics in Infrastructure: A Quantitative Model for Asset Management
-  - Introduction to Infrastructure Technical Debt
-    - Understanding Technical Debt in Physical Infrastructure
-      - Definition and Core Concepts
-      - Unique Characteristics of Infrastructure Technical Debt
-      - Impact on Asset Lifecycle Management
-    - The Need for Quantitative Assessment
-      - Current Challenges in Infrastructure Management
-      - Benefits of Mathematical Modeling
-      - Stakeholder Perspectives
-  - Mathematical Framework Development
-    - Core Mathematical Components
-      - Variable Identification and Definition
-      - Metric Development
-      - Correlation Analysis
-    - Quantification Methods
-      - Asset Deterioration Functions
-      - Maintenance Cost Curves
-      - Performance Impact Calculations
-    - Model Integration
-      - Component Relationships
-      - System-Level Aggregation
-      - Validation Methods
-  - Risk Assessment and Probability Modeling
-    - Risk Factor Identification
-      - Environmental Risks
-      - Operational Risks
-      - Economic Risks
-    - Probability Distribution Models
-      - Failure Probability Assessment
-      - Impact Severity Scaling
-      - Risk Matrix Development
-    - Risk Integration Methods
-      - Risk-Adjusted Calculations
-      - Uncertainty Analysis
-      - Sensitivity Testing
-  - Financial Impact Analysis
-    - Cost Components
-      - Direct Maintenance Costs
-      - Indirect Operating Costs
-      - Opportunity Costs
-    - ROI Calculations
-      - Investment Timing Analysis
-      - Cost-Benefit Ratios
-      - Long-term Value Assessment
-    - Budget Planning Integration
-      - Resource Allocation Models
-      - Priority Setting Frameworks
-      - Multi-year Planning Tools
-  - Implementation and Case Studies
-    - Implementation Guidelines
-      - Data Collection Requirements
-      - Model Calibration Steps
-      - Monitoring and Adjustment Procedures
-    - Case Studies
-      - Transportation Infrastructure Examples
-      - Utility Network Applications
-      - Public Works Projects
-    - Best Practices and Lessons Learned
-      - Success Factors
-      - Common Challenges
-      - Adaptation Strategies
+- [Technical Debt Mathematics in Infrastructure: A Quantitative Model for Asset Management](#technical-debt-mathematics-in-infrastructure-a-quantitative-model-for-asset-management)
+  - [Introduction to Infrastructure Technical Debt](#introduction-to-infrastructure-technical-debt)
+    - [Understanding Technical Debt in Physical Infrastructure](#understanding-technical-debt-in-physical-infrastructure)
+      - [Definition and Core Concepts](#definition-and-core-concepts)
+      - [Unique Characteristics of Infrastructure Technical Debt](#unique-characteristics-of-infrastructure-technical-debt)
+      - [Impact on Asset Lifecycle Management](#impact-on-asset-lifecycle-management)
+    - [The Need for Quantitative Assessment](#the-need-for-quantitative-assessment)
+      - [Current Challenges in Infrastructure Management](#current-challenges-in-infrastructure-management)
+      - [Benefits of Mathematical Modeling](#benefits-of-mathematical-modeling)
+      - [Stakeholder Perspectives](#stakeholder-perspectives)
+  - [Mathematical Framework Development](#mathematical-framework-development)
+    - [Core Mathematical Components](#core-mathematical-components)
+      - [Variable Identification and Definition](#variable-identification-and-definition)
+      - [Metric Development](#metric-development)
+      - [Correlation Analysis](#correlation-analysis)
+    - [Quantification Methods](#quantification-methods)
+      - [Asset Deterioration Functions](#asset-deterioration-functions)
+      - [Maintenance Cost Curves](#maintenance-cost-curves)
+      - [Performance Impact Calculations](#performance-impact-calculations)
+    - [Model Integration](#model-integration)
+      - [Component Relationships](#component-relationships)
+      - [System-Level Aggregation](#system-level-aggregation)
+      - [Validation Methods](#validation-methods)
+  - [Risk Assessment and Probability Modeling](#risk-assessment-and-probability-modeling)
+    - [Risk Factor Identification](#risk-factor-identification)
+      - [Environmental Risks](#environmental-risks)
+      - [Operational Risks](#operational-risks)
+      - [Economic Risks](#economic-risks)
+    - [Probability Distribution Models](#probability-distribution-models)
+      - [Failure Probability Assessment](#failure-probability-assessment)
+      - [Impact Severity Scaling](#impact-severity-scaling)
+      - [Risk Matrix Development](#risk-matrix-development)
+    - [Risk Integration Methods](#risk-integration-methods)
+      - [Risk-Adjusted Calculations](#risk-adjusted-calculations)
+      - [Uncertainty Analysis](#uncertainty-analysis)
+      - [Sensitivity Testing](#sensitivity-testing)
+  - [Financial Impact Analysis](#financial-impact-analysis)
+    - [Cost Components](#cost-components)
+      - [Direct Maintenance Costs](#direct-maintenance-costs)
+      - [Indirect Operating Costs](#indirect-operating-costs)
+      - [Opportunity Costs](#opportunity-costs)
+    - [ROI Calculations](#roi-calculations)
+      - [Investment Timing Analysis](#investment-timing-analysis)
+      - [Cost-Benefit Ratios](#cost-benefit-ratios)
+      - [Long-term Value Assessment](#long-term-value-assessment)
+    - [Budget Planning Integration](#budget-planning-integration)
+      - [Resource Allocation Models](#resource-allocation-models)
+      - [Priority Setting Frameworks](#priority-setting-frameworks)
+      - [Multi-year Planning Tools](#multi-year-planning-tools)
+  - [Implementation and Case Studies](#implementation-and-case-studies)
+    - [Implementation Guidelines](#implementation-guidelines)
+      - [Data Collection Requirements](#data-collection-requirements)
+      - [Model Calibration Steps](#model-calibration-steps)
+      - [Monitoring and Adjustment Procedures](#monitoring-and-adjustment-procedures)
+    - [Case Studies](#case-studies)
+      - [Transportation Infrastructure Examples](#transportation-infrastructure-examples)
+      - [Utility Network Applications](#utility-network-applications)
+      - [Public Works Projects](#public-works-projects)
+    - [Best Practices and Lessons Learned](#best-practices-and-lessons-learned)
+      - [Success Factors](#success-factors)
+      - [Common Challenges](#common-challenges)
+      - [Adaptation Strategies](#adaptation-strategies)
 
 
 ## Introduction to Infrastructure Technical Debt

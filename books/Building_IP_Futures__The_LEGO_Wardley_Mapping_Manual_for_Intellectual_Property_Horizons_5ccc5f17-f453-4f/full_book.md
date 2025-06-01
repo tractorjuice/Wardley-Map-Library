@@ -4,100 +4,100 @@
 
 # Table of Contents
 
-- Building IP Futures: The LEGO Wardley Mapping Manual for Intellectual Property Horizons
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: Constructing a New Paradigm for IP Strategy
-  - The Evolving Landscape of Intellectual Property
-    - Traditional IP Management vs. Dynamic IP Strategy
-    - The Need for Visual Mapping in IP Planning
-    - LEGO and Wardley: A Powerful Combination
-  - Foundations of Wardley Mapping
-    - Core Concepts and Components
-    - Value Chain Visualization
-    - Evolution and Movement in Maps
-  - The LEGO Approach to Strategy
-    - Modularity and Flexibility in Planning
-    - Building Complex Systems from Simple Components
-    - Iterative Design and Continuous Improvement
-- Chapter 1: Mapping the IP Landscape
-  - Identifying IP Assets and Their Value Chains
-    - Categorizing IP: Patents, Trademarks, Copyrights, and Trade Secrets
-    - Mapping Dependencies and Relationships
-    - Visualizing the Evolution of IP Assets
-  - LEGO-inspired Visualization Techniques
-    - Using Colour-Coding for IP Types
-    - Stackable Blocks for Layered IP Strategies
-    - Connecting Pieces to Show IP Interactions
-  - Creating Your First IP Wardley Map
-    - Step-by-Step Guide to Building an IP Map
-    - Common Pitfalls and How to Avoid Them
-    - Interpreting Your IP Landscape
-- Chapter 2: Navigating Innovation Horizons
-  - Understanding Innovation Horizons
-    - Horizon 1: Core Business and Incremental Innovation
-    - Horizon 2: Emerging Opportunities and Adjacent Markets
-    - Horizon 3: Transformational and Disruptive Innovation
-  - Mapping IP Across Horizons
-    - Aligning IP Strategy with Innovation Goals
-    - Identifying IP Gaps and Opportunities
-    - Balancing Short-term Protection and Long-term Vision
-  - LEGO Techniques for Horizon Planning
-    - Building Modular IP Portfolios
-    - Using Connector Pieces to Bridge Horizons
-    - Creating Flexible IP Architectures for Future Adaptation
-- Chapter 3: Leveraging IP Opportunities
-  - Strategic IP Positioning
-    - Offensive vs. Defensive IP Strategies
-    - Creating IP Moats and Barriers to Entry
-    - Collaborative IP Development and Open Innovation
-  - IP Monetization Strategies
-    - Licensing and Cross-licensing Opportunities
-    - IP-driven Business Models
-    - Valuing and Trading IP Assets
-  - LEGO-inspired IP Portfolio Management
-    - Building and Reconfiguring IP 'Sets'
-    - Creating IP 'Instructions' for Different Scenarios
-    - Adapting IP Strategies as Markets Evolve
-- Chapter 4: Case Studies in IP Mapping Success
-  - Technology Sector: Navigating Patent Thickets
-    - Mapping Complex Patent Landscapes
-    - Identifying Strategic Patent Acquisition Targets
-    - Developing Freedom-to-Operate Strategies
-  - Creative Industries: Managing Copyright Portfolios
-    - Visualizing Content Libraries and Franchises
-    - Mapping Distribution Channels and Licensing Opportunities
-    - Protecting IP in the Digital Age
-  - Manufacturing: Balancing Trade Secrets and Patents
-    - Mapping Process Innovations and Know-how
-    - Strategies for Global IP Protection
-    - Leveraging IP for Competitive Advantage
-- Chapter 5: Ethical and Legal Considerations in IP Mapping
-  - Navigating the Digital IP Landscape
-    - Challenges of IP Protection in the Digital Era
-    - Mapping Jurisdictional Differences in IP Law
-    - Ethical Considerations in IP Strategy
-  - Risk Management and Compliance
-    - Identifying and Mitigating IP Risks
-    - Ensuring Compliance with IP Regulations
-    - Ethical Use of Competitors' IP Information
-  - Future-Proofing Your IP Strategy
-    - Anticipating Changes in IP Law and Technology
-    - Building Adaptable IP Portfolios
-    - Fostering an Ethical IP Culture in Your Organisation
-- Conclusion: Assembling Your IP Future
-  - Key Takeaways and Best Practices
-    - Summarizing the LEGO Wardley Mapping Approach to IP
-    - Implementing IP Mapping in Your Organisation
-    - Continuous Improvement and Adaptation in IP Strategy
-  - The Future of IP Strategy
-    - Emerging Trends in IP Management
-    - The Role of AI and Machine Learning in IP Mapping
-    - Building a Culture of Innovation and IP Awareness
-- Appendix: Book Generation Details
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Building IP Futures: The LEGO Wardley Mapping Manual for Intellectual Property Horizons](#building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: Constructing a New Paradigm for IP Strategy](#introduction-constructing-a-new-paradigm-for-ip-strategy)
+  - [The Evolving Landscape of Intellectual Property](#the-evolving-landscape-of-intellectual-property)
+    - [Traditional IP Management vs. Dynamic IP Strategy](#traditional-ip-management-vs-dynamic-ip-strategy)
+    - [The Need for Visual Mapping in IP Planning](#the-need-for-visual-mapping-in-ip-planning)
+    - [LEGO and Wardley: A Powerful Combination](#lego-and-wardley-a-powerful-combination)
+  - [Foundations of Wardley Mapping](#foundations-of-wardley-mapping)
+    - [Core Concepts and Components](#core-concepts-and-components)
+    - [Value Chain Visualization](#value-chain-visualization)
+    - [Evolution and Movement in Maps](#evolution-and-movement-in-maps)
+  - [The LEGO Approach to Strategy](#the-lego-approach-to-strategy)
+    - [Modularity and Flexibility in Planning](#modularity-and-flexibility-in-planning)
+    - [Building Complex Systems from Simple Components](#building-complex-systems-from-simple-components)
+    - [Iterative Design and Continuous Improvement](#iterative-design-and-continuous-improvement)
+- [Chapter 1: Mapping the IP Landscape](#chapter-1-mapping-the-ip-landscape)
+  - [Identifying IP Assets and Their Value Chains](#identifying-ip-assets-and-their-value-chains)
+    - [Categorizing IP: Patents, Trademarks, Copyrights, and Trade Secrets](#categorizing-ip-patents-trademarks-copyrights-and-trade-secrets)
+    - [Mapping Dependencies and Relationships](#mapping-dependencies-and-relationships)
+    - [Visualizing the Evolution of IP Assets](#visualizing-the-evolution-of-ip-assets)
+  - [LEGO-inspired Visualization Techniques](#lego-inspired-visualization-techniques)
+    - [Using Colour-Coding for IP Types](#using-colour-coding-for-ip-types)
+    - [Stackable Blocks for Layered IP Strategies](#stackable-blocks-for-layered-ip-strategies)
+    - [Connecting Pieces to Show IP Interactions](#connecting-pieces-to-show-ip-interactions)
+  - [Creating Your First IP Wardley Map](#creating-your-first-ip-wardley-map)
+    - [Step-by-Step Guide to Building an IP Map](#step-by-step-guide-to-building-an-ip-map)
+    - [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
+    - [Interpreting Your IP Landscape](#interpreting-your-ip-landscape)
+- [Chapter 2: Navigating Innovation Horizons](#chapter-2-navigating-innovation-horizons)
+  - [Understanding Innovation Horizons](#understanding-innovation-horizons)
+    - [Horizon 1: Core Business and Incremental Innovation](#horizon-1-core-business-and-incremental-innovation)
+    - [Horizon 2: Emerging Opportunities and Adjacent Markets](#horizon-2-emerging-opportunities-and-adjacent-markets)
+    - [Horizon 3: Transformational and Disruptive Innovation](#horizon-3-transformational-and-disruptive-innovation)
+  - [Mapping IP Across Horizons](#mapping-ip-across-horizons)
+    - [Aligning IP Strategy with Innovation Goals](#aligning-ip-strategy-with-innovation-goals)
+    - [Identifying IP Gaps and Opportunities](#identifying-ip-gaps-and-opportunities)
+    - [Balancing Short-term Protection and Long-term Vision](#balancing-short-term-protection-and-long-term-vision)
+  - [LEGO Techniques for Horizon Planning](#lego-techniques-for-horizon-planning)
+    - [Building Modular IP Portfolios](#building-modular-ip-portfolios)
+    - [Using Connector Pieces to Bridge Horizons](#using-connector-pieces-to-bridge-horizons)
+    - [Creating Flexible IP Architectures for Future Adaptation](#creating-flexible-ip-architectures-for-future-adaptation)
+- [Chapter 3: Leveraging IP Opportunities](#chapter-3-leveraging-ip-opportunities)
+  - [Strategic IP Positioning](#strategic-ip-positioning)
+    - [Offensive vs. Defensive IP Strategies](#offensive-vs-defensive-ip-strategies)
+    - [Creating IP Moats and Barriers to Entry](#creating-ip-moats-and-barriers-to-entry)
+    - [Collaborative IP Development and Open Innovation](#collaborative-ip-development-and-open-innovation)
+  - [IP Monetization Strategies](#ip-monetization-strategies)
+    - [Licensing and Cross-licensing Opportunities](#licensing-and-cross-licensing-opportunities)
+    - [IP-driven Business Models](#ip-driven-business-models)
+    - [Valuing and Trading IP Assets](#valuing-and-trading-ip-assets)
+  - [LEGO-inspired IP Portfolio Management](#lego-inspired-ip-portfolio-management)
+    - [Building and Reconfiguring IP 'Sets'](#building-and-reconfiguring-ip-sets)
+    - [Creating IP 'Instructions' for Different Scenarios](#creating-ip-instructions-for-different-scenarios)
+    - [Adapting IP Strategies as Markets Evolve](#adapting-ip-strategies-as-markets-evolve)
+- [Chapter 4: Case Studies in IP Mapping Success](#chapter-4-case-studies-in-ip-mapping-success)
+  - [Technology Sector: Navigating Patent Thickets](#technology-sector-navigating-patent-thickets)
+    - [Mapping Complex Patent Landscapes](#mapping-complex-patent-landscapes)
+    - [Identifying Strategic Patent Acquisition Targets](#identifying-strategic-patent-acquisition-targets)
+    - [Developing Freedom-to-Operate Strategies](#developing-freedom-to-operate-strategies)
+  - [Creative Industries: Managing Copyright Portfolios](#creative-industries-managing-copyright-portfolios)
+    - [Visualizing Content Libraries and Franchises](#visualizing-content-libraries-and-franchises)
+    - [Mapping Distribution Channels and Licensing Opportunities](#mapping-distribution-channels-and-licensing-opportunities)
+    - [Protecting IP in the Digital Age](#protecting-ip-in-the-digital-age)
+  - [Manufacturing: Balancing Trade Secrets and Patents](#manufacturing-balancing-trade-secrets-and-patents)
+    - [Mapping Process Innovations and Know-how](#mapping-process-innovations-and-know-how)
+    - [Strategies for Global IP Protection](#strategies-for-global-ip-protection)
+    - [Leveraging IP for Competitive Advantage](#leveraging-ip-for-competitive-advantage)
+- [Chapter 5: Ethical and Legal Considerations in IP Mapping](#chapter-5-ethical-and-legal-considerations-in-ip-mapping)
+  - [Navigating the Digital IP Landscape](#navigating-the-digital-ip-landscape)
+    - [Challenges of IP Protection in the Digital Era](#challenges-of-ip-protection-in-the-digital-era)
+    - [Mapping Jurisdictional Differences in IP Law](#mapping-jurisdictional-differences-in-ip-law)
+    - [Ethical Considerations in IP Strategy](#ethical-considerations-in-ip-strategy)
+  - [Risk Management and Compliance](#risk-management-and-compliance)
+    - [Identifying and Mitigating IP Risks](#identifying-and-mitigating-ip-risks)
+    - [Ensuring Compliance with IP Regulations](#ensuring-compliance-with-ip-regulations)
+    - [Ethical Use of Competitors' IP Information](#ethical-use-of-competitors-ip-information)
+  - [Future-Proofing Your IP Strategy](#future-proofing-your-ip-strategy)
+    - [Anticipating Changes in IP Law and Technology](#anticipating-changes-in-ip-law-and-technology)
+    - [Building Adaptable IP Portfolios](#building-adaptable-ip-portfolios)
+    - [Fostering an Ethical IP Culture in Your Organisation](#fostering-an-ethical-ip-culture-in-your-organisation)
+- [Conclusion: Assembling Your IP Future](#conclusion-assembling-your-ip-future)
+  - [Key Takeaways and Best Practices](#key-takeaways-and-best-practices)
+    - [Summarizing the LEGO Wardley Mapping Approach to IP](#summarizing-the-lego-wardley-mapping-approach-to-ip)
+    - [Implementing IP Mapping in Your Organisation](#implementing-ip-mapping-in-your-organisation)
+    - [Continuous Improvement and Adaptation in IP Strategy](#continuous-improvement-and-adaptation-in-ip-strategy)
+  - [The Future of IP Strategy](#the-future-of-ip-strategy)
+    - [Emerging Trends in IP Management](#emerging-trends-in-ip-management)
+    - [The Role of AI and Machine Learning in IP Mapping](#the-role-of-ai-and-machine-learning-in-ip-mapping)
+    - [Building a Culture of Innovation and IP Awareness](#building-a-culture-of-innovation-and-ip-awareness)
+- [Appendix: Book Generation Details](#appendix-book-generation-details)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: Constructing a New Paradigm for IP Strategy

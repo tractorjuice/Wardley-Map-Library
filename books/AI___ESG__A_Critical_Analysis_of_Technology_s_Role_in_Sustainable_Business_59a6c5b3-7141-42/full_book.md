@@ -4,65 +4,65 @@
 
 # Table of Contents
 
-- AI & ESG: A Critical Analysis of Technology's Role in Sustainable Business
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The AI-ESG Paradox
-  - The Promise and Peril of AI in ESG
-    - Current State of ESG Implementation
-    - AI's Growing Influence in Business
-    - The Emerging Intersection of AI and ESG
-  - Setting the Framework
-    - Key Stakeholders and Their Interests
-    - Regulatory Landscape
-    - Book Structure and Approach
-- Chapter 1: The Dual Nature of AI in ESG
-  - Environmental Impact
-    - Energy Consumption of AI Systems
-    - AI Solutions for Environmental Monitoring
-    - Carbon Footprint Analysis
-  - Social Implications
-    - AI Bias and Fairness
-    - Workforce Transformation
-    - Privacy and Data Ethics
-  - Governance Considerations
-    - AI Decision-Making Transparency
-    - Accountability Frameworks
-    - Risk Management Structures
-- Chapter 2: Measuring AI's ESG Impact
-  - The ESG-AI Scorecard
-    - Key Performance Indicators
-    - Measurement Methodologies
-    - Data Collection and Validation
-  - Assessment Tools and Frameworks
-    - Quantitative Metrics
-    - Qualitative Assessments
-    - Benchmarking Standards
-- Chapter 3: Strategic Implementation
-  - Risk-Opportunity Mapping
-    - Wardley Mapping Application
-    - Strategic Dependencies
-    - Value Chain Analysis
-  - Implementation Framework
-    - Readiness Assessment
-    - Resource Allocation
-    - Change Management
-    - Monitoring and Adjustment
-- Chapter 4: Future Horizons
-  - Emerging Trends
-    - Technological Advancements
-    - Regulatory Evolution
-    - Stakeholder Expectations
-  - Preparing for the Future
-    - Scenario Planning
-    - Adaptive Strategies
-    - Long-term Sustainability
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [AI & ESG: A Critical Analysis of Technology's Role in Sustainable Business](#ai-esg-a-critical-analysis-of-technologys-role-in-sustainable-business)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The AI-ESG Paradox](#introduction-the-ai-esg-paradox)
+  - [The Promise and Peril of AI in ESG](#the-promise-and-peril-of-ai-in-esg)
+    - [Current State of ESG Implementation](#current-state-of-esg-implementation)
+    - [AI's Growing Influence in Business](#ais-growing-influence-in-business)
+    - [The Emerging Intersection of AI and ESG](#the-emerging-intersection-of-ai-and-esg)
+  - [Setting the Framework](#setting-the-framework)
+    - [Key Stakeholders and Their Interests](#key-stakeholders-and-their-interests)
+    - [Regulatory Landscape](#regulatory-landscape)
+    - [Book Structure and Approach](#book-structure-and-approach)
+- [Chapter 1: The Dual Nature of AI in ESG](#chapter-1-the-dual-nature-of-ai-in-esg)
+  - [Environmental Impact](#environmental-impact)
+    - [Energy Consumption of AI Systems](#energy-consumption-of-ai-systems)
+    - [AI Solutions for Environmental Monitoring](#ai-solutions-for-environmental-monitoring)
+    - [Carbon Footprint Analysis](#carbon-footprint-analysis)
+  - [Social Implications](#social-implications)
+    - [AI Bias and Fairness](#ai-bias-and-fairness)
+    - [Workforce Transformation](#workforce-transformation)
+    - [Privacy and Data Ethics](#privacy-and-data-ethics)
+  - [Governance Considerations](#governance-considerations)
+    - [AI Decision-Making Transparency](#ai-decision-making-transparency)
+    - [Accountability Frameworks](#accountability-frameworks)
+    - [Risk Management Structures](#risk-management-structures)
+- [Chapter 2: Measuring AI's ESG Impact](#chapter-2-measuring-ais-esg-impact)
+  - [The ESG-AI Scorecard](#the-esg-ai-scorecard)
+    - [Key Performance Indicators](#key-performance-indicators)
+    - [Measurement Methodologies](#measurement-methodologies)
+    - [Data Collection and Validation](#data-collection-and-validation)
+  - [Assessment Tools and Frameworks](#assessment-tools-and-frameworks)
+    - [Quantitative Metrics](#quantitative-metrics)
+    - [Qualitative Assessments](#qualitative-assessments)
+    - [Benchmarking Standards](#benchmarking-standards)
+- [Chapter 3: Strategic Implementation](#chapter-3-strategic-implementation)
+  - [Risk-Opportunity Mapping](#risk-opportunity-mapping)
+    - [Wardley Mapping Application](#wardley-mapping-application)
+    - [Strategic Dependencies](#strategic-dependencies)
+    - [Value Chain Analysis](#value-chain-analysis)
+  - [Implementation Framework](#implementation-framework)
+    - [Readiness Assessment](#readiness-assessment)
+    - [Resource Allocation](#resource-allocation)
+    - [Change Management](#change-management)
+    - [Monitoring and Adjustment](#monitoring-and-adjustment)
+- [Chapter 4: Future Horizons](#chapter-4-future-horizons)
+  - [Emerging Trends](#emerging-trends)
+    - [Technological Advancements](#technological-advancements)
+    - [Regulatory Evolution](#regulatory-evolution)
+    - [Stakeholder Expectations](#stakeholder-expectations)
+  - [Preparing for the Future](#preparing-for-the-future)
+    - [Scenario Planning](#scenario-planning)
+    - [Adaptive Strategies](#adaptive-strategies)
+    - [Long-term Sustainability](#long-term-sustainability)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The AI-ESG Paradox

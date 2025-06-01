@@ -2,73 +2,73 @@
 
 # Table of Contents
 
-- AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI
-- The Dawn of Generative AI in Health and Life Sciences
-  - Understanding Generative AI Technologies
-    - Defining Generative AI and Its Capabilities
-    - Key Applications in Healthcare and Life Sciences
-    - The Current State of Generative AI Adoption
-  - Transformative Potential and Disruptive Impact
-    - Revolutionising Drug Discovery and Development
-    - Enhancing Diagnostic Accuracy and Personalised Medicine
-    - Streamlining Administrative Processes and Resource Allocation
-    - Augmenting Healthcare Professional Capabilities
-- Ethical Implications and Governance Challenges
-  - Data Privacy and Security Concerns
-    - Protecting Patient Confidentiality in the AI Era
-    - Securing Sensitive Health Data from Cyber Threats
-    - Balancing Data Sharing for Innovation with Privacy Protection
-  - Mitigating Bias and Ensuring Fairness
-    - Identifying and Addressing Algorithmic Bias
-    - Ensuring Equitable Access to AI-driven Healthcare
-    - Promoting Diversity in AI Development and Implementation
-  - Developing Robust Governance Frameworks
-    - Regulatory Challenges in a Rapidly Evolving Landscape
-    - Establishing Ethical Guidelines for AI Use in Healthcare
-    - Creating Accountability Mechanisms for AI-driven Decisions
-- Implementation Hurdles and Operational Challenges
-  - Infrastructure and Technology Integration
-    - Upgrading Legacy Systems for AI Compatibility
-    - Ensuring Interoperability and Data Standardisation
-    - Managing Computational Resources and Cloud Integration
-  - Workforce Adaptation and Skill Development
-    - Upskilling Healthcare Professionals for the AI Era
-    - Addressing Job Displacement and Role Redefinition
-    - Fostering a Culture of AI Adoption and Innovation
-  - Quality Assurance and Validation
-    - Establishing Protocols for AI Model Validation
-    - Ensuring Transparency and Explainability of AI Systems
-    - Continuous Monitoring and Improvement of AI Performance
-- Legal and Regulatory Landscape
-  - Navigating Intellectual Property Rights
-    - Patenting AI-generated Innovations in Healthcare
-    - Addressing Authorship and Ownership of AI-created Content
-    - Managing Liability for AI-assisted Medical Decisions
-  - Compliance with Healthcare Regulations
-    - Adapting to Evolving AI-specific Regulations
-    - Ensuring HIPAA Compliance in AI-driven Healthcare
-    - Addressing Cross-border Data Transfer and AI Use
-  - Risk Management and Insurance Considerations
-    - Assessing and Mitigating AI-related Risks
-    - Evolving Insurance Models for AI in Healthcare
-    - Preparing for Potential AI-related Litigation
-- Future-proofing Health and Life Sciences Organisations
-  - Strategic Planning for AI Integration
-    - Developing a Comprehensive AI Roadmap
-    - Balancing Short-term Gains with Long-term Vision
-    - Fostering Partnerships and Collaborations in AI Innovation
-  - Building Resilience and Adaptability
-    - Creating Agile Organisational Structures
-    - Investing in Continuous Learning and Research
-    - Preparing for Emerging AI Technologies and Applications
-  - Shaping the Future of AI in Healthcare
-    - Participating in Policy Development and Standardisation
-    - Engaging in Public Dialogue and Trust-building
-    - Driving Responsible AI Innovation in Health and Life Sciences
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI](#ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai)
+- [The Dawn of Generative AI in Health and Life Sciences](#the-dawn-of-generative-ai-in-health-and-life-sciences)
+  - [Understanding Generative AI Technologies](#understanding-generative-ai-technologies)
+    - [Defining Generative AI and Its Capabilities](#defining-generative-ai-and-its-capabilities)
+    - [Key Applications in Healthcare and Life Sciences](#key-applications-in-healthcare-and-life-sciences)
+    - [The Current State of Generative AI Adoption](#the-current-state-of-generative-ai-adoption)
+  - [Transformative Potential and Disruptive Impact](#transformative-potential-and-disruptive-impact)
+    - [Revolutionising Drug Discovery and Development](#revolutionising-drug-discovery-and-development)
+    - [Enhancing Diagnostic Accuracy and Personalised Medicine](#enhancing-diagnostic-accuracy-and-personalised-medicine)
+    - [Streamlining Administrative Processes and Resource Allocation](#streamlining-administrative-processes-and-resource-allocation)
+    - [Augmenting Healthcare Professional Capabilities](#augmenting-healthcare-professional-capabilities)
+- [Ethical Implications and Governance Challenges](#ethical-implications-and-governance-challenges)
+  - [Data Privacy and Security Concerns](#data-privacy-and-security-concerns)
+    - [Protecting Patient Confidentiality in the AI Era](#protecting-patient-confidentiality-in-the-ai-era)
+    - [Securing Sensitive Health Data from Cyber Threats](#securing-sensitive-health-data-from-cyber-threats)
+    - [Balancing Data Sharing for Innovation with Privacy Protection](#balancing-data-sharing-for-innovation-with-privacy-protection)
+  - [Mitigating Bias and Ensuring Fairness](#mitigating-bias-and-ensuring-fairness)
+    - [Identifying and Addressing Algorithmic Bias](#identifying-and-addressing-algorithmic-bias)
+    - [Ensuring Equitable Access to AI-driven Healthcare](#ensuring-equitable-access-to-ai-driven-healthcare)
+    - [Promoting Diversity in AI Development and Implementation](#promoting-diversity-in-ai-development-and-implementation)
+  - [Developing Robust Governance Frameworks](#developing-robust-governance-frameworks)
+    - [Regulatory Challenges in a Rapidly Evolving Landscape](#regulatory-challenges-in-a-rapidly-evolving-landscape)
+    - [Establishing Ethical Guidelines for AI Use in Healthcare](#establishing-ethical-guidelines-for-ai-use-in-healthcare)
+    - [Creating Accountability Mechanisms for AI-driven Decisions](#creating-accountability-mechanisms-for-ai-driven-decisions)
+- [Implementation Hurdles and Operational Challenges](#implementation-hurdles-and-operational-challenges)
+  - [Infrastructure and Technology Integration](#infrastructure-and-technology-integration)
+    - [Upgrading Legacy Systems for AI Compatibility](#upgrading-legacy-systems-for-ai-compatibility)
+    - [Ensuring Interoperability and Data Standardisation](#ensuring-interoperability-and-data-standardisation)
+    - [Managing Computational Resources and Cloud Integration](#managing-computational-resources-and-cloud-integration)
+  - [Workforce Adaptation and Skill Development](#workforce-adaptation-and-skill-development)
+    - [Upskilling Healthcare Professionals for the AI Era](#upskilling-healthcare-professionals-for-the-ai-era)
+    - [Addressing Job Displacement and Role Redefinition](#addressing-job-displacement-and-role-redefinition)
+    - [Fostering a Culture of AI Adoption and Innovation](#fostering-a-culture-of-ai-adoption-and-innovation)
+  - [Quality Assurance and Validation](#quality-assurance-and-validation)
+    - [Establishing Protocols for AI Model Validation](#establishing-protocols-for-ai-model-validation)
+    - [Ensuring Transparency and Explainability of AI Systems](#ensuring-transparency-and-explainability-of-ai-systems)
+    - [Continuous Monitoring and Improvement of AI Performance](#continuous-monitoring-and-improvement-of-ai-performance)
+- [Legal and Regulatory Landscape](#legal-and-regulatory-landscape)
+  - [Navigating Intellectual Property Rights](#navigating-intellectual-property-rights)
+    - [Patenting AI-generated Innovations in Healthcare](#patenting-ai-generated-innovations-in-healthcare)
+    - [Addressing Authorship and Ownership of AI-created Content](#addressing-authorship-and-ownership-of-ai-created-content)
+    - [Managing Liability for AI-assisted Medical Decisions](#managing-liability-for-ai-assisted-medical-decisions)
+  - [Compliance with Healthcare Regulations](#compliance-with-healthcare-regulations)
+    - [Adapting to Evolving AI-specific Regulations](#adapting-to-evolving-ai-specific-regulations)
+    - [Ensuring HIPAA Compliance in AI-driven Healthcare](#ensuring-hipaa-compliance-in-ai-driven-healthcare)
+    - [Addressing Cross-border Data Transfer and AI Use](#addressing-cross-border-data-transfer-and-ai-use)
+  - [Risk Management and Insurance Considerations](#risk-management-and-insurance-considerations)
+    - [Assessing and Mitigating AI-related Risks](#assessing-and-mitigating-ai-related-risks)
+    - [Evolving Insurance Models for AI in Healthcare](#evolving-insurance-models-for-ai-in-healthcare)
+    - [Preparing for Potential AI-related Litigation](#preparing-for-potential-ai-related-litigation)
+- [Future-proofing Health and Life Sciences Organisations](#future-proofing-health-and-life-sciences-organisations)
+  - [Strategic Planning for AI Integration](#strategic-planning-for-ai-integration)
+    - [Developing a Comprehensive AI Roadmap](#developing-a-comprehensive-ai-roadmap)
+    - [Balancing Short-term Gains with Long-term Vision](#balancing-short-term-gains-with-long-term-vision)
+    - [Fostering Partnerships and Collaborations in AI Innovation](#fostering-partnerships-and-collaborations-in-ai-innovation)
+  - [Building Resilience and Adaptability](#building-resilience-and-adaptability)
+    - [Creating Agile Organisational Structures](#creating-agile-organisational-structures)
+    - [Investing in Continuous Learning and Research](#investing-in-continuous-learning-and-research)
+    - [Preparing for Emerging AI Technologies and Applications](#preparing-for-emerging-ai-technologies-and-applications)
+  - [Shaping the Future of AI in Healthcare](#shaping-the-future-of-ai-in-healthcare)
+    - [Participating in Policy Development and Standardisation](#participating-in-policy-development-and-standardisation)
+    - [Engaging in Public Dialogue and Trust-building](#engaging-in-public-dialogue-and-trust-building)
+    - [Driving Responsible AI Innovation in Health and Life Sciences](#driving-responsible-ai-innovation-in-health-and-life-sciences)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # The Dawn of Generative AI in Health and Life Sciences

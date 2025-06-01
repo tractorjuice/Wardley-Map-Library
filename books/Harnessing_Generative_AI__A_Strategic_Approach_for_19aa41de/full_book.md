@@ -2,53 +2,53 @@
 
 # Table of Contents
 
-- Harnessing Generative AI: A Strategic Approach for the UK Home Office
-  - Introduction to Generative AI in Public Service
-    - Defining Generative AI
-      - What is Generative AI?
-      - Key Capabilities of Generative AI
-      - Implications for Public Service
-    - The Role of AI in Modern Governance
-      - AI's Impact on Public Sector Efficiency
-      - Enhancing Citizen Engagement with AI
-      - Challenges and Opportunities
-  - Strategic Frameworks for GenAI Implementation
-    - Developing a Tailored GenAI Strategy
-      - Understanding the Home Office's Needs
-      - Setting Strategic Objectives
-      - Aligning GenAI with Policy Goals
-    - Utilising Wardley Mapping
-      - Introduction to Wardley Mapping
-      - Mapping the Current Landscape
-      - Identifying Strategic Opportunities
-  - Case Studies of GenAI in Action
-    - Successful Implementations in the UK
-      - Case Study 1: AI in Policing
-      - Case Study 2: AI in Immigration Services
-    - Global Perspectives
-      - Case Study 3: AI in Public Health (USA)
-      - Case Study 4: AI in Social Services (Canada)
-  - Ethical Considerations in AI Deployment
-    - Understanding Bias in AI
-      - Types of Bias in AI Systems
-      - Mitigating Bias in GenAI Applications
-    - Addressing Controversies
-      - Public Perception of AI in Governance
-      - Regulatory Frameworks and Compliance
-  - Future Trends and Implications
-    - The Evolution of GenAI in the Home Office
-      - Emerging Technologies and Their Impact
-      - Anticipating Future Challenges
-    - Transforming Policy-Making and Citizen Engagement
-      - AI-Driven Decision Making
-      - Enhancing Transparency and Accountability
-  - Conclusion and Strategic Recommendations
-    - Key Takeaways
-      - Summarising the Strategic Framework
-      - Lessons Learned from Case Studies
-    - Next Steps for the Home Office
-      - Implementing the GenAI Strategy
-      - Monitoring and Evaluation Framework
+- [Harnessing Generative AI: A Strategic Approach for the UK Home Office](#harnessing-generative-ai-a-strategic-approach-for-the-uk-home-office)
+  - [Introduction to Generative AI in Public Service](#introduction-to-generative-ai-in-public-service)
+    - [Defining Generative AI](#defining-generative-ai)
+      - [What is Generative AI?](#what-is-generative-ai)
+      - [Key Capabilities of Generative AI](#key-capabilities-of-generative-ai)
+      - [Implications for Public Service](#implications-for-public-service)
+    - [The Role of AI in Modern Governance](#the-role-of-ai-in-modern-governance)
+      - [AI's Impact on Public Sector Efficiency](#ais-impact-on-public-sector-efficiency)
+      - [Enhancing Citizen Engagement with AI](#enhancing-citizen-engagement-with-ai)
+      - [Challenges and Opportunities](#challenges-and-opportunities)
+  - [Strategic Frameworks for GenAI Implementation](#strategic-frameworks-for-genai-implementation)
+    - [Developing a Tailored GenAI Strategy](#developing-a-tailored-genai-strategy)
+      - [Understanding the Home Office's Needs](#understanding-the-home-offices-needs)
+      - [Setting Strategic Objectives](#setting-strategic-objectives)
+      - [Aligning GenAI with Policy Goals](#aligning-genai-with-policy-goals)
+    - [Utilising Wardley Mapping](#utilising-wardley-mapping)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Mapping the Current Landscape](#mapping-the-current-landscape)
+      - [Identifying Strategic Opportunities](#identifying-strategic-opportunities)
+  - [Case Studies of GenAI in Action](#case-studies-of-genai-in-action)
+    - [Successful Implementations in the UK](#successful-implementations-in-the-uk)
+      - [Case Study 1: AI in Policing](#case-study-1-ai-in-policing)
+      - [Case Study 2: AI in Immigration Services](#case-study-2-ai-in-immigration-services)
+    - [Global Perspectives](#global-perspectives)
+      - [Case Study 3: AI in Public Health (USA)](#case-study-3-ai-in-public-health-usa)
+      - [Case Study 4: AI in Social Services (Canada)](#case-study-4-ai-in-social-services-canada)
+  - [Ethical Considerations in AI Deployment](#ethical-considerations-in-ai-deployment)
+    - [Understanding Bias in AI](#understanding-bias-in-ai)
+      - [Types of Bias in AI Systems](#types-of-bias-in-ai-systems)
+      - [Mitigating Bias in GenAI Applications](#mitigating-bias-in-genai-applications)
+    - [Addressing Controversies](#addressing-controversies)
+      - [Public Perception of AI in Governance](#public-perception-of-ai-in-governance)
+      - [Regulatory Frameworks and Compliance](#regulatory-frameworks-and-compliance)
+  - [Future Trends and Implications](#future-trends-and-implications)
+    - [The Evolution of GenAI in the Home Office](#the-evolution-of-genai-in-the-home-office)
+      - [Emerging Technologies and Their Impact](#emerging-technologies-and-their-impact)
+      - [Anticipating Future Challenges](#anticipating-future-challenges)
+    - [Transforming Policy-Making and Citizen Engagement](#transforming-policy-making-and-citizen-engagement)
+      - [AI-Driven Decision Making](#ai-driven-decision-making)
+      - [Enhancing Transparency and Accountability](#enhancing-transparency-and-accountability)
+  - [Conclusion and Strategic Recommendations](#conclusion-and-strategic-recommendations)
+    - [Key Takeaways](#key-takeaways)
+      - [Summarising the Strategic Framework](#summarising-the-strategic-framework)
+      - [Lessons Learned from Case Studies](#lessons-learned-from-case-studies)
+    - [Next Steps for the Home Office](#next-steps-for-the-home-office)
+      - [Implementing the GenAI Strategy](#implementing-the-genai-strategy)
+      - [Monitoring and Evaluation Framework](#monitoring-and-evaluation-framework)
 
 
 ## Introduction to Generative AI in Public Service

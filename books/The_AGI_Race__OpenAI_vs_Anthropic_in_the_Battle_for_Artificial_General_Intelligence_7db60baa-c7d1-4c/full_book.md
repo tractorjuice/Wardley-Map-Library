@@ -4,95 +4,95 @@
 
 # Table of Contents
 
-- The AGI Race: OpenAI vs Anthropic in the Battle for Artificial General Intelligence
-    - :warning: WARNING: This content was generated using Generative AI. Readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The High Stakes of AGI
-  - Defining AGI and Its Potential Impact
-    - What is Artificial General Intelligence?
-    - The transformative potential of AGI
-    - Risks and opportunities of AGI development
-  - The Key Players: OpenAI and Anthropic
-    - Origins and missions
-    - Key figures and leadership
-    - Philosophical approaches to AGI
-- Technical Innovations and AI Breakthroughs
-  - OpenAI's Technical Advancements
-    - GPT series and language models
-    - DALL-E and multimodal AI
-    - Reinforcement learning and robotics
-  - Anthropic's Technical Approach
-    - Constitutional AI and alignment
-    - Large language model innovations
-    - Scaling laws and efficiency breakthroughs
-  - Comparative Analysis of Technical Capabilities
-    - Benchmarking performance
-    - Unique strengths and weaknesses
-    - Potential for AGI breakthrough
-- Business Strategies and Funding Models
-  - OpenAI's Evolution and Business Model
-    - From non-profit to 'capped-profit'
-    - Partnerships and revenue streams
-    - Investment and valuation
-  - Anthropic's Approach to Funding and Growth
-    - Venture capital and strategic investments
-    - Research-focused business model
-    - Long-term sustainability plans
-  - Comparative Business Analysis
-    - Market positioning and competitive advantage
-    - Scalability and growth potential
-    - Financial sustainability in the AGI race
-- Ethical Approaches and Safety Considerations
-  - OpenAI's Ethical Framework
-    - Commitment to beneficial AGI
-    - Transparency and research sharing
-    - Safety measures and control mechanisms
-  - Anthropic's Ethics-First Approach
-    - Constitutional AI principles
-    - Alignment and value learning
-    - Long-term safety considerations
-  - Comparative Ethics and Safety Analysis
-    - Robustness of safety measures
-    - Potential risks and mitigation strategies
-    - Public perception and trust
-- Societal and Economic Impacts
-  - Potential Transformations from OpenAI's Technology
-    - Labour market disruptions
-    - Economic productivity gains
-    - Societal adaptation challenges
-  - Anthropic's Vision for AGI Integration
-    - Aligned AI in society
-    - Economic democratisation potential
-    - Long-term human-AI coexistence
-  - Comparative Impact Analysis
-    - Short-term vs long-term effects
-    - Global implications and inequalities
-    - Potential scenarios for AGI deployment
-- The Role of Policy and Regulation
-  - Current Regulatory Landscape
-    - AI governance frameworks
-    - International cooperation and competition
-    - Challenges in regulating AGI development
-  - OpenAI and Anthropic's Regulatory Engagement
-    - Policy advocacy and influence
-    - Compliance strategies
-    - Collaboration with regulators
-  - Future of AGI Regulation
-    - Potential regulatory scenarios
-    - Impact on AGI development timelines
-    - Balancing innovation and safety
-- Conclusion: The Future of AGI and Human Civilisation
-  - Assessing the Likelihood of AGI Supremacy
-    - Evaluating OpenAI and Anthropic's positions
-    - Wild cards and unknown factors
-    - Potential for collaboration or convergence
-  - Implications for Humanity
-    - Preparing for an AGI future
-    - Ethical considerations for society
-    - The role of public engagement and understanding
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [The AGI Race: OpenAI vs Anthropic in the Battle for Artificial General Intelligence](#the-agi-race-openai-vs-anthropic-in-the-battle-for-artificial-general-intelligence)
+    - [:warning: WARNING: This content was generated using Generative AI. Readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The High Stakes of AGI](#introduction-the-high-stakes-of-agi)
+  - [Defining AGI and Its Potential Impact](#defining-agi-and-its-potential-impact)
+    - [What is Artificial General Intelligence?](#what-is-artificial-general-intelligence)
+    - [The transformative potential of AGI](#the-transformative-potential-of-agi)
+    - [Risks and opportunities of AGI development](#risks-and-opportunities-of-agi-development)
+  - [The Key Players: OpenAI and Anthropic](#the-key-players-openai-and-anthropic)
+    - [Origins and missions](#origins-and-missions)
+    - [Key figures and leadership](#key-figures-and-leadership)
+    - [Philosophical approaches to AGI](#philosophical-approaches-to-agi)
+- [Technical Innovations and AI Breakthroughs](#technical-innovations-and-ai-breakthroughs)
+  - [OpenAI's Technical Advancements](#openais-technical-advancements)
+    - [GPT series and language models](#gpt-series-and-language-models)
+    - [DALL-E and multimodal AI](#dall-e-and-multimodal-ai)
+    - [Reinforcement learning and robotics](#reinforcement-learning-and-robotics)
+  - [Anthropic's Technical Approach](#anthropics-technical-approach)
+    - [Constitutional AI and alignment](#constitutional-ai-and-alignment)
+    - [Large language model innovations](#large-language-model-innovations)
+    - [Scaling laws and efficiency breakthroughs](#scaling-laws-and-efficiency-breakthroughs)
+  - [Comparative Analysis of Technical Capabilities](#comparative-analysis-of-technical-capabilities)
+    - [Benchmarking performance](#benchmarking-performance)
+    - [Unique strengths and weaknesses](#unique-strengths-and-weaknesses)
+    - [Potential for AGI breakthrough](#potential-for-agi-breakthrough)
+- [Business Strategies and Funding Models](#business-strategies-and-funding-models)
+  - [OpenAI's Evolution and Business Model](#openais-evolution-and-business-model)
+    - [From non-profit to 'capped-profit'](#from-non-profit-to-capped-profit)
+    - [Partnerships and revenue streams](#partnerships-and-revenue-streams)
+    - [Investment and valuation](#investment-and-valuation)
+  - [Anthropic's Approach to Funding and Growth](#anthropics-approach-to-funding-and-growth)
+    - [Venture capital and strategic investments](#venture-capital-and-strategic-investments)
+    - [Research-focused business model](#research-focused-business-model)
+    - [Long-term sustainability plans](#long-term-sustainability-plans)
+  - [Comparative Business Analysis](#comparative-business-analysis)
+    - [Market positioning and competitive advantage](#market-positioning-and-competitive-advantage)
+    - [Scalability and growth potential](#scalability-and-growth-potential)
+    - [Financial sustainability in the AGI race](#financial-sustainability-in-the-agi-race)
+- [Ethical Approaches and Safety Considerations](#ethical-approaches-and-safety-considerations)
+  - [OpenAI's Ethical Framework](#openais-ethical-framework)
+    - [Commitment to beneficial AGI](#commitment-to-beneficial-agi)
+    - [Transparency and research sharing](#transparency-and-research-sharing)
+    - [Safety measures and control mechanisms](#safety-measures-and-control-mechanisms)
+  - [Anthropic's Ethics-First Approach](#anthropics-ethics-first-approach)
+    - [Constitutional AI principles](#constitutional-ai-principles)
+    - [Alignment and value learning](#alignment-and-value-learning)
+    - [Long-term safety considerations](#long-term-safety-considerations)
+  - [Comparative Ethics and Safety Analysis](#comparative-ethics-and-safety-analysis)
+    - [Robustness of safety measures](#robustness-of-safety-measures)
+    - [Potential risks and mitigation strategies](#potential-risks-and-mitigation-strategies)
+    - [Public perception and trust](#public-perception-and-trust)
+- [Societal and Economic Impacts](#societal-and-economic-impacts)
+  - [Potential Transformations from OpenAI's Technology](#potential-transformations-from-openais-technology)
+    - [Labour market disruptions](#labour-market-disruptions)
+    - [Economic productivity gains](#economic-productivity-gains)
+    - [Societal adaptation challenges](#societal-adaptation-challenges)
+  - [Anthropic's Vision for AGI Integration](#anthropics-vision-for-agi-integration)
+    - [Aligned AI in society](#aligned-ai-in-society)
+    - [Economic democratisation potential](#economic-democratisation-potential)
+    - [Long-term human-AI coexistence](#long-term-human-ai-coexistence)
+  - [Comparative Impact Analysis](#comparative-impact-analysis)
+    - [Short-term vs long-term effects](#short-term-vs-long-term-effects)
+    - [Global implications and inequalities](#global-implications-and-inequalities)
+    - [Potential scenarios for AGI deployment](#potential-scenarios-for-agi-deployment)
+- [The Role of Policy and Regulation](#the-role-of-policy-and-regulation)
+  - [Current Regulatory Landscape](#current-regulatory-landscape)
+    - [AI governance frameworks](#ai-governance-frameworks)
+    - [International cooperation and competition](#international-cooperation-and-competition)
+    - [Challenges in regulating AGI development](#challenges-in-regulating-agi-development)
+  - [OpenAI and Anthropic's Regulatory Engagement](#openai-and-anthropics-regulatory-engagement)
+    - [Policy advocacy and influence](#policy-advocacy-and-influence)
+    - [Compliance strategies](#compliance-strategies)
+    - [Collaboration with regulators](#collaboration-with-regulators)
+  - [Future of AGI Regulation](#future-of-agi-regulation)
+    - [Potential regulatory scenarios](#potential-regulatory-scenarios)
+    - [Impact on AGI development timelines](#impact-on-agi-development-timelines)
+    - [Balancing innovation and safety](#balancing-innovation-and-safety)
+- [Conclusion: The Future of AGI and Human Civilisation](#conclusion-the-future-of-agi-and-human-civilisation)
+  - [Assessing the Likelihood of AGI Supremacy](#assessing-the-likelihood-of-agi-supremacy)
+    - [Evaluating OpenAI and Anthropic's positions](#evaluating-openai-and-anthropics-positions)
+    - [Wild cards and unknown factors](#wild-cards-and-unknown-factors)
+    - [Potential for collaboration or convergence](#potential-for-collaboration-or-convergence)
+  - [Implications for Humanity](#implications-for-humanity)
+    - [Preparing for an AGI future](#preparing-for-an-agi-future)
+    - [Ethical considerations for society](#ethical-considerations-for-society)
+    - [The role of public engagement and understanding](#the-role-of-public-engagement-and-understanding)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The High Stakes of AGI

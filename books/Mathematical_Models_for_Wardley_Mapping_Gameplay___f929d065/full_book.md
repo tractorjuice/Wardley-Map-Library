@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Mathematical Models for Wardley Mapping Gameplay: A Quantitative Approach to Strategic Decision Making
-  - Foundations of Mathematical Modeling in Wardley Mapping
-    - Introduction to Quantitative Strategy
-      - The Need for Mathematical Models in Strategy
-      - Overview of Wardley Mapping Principles
-      - Bridging Qualitative and Quantitative Approaches
-      - Key Mathematical Concepts and Notations
-    - Core Mathematical Framework
-      - Vector Spaces and Strategic Positioning
-      - Probability Theory in Strategic Decision Making
-      - Game Theory Fundamentals
-      - Network Analysis Basics
-  - Mathematical Models for Component Evolution
-    - Evolution Dynamics
-      - Differential Equations for Component Movement
-      - Stochastic Processes in Evolution
-      - Markov Chains for State Transitions
-      - Rate of Change Analysis
-    - Component Interaction Models
-      - Graph Theory Applications
-      - Network Effect Equations
-      - Dependency Matrices
-      - System Dynamics Modeling
-  - Gameplay Optimization Models
-    - Strategic Move Quantification
-      - Utility Functions for Gameplay Selection
-      - Cost-Benefit Analysis Models
-      - Risk Assessment Frameworks
-      - Multi-objective Optimization
-    - Decision Theory Applications
-      - Bayesian Decision Models
-      - Game Theory Equilibrium Analysis
-      - Strategic Choice Under Uncertainty
-      - Dynamic Programming Approaches
-  - Machine Learning Integration
-    - Predictive Analytics
-      - Pattern Recognition in Strategic Moves
-      - Supervised Learning for Gameplay Selection
-      - Time Series Analysis for Evolution Prediction
-      - Feature Engineering for Strategy
-    - AI-Enhanced Decision Making
-      - Reinforcement Learning in Strategy
-      - Neural Networks for Pattern Detection
-      - Automated Strategy Generation
-      - Model Validation and Testing
-  - Practical Implementation
-    - Model Development Process
-      - Data Collection and Preparation
-      - Model Selection and Calibration
-      - Implementation Frameworks
-      - Performance Metrics
-    - Case Studies and Applications
-      - Industry-Specific Examples
-      - Model Validation Cases
-      - Success Stories and Lessons Learned
-      - Future Applications and Extensions
+- [Mathematical Models for Wardley Mapping Gameplay: A Quantitative Approach to Strategic Decision Making](#mathematical-models-for-wardley-mapping-gameplay-a-quantitative-approach-to-strategic-decision-making)
+  - [Foundations of Mathematical Modeling in Wardley Mapping](#foundations-of-mathematical-modeling-in-wardley-mapping)
+    - [Introduction to Quantitative Strategy](#introduction-to-quantitative-strategy)
+      - [The Need for Mathematical Models in Strategy](#the-need-for-mathematical-models-in-strategy)
+      - [Overview of Wardley Mapping Principles](#overview-of-wardley-mapping-principles)
+      - [Bridging Qualitative and Quantitative Approaches](#bridging-qualitative-and-quantitative-approaches)
+      - [Key Mathematical Concepts and Notations](#key-mathematical-concepts-and-notations)
+    - [Core Mathematical Framework](#core-mathematical-framework)
+      - [Vector Spaces and Strategic Positioning](#vector-spaces-and-strategic-positioning)
+      - [Probability Theory in Strategic Decision Making](#probability-theory-in-strategic-decision-making)
+      - [Game Theory Fundamentals](#game-theory-fundamentals)
+      - [Network Analysis Basics](#network-analysis-basics)
+  - [Mathematical Models for Component Evolution](#mathematical-models-for-component-evolution)
+    - [Evolution Dynamics](#evolution-dynamics)
+      - [Differential Equations for Component Movement](#differential-equations-for-component-movement)
+      - [Stochastic Processes in Evolution](#stochastic-processes-in-evolution)
+      - [Markov Chains for State Transitions](#markov-chains-for-state-transitions)
+      - [Rate of Change Analysis](#rate-of-change-analysis)
+    - [Component Interaction Models](#component-interaction-models)
+      - [Graph Theory Applications](#graph-theory-applications)
+      - [Network Effect Equations](#network-effect-equations)
+      - [Dependency Matrices](#dependency-matrices)
+      - [System Dynamics Modeling](#system-dynamics-modeling)
+  - [Gameplay Optimization Models](#gameplay-optimization-models)
+    - [Strategic Move Quantification](#strategic-move-quantification)
+      - [Utility Functions for Gameplay Selection](#utility-functions-for-gameplay-selection)
+      - [Cost-Benefit Analysis Models](#cost-benefit-analysis-models)
+      - [Risk Assessment Frameworks](#risk-assessment-frameworks)
+      - [Multi-objective Optimization](#multi-objective-optimization)
+    - [Decision Theory Applications](#decision-theory-applications)
+      - [Bayesian Decision Models](#bayesian-decision-models)
+      - [Game Theory Equilibrium Analysis](#game-theory-equilibrium-analysis)
+      - [Strategic Choice Under Uncertainty](#strategic-choice-under-uncertainty)
+      - [Dynamic Programming Approaches](#dynamic-programming-approaches)
+  - [Machine Learning Integration](#machine-learning-integration)
+    - [Predictive Analytics](#predictive-analytics)
+      - [Pattern Recognition in Strategic Moves](#pattern-recognition-in-strategic-moves)
+      - [Supervised Learning for Gameplay Selection](#supervised-learning-for-gameplay-selection)
+      - [Time Series Analysis for Evolution Prediction](#time-series-analysis-for-evolution-prediction)
+      - [Feature Engineering for Strategy](#feature-engineering-for-strategy)
+    - [AI-Enhanced Decision Making](#ai-enhanced-decision-making)
+      - [Reinforcement Learning in Strategy](#reinforcement-learning-in-strategy)
+      - [Neural Networks for Pattern Detection](#neural-networks-for-pattern-detection)
+      - [Automated Strategy Generation](#automated-strategy-generation)
+      - [Model Validation and Testing](#model-validation-and-testing)
+  - [Practical Implementation](#practical-implementation)
+    - [Model Development Process](#model-development-process)
+      - [Data Collection and Preparation](#data-collection-and-preparation)
+      - [Model Selection and Calibration](#model-selection-and-calibration)
+      - [Implementation Frameworks](#implementation-frameworks)
+      - [Performance Metrics](#performance-metrics)
+    - [Case Studies and Applications](#case-studies-and-applications)
+      - [Industry-Specific Examples](#industry-specific-examples)
+      - [Model Validation Cases](#model-validation-cases)
+      - [Success Stories and Lessons Learned](#success-stories-and-lessons-learned)
+      - [Future Applications and Extensions](#future-applications-and-extensions)
 
 
 ## Foundations of Mathematical Modeling in Wardley Mapping

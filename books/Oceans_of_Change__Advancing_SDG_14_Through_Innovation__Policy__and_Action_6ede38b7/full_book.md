@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Oceans of Change: Advancing SDG 14 Through Innovation, Policy, and Action
-  - Introduction: The State of Our Oceans
-    - Understanding SDG 14: Life Below Water
-      - Global Ocean Challenges
-      - SDG 14 Targets and Indicators
-      - Interconnections with Other SDGs
-    - Current State of Marine Ecosystems
-      - Global Ocean Health Assessment
-      - Critical Marine Habitats
-      - Anthropogenic Pressures
-  - Marine Conservation Science and Technology
-    - Advanced Monitoring Systems
-      - Satellite Technology and Remote Sensing
-      - Marine IoT Solutions
-      - Artificial Intelligence in Ocean Monitoring
-    - Restoration Technologies
-      - Coral Reef Restoration Techniques
-      - Seagrass and Mangrove Recovery
-      - Marine Species Conservation Tools
-    - Emerging Protection Strategies
-      - Marine Protected Areas Design
-      - Biodiversity Conservation Methods
-      - Pollution Prevention Technologies
-  - Sustainable Blue Economy Development
-    - Sustainable Fisheries Management
-      - Smart Fishing Technologies
-      - Stock Assessment Methods
-      - Sustainable Aquaculture Practices
-    - Marine Biotechnology Opportunities
-      - Bioprospecting Potential
-      - Sustainable Product Development
-      - Ethical Considerations
-    - Ocean-Based Renewable Energy
-      - Tidal and Wave Energy Systems
-      - Offshore Wind Development
-      - Environmental Impact Assessment
-  - Governance and Climate Resilience
-    - International Maritime Frameworks
-      - Legal Instruments and Treaties
-      - Regional Cooperation Mechanisms
-      - Enforcement Strategies
-    - Climate Change Adaptation
-      - Ecosystem-Based Adaptation
-      - Coastal Protection Measures
-      - Blue Carbon Initiatives
-    - Multi-stakeholder Partnerships
-      - Public-Private Collaboration
-      - International Development Programs
-      - Knowledge Sharing Networks
-  - Community Engagement and Sustainable Development
-    - Traditional Knowledge Integration
-      - Indigenous Marine Management
-      - Local Ecological Knowledge
-      - Cultural Conservation Practices
-    - Coastal Community Development
-      - Livelihood Diversification
-      - Capacity Building Programs
-      - Social Impact Assessment
-    - Sustainable Marine Tourism
-      - Ecotourism Best Practices
-      - Community-Based Tourism
-      - Tourism Impact Management
+- [Oceans of Change: Advancing SDG 14 Through Innovation, Policy, and Action](#oceans-of-change-advancing-sdg-14-through-innovation-policy-and-action)
+  - [Introduction: The State of Our Oceans](#introduction-the-state-of-our-oceans)
+    - [Understanding SDG 14: Life Below Water](#understanding-sdg-14-life-below-water)
+      - [Global Ocean Challenges](#global-ocean-challenges)
+      - [SDG 14 Targets and Indicators](#sdg-14-targets-and-indicators)
+      - [Interconnections with Other SDGs](#interconnections-with-other-sdgs)
+    - [Current State of Marine Ecosystems](#current-state-of-marine-ecosystems)
+      - [Global Ocean Health Assessment](#global-ocean-health-assessment)
+      - [Critical Marine Habitats](#critical-marine-habitats)
+      - [Anthropogenic Pressures](#anthropogenic-pressures)
+  - [Marine Conservation Science and Technology](#marine-conservation-science-and-technology)
+    - [Advanced Monitoring Systems](#advanced-monitoring-systems)
+      - [Satellite Technology and Remote Sensing](#satellite-technology-and-remote-sensing)
+      - [Marine IoT Solutions](#marine-iot-solutions)
+      - [Artificial Intelligence in Ocean Monitoring](#artificial-intelligence-in-ocean-monitoring)
+    - [Restoration Technologies](#restoration-technologies)
+      - [Coral Reef Restoration Techniques](#coral-reef-restoration-techniques)
+      - [Seagrass and Mangrove Recovery](#seagrass-and-mangrove-recovery)
+      - [Marine Species Conservation Tools](#marine-species-conservation-tools)
+    - [Emerging Protection Strategies](#emerging-protection-strategies)
+      - [Marine Protected Areas Design](#marine-protected-areas-design)
+      - [Biodiversity Conservation Methods](#biodiversity-conservation-methods)
+      - [Pollution Prevention Technologies](#pollution-prevention-technologies)
+  - [Sustainable Blue Economy Development](#sustainable-blue-economy-development)
+    - [Sustainable Fisheries Management](#sustainable-fisheries-management)
+      - [Smart Fishing Technologies](#smart-fishing-technologies)
+      - [Stock Assessment Methods](#stock-assessment-methods)
+      - [Sustainable Aquaculture Practices](#sustainable-aquaculture-practices)
+    - [Marine Biotechnology Opportunities](#marine-biotechnology-opportunities)
+      - [Bioprospecting Potential](#bioprospecting-potential)
+      - [Sustainable Product Development](#sustainable-product-development)
+      - [Ethical Considerations](#ethical-considerations)
+    - [Ocean-Based Renewable Energy](#ocean-based-renewable-energy)
+      - [Tidal and Wave Energy Systems](#tidal-and-wave-energy-systems)
+      - [Offshore Wind Development](#offshore-wind-development)
+      - [Environmental Impact Assessment](#environmental-impact-assessment)
+  - [Governance and Climate Resilience](#governance-and-climate-resilience)
+    - [International Maritime Frameworks](#international-maritime-frameworks)
+      - [Legal Instruments and Treaties](#legal-instruments-and-treaties)
+      - [Regional Cooperation Mechanisms](#regional-cooperation-mechanisms)
+      - [Enforcement Strategies](#enforcement-strategies)
+    - [Climate Change Adaptation](#climate-change-adaptation)
+      - [Ecosystem-Based Adaptation](#ecosystem-based-adaptation)
+      - [Coastal Protection Measures](#coastal-protection-measures)
+      - [Blue Carbon Initiatives](#blue-carbon-initiatives)
+    - [Multi-stakeholder Partnerships](#multi-stakeholder-partnerships)
+      - [Public-Private Collaboration](#public-private-collaboration)
+      - [International Development Programs](#international-development-programs)
+      - [Knowledge Sharing Networks](#knowledge-sharing-networks)
+  - [Community Engagement and Sustainable Development](#community-engagement-and-sustainable-development)
+    - [Traditional Knowledge Integration](#traditional-knowledge-integration)
+      - [Indigenous Marine Management](#indigenous-marine-management)
+      - [Local Ecological Knowledge](#local-ecological-knowledge)
+      - [Cultural Conservation Practices](#cultural-conservation-practices)
+    - [Coastal Community Development](#coastal-community-development)
+      - [Livelihood Diversification](#livelihood-diversification)
+      - [Capacity Building Programs](#capacity-building-programs)
+      - [Social Impact Assessment](#social-impact-assessment)
+    - [Sustainable Marine Tourism](#sustainable-marine-tourism)
+      - [Ecotourism Best Practices](#ecotourism-best-practices)
+      - [Community-Based Tourism](#community-based-tourism)
+      - [Tourism Impact Management](#tourism-impact-management)
 
 
 ## Introduction: The State of Our Oceans

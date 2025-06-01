@@ -2,95 +2,95 @@
 
 # Table of Contents
 
-- Wardley Mapping: A Practical Guide to Strategy in a Digital Age
-  - Introduction to Wardley Mapping
-    - What is Wardley Mapping?
-      - Defining Wardley Mapping and its Purpose
-      - The Core Components: Map, Landscape, and Doctrine
-      - Benefits of Using Wardley Mapping for Strategic Decision-Making
-      - Wardley Mapping vs. Traditional Strategy Tools (e.g., SWOT, Porter's Five Forces)
-    - Understanding the Landscape: Value Chains and Evolution
-      - Identifying Value Chains: From User Needs to Components
-      - The Stages of Evolution: Genesis, Custom-Built, Product, Commodity
-      - Visualising Evolution on the Map: The X-Axis
-      - Understanding User Needs and Value: The Y-Axis
-    - Situational Awareness: Why Context Matters
-      - The Importance of Context in Strategic Thinking
-      - Understanding Your Position on the Map
-      - Identifying Opportunities and Threats Based on Context
-      - Common Pitfalls in Ignoring Context
-  - Creating Your First Wardley Map: A Step-by-Step Guide
-    - Identifying User Needs and Value
-      - Techniques for Eliciting User Needs
-      - Prioritising User Needs Based on Value
-      - Mapping User Needs to Components
-      - Documenting Assumptions and Biases
-    - Mapping the Value Chain
-      - Breaking Down User Needs into Components
-      - Identifying Dependencies Between Components
-      - Visualising the Value Chain on the Map
-      - Using Colour and Annotations for Clarity
-    - Assessing Evolution
-      - Determining the Evolutionary Stage of Each Component
-      - Using Evidence to Support Evolutionary Assessments
-      - Mapping Evolution on the X-Axis
-      - Dealing with Ambiguity and Uncertainty
-    - Reviewing and Refining the Map
-      - Validating the Map with Stakeholders
-      - Identifying Gaps and Inconsistencies
-      - Iterating on the Map Based on Feedback
-      - Documenting Changes and Rationale
-  - Strategic Playbooks: Acting on Map Insights
-    - Understanding Doctrine: Universal Principles for Success
-      - Defining Doctrine and its Role in Strategy
-      - Key Doctrines: Everything is Evolving, Focus on User Needs, Challenge Assumptions
-      - Applying Doctrine to Wardley Maps
-      - Examples of Doctrine in Action
-    - Exploiting Evolution: Offensive and Defensive Strategies
-      - Identifying Opportunities for Innovation in Early Stages
-      - Commoditising Components to Reduce Costs
-      - Managing Inertia and Resistance to Change
-      - Using Evolution to Gain a Competitive Advantage
-    - Navigating the Competitive Landscape
-      - Identifying Competitors on the Map
-      - Analysing Competitive Strategies Based on Evolution
-      - Developing Strategies to Differentiate Your Offering
-      - Anticipating Competitor Moves
-    - Managing Risk and Uncertainty
-      - Identifying Potential Risks on the Map
-      - Developing Mitigation Strategies
-      - Using Wardley Mapping to Explore Different Scenarios
-      - Adapting to Changing Circumstances
-  - Case Studies: Wardley Mapping in Action
-    - Case Study 1: Applying Wardley Mapping in the Public Sector
-      - Background and Context
-      - The Wardley Mapping Process
-      - Key Insights and Outcomes
-      - Lessons Learned
-    - Case Study 2: Wardley Mapping for Product Development
-    - Case Study 3: Wardley Mapping for Digital Transformation
-  - The Future of Strategy: Wardley Mapping and Emerging Technologies
-    - Wardley Mapping and AI
-      - Mapping the Evolution of AI Technologies
-      - Strategic Implications of AI for Different Industries
-      - Using Wardley Mapping to Identify AI Opportunities
-      - Ethical Considerations of AI and Wardley Mapping
-    - Wardley Mapping and Cloud Computing
-      - Mapping the Evolution of Cloud Services
-      - Strategic Implications of Cloud for Different Industries
-      - Using Wardley Mapping to Optimise Cloud Adoption
-      - Managing Cloud Dependencies and Risks
-    - Adapting Wardley Mapping to New Contexts
-      - Applying Wardley Mapping to New Industries and Sectors
-      - Integrating Wardley Mapping with Other Strategic Frameworks
-      - The Ongoing Evolution of Wardley Mapping
-      - Resources for Further Learning
-  - Conclusion: Mastering Strategic Clarity with Wardley Mapping
-    - The Power of Visualisation and Context
-      - Recap of Key Concepts
-      - The Importance of Continuous Mapping
-      - Building a Strategic Culture with Wardley Mapping
-      - Final Thoughts and Encouragement
+- [Wardley Mapping: A Practical Guide to Strategy in a Digital Age](#wardley-mapping-a-practical-guide-to-strategy-in-a-digital-age)
+  - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+    - [What is Wardley Mapping?](#what-is-wardley-mapping)
+      - [Defining Wardley Mapping and its Purpose](#defining-wardley-mapping-and-its-purpose)
+      - [The Core Components: Map, Landscape, and Doctrine](#the-core-components-map-landscape-and-doctrine)
+      - [Benefits of Using Wardley Mapping for Strategic Decision-Making](#benefits-of-using-wardley-mapping-for-strategic-decision-making)
+      - [Wardley Mapping vs. Traditional Strategy Tools (e.g., SWOT, Porter's Five Forces)](#wardley-mapping-vs-traditional-strategy-tools-eg-swot-porters-five-forces)
+    - [Understanding the Landscape: Value Chains and Evolution](#understanding-the-landscape-value-chains-and-evolution)
+      - [Identifying Value Chains: From User Needs to Components](#identifying-value-chains-from-user-needs-to-components)
+      - [The Stages of Evolution: Genesis, Custom-Built, Product, Commodity](#the-stages-of-evolution-genesis-custom-built-product-commodity)
+      - [Visualising Evolution on the Map: The X-Axis](#visualising-evolution-on-the-map-the-x-axis)
+      - [Understanding User Needs and Value: The Y-Axis](#understanding-user-needs-and-value-the-y-axis)
+    - [Situational Awareness: Why Context Matters](#situational-awareness-why-context-matters)
+      - [The Importance of Context in Strategic Thinking](#the-importance-of-context-in-strategic-thinking)
+      - [Understanding Your Position on the Map](#understanding-your-position-on-the-map)
+      - [Identifying Opportunities and Threats Based on Context](#identifying-opportunities-and-threats-based-on-context)
+      - [Common Pitfalls in Ignoring Context](#common-pitfalls-in-ignoring-context)
+  - [Creating Your First Wardley Map: A Step-by-Step Guide](#creating-your-first-wardley-map-a-step-by-step-guide)
+    - [Identifying User Needs and Value](#identifying-user-needs-and-value)
+      - [Techniques for Eliciting User Needs](#techniques-for-eliciting-user-needs)
+      - [Prioritising User Needs Based on Value](#prioritising-user-needs-based-on-value)
+      - [Mapping User Needs to Components](#mapping-user-needs-to-components)
+      - [Documenting Assumptions and Biases](#documenting-assumptions-and-biases)
+    - [Mapping the Value Chain](#mapping-the-value-chain)
+      - [Breaking Down User Needs into Components](#breaking-down-user-needs-into-components)
+      - [Identifying Dependencies Between Components](#identifying-dependencies-between-components)
+      - [Visualising the Value Chain on the Map](#visualising-the-value-chain-on-the-map)
+      - [Using Colour and Annotations for Clarity](#using-colour-and-annotations-for-clarity)
+    - [Assessing Evolution](#assessing-evolution)
+      - [Determining the Evolutionary Stage of Each Component](#determining-the-evolutionary-stage-of-each-component)
+      - [Using Evidence to Support Evolutionary Assessments](#using-evidence-to-support-evolutionary-assessments)
+      - [Mapping Evolution on the X-Axis](#mapping-evolution-on-the-x-axis)
+      - [Dealing with Ambiguity and Uncertainty](#dealing-with-ambiguity-and-uncertainty)
+    - [Reviewing and Refining the Map](#reviewing-and-refining-the-map)
+      - [Validating the Map with Stakeholders](#validating-the-map-with-stakeholders)
+      - [Identifying Gaps and Inconsistencies](#identifying-gaps-and-inconsistencies)
+      - [Iterating on the Map Based on Feedback](#iterating-on-the-map-based-on-feedback)
+      - [Documenting Changes and Rationale](#documenting-changes-and-rationale)
+  - [Strategic Playbooks: Acting on Map Insights](#strategic-playbooks-acting-on-map-insights)
+    - [Understanding Doctrine: Universal Principles for Success](#understanding-doctrine-universal-principles-for-success)
+      - [Defining Doctrine and its Role in Strategy](#defining-doctrine-and-its-role-in-strategy)
+      - [Key Doctrines: Everything is Evolving, Focus on User Needs, Challenge Assumptions](#key-doctrines-everything-is-evolving-focus-on-user-needs-challenge-assumptions)
+      - [Applying Doctrine to Wardley Maps](#applying-doctrine-to-wardley-maps)
+      - [Examples of Doctrine in Action](#examples-of-doctrine-in-action)
+    - [Exploiting Evolution: Offensive and Defensive Strategies](#exploiting-evolution-offensive-and-defensive-strategies)
+      - [Identifying Opportunities for Innovation in Early Stages](#identifying-opportunities-for-innovation-in-early-stages)
+      - [Commoditising Components to Reduce Costs](#commoditising-components-to-reduce-costs)
+      - [Managing Inertia and Resistance to Change](#managing-inertia-and-resistance-to-change)
+      - [Using Evolution to Gain a Competitive Advantage](#using-evolution-to-gain-a-competitive-advantage)
+    - [Navigating the Competitive Landscape](#navigating-the-competitive-landscape)
+      - [Identifying Competitors on the Map](#identifying-competitors-on-the-map)
+      - [Analysing Competitive Strategies Based on Evolution](#analysing-competitive-strategies-based-on-evolution)
+      - [Developing Strategies to Differentiate Your Offering](#developing-strategies-to-differentiate-your-offering)
+      - [Anticipating Competitor Moves](#anticipating-competitor-moves)
+    - [Managing Risk and Uncertainty](#managing-risk-and-uncertainty)
+      - [Identifying Potential Risks on the Map](#identifying-potential-risks-on-the-map)
+      - [Developing Mitigation Strategies](#developing-mitigation-strategies)
+      - [Using Wardley Mapping to Explore Different Scenarios](#using-wardley-mapping-to-explore-different-scenarios)
+      - [Adapting to Changing Circumstances](#adapting-to-changing-circumstances)
+  - [Case Studies: Wardley Mapping in Action](#case-studies-wardley-mapping-in-action)
+    - [Case Study 1: Applying Wardley Mapping in the Public Sector](#case-study-1-applying-wardley-mapping-in-the-public-sector)
+      - [Background and Context](#background-and-context)
+      - [The Wardley Mapping Process](#the-wardley-mapping-process)
+      - [Key Insights and Outcomes](#key-insights-and-outcomes)
+      - [Lessons Learned](#lessons-learned)
+    - [Case Study 2: Wardley Mapping for Product Development](#case-study-2-wardley-mapping-for-product-development)
+    - [Case Study 3: Wardley Mapping for Digital Transformation](#case-study-3-wardley-mapping-for-digital-transformation)
+  - [The Future of Strategy: Wardley Mapping and Emerging Technologies](#the-future-of-strategy-wardley-mapping-and-emerging-technologies)
+    - [Wardley Mapping and AI](#wardley-mapping-and-ai)
+      - [Mapping the Evolution of AI Technologies](#mapping-the-evolution-of-ai-technologies)
+      - [Strategic Implications of AI for Different Industries](#strategic-implications-of-ai-for-different-industries)
+      - [Using Wardley Mapping to Identify AI Opportunities](#using-wardley-mapping-to-identify-ai-opportunities)
+      - [Ethical Considerations of AI and Wardley Mapping](#ethical-considerations-of-ai-and-wardley-mapping)
+    - [Wardley Mapping and Cloud Computing](#wardley-mapping-and-cloud-computing)
+      - [Mapping the Evolution of Cloud Services](#mapping-the-evolution-of-cloud-services)
+      - [Strategic Implications of Cloud for Different Industries](#strategic-implications-of-cloud-for-different-industries)
+      - [Using Wardley Mapping to Optimise Cloud Adoption](#using-wardley-mapping-to-optimise-cloud-adoption)
+      - [Managing Cloud Dependencies and Risks](#managing-cloud-dependencies-and-risks)
+    - [Adapting Wardley Mapping to New Contexts](#adapting-wardley-mapping-to-new-contexts)
+      - [Applying Wardley Mapping to New Industries and Sectors](#applying-wardley-mapping-to-new-industries-and-sectors)
+      - [Integrating Wardley Mapping with Other Strategic Frameworks](#integrating-wardley-mapping-with-other-strategic-frameworks)
+      - [The Ongoing Evolution of Wardley Mapping](#the-ongoing-evolution-of-wardley-mapping)
+      - [Resources for Further Learning](#resources-for-further-learning)
+  - [Conclusion: Mastering Strategic Clarity with Wardley Mapping](#conclusion-mastering-strategic-clarity-with-wardley-mapping)
+    - [The Power of Visualisation and Context](#the-power-of-visualisation-and-context)
+      - [Recap of Key Concepts](#recap-of-key-concepts)
+      - [The Importance of Continuous Mapping](#the-importance-of-continuous-mapping)
+      - [Building a Strategic Culture with Wardley Mapping](#building-a-strategic-culture-with-wardley-mapping)
+      - [Final Thoughts and Encouragement](#final-thoughts-and-encouragement)
 
 
 ## Introduction to Wardley Mapping

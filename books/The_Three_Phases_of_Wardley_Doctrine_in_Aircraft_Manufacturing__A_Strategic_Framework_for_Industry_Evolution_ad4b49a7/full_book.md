@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution
-  - Introduction to Wardley Doctrine in Aircraft Manufacturing
-    - Understanding Wardley Mapping Fundamentals
-      - The Strategy Cycle in Aviation Context
-      - Components of a Wardley Map in Aircraft Manufacturing
-      - Evolution and Movement in Aviation Value Chains
-    - The Three Phases Overview
-      - Phase I: Stop Self-Harm in Aircraft Manufacturing
-      - Phase II: Becoming Context-Aware in Aviation
-      - Phase III: Better for Less in Aircraft Production
-  - Phase I: Stop Self-Harm - Building the Foundation
-    - Establishing Common Language in Aviation
-      - Standardizing Terminology Across Manufacturing Units
-      - Creating Clear Communication Channels
-      - Implementing Safety-Critical Communication Protocols
-    - Understanding User Needs
-      - Identifying Key Stakeholders in Aircraft Manufacturing
-      - Mapping Customer Requirements to Production Capabilities
-      - Regulatory Compliance and Safety Standards
-    - Removing Bias and Duplication
-      - Streamlining Manufacturing Processes
-      - Eliminating Redundant Operations
-      - Optimizing Supply Chain Integration
-  - Phase II: Becoming Context-Aware - Strategic Positioning
-    - Market and Technology Evolution Analysis
-      - Mapping Component Evolution in Aircraft Systems
-      - Understanding Emerging Technologies Impact
-      - Competitive Landscape Assessment
-    - Supply Chain Optimization
-      - Digital Transformation in Supply Networks
-      - Supplier Relationship Management
-      - Risk Mitigation Strategies
-    - Strategic Decision-Making
-      - Leveraging Data Analytics
-      - Building Strategic Partnerships
-      - Investment Prioritization Framework
-  - Phase III: Better for Less - Operational Excellence
-    - Advanced Manufacturing Technologies
-      - Industry 4.0 Implementation
-      - Automation and Robotics Integration
-      - Smart Factory Development
-    - Sustainable Production Practices
-      - Environmental Impact Reduction
-      - Resource Optimization
-      - Green Manufacturing Initiatives
-    - Quality and Efficiency Optimization
-      - Advanced Quality Control Systems
-      - Lean Manufacturing Implementation
-      - Continuous Improvement Programs
-  - Future State Planning and Implementation
-    - Emerging Technologies Integration
-      - AI and Machine Learning Applications
-      - Advanced Materials Development
-      - Next-Generation Manufacturing Systems
-    - Sustainability and Innovation
-      - Zero-Emission Manufacturing
-      - Circular Economy Adoption
-      - Innovation Pipeline Management
+- [The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution](#the-three-phases-of-wardley-doctrine-in-aircraft-manufacturing-a-strategic-framework-for-industry-evolution)
+  - [Introduction to Wardley Doctrine in Aircraft Manufacturing](#introduction-to-wardley-doctrine-in-aircraft-manufacturing)
+    - [Understanding Wardley Mapping Fundamentals](#understanding-wardley-mapping-fundamentals)
+      - [The Strategy Cycle in Aviation Context](#the-strategy-cycle-in-aviation-context)
+      - [Components of a Wardley Map in Aircraft Manufacturing](#components-of-a-wardley-map-in-aircraft-manufacturing)
+      - [Evolution and Movement in Aviation Value Chains](#evolution-and-movement-in-aviation-value-chains)
+    - [The Three Phases Overview](#the-three-phases-overview)
+      - [Phase I: Stop Self-Harm in Aircraft Manufacturing](#phase-i-stop-self-harm-in-aircraft-manufacturing)
+      - [Phase II: Becoming Context-Aware in Aviation](#phase-ii-becoming-context-aware-in-aviation)
+      - [Phase III: Better for Less in Aircraft Production](#phase-iii-better-for-less-in-aircraft-production)
+  - [Phase I: Stop Self-Harm - Building the Foundation](#phase-i-stop-self-harm-building-the-foundation)
+    - [Establishing Common Language in Aviation](#establishing-common-language-in-aviation)
+      - [Standardizing Terminology Across Manufacturing Units](#standardizing-terminology-across-manufacturing-units)
+      - [Creating Clear Communication Channels](#creating-clear-communication-channels)
+      - [Implementing Safety-Critical Communication Protocols](#implementing-safety-critical-communication-protocols)
+    - [Understanding User Needs](#understanding-user-needs)
+      - [Identifying Key Stakeholders in Aircraft Manufacturing](#identifying-key-stakeholders-in-aircraft-manufacturing)
+      - [Mapping Customer Requirements to Production Capabilities](#mapping-customer-requirements-to-production-capabilities)
+      - [Regulatory Compliance and Safety Standards](#regulatory-compliance-and-safety-standards)
+    - [Removing Bias and Duplication](#removing-bias-and-duplication)
+      - [Streamlining Manufacturing Processes](#streamlining-manufacturing-processes)
+      - [Eliminating Redundant Operations](#eliminating-redundant-operations)
+      - [Optimizing Supply Chain Integration](#optimizing-supply-chain-integration)
+  - [Phase II: Becoming Context-Aware - Strategic Positioning](#phase-ii-becoming-context-aware-strategic-positioning)
+    - [Market and Technology Evolution Analysis](#market-and-technology-evolution-analysis)
+      - [Mapping Component Evolution in Aircraft Systems](#mapping-component-evolution-in-aircraft-systems)
+      - [Understanding Emerging Technologies Impact](#understanding-emerging-technologies-impact)
+      - [Competitive Landscape Assessment](#competitive-landscape-assessment)
+    - [Supply Chain Optimization](#supply-chain-optimization)
+      - [Digital Transformation in Supply Networks](#digital-transformation-in-supply-networks)
+      - [Supplier Relationship Management](#supplier-relationship-management)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+    - [Strategic Decision-Making](#strategic-decision-making)
+      - [Leveraging Data Analytics](#leveraging-data-analytics)
+      - [Building Strategic Partnerships](#building-strategic-partnerships)
+      - [Investment Prioritization Framework](#investment-prioritization-framework)
+  - [Phase III: Better for Less - Operational Excellence](#phase-iii-better-for-less-operational-excellence)
+    - [Advanced Manufacturing Technologies](#advanced-manufacturing-technologies)
+      - [Industry 4.0 Implementation](#industry-40-implementation)
+      - [Automation and Robotics Integration](#automation-and-robotics-integration)
+      - [Smart Factory Development](#smart-factory-development)
+    - [Sustainable Production Practices](#sustainable-production-practices)
+      - [Environmental Impact Reduction](#environmental-impact-reduction)
+      - [Resource Optimization](#resource-optimization)
+      - [Green Manufacturing Initiatives](#green-manufacturing-initiatives)
+    - [Quality and Efficiency Optimization](#quality-and-efficiency-optimization)
+      - [Advanced Quality Control Systems](#advanced-quality-control-systems)
+      - [Lean Manufacturing Implementation](#lean-manufacturing-implementation)
+      - [Continuous Improvement Programs](#continuous-improvement-programs)
+  - [Future State Planning and Implementation](#future-state-planning-and-implementation)
+    - [Emerging Technologies Integration](#emerging-technologies-integration)
+      - [AI and Machine Learning Applications](#ai-and-machine-learning-applications)
+      - [Advanced Materials Development](#advanced-materials-development)
+      - [Next-Generation Manufacturing Systems](#next-generation-manufacturing-systems)
+    - [Sustainability and Innovation](#sustainability-and-innovation)
+      - [Zero-Emission Manufacturing](#zero-emission-manufacturing)
+      - [Circular Economy Adoption](#circular-economy-adoption)
+      - [Innovation Pipeline Management](#innovation-pipeline-management)
 
 
 ## Introduction to Wardley Doctrine in Aircraft Manufacturing

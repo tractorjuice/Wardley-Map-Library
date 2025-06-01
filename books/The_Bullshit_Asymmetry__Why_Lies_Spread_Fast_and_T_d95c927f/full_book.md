@@ -2,48 +2,48 @@
 
 # Table of Contents
 
-- The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last
-  - Introduction: The Modern Misinformation Challenge
-    - The Scale of the Problem
-      - The Digital Information Explosion
-      - The Cost of Misinformation to Society
-      - Understanding the Asymmetry Principle
-  - The Science Behind the Asymmetry
-    - Cognitive Foundations
-      - How Our Brains Process Information
-      - Common Cognitive Biases
-      - The Psychology of Belief Formation
-    - The Mathematics of Misinformation
-      - Quantifying Information Spread
-      - Network Effects and Viral Patterns
-      - The Energy Cost of Debunking
-  - The Digital Amplification Effect
-    - Social Media Dynamics
-      - Echo Chambers and Filter Bubbles
-      - Algorithmic Amplification
-      - Viral Content Mechanics
-    - Platform Architecture
-      - Content Distribution Systems
-      - Engagement Metrics
-      - Platform Policies and Their Impact
-  - Professional Strategies for Truth-Telling
-    - Institutional Approaches
-      - Media Organisation Protocols
-      - Educational Institution Guidelines
-      - Corporate Communication Strategies
-    - Efficient Debunking Methods
-      - Resource Optimization Techniques
-      - Rapid Response Frameworks
-      - Collaborative Fact-Checking Networks
-  - Personal Defence Against Misinformation
-    - Critical Thinking Tools
-      - Quick Assessment Techniques
-      - Source Evaluation Methods
-      - Logical Fallacy Detection
-    - Practical Fact-Checking
-      - Digital Literacy Skills
-      - Verification Tools and Resources
-      - Personal Information Hygiene
+- [The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last](#the-bullshit-asymmetry-why-lies-spread-fast-and-truth-comes-last)
+  - [Introduction: The Modern Misinformation Challenge](#introduction-the-modern-misinformation-challenge)
+    - [The Scale of the Problem](#the-scale-of-the-problem)
+      - [The Digital Information Explosion](#the-digital-information-explosion)
+      - [The Cost of Misinformation to Society](#the-cost-of-misinformation-to-society)
+      - [Understanding the Asymmetry Principle](#understanding-the-asymmetry-principle)
+  - [The Science Behind the Asymmetry](#the-science-behind-the-asymmetry)
+    - [Cognitive Foundations](#cognitive-foundations)
+      - [How Our Brains Process Information](#how-our-brains-process-information)
+      - [Common Cognitive Biases](#common-cognitive-biases)
+      - [The Psychology of Belief Formation](#the-psychology-of-belief-formation)
+    - [The Mathematics of Misinformation](#the-mathematics-of-misinformation)
+      - [Quantifying Information Spread](#quantifying-information-spread)
+      - [Network Effects and Viral Patterns](#network-effects-and-viral-patterns)
+      - [The Energy Cost of Debunking](#the-energy-cost-of-debunking)
+  - [The Digital Amplification Effect](#the-digital-amplification-effect)
+    - [Social Media Dynamics](#social-media-dynamics)
+      - [Echo Chambers and Filter Bubbles](#echo-chambers-and-filter-bubbles)
+      - [Algorithmic Amplification](#algorithmic-amplification)
+      - [Viral Content Mechanics](#viral-content-mechanics)
+    - [Platform Architecture](#platform-architecture)
+      - [Content Distribution Systems](#content-distribution-systems)
+      - [Engagement Metrics](#engagement-metrics)
+      - [Platform Policies and Their Impact](#platform-policies-and-their-impact)
+  - [Professional Strategies for Truth-Telling](#professional-strategies-for-truth-telling)
+    - [Institutional Approaches](#institutional-approaches)
+      - [Media Organisation Protocols](#media-organisation-protocols)
+      - [Educational Institution Guidelines](#educational-institution-guidelines)
+      - [Corporate Communication Strategies](#corporate-communication-strategies)
+    - [Efficient Debunking Methods](#efficient-debunking-methods)
+      - [Resource Optimization Techniques](#resource-optimization-techniques)
+      - [Rapid Response Frameworks](#rapid-response-frameworks)
+      - [Collaborative Fact-Checking Networks](#collaborative-fact-checking-networks)
+  - [Personal Defence Against Misinformation](#personal-defence-against-misinformation)
+    - [Critical Thinking Tools](#critical-thinking-tools)
+      - [Quick Assessment Techniques](#quick-assessment-techniques)
+      - [Source Evaluation Methods](#source-evaluation-methods)
+      - [Logical Fallacy Detection](#logical-fallacy-detection)
+    - [Practical Fact-Checking](#practical-fact-checking)
+      - [Digital Literacy Skills](#digital-literacy-skills)
+      - [Verification Tools and Resources](#verification-tools-and-resources)
+      - [Personal Information Hygiene](#personal-information-hygiene)
 
 
 ## Introduction: The Modern Misinformation Challenge

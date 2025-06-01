@@ -2,60 +2,60 @@
 
 # Table of Contents
 
-- Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Evolution Mapping
-      - The Challenge of Modern Strategy
-      - Introduction to Wardley Maps
-      - Why Visual Strategy Matters
-    - Foundation Concepts
-      - Evolution and Value Chain Basics
-      - Strategic Positioning Principles
-      - Map Components Overview
-  - Mastering Wardley Map Components
-    - Map Construction Fundamentals
-      - Value Chain Mapping
-      - Evolution Axis Analysis
-      - Component Positioning
-      - Movement and Dynamics
-    - Advanced Mapping Techniques
-      - Dependency Analysis
-      - Anchor Points and Perspectives
-      - Climate and Market Forces
-      - Strategic Patterns Recognition
-  - Strategic Landscape Analysis
-    - Market Evolution Patterns
-      - Industry Lifecycle Analysis
-      - Competition Dynamics
-      - Innovation Patterns
-      - Market Positioning Strategies
-    - Competitive Advantage Analysis
-      - Opportunity Identification
-      - Threat Assessment
-      - Strategic Options Evaluation
-      - Competitive Response Planning
-  - From Maps to Action
-    - Strategic Initiative Development
-      - Converting Insights to Actions
-      - Priority Setting Framework
-      - Resource Allocation Planning
-      - Timeline Development
-    - Implementation Architecture
-      - Organizational Capability Building
-      - Change Management Approaches
-      - Risk Mitigation Strategies
-      - Progress Monitoring Systems
-  - Real-World Applications and Case Studies
-    - Industry-Specific Applications
-      - Technology Sector Cases
-      - Manufacturing Industry Examples
-      - Service Industry Applications
-      - Cross-Industry Lessons
-    - Implementation Success Stories
-      - Digital Transformation Projects
-      - Market Entry Strategies
-      - Innovation Programme Cases
-      - Organizational Change Initiatives
+- [Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps](#strategic-evolution-mapping-transforming-business-strategy-with-wardley-maps)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Evolution Mapping](#understanding-strategic-evolution-mapping)
+      - [The Challenge of Modern Strategy](#the-challenge-of-modern-strategy)
+      - [Introduction to Wardley Maps](#introduction-to-wardley-maps)
+      - [Why Visual Strategy Matters](#why-visual-strategy-matters)
+    - [Foundation Concepts](#foundation-concepts)
+      - [Evolution and Value Chain Basics](#evolution-and-value-chain-basics)
+      - [Strategic Positioning Principles](#strategic-positioning-principles)
+      - [Map Components Overview](#map-components-overview)
+  - [Mastering Wardley Map Components](#mastering-wardley-map-components)
+    - [Map Construction Fundamentals](#map-construction-fundamentals)
+      - [Value Chain Mapping](#value-chain-mapping)
+      - [Evolution Axis Analysis](#evolution-axis-analysis)
+      - [Component Positioning](#component-positioning)
+      - [Movement and Dynamics](#movement-and-dynamics)
+    - [Advanced Mapping Techniques](#advanced-mapping-techniques)
+      - [Dependency Analysis](#dependency-analysis)
+      - [Anchor Points and Perspectives](#anchor-points-and-perspectives)
+      - [Climate and Market Forces](#climate-and-market-forces)
+      - [Strategic Patterns Recognition](#strategic-patterns-recognition)
+  - [Strategic Landscape Analysis](#strategic-landscape-analysis)
+    - [Market Evolution Patterns](#market-evolution-patterns)
+      - [Industry Lifecycle Analysis](#industry-lifecycle-analysis)
+      - [Competition Dynamics](#competition-dynamics)
+      - [Innovation Patterns](#innovation-patterns)
+      - [Market Positioning Strategies](#market-positioning-strategies)
+    - [Competitive Advantage Analysis](#competitive-advantage-analysis)
+      - [Opportunity Identification](#opportunity-identification)
+      - [Threat Assessment](#threat-assessment)
+      - [Strategic Options Evaluation](#strategic-options-evaluation)
+      - [Competitive Response Planning](#competitive-response-planning)
+  - [From Maps to Action](#from-maps-to-action)
+    - [Strategic Initiative Development](#strategic-initiative-development)
+      - [Converting Insights to Actions](#converting-insights-to-actions)
+      - [Priority Setting Framework](#priority-setting-framework)
+      - [Resource Allocation Planning](#resource-allocation-planning)
+      - [Timeline Development](#timeline-development)
+    - [Implementation Architecture](#implementation-architecture)
+      - [Organizational Capability Building](#organizational-capability-building)
+      - [Change Management Approaches](#change-management-approaches)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+      - [Progress Monitoring Systems](#progress-monitoring-systems)
+  - [Real-World Applications and Case Studies](#real-world-applications-and-case-studies)
+    - [Industry-Specific Applications](#industry-specific-applications)
+      - [Technology Sector Cases](#technology-sector-cases)
+      - [Manufacturing Industry Examples](#manufacturing-industry-examples)
+      - [Service Industry Applications](#service-industry-applications)
+      - [Cross-Industry Lessons](#cross-industry-lessons)
+    - [Implementation Success Stories](#implementation-success-stories)
+      - [Digital Transformation Projects](#digital-transformation-projects)
+      - [Market Entry Strategies](#market-entry-strategies)
+      - [Innovation Programme Cases](#innovation-programme-cases)
+      - [Organizational Change Initiatives](#organizational-change-initiatives)
 
 
 ## Introduction: The Power of Visual Strategy

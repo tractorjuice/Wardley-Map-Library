@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Mapping Sustainable Development: A Strategic Approach to SDGs using Wardley Mapping
-  - Introduction: Understanding the SDG Strategy Challenge
-    - The Complex World of Sustainable Development Goals
-      - Overview of the 17 SDGs and Their Targets
-      - Current Challenges in SDG Implementation
-      - The Need for Strategic Visualization
-    - Introduction to Wardley Mapping
-      - Core Principles and Components
-      - Value Chain Mapping Fundamentals
-      - Evolution and Strategic Planning
-  - Mapping the SDG Landscape
-    - Building SDG Value Chains
-      - Identifying Key Components
-      - Mapping Dependencies and Interconnections
-      - Evolution Assessment of SDG Components
-    - Visualizing SDG Dependencies
-      - Cross-Goal Dependencies
-      - Resource and Capability Requirements
-      - Impact Pathways and Trade-offs
-  - Stakeholder Ecosystem Mapping
-    - Identifying and Mapping Stakeholders
-      - Stakeholder Analysis Techniques
-      - Power-Interest Dynamics
-      - Collaboration Opportunities
-    - Building Strategic Alliances
-      - Partnership Development
-      - Resource Sharing Models
-      - Governance Structures
-  - Implementation Strategies and Case Studies
-    - Sector-Specific Applications
-      - Public Sector Implementation
-      - Private Sector Integration
-      - NGO and Civil Society Approaches
-    - Case Studies in SDG Mapping
-      - Urban Development Projects
-      - Climate Action Initiatives
-      - Poverty Reduction Programs
-  - Future Planning and Adaptation
-    - Scenario Planning for SDGs
-      - Future State Mapping
-      - Risk Assessment and Mitigation
-      - Adaptation Strategies
-    - Measuring Progress and Impact
-      - Key Performance Indicators
-      - Impact Assessment Frameworks
-      - Continuous Improvement Methods
+- [Mapping Sustainable Development: A Strategic Approach to SDGs using Wardley Mapping](#mapping-sustainable-development-a-strategic-approach-to-sdgs-using-wardley-mapping)
+  - [Introduction: Understanding the SDG Strategy Challenge](#introduction-understanding-the-sdg-strategy-challenge)
+    - [The Complex World of Sustainable Development Goals](#the-complex-world-of-sustainable-development-goals)
+      - [Overview of the 17 SDGs and Their Targets](#overview-of-the-17-sdgs-and-their-targets)
+      - [Current Challenges in SDG Implementation](#current-challenges-in-sdg-implementation)
+      - [The Need for Strategic Visualization](#the-need-for-strategic-visualization)
+    - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Core Principles and Components](#core-principles-and-components)
+      - [Value Chain Mapping Fundamentals](#value-chain-mapping-fundamentals)
+      - [Evolution and Strategic Planning](#evolution-and-strategic-planning)
+  - [Mapping the SDG Landscape](#mapping-the-sdg-landscape)
+    - [Building SDG Value Chains](#building-sdg-value-chains)
+      - [Identifying Key Components](#identifying-key-components)
+      - [Mapping Dependencies and Interconnections](#mapping-dependencies-and-interconnections)
+      - [Evolution Assessment of SDG Components](#evolution-assessment-of-sdg-components)
+    - [Visualizing SDG Dependencies](#visualizing-sdg-dependencies)
+      - [Cross-Goal Dependencies](#cross-goal-dependencies)
+      - [Resource and Capability Requirements](#resource-and-capability-requirements)
+      - [Impact Pathways and Trade-offs](#impact-pathways-and-trade-offs)
+  - [Stakeholder Ecosystem Mapping](#stakeholder-ecosystem-mapping)
+    - [Identifying and Mapping Stakeholders](#identifying-and-mapping-stakeholders)
+      - [Stakeholder Analysis Techniques](#stakeholder-analysis-techniques)
+      - [Power-Interest Dynamics](#power-interest-dynamics)
+      - [Collaboration Opportunities](#collaboration-opportunities)
+    - [Building Strategic Alliances](#building-strategic-alliances)
+      - [Partnership Development](#partnership-development)
+      - [Resource Sharing Models](#resource-sharing-models)
+      - [Governance Structures](#governance-structures)
+  - [Implementation Strategies and Case Studies](#implementation-strategies-and-case-studies)
+    - [Sector-Specific Applications](#sector-specific-applications)
+      - [Public Sector Implementation](#public-sector-implementation)
+      - [Private Sector Integration](#private-sector-integration)
+      - [NGO and Civil Society Approaches](#ngo-and-civil-society-approaches)
+    - [Case Studies in SDG Mapping](#case-studies-in-sdg-mapping)
+      - [Urban Development Projects](#urban-development-projects)
+      - [Climate Action Initiatives](#climate-action-initiatives)
+      - [Poverty Reduction Programs](#poverty-reduction-programs)
+  - [Future Planning and Adaptation](#future-planning-and-adaptation)
+    - [Scenario Planning for SDGs](#scenario-planning-for-sdgs)
+      - [Future State Mapping](#future-state-mapping)
+      - [Risk Assessment and Mitigation](#risk-assessment-and-mitigation)
+      - [Adaptation Strategies](#adaptation-strategies)
+    - [Measuring Progress and Impact](#measuring-progress-and-impact)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Impact Assessment Frameworks](#impact-assessment-frameworks)
+      - [Continuous Improvement Methods](#continuous-improvement-methods)
 
 
 ## Introduction: Understanding the SDG Strategy Challenge

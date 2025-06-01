@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- The AI Superpower Showdown: Inside the US-China Race for Technological Supremacy
-  - Introduction: The New Cold War in Artificial Intelligence
-    - Setting the Stage: The Global AI Race
-      - Historical Context of US-China Tech Competition
-      - Why AI Dominance Matters
-      - Key Battlegrounds and Stakes
-    - The Current State of Play
-      - Comparative AI Capabilities Assessment
-      - Strategic Advantages and Weaknesses
-      - Global Impact and Implications
-  - Core Technology Battlegrounds
-    - The Semiconductor Chess Game
-      - Supply Chain Dependencies
-      - CHIPS Act vs Made in China 2025
-      - Industry Leadership Battle
-    - Quantum Computing Race
-      - Research Breakthroughs
-      - Investment Strategies
-      - Strategic Applications
-    - Machine Learning and AI Algorithms
-      - Research Output Comparison
-      - Patent Analysis
-      - Talent Pool Development
-  - Economic and National Security Implications
-    - Global Market Dynamics
-      - Supply Chain Restructuring
-      - Investment Patterns
-      - Corporate Strategy Shifts
-    - Military Applications
-      - AI in Modern Warfare
-      - Autonomous Systems Development
-      - Defense Strategy Evolution
-    - Critical Infrastructure Protection
-      - Cybersecurity Concerns
-      - Digital Infrastructure
-      - Risk Mitigation Strategies
-  - Policy and Regulatory Landscape
-    - Governance Approaches
-      - US Regulatory Framework
-      - Chinese Government Control
-      - International Standards Battle
-    - Data Privacy and Ethics
-      - Cultural Differences
-      - Regulatory Compliance
-      - Ethical AI Development
-  - Future Scenarios and Strategic Planning
-    - Potential Future Trajectories
-      - Collaborative Scenario
-      - Competitive Scenario
-      - Decoupled Scenario
-    - Organizational Strategy Framework
-      - Risk Assessment Tools
-      - Decision-Making Guidelines
-      - Adaptation Strategies
-    - Recommendations for Stakeholders
-      - Government Policy
-      - Business Strategy
-      - International Cooperation
+- [The AI Superpower Showdown: Inside the US-China Race for Technological Supremacy](#the-ai-superpower-showdown-inside-the-us-china-race-for-technological-supremacy)
+  - [Introduction: The New Cold War in Artificial Intelligence](#introduction-the-new-cold-war-in-artificial-intelligence)
+    - [Setting the Stage: The Global AI Race](#setting-the-stage-the-global-ai-race)
+      - [Historical Context of US-China Tech Competition](#historical-context-of-us-china-tech-competition)
+      - [Why AI Dominance Matters](#why-ai-dominance-matters)
+      - [Key Battlegrounds and Stakes](#key-battlegrounds-and-stakes)
+    - [The Current State of Play](#the-current-state-of-play)
+      - [Comparative AI Capabilities Assessment](#comparative-ai-capabilities-assessment)
+      - [Strategic Advantages and Weaknesses](#strategic-advantages-and-weaknesses)
+      - [Global Impact and Implications](#global-impact-and-implications)
+  - [Core Technology Battlegrounds](#core-technology-battlegrounds)
+    - [The Semiconductor Chess Game](#the-semiconductor-chess-game)
+      - [Supply Chain Dependencies](#supply-chain-dependencies)
+      - [CHIPS Act vs Made in China 2025](#chips-act-vs-made-in-china-2025)
+      - [Industry Leadership Battle](#industry-leadership-battle)
+    - [Quantum Computing Race](#quantum-computing-race)
+      - [Research Breakthroughs](#research-breakthroughs)
+      - [Investment Strategies](#investment-strategies)
+      - [Strategic Applications](#strategic-applications)
+    - [Machine Learning and AI Algorithms](#machine-learning-and-ai-algorithms)
+      - [Research Output Comparison](#research-output-comparison)
+      - [Patent Analysis](#patent-analysis)
+      - [Talent Pool Development](#talent-pool-development)
+  - [Economic and National Security Implications](#economic-and-national-security-implications)
+    - [Global Market Dynamics](#global-market-dynamics)
+      - [Supply Chain Restructuring](#supply-chain-restructuring)
+      - [Investment Patterns](#investment-patterns)
+      - [Corporate Strategy Shifts](#corporate-strategy-shifts)
+    - [Military Applications](#military-applications)
+      - [AI in Modern Warfare](#ai-in-modern-warfare)
+      - [Autonomous Systems Development](#autonomous-systems-development)
+      - [Defense Strategy Evolution](#defense-strategy-evolution)
+    - [Critical Infrastructure Protection](#critical-infrastructure-protection)
+      - [Cybersecurity Concerns](#cybersecurity-concerns)
+      - [Digital Infrastructure](#digital-infrastructure)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+  - [Policy and Regulatory Landscape](#policy-and-regulatory-landscape)
+    - [Governance Approaches](#governance-approaches)
+      - [US Regulatory Framework](#us-regulatory-framework)
+      - [Chinese Government Control](#chinese-government-control)
+      - [International Standards Battle](#international-standards-battle)
+    - [Data Privacy and Ethics](#data-privacy-and-ethics)
+      - [Cultural Differences](#cultural-differences)
+      - [Regulatory Compliance](#regulatory-compliance)
+      - [Ethical AI Development](#ethical-ai-development)
+  - [Future Scenarios and Strategic Planning](#future-scenarios-and-strategic-planning)
+    - [Potential Future Trajectories](#potential-future-trajectories)
+      - [Collaborative Scenario](#collaborative-scenario)
+      - [Competitive Scenario](#competitive-scenario)
+      - [Decoupled Scenario](#decoupled-scenario)
+    - [Organizational Strategy Framework](#organizational-strategy-framework)
+      - [Risk Assessment Tools](#risk-assessment-tools)
+      - [Decision-Making Guidelines](#decision-making-guidelines)
+      - [Adaptation Strategies](#adaptation-strategies)
+    - [Recommendations for Stakeholders](#recommendations-for-stakeholders)
+      - [Government Policy](#government-policy)
+      - [Business Strategy](#business-strategy)
+      - [International Cooperation](#international-cooperation)
 
 
 ## Introduction: The New Cold War in Artificial Intelligence

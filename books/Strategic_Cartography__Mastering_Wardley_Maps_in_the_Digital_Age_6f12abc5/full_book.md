@@ -2,69 +2,69 @@
 
 # Table of Contents
 
-- Strategic Cartography: Mastering Wardley Maps in the Digital Age
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Mapping
-      - Why Visual Strategy Matters
-      - The Evolution of Strategic Tools
-      - Introduction to Wardley Maps
-    - The Digital Landscape
-      - Modern Business Challenges
-      - Technology-Driven Market Dynamics
-      - The Need for Dynamic Strategy
-  - Fundamentals of Wardley Mapping
-    - Core Components
-      - Value Chain Basics
-      - Evolution Axis Explained
-      - Component Positioning
-      - Movement and Dynamics
-    - Modern Visualization Techniques
-      - Digital Tools and Software
-      - Interactive Mapping
-      - Collaborative Approaches
-    - Digital-First Examples
-      - Cloud Services Mapping
-      - AI Component Analysis
-      - Platform Economy Examples
-  - Strategic Patterns and Antipatterns
-    - Common Patterns
-      - Technology Adoption Cycles
-      - Innovation Patterns
-      - Market Evolution Patterns
-    - Antipatterns to Avoid
-      - Common Strategic Mistakes
-      - Technology Investment Pitfalls
-      - Market Position Errors
-    - Emerging Patterns in Digital Markets
-      - AI and Machine Learning Impacts
-      - Cloud Computing Dynamics
-      - Platform Business Models
-  - Practical Application and Integration
-    - Workshop Frameworks
-      - Team Mapping Sessions
-      - Validation Techniques
-      - Map Evolution Processes
-    - Integration with Other Tools
-      - Blue Ocean Strategy Integration
-      - Business Model Canvas Alignment
-      - Value Chain Analysis Combination
-    - Decision Making with Maps
-      - Strategic Options Analysis
-      - Investment Decisions
-      - Resource Allocation
-  - Case Studies and Real-World Applications
-    - Technology Sector Examples
-      - Cloud Provider Strategies
-      - Software Platform Evolution
-      - Digital Service Innovation
-    - Traditional Industry Transformation
-      - Manufacturing Digital Evolution
-      - Retail Transformation
-      - Financial Services Adaptation
-    - Future Applications
-      - Emerging Technology Impacts
-      - New Market Opportunities
-      - Strategic Planning Evolution
+- [Strategic Cartography: Mastering Wardley Maps in the Digital Age](#strategic-cartography-mastering-wardley-maps-in-the-digital-age)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Mapping](#understanding-strategic-mapping)
+      - [Why Visual Strategy Matters](#why-visual-strategy-matters)
+      - [The Evolution of Strategic Tools](#the-evolution-of-strategic-tools)
+      - [Introduction to Wardley Maps](#introduction-to-wardley-maps)
+    - [The Digital Landscape](#the-digital-landscape)
+      - [Modern Business Challenges](#modern-business-challenges)
+      - [Technology-Driven Market Dynamics](#technology-driven-market-dynamics)
+      - [The Need for Dynamic Strategy](#the-need-for-dynamic-strategy)
+  - [Fundamentals of Wardley Mapping](#fundamentals-of-wardley-mapping)
+    - [Core Components](#core-components)
+      - [Value Chain Basics](#value-chain-basics)
+      - [Evolution Axis Explained](#evolution-axis-explained)
+      - [Component Positioning](#component-positioning)
+      - [Movement and Dynamics](#movement-and-dynamics)
+    - [Modern Visualization Techniques](#modern-visualization-techniques)
+      - [Digital Tools and Software](#digital-tools-and-software)
+      - [Interactive Mapping](#interactive-mapping)
+      - [Collaborative Approaches](#collaborative-approaches)
+    - [Digital-First Examples](#digital-first-examples)
+      - [Cloud Services Mapping](#cloud-services-mapping)
+      - [AI Component Analysis](#ai-component-analysis)
+      - [Platform Economy Examples](#platform-economy-examples)
+  - [Strategic Patterns and Antipatterns](#strategic-patterns-and-antipatterns)
+    - [Common Patterns](#common-patterns)
+      - [Technology Adoption Cycles](#technology-adoption-cycles)
+      - [Innovation Patterns](#innovation-patterns)
+      - [Market Evolution Patterns](#market-evolution-patterns)
+    - [Antipatterns to Avoid](#antipatterns-to-avoid)
+      - [Common Strategic Mistakes](#common-strategic-mistakes)
+      - [Technology Investment Pitfalls](#technology-investment-pitfalls)
+      - [Market Position Errors](#market-position-errors)
+    - [Emerging Patterns in Digital Markets](#emerging-patterns-in-digital-markets)
+      - [AI and Machine Learning Impacts](#ai-and-machine-learning-impacts)
+      - [Cloud Computing Dynamics](#cloud-computing-dynamics)
+      - [Platform Business Models](#platform-business-models)
+  - [Practical Application and Integration](#practical-application-and-integration)
+    - [Workshop Frameworks](#workshop-frameworks)
+      - [Team Mapping Sessions](#team-mapping-sessions)
+      - [Validation Techniques](#validation-techniques)
+      - [Map Evolution Processes](#map-evolution-processes)
+    - [Integration with Other Tools](#integration-with-other-tools)
+      - [Blue Ocean Strategy Integration](#blue-ocean-strategy-integration)
+      - [Business Model Canvas Alignment](#business-model-canvas-alignment)
+      - [Value Chain Analysis Combination](#value-chain-analysis-combination)
+    - [Decision Making with Maps](#decision-making-with-maps)
+      - [Strategic Options Analysis](#strategic-options-analysis)
+      - [Investment Decisions](#investment-decisions)
+      - [Resource Allocation](#resource-allocation)
+  - [Case Studies and Real-World Applications](#case-studies-and-real-world-applications)
+    - [Technology Sector Examples](#technology-sector-examples)
+      - [Cloud Provider Strategies](#cloud-provider-strategies)
+      - [Software Platform Evolution](#software-platform-evolution)
+      - [Digital Service Innovation](#digital-service-innovation)
+    - [Traditional Industry Transformation](#traditional-industry-transformation)
+      - [Manufacturing Digital Evolution](#manufacturing-digital-evolution)
+      - [Retail Transformation](#retail-transformation)
+      - [Financial Services Adaptation](#financial-services-adaptation)
+    - [Future Applications](#future-applications)
+      - [Emerging Technology Impacts](#emerging-technology-impacts)
+      - [New Market Opportunities](#new-market-opportunities)
+      - [Strategic Planning Evolution](#strategic-planning-evolution)
 
 
 ## Introduction: The Power of Visual Strategy

@@ -4,83 +4,83 @@
 
 # Table of Contents
 
-- Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Power of Wardley Mapping for Startups
-  - What is Wardley Mapping?
-    - Origins and core concepts
-    - Why Wardley Mapping is particularly valuable for startups
-  - The Startup Ecosystem and Wardley Maps
-    - Unique challenges faced by startups
-    - How Wardley Mapping addresses these challenges
-- Chapter 1: Fundamentals of Wardley Mapping for Startups
-  - Components of a Wardley Map
-    - Value chain analysis
-    - Evolution axis
-    - Anchors and dependencies
-  - Creating Your First Wardley Map
-    - Identifying user needs
-    - Mapping the value chain
-    - Assessing component evolution
-  - Interpreting Wardley Maps
-    - Patterns and anti-patterns
-    - Identifying strategic opportunities
-    - Common pitfalls for startups
-- Chapter 2: Market Opportunity Analysis with Wardley Maps
-  - Identifying Market Gaps
-    - Using maps to spot underserved needs
-    - Assessing market maturity
-    - Predicting future market movements
-  - Competitive Landscape Mapping
-    - Positioning your startup
-    - Identifying potential competitors and collaborators
-    - Anticipating market shifts
-  - Strategic Decision Making
-    - Build, buy, or partner decisions
-    - Prioritising product features
-    - Timing market entry
-- Chapter 3: Scaling Strategies Using Wardley Maps
-  - Resource Allocation
-    - Identifying critical components
-    - Balancing innovation and efficiency
-    - Optimising for different stages of startup growth
-  - Organisational Structure and Culture
-    - Aligning team structure with map insights
-    - Fostering innovation in evolving components
-    - Building a map-driven culture
-  - Technology Stack Decisions
-    - Evaluating technology choices
-    - Planning for future scalability
-    - Managing technical debt
-- Chapter 4: Case Studies: Wardley Mapping Success Stories
-  - Tech Startup Case Study
-    - Initial mapping and strategy
-    - Pivots and adaptations
-    - Results and lessons learned
-  - Service-based Startup Case Study
-    - Using maps for service design
-    - Scaling operations efficiently
-    - Market expansion strategies
-  - Product-based Startup Case Study
-    - Product roadmap development
-    - Supply chain optimisation
-    - Competitive positioning
-- Conclusion: Integrating Wardley Mapping into Your Startup's DNA
-  - Building a Map-Driven Culture
-    - Regular mapping sessions
-    - Encouraging strategic thinking at all levels
-    - Adapting to change with agility
-  - Future Trends in Wardley Mapping for Startups
-    - Emerging tools and technologies
-    - Integration with other strategic frameworks
-    - The evolving startup ecosystem
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success](#mapping-your-startups-future-mastering-wardley-maps-for-strategic-success)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Power of Wardley Mapping for Startups](#introduction-the-power-of-wardley-mapping-for-startups)
+  - [What is Wardley Mapping?](#what-is-wardley-mapping)
+    - [Origins and core concepts](#origins-and-core-concepts)
+    - [Why Wardley Mapping is particularly valuable for startups](#why-wardley-mapping-is-particularly-valuable-for-startups)
+  - [The Startup Ecosystem and Wardley Maps](#the-startup-ecosystem-and-wardley-maps)
+    - [Unique challenges faced by startups](#unique-challenges-faced-by-startups)
+    - [How Wardley Mapping addresses these challenges](#how-wardley-mapping-addresses-these-challenges)
+- [Chapter 1: Fundamentals of Wardley Mapping for Startups](#chapter-1-fundamentals-of-wardley-mapping-for-startups)
+  - [Components of a Wardley Map](#components-of-a-wardley-map)
+    - [Value chain analysis](#value-chain-analysis)
+    - [Evolution axis](#evolution-axis)
+    - [Anchors and dependencies](#anchors-and-dependencies)
+  - [Creating Your First Wardley Map](#creating-your-first-wardley-map)
+    - [Identifying user needs](#identifying-user-needs)
+    - [Mapping the value chain](#mapping-the-value-chain)
+    - [Assessing component evolution](#assessing-component-evolution)
+  - [Interpreting Wardley Maps](#interpreting-wardley-maps)
+    - [Patterns and anti-patterns](#patterns-and-anti-patterns)
+    - [Identifying strategic opportunities](#identifying-strategic-opportunities)
+    - [Common pitfalls for startups](#common-pitfalls-for-startups)
+- [Chapter 2: Market Opportunity Analysis with Wardley Maps](#chapter-2-market-opportunity-analysis-with-wardley-maps)
+  - [Identifying Market Gaps](#identifying-market-gaps)
+    - [Using maps to spot underserved needs](#using-maps-to-spot-underserved-needs)
+    - [Assessing market maturity](#assessing-market-maturity)
+    - [Predicting future market movements](#predicting-future-market-movements)
+  - [Competitive Landscape Mapping](#competitive-landscape-mapping)
+    - [Positioning your startup](#positioning-your-startup)
+    - [Identifying potential competitors and collaborators](#identifying-potential-competitors-and-collaborators)
+    - [Anticipating market shifts](#anticipating-market-shifts)
+  - [Strategic Decision Making](#strategic-decision-making)
+    - [Build, buy, or partner decisions](#build-buy-or-partner-decisions)
+    - [Prioritising product features](#prioritising-product-features)
+    - [Timing market entry](#timing-market-entry)
+- [Chapter 3: Scaling Strategies Using Wardley Maps](#chapter-3-scaling-strategies-using-wardley-maps)
+  - [Resource Allocation](#resource-allocation)
+    - [Identifying critical components](#identifying-critical-components)
+    - [Balancing innovation and efficiency](#balancing-innovation-and-efficiency)
+    - [Optimising for different stages of startup growth](#optimising-for-different-stages-of-startup-growth)
+  - [Organisational Structure and Culture](#organisational-structure-and-culture)
+    - [Aligning team structure with map insights](#aligning-team-structure-with-map-insights)
+    - [Fostering innovation in evolving components](#fostering-innovation-in-evolving-components)
+    - [Building a map-driven culture](#building-a-map-driven-culture)
+  - [Technology Stack Decisions](#technology-stack-decisions)
+    - [Evaluating technology choices](#evaluating-technology-choices)
+    - [Planning for future scalability](#planning-for-future-scalability)
+    - [Managing technical debt](#managing-technical-debt)
+- [Chapter 4: Case Studies: Wardley Mapping Success Stories](#chapter-4-case-studies-wardley-mapping-success-stories)
+  - [Tech Startup Case Study](#tech-startup-case-study)
+    - [Initial mapping and strategy](#initial-mapping-and-strategy)
+    - [Pivots and adaptations](#pivots-and-adaptations)
+    - [Results and lessons learned](#results-and-lessons-learned)
+  - [Service-based Startup Case Study](#service-based-startup-case-study)
+    - [Using maps for service design](#using-maps-for-service-design)
+    - [Scaling operations efficiently](#scaling-operations-efficiently)
+    - [Market expansion strategies](#market-expansion-strategies)
+  - [Product-based Startup Case Study](#product-based-startup-case-study)
+    - [Product roadmap development](#product-roadmap-development)
+    - [Supply chain optimisation](#supply-chain-optimisation)
+    - [Competitive positioning](#competitive-positioning)
+- [Conclusion: Integrating Wardley Mapping into Your Startup's DNA](#conclusion-integrating-wardley-mapping-into-your-startups-dna)
+  - [Building a Map-Driven Culture](#building-a-map-driven-culture)
+    - [Regular mapping sessions](#regular-mapping-sessions)
+    - [Encouraging strategic thinking at all levels](#encouraging-strategic-thinking-at-all-levels)
+    - [Adapting to change with agility](#adapting-to-change-with-agility)
+  - [Future Trends in Wardley Mapping for Startups](#future-trends-in-wardley-mapping-for-startups)
+    - [Emerging tools and technologies](#emerging-tools-and-technologies)
+    - [Integration with other strategic frameworks](#integration-with-other-strategic-frameworks)
+    - [The evolving startup ecosystem](#the-evolving-startup-ecosystem)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The Power of Wardley Mapping for Startups

@@ -2,114 +2,114 @@
 
 # Table of Contents
 
-- Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition
-  - Chapter 1: Introduction – Charting the Landscape of Competition
-    - 1.1 The Red Queen Effect – Origins and Implications
-      - Historical context and biological metaphor
-      - Parallels in business competition
-    - 1.2 Wardley Mapping Fundamentals – Purpose and Power
-      - Defining Wardley Mapping and its lineage
-      - Key benefits for strategic clarity
-    - 1.3 Why Combine Wardley Mapping and the Red Queen Effect
-      - Complementary strengths of map and metaphor
-      - Strategic synergy for continuous adaptation
-    - 1.4 How to Use This Book
-      - Overview of chapters and progression
-      - Suggested reading paths for different audiences
-  - Chapter 2: Core Concepts – Fundamentals of Wardley Mapping and the Red Queen Effect
-    - 2.1 Anatomy of a Wardley Map
-      - Value chain decomposition
-      - Evolution axis and component positioning
-    - 2.2 Understanding the Red Queen Effect in Business
-      - Competitive races and arms races
-      - Mechanisms of continuous adaptation
-    - 2.3 Step‑by‑Step Map Creation
-      - Identifying user needs and actors
-      - Mapping components and evolution stages
-      - Plotting movement and flows
-    - 2.4 Iterative Map Refinement and Red Queen Dynamics
-      - Feedback loops and iteration cycles
-      - Adjusting strategies to competitor shifts
-  - Chapter 3: Situational Awareness – Mapping Value Chains, Landscape Evolution and Competitive Pressures
-    - 3.1 Deep Dive into Value Chain Mapping
-      - Decomposing products and services
-      - Ecosystem interdependencies and stakeholders
-    - 3.2 Tracking Landscape Evolution
-      - Life‑cycle stages of components
-      - Detecting evolution triggers
-    - 3.3 Identifying and Mapping Competitive Pressures
-      - Recognising competitor signals
-      - Mapping emerging market entrants
-    - 3.4 Environmental Scanning and Signal Detection
-      - Distinguishing noise from meaningful signals
-      - Tools for continuous scanning
-    - 3.5 Using Maps to Anticipate the Red Queen Race
-      - Scenario planning with maps
-      - Early‑warning indicators of competitor moves
-  - Chapter 4: Integrated Frameworks – Synergies with Agile, Lean Startup, Cynefin, OKRs and Game Theory
-    - 4.1 Agile and Wardley Mapping
-      - Incorporating iteration cycles
-  - Aligning Agile Sprints and Map Cadences
-  - Embedding Red Queen Feedback Loops
-      - Prioritisation based on map insights
-    - 4.2 Lean Startup Principles in the Map
-      - Build‑Measure‑Learn loop
-      - Hypothesis testing within value chains
-    - 4.3 Cynefin for Contextual Decision Making
-      - Mapping domains and contexts
-      - Selecting appropriate responses
-    - 4.4 Aligning OKRs with Strategic Maps
-      - Setting objectives from map insights
-      - Tracking key results over time
-    - 4.5 Game Theory Insights for Competitive Strategy
-      - Zero‑sum versus non‑zero‑sum games
-      - Payoff matrices and strategic moves
-  - Chapter 5: Cross‑Industry Case Studies – Real‑World Applications
-    - 5.1 Technology Sector
-      - Cloud evolution and commoditisation
-      - Platform wars and ecosystem plays
-    - 5.2 Healthcare Industry
-      - Digital transformation hurdles
-      - Navigating regulatory pressures
-    - 5.3 Finance and Banking
-      - Fintech disruption dynamics
-      - Compliance and legacy system evolution
-    - 5.4 Public Sector and Nonprofits
-      - Policy shifts and service delivery
-      - Citizen‑centric mapping approaches
-    - 5.5 Lessons Learned and Best Practices
-      - Common pitfalls across industries
-      - Patterns for successful adaptation
-  - Chapter 6: Overcoming Barriers – Inertia, Cultural Resistance, Ethics and Mapping Pitfalls
-    - 6.1 Recognising and Overcoming Organisational Inertia
-      - Change management frameworks
-      - Engaging leadership sponsors
-    - 6.2 Cultural Resistance and Adoption Strategies
-      - Building internal champions
-      - Designing training programmes
-    - Sample Training Sprint Schedule
-    - 6.3 Ethical and Privacy Considerations
-      - Data usage ethics
-      - Transparency and consent
-    - 6.4 Common Mapping Pitfalls and How to Avoid Them
-      - Overcomplexity and feature bloat
-      - Misplaced component boundaries
-    - 6.5 Sustaining Momentum and Continuous Learning
-      - Communities of practice
-      - Regular map audits and updates
-  - Chapter 7: Conclusion – Next Steps and the Future of Strategic Mapping
-    - 7.1 Synthesising Insights
-      - Key takeaways recap
-      - Integration checklist
-    - 7.2 Developing a Mapping Centre of Excellence
-      - Governance and operating models
-      - Skills and competency frameworks
-    - 7.3 Anticipating Future Red Queen Races
-      - Emerging technologies on the horizon
-      - Geopolitical and societal shifts
-    - 7.4 Further Resources and Communities
-      - Recommended reading and tools
-      - Professional networks and forums
+- [Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition](#mapping-the-red-queen-a-guide-to-wardley-mapping-and-staying-ahead-of-the-competition)
+  - [Chapter 1: Introduction – Charting the Landscape of Competition](#chapter-1-introduction-charting-the-landscape-of-competition)
+    - [1.1 The Red Queen Effect – Origins and Implications](#11-the-red-queen-effect-origins-and-implications)
+      - [Historical context and biological metaphor](#historical-context-and-biological-metaphor)
+      - [Parallels in business competition](#parallels-in-business-competition)
+    - [1.2 Wardley Mapping Fundamentals – Purpose and Power](#12-wardley-mapping-fundamentals-purpose-and-power)
+      - [Defining Wardley Mapping and its lineage](#defining-wardley-mapping-and-its-lineage)
+      - [Key benefits for strategic clarity](#key-benefits-for-strategic-clarity)
+    - [1.3 Why Combine Wardley Mapping and the Red Queen Effect](#13-why-combine-wardley-mapping-and-the-red-queen-effect)
+      - [Complementary strengths of map and metaphor](#complementary-strengths-of-map-and-metaphor)
+      - [Strategic synergy for continuous adaptation](#strategic-synergy-for-continuous-adaptation)
+    - [1.4 How to Use This Book](#14-how-to-use-this-book)
+      - [Overview of chapters and progression](#overview-of-chapters-and-progression)
+      - [Suggested reading paths for different audiences](#suggested-reading-paths-for-different-audiences)
+  - [Chapter 2: Core Concepts – Fundamentals of Wardley Mapping and the Red Queen Effect](#chapter-2-core-concepts-fundamentals-of-wardley-mapping-and-the-red-queen-effect)
+    - [2.1 Anatomy of a Wardley Map](#21-anatomy-of-a-wardley-map)
+      - [Value chain decomposition](#value-chain-decomposition)
+      - [Evolution axis and component positioning](#evolution-axis-and-component-positioning)
+    - [2.2 Understanding the Red Queen Effect in Business](#22-understanding-the-red-queen-effect-in-business)
+      - [Competitive races and arms races](#competitive-races-and-arms-races)
+      - [Mechanisms of continuous adaptation](#mechanisms-of-continuous-adaptation)
+    - [2.3 Step‑by‑Step Map Creation](#23-stepbystep-map-creation)
+      - [Identifying user needs and actors](#identifying-user-needs-and-actors)
+      - [Mapping components and evolution stages](#mapping-components-and-evolution-stages)
+      - [Plotting movement and flows](#plotting-movement-and-flows)
+    - [2.4 Iterative Map Refinement and Red Queen Dynamics](#24-iterative-map-refinement-and-red-queen-dynamics)
+      - [Feedback loops and iteration cycles](#feedback-loops-and-iteration-cycles)
+      - [Adjusting strategies to competitor shifts](#adjusting-strategies-to-competitor-shifts)
+  - [Chapter 3: Situational Awareness – Mapping Value Chains, Landscape Evolution and Competitive Pressures](#chapter-3-situational-awareness-mapping-value-chains-landscape-evolution-and-competitive-pressures)
+    - [3.1 Deep Dive into Value Chain Mapping](#31-deep-dive-into-value-chain-mapping)
+      - [Decomposing products and services](#decomposing-products-and-services)
+      - [Ecosystem interdependencies and stakeholders](#ecosystem-interdependencies-and-stakeholders)
+    - [3.2 Tracking Landscape Evolution](#32-tracking-landscape-evolution)
+      - [Life‑cycle stages of components](#lifecycle-stages-of-components)
+      - [Detecting evolution triggers](#detecting-evolution-triggers)
+    - [3.3 Identifying and Mapping Competitive Pressures](#33-identifying-and-mapping-competitive-pressures)
+      - [Recognising competitor signals](#recognising-competitor-signals)
+      - [Mapping emerging market entrants](#mapping-emerging-market-entrants)
+    - [3.4 Environmental Scanning and Signal Detection](#34-environmental-scanning-and-signal-detection)
+      - [Distinguishing noise from meaningful signals](#distinguishing-noise-from-meaningful-signals)
+      - [Tools for continuous scanning](#tools-for-continuous-scanning)
+    - [3.5 Using Maps to Anticipate the Red Queen Race](#35-using-maps-to-anticipate-the-red-queen-race)
+      - [Scenario planning with maps](#scenario-planning-with-maps)
+      - [Early‑warning indicators of competitor moves](#earlywarning-indicators-of-competitor-moves)
+  - [Chapter 4: Integrated Frameworks – Synergies with Agile, Lean Startup, Cynefin, OKRs and Game Theory](#chapter-4-integrated-frameworks-synergies-with-agile-lean-startup-cynefin-okrs-and-game-theory)
+    - [4.1 Agile and Wardley Mapping](#41-agile-and-wardley-mapping)
+      - [Incorporating iteration cycles](#incorporating-iteration-cycles)
+  - [Aligning Agile Sprints and Map Cadences](#aligning-agile-sprints-and-map-cadences)
+  - [Embedding Red Queen Feedback Loops](#embedding-red-queen-feedback-loops)
+      - [Prioritisation based on map insights](#prioritisation-based-on-map-insights)
+    - [4.2 Lean Startup Principles in the Map](#42-lean-startup-principles-in-the-map)
+      - [Build‑Measure‑Learn loop](#buildmeasurelearn-loop)
+      - [Hypothesis testing within value chains](#hypothesis-testing-within-value-chains)
+    - [4.3 Cynefin for Contextual Decision Making](#43-cynefin-for-contextual-decision-making)
+      - [Mapping domains and contexts](#mapping-domains-and-contexts)
+      - [Selecting appropriate responses](#selecting-appropriate-responses)
+    - [4.4 Aligning OKRs with Strategic Maps](#44-aligning-okrs-with-strategic-maps)
+      - [Setting objectives from map insights](#setting-objectives-from-map-insights)
+      - [Tracking key results over time](#tracking-key-results-over-time)
+    - [4.5 Game Theory Insights for Competitive Strategy](#45-game-theory-insights-for-competitive-strategy)
+      - [Zero‑sum versus non‑zero‑sum games](#zerosum-versus-nonzerosum-games)
+      - [Payoff matrices and strategic moves](#payoff-matrices-and-strategic-moves)
+  - [Chapter 5: Cross‑Industry Case Studies – Real‑World Applications](#chapter-5-crossindustry-case-studies-realworld-applications)
+    - [5.1 Technology Sector](#51-technology-sector)
+      - [Cloud evolution and commoditisation](#cloud-evolution-and-commoditisation)
+      - [Platform wars and ecosystem plays](#platform-wars-and-ecosystem-plays)
+    - [5.2 Healthcare Industry](#52-healthcare-industry)
+      - [Digital transformation hurdles](#digital-transformation-hurdles)
+      - [Navigating regulatory pressures](#navigating-regulatory-pressures)
+    - [5.3 Finance and Banking](#53-finance-and-banking)
+      - [Fintech disruption dynamics](#fintech-disruption-dynamics)
+      - [Compliance and legacy system evolution](#compliance-and-legacy-system-evolution)
+    - [5.4 Public Sector and Nonprofits](#54-public-sector-and-nonprofits)
+      - [Policy shifts and service delivery](#policy-shifts-and-service-delivery)
+      - [Citizen‑centric mapping approaches](#citizencentric-mapping-approaches)
+    - [5.5 Lessons Learned and Best Practices](#55-lessons-learned-and-best-practices)
+      - [Common pitfalls across industries](#common-pitfalls-across-industries)
+      - [Patterns for successful adaptation](#patterns-for-successful-adaptation)
+  - [Chapter 6: Overcoming Barriers – Inertia, Cultural Resistance, Ethics and Mapping Pitfalls](#chapter-6-overcoming-barriers-inertia-cultural-resistance-ethics-and-mapping-pitfalls)
+    - [6.1 Recognising and Overcoming Organisational Inertia](#61-recognising-and-overcoming-organisational-inertia)
+      - [Change management frameworks](#change-management-frameworks)
+      - [Engaging leadership sponsors](#engaging-leadership-sponsors)
+    - [6.2 Cultural Resistance and Adoption Strategies](#62-cultural-resistance-and-adoption-strategies)
+      - [Building internal champions](#building-internal-champions)
+      - [Designing training programmes](#designing-training-programmes)
+    - [Sample Training Sprint Schedule](#sample-training-sprint-schedule)
+    - [6.3 Ethical and Privacy Considerations](#63-ethical-and-privacy-considerations)
+      - [Data usage ethics](#data-usage-ethics)
+      - [Transparency and consent](#transparency-and-consent)
+    - [6.4 Common Mapping Pitfalls and How to Avoid Them](#64-common-mapping-pitfalls-and-how-to-avoid-them)
+      - [Overcomplexity and feature bloat](#overcomplexity-and-feature-bloat)
+      - [Misplaced component boundaries](#misplaced-component-boundaries)
+    - [6.5 Sustaining Momentum and Continuous Learning](#65-sustaining-momentum-and-continuous-learning)
+      - [Communities of practice](#communities-of-practice)
+      - [Regular map audits and updates](#regular-map-audits-and-updates)
+  - [Chapter 7: Conclusion – Next Steps and the Future of Strategic Mapping](#chapter-7-conclusion-next-steps-and-the-future-of-strategic-mapping)
+    - [7.1 Synthesising Insights](#71-synthesising-insights)
+      - [Key takeaways recap](#key-takeaways-recap)
+      - [Integration checklist](#integration-checklist)
+    - [7.2 Developing a Mapping Centre of Excellence](#72-developing-a-mapping-centre-of-excellence)
+      - [Governance and operating models](#governance-and-operating-models)
+      - [Skills and competency frameworks](#skills-and-competency-frameworks)
+    - [7.3 Anticipating Future Red Queen Races](#73-anticipating-future-red-queen-races)
+      - [Emerging technologies on the horizon](#emerging-technologies-on-the-horizon)
+      - [Geopolitical and societal shifts](#geopolitical-and-societal-shifts)
+    - [7.4 Further Resources and Communities](#74-further-resources-and-communities)
+      - [Recommended reading and tools](#recommended-reading-and-tools)
+      - [Professional networks and forums](#professional-networks-and-forums)
 
 
 ## Chapter 1: Introduction – Charting the Landscape of Competition

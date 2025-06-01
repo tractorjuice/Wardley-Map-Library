@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Strategic Transformation: Wardley Mapping for UK Home Office Reform
-  - Introduction: The Strategic Imperative for Home Office Transformation
-    - Current State of the UK Home Office
-      - Organizational Overview and Key Challenges
-      - The Need for Strategic Evolution
-      - Introduction to Wardley Mapping in Government Context
-    - Setting the Foundation
-      - Book Structure and Learning Objectives
-      - Key Stakeholders and Their Roles
-      - Expected Outcomes and Benefits
-  - Wardley Mapping Fundamentals for Public Sector Application
-    - Core Principles of Wardley Mapping
-      - Understanding Value Chains in Government Context
-      - Evolution and Movement in Public Services
-      - Mapping Components and Dependencies
-    - Government-Specific Adaptations
-      - Modified Frameworks for Public Sector Use
-      - Policy Integration Techniques
-      - Regulatory Compliance Considerations
-    - Building Your First Home Office Map
-      - Component Identification Process
-      - Positioning and Movement Analysis
-      - Validation and Refinement Steps
-  - UK Home Office Strategic Analysis and Implementation
-    - Current Landscape Assessment
-      - Operational Challenges Analysis
-      - Technology Infrastructure Evaluation
-      - Service Delivery Assessment
-    - Strategic Opportunity Identification
-      - Digital Transformation Priorities
-      - Service Evolution Pathways
-      - Innovation Opportunities
-    - Implementation Roadmap
-      - Phased Deployment Strategy
-      - Resource Allocation Framework
-      - Risk Management Approach
-  - Stakeholder Management and Political Navigation
-    - Understanding the Political Landscape
-      - Key Decision Makers and Influencers
-      - Policy Framework Integration
-      - Public Value Considerations
-    - Building Consensus and Support
-      - Stakeholder Engagement Strategies
-      - Communication Planning
-      - Coalition Building Techniques
-    - Managing Change and Resistance
-      - Cultural Transformation Approaches
-      - Resistance Management Strategies
-      - Success Story Development
-  - Measuring Success and Ensuring Accountability
-    - Performance Measurement Framework
-      - Key Performance Indicators
-      - Progress Tracking Methods
-      - Impact Assessment Tools
-    - Public Value Demonstration
-      - Value Creation Metrics
-      - Citizen Benefit Analysis
-      - Cost-Effectiveness Evaluation
-    - Continuous Improvement Cycle
-      - Feedback Loop Implementation
-      - Strategy Refinement Process
-      - Long-term Sustainability Planning
+- [Strategic Transformation: Wardley Mapping for UK Home Office Reform](#strategic-transformation-wardley-mapping-for-uk-home-office-reform)
+  - [Introduction: The Strategic Imperative for Home Office Transformation](#introduction-the-strategic-imperative-for-home-office-transformation)
+    - [Current State of the UK Home Office](#current-state-of-the-uk-home-office)
+      - [Organizational Overview and Key Challenges](#organizational-overview-and-key-challenges)
+      - [The Need for Strategic Evolution](#the-need-for-strategic-evolution)
+      - [Introduction to Wardley Mapping in Government Context](#introduction-to-wardley-mapping-in-government-context)
+    - [Setting the Foundation](#setting-the-foundation)
+      - [Book Structure and Learning Objectives](#book-structure-and-learning-objectives)
+      - [Key Stakeholders and Their Roles](#key-stakeholders-and-their-roles)
+      - [Expected Outcomes and Benefits](#expected-outcomes-and-benefits)
+  - [Wardley Mapping Fundamentals for Public Sector Application](#wardley-mapping-fundamentals-for-public-sector-application)
+    - [Core Principles of Wardley Mapping](#core-principles-of-wardley-mapping)
+      - [Understanding Value Chains in Government Context](#understanding-value-chains-in-government-context)
+      - [Evolution and Movement in Public Services](#evolution-and-movement-in-public-services)
+      - [Mapping Components and Dependencies](#mapping-components-and-dependencies)
+    - [Government-Specific Adaptations](#government-specific-adaptations)
+      - [Modified Frameworks for Public Sector Use](#modified-frameworks-for-public-sector-use)
+      - [Policy Integration Techniques](#policy-integration-techniques)
+      - [Regulatory Compliance Considerations](#regulatory-compliance-considerations)
+    - [Building Your First Home Office Map](#building-your-first-home-office-map)
+      - [Component Identification Process](#component-identification-process)
+      - [Positioning and Movement Analysis](#positioning-and-movement-analysis)
+      - [Validation and Refinement Steps](#validation-and-refinement-steps)
+  - [UK Home Office Strategic Analysis and Implementation](#uk-home-office-strategic-analysis-and-implementation)
+    - [Current Landscape Assessment](#current-landscape-assessment)
+      - [Operational Challenges Analysis](#operational-challenges-analysis)
+      - [Technology Infrastructure Evaluation](#technology-infrastructure-evaluation)
+      - [Service Delivery Assessment](#service-delivery-assessment)
+    - [Strategic Opportunity Identification](#strategic-opportunity-identification)
+      - [Digital Transformation Priorities](#digital-transformation-priorities)
+      - [Service Evolution Pathways](#service-evolution-pathways)
+      - [Innovation Opportunities](#innovation-opportunities)
+    - [Implementation Roadmap](#implementation-roadmap)
+      - [Phased Deployment Strategy](#phased-deployment-strategy)
+      - [Resource Allocation Framework](#resource-allocation-framework)
+      - [Risk Management Approach](#risk-management-approach)
+  - [Stakeholder Management and Political Navigation](#stakeholder-management-and-political-navigation)
+    - [Understanding the Political Landscape](#understanding-the-political-landscape)
+      - [Key Decision Makers and Influencers](#key-decision-makers-and-influencers)
+      - [Policy Framework Integration](#policy-framework-integration)
+      - [Public Value Considerations](#public-value-considerations)
+    - [Building Consensus and Support](#building-consensus-and-support)
+      - [Stakeholder Engagement Strategies](#stakeholder-engagement-strategies)
+      - [Communication Planning](#communication-planning)
+      - [Coalition Building Techniques](#coalition-building-techniques)
+    - [Managing Change and Resistance](#managing-change-and-resistance)
+      - [Cultural Transformation Approaches](#cultural-transformation-approaches)
+      - [Resistance Management Strategies](#resistance-management-strategies)
+      - [Success Story Development](#success-story-development)
+  - [Measuring Success and Ensuring Accountability](#measuring-success-and-ensuring-accountability)
+    - [Performance Measurement Framework](#performance-measurement-framework)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Progress Tracking Methods](#progress-tracking-methods)
+      - [Impact Assessment Tools](#impact-assessment-tools)
+    - [Public Value Demonstration](#public-value-demonstration)
+      - [Value Creation Metrics](#value-creation-metrics)
+      - [Citizen Benefit Analysis](#citizen-benefit-analysis)
+      - [Cost-Effectiveness Evaluation](#cost-effectiveness-evaluation)
+    - [Continuous Improvement Cycle](#continuous-improvement-cycle)
+      - [Feedback Loop Implementation](#feedback-loop-implementation)
+      - [Strategy Refinement Process](#strategy-refinement-process)
+      - [Long-term Sustainability Planning](#long-term-sustainability-planning)
 
 
 ## Introduction: The Strategic Imperative for Home Office Transformation

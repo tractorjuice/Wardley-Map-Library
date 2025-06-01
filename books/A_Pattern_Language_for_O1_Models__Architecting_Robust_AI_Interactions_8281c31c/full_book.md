@@ -2,57 +2,57 @@
 
 # Table of Contents
 
-- A Pattern Language for O1 Models: Architecting Robust AI Interactions
-  - Introduction: The New Paradigm of AI Interaction Design
-    - The Evolution of AI Interaction Patterns
-      - Historical Context and Current Challenges
-      - Why We Need a Pattern Language
-      - Core Principles of O1 Model Interactions
-    - Understanding the Pattern Language Approach
-      - Pattern Languages in Different Domains
-      - Adapting Patterns for AI Interactions
-      - Benefits of Structured Interaction Design
-  - Foundation Setting with SCOPE
-    - The SCOPE Framework Overview
-      - Situation Analysis and Context Mapping
-      - Objective Definition and Alignment
-      - Parameter Setting and Boundaries
-      - Evaluation Criteria and Metrics
-    - Implementing SCOPE in Practice
-      - Context Architecture Patterns
-      - Objective Specification Templates
-      - Parameter Configuration Guidelines
-      - Evaluation Framework Design
-  - Systematic Problem Decomposition
-    - Systems Thinking in AI Interaction
-      - Component-Based Design Principles
-      - Interface Pattern Recognition
-      - Interaction Flow Mapping
-    - Design Patterns for Problem Solving
-      - Pattern Recognition and Classification
-      - Solution Template Development
-      - Pattern Integration Strategies
-  - Engineering Clear Outputs with CLEAR
-    - The CLEAR Method Fundamentals
-      - Consistency in Response Generation
-      - Logical Structure and Flow
-      - Explicit Communication Patterns
-      - Actionable Output Design
-      - Reviewable Content Framework
-    - Quality Control Implementation
-      - Output Validation Techniques
-      - Quality Metrics and Standards
-      - Feedback Loop Integration
-      - Continuous Improvement Processes
-  - Meta-cognitive Frameworks
-    - Self-Reflection Mechanisms
-      - Reasoning Transparency Patterns
-      - Decision Path Documentation
-      - Uncertainty Communication
-    - Advanced Meta-cognitive Techniques
-      - Knowledge Boundary Recognition
-      - Assumption Validation
-      - Confidence Level Assessment
+- [A Pattern Language for O1 Models: Architecting Robust AI Interactions](#a-pattern-language-for-o1-models-architecting-robust-ai-interactions)
+  - [Introduction: The New Paradigm of AI Interaction Design](#introduction-the-new-paradigm-of-ai-interaction-design)
+    - [The Evolution of AI Interaction Patterns](#the-evolution-of-ai-interaction-patterns)
+      - [Historical Context and Current Challenges](#historical-context-and-current-challenges)
+      - [Why We Need a Pattern Language](#why-we-need-a-pattern-language)
+      - [Core Principles of O1 Model Interactions](#core-principles-of-o1-model-interactions)
+    - [Understanding the Pattern Language Approach](#understanding-the-pattern-language-approach)
+      - [Pattern Languages in Different Domains](#pattern-languages-in-different-domains)
+      - [Adapting Patterns for AI Interactions](#adapting-patterns-for-ai-interactions)
+      - [Benefits of Structured Interaction Design](#benefits-of-structured-interaction-design)
+  - [Foundation Setting with SCOPE](#foundation-setting-with-scope)
+    - [The SCOPE Framework Overview](#the-scope-framework-overview)
+      - [Situation Analysis and Context Mapping](#situation-analysis-and-context-mapping)
+      - [Objective Definition and Alignment](#objective-definition-and-alignment)
+      - [Parameter Setting and Boundaries](#parameter-setting-and-boundaries)
+      - [Evaluation Criteria and Metrics](#evaluation-criteria-and-metrics)
+    - [Implementing SCOPE in Practice](#implementing-scope-in-practice)
+      - [Context Architecture Patterns](#context-architecture-patterns)
+      - [Objective Specification Templates](#objective-specification-templates)
+      - [Parameter Configuration Guidelines](#parameter-configuration-guidelines)
+      - [Evaluation Framework Design](#evaluation-framework-design)
+  - [Systematic Problem Decomposition](#systematic-problem-decomposition)
+    - [Systems Thinking in AI Interaction](#systems-thinking-in-ai-interaction)
+      - [Component-Based Design Principles](#component-based-design-principles)
+      - [Interface Pattern Recognition](#interface-pattern-recognition)
+      - [Interaction Flow Mapping](#interaction-flow-mapping)
+    - [Design Patterns for Problem Solving](#design-patterns-for-problem-solving)
+      - [Pattern Recognition and Classification](#pattern-recognition-and-classification)
+      - [Solution Template Development](#solution-template-development)
+      - [Pattern Integration Strategies](#pattern-integration-strategies)
+  - [Engineering Clear Outputs with CLEAR](#engineering-clear-outputs-with-clear)
+    - [The CLEAR Method Fundamentals](#the-clear-method-fundamentals)
+      - [Consistency in Response Generation](#consistency-in-response-generation)
+      - [Logical Structure and Flow](#logical-structure-and-flow)
+      - [Explicit Communication Patterns](#explicit-communication-patterns)
+      - [Actionable Output Design](#actionable-output-design)
+      - [Reviewable Content Framework](#reviewable-content-framework)
+    - [Quality Control Implementation](#quality-control-implementation)
+      - [Output Validation Techniques](#output-validation-techniques)
+      - [Quality Metrics and Standards](#quality-metrics-and-standards)
+      - [Feedback Loop Integration](#feedback-loop-integration)
+      - [Continuous Improvement Processes](#continuous-improvement-processes)
+  - [Meta-cognitive Frameworks](#meta-cognitive-frameworks)
+    - [Self-Reflection Mechanisms](#self-reflection-mechanisms)
+      - [Reasoning Transparency Patterns](#reasoning-transparency-patterns)
+      - [Decision Path Documentation](#decision-path-documentation)
+      - [Uncertainty Communication](#uncertainty-communication)
+    - [Advanced Meta-cognitive Techniques](#advanced-meta-cognitive-techniques)
+      - [Knowledge Boundary Recognition](#knowledge-boundary-recognition)
+      - [Assumption Validation](#assumption-validation)
+      - [Confidence Level Assessment](#confidence-level-assessment)
 
 
 ## Introduction: The New Paradigm of AI Interaction Design

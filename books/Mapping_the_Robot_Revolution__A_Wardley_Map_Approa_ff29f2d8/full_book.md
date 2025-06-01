@@ -2,100 +2,100 @@
 
 # Table of Contents
 
-- Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption
-  - Introduction: Navigating the Age of Automation with Wardley Maps
-    - The Rise of Robots: Understanding the Automation Landscape
-      - Defining Automation: Beyond the Hype
-      - The Pervasiveness of Robotics and AI: A Sector-by-Sector Overview
-      - The Promise and Peril of Automation: Opportunities and Challenges
-    - Introducing Wardley Maps: A Strategic Compass
-      - What is Wardley Mapping? Core Concepts Explained
-      - Value Chains, Components, and Evolutionary Stages
-      - How Wardley Maps Help Us Understand Technological Evolution and Strategic Choices
-      - Why Wardley Maps are Crucial for Navigating the 'Robot Revolution'
-    - Setting the Stage: The Book's Roadmap
-      - A Chapter-by-Chapter Guide
-      - Target Audience and Key Takeaways
-      - How to Use This Book for Strategic Advantage
-  - Mapping the Robotics Ecosystem: Components and Evolution
-    - Identifying Key Components of the Robotics and AI Value Chain
-      - AI/Machine Learning Algorithms: From Genesis to Commodity
-      - Robotics Hardware: Types, Capabilities, and Evolution
-      - Data: The Fuel for Automation
-      - Compute Power: Infrastructure and Scalability
-      - Human Labor: Shifting Roles and Skill Requirements
-    - Mapping the Evolutionary Landscape: From Genesis to Utility
-      - Genesis: Cutting-Edge Research and Development
-      - Custom-Built: Bespoke Solutions for Specific Needs
-      - Product: Standardised Offerings and Market Adoption
-      - Commodity/Utility: Ubiquitous and Readily Available Services
-    - Visualising the Map: Practical Examples and Case Studies
-      - Mapping Automation in Manufacturing: A Detailed Example
-      - Mapping Automation in Transportation: A Detailed Example
-      - Mapping Automation in Customer Service: A Detailed Example
-      - Interpreting the Map: Identifying Strategic Opportunities and Threats
-  - Strategic Implications: Automation, Disruption, and Opportunity
-    - Industry-Specific Impacts: Winners and Losers
-      - Manufacturing: The Rise of Smart Factories
-      - Transportation: Autonomous Vehicles and Logistics
-      - Healthcare: Robotics in Surgery and Patient Care
-      - Finance: Algorithmic Trading and Automation of Financial Services
-      - Retail: Automated Checkout and Supply Chain Optimisation
-    - The Future of Work: Job Displacement and New Roles
-      - Identifying Jobs at Risk of Automation
-      - Emerging Roles in the Age of Robotics and AI
-      - Reskilling and Upskilling Strategies for the Future Workforce
-      - The Impact on Wages and Income Inequality
-    - Business Model Innovation: Adapting to the Automation Revolution
-      - Creating New Value Propositions with Automation
-      - Leveraging Automation for Competitive Advantage
-      - Building Agile and Resilient Organisations
-      - Case Studies: Companies Successfully Navigating Automation
-  - Navigating Disruption: Anticipating Change and Building Resilience
-    - Anticipating Disruptive Forces: Identifying Weak Signals
-      - Monitoring Technological Trends and Emerging Technologies
-      - Analysing Market Dynamics and Competitive Landscapes
-      - Understanding Regulatory Changes and Policy Implications
-      - Using Wardley Maps to Identify Potential Disruption
-    - Responding to Disruption: Strategies for Adaptation and Innovation
-      - Embracing Experimentation and Agile Development
-      - Building Strategic Partnerships and Ecosystems
-      - Investing in Research and Development
-      - Creating a Culture of Innovation
-    - Building Resilience: Preparing for Uncertainty
-      - Diversifying Business Models and Revenue Streams
-      - Developing Contingency Plans and Risk Management Strategies
-      - Investing in Employee Training and Development
-      - Fostering a Culture of Adaptability
-  - Ethical and Societal Considerations: Responsible Innovation in the Age of Robots
-    - Addressing Job Displacement: Mitigating the Social Impact of Automation
-      - Exploring Universal Basic Income and Other Social Safety Nets
-      - Investing in Education and Training Programs
-      - Promoting Entrepreneurship and Small Business Development
-      - Creating New Job Opportunities in Emerging Industries
-    - Bias in AI: Ensuring Fairness and Transparency
-      - Understanding the Sources of Bias in AI Algorithms
-      - Developing Techniques for Detecting and Mitigating Bias
-      - Promoting Diversity and Inclusion in AI Development Teams
-      - Establishing Ethical Guidelines and Standards for AI Development
-    - The Future of Humanity: Coexistence with Intelligent Machines
-      - Exploring the Philosophical Implications of AI
-      - Addressing Concerns about AI Safety and Control
-      - Promoting Responsible Innovation and Ethical Development
-      - Envisioning a Future Where Humans and Robots Collaborate
-  - Conclusion: Embracing the Future with Strategic Foresight
-    - The Power of Wardley Maps: A Recap
-      - Visualising the Automation Landscape
-      - Identifying Strategic Opportunities and Threats
-      - Navigating Disruption and Building Resilience
-    - Looking Ahead: The Ongoing Evolution of Automation
-      - Emerging Trends and Future Developments
-      - The Importance of Continuous Learning and Adaptation
-      - The Role of Humans in the Age of Robots
-    - Call to Action: Shaping a Better Future
-      - Embracing Responsible Innovation
-      - Promoting Ethical Development
-      - Building a More Equitable and Sustainable Future for All
+- [Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption](#mapping-the-robot-revolution-a-wardley-map-approach-to-automation-and-disruption)
+  - [Introduction: Navigating the Age of Automation with Wardley Maps](#introduction-navigating-the-age-of-automation-with-wardley-maps)
+    - [The Rise of Robots: Understanding the Automation Landscape](#the-rise-of-robots-understanding-the-automation-landscape)
+      - [Defining Automation: Beyond the Hype](#defining-automation-beyond-the-hype)
+      - [The Pervasiveness of Robotics and AI: A Sector-by-Sector Overview](#the-pervasiveness-of-robotics-and-ai-a-sector-by-sector-overview)
+      - [The Promise and Peril of Automation: Opportunities and Challenges](#the-promise-and-peril-of-automation-opportunities-and-challenges)
+    - [Introducing Wardley Maps: A Strategic Compass](#introducing-wardley-maps-a-strategic-compass)
+      - [What is Wardley Mapping? Core Concepts Explained](#what-is-wardley-mapping-core-concepts-explained)
+      - [Value Chains, Components, and Evolutionary Stages](#value-chains-components-and-evolutionary-stages)
+      - [How Wardley Maps Help Us Understand Technological Evolution and Strategic Choices](#how-wardley-maps-help-us-understand-technological-evolution-and-strategic-choices)
+      - [Why Wardley Maps are Crucial for Navigating the 'Robot Revolution'](#why-wardley-maps-are-crucial-for-navigating-the-robot-revolution)
+    - [Setting the Stage: The Book's Roadmap](#setting-the-stage-the-books-roadmap)
+      - [A Chapter-by-Chapter Guide](#a-chapter-by-chapter-guide)
+      - [Target Audience and Key Takeaways](#target-audience-and-key-takeaways)
+      - [How to Use This Book for Strategic Advantage](#how-to-use-this-book-for-strategic-advantage)
+  - [Mapping the Robotics Ecosystem: Components and Evolution](#mapping-the-robotics-ecosystem-components-and-evolution)
+    - [Identifying Key Components of the Robotics and AI Value Chain](#identifying-key-components-of-the-robotics-and-ai-value-chain)
+      - [AI/Machine Learning Algorithms: From Genesis to Commodity](#aimachine-learning-algorithms-from-genesis-to-commodity)
+      - [Robotics Hardware: Types, Capabilities, and Evolution](#robotics-hardware-types-capabilities-and-evolution)
+      - [Data: The Fuel for Automation](#data-the-fuel-for-automation)
+      - [Compute Power: Infrastructure and Scalability](#compute-power-infrastructure-and-scalability)
+      - [Human Labor: Shifting Roles and Skill Requirements](#human-labor-shifting-roles-and-skill-requirements)
+    - [Mapping the Evolutionary Landscape: From Genesis to Utility](#mapping-the-evolutionary-landscape-from-genesis-to-utility)
+      - [Genesis: Cutting-Edge Research and Development](#genesis-cutting-edge-research-and-development)
+      - [Custom-Built: Bespoke Solutions for Specific Needs](#custom-built-bespoke-solutions-for-specific-needs)
+      - [Product: Standardised Offerings and Market Adoption](#product-standardised-offerings-and-market-adoption)
+      - [Commodity/Utility: Ubiquitous and Readily Available Services](#commodityutility-ubiquitous-and-readily-available-services)
+    - [Visualising the Map: Practical Examples and Case Studies](#visualising-the-map-practical-examples-and-case-studies)
+      - [Mapping Automation in Manufacturing: A Detailed Example](#mapping-automation-in-manufacturing-a-detailed-example)
+      - [Mapping Automation in Transportation: A Detailed Example](#mapping-automation-in-transportation-a-detailed-example)
+      - [Mapping Automation in Customer Service: A Detailed Example](#mapping-automation-in-customer-service-a-detailed-example)
+      - [Interpreting the Map: Identifying Strategic Opportunities and Threats](#interpreting-the-map-identifying-strategic-opportunities-and-threats)
+  - [Strategic Implications: Automation, Disruption, and Opportunity](#strategic-implications-automation-disruption-and-opportunity)
+    - [Industry-Specific Impacts: Winners and Losers](#industry-specific-impacts-winners-and-losers)
+      - [Manufacturing: The Rise of Smart Factories](#manufacturing-the-rise-of-smart-factories)
+      - [Transportation: Autonomous Vehicles and Logistics](#transportation-autonomous-vehicles-and-logistics)
+      - [Healthcare: Robotics in Surgery and Patient Care](#healthcare-robotics-in-surgery-and-patient-care)
+      - [Finance: Algorithmic Trading and Automation of Financial Services](#finance-algorithmic-trading-and-automation-of-financial-services)
+      - [Retail: Automated Checkout and Supply Chain Optimisation](#retail-automated-checkout-and-supply-chain-optimisation)
+    - [The Future of Work: Job Displacement and New Roles](#the-future-of-work-job-displacement-and-new-roles)
+      - [Identifying Jobs at Risk of Automation](#identifying-jobs-at-risk-of-automation)
+      - [Emerging Roles in the Age of Robotics and AI](#emerging-roles-in-the-age-of-robotics-and-ai)
+      - [Reskilling and Upskilling Strategies for the Future Workforce](#reskilling-and-upskilling-strategies-for-the-future-workforce)
+      - [The Impact on Wages and Income Inequality](#the-impact-on-wages-and-income-inequality)
+    - [Business Model Innovation: Adapting to the Automation Revolution](#business-model-innovation-adapting-to-the-automation-revolution)
+      - [Creating New Value Propositions with Automation](#creating-new-value-propositions-with-automation)
+      - [Leveraging Automation for Competitive Advantage](#leveraging-automation-for-competitive-advantage)
+      - [Building Agile and Resilient Organisations](#building-agile-and-resilient-organisations)
+      - [Case Studies: Companies Successfully Navigating Automation](#case-studies-companies-successfully-navigating-automation)
+  - [Navigating Disruption: Anticipating Change and Building Resilience](#navigating-disruption-anticipating-change-and-building-resilience)
+    - [Anticipating Disruptive Forces: Identifying Weak Signals](#anticipating-disruptive-forces-identifying-weak-signals)
+      - [Monitoring Technological Trends and Emerging Technologies](#monitoring-technological-trends-and-emerging-technologies)
+      - [Analysing Market Dynamics and Competitive Landscapes](#analysing-market-dynamics-and-competitive-landscapes)
+      - [Understanding Regulatory Changes and Policy Implications](#understanding-regulatory-changes-and-policy-implications)
+      - [Using Wardley Maps to Identify Potential Disruption](#using-wardley-maps-to-identify-potential-disruption)
+    - [Responding to Disruption: Strategies for Adaptation and Innovation](#responding-to-disruption-strategies-for-adaptation-and-innovation)
+      - [Embracing Experimentation and Agile Development](#embracing-experimentation-and-agile-development)
+      - [Building Strategic Partnerships and Ecosystems](#building-strategic-partnerships-and-ecosystems)
+      - [Investing in Research and Development](#investing-in-research-and-development)
+      - [Creating a Culture of Innovation](#creating-a-culture-of-innovation)
+    - [Building Resilience: Preparing for Uncertainty](#building-resilience-preparing-for-uncertainty)
+      - [Diversifying Business Models and Revenue Streams](#diversifying-business-models-and-revenue-streams)
+      - [Developing Contingency Plans and Risk Management Strategies](#developing-contingency-plans-and-risk-management-strategies)
+      - [Investing in Employee Training and Development](#investing-in-employee-training-and-development)
+      - [Fostering a Culture of Adaptability](#fostering-a-culture-of-adaptability)
+  - [Ethical and Societal Considerations: Responsible Innovation in the Age of Robots](#ethical-and-societal-considerations-responsible-innovation-in-the-age-of-robots)
+    - [Addressing Job Displacement: Mitigating the Social Impact of Automation](#addressing-job-displacement-mitigating-the-social-impact-of-automation)
+      - [Exploring Universal Basic Income and Other Social Safety Nets](#exploring-universal-basic-income-and-other-social-safety-nets)
+      - [Investing in Education and Training Programs](#investing-in-education-and-training-programs)
+      - [Promoting Entrepreneurship and Small Business Development](#promoting-entrepreneurship-and-small-business-development)
+      - [Creating New Job Opportunities in Emerging Industries](#creating-new-job-opportunities-in-emerging-industries)
+    - [Bias in AI: Ensuring Fairness and Transparency](#bias-in-ai-ensuring-fairness-and-transparency)
+      - [Understanding the Sources of Bias in AI Algorithms](#understanding-the-sources-of-bias-in-ai-algorithms)
+      - [Developing Techniques for Detecting and Mitigating Bias](#developing-techniques-for-detecting-and-mitigating-bias)
+      - [Promoting Diversity and Inclusion in AI Development Teams](#promoting-diversity-and-inclusion-in-ai-development-teams)
+      - [Establishing Ethical Guidelines and Standards for AI Development](#establishing-ethical-guidelines-and-standards-for-ai-development)
+    - [The Future of Humanity: Coexistence with Intelligent Machines](#the-future-of-humanity-coexistence-with-intelligent-machines)
+      - [Exploring the Philosophical Implications of AI](#exploring-the-philosophical-implications-of-ai)
+      - [Addressing Concerns about AI Safety and Control](#addressing-concerns-about-ai-safety-and-control)
+      - [Promoting Responsible Innovation and Ethical Development](#promoting-responsible-innovation-and-ethical-development)
+      - [Envisioning a Future Where Humans and Robots Collaborate](#envisioning-a-future-where-humans-and-robots-collaborate)
+  - [Conclusion: Embracing the Future with Strategic Foresight](#conclusion-embracing-the-future-with-strategic-foresight)
+    - [The Power of Wardley Maps: A Recap](#the-power-of-wardley-maps-a-recap)
+      - [Visualising the Automation Landscape](#visualising-the-automation-landscape)
+      - [Identifying Strategic Opportunities and Threats](#identifying-strategic-opportunities-and-threats)
+      - [Navigating Disruption and Building Resilience](#navigating-disruption-and-building-resilience)
+    - [Looking Ahead: The Ongoing Evolution of Automation](#looking-ahead-the-ongoing-evolution-of-automation)
+      - [Emerging Trends and Future Developments](#emerging-trends-and-future-developments)
+      - [The Importance of Continuous Learning and Adaptation](#the-importance-of-continuous-learning-and-adaptation)
+      - [The Role of Humans in the Age of Robots](#the-role-of-humans-in-the-age-of-robots)
+    - [Call to Action: Shaping a Better Future](#call-to-action-shaping-a-better-future)
+      - [Embracing Responsible Innovation](#embracing-responsible-innovation)
+      - [Promoting Ethical Development](#promoting-ethical-development)
+      - [Building a More Equitable and Sustainable Future for All](#building-a-more-equitable-and-sustainable-future-for-all)
 
 
 ## Introduction: Navigating the Age of Automation with Wardley Maps

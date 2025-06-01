@@ -2,66 +2,66 @@
 
 # Table of Contents
 
-- Sustainable Futures: Strategies for Life on Land
-  - Introduction to SDG 15: Life on Land
-    - Understanding SDG 15
-      - Overview of Sustainable Development Goals
-      - Importance of Life on Land
-      - Interconnections with Other SDGs
-    - Challenges Facing Ecosystems
-      - Land Degradation
-      - Biodiversity Loss
-      - Climate Change Impacts
-  - Innovative Conservation Techniques
-    - Habitat Restoration
-      - Techniques in Reforestation
-      - Wetland Restoration Practices
-      - Soil Rehabilitation Methods
-    - Species Protection
-      - Endangered Species Recovery Plans
-      - Genetic Conservation Strategies
-      - Community-Based Conservation Approaches
-  - Policy Frameworks for Sustainable Ecosystems
-    - Global Policy Initiatives
-      - Convention on Biological Diversity
-      - UN Framework on Climate Change
-      - Regional Agreements and Their Impact
-    - Successful National Policies
-      - Case Studies from Leading Countries
-      - Policy Integration for Ecosystem Services
-      - Monitoring and Evaluation Mechanisms
-  - Community Engagement and Grassroots Movements
-    - Empowering Local Communities
-      - Participatory Approaches to Conservation
-      - Indigenous Knowledge and Practices
-      - Capacity Building and Education
-    - Successful Community-Led Initiatives
-      - Case Studies of Effective Movements
-      - Collaborative Management of Resources
-      - Impact Assessment of Community Projects
-  - The Role of Technology in Biodiversity Conservation
-    - Innovative Technological Solutions
-      - Remote Sensing for Ecosystem Monitoring
-      - Artificial Intelligence in Conservation
-      - Drones and Their Applications
-    - Data Management and Analysis
-      - Big Data in Biodiversity Research
-      - Citizen Science and Data Collection
-      - Integrating Technology with Traditional Methods
-  - Economic Incentives for Sustainable Land Use
-    - Financial Models Supporting Conservation
-      - Payment for Ecosystem Services
-      - Sustainable Agriculture Practices
-      - Eco-Tourism as a Revenue Source
-    - Policy and Market Mechanisms
-      - Carbon Trading and Offsetting
-      - Green Bonds and Investment Strategies
-      - Public-Private Partnerships in Conservation
-  - Conclusion: Pathways to Sustainable Ecosystems
-    - Integrating Strategies for Impact
-      - Collaborative Approaches
-      - Future Directions in Policy and Practice
-      - Call to Action for Stakeholders
+- [Sustainable Futures: Strategies for Life on Land](#sustainable-futures-strategies-for-life-on-land)
+  - [Introduction to SDG 15: Life on Land](#introduction-to-sdg-15-life-on-land)
+    - [Understanding SDG 15](#understanding-sdg-15)
+      - [Overview of Sustainable Development Goals](#overview-of-sustainable-development-goals)
+      - [Importance of Life on Land](#importance-of-life-on-land)
+      - [Interconnections with Other SDGs](#interconnections-with-other-sdgs)
+    - [Challenges Facing Ecosystems](#challenges-facing-ecosystems)
+      - [Land Degradation](#land-degradation)
+      - [Biodiversity Loss](#biodiversity-loss)
+      - [Climate Change Impacts](#climate-change-impacts)
+  - [Innovative Conservation Techniques](#innovative-conservation-techniques)
+    - [Habitat Restoration](#habitat-restoration)
+      - [Techniques in Reforestation](#techniques-in-reforestation)
+      - [Wetland Restoration Practices](#wetland-restoration-practices)
+      - [Soil Rehabilitation Methods](#soil-rehabilitation-methods)
+    - [Species Protection](#species-protection)
+      - [Endangered Species Recovery Plans](#endangered-species-recovery-plans)
+      - [Genetic Conservation Strategies](#genetic-conservation-strategies)
+      - [Community-Based Conservation Approaches](#community-based-conservation-approaches)
+  - [Policy Frameworks for Sustainable Ecosystems](#policy-frameworks-for-sustainable-ecosystems)
+    - [Global Policy Initiatives](#global-policy-initiatives)
+      - [Convention on Biological Diversity](#convention-on-biological-diversity)
+      - [UN Framework on Climate Change](#un-framework-on-climate-change)
+      - [Regional Agreements and Their Impact](#regional-agreements-and-their-impact)
+    - [Successful National Policies](#successful-national-policies)
+      - [Case Studies from Leading Countries](#case-studies-from-leading-countries)
+      - [Policy Integration for Ecosystem Services](#policy-integration-for-ecosystem-services)
+      - [Monitoring and Evaluation Mechanisms](#monitoring-and-evaluation-mechanisms)
+  - [Community Engagement and Grassroots Movements](#community-engagement-and-grassroots-movements)
+    - [Empowering Local Communities](#empowering-local-communities)
+      - [Participatory Approaches to Conservation](#participatory-approaches-to-conservation)
+      - [Indigenous Knowledge and Practices](#indigenous-knowledge-and-practices)
+      - [Capacity Building and Education](#capacity-building-and-education)
+    - [Successful Community-Led Initiatives](#successful-community-led-initiatives)
+      - [Case Studies of Effective Movements](#case-studies-of-effective-movements)
+      - [Collaborative Management of Resources](#collaborative-management-of-resources)
+      - [Impact Assessment of Community Projects](#impact-assessment-of-community-projects)
+  - [The Role of Technology in Biodiversity Conservation](#the-role-of-technology-in-biodiversity-conservation)
+    - [Innovative Technological Solutions](#innovative-technological-solutions)
+      - [Remote Sensing for Ecosystem Monitoring](#remote-sensing-for-ecosystem-monitoring)
+      - [Artificial Intelligence in Conservation](#artificial-intelligence-in-conservation)
+      - [Drones and Their Applications](#drones-and-their-applications)
+    - [Data Management and Analysis](#data-management-and-analysis)
+      - [Big Data in Biodiversity Research](#big-data-in-biodiversity-research)
+      - [Citizen Science and Data Collection](#citizen-science-and-data-collection)
+      - [Integrating Technology with Traditional Methods](#integrating-technology-with-traditional-methods)
+  - [Economic Incentives for Sustainable Land Use](#economic-incentives-for-sustainable-land-use)
+    - [Financial Models Supporting Conservation](#financial-models-supporting-conservation)
+      - [Payment for Ecosystem Services](#payment-for-ecosystem-services)
+      - [Sustainable Agriculture Practices](#sustainable-agriculture-practices)
+      - [Eco-Tourism as a Revenue Source](#eco-tourism-as-a-revenue-source)
+    - [Policy and Market Mechanisms](#policy-and-market-mechanisms)
+      - [Carbon Trading and Offsetting](#carbon-trading-and-offsetting)
+      - [Green Bonds and Investment Strategies](#green-bonds-and-investment-strategies)
+      - [Public-Private Partnerships in Conservation](#public-private-partnerships-in-conservation)
+  - [Conclusion: Pathways to Sustainable Ecosystems](#conclusion-pathways-to-sustainable-ecosystems)
+    - [Integrating Strategies for Impact](#integrating-strategies-for-impact)
+      - [Collaborative Approaches](#collaborative-approaches)
+      - [Future Directions in Policy and Practice](#future-directions-in-policy-and-practice)
+      - [Call to Action for Stakeholders](#call-to-action-for-stakeholders)
 
 
 ## Introduction to SDG 15: Life on Land

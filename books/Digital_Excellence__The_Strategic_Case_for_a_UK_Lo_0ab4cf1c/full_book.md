@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Digital Excellence: The Strategic Case for a UK Local Government Centre for Digital Technology
-  - Introduction: The Digital Imperative in Local Government
-    - Current State of Digital Technology in UK Local Government
-      - The Digital Transformation Challenge
-      - Current Fragmentation and Inefficiencies
-      - The Need for Centralised Digital Leadership
-    - Vision for a Local Government Digital Centre
-      - Core Objectives and Mission
-      - Stakeholder Benefits
-      - Expected Outcomes and Impact
-  - Digital Transformation Strategy Framework
-    - Strategic Planning and Implementation
-      - Assessment and Readiness Tools
-      - Digital Maturity Model
-      - Implementation Roadmap Design
-    - Technology Architecture and Standards
-      - Common Technical Standards
-      - Interoperability Requirements
-      - Cloud-First Approaches
-    - Change Management and Adoption
-      - Cultural Change Strategies
-      - Staff Training and Development
-      - User Adoption Framework
-  - Evidence and Impact Analysis
-    - Case Studies of Digital Success
-      - Metropolitan Council Transformations
-      - Rural Authority Innovations
-      - Cross-Council Collaboration Examples
-    - Financial Analysis and ROI
-      - Cost-Benefit Analysis Models
-      - Investment Requirements
-      - Expected Returns and Efficiencies
-  - Governance and Risk Management
-    - Collaborative Governance Framework
-      - Stakeholder Engagement Models
-      - Decision-Making Structures
-      - Performance Monitoring Systems
-    - Risk Management and Security
-      - Cybersecurity Standards
-      - Data Protection Compliance
-      - Business Continuity Planning
-  - Implementation Roadmap and Recommendations
-    - Establishing the Centre
-      - Organisational Structure
-      - Resource Requirements
-      - Timeline and Milestones
-    - Success Metrics and Evaluation
-      - Key Performance Indicators
-      - Measurement Framework
-      - Continuous Improvement Process
+- [Digital Excellence: The Strategic Case for a UK Local Government Centre for Digital Technology](#digital-excellence-the-strategic-case-for-a-uk-local-government-centre-for-digital-technology)
+  - [Introduction: The Digital Imperative in Local Government](#introduction-the-digital-imperative-in-local-government)
+    - [Current State of Digital Technology in UK Local Government](#current-state-of-digital-technology-in-uk-local-government)
+      - [The Digital Transformation Challenge](#the-digital-transformation-challenge)
+      - [Current Fragmentation and Inefficiencies](#current-fragmentation-and-inefficiencies)
+      - [The Need for Centralised Digital Leadership](#the-need-for-centralised-digital-leadership)
+    - [Vision for a Local Government Digital Centre](#vision-for-a-local-government-digital-centre)
+      - [Core Objectives and Mission](#core-objectives-and-mission)
+      - [Stakeholder Benefits](#stakeholder-benefits)
+      - [Expected Outcomes and Impact](#expected-outcomes-and-impact)
+  - [Digital Transformation Strategy Framework](#digital-transformation-strategy-framework)
+    - [Strategic Planning and Implementation](#strategic-planning-and-implementation)
+      - [Assessment and Readiness Tools](#assessment-and-readiness-tools)
+      - [Digital Maturity Model](#digital-maturity-model)
+      - [Implementation Roadmap Design](#implementation-roadmap-design)
+    - [Technology Architecture and Standards](#technology-architecture-and-standards)
+      - [Common Technical Standards](#common-technical-standards)
+      - [Interoperability Requirements](#interoperability-requirements)
+      - [Cloud-First Approaches](#cloud-first-approaches)
+    - [Change Management and Adoption](#change-management-and-adoption)
+      - [Cultural Change Strategies](#cultural-change-strategies)
+      - [Staff Training and Development](#staff-training-and-development)
+      - [User Adoption Framework](#user-adoption-framework)
+  - [Evidence and Impact Analysis](#evidence-and-impact-analysis)
+    - [Case Studies of Digital Success](#case-studies-of-digital-success)
+      - [Metropolitan Council Transformations](#metropolitan-council-transformations)
+      - [Rural Authority Innovations](#rural-authority-innovations)
+      - [Cross-Council Collaboration Examples](#cross-council-collaboration-examples)
+    - [Financial Analysis and ROI](#financial-analysis-and-roi)
+      - [Cost-Benefit Analysis Models](#cost-benefit-analysis-models)
+      - [Investment Requirements](#investment-requirements)
+      - [Expected Returns and Efficiencies](#expected-returns-and-efficiencies)
+  - [Governance and Risk Management](#governance-and-risk-management)
+    - [Collaborative Governance Framework](#collaborative-governance-framework)
+      - [Stakeholder Engagement Models](#stakeholder-engagement-models)
+      - [Decision-Making Structures](#decision-making-structures)
+      - [Performance Monitoring Systems](#performance-monitoring-systems)
+    - [Risk Management and Security](#risk-management-and-security)
+      - [Cybersecurity Standards](#cybersecurity-standards)
+      - [Data Protection Compliance](#data-protection-compliance)
+      - [Business Continuity Planning](#business-continuity-planning)
+  - [Implementation Roadmap and Recommendations](#implementation-roadmap-and-recommendations)
+    - [Establishing the Centre](#establishing-the-centre)
+      - [Organisational Structure](#organisational-structure)
+      - [Resource Requirements](#resource-requirements)
+      - [Timeline and Milestones](#timeline-and-milestones)
+    - [Success Metrics and Evaluation](#success-metrics-and-evaluation)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Measurement Framework](#measurement-framework)
+      - [Continuous Improvement Process](#continuous-improvement-process)
 
 
 ## Introduction: The Digital Imperative in Local Government

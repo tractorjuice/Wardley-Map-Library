@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Will the Chinese Dragon Bite OpenAI? Analyzing the Geopolitical and Technological Rivalry in Artificial Intelligence
-  - Introduction: The AI Arms Race
-    - Understanding the Stakes
-      - The Global AI Landscape
-      - Key Players: China vs. the US
-      - Historical Context of AI Development
-  - Chapter 1: Geopolitical Landscape
-    - Current State of AI Development
-      - Key Policies in China and the US
-      - Strategic Investments and Initiatives
-      - The Role of Government in AI Advancement
-    - Comparative Analysis of AI Ecosystems
-      - Strengths and Weaknesses of Each Region
-      - International Collaborations and Rivalries
-      - Impact on Global AI Standards
-  - Chapter 2: Technological Innovation
-    - Advancements in AI Technologies
-      - Breakthroughs in Machine Learning and Deep Learning
-      - The Role of Big Data and Cloud Computing
-      - Emerging Technologies: Quantum Computing and AI
-    - Sectoral Impacts of AI
-      - Transformations in Healthcare
-      - AI in Finance and Banking
-      - Implications for Manufacturing and Supply Chains
-  - Chapter 3: Ethical Considerations
-    - AI Ethics in Different Contexts
-      - Surveillance and Privacy Concerns
-      - Human Rights Implications of AI Deployment
-      - Censorship and Control Mechanisms
-    - Building Ethical Frameworks
-      - Comparing Ethical Standards in China and the US
-      - Global Initiatives for AI Governance
-      - Role of Corporations in Ethical AI
-  - Chapter 4: Future Scenarios
-    - Projecting Outcomes of the AI Rivalry
-      - Optimistic Scenarios: Collaboration and Innovation
-      - Pessimistic Scenarios: Conflict and Fragmentation
-      - Middle Ground: A Possible Path Forward
-    - Global AI Governance and Collaboration
-      - The Role of International Organizations
-      - Bilateral Agreements and Treaties
-      - Building Trust in a Competitive Landscape
-  - Chapter 5: Case Studies
-    - Competitive Dynamics in Action
-      - Comparing Leading AI Companies: Baidu vs. Google
-      - Innovative Startups in China and the US
-      - Government-backed Initiatives: Successes and Failures
-    - Lessons Learned from AI Deployments
-      - Case Studies of AI in Public Health
-      - AI in National Security: Strategies and Implications
-      - Collaborative Projects between East and West
-  - Conclusion: Navigating the Future
-    - Summarising Key Insights
-      - The Importance of Ethical AI Development
-      - Strategies for International Cooperation
-      - Final Thoughts on the AI Landscape
+- [Will the Chinese Dragon Bite OpenAI? Analyzing the Geopolitical and Technological Rivalry in Artificial Intelligence](#will-the-chinese-dragon-bite-openai-analyzing-the-geopolitical-and-technological-rivalry-in-artificial-intelligence)
+  - [Introduction: The AI Arms Race](#introduction-the-ai-arms-race)
+    - [Understanding the Stakes](#understanding-the-stakes)
+      - [The Global AI Landscape](#the-global-ai-landscape)
+      - [Key Players: China vs. the US](#key-players-china-vs-the-us)
+      - [Historical Context of AI Development](#historical-context-of-ai-development)
+  - [Chapter 1: Geopolitical Landscape](#chapter-1-geopolitical-landscape)
+    - [Current State of AI Development](#current-state-of-ai-development)
+      - [Key Policies in China and the US](#key-policies-in-china-and-the-us)
+      - [Strategic Investments and Initiatives](#strategic-investments-and-initiatives)
+      - [The Role of Government in AI Advancement](#the-role-of-government-in-ai-advancement)
+    - [Comparative Analysis of AI Ecosystems](#comparative-analysis-of-ai-ecosystems)
+      - [Strengths and Weaknesses of Each Region](#strengths-and-weaknesses-of-each-region)
+      - [International Collaborations and Rivalries](#international-collaborations-and-rivalries)
+      - [Impact on Global AI Standards](#impact-on-global-ai-standards)
+  - [Chapter 2: Technological Innovation](#chapter-2-technological-innovation)
+    - [Advancements in AI Technologies](#advancements-in-ai-technologies)
+      - [Breakthroughs in Machine Learning and Deep Learning](#breakthroughs-in-machine-learning-and-deep-learning)
+      - [The Role of Big Data and Cloud Computing](#the-role-of-big-data-and-cloud-computing)
+      - [Emerging Technologies: Quantum Computing and AI](#emerging-technologies-quantum-computing-and-ai)
+    - [Sectoral Impacts of AI](#sectoral-impacts-of-ai)
+      - [Transformations in Healthcare](#transformations-in-healthcare)
+      - [AI in Finance and Banking](#ai-in-finance-and-banking)
+      - [Implications for Manufacturing and Supply Chains](#implications-for-manufacturing-and-supply-chains)
+  - [Chapter 3: Ethical Considerations](#chapter-3-ethical-considerations)
+    - [AI Ethics in Different Contexts](#ai-ethics-in-different-contexts)
+      - [Surveillance and Privacy Concerns](#surveillance-and-privacy-concerns)
+      - [Human Rights Implications of AI Deployment](#human-rights-implications-of-ai-deployment)
+      - [Censorship and Control Mechanisms](#censorship-and-control-mechanisms)
+    - [Building Ethical Frameworks](#building-ethical-frameworks)
+      - [Comparing Ethical Standards in China and the US](#comparing-ethical-standards-in-china-and-the-us)
+      - [Global Initiatives for AI Governance](#global-initiatives-for-ai-governance)
+      - [Role of Corporations in Ethical AI](#role-of-corporations-in-ethical-ai)
+  - [Chapter 4: Future Scenarios](#chapter-4-future-scenarios)
+    - [Projecting Outcomes of the AI Rivalry](#projecting-outcomes-of-the-ai-rivalry)
+      - [Optimistic Scenarios: Collaboration and Innovation](#optimistic-scenarios-collaboration-and-innovation)
+      - [Pessimistic Scenarios: Conflict and Fragmentation](#pessimistic-scenarios-conflict-and-fragmentation)
+      - [Middle Ground: A Possible Path Forward](#middle-ground-a-possible-path-forward)
+    - [Global AI Governance and Collaboration](#global-ai-governance-and-collaboration)
+      - [The Role of International Organizations](#the-role-of-international-organizations)
+      - [Bilateral Agreements and Treaties](#bilateral-agreements-and-treaties)
+      - [Building Trust in a Competitive Landscape](#building-trust-in-a-competitive-landscape)
+  - [Chapter 5: Case Studies](#chapter-5-case-studies)
+    - [Competitive Dynamics in Action](#competitive-dynamics-in-action)
+      - [Comparing Leading AI Companies: Baidu vs. Google](#comparing-leading-ai-companies-baidu-vs-google)
+      - [Innovative Startups in China and the US](#innovative-startups-in-china-and-the-us)
+      - [Government-backed Initiatives: Successes and Failures](#government-backed-initiatives-successes-and-failures)
+    - [Lessons Learned from AI Deployments](#lessons-learned-from-ai-deployments)
+      - [Case Studies of AI in Public Health](#case-studies-of-ai-in-public-health)
+      - [AI in National Security: Strategies and Implications](#ai-in-national-security-strategies-and-implications)
+      - [Collaborative Projects between East and West](#collaborative-projects-between-east-and-west)
+  - [Conclusion: Navigating the Future](#conclusion-navigating-the-future)
+    - [Summarising Key Insights](#summarising-key-insights)
+      - [The Importance of Ethical AI Development](#the-importance-of-ethical-ai-development)
+      - [Strategies for International Cooperation](#strategies-for-international-cooperation)
+      - [Final Thoughts on the AI Landscape](#final-thoughts-on-the-ai-landscape)
 
 
 ## Introduction: The AI Arms Race

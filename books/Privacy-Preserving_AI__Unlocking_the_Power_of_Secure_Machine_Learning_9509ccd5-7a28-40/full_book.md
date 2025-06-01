@@ -4,97 +4,97 @@
 
 # Table of Contents
 
-- Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Foundations of Privacy-Preserving Techniques
-  - Introduction to Privacy in AI and Machine Learning
-    - The importance of privacy in the age of big data
-    - Key privacy challenges in AI and machine learning
-    - Overview of privacy-preserving techniques
-  - Fully Homomorphic Encryption (FHE)
-    - Principles of homomorphic encryption
-    - Types of homomorphic encryption schemes
-    - Applications of FHE in machine learning
-  - Secure Multi-Party Computation (MPC)
-    - Fundamentals of MPC protocols
-    - MPC architectures and frameworks
-    - Use cases for MPC in AI applications
-  - Zero-Knowledge Proofs (ZK)
-    - Concepts and properties of zero-knowledge proofs
-    - Types of zero-knowledge proof systems
-    - Integrating ZK proofs in AI systems
-- Implementing Privacy-Preserving Methods in Machine Learning
-  - Privacy-Preserving Data Processing
-    - Secure data collection and aggregation
-    - Privacy-preserving data cleaning and preprocessing
-    - Techniques for anonymisation and pseudonymisation
-  - Privacy in Machine Learning Algorithms
-    - Secure linear regression and logistic regression
-    - Privacy-preserving neural networks and deep learning
-    - Secure clustering and dimensionality reduction
-  - Federated Learning and Distributed AI
-    - Principles of federated learning
-    - Secure aggregation in federated settings
-    - Differential privacy in federated learning
-  - Privacy-Preserving Model Evaluation and Deployment
-    - Secure model testing and validation
-    - Privacy-preserving inference and prediction
-    - Techniques for model explainability with privacy
-- Industry Applications and Case Studies
-  - Healthcare and Biomedical Research
-    - Secure analysis of patient data
-    - Privacy-preserving genomic studies
-    - Collaborative medical research with privacy guarantees
-  - Financial Services and Fintech
-    - Secure credit scoring and risk assessment
-    - Privacy-preserving fraud detection
-    - Confidential blockchain and cryptocurrency applications
-  - Smart Cities and IoT
-    - Privacy in urban data analytics
-    - Secure smart grid and energy management
-    - Privacy-preserving traffic and transportation systems
-  - E-commerce and Digital Marketing
-    - Privacy-preserving recommendation systems
-    - Secure customer segmentation and targeting
-    - Confidential auction and pricing mechanisms
-- Ethical Considerations and Regulatory Compliance
-  - Ethical Frameworks for Privacy-Preserving AI
-    - Balancing innovation and individual privacy
-    - Fairness and bias in privacy-preserving systems
-    - Transparency and accountability in secure AI
-  - Global Privacy Regulations and Compliance
-    - GDPR and its impact on AI systems
-    - CCPA and other regional privacy laws
-    - Industry-specific regulations (HIPAA, FERPA, etc.)
-  - Privacy Impact Assessments and Risk Management
-    - Conducting privacy impact assessments for AI projects
-    - Risk management strategies for privacy-preserving AI
-    - Best practices for data governance and stewardship
-  - Building a Culture of Privacy in AI Development
-    - Privacy by design principles for AI systems
-    - Training and awareness programmes for developers
-    - Collaborative approaches to privacy-preserving AI
-- Future Trends and Emerging Technologies
-  - Quantum-Resistant Cryptography
-    - The quantum threat to current cryptographic systems
-    - Post-quantum cryptographic algorithms
-    - Preparing AI systems for the post-quantum era
-  - Advanced Privacy-Preserving Techniques
-    - Functional encryption and its applications in AI
-    - Secure multi-party learning with threshold cryptography
-    - Privacy-preserving reinforcement learning
-  - Privacy in Emerging AI Paradigms
-    - Privacy considerations in edge AI and fog computing
-    - Secure AI in augmented and virtual reality
-    - Privacy-preserving techniques for autonomous systems
-  - The Road Ahead: Challenges and Opportunities
-    - Scaling privacy-preserving AI for real-world deployment
-    - Interdisciplinary approaches to privacy-preserving AI
-    - The future of privacy-preserving AI research and innovation
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning](#privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Foundations of Privacy-Preserving Techniques](#foundations-of-privacy-preserving-techniques)
+  - [Introduction to Privacy in AI and Machine Learning](#introduction-to-privacy-in-ai-and-machine-learning)
+    - [The importance of privacy in the age of big data](#the-importance-of-privacy-in-the-age-of-big-data)
+    - [Key privacy challenges in AI and machine learning](#key-privacy-challenges-in-ai-and-machine-learning)
+    - [Overview of privacy-preserving techniques](#overview-of-privacy-preserving-techniques)
+  - [Fully Homomorphic Encryption (FHE)](#fully-homomorphic-encryption-fhe)
+    - [Principles of homomorphic encryption](#principles-of-homomorphic-encryption)
+    - [Types of homomorphic encryption schemes](#types-of-homomorphic-encryption-schemes)
+    - [Applications of FHE in machine learning](#applications-of-fhe-in-machine-learning)
+  - [Secure Multi-Party Computation (MPC)](#secure-multi-party-computation-mpc)
+    - [Fundamentals of MPC protocols](#fundamentals-of-mpc-protocols)
+    - [MPC architectures and frameworks](#mpc-architectures-and-frameworks)
+    - [Use cases for MPC in AI applications](#use-cases-for-mpc-in-ai-applications)
+  - [Zero-Knowledge Proofs (ZK)](#zero-knowledge-proofs-zk)
+    - [Concepts and properties of zero-knowledge proofs](#concepts-and-properties-of-zero-knowledge-proofs)
+    - [Types of zero-knowledge proof systems](#types-of-zero-knowledge-proof-systems)
+    - [Integrating ZK proofs in AI systems](#integrating-zk-proofs-in-ai-systems)
+- [Implementing Privacy-Preserving Methods in Machine Learning](#implementing-privacy-preserving-methods-in-machine-learning)
+  - [Privacy-Preserving Data Processing](#privacy-preserving-data-processing)
+    - [Secure data collection and aggregation](#secure-data-collection-and-aggregation)
+    - [Privacy-preserving data cleaning and preprocessing](#privacy-preserving-data-cleaning-and-preprocessing)
+    - [Techniques for anonymisation and pseudonymisation](#techniques-for-anonymisation-and-pseudonymisation)
+  - [Privacy in Machine Learning Algorithms](#privacy-in-machine-learning-algorithms)
+    - [Secure linear regression and logistic regression](#secure-linear-regression-and-logistic-regression)
+    - [Privacy-preserving neural networks and deep learning](#privacy-preserving-neural-networks-and-deep-learning)
+    - [Secure clustering and dimensionality reduction](#secure-clustering-and-dimensionality-reduction)
+  - [Federated Learning and Distributed AI](#federated-learning-and-distributed-ai)
+    - [Principles of federated learning](#principles-of-federated-learning)
+    - [Secure aggregation in federated settings](#secure-aggregation-in-federated-settings)
+    - [Differential privacy in federated learning](#differential-privacy-in-federated-learning)
+  - [Privacy-Preserving Model Evaluation and Deployment](#privacy-preserving-model-evaluation-and-deployment)
+    - [Secure model testing and validation](#secure-model-testing-and-validation)
+    - [Privacy-preserving inference and prediction](#privacy-preserving-inference-and-prediction)
+    - [Techniques for model explainability with privacy](#techniques-for-model-explainability-with-privacy)
+- [Industry Applications and Case Studies](#industry-applications-and-case-studies)
+  - [Healthcare and Biomedical Research](#healthcare-and-biomedical-research)
+    - [Secure analysis of patient data](#secure-analysis-of-patient-data)
+    - [Privacy-preserving genomic studies](#privacy-preserving-genomic-studies)
+    - [Collaborative medical research with privacy guarantees](#collaborative-medical-research-with-privacy-guarantees)
+  - [Financial Services and Fintech](#financial-services-and-fintech)
+    - [Secure credit scoring and risk assessment](#secure-credit-scoring-and-risk-assessment)
+    - [Privacy-preserving fraud detection](#privacy-preserving-fraud-detection)
+    - [Confidential blockchain and cryptocurrency applications](#confidential-blockchain-and-cryptocurrency-applications)
+  - [Smart Cities and IoT](#smart-cities-and-iot)
+    - [Privacy in urban data analytics](#privacy-in-urban-data-analytics)
+    - [Secure smart grid and energy management](#secure-smart-grid-and-energy-management)
+    - [Privacy-preserving traffic and transportation systems](#privacy-preserving-traffic-and-transportation-systems)
+  - [E-commerce and Digital Marketing](#e-commerce-and-digital-marketing)
+    - [Privacy-preserving recommendation systems](#privacy-preserving-recommendation-systems)
+    - [Secure customer segmentation and targeting](#secure-customer-segmentation-and-targeting)
+    - [Confidential auction and pricing mechanisms](#confidential-auction-and-pricing-mechanisms)
+- [Ethical Considerations and Regulatory Compliance](#ethical-considerations-and-regulatory-compliance)
+  - [Ethical Frameworks for Privacy-Preserving AI](#ethical-frameworks-for-privacy-preserving-ai)
+    - [Balancing innovation and individual privacy](#balancing-innovation-and-individual-privacy)
+    - [Fairness and bias in privacy-preserving systems](#fairness-and-bias-in-privacy-preserving-systems)
+    - [Transparency and accountability in secure AI](#transparency-and-accountability-in-secure-ai)
+  - [Global Privacy Regulations and Compliance](#global-privacy-regulations-and-compliance)
+    - [GDPR and its impact on AI systems](#gdpr-and-its-impact-on-ai-systems)
+    - [CCPA and other regional privacy laws](#ccpa-and-other-regional-privacy-laws)
+    - [Industry-specific regulations (HIPAA, FERPA, etc.)](#industry-specific-regulations-hipaa-ferpa-etc)
+  - [Privacy Impact Assessments and Risk Management](#privacy-impact-assessments-and-risk-management)
+    - [Conducting privacy impact assessments for AI projects](#conducting-privacy-impact-assessments-for-ai-projects)
+    - [Risk management strategies for privacy-preserving AI](#risk-management-strategies-for-privacy-preserving-ai)
+    - [Best practices for data governance and stewardship](#best-practices-for-data-governance-and-stewardship)
+  - [Building a Culture of Privacy in AI Development](#building-a-culture-of-privacy-in-ai-development)
+    - [Privacy by design principles for AI systems](#privacy-by-design-principles-for-ai-systems)
+    - [Training and awareness programmes for developers](#training-and-awareness-programmes-for-developers)
+    - [Collaborative approaches to privacy-preserving AI](#collaborative-approaches-to-privacy-preserving-ai)
+- [Future Trends and Emerging Technologies](#future-trends-and-emerging-technologies)
+  - [Quantum-Resistant Cryptography](#quantum-resistant-cryptography)
+    - [The quantum threat to current cryptographic systems](#the-quantum-threat-to-current-cryptographic-systems)
+    - [Post-quantum cryptographic algorithms](#post-quantum-cryptographic-algorithms)
+    - [Preparing AI systems for the post-quantum era](#preparing-ai-systems-for-the-post-quantum-era)
+  - [Advanced Privacy-Preserving Techniques](#advanced-privacy-preserving-techniques)
+    - [Functional encryption and its applications in AI](#functional-encryption-and-its-applications-in-ai)
+    - [Secure multi-party learning with threshold cryptography](#secure-multi-party-learning-with-threshold-cryptography)
+    - [Privacy-preserving reinforcement learning](#privacy-preserving-reinforcement-learning)
+  - [Privacy in Emerging AI Paradigms](#privacy-in-emerging-ai-paradigms)
+    - [Privacy considerations in edge AI and fog computing](#privacy-considerations-in-edge-ai-and-fog-computing)
+    - [Secure AI in augmented and virtual reality](#secure-ai-in-augmented-and-virtual-reality)
+    - [Privacy-preserving techniques for autonomous systems](#privacy-preserving-techniques-for-autonomous-systems)
+  - [The Road Ahead: Challenges and Opportunities](#the-road-ahead-challenges-and-opportunities)
+    - [Scaling privacy-preserving AI for real-world deployment](#scaling-privacy-preserving-ai-for-real-world-deployment)
+    - [Interdisciplinary approaches to privacy-preserving AI](#interdisciplinary-approaches-to-privacy-preserving-ai)
+    - [The future of privacy-preserving AI research and innovation](#the-future-of-privacy-preserving-ai-research-and-innovation)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Foundations of Privacy-Preserving Techniques

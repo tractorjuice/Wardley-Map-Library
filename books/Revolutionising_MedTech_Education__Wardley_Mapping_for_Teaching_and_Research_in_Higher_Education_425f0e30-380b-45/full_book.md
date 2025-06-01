@@ -2,91 +2,91 @@
 
 # Table of Contents
 
-- Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education
-- Foundations of Wardley Mapping in MedTech Education
-  - Introduction to Wardley Mapping
-    - Origins and core principles of Wardley Mapping
-    - The value chain and evolution axis
-    - Mapping components and their relationships
-    - Benefits of Wardley Mapping in strategic planning
-  - The MedTech Landscape in Higher Education
-    - Current challenges in MedTech education
-    - The need for adaptive curriculum design
-    - Bridging the gap between academia and industry
-    - Emerging technologies and their impact on MedTech education
-  - Wardley Mapping's Relevance to MedTech Education
-    - Aligning educational outcomes with industry needs
-    - Visualising the MedTech education value chain
-    - Identifying opportunities for innovation in teaching and research
-    - Anticipating future trends and preparing students accordingly
-- Applying Wardley Mapping to Curriculum Design in MedTech Programs
-  - Mapping the MedTech Curriculum
-    - Identifying key components of a MedTech curriculum
-    - Positioning curriculum elements on the evolution axis
-    - Visualising dependencies and relationships between course modules
-    - Uncovering gaps and redundancies in the current curriculum
-  - Designing Adaptive and Future-Proof Curricula
-    - Incorporating emerging technologies into the curriculum
-    - Balancing theoretical knowledge with practical skills
-    - Creating flexible learning pathways for students
-    - Integrating interdisciplinary approaches in MedTech education
-  - Aligning Assessment Methods with Industry Needs
-    - Mapping assessment strategies to industry requirements
-    - Developing authentic assessment tasks using Wardley Maps
-    - Incorporating real-world problem-solving in evaluations
-    - Preparing students for industry certifications and standards
-- Enhancing Research Planning and Collaboration in MedTech
-  - Mapping the MedTech Research Landscape
-    - Identifying key research areas and their evolutionary stages
-    - Visualising research dependencies and potential collaborations
-    - Uncovering gaps and opportunities in current research efforts
-    - Aligning research priorities with industry needs and funding opportunities
-  - Fostering Interdisciplinary Research Collaboration
-    - Using Wardley Maps to identify potential research partners
-    - Facilitating communication between different research domains
-    - Optimising resource allocation in collaborative projects
-    - Measuring and demonstrating the impact of interdisciplinary research
-  - Integrating Industry Partnerships in Research
-    - Mapping industry needs and academic capabilities
-    - Identifying mutually beneficial research projects
-    - Structuring effective industry-academia collaborations
-    - Navigating intellectual property and commercialisation challenges
-- Case Studies: Successful Wardley Mapping Implementations in MedTech Education
-  - Curriculum Transformation at Leading MedTech Institutions
-    - Case study 1: Revamping a biomedical engineering program
-    - Case study 2: Integrating AI and data science in medical imaging education
-    - Case study 3: Developing a cutting-edge medical robotics curriculum
-    - Lessons learned and best practices from successful implementations
-  - Research Innovation through Wardley Mapping
-    - Case study 1: Accelerating drug discovery research
-    - Case study 2: Optimising telemedicine research initiatives
-    - Case study 3: Advancing personalized medicine through collaborative research
-    - Key success factors and common pitfalls in research planning with Wardley Maps
-  - Industry-Academia Partnerships Enabled by Wardley Mapping
-    - Case study 1: Co-developing medical devices with industry partners
-    - Case study 2: Establishing a MedTech innovation hub
-    - Case study 3: Creating industry-aligned internship programs
-    - Strategies for sustaining and scaling successful partnerships
-- Future-Proofing MedTech Education with Wardley Mapping
-  - Anticipating Future Trends in MedTech
-    - Using Wardley Maps to forecast technological advancements
-    - Identifying emerging skill sets required in the MedTech industry
-    - Predicting shifts in healthcare delivery models
-    - Preparing for regulatory changes and ethical considerations
-  - Adapting Educational Strategies for the Future of MedTech
-    - Developing agile curriculum update processes
-    - Incorporating lifelong learning and continuous professional development
-    - Leveraging emerging educational technologies in MedTech teaching
-    - Fostering an innovation mindset in students and faculty
-  - Building Resilient MedTech Education Ecosystems
-    - Creating adaptive governance structures in higher education
-    - Developing sustainable funding models for MedTech programs
-    - Establishing global collaborations and knowledge exchange networks
-    - Measuring and improving the long-term impact of MedTech education
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education](#revolutionising-medtech-education-wardley-mapping-for-teaching-and-research-in-higher-education)
+- [Foundations of Wardley Mapping in MedTech Education](#foundations-of-wardley-mapping-in-medtech-education)
+  - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+    - [Origins and core principles of Wardley Mapping](#origins-and-core-principles-of-wardley-mapping)
+    - [The value chain and evolution axis](#the-value-chain-and-evolution-axis)
+    - [Mapping components and their relationships](#mapping-components-and-their-relationships)
+    - [Benefits of Wardley Mapping in strategic planning](#benefits-of-wardley-mapping-in-strategic-planning)
+  - [The MedTech Landscape in Higher Education](#the-medtech-landscape-in-higher-education)
+    - [Current challenges in MedTech education](#current-challenges-in-medtech-education)
+    - [The need for adaptive curriculum design](#the-need-for-adaptive-curriculum-design)
+    - [Bridging the gap between academia and industry](#bridging-the-gap-between-academia-and-industry)
+    - [Emerging technologies and their impact on MedTech education](#emerging-technologies-and-their-impact-on-medtech-education)
+  - [Wardley Mapping's Relevance to MedTech Education](#wardley-mappings-relevance-to-medtech-education)
+    - [Aligning educational outcomes with industry needs](#aligning-educational-outcomes-with-industry-needs)
+    - [Visualising the MedTech education value chain](#visualising-the-medtech-education-value-chain)
+    - [Identifying opportunities for innovation in teaching and research](#identifying-opportunities-for-innovation-in-teaching-and-research)
+    - [Anticipating future trends and preparing students accordingly](#anticipating-future-trends-and-preparing-students-accordingly)
+- [Applying Wardley Mapping to Curriculum Design in MedTech Programs](#applying-wardley-mapping-to-curriculum-design-in-medtech-programs)
+  - [Mapping the MedTech Curriculum](#mapping-the-medtech-curriculum)
+    - [Identifying key components of a MedTech curriculum](#identifying-key-components-of-a-medtech-curriculum)
+    - [Positioning curriculum elements on the evolution axis](#positioning-curriculum-elements-on-the-evolution-axis)
+    - [Visualising dependencies and relationships between course modules](#visualising-dependencies-and-relationships-between-course-modules)
+    - [Uncovering gaps and redundancies in the current curriculum](#uncovering-gaps-and-redundancies-in-the-current-curriculum)
+  - [Designing Adaptive and Future-Proof Curricula](#designing-adaptive-and-future-proof-curricula)
+    - [Incorporating emerging technologies into the curriculum](#incorporating-emerging-technologies-into-the-curriculum)
+    - [Balancing theoretical knowledge with practical skills](#balancing-theoretical-knowledge-with-practical-skills)
+    - [Creating flexible learning pathways for students](#creating-flexible-learning-pathways-for-students)
+    - [Integrating interdisciplinary approaches in MedTech education](#integrating-interdisciplinary-approaches-in-medtech-education)
+  - [Aligning Assessment Methods with Industry Needs](#aligning-assessment-methods-with-industry-needs)
+    - [Mapping assessment strategies to industry requirements](#mapping-assessment-strategies-to-industry-requirements)
+    - [Developing authentic assessment tasks using Wardley Maps](#developing-authentic-assessment-tasks-using-wardley-maps)
+    - [Incorporating real-world problem-solving in evaluations](#incorporating-real-world-problem-solving-in-evaluations)
+    - [Preparing students for industry certifications and standards](#preparing-students-for-industry-certifications-and-standards)
+- [Enhancing Research Planning and Collaboration in MedTech](#enhancing-research-planning-and-collaboration-in-medtech)
+  - [Mapping the MedTech Research Landscape](#mapping-the-medtech-research-landscape)
+    - [Identifying key research areas and their evolutionary stages](#identifying-key-research-areas-and-their-evolutionary-stages)
+    - [Visualising research dependencies and potential collaborations](#visualising-research-dependencies-and-potential-collaborations)
+    - [Uncovering gaps and opportunities in current research efforts](#uncovering-gaps-and-opportunities-in-current-research-efforts)
+    - [Aligning research priorities with industry needs and funding opportunities](#aligning-research-priorities-with-industry-needs-and-funding-opportunities)
+  - [Fostering Interdisciplinary Research Collaboration](#fostering-interdisciplinary-research-collaboration)
+    - [Using Wardley Maps to identify potential research partners](#using-wardley-maps-to-identify-potential-research-partners)
+    - [Facilitating communication between different research domains](#facilitating-communication-between-different-research-domains)
+    - [Optimising resource allocation in collaborative projects](#optimising-resource-allocation-in-collaborative-projects)
+    - [Measuring and demonstrating the impact of interdisciplinary research](#measuring-and-demonstrating-the-impact-of-interdisciplinary-research)
+  - [Integrating Industry Partnerships in Research](#integrating-industry-partnerships-in-research)
+    - [Mapping industry needs and academic capabilities](#mapping-industry-needs-and-academic-capabilities)
+    - [Identifying mutually beneficial research projects](#identifying-mutually-beneficial-research-projects)
+    - [Structuring effective industry-academia collaborations](#structuring-effective-industry-academia-collaborations)
+    - [Navigating intellectual property and commercialisation challenges](#navigating-intellectual-property-and-commercialisation-challenges)
+- [Case Studies: Successful Wardley Mapping Implementations in MedTech Education](#case-studies-successful-wardley-mapping-implementations-in-medtech-education)
+  - [Curriculum Transformation at Leading MedTech Institutions](#curriculum-transformation-at-leading-medtech-institutions)
+    - [Case study 1: Revamping a biomedical engineering program](#case-study-1-revamping-a-biomedical-engineering-program)
+    - [Case study 2: Integrating AI and data science in medical imaging education](#case-study-2-integrating-ai-and-data-science-in-medical-imaging-education)
+    - [Case study 3: Developing a cutting-edge medical robotics curriculum](#case-study-3-developing-a-cutting-edge-medical-robotics-curriculum)
+    - [Lessons learned and best practices from successful implementations](#lessons-learned-and-best-practices-from-successful-implementations)
+  - [Research Innovation through Wardley Mapping](#research-innovation-through-wardley-mapping)
+    - [Case study 1: Accelerating drug discovery research](#case-study-1-accelerating-drug-discovery-research)
+    - [Case study 2: Optimising telemedicine research initiatives](#case-study-2-optimising-telemedicine-research-initiatives)
+    - [Case study 3: Advancing personalized medicine through collaborative research](#case-study-3-advancing-personalized-medicine-through-collaborative-research)
+    - [Key success factors and common pitfalls in research planning with Wardley Maps](#key-success-factors-and-common-pitfalls-in-research-planning-with-wardley-maps)
+  - [Industry-Academia Partnerships Enabled by Wardley Mapping](#industry-academia-partnerships-enabled-by-wardley-mapping)
+    - [Case study 1: Co-developing medical devices with industry partners](#case-study-1-co-developing-medical-devices-with-industry-partners)
+    - [Case study 2: Establishing a MedTech innovation hub](#case-study-2-establishing-a-medtech-innovation-hub)
+    - [Case study 3: Creating industry-aligned internship programs](#case-study-3-creating-industry-aligned-internship-programs)
+    - [Strategies for sustaining and scaling successful partnerships](#strategies-for-sustaining-and-scaling-successful-partnerships)
+- [Future-Proofing MedTech Education with Wardley Mapping](#future-proofing-medtech-education-with-wardley-mapping)
+  - [Anticipating Future Trends in MedTech](#anticipating-future-trends-in-medtech)
+    - [Using Wardley Maps to forecast technological advancements](#using-wardley-maps-to-forecast-technological-advancements)
+    - [Identifying emerging skill sets required in the MedTech industry](#identifying-emerging-skill-sets-required-in-the-medtech-industry)
+    - [Predicting shifts in healthcare delivery models](#predicting-shifts-in-healthcare-delivery-models)
+    - [Preparing for regulatory changes and ethical considerations](#preparing-for-regulatory-changes-and-ethical-considerations)
+  - [Adapting Educational Strategies for the Future of MedTech](#adapting-educational-strategies-for-the-future-of-medtech)
+    - [Developing agile curriculum update processes](#developing-agile-curriculum-update-processes)
+    - [Incorporating lifelong learning and continuous professional development](#incorporating-lifelong-learning-and-continuous-professional-development)
+    - [Leveraging emerging educational technologies in MedTech teaching](#leveraging-emerging-educational-technologies-in-medtech-teaching)
+    - [Fostering an innovation mindset in students and faculty](#fostering-an-innovation-mindset-in-students-and-faculty)
+  - [Building Resilient MedTech Education Ecosystems](#building-resilient-medtech-education-ecosystems)
+    - [Creating adaptive governance structures in higher education](#creating-adaptive-governance-structures-in-higher-education)
+    - [Developing sustainable funding models for MedTech programs](#developing-sustainable-funding-models-for-medtech-programs)
+    - [Establishing global collaborations and knowledge exchange networks](#establishing-global-collaborations-and-knowledge-exchange-networks)
+    - [Measuring and improving the long-term impact of MedTech education](#measuring-and-improving-the-long-term-impact-of-medtech-education)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Foundations of Wardley Mapping in MedTech Education

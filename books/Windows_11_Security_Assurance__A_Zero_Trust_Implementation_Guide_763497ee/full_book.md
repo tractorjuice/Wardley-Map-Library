@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Windows 11 Security Assurance: A Zero Trust Implementation Guide
-  - Introduction to Windows 11 Security Assurance
-    - Modern Security Challenges and Windows 11
-      - Evolution of Security Threats
-      - Windows 11 Security Architecture Overview
-      - Zero Trust Principles and Windows 11
-    - Security Assurance Fundamentals
-      - Key Security Components in Windows 11
-      - Security Baseline Requirements
-      - Assurance Framework Overview
-  - Zero Trust Architecture Implementation
-    - Identity and Access Management
-      - Microsoft Entra ID Integration
-      - Multi-factor Authentication Setup
-      - Conditional Access Policies
-    - Device Security Configuration
-      - TPM and Secure Boot Implementation
-      - Device Health Attestation
-      - Endpoint Detection and Response
-    - Network Security Controls
-      - Network Segmentation Strategies
-      - Microsoft Defender for Endpoint Integration
-      - Remote Access Security
-  - Compliance and Risk Management
-    - Regulatory Compliance Mapping
-      - NIST Framework Alignment
-      - ISO 27001 Controls Implementation
-      - GDPR Requirements Coverage
-    - Risk Assessment Methodology
-      - Threat Modeling for Windows 11
-      - Vulnerability Assessment Procedures
-      - Risk Mitigation Strategies
-  - Security Automation and DevSecOps
-    - Automation Framework Implementation
-      - PowerShell Security Scripts
-      - Configuration Management Tools
-      - Security Policy Automation
-    - CI/CD Security Integration
-      - Security Testing Automation
-      - Compliance Validation Pipeline
-      - Automated Remediation Workflows
-  - Security Metrics and Reporting
-    - Security Performance Measurement
-      - Key Security Indicators
-      - Metrics Collection Methods
-      - Performance Dashboard Setup
-    - Stakeholder Communication
-      - Executive Reporting Templates
-      - Compliance Status Reports
-      - Incident Response Documentation
+- [Windows 11 Security Assurance: A Zero Trust Implementation Guide](#windows-11-security-assurance-a-zero-trust-implementation-guide)
+  - [Introduction to Windows 11 Security Assurance](#introduction-to-windows-11-security-assurance)
+    - [Modern Security Challenges and Windows 11](#modern-security-challenges-and-windows-11)
+      - [Evolution of Security Threats](#evolution-of-security-threats)
+      - [Windows 11 Security Architecture Overview](#windows-11-security-architecture-overview)
+      - [Zero Trust Principles and Windows 11](#zero-trust-principles-and-windows-11)
+    - [Security Assurance Fundamentals](#security-assurance-fundamentals)
+      - [Key Security Components in Windows 11](#key-security-components-in-windows-11)
+      - [Security Baseline Requirements](#security-baseline-requirements)
+      - [Assurance Framework Overview](#assurance-framework-overview)
+  - [Zero Trust Architecture Implementation](#zero-trust-architecture-implementation)
+    - [Identity and Access Management](#identity-and-access-management)
+      - [Microsoft Entra ID Integration](#microsoft-entra-id-integration)
+      - [Multi-factor Authentication Setup](#multi-factor-authentication-setup)
+      - [Conditional Access Policies](#conditional-access-policies)
+    - [Device Security Configuration](#device-security-configuration)
+      - [TPM and Secure Boot Implementation](#tpm-and-secure-boot-implementation)
+      - [Device Health Attestation](#device-health-attestation)
+      - [Endpoint Detection and Response](#endpoint-detection-and-response)
+    - [Network Security Controls](#network-security-controls)
+      - [Network Segmentation Strategies](#network-segmentation-strategies)
+      - [Microsoft Defender for Endpoint Integration](#microsoft-defender-for-endpoint-integration)
+      - [Remote Access Security](#remote-access-security)
+  - [Compliance and Risk Management](#compliance-and-risk-management)
+    - [Regulatory Compliance Mapping](#regulatory-compliance-mapping)
+      - [NIST Framework Alignment](#nist-framework-alignment)
+      - [ISO 27001 Controls Implementation](#iso-27001-controls-implementation)
+      - [GDPR Requirements Coverage](#gdpr-requirements-coverage)
+    - [Risk Assessment Methodology](#risk-assessment-methodology)
+      - [Threat Modeling for Windows 11](#threat-modeling-for-windows-11)
+      - [Vulnerability Assessment Procedures](#vulnerability-assessment-procedures)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+  - [Security Automation and DevSecOps](#security-automation-and-devsecops)
+    - [Automation Framework Implementation](#automation-framework-implementation)
+      - [PowerShell Security Scripts](#powershell-security-scripts)
+      - [Configuration Management Tools](#configuration-management-tools)
+      - [Security Policy Automation](#security-policy-automation)
+    - [CI/CD Security Integration](#cicd-security-integration)
+      - [Security Testing Automation](#security-testing-automation)
+      - [Compliance Validation Pipeline](#compliance-validation-pipeline)
+      - [Automated Remediation Workflows](#automated-remediation-workflows)
+  - [Security Metrics and Reporting](#security-metrics-and-reporting)
+    - [Security Performance Measurement](#security-performance-measurement)
+      - [Key Security Indicators](#key-security-indicators)
+      - [Metrics Collection Methods](#metrics-collection-methods)
+      - [Performance Dashboard Setup](#performance-dashboard-setup)
+    - [Stakeholder Communication](#stakeholder-communication)
+      - [Executive Reporting Templates](#executive-reporting-templates)
+      - [Compliance Status Reports](#compliance-status-reports)
+      - [Incident Response Documentation](#incident-response-documentation)
 
 
 ## Introduction to Windows 11 Security Assurance

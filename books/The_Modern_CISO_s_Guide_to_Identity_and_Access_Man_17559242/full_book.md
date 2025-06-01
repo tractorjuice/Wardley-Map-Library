@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- The Modern CISO's Guide to Identity and Access Management: Architecting Security for the Digital Enterprise
-  - Introduction: The Evolution of Identity-Centric Security
-    - The Shifting Security Landscape
-      - From Perimeter-Based to Identity-Centric Security
-      - Key Challenges Facing Modern CISOs
-      - The Business Impact of Identity Management
-    - Foundation Concepts
-      - Core IDAM Components and Architecture
-      - Identity Lifecycle Management
-      - Authentication vs Authorization
-  - Strategic Framework for Identity-Centric Security
-    - Wardley Mapping for IDAM Strategy
-      - Creating Identity Value Chains
-      - Mapping Evolution and Dependencies
-      - Strategic Decision Making with Wardley Maps
-    - Maturity Assessment and Roadmap Development
-      - IDAM Maturity Models
-      - Gap Analysis Methodologies
-      - Roadmap Creation and Prioritisation
-  - Implementing Zero Trust Architecture
-    - Zero Trust Fundamentals
-      - Core Principles of Zero Trust
-      - Identity as the New Perimeter
-      - Authentication and Authorization Patterns
-    - Enterprise Integration
-      - Legacy System Integration
-      - Cloud Service Integration
-      - Microsegmentation Strategies
-  - Cloud-Native Identity Management
-    - Multi-Cloud Identity Architectures
-      - Identity Federation Patterns
-      - Cloud Identity Providers
-      - Hybrid Identity Management
-    - Cloud Security Challenges
-      - Identity Governance in the Cloud
-      - Access Management Across Clouds
-      - Security Control Implementation
-  - Governance, Risk, and Compliance
-    - Regulatory Compliance Framework
-      - Key Regulatory Requirements
-      - Compliance Mapping and Controls
-      - Audit Preparation and Response
-    - Risk Management
-      - Identity Risk Assessment
-      - Risk Metrics and Reporting
-      - Business Impact Analysis
+- [The Modern CISO's Guide to Identity and Access Management: Architecting Security for the Digital Enterprise](#the-modern-cisos-guide-to-identity-and-access-management-architecting-security-for-the-digital-enterprise)
+  - [Introduction: The Evolution of Identity-Centric Security](#introduction-the-evolution-of-identity-centric-security)
+    - [The Shifting Security Landscape](#the-shifting-security-landscape)
+      - [From Perimeter-Based to Identity-Centric Security](#from-perimeter-based-to-identity-centric-security)
+      - [Key Challenges Facing Modern CISOs](#key-challenges-facing-modern-cisos)
+      - [The Business Impact of Identity Management](#the-business-impact-of-identity-management)
+    - [Foundation Concepts](#foundation-concepts)
+      - [Core IDAM Components and Architecture](#core-idam-components-and-architecture)
+      - [Identity Lifecycle Management](#identity-lifecycle-management)
+      - [Authentication vs Authorization](#authentication-vs-authorization)
+  - [Strategic Framework for Identity-Centric Security](#strategic-framework-for-identity-centric-security)
+    - [Wardley Mapping for IDAM Strategy](#wardley-mapping-for-idam-strategy)
+      - [Creating Identity Value Chains](#creating-identity-value-chains)
+      - [Mapping Evolution and Dependencies](#mapping-evolution-and-dependencies)
+      - [Strategic Decision Making with Wardley Maps](#strategic-decision-making-with-wardley-maps)
+    - [Maturity Assessment and Roadmap Development](#maturity-assessment-and-roadmap-development)
+      - [IDAM Maturity Models](#idam-maturity-models)
+      - [Gap Analysis Methodologies](#gap-analysis-methodologies)
+      - [Roadmap Creation and Prioritisation](#roadmap-creation-and-prioritisation)
+  - [Implementing Zero Trust Architecture](#implementing-zero-trust-architecture)
+    - [Zero Trust Fundamentals](#zero-trust-fundamentals)
+      - [Core Principles of Zero Trust](#core-principles-of-zero-trust)
+      - [Identity as the New Perimeter](#identity-as-the-new-perimeter)
+      - [Authentication and Authorization Patterns](#authentication-and-authorization-patterns)
+    - [Enterprise Integration](#enterprise-integration)
+      - [Legacy System Integration](#legacy-system-integration)
+      - [Cloud Service Integration](#cloud-service-integration)
+      - [Microsegmentation Strategies](#microsegmentation-strategies)
+  - [Cloud-Native Identity Management](#cloud-native-identity-management)
+    - [Multi-Cloud Identity Architectures](#multi-cloud-identity-architectures)
+      - [Identity Federation Patterns](#identity-federation-patterns)
+      - [Cloud Identity Providers](#cloud-identity-providers)
+      - [Hybrid Identity Management](#hybrid-identity-management)
+    - [Cloud Security Challenges](#cloud-security-challenges)
+      - [Identity Governance in the Cloud](#identity-governance-in-the-cloud)
+      - [Access Management Across Clouds](#access-management-across-clouds)
+      - [Security Control Implementation](#security-control-implementation)
+  - [Governance, Risk, and Compliance](#governance-risk-and-compliance)
+    - [Regulatory Compliance Framework](#regulatory-compliance-framework)
+      - [Key Regulatory Requirements](#key-regulatory-requirements)
+      - [Compliance Mapping and Controls](#compliance-mapping-and-controls)
+      - [Audit Preparation and Response](#audit-preparation-and-response)
+    - [Risk Management](#risk-management)
+      - [Identity Risk Assessment](#identity-risk-assessment)
+      - [Risk Metrics and Reporting](#risk-metrics-and-reporting)
+      - [Business Impact Analysis](#business-impact-analysis)
 
 
 ## Introduction: The Evolution of Identity-Centric Security

@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Digital Transformation Leadership in Government: A Strategic Guide to Modernizing Complex Organizations
-  - Chapter 1: Foundations of Government Digital Transformation
-    - Understanding the Government Context
-      - Unique Characteristics of Public Sector Organizations
-      - Regulatory and Compliance Framework
-      - Stakeholder Ecosystem in Government
-      - Current State of Digital Maturity
-    - Strategic Leadership Principles
-      - Navigating Organizational Politics
-      - Building Cross-Agency Coalitions
-      - Managing Change Resistance
-      - Developing Digital Vision and Strategy
-  - Chapter 2: Process Innovation Within Regulatory Constraints
-    - Systematic Process Assessment
-      - Identifying Improvement Opportunities
-      - Regulatory Impact Analysis
-      - Security and Compliance Requirements
-      - Prioritization Framework
-    - Implementation Strategies
-      - Agile Methodology Adaptation
-      - Risk Management Approaches
-      - Change Control Procedures
-      - Measuring Process Effectiveness
-  - Chapter 3: Technical Excellence in Public Service
-    - Modern Engineering Practices
-      - DevSecOps in Government
-      - Cloud Adoption Strategies
-      - Test Automation Framework
-      - Security-First Architecture
-    - Quality Assurance
-      - Compliance Testing Protocols
-      - Performance Monitoring
-      - Security Assessment Methods
-      - Continuous Improvement Cycle
-  - Chapter 4: Leading Hybrid Teams in Government
-    - Team Structure and Governance
-      - Organizational Design Models
-      - Role Definition and Accountability
-      - Communication Protocols
-      - Performance Management Framework
-    - Collaboration and Alignment
-      - Virtual Team Management
-      - Tools and Technology Selection
-      - Cultural Integration Strategies
-      - Standards Compliance Methods
-  - Chapter 5: Resource Optimization and Strategic Planning
-    - Workforce Planning
-      - Skills Assessment and Gap Analysis
-      - Recruitment and Retention Strategies
-      - Training and Development Programs
-      - Succession Planning
-    - Budget Management
-      - Resource Allocation Methods
-      - Cost Control Strategies
-      - Investment Prioritization
-      - Performance Metrics and ROI
+- [Digital Transformation Leadership in Government: A Strategic Guide to Modernizing Complex Organizations](#digital-transformation-leadership-in-government-a-strategic-guide-to-modernizing-complex-organizations)
+  - [Chapter 1: Foundations of Government Digital Transformation](#chapter-1-foundations-of-government-digital-transformation)
+    - [Understanding the Government Context](#understanding-the-government-context)
+      - [Unique Characteristics of Public Sector Organizations](#unique-characteristics-of-public-sector-organizations)
+      - [Regulatory and Compliance Framework](#regulatory-and-compliance-framework)
+      - [Stakeholder Ecosystem in Government](#stakeholder-ecosystem-in-government)
+      - [Current State of Digital Maturity](#current-state-of-digital-maturity)
+    - [Strategic Leadership Principles](#strategic-leadership-principles)
+      - [Navigating Organizational Politics](#navigating-organizational-politics)
+      - [Building Cross-Agency Coalitions](#building-cross-agency-coalitions)
+      - [Managing Change Resistance](#managing-change-resistance)
+      - [Developing Digital Vision and Strategy](#developing-digital-vision-and-strategy)
+  - [Chapter 2: Process Innovation Within Regulatory Constraints](#chapter-2-process-innovation-within-regulatory-constraints)
+    - [Systematic Process Assessment](#systematic-process-assessment)
+      - [Identifying Improvement Opportunities](#identifying-improvement-opportunities)
+      - [Regulatory Impact Analysis](#regulatory-impact-analysis)
+      - [Security and Compliance Requirements](#security-and-compliance-requirements)
+      - [Prioritization Framework](#prioritization-framework)
+    - [Implementation Strategies](#implementation-strategies)
+      - [Agile Methodology Adaptation](#agile-methodology-adaptation)
+      - [Risk Management Approaches](#risk-management-approaches)
+      - [Change Control Procedures](#change-control-procedures)
+      - [Measuring Process Effectiveness](#measuring-process-effectiveness)
+  - [Chapter 3: Technical Excellence in Public Service](#chapter-3-technical-excellence-in-public-service)
+    - [Modern Engineering Practices](#modern-engineering-practices)
+      - [DevSecOps in Government](#devsecops-in-government)
+      - [Cloud Adoption Strategies](#cloud-adoption-strategies)
+      - [Test Automation Framework](#test-automation-framework)
+      - [Security-First Architecture](#security-first-architecture)
+    - [Quality Assurance](#quality-assurance)
+      - [Compliance Testing Protocols](#compliance-testing-protocols)
+      - [Performance Monitoring](#performance-monitoring)
+      - [Security Assessment Methods](#security-assessment-methods)
+      - [Continuous Improvement Cycle](#continuous-improvement-cycle)
+  - [Chapter 4: Leading Hybrid Teams in Government](#chapter-4-leading-hybrid-teams-in-government)
+    - [Team Structure and Governance](#team-structure-and-governance)
+      - [Organizational Design Models](#organizational-design-models)
+      - [Role Definition and Accountability](#role-definition-and-accountability)
+      - [Communication Protocols](#communication-protocols)
+      - [Performance Management Framework](#performance-management-framework)
+    - [Collaboration and Alignment](#collaboration-and-alignment)
+      - [Virtual Team Management](#virtual-team-management)
+      - [Tools and Technology Selection](#tools-and-technology-selection)
+      - [Cultural Integration Strategies](#cultural-integration-strategies)
+      - [Standards Compliance Methods](#standards-compliance-methods)
+  - [Chapter 5: Resource Optimization and Strategic Planning](#chapter-5-resource-optimization-and-strategic-planning)
+    - [Workforce Planning](#workforce-planning)
+      - [Skills Assessment and Gap Analysis](#skills-assessment-and-gap-analysis)
+      - [Recruitment and Retention Strategies](#recruitment-and-retention-strategies)
+      - [Training and Development Programs](#training-and-development-programs)
+      - [Succession Planning](#succession-planning)
+    - [Budget Management](#budget-management)
+      - [Resource Allocation Methods](#resource-allocation-methods)
+      - [Cost Control Strategies](#cost-control-strategies)
+      - [Investment Prioritization](#investment-prioritization)
+      - [Performance Metrics and ROI](#performance-metrics-and-roi)
 
 
 ## Chapter 1: Foundations of Government Digital Transformation

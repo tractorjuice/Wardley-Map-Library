@@ -2,68 +2,68 @@
 
 # Table of Contents
 
-- Technical Debt Assessment Framework: A Comprehensive Guide to Measurement, Management, and Strategic Implementation
-  - Introduction to Technical Debt Assessment
-    - Understanding Technical Debt
-      - Definition and Types of Technical Debt
-      - Impact on Business Value and Innovation
-      - Common Sources and Root Causes
-    - The Need for Structured Assessment
-      - Current Industry Challenges
-      - Benefits of Systematic Evaluation
-      - Framework Overview and Objectives
-  - Quantitative Assessment Models
-    - Financial Metrics
-      - Cost of Delay Calculation
-      - Maintenance Overhead Analysis
-      - Technical Debt Interest Rate Models
-    - Code Quality Measurements
-      - Static Analysis Metrics
-      - Complexity Measurements
-      - Test Coverage Assessment
-    - Risk Scoring Systems
-      - Risk Matrix Development
-      - Impact Assessment Criteria
-      - Probability Scoring Methods
-  - Strategic Decision Framework
-    - Decision Tree Implementation
-      - Priority Assessment Criteria
-      - Decision Node Design
-      - Outcome Analysis Methods
-    - ROI Calculations
-      - Cost-Benefit Analysis Models
-      - Investment Timeline Planning
-      - Return Measurement Metrics
-    - Prioritization Strategies
-      - Urgency vs. Importance Matrix
-      - Resource Allocation Models
-      - Implementation Scheduling
-  - Organizational Integration and Culture
-    - Cultural Transformation
-      - Team Awareness Building
-      - Communication Protocols
-      - Resistance Management
-    - Process Alignment
-      - Agile Integration Methods
-      - Budget Cycle Synchronization
-      - Roadmap Integration Techniques
-    - Change Management
-      - Stakeholder Engagement
-      - Progress Monitoring Systems
-      - Success Metrics Definition
-  - Implementation and Toolchain
-    - Tool Selection and Integration
-      - Assessment Tool Evaluation
-      - Integration Requirements
-      - Implementation Patterns
-    - Automation Strategies
-      - Continuous Assessment Setup
-      - Reporting Automation
-      - Alert System Configuration
-    - Workflow Integration
-      - Development Pipeline Integration
-      - Review Process Automation
-      - Feedback Loop Implementation
+- [Technical Debt Assessment Framework: A Comprehensive Guide to Measurement, Management, and Strategic Implementation](#technical-debt-assessment-framework-a-comprehensive-guide-to-measurement-management-and-strategic-implementation)
+  - [Introduction to Technical Debt Assessment](#introduction-to-technical-debt-assessment)
+    - [Understanding Technical Debt](#understanding-technical-debt)
+      - [Definition and Types of Technical Debt](#definition-and-types-of-technical-debt)
+      - [Impact on Business Value and Innovation](#impact-on-business-value-and-innovation)
+      - [Common Sources and Root Causes](#common-sources-and-root-causes)
+    - [The Need for Structured Assessment](#the-need-for-structured-assessment)
+      - [Current Industry Challenges](#current-industry-challenges)
+      - [Benefits of Systematic Evaluation](#benefits-of-systematic-evaluation)
+      - [Framework Overview and Objectives](#framework-overview-and-objectives)
+  - [Quantitative Assessment Models](#quantitative-assessment-models)
+    - [Financial Metrics](#financial-metrics)
+      - [Cost of Delay Calculation](#cost-of-delay-calculation)
+      - [Maintenance Overhead Analysis](#maintenance-overhead-analysis)
+      - [Technical Debt Interest Rate Models](#technical-debt-interest-rate-models)
+    - [Code Quality Measurements](#code-quality-measurements)
+      - [Static Analysis Metrics](#static-analysis-metrics)
+      - [Complexity Measurements](#complexity-measurements)
+      - [Test Coverage Assessment](#test-coverage-assessment)
+    - [Risk Scoring Systems](#risk-scoring-systems)
+      - [Risk Matrix Development](#risk-matrix-development)
+      - [Impact Assessment Criteria](#impact-assessment-criteria)
+      - [Probability Scoring Methods](#probability-scoring-methods)
+  - [Strategic Decision Framework](#strategic-decision-framework)
+    - [Decision Tree Implementation](#decision-tree-implementation)
+      - [Priority Assessment Criteria](#priority-assessment-criteria)
+      - [Decision Node Design](#decision-node-design)
+      - [Outcome Analysis Methods](#outcome-analysis-methods)
+    - [ROI Calculations](#roi-calculations)
+      - [Cost-Benefit Analysis Models](#cost-benefit-analysis-models)
+      - [Investment Timeline Planning](#investment-timeline-planning)
+      - [Return Measurement Metrics](#return-measurement-metrics)
+    - [Prioritization Strategies](#prioritization-strategies)
+      - [Urgency vs. Importance Matrix](#urgency-vs-importance-matrix)
+      - [Resource Allocation Models](#resource-allocation-models)
+      - [Implementation Scheduling](#implementation-scheduling)
+  - [Organizational Integration and Culture](#organizational-integration-and-culture)
+    - [Cultural Transformation](#cultural-transformation)
+      - [Team Awareness Building](#team-awareness-building)
+      - [Communication Protocols](#communication-protocols)
+      - [Resistance Management](#resistance-management)
+    - [Process Alignment](#process-alignment)
+      - [Agile Integration Methods](#agile-integration-methods)
+      - [Budget Cycle Synchronization](#budget-cycle-synchronization)
+      - [Roadmap Integration Techniques](#roadmap-integration-techniques)
+    - [Change Management](#change-management)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Progress Monitoring Systems](#progress-monitoring-systems)
+      - [Success Metrics Definition](#success-metrics-definition)
+  - [Implementation and Toolchain](#implementation-and-toolchain)
+    - [Tool Selection and Integration](#tool-selection-and-integration)
+      - [Assessment Tool Evaluation](#assessment-tool-evaluation)
+      - [Integration Requirements](#integration-requirements)
+      - [Implementation Patterns](#implementation-patterns)
+    - [Automation Strategies](#automation-strategies)
+      - [Continuous Assessment Setup](#continuous-assessment-setup)
+      - [Reporting Automation](#reporting-automation)
+      - [Alert System Configuration](#alert-system-configuration)
+    - [Workflow Integration](#workflow-integration)
+      - [Development Pipeline Integration](#development-pipeline-integration)
+      - [Review Process Automation](#review-process-automation)
+      - [Feedback Loop Implementation](#feedback-loop-implementation)
 
 
 ## Introduction to Technical Debt Assessment

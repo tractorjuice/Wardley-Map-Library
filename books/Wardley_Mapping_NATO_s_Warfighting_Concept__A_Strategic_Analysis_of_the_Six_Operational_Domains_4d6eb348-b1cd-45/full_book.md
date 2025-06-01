@@ -4,87 +4,87 @@
 
 # Table of Contents
 
-- Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Convergence of Wardley Mapping and Military Strategy
-  - Understanding Wardley Mapping
-    - Origins and principles of Wardley Mapping
-    - Key components of a Wardley Map
-    - Benefits of Wardley Mapping in strategic planning
-  - The Evolution of Military Strategy
-    - Historical context of military doctrine development
-    - The need for adaptive strategies in modern warfare
-    - Introduction to NATO's Warfighting Capstone Concept (NWCC)
-  - Bridging Wardley Mapping and Military Doctrine
-    - The potential of Wardley Mapping in military context
-    - Challenges and opportunities in applying Wardley Mapping to NWCC
-    - Overview of the book's approach and structure
-- Decoding NATO's Warfighting Capstone Concept (NWCC)
-  - The Genesis and Purpose of NWCC
-    - NATO's strategic environment and challenges
-    - Core objectives and principles of NWCC
-    - The concept of Multi-Domain Operations (MDO)
-  - The Six Operational Domains of NWCC
-    - Land domain: Characteristics and strategic importance
-    - Maritime domain: Naval warfare in the 21st century
-    - Air domain: Control of the skies and beyond
-    - Space domain: The new frontier of military operations
-    - Cyber domain: Warfare in the digital realm
-    - Cognitive domain: The battle for hearts and minds
-  - Interoperability and Integration in NWCC
-    - Cross-domain synergies and dependencies
-    - Challenges in achieving seamless integration
-    - The role of technology and innovation in NWCC
-- Mapping the Six NWCC Domains: A Wardley Mapping Approach
-  - Methodology for Mapping Military Domains
-    - Adapting Wardley Mapping for military context
-    - Identifying key components and dependencies in each domain
-    - Establishing the evolution axis for military capabilities
-  - Mapping the Physical Domains
-    - Wardley Map of the Land domain
-    - Wardley Map of the Maritime domain
-    - Wardley Map of the Air domain
-    - Wardley Map of the Space domain
-  - Mapping the Non-Physical Domains
-    - Wardley Map of the Cyber domain
-    - Wardley Map of the Cognitive domain
-  - Cross-Domain Analysis and Integration
-    - Identifying cross-domain dependencies and opportunities
-    - Mapping the integration of all six domains
-    - Strategic insights from the integrated Wardley Map
-- Practical Applications and Case Studies
-  - Scenario-Based Exercises
-    - Developing Wardley Maps for hypothetical conflict scenarios
-    - Analysing strategic options using the maps
-    - Decision-making processes informed by Wardley Mapping
-  - Historical Case Studies
-    - Retrospective mapping of past military operations
-    - Lessons learned through the lens of Wardley Mapping
-    - How Wardley Mapping could have influenced historical outcomes
-  - Contemporary Challenges and Future Conflicts
-    - Mapping current geopolitical tensions
-    - Anticipating future warfare scenarios
-    - Strategies for adapting NWCC using Wardley Mapping insights
-- The Future of Military Strategy: Wardley Mapping and Beyond
-  - Evolving NWCC through Continuous Mapping
-    - Establishing a framework for regular strategy reviews
-    - Incorporating emerging technologies and doctrines
-    - Adaptive planning using Wardley Mapping
-  - Expanding Wardley Mapping to Other Military Doctrines
-    - Applicability to non-NATO military strategies
-    - Potential for mapping asymmetric warfare
-    - Wardley Mapping in joint international operations
-  - The Cognitive Edge: Leveraging Wardley Mapping for Strategic Advantage
-    - Enhancing decision-making processes in military leadership
-    - Training and education implications for military strategists
-    - The future of AI-assisted Wardley Mapping in military planning
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains](#wardley-mapping-natos-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Convergence of Wardley Mapping and Military Strategy](#introduction-the-convergence-of-wardley-mapping-and-military-strategy)
+  - [Understanding Wardley Mapping](#understanding-wardley-mapping)
+    - [Origins and principles of Wardley Mapping](#origins-and-principles-of-wardley-mapping)
+    - [Key components of a Wardley Map](#key-components-of-a-wardley-map)
+    - [Benefits of Wardley Mapping in strategic planning](#benefits-of-wardley-mapping-in-strategic-planning)
+  - [The Evolution of Military Strategy](#the-evolution-of-military-strategy)
+    - [Historical context of military doctrine development](#historical-context-of-military-doctrine-development)
+    - [The need for adaptive strategies in modern warfare](#the-need-for-adaptive-strategies-in-modern-warfare)
+    - [Introduction to NATO's Warfighting Capstone Concept (NWCC)](#introduction-to-natos-warfighting-capstone-concept-nwcc)
+  - [Bridging Wardley Mapping and Military Doctrine](#bridging-wardley-mapping-and-military-doctrine)
+    - [The potential of Wardley Mapping in military context](#the-potential-of-wardley-mapping-in-military-context)
+    - [Challenges and opportunities in applying Wardley Mapping to NWCC](#challenges-and-opportunities-in-applying-wardley-mapping-to-nwcc)
+    - [Overview of the book's approach and structure](#overview-of-the-books-approach-and-structure)
+- [Decoding NATO's Warfighting Capstone Concept (NWCC)](#decoding-natos-warfighting-capstone-concept-nwcc)
+  - [The Genesis and Purpose of NWCC](#the-genesis-and-purpose-of-nwcc)
+    - [NATO's strategic environment and challenges](#natos-strategic-environment-and-challenges)
+    - [Core objectives and principles of NWCC](#core-objectives-and-principles-of-nwcc)
+    - [The concept of Multi-Domain Operations (MDO)](#the-concept-of-multi-domain-operations-mdo)
+  - [The Six Operational Domains of NWCC](#the-six-operational-domains-of-nwcc)
+    - [Land domain: Characteristics and strategic importance](#land-domain-characteristics-and-strategic-importance)
+    - [Maritime domain: Naval warfare in the 21st century](#maritime-domain-naval-warfare-in-the-21st-century)
+    - [Air domain: Control of the skies and beyond](#air-domain-control-of-the-skies-and-beyond)
+    - [Space domain: The new frontier of military operations](#space-domain-the-new-frontier-of-military-operations)
+    - [Cyber domain: Warfare in the digital realm](#cyber-domain-warfare-in-the-digital-realm)
+    - [Cognitive domain: The battle for hearts and minds](#cognitive-domain-the-battle-for-hearts-and-minds)
+  - [Interoperability and Integration in NWCC](#interoperability-and-integration-in-nwcc)
+    - [Cross-domain synergies and dependencies](#cross-domain-synergies-and-dependencies)
+    - [Challenges in achieving seamless integration](#challenges-in-achieving-seamless-integration)
+    - [The role of technology and innovation in NWCC](#the-role-of-technology-and-innovation-in-nwcc)
+- [Mapping the Six NWCC Domains: A Wardley Mapping Approach](#mapping-the-six-nwcc-domains-a-wardley-mapping-approach)
+  - [Methodology for Mapping Military Domains](#methodology-for-mapping-military-domains)
+    - [Adapting Wardley Mapping for military context](#adapting-wardley-mapping-for-military-context)
+    - [Identifying key components and dependencies in each domain](#identifying-key-components-and-dependencies-in-each-domain)
+    - [Establishing the evolution axis for military capabilities](#establishing-the-evolution-axis-for-military-capabilities)
+  - [Mapping the Physical Domains](#mapping-the-physical-domains)
+    - [Wardley Map of the Land domain](#wardley-map-of-the-land-domain)
+    - [Wardley Map of the Maritime domain](#wardley-map-of-the-maritime-domain)
+    - [Wardley Map of the Air domain](#wardley-map-of-the-air-domain)
+    - [Wardley Map of the Space domain](#wardley-map-of-the-space-domain)
+  - [Mapping the Non-Physical Domains](#mapping-the-non-physical-domains)
+    - [Wardley Map of the Cyber domain](#wardley-map-of-the-cyber-domain)
+    - [Wardley Map of the Cognitive domain](#wardley-map-of-the-cognitive-domain)
+  - [Cross-Domain Analysis and Integration](#cross-domain-analysis-and-integration)
+    - [Identifying cross-domain dependencies and opportunities](#identifying-cross-domain-dependencies-and-opportunities)
+    - [Mapping the integration of all six domains](#mapping-the-integration-of-all-six-domains)
+    - [Strategic insights from the integrated Wardley Map](#strategic-insights-from-the-integrated-wardley-map)
+- [Practical Applications and Case Studies](#practical-applications-and-case-studies)
+  - [Scenario-Based Exercises](#scenario-based-exercises)
+    - [Developing Wardley Maps for hypothetical conflict scenarios](#developing-wardley-maps-for-hypothetical-conflict-scenarios)
+    - [Analysing strategic options using the maps](#analysing-strategic-options-using-the-maps)
+    - [Decision-making processes informed by Wardley Mapping](#decision-making-processes-informed-by-wardley-mapping)
+  - [Historical Case Studies](#historical-case-studies)
+    - [Retrospective mapping of past military operations](#retrospective-mapping-of-past-military-operations)
+    - [Lessons learned through the lens of Wardley Mapping](#lessons-learned-through-the-lens-of-wardley-mapping)
+    - [How Wardley Mapping could have influenced historical outcomes](#how-wardley-mapping-could-have-influenced-historical-outcomes)
+  - [Contemporary Challenges and Future Conflicts](#contemporary-challenges-and-future-conflicts)
+    - [Mapping current geopolitical tensions](#mapping-current-geopolitical-tensions)
+    - [Anticipating future warfare scenarios](#anticipating-future-warfare-scenarios)
+    - [Strategies for adapting NWCC using Wardley Mapping insights](#strategies-for-adapting-nwcc-using-wardley-mapping-insights)
+- [The Future of Military Strategy: Wardley Mapping and Beyond](#the-future-of-military-strategy-wardley-mapping-and-beyond)
+  - [Evolving NWCC through Continuous Mapping](#evolving-nwcc-through-continuous-mapping)
+    - [Establishing a framework for regular strategy reviews](#establishing-a-framework-for-regular-strategy-reviews)
+    - [Incorporating emerging technologies and doctrines](#incorporating-emerging-technologies-and-doctrines)
+    - [Adaptive planning using Wardley Mapping](#adaptive-planning-using-wardley-mapping)
+  - [Expanding Wardley Mapping to Other Military Doctrines](#expanding-wardley-mapping-to-other-military-doctrines)
+    - [Applicability to non-NATO military strategies](#applicability-to-non-nato-military-strategies)
+    - [Potential for mapping asymmetric warfare](#potential-for-mapping-asymmetric-warfare)
+    - [Wardley Mapping in joint international operations](#wardley-mapping-in-joint-international-operations)
+  - [The Cognitive Edge: Leveraging Wardley Mapping for Strategic Advantage](#the-cognitive-edge-leveraging-wardley-mapping-for-strategic-advantage)
+    - [Enhancing decision-making processes in military leadership](#enhancing-decision-making-processes-in-military-leadership)
+    - [Training and education implications for military strategists](#training-and-education-implications-for-military-strategists)
+    - [The future of AI-assisted Wardley Mapping in military planning](#the-future-of-ai-assisted-wardley-mapping-in-military-planning)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The Convergence of Wardley Mapping and Military Strategy

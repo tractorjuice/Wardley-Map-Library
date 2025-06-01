@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Using Open Source as a Competitive Weapon
-  - Introduction to Open Source Strategy
-    - Understanding Open Source
-      - Definition and History
-      - Core Principles of Open Source
-      - The Open Source Ecosystem
-    - The Competitive Landscape
-      - Current Trends in Open Source
-      - Key Players in the Open Source Market
-      - The Impact of Open Source on Traditional Business Models
-  - Gameplays Overview
-    - Understanding Gameplays
-      - Definition of Gameplays
-      - Categories of Gameplays
-      - The Role of Gameplays in Strategy
-    - The Importance of Gameplays
-      - Strategic Advantages of Gameplays
-      - Gameplays and Competitive Positioning
-      - Case Studies of Successful Gameplays
-  - Current Trends and Case Studies
-    - Successful Open Source Models
-      - Red Hat: Building a Profitable Business
-      - MongoDB: Leveraging Open Source for Growth
-      - Case Study: GitHub's Impact on Development
-    - Challenges and Controversies
-      - Intellectual Property Concerns
-      - Community Backlash
-      - The Risk of Commoditization
-  - Strategic Frameworks for Open Source
-    - Wardley Mapping as a Tool
-      - Introduction to Wardley Mapping
-      - Creating Effective Wardley Maps
-      - Using Wardley Maps to Identify Gameplays
-    - Integrating Gameplays into Strategy
-      - Combining Multiple Gameplays
-      - Choosing the Right Gameplays for Your Context
-      - Case Studies of Successful Gameplay Integration
-  - Future Directions and Conclusion
-    - The Future of Open Source
-      - Emerging Trends in Open Source
-      - The Role of Open Source in Future Technologies
-      - Predictions for the Open Source Landscape
-    - Conclusion
-      - Key Takeaways
-      - Final Thoughts on Open Source as a Competitive Weapon
-      - Call to Action for Technology Leaders
+- [Using Open Source as a Competitive Weapon](#using-open-source-as-a-competitive-weapon)
+  - [Introduction to Open Source Strategy](#introduction-to-open-source-strategy)
+    - [Understanding Open Source](#understanding-open-source)
+      - [Definition and History](#definition-and-history)
+      - [Core Principles of Open Source](#core-principles-of-open-source)
+      - [The Open Source Ecosystem](#the-open-source-ecosystem)
+    - [The Competitive Landscape](#the-competitive-landscape)
+      - [Current Trends in Open Source](#current-trends-in-open-source)
+      - [Key Players in the Open Source Market](#key-players-in-the-open-source-market)
+      - [The Impact of Open Source on Traditional Business Models](#the-impact-of-open-source-on-traditional-business-models)
+  - [Gameplays Overview](#gameplays-overview)
+    - [Understanding Gameplays](#understanding-gameplays)
+      - [Definition of Gameplays](#definition-of-gameplays)
+      - [Categories of Gameplays](#categories-of-gameplays)
+      - [The Role of Gameplays in Strategy](#the-role-of-gameplays-in-strategy)
+    - [The Importance of Gameplays](#the-importance-of-gameplays)
+      - [Strategic Advantages of Gameplays](#strategic-advantages-of-gameplays)
+      - [Gameplays and Competitive Positioning](#gameplays-and-competitive-positioning)
+      - [Case Studies of Successful Gameplays](#case-studies-of-successful-gameplays)
+  - [Current Trends and Case Studies](#current-trends-and-case-studies)
+    - [Successful Open Source Models](#successful-open-source-models)
+      - [Red Hat: Building a Profitable Business](#red-hat-building-a-profitable-business)
+      - [MongoDB: Leveraging Open Source for Growth](#mongodb-leveraging-open-source-for-growth)
+      - [Case Study: GitHub's Impact on Development](#case-study-githubs-impact-on-development)
+    - [Challenges and Controversies](#challenges-and-controversies)
+      - [Intellectual Property Concerns](#intellectual-property-concerns)
+      - [Community Backlash](#community-backlash)
+      - [The Risk of Commoditization](#the-risk-of-commoditization)
+  - [Strategic Frameworks for Open Source](#strategic-frameworks-for-open-source)
+    - [Wardley Mapping as a Tool](#wardley-mapping-as-a-tool)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Creating Effective Wardley Maps](#creating-effective-wardley-maps)
+      - [Using Wardley Maps to Identify Gameplays](#using-wardley-maps-to-identify-gameplays)
+    - [Integrating Gameplays into Strategy](#integrating-gameplays-into-strategy)
+      - [Combining Multiple Gameplays](#combining-multiple-gameplays)
+      - [Choosing the Right Gameplays for Your Context](#choosing-the-right-gameplays-for-your-context)
+      - [Case Studies of Successful Gameplay Integration](#case-studies-of-successful-gameplay-integration)
+  - [Future Directions and Conclusion](#future-directions-and-conclusion)
+    - [The Future of Open Source](#the-future-of-open-source)
+      - [Emerging Trends in Open Source](#emerging-trends-in-open-source)
+      - [The Role of Open Source in Future Technologies](#the-role-of-open-source-in-future-technologies)
+      - [Predictions for the Open Source Landscape](#predictions-for-the-open-source-landscape)
+    - [Conclusion](#conclusion)
+      - [Key Takeaways](#key-takeaways)
+      - [Final Thoughts on Open Source as a Competitive Weapon](#final-thoughts-on-open-source-as-a-competitive-weapon)
+      - [Call to Action for Technology Leaders](#call-to-action-for-technology-leaders)
 
 
 ## Introduction to Open Source Strategy

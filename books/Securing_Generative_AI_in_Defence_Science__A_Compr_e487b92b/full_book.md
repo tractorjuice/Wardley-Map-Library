@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Securing Generative AI in Defence Science: A Comprehensive Framework for Military Research Environments
-  - Introduction to GenAI Security in Defence Research
-    - The Evolution of AI in Defence Science
-      - Current Landscape of GenAI in Military Research
-      - Unique Security Challenges in Defence Environments
-      - Critical Role of Security in Defence AI Applications
-    - Foundational Security Principles
-      - Core Security Requirements for Military AI
-      - Defence-Grade Security Standards
-      - Risk Assessment Fundamentals
-  - Military-Grade AI Security Architecture
-    - Defence-Specific Security Frameworks
-      - Military Security Protocol Integration
-      - Secure Architecture Design Patterns
-      - Defence Data Classification Systems
-    - Secure Infrastructure Components
-      - Isolated Development Environments
-      - Secure Model Training Infrastructure
-      - Access Control Systems
-    - Communication and Data Flow Security
-      - Encrypted Data Transmission Protocols
-      - Secure API Integration
-      - Cross-Domain Solutions
-  - Threat Modeling and Risk Assessment
-    - Defence-Specific Threat Landscapes
-      - Advanced Persistent Threats
-      - Model Manipulation Risks
-      - Data Poisoning Attacks
-    - Vulnerability Assessment Methodologies
-      - Security Testing Frameworks
-      - Penetration Testing Protocols
-      - Risk Quantification Methods
-  - Operational Implementation and Compliance
-    - Regulatory Compliance Framework
-      - Military Security Standards
-      - Data Protection Requirements
-      - Audit Trail Implementation
-    - Secure Deployment Strategies
-      - Deployment Validation Procedures
-      - Continuous Monitoring Systems
-      - Incident Response Protocols
-  - Future-Proofing and Evolution
-    - Adaptive Security Measures
-      - Security Architecture Evolution
-      - Emerging Threat Response
-      - Capability Enhancement Planning
-    - Long-term Security Strategy
-      - Technology Roadmap Development
-      - Security Research Integration
-      - Continuous Improvement Framework
+- [Securing Generative AI in Defence Science: A Comprehensive Framework for Military Research Environments](#securing-generative-ai-in-defence-science-a-comprehensive-framework-for-military-research-environments)
+  - [Introduction to GenAI Security in Defence Research](#introduction-to-genai-security-in-defence-research)
+    - [The Evolution of AI in Defence Science](#the-evolution-of-ai-in-defence-science)
+      - [Current Landscape of GenAI in Military Research](#current-landscape-of-genai-in-military-research)
+      - [Unique Security Challenges in Defence Environments](#unique-security-challenges-in-defence-environments)
+      - [Critical Role of Security in Defence AI Applications](#critical-role-of-security-in-defence-ai-applications)
+    - [Foundational Security Principles](#foundational-security-principles)
+      - [Core Security Requirements for Military AI](#core-security-requirements-for-military-ai)
+      - [Defence-Grade Security Standards](#defence-grade-security-standards)
+      - [Risk Assessment Fundamentals](#risk-assessment-fundamentals)
+  - [Military-Grade AI Security Architecture](#military-grade-ai-security-architecture)
+    - [Defence-Specific Security Frameworks](#defence-specific-security-frameworks)
+      - [Military Security Protocol Integration](#military-security-protocol-integration)
+      - [Secure Architecture Design Patterns](#secure-architecture-design-patterns)
+      - [Defence Data Classification Systems](#defence-data-classification-systems)
+    - [Secure Infrastructure Components](#secure-infrastructure-components)
+      - [Isolated Development Environments](#isolated-development-environments)
+      - [Secure Model Training Infrastructure](#secure-model-training-infrastructure)
+      - [Access Control Systems](#access-control-systems)
+    - [Communication and Data Flow Security](#communication-and-data-flow-security)
+      - [Encrypted Data Transmission Protocols](#encrypted-data-transmission-protocols)
+      - [Secure API Integration](#secure-api-integration)
+      - [Cross-Domain Solutions](#cross-domain-solutions)
+  - [Threat Modeling and Risk Assessment](#threat-modeling-and-risk-assessment)
+    - [Defence-Specific Threat Landscapes](#defence-specific-threat-landscapes)
+      - [Advanced Persistent Threats](#advanced-persistent-threats)
+      - [Model Manipulation Risks](#model-manipulation-risks)
+      - [Data Poisoning Attacks](#data-poisoning-attacks)
+    - [Vulnerability Assessment Methodologies](#vulnerability-assessment-methodologies)
+      - [Security Testing Frameworks](#security-testing-frameworks)
+      - [Penetration Testing Protocols](#penetration-testing-protocols)
+      - [Risk Quantification Methods](#risk-quantification-methods)
+  - [Operational Implementation and Compliance](#operational-implementation-and-compliance)
+    - [Regulatory Compliance Framework](#regulatory-compliance-framework)
+      - [Military Security Standards](#military-security-standards)
+      - [Data Protection Requirements](#data-protection-requirements)
+      - [Audit Trail Implementation](#audit-trail-implementation)
+    - [Secure Deployment Strategies](#secure-deployment-strategies)
+      - [Deployment Validation Procedures](#deployment-validation-procedures)
+      - [Continuous Monitoring Systems](#continuous-monitoring-systems)
+      - [Incident Response Protocols](#incident-response-protocols)
+  - [Future-Proofing and Evolution](#future-proofing-and-evolution)
+    - [Adaptive Security Measures](#adaptive-security-measures)
+      - [Security Architecture Evolution](#security-architecture-evolution)
+      - [Emerging Threat Response](#emerging-threat-response)
+      - [Capability Enhancement Planning](#capability-enhancement-planning)
+    - [Long-term Security Strategy](#long-term-security-strategy)
+      - [Technology Roadmap Development](#technology-roadmap-development)
+      - [Security Research Integration](#security-research-integration)
+      - [Continuous Improvement Framework](#continuous-improvement-framework)
 
 
 ## Introduction to GenAI Security in Defence Research

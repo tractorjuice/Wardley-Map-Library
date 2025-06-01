@@ -2,57 +2,57 @@
 
 # Table of Contents
 
-- Are the GenAI Agents Taking Over? Navigating the Future of Work and Society
-  - Chapter 1: The Evolution of GenAI
-    - Historical Context
-      - Early Developments in Artificial Intelligence
-      - Key Milestones in GenAI Technology
-      - The Rise of Machine Learning and Deep Learning
-    - Technological Advancements
-      - Breakthroughs in Natural Language Processing
-      - Advancements in Computer Vision
-      - The Role of Big Data in GenAI Development
-  - Chapter 2: Human-AI Collaboration
-    - Case Studies in Various Industries
-      - Healthcare: Enhancing Patient Care
-      - Finance: Risk Assessment and Fraud Detection
-      - Manufacturing: Optimising Production Processes
-    - Lessons Learned from Successful Partnerships
-      - Building Trust Between Humans and AI
-      - Effective Communication Strategies
-      - The Importance of Continuous Learning
-  - Chapter 3: Ethical Considerations
-    - Moral Implications of AI Integration
-      - Bias and Fairness in AI Systems
-      - Privacy Concerns and Data Security
-      - Accountability and Transparency in AI Decisions
-    - Regulatory and Policy Frameworks
-      - Current Regulations Governing AI
-      - The Role of Ethics Committees
-      - Future Directions for AI Governance
-  - Chapter 4: The Future Job Landscape
-    - Predictions for Job Roles
-      - Emerging Job Categories in the Age of GenAI
-      - The Decline of Traditional Roles
-      - Skills That Will Be in Demand
-    - Insights into Skill Requirements
-      - Technical Skills vs. Soft Skills
-      - The Importance of Lifelong Learning
-      - Reskilling and Upskilling Strategies
-  - Chapter 5: Strategies for Adaptation
-    - Frameworks for Individuals
-      - Personal Development Plans
-      - Networking and Community Building
-      - Leveraging Online Learning Platforms
-    - Methodologies for Organizations
-      - Creating a Culture of Innovation
-      - Integrating GenAI into Business Processes
-      - Measuring Success and Impact
-  - Conclusion: Embracing the Future with GenAI
-    - Reflecting on the Journey
-      - Key Takeaways from Each Chapter
-      - The Role of Humans in an AI-Driven World
-      - Final Thoughts on Coexistence with GenAI
+- [Are the GenAI Agents Taking Over? Navigating the Future of Work and Society](#are-the-genai-agents-taking-over-navigating-the-future-of-work-and-society)
+  - [Chapter 1: The Evolution of GenAI](#chapter-1-the-evolution-of-genai)
+    - [Historical Context](#historical-context)
+      - [Early Developments in Artificial Intelligence](#early-developments-in-artificial-intelligence)
+      - [Key Milestones in GenAI Technology](#key-milestones-in-genai-technology)
+      - [The Rise of Machine Learning and Deep Learning](#the-rise-of-machine-learning-and-deep-learning)
+    - [Technological Advancements](#technological-advancements)
+      - [Breakthroughs in Natural Language Processing](#breakthroughs-in-natural-language-processing)
+      - [Advancements in Computer Vision](#advancements-in-computer-vision)
+      - [The Role of Big Data in GenAI Development](#the-role-of-big-data-in-genai-development)
+  - [Chapter 2: Human-AI Collaboration](#chapter-2-human-ai-collaboration)
+    - [Case Studies in Various Industries](#case-studies-in-various-industries)
+      - [Healthcare: Enhancing Patient Care](#healthcare-enhancing-patient-care)
+      - [Finance: Risk Assessment and Fraud Detection](#finance-risk-assessment-and-fraud-detection)
+      - [Manufacturing: Optimising Production Processes](#manufacturing-optimising-production-processes)
+    - [Lessons Learned from Successful Partnerships](#lessons-learned-from-successful-partnerships)
+      - [Building Trust Between Humans and AI](#building-trust-between-humans-and-ai)
+      - [Effective Communication Strategies](#effective-communication-strategies)
+      - [The Importance of Continuous Learning](#the-importance-of-continuous-learning)
+  - [Chapter 3: Ethical Considerations](#chapter-3-ethical-considerations)
+    - [Moral Implications of AI Integration](#moral-implications-of-ai-integration)
+      - [Bias and Fairness in AI Systems](#bias-and-fairness-in-ai-systems)
+      - [Privacy Concerns and Data Security](#privacy-concerns-and-data-security)
+      - [Accountability and Transparency in AI Decisions](#accountability-and-transparency-in-ai-decisions)
+    - [Regulatory and Policy Frameworks](#regulatory-and-policy-frameworks)
+      - [Current Regulations Governing AI](#current-regulations-governing-ai)
+      - [The Role of Ethics Committees](#the-role-of-ethics-committees)
+      - [Future Directions for AI Governance](#future-directions-for-ai-governance)
+  - [Chapter 4: The Future Job Landscape](#chapter-4-the-future-job-landscape)
+    - [Predictions for Job Roles](#predictions-for-job-roles)
+      - [Emerging Job Categories in the Age of GenAI](#emerging-job-categories-in-the-age-of-genai)
+      - [The Decline of Traditional Roles](#the-decline-of-traditional-roles)
+      - [Skills That Will Be in Demand](#skills-that-will-be-in-demand)
+    - [Insights into Skill Requirements](#insights-into-skill-requirements)
+      - [Technical Skills vs. Soft Skills](#technical-skills-vs-soft-skills)
+      - [The Importance of Lifelong Learning](#the-importance-of-lifelong-learning)
+      - [Reskilling and Upskilling Strategies](#reskilling-and-upskilling-strategies)
+  - [Chapter 5: Strategies for Adaptation](#chapter-5-strategies-for-adaptation)
+    - [Frameworks for Individuals](#frameworks-for-individuals)
+      - [Personal Development Plans](#personal-development-plans)
+      - [Networking and Community Building](#networking-and-community-building)
+      - [Leveraging Online Learning Platforms](#leveraging-online-learning-platforms)
+    - [Methodologies for Organizations](#methodologies-for-organizations)
+      - [Creating a Culture of Innovation](#creating-a-culture-of-innovation)
+      - [Integrating GenAI into Business Processes](#integrating-genai-into-business-processes)
+      - [Measuring Success and Impact](#measuring-success-and-impact)
+  - [Conclusion: Embracing the Future with GenAI](#conclusion-embracing-the-future-with-genai)
+    - [Reflecting on the Journey](#reflecting-on-the-journey)
+      - [Key Takeaways from Each Chapter](#key-takeaways-from-each-chapter)
+      - [The Role of Humans in an AI-Driven World](#the-role-of-humans-in-an-ai-driven-world)
+      - [Final Thoughts on Coexistence with GenAI](#final-thoughts-on-coexistence-with-genai)
 
 
 ## Chapter 1: The Evolution of GenAI

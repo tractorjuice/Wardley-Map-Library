@@ -2,60 +2,60 @@
 
 # Table of Contents
 
-- Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Blindspots
-      - The Challenge of Modern Strategy
-      - Why Traditional Strategic Tools Fall Short
-      - The Need for Visual Strategic Thinking
-    - Fundamentals of Wardley Mapping
-      - Core Components of a Wardley Map
-      - Value Chain Basics
-      - Evolution Axis Explained
-  - Mapping Your Business Landscape
-    - Building Your First Wardley Map
-      - Identifying User Needs
-      - Mapping Dependencies
-      - Positioning Components
-      - Evolution Assessment
-    - Understanding Market Evolution
-      - Genesis to Commodity Patterns
-      - Pace of Evolution
-      - Inertia and Market Forces
-      - Anticipating Change
-  - Competitive Strategy and Market Dynamics
-    - Analyzing Competitive Positions
-      - Value Chain Analysis
-      - Competitor Mapping
-      - Identifying Strategic Opportunities
-      - Threat Assessment
-    - Strategic Plays and Patterns
-      - Common Strategic Patterns
-      - Defensive Strategies
-      - Offensive Moves
-      - Timing and Execution
-  - Digital Transformation and Innovation
-    - Mapping Digital Landscapes
-      - Technology Evolution Patterns
-      - Digital Value Chains
-      - Platform Strategies
-      - Innovation Opportunities
-    - Leading Digital Change
-      - Transformation Roadmapping
-      - Managing Technical Debt
-      - Building Digital Capabilities
-      - Measuring Progress
-  - Strategic Decision Making in Practice
-    - Decision Framework Implementation
-      - Situational Assessment
-      - Option Analysis
-      - Risk Evaluation
-      - Action Planning
-    - Real-World Applications
-      - Case Studies
-      - Implementation Stories
-      - Common Pitfalls
-      - Success Patterns
+- [Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders](#strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-modern-leaders)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Blindspots](#understanding-strategic-blindspots)
+      - [The Challenge of Modern Strategy](#the-challenge-of-modern-strategy)
+      - [Why Traditional Strategic Tools Fall Short](#why-traditional-strategic-tools-fall-short)
+      - [The Need for Visual Strategic Thinking](#the-need-for-visual-strategic-thinking)
+    - [Fundamentals of Wardley Mapping](#fundamentals-of-wardley-mapping)
+      - [Core Components of a Wardley Map](#core-components-of-a-wardley-map)
+      - [Value Chain Basics](#value-chain-basics)
+      - [Evolution Axis Explained](#evolution-axis-explained)
+  - [Mapping Your Business Landscape](#mapping-your-business-landscape)
+    - [Building Your First Wardley Map](#building-your-first-wardley-map)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Dependencies](#mapping-dependencies)
+      - [Positioning Components](#positioning-components)
+      - [Evolution Assessment](#evolution-assessment)
+    - [Understanding Market Evolution](#understanding-market-evolution)
+      - [Genesis to Commodity Patterns](#genesis-to-commodity-patterns)
+      - [Pace of Evolution](#pace-of-evolution)
+      - [Inertia and Market Forces](#inertia-and-market-forces)
+      - [Anticipating Change](#anticipating-change)
+  - [Competitive Strategy and Market Dynamics](#competitive-strategy-and-market-dynamics)
+    - [Analyzing Competitive Positions](#analyzing-competitive-positions)
+      - [Value Chain Analysis](#value-chain-analysis)
+      - [Competitor Mapping](#competitor-mapping)
+      - [Identifying Strategic Opportunities](#identifying-strategic-opportunities)
+      - [Threat Assessment](#threat-assessment)
+    - [Strategic Plays and Patterns](#strategic-plays-and-patterns)
+      - [Common Strategic Patterns](#common-strategic-patterns)
+      - [Defensive Strategies](#defensive-strategies)
+      - [Offensive Moves](#offensive-moves)
+      - [Timing and Execution](#timing-and-execution)
+  - [Digital Transformation and Innovation](#digital-transformation-and-innovation)
+    - [Mapping Digital Landscapes](#mapping-digital-landscapes)
+      - [Technology Evolution Patterns](#technology-evolution-patterns)
+      - [Digital Value Chains](#digital-value-chains)
+      - [Platform Strategies](#platform-strategies)
+      - [Innovation Opportunities](#innovation-opportunities)
+    - [Leading Digital Change](#leading-digital-change)
+      - [Transformation Roadmapping](#transformation-roadmapping)
+      - [Managing Technical Debt](#managing-technical-debt)
+      - [Building Digital Capabilities](#building-digital-capabilities)
+      - [Measuring Progress](#measuring-progress)
+  - [Strategic Decision Making in Practice](#strategic-decision-making-in-practice)
+    - [Decision Framework Implementation](#decision-framework-implementation)
+      - [Situational Assessment](#situational-assessment)
+      - [Option Analysis](#option-analysis)
+      - [Risk Evaluation](#risk-evaluation)
+      - [Action Planning](#action-planning)
+    - [Real-World Applications](#real-world-applications)
+      - [Case Studies](#case-studies)
+      - [Implementation Stories](#implementation-stories)
+      - [Common Pitfalls](#common-pitfalls)
+      - [Success Patterns](#success-patterns)
 
 
 ## Introduction: The Power of Visual Strategy

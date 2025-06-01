@@ -2,86 +2,86 @@
 
 # Table of Contents
 
-- Wardley Mapping Mastery: Uncovering Hidden Opportunities in Business Strategy
-- Foundations of Wardley Mapping
-  - The Evolution of Business Strategy
-    - From Porter to Wardley: A Brief History
-    - Why Traditional Strategies Fall Short
-    - The Power of Visual Mapping in Strategy
-  - Core Concepts of Wardley Mapping
-    - Components and Their Relationships
-    - The Evolution Axis: From Genesis to Commodity
-    - The Value Chain Axis: Visibility and Importance
-  - Building Your First Wardley Map
-    - Identifying User Needs and Desired Outcomes
-    - Mapping the Value Chain
-    - Positioning Components on the Evolution Axis
-    - Analysing Movement and Dependencies
-- Advanced Techniques for Gameplay Identification
-  - Pattern Recognition in Wardley Maps
-    - Common Patterns and Their Significance
-    - Industry-Specific Patterns
-    - Identifying Emerging Patterns and Weak Signals
-  - Dynamic Mapping and Scenario Planning
-    - Forecasting Component Evolution
-    - Anticipating Market Shifts
-    - Creating Multiple Future Scenarios
-  - Competitive Analysis Using Wardley Maps
-    - Mapping Competitor Strategies
-    - Identifying Strategic Gaps and Opportunities
-    - Developing Counter-Strategies
-  - Uncovering New Gameplays
-    - Leveraging Inertia and Momentum
-    - Exploiting Market Inefficiencies
-    - Creating New Value Chains
-    - Disrupting Existing Ecosystems
-- Integrating Wardley Mapping with Other Strategic Frameworks
-  - Wardley Mapping and Blue Ocean Strategy
-    - Identifying Blue Oceans on Wardley Maps
-    - Using Wardley Maps to Create Uncontested Market Space
-    - Case Study: Cirque du Soleil's Strategy through a Wardley Lens
-  - Wardley Mapping and Design Thinking
-    - Empathy Mapping in Wardley Context
-    - Ideation and Prototyping with Wardley Maps
-    - Iterative Design and Strategic Evolution
-  - Wardley Mapping and Lean Startup Methodology
-    - Building Minimum Viable Products with Wardley Insights
-    - Pivot or Persevere: Using Wardley Maps for Decision-Making
-    - Scaling Strategies Informed by Evolutionary Mapping
-- Case Studies: Wardley Mapping in Action
-  - Amazon's Strategic Evolution
-    - Mapping Amazon's Initial Bookselling Strategy
-    - The Move to Cloud Services: A Wardley Perspective
-    - Future Directions: Predicting Amazon's Next Moves
-  - Netflix: From DVD Rentals to Streaming Dominance
-    - Mapping the Shift from Physical to Digital
-    - Content Creation Strategy through Wardley's Lens
-    - Anticipating and Countering Competitor Moves
-  - Tesla: Disrupting the Automotive Industry
-    - Mapping Tesla's Vertical Integration Strategy
-    - Identifying Key Gameplays in Electric Vehicle Market
-    - Future Scenarios: Energy, Autonomy, and Beyond
-- Implementing Wardley Mapping Across Different Contexts
-  - Wardley Mapping for Startups
-    - Identifying Market Opportunities and Gaps
-    - Resource Allocation and Strategic Focus
-    - Pitching to Investors with Wardley Maps
-  - Enterprise-Level Wardley Mapping
-    - Overcoming Organisational Inertia
-    - Cross-Functional Collaboration and Alignment
-    - Long-Term Strategic Planning and Execution
-  - Wardley Mapping in Non-Profit and Public Sectors
-    - Mapping Social Impact and Value Creation
-    - Strategies for Resource Optimisation
-    - Policy Making and Public Service Innovation
-  - Building a Wardley Mapping Culture
-    - Training and Skill Development
-    - Integrating Mapping into Decision-Making Processes
-    - Continuous Learning and Adaptation
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Wardley Mapping Mastery: Uncovering Hidden Opportunities in Business Strategy](#wardley-mapping-mastery-uncovering-hidden-opportunities-in-business-strategy)
+- [Foundations of Wardley Mapping](#foundations-of-wardley-mapping)
+  - [The Evolution of Business Strategy](#the-evolution-of-business-strategy)
+    - [From Porter to Wardley: A Brief History](#from-porter-to-wardley-a-brief-history)
+    - [Why Traditional Strategies Fall Short](#why-traditional-strategies-fall-short)
+    - [The Power of Visual Mapping in Strategy](#the-power-of-visual-mapping-in-strategy)
+  - [Core Concepts of Wardley Mapping](#core-concepts-of-wardley-mapping)
+    - [Components and Their Relationships](#components-and-their-relationships)
+    - [The Evolution Axis: From Genesis to Commodity](#the-evolution-axis-from-genesis-to-commodity)
+    - [The Value Chain Axis: Visibility and Importance](#the-value-chain-axis-visibility-and-importance)
+  - [Building Your First Wardley Map](#building-your-first-wardley-map)
+    - [Identifying User Needs and Desired Outcomes](#identifying-user-needs-and-desired-outcomes)
+    - [Mapping the Value Chain](#mapping-the-value-chain)
+    - [Positioning Components on the Evolution Axis](#positioning-components-on-the-evolution-axis)
+    - [Analysing Movement and Dependencies](#analysing-movement-and-dependencies)
+- [Advanced Techniques for Gameplay Identification](#advanced-techniques-for-gameplay-identification)
+  - [Pattern Recognition in Wardley Maps](#pattern-recognition-in-wardley-maps)
+    - [Common Patterns and Their Significance](#common-patterns-and-their-significance)
+    - [Industry-Specific Patterns](#industry-specific-patterns)
+    - [Identifying Emerging Patterns and Weak Signals](#identifying-emerging-patterns-and-weak-signals)
+  - [Dynamic Mapping and Scenario Planning](#dynamic-mapping-and-scenario-planning)
+    - [Forecasting Component Evolution](#forecasting-component-evolution)
+    - [Anticipating Market Shifts](#anticipating-market-shifts)
+    - [Creating Multiple Future Scenarios](#creating-multiple-future-scenarios)
+  - [Competitive Analysis Using Wardley Maps](#competitive-analysis-using-wardley-maps)
+    - [Mapping Competitor Strategies](#mapping-competitor-strategies)
+    - [Identifying Strategic Gaps and Opportunities](#identifying-strategic-gaps-and-opportunities)
+    - [Developing Counter-Strategies](#developing-counter-strategies)
+  - [Uncovering New Gameplays](#uncovering-new-gameplays)
+    - [Leveraging Inertia and Momentum](#leveraging-inertia-and-momentum)
+    - [Exploiting Market Inefficiencies](#exploiting-market-inefficiencies)
+    - [Creating New Value Chains](#creating-new-value-chains)
+    - [Disrupting Existing Ecosystems](#disrupting-existing-ecosystems)
+- [Integrating Wardley Mapping with Other Strategic Frameworks](#integrating-wardley-mapping-with-other-strategic-frameworks)
+  - [Wardley Mapping and Blue Ocean Strategy](#wardley-mapping-and-blue-ocean-strategy)
+    - [Identifying Blue Oceans on Wardley Maps](#identifying-blue-oceans-on-wardley-maps)
+    - [Using Wardley Maps to Create Uncontested Market Space](#using-wardley-maps-to-create-uncontested-market-space)
+    - [Case Study: Cirque du Soleil's Strategy through a Wardley Lens](#case-study-cirque-du-soleils-strategy-through-a-wardley-lens)
+  - [Wardley Mapping and Design Thinking](#wardley-mapping-and-design-thinking)
+    - [Empathy Mapping in Wardley Context](#empathy-mapping-in-wardley-context)
+    - [Ideation and Prototyping with Wardley Maps](#ideation-and-prototyping-with-wardley-maps)
+    - [Iterative Design and Strategic Evolution](#iterative-design-and-strategic-evolution)
+  - [Wardley Mapping and Lean Startup Methodology](#wardley-mapping-and-lean-startup-methodology)
+    - [Building Minimum Viable Products with Wardley Insights](#building-minimum-viable-products-with-wardley-insights)
+    - [Pivot or Persevere: Using Wardley Maps for Decision-Making](#pivot-or-persevere-using-wardley-maps-for-decision-making)
+    - [Scaling Strategies Informed by Evolutionary Mapping](#scaling-strategies-informed-by-evolutionary-mapping)
+- [Case Studies: Wardley Mapping in Action](#case-studies-wardley-mapping-in-action)
+  - [Amazon's Strategic Evolution](#amazons-strategic-evolution)
+    - [Mapping Amazon's Initial Bookselling Strategy](#mapping-amazons-initial-bookselling-strategy)
+    - [The Move to Cloud Services: A Wardley Perspective](#the-move-to-cloud-services-a-wardley-perspective)
+    - [Future Directions: Predicting Amazon's Next Moves](#future-directions-predicting-amazons-next-moves)
+  - [Netflix: From DVD Rentals to Streaming Dominance](#netflix-from-dvd-rentals-to-streaming-dominance)
+    - [Mapping the Shift from Physical to Digital](#mapping-the-shift-from-physical-to-digital)
+    - [Content Creation Strategy through Wardley's Lens](#content-creation-strategy-through-wardleys-lens)
+    - [Anticipating and Countering Competitor Moves](#anticipating-and-countering-competitor-moves)
+  - [Tesla: Disrupting the Automotive Industry](#tesla-disrupting-the-automotive-industry)
+    - [Mapping Tesla's Vertical Integration Strategy](#mapping-teslas-vertical-integration-strategy)
+    - [Identifying Key Gameplays in Electric Vehicle Market](#identifying-key-gameplays-in-electric-vehicle-market)
+    - [Future Scenarios: Energy, Autonomy, and Beyond](#future-scenarios-energy-autonomy-and-beyond)
+- [Implementing Wardley Mapping Across Different Contexts](#implementing-wardley-mapping-across-different-contexts)
+  - [Wardley Mapping for Startups](#wardley-mapping-for-startups)
+    - [Identifying Market Opportunities and Gaps](#identifying-market-opportunities-and-gaps)
+    - [Resource Allocation and Strategic Focus](#resource-allocation-and-strategic-focus)
+    - [Pitching to Investors with Wardley Maps](#pitching-to-investors-with-wardley-maps)
+  - [Enterprise-Level Wardley Mapping](#enterprise-level-wardley-mapping)
+    - [Overcoming Organisational Inertia](#overcoming-organisational-inertia)
+    - [Cross-Functional Collaboration and Alignment](#cross-functional-collaboration-and-alignment)
+    - [Long-Term Strategic Planning and Execution](#long-term-strategic-planning-and-execution)
+  - [Wardley Mapping in Non-Profit and Public Sectors](#wardley-mapping-in-non-profit-and-public-sectors)
+    - [Mapping Social Impact and Value Creation](#mapping-social-impact-and-value-creation)
+    - [Strategies for Resource Optimisation](#strategies-for-resource-optimisation)
+    - [Policy Making and Public Service Innovation](#policy-making-and-public-service-innovation)
+  - [Building a Wardley Mapping Culture](#building-a-wardley-mapping-culture)
+    - [Training and Skill Development](#training-and-skill-development)
+    - [Integrating Mapping into Decision-Making Processes](#integrating-mapping-into-decision-making-processes)
+    - [Continuous Learning and Adaptation](#continuous-learning-and-adaptation)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Foundations of Wardley Mapping

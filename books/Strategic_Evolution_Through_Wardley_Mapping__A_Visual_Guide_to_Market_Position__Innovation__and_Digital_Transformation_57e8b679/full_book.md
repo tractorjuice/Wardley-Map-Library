@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Strategic Evolution Through Wardley Mapping: A Visual Guide to Market Position, Innovation, and Digital Transformation
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Mapping
-      - The Evolution of Strategy Visualization
-      - Core Principles of Wardley Mapping
-      - Modern Strategic Challenges and Visual Solutions
-    - Getting Started with Wardley Maps
-      - Basic Components and Notation
-      - Digital Tools and Resources
-      - Your First Map: A Practical Exercise
-  - Mapping Market Evolution and Competitive Intelligence
-    - Understanding Market Dynamics
-      - Evolution Patterns and Cycles
-      - Identifying Value Chains
-      - Mapping Competitive Forces
-    - Predictive Mapping
-      - Future State Analysis
-      - Scenario Planning with Maps
-      - Strategic Response Development
-  - Innovation and Product Strategy Through Mapping
-    - Portfolio Visualization
-      - Mapping Product Lifecycles
-      - Innovation Opportunity Identification
-      - Resource Allocation Optimization
-    - Strategic Product Development
-      - Feature Evolution Mapping
-      - Technology Stack Analysis
-      - Development Priority Setting
-  - Digital Transformation and Technology Strategy
-    - Digital Evolution Mapping
-      - Technology Component Analysis
-      - Legacy System Evolution
-      - Digital Capability Assessment
-    - Transformation Planning
-      - Change Sequence Mapping
-      - Risk and Dependency Analysis
-      - Implementation Roadmapping
-  - Strategic Leadership and Organizational Alignment
-    - Communication Through Maps
-      - Stakeholder Engagement
-      - Team Alignment Techniques
-      - Decision Making with Maps
-    - Organizational Change Management
-      - Culture and Capability Evolution
-      - Change Implementation Strategies
-      - Measuring and Monitoring Progress
+- [Strategic Evolution Through Wardley Mapping: A Visual Guide to Market Position, Innovation, and Digital Transformation](#strategic-evolution-through-wardley-mapping-a-visual-guide-to-market-position-innovation-and-digital-transformation)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Mapping](#understanding-strategic-mapping)
+      - [The Evolution of Strategy Visualization](#the-evolution-of-strategy-visualization)
+      - [Core Principles of Wardley Mapping](#core-principles-of-wardley-mapping)
+      - [Modern Strategic Challenges and Visual Solutions](#modern-strategic-challenges-and-visual-solutions)
+    - [Getting Started with Wardley Maps](#getting-started-with-wardley-maps)
+      - [Basic Components and Notation](#basic-components-and-notation)
+      - [Digital Tools and Resources](#digital-tools-and-resources)
+      - [Your First Map: A Practical Exercise](#your-first-map-a-practical-exercise)
+  - [Mapping Market Evolution and Competitive Intelligence](#mapping-market-evolution-and-competitive-intelligence)
+    - [Understanding Market Dynamics](#understanding-market-dynamics)
+      - [Evolution Patterns and Cycles](#evolution-patterns-and-cycles)
+      - [Identifying Value Chains](#identifying-value-chains)
+      - [Mapping Competitive Forces](#mapping-competitive-forces)
+    - [Predictive Mapping](#predictive-mapping)
+      - [Future State Analysis](#future-state-analysis)
+      - [Scenario Planning with Maps](#scenario-planning-with-maps)
+      - [Strategic Response Development](#strategic-response-development)
+  - [Innovation and Product Strategy Through Mapping](#innovation-and-product-strategy-through-mapping)
+    - [Portfolio Visualization](#portfolio-visualization)
+      - [Mapping Product Lifecycles](#mapping-product-lifecycles)
+      - [Innovation Opportunity Identification](#innovation-opportunity-identification)
+      - [Resource Allocation Optimization](#resource-allocation-optimization)
+    - [Strategic Product Development](#strategic-product-development)
+      - [Feature Evolution Mapping](#feature-evolution-mapping)
+      - [Technology Stack Analysis](#technology-stack-analysis)
+      - [Development Priority Setting](#development-priority-setting)
+  - [Digital Transformation and Technology Strategy](#digital-transformation-and-technology-strategy)
+    - [Digital Evolution Mapping](#digital-evolution-mapping)
+      - [Technology Component Analysis](#technology-component-analysis)
+      - [Legacy System Evolution](#legacy-system-evolution)
+      - [Digital Capability Assessment](#digital-capability-assessment)
+    - [Transformation Planning](#transformation-planning)
+      - [Change Sequence Mapping](#change-sequence-mapping)
+      - [Risk and Dependency Analysis](#risk-and-dependency-analysis)
+      - [Implementation Roadmapping](#implementation-roadmapping)
+  - [Strategic Leadership and Organizational Alignment](#strategic-leadership-and-organizational-alignment)
+    - [Communication Through Maps](#communication-through-maps)
+      - [Stakeholder Engagement](#stakeholder-engagement)
+      - [Team Alignment Techniques](#team-alignment-techniques)
+      - [Decision Making with Maps](#decision-making-with-maps)
+    - [Organizational Change Management](#organizational-change-management)
+      - [Culture and Capability Evolution](#culture-and-capability-evolution)
+      - [Change Implementation Strategies](#change-implementation-strategies)
+      - [Measuring and Monitoring Progress](#measuring-and-monitoring-progress)
 
 
 ## Introduction: The Power of Visual Strategy

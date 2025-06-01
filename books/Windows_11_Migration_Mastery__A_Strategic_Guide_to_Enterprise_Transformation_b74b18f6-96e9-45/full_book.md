@@ -4,70 +4,70 @@
 
 # Table of Contents
 
-- Windows 11 Migration Mastery: A Strategic Guide to Enterprise Transformation
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Chapter 1: Building the Business Case for Windows 11 Migration
-  - Strategic Assessment Framework
-    - Evaluating Organisational Readiness
-    - Hardware and Software Compatibility Analysis
-    - Identifying Business-Critical Systems
-    - Regulatory Compliance Considerations
-  - Cost-Benefit Analysis
-    - Total Cost of Ownership Calculation
-    - Return on Investment Projections
-    - Productivity Gains Quantification
-    - Risk Mitigation Value Assessment
-- Chapter 2: Technical Migration Architecture and Security
-  - Migration Planning and Infrastructure
-    - Assessment Tools and Methodologies
-    - Deployment Scenarios and Options
-    - Network Infrastructure Requirements
-    - Application Compatibility Testing
-  - Zero Trust Security Implementation
-    - Identity and Access Management
-    - Device Security Enhancements
-    - Network Segmentation Strategies
-    - Security Monitoring and Response
-- Chapter 3: Change Management and User Adoption
-  - Organisational Change Strategy
-    - Stakeholder Analysis and Engagement
-    - Communication Planning
-    - Training Programme Development
-    - Resistance Management Techniques
-  - User Experience Optimisation
-    - Interface Changes and Navigation
-    - Productivity Feature Training
-    - Accessibility Improvements
-    - Performance Optimisation
-- Chapter 4: Modern Workplace Integration
-  - Microsoft 365 Integration
-    - Teams Integration Enhancements
-    - Cloud Storage Optimisation
-    - Collaboration Tools Implementation
-    - Security Features Alignment
-  - Productivity Enhancement
-    - Workflow Automation Opportunities
-    - Cross-Device Synchronisation
-    - Virtual Desktop Infrastructure
-    - Mobile Device Management
-- Chapter 5: Sustainability and Future-Proofing
-  - Environmental Impact Management
-    - Carbon Footprint Reduction Strategies
-    - Energy Efficiency Optimisation
-    - Device Lifecycle Management
-    - Sustainable IT Practices
-  - Future-Ready Infrastructure
-    - Scalability Planning
-    - Technology Roadmap Development
-    - Innovation Integration Framework
-    - Continuous Improvement Strategies
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Windows 11 Migration Mastery: A Strategic Guide to Enterprise Transformation](#windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Chapter 1: Building the Business Case for Windows 11 Migration](#chapter-1-building-the-business-case-for-windows-11-migration)
+  - [Strategic Assessment Framework](#strategic-assessment-framework)
+    - [Evaluating Organisational Readiness](#evaluating-organisational-readiness)
+    - [Hardware and Software Compatibility Analysis](#hardware-and-software-compatibility-analysis)
+    - [Identifying Business-Critical Systems](#identifying-business-critical-systems)
+    - [Regulatory Compliance Considerations](#regulatory-compliance-considerations)
+  - [Cost-Benefit Analysis](#cost-benefit-analysis)
+    - [Total Cost of Ownership Calculation](#total-cost-of-ownership-calculation)
+    - [Return on Investment Projections](#return-on-investment-projections)
+    - [Productivity Gains Quantification](#productivity-gains-quantification)
+    - [Risk Mitigation Value Assessment](#risk-mitigation-value-assessment)
+- [Chapter 2: Technical Migration Architecture and Security](#chapter-2-technical-migration-architecture-and-security)
+  - [Migration Planning and Infrastructure](#migration-planning-and-infrastructure)
+    - [Assessment Tools and Methodologies](#assessment-tools-and-methodologies)
+    - [Deployment Scenarios and Options](#deployment-scenarios-and-options)
+    - [Network Infrastructure Requirements](#network-infrastructure-requirements)
+    - [Application Compatibility Testing](#application-compatibility-testing)
+  - [Zero Trust Security Implementation](#zero-trust-security-implementation)
+    - [Identity and Access Management](#identity-and-access-management)
+    - [Device Security Enhancements](#device-security-enhancements)
+    - [Network Segmentation Strategies](#network-segmentation-strategies)
+    - [Security Monitoring and Response](#security-monitoring-and-response)
+- [Chapter 3: Change Management and User Adoption](#chapter-3-change-management-and-user-adoption)
+  - [Organisational Change Strategy](#organisational-change-strategy)
+    - [Stakeholder Analysis and Engagement](#stakeholder-analysis-and-engagement)
+    - [Communication Planning](#communication-planning)
+    - [Training Programme Development](#training-programme-development)
+    - [Resistance Management Techniques](#resistance-management-techniques)
+  - [User Experience Optimisation](#user-experience-optimisation)
+    - [Interface Changes and Navigation](#interface-changes-and-navigation)
+    - [Productivity Feature Training](#productivity-feature-training)
+    - [Accessibility Improvements](#accessibility-improvements)
+    - [Performance Optimisation](#performance-optimisation)
+- [Chapter 4: Modern Workplace Integration](#chapter-4-modern-workplace-integration)
+  - [Microsoft 365 Integration](#microsoft-365-integration)
+    - [Teams Integration Enhancements](#teams-integration-enhancements)
+    - [Cloud Storage Optimisation](#cloud-storage-optimisation)
+    - [Collaboration Tools Implementation](#collaboration-tools-implementation)
+    - [Security Features Alignment](#security-features-alignment)
+  - [Productivity Enhancement](#productivity-enhancement)
+    - [Workflow Automation Opportunities](#workflow-automation-opportunities)
+    - [Cross-Device Synchronisation](#cross-device-synchronisation)
+    - [Virtual Desktop Infrastructure](#virtual-desktop-infrastructure)
+    - [Mobile Device Management](#mobile-device-management)
+- [Chapter 5: Sustainability and Future-Proofing](#chapter-5-sustainability-and-future-proofing)
+  - [Environmental Impact Management](#environmental-impact-management)
+    - [Carbon Footprint Reduction Strategies](#carbon-footprint-reduction-strategies)
+    - [Energy Efficiency Optimisation](#energy-efficiency-optimisation)
+    - [Device Lifecycle Management](#device-lifecycle-management)
+    - [Sustainable IT Practices](#sustainable-it-practices)
+  - [Future-Ready Infrastructure](#future-ready-infrastructure)
+    - [Scalability Planning](#scalability-planning)
+    - [Technology Roadmap Development](#technology-roadmap-development)
+    - [Innovation Integration Framework](#innovation-integration-framework)
+    - [Continuous Improvement Strategies](#continuous-improvement-strategies)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Chapter 1: Building the Business Case for Windows 11 Migration

@@ -2,66 +2,66 @@
 
 # Table of Contents
 
-- Functionalism and GenAI: Bridging Philosophy and Technology
-  - Introduction to Functionalism and GenAI
-    - Understanding Functionalism
-      - Historical Context of Functionalism
-      - Key Philosophers and Theories
-      - Functionalism in the Age of AI
-    - The Rise of Generative AI
-      - Defining Generative AI
-      - Technological Advances in GenAI
-      - The Intersection of AI and Functionalism
-  - Philosophical Foundations
-    - Functionalism in Philosophy
-      - Core Principles of Functionalism
-      - Functionalism vs. Other Philosophical Theories
-      - Implications for AI Development
-    - Relevance to Modern AI Discussions
-      - Functionalism and Consciousness
-      - The Role of Intentionality in AI
-      - Case Studies in AI Ethics
-  - GenAI Applications
-    - Case Studies in Various Sectors
-      - Healthcare Innovations
-      - Education and Learning Technologies
-      - Creative Industries and Art
-    - Functionalist Principles in Practice
-      - Designing User-Centric GenAI Systems
-      - Evaluating AI Performance through Functionalist Lenses
-      - Future Trends in GenAI Development
-  - Ethical Considerations
-    - Moral Implications of GenAI
-      - Bias in AI Systems
-      - Accountability and Responsibility
-      - Transparency in AI Decision-Making
-    - Functionalism and Ethics
-      - Applying Functionalist Ethics to AI
-      - Case Studies of Ethical Dilemmas
-      - Frameworks for Ethical AI Development
-  - Methodological Frameworks
-    - Visualising GenAI Evolution
-      - Introduction to Wardley Mapping
-      - Applying Wardley Mapping to GenAI
-      - Case Examples of Mapping in Practice
-    - Integrating Methodologies
-      - Cross-Disciplinary Approaches
-      - Combining Functionalism with Technical Frameworks
-      - Future Methodological Directions
-  - Cross-Disciplinary Insights
-    - Philosophy Meets Computer Science
-      - The Interplay of Theory and Practice
-      - Cognitive Psychology's Role in AI
-      - Collaborative Research Opportunities
-    - Enriching the Functionalist Discourse
-      - Bridging Gaps Between Disciplines
-      - Innovative Approaches to Functionalism
-      - Future Directions for Research
-  - Conclusion: The Future of Functionalism and GenAI
-    - Synthesising Insights
-      - Key Takeaways from Each Chapter
-      - The Evolving Landscape of Functionalism and AI
-      - Call to Action for Researchers and Practitioners
+- [Functionalism and GenAI: Bridging Philosophy and Technology](#functionalism-and-genai-bridging-philosophy-and-technology)
+  - [Introduction to Functionalism and GenAI](#introduction-to-functionalism-and-genai)
+    - [Understanding Functionalism](#understanding-functionalism)
+      - [Historical Context of Functionalism](#historical-context-of-functionalism)
+      - [Key Philosophers and Theories](#key-philosophers-and-theories)
+      - [Functionalism in the Age of AI](#functionalism-in-the-age-of-ai)
+    - [The Rise of Generative AI](#the-rise-of-generative-ai)
+      - [Defining Generative AI](#defining-generative-ai)
+      - [Technological Advances in GenAI](#technological-advances-in-genai)
+      - [The Intersection of AI and Functionalism](#the-intersection-of-ai-and-functionalism)
+  - [Philosophical Foundations](#philosophical-foundations)
+    - [Functionalism in Philosophy](#functionalism-in-philosophy)
+      - [Core Principles of Functionalism](#core-principles-of-functionalism)
+      - [Functionalism vs. Other Philosophical Theories](#functionalism-vs-other-philosophical-theories)
+      - [Implications for AI Development](#implications-for-ai-development)
+    - [Relevance to Modern AI Discussions](#relevance-to-modern-ai-discussions)
+      - [Functionalism and Consciousness](#functionalism-and-consciousness)
+      - [The Role of Intentionality in AI](#the-role-of-intentionality-in-ai)
+      - [Case Studies in AI Ethics](#case-studies-in-ai-ethics)
+  - [GenAI Applications](#genai-applications)
+    - [Case Studies in Various Sectors](#case-studies-in-various-sectors)
+      - [Healthcare Innovations](#healthcare-innovations)
+      - [Education and Learning Technologies](#education-and-learning-technologies)
+      - [Creative Industries and Art](#creative-industries-and-art)
+    - [Functionalist Principles in Practice](#functionalist-principles-in-practice)
+      - [Designing User-Centric GenAI Systems](#designing-user-centric-genai-systems)
+      - [Evaluating AI Performance through Functionalist Lenses](#evaluating-ai-performance-through-functionalist-lenses)
+      - [Future Trends in GenAI Development](#future-trends-in-genai-development)
+  - [Ethical Considerations](#ethical-considerations)
+    - [Moral Implications of GenAI](#moral-implications-of-genai)
+      - [Bias in AI Systems](#bias-in-ai-systems)
+      - [Accountability and Responsibility](#accountability-and-responsibility)
+      - [Transparency in AI Decision-Making](#transparency-in-ai-decision-making)
+    - [Functionalism and Ethics](#functionalism-and-ethics)
+      - [Applying Functionalist Ethics to AI](#applying-functionalist-ethics-to-ai)
+      - [Case Studies of Ethical Dilemmas](#case-studies-of-ethical-dilemmas)
+      - [Frameworks for Ethical AI Development](#frameworks-for-ethical-ai-development)
+  - [Methodological Frameworks](#methodological-frameworks)
+    - [Visualising GenAI Evolution](#visualising-genai-evolution)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Applying Wardley Mapping to GenAI](#applying-wardley-mapping-to-genai)
+      - [Case Examples of Mapping in Practice](#case-examples-of-mapping-in-practice)
+    - [Integrating Methodologies](#integrating-methodologies)
+      - [Cross-Disciplinary Approaches](#cross-disciplinary-approaches)
+      - [Combining Functionalism with Technical Frameworks](#combining-functionalism-with-technical-frameworks)
+      - [Future Methodological Directions](#future-methodological-directions)
+  - [Cross-Disciplinary Insights](#cross-disciplinary-insights)
+    - [Philosophy Meets Computer Science](#philosophy-meets-computer-science)
+      - [The Interplay of Theory and Practice](#the-interplay-of-theory-and-practice)
+      - [Cognitive Psychology's Role in AI](#cognitive-psychologys-role-in-ai)
+      - [Collaborative Research Opportunities](#collaborative-research-opportunities)
+    - [Enriching the Functionalist Discourse](#enriching-the-functionalist-discourse)
+      - [Bridging Gaps Between Disciplines](#bridging-gaps-between-disciplines)
+      - [Innovative Approaches to Functionalism](#innovative-approaches-to-functionalism)
+      - [Future Directions for Research](#future-directions-for-research)
+  - [Conclusion: The Future of Functionalism and GenAI](#conclusion-the-future-of-functionalism-and-genai)
+    - [Synthesising Insights](#synthesising-insights)
+      - [Key Takeaways from Each Chapter](#key-takeaways-from-each-chapter)
+      - [The Evolving Landscape of Functionalism and AI](#the-evolving-landscape-of-functionalism-and-ai)
+      - [Call to Action for Researchers and Practitioners](#call-to-action-for-researchers-and-practitioners)
 
 
 ## Introduction to Functionalism and GenAI

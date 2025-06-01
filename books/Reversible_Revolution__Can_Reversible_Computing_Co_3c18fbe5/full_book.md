@@ -2,67 +2,67 @@
 
 # Table of Contents
 
-- Reversible Revolution: Can Reversible Computing Cool Down Our Planet?
-  - Understanding the Energy Crisis in Computing
-    - The Relentless Rise of Energy Consumption
-      - Moore's Law and Its Environmental Shadow
-      - Quantifying Energy Use in Data Centres
-      - The Carbon Footprint of Modern Algorithms
-      - Projected Growth and Future Implications
-    - Landau's Principle: The Thermodynamic Limit
-      - Information Erasure and Energy Dissipation
-      - The Theoretical Minimum Energy for Computation
-      - Implications for Current Computing Paradigms
-      - Beyond von Neumann Architectures
-  - Reversible Computing: A Path to Energy Efficiency
-    - Fundamentals of Reversible Computation
-      - Feynman's Vision and Reversible Logic Gates
-      - Conservative Logic and Information Preservation
-      - The Role of Quantum Mechanics
-      - Thermodynamic Reversibility vs. Logical Reversibility
-    - Adiabatic Computing: Approaching Reversibility in Practice
-      - Charge Recovery and Energy Recycling
-      - Clocked Adiabatic Logic Families
-      - Challenges in Implementing Adiabatic Circuits
-      - Performance Metrics and Efficiency Gains
-    - Reversible Architectures and Algorithms
-      - Reversible Instruction Set Architectures (RISAs)
-      - Designing Reversible Algorithms
-      - Compiler Optimizations for Reversible Code
-      - Simulation and Verification Techniques
-  - Real-World Applications and Impact
-    - Case Studies: Where Reversibility Makes a Difference
-      - High-Performance Computing (HPC) and Scientific Simulations
-      - Embedded Systems and Low-Power Devices
-      - Cryptography and Secure Computing
-      - Artificial Intelligence and Machine Learning
-    - Quantifying the Environmental Benefits
-      - Reduced Energy Consumption and Carbon Emissions
-      - Lower Cooling Costs and Infrastructure Requirements
-      - Extended Battery Life for Mobile Devices
-      - Sustainable Computing Practices
-  - Challenges and the Future of Reversible Computing
-    - Technological Hurdles and Limitations
-      - Complexity of Design and Verification
-      - Scalability and Integration with Existing Systems
-      - Material Science and Fabrication Challenges
-      - Error Rates and Reliability
-    - Economic and Adoption Barriers
-      - Initial Investment Costs and Return on Investment
-      - Lack of Standardisation and Tooling
-      - Industry Acceptance and Market Demand
-      - The Need for Interdisciplinary Collaboration
-    - The Road Ahead: Research Directions and Future Prospects
-      - Novel Materials and Devices for Reversible Computing
-      - Quantum Computing and Reversibility
-      - Developing User-Friendly Tools and Frameworks
-      - Policy and Regulatory Considerations
-  - Conclusion: A Sustainable Future Powered by Reversible Computing
-    - Reversible Computing's Potential for a Greener Tomorrow
-      - Recap of Key Benefits and Applications
-      - Addressing the Global Energy Crisis
-      - Promoting Sustainable Technological Development
-      - A Call to Action for Researchers, Industry, and Policymakers
+- [Reversible Revolution: Can Reversible Computing Cool Down Our Planet?](#reversible-revolution-can-reversible-computing-cool-down-our-planet)
+  - [Understanding the Energy Crisis in Computing](#understanding-the-energy-crisis-in-computing)
+    - [The Relentless Rise of Energy Consumption](#the-relentless-rise-of-energy-consumption)
+      - [Moore's Law and Its Environmental Shadow](#moores-law-and-its-environmental-shadow)
+      - [Quantifying Energy Use in Data Centres](#quantifying-energy-use-in-data-centres)
+      - [The Carbon Footprint of Modern Algorithms](#the-carbon-footprint-of-modern-algorithms)
+      - [Projected Growth and Future Implications](#projected-growth-and-future-implications)
+    - [Landau's Principle: The Thermodynamic Limit](#landaus-principle-the-thermodynamic-limit)
+      - [Information Erasure and Energy Dissipation](#information-erasure-and-energy-dissipation)
+      - [The Theoretical Minimum Energy for Computation](#the-theoretical-minimum-energy-for-computation)
+      - [Implications for Current Computing Paradigms](#implications-for-current-computing-paradigms)
+      - [Beyond von Neumann Architectures](#beyond-von-neumann-architectures)
+  - [Reversible Computing: A Path to Energy Efficiency](#reversible-computing-a-path-to-energy-efficiency)
+    - [Fundamentals of Reversible Computation](#fundamentals-of-reversible-computation)
+      - [Feynman's Vision and Reversible Logic Gates](#feynmans-vision-and-reversible-logic-gates)
+      - [Conservative Logic and Information Preservation](#conservative-logic-and-information-preservation)
+      - [The Role of Quantum Mechanics](#the-role-of-quantum-mechanics)
+      - [Thermodynamic Reversibility vs. Logical Reversibility](#thermodynamic-reversibility-vs-logical-reversibility)
+    - [Adiabatic Computing: Approaching Reversibility in Practice](#adiabatic-computing-approaching-reversibility-in-practice)
+      - [Charge Recovery and Energy Recycling](#charge-recovery-and-energy-recycling)
+      - [Clocked Adiabatic Logic Families](#clocked-adiabatic-logic-families)
+      - [Challenges in Implementing Adiabatic Circuits](#challenges-in-implementing-adiabatic-circuits)
+      - [Performance Metrics and Efficiency Gains](#performance-metrics-and-efficiency-gains)
+    - [Reversible Architectures and Algorithms](#reversible-architectures-and-algorithms)
+      - [Reversible Instruction Set Architectures (RISAs)](#reversible-instruction-set-architectures-risas)
+      - [Designing Reversible Algorithms](#designing-reversible-algorithms)
+      - [Compiler Optimizations for Reversible Code](#compiler-optimizations-for-reversible-code)
+      - [Simulation and Verification Techniques](#simulation-and-verification-techniques)
+  - [Real-World Applications and Impact](#real-world-applications-and-impact)
+    - [Case Studies: Where Reversibility Makes a Difference](#case-studies-where-reversibility-makes-a-difference)
+      - [High-Performance Computing (HPC) and Scientific Simulations](#high-performance-computing-hpc-and-scientific-simulations)
+      - [Embedded Systems and Low-Power Devices](#embedded-systems-and-low-power-devices)
+      - [Cryptography and Secure Computing](#cryptography-and-secure-computing)
+      - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
+    - [Quantifying the Environmental Benefits](#quantifying-the-environmental-benefits)
+      - [Reduced Energy Consumption and Carbon Emissions](#reduced-energy-consumption-and-carbon-emissions)
+      - [Lower Cooling Costs and Infrastructure Requirements](#lower-cooling-costs-and-infrastructure-requirements)
+      - [Extended Battery Life for Mobile Devices](#extended-battery-life-for-mobile-devices)
+      - [Sustainable Computing Practices](#sustainable-computing-practices)
+  - [Challenges and the Future of Reversible Computing](#challenges-and-the-future-of-reversible-computing)
+    - [Technological Hurdles and Limitations](#technological-hurdles-and-limitations)
+      - [Complexity of Design and Verification](#complexity-of-design-and-verification)
+      - [Scalability and Integration with Existing Systems](#scalability-and-integration-with-existing-systems)
+      - [Material Science and Fabrication Challenges](#material-science-and-fabrication-challenges)
+      - [Error Rates and Reliability](#error-rates-and-reliability)
+    - [Economic and Adoption Barriers](#economic-and-adoption-barriers)
+      - [Initial Investment Costs and Return on Investment](#initial-investment-costs-and-return-on-investment)
+      - [Lack of Standardisation and Tooling](#lack-of-standardisation-and-tooling)
+      - [Industry Acceptance and Market Demand](#industry-acceptance-and-market-demand)
+      - [The Need for Interdisciplinary Collaboration](#the-need-for-interdisciplinary-collaboration)
+    - [The Road Ahead: Research Directions and Future Prospects](#the-road-ahead-research-directions-and-future-prospects)
+      - [Novel Materials and Devices for Reversible Computing](#novel-materials-and-devices-for-reversible-computing)
+      - [Quantum Computing and Reversibility](#quantum-computing-and-reversibility)
+      - [Developing User-Friendly Tools and Frameworks](#developing-user-friendly-tools-and-frameworks)
+      - [Policy and Regulatory Considerations](#policy-and-regulatory-considerations)
+  - [Conclusion: A Sustainable Future Powered by Reversible Computing](#conclusion-a-sustainable-future-powered-by-reversible-computing)
+    - [Reversible Computing's Potential for a Greener Tomorrow](#reversible-computings-potential-for-a-greener-tomorrow)
+      - [Recap of Key Benefits and Applications](#recap-of-key-benefits-and-applications)
+      - [Addressing the Global Energy Crisis](#addressing-the-global-energy-crisis)
+      - [Promoting Sustainable Technological Development](#promoting-sustainable-technological-development)
+      - [A Call to Action for Researchers, Industry, and Policymakers](#a-call-to-action-for-researchers-industry-and-policymakers)
 
 
 ## Understanding the Energy Crisis in Computing

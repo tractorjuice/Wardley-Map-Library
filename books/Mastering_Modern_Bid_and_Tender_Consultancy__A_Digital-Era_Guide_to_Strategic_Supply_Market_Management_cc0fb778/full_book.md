@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Mastering Modern Bid and Tender Consultancy: A Digital-Era Guide to Strategic Supply Market Management
-  - Introduction: The Evolution of Bid and Tender Management
-    - The Modern Bid Management Landscape
-      - Current Market Dynamics and Trends
-      - Impact of Digital Transformation
-      - Key Stakeholder Relationships
-    - Core Principles and Framework Overview
-      - Essential Components of Successful Bid Management
-      - Strategic vs Tactical Approaches
-      - Building Competitive Advantage
-  - Digital Transformation in Bid Management
-    - E-Procurement Platforms and Technologies
-      - Platform Selection and Integration
-      - Digital Workflow Optimization
-      - Data Security and Privacy Considerations
-    - AI and Analytics in Bid Development
-      - Predictive Analytics for Bid Success
-      - AI-Powered Competitor Analysis
-      - Automated Compliance Checking
-    - Blockchain Applications
-      - Transparency and Traceability
-      - Smart Contracts Implementation
-      - Supply Chain Verification
-  - Strategic Supply Market Analysis and Relationship Management
-    - Market Intelligence and Analysis
-      - Supply Market Assessment Techniques
-      - Competitive Positioning
-      - Price and Cost Analysis
-    - Supplier Relationship Development
-      - Partnership Models and Frameworks
-      - Performance Monitoring
-      - Risk Mitigation Strategies
-  - ESG and Risk Management in Modern Bidding
-    - ESG Integration in Bid Development
-      - Sustainability Criteria and Metrics
-      - Social Impact Assessment
-      - Governance Requirements
-    - Risk Management Frameworks
-      - Risk Assessment Methodologies
-      - Compliance Management Systems
-      - Mitigation Strategies
-  - Practical Applications and Case Studies
-    - Industry-Specific Case Studies
-      - Public Sector Bids
-      - Private Sector Tenders
-      - Cross-Industry Lessons
-    - Templates and Tools
-      - Bid Response Templates
-      - Evaluation Frameworks
-      - Process Checklists
+- [Mastering Modern Bid and Tender Consultancy: A Digital-Era Guide to Strategic Supply Market Management](#mastering-modern-bid-and-tender-consultancy-a-digital-era-guide-to-strategic-supply-market-management)
+  - [Introduction: The Evolution of Bid and Tender Management](#introduction-the-evolution-of-bid-and-tender-management)
+    - [The Modern Bid Management Landscape](#the-modern-bid-management-landscape)
+      - [Current Market Dynamics and Trends](#current-market-dynamics-and-trends)
+      - [Impact of Digital Transformation](#impact-of-digital-transformation)
+      - [Key Stakeholder Relationships](#key-stakeholder-relationships)
+    - [Core Principles and Framework Overview](#core-principles-and-framework-overview)
+      - [Essential Components of Successful Bid Management](#essential-components-of-successful-bid-management)
+      - [Strategic vs Tactical Approaches](#strategic-vs-tactical-approaches)
+      - [Building Competitive Advantage](#building-competitive-advantage)
+  - [Digital Transformation in Bid Management](#digital-transformation-in-bid-management)
+    - [E-Procurement Platforms and Technologies](#e-procurement-platforms-and-technologies)
+      - [Platform Selection and Integration](#platform-selection-and-integration)
+      - [Digital Workflow Optimization](#digital-workflow-optimization)
+      - [Data Security and Privacy Considerations](#data-security-and-privacy-considerations)
+    - [AI and Analytics in Bid Development](#ai-and-analytics-in-bid-development)
+      - [Predictive Analytics for Bid Success](#predictive-analytics-for-bid-success)
+      - [AI-Powered Competitor Analysis](#ai-powered-competitor-analysis)
+      - [Automated Compliance Checking](#automated-compliance-checking)
+    - [Blockchain Applications](#blockchain-applications)
+      - [Transparency and Traceability](#transparency-and-traceability)
+      - [Smart Contracts Implementation](#smart-contracts-implementation)
+      - [Supply Chain Verification](#supply-chain-verification)
+  - [Strategic Supply Market Analysis and Relationship Management](#strategic-supply-market-analysis-and-relationship-management)
+    - [Market Intelligence and Analysis](#market-intelligence-and-analysis)
+      - [Supply Market Assessment Techniques](#supply-market-assessment-techniques)
+      - [Competitive Positioning](#competitive-positioning)
+      - [Price and Cost Analysis](#price-and-cost-analysis)
+    - [Supplier Relationship Development](#supplier-relationship-development)
+      - [Partnership Models and Frameworks](#partnership-models-and-frameworks)
+      - [Performance Monitoring](#performance-monitoring)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+  - [ESG and Risk Management in Modern Bidding](#esg-and-risk-management-in-modern-bidding)
+    - [ESG Integration in Bid Development](#esg-integration-in-bid-development)
+      - [Sustainability Criteria and Metrics](#sustainability-criteria-and-metrics)
+      - [Social Impact Assessment](#social-impact-assessment)
+      - [Governance Requirements](#governance-requirements)
+    - [Risk Management Frameworks](#risk-management-frameworks)
+      - [Risk Assessment Methodologies](#risk-assessment-methodologies)
+      - [Compliance Management Systems](#compliance-management-systems)
+      - [Mitigation Strategies](#mitigation-strategies)
+  - [Practical Applications and Case Studies](#practical-applications-and-case-studies)
+    - [Industry-Specific Case Studies](#industry-specific-case-studies)
+      - [Public Sector Bids](#public-sector-bids)
+      - [Private Sector Tenders](#private-sector-tenders)
+      - [Cross-Industry Lessons](#cross-industry-lessons)
+    - [Templates and Tools](#templates-and-tools)
+      - [Bid Response Templates](#bid-response-templates)
+      - [Evaluation Frameworks](#evaluation-frameworks)
+      - [Process Checklists](#process-checklists)
 
 
 ## Introduction: The Evolution of Bid and Tender Management

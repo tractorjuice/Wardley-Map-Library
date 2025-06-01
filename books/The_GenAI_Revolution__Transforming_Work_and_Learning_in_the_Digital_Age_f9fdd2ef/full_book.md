@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- The GenAI Revolution: Transforming Work and Learning in the Digital Age
-  - Introduction: The Dawn of Generative AI
-    - Understanding the GenAI Paradigm Shift
-      - Defining Generative AI and Its Core Capabilities
-      - The Convergence of Work and Learning
-      - Setting the Stage for Transformation
-  - The Workplace Revolution
-    - Knowledge Work Reimagined
-      - Automating Cognitive Tasks
-      - Enhancing Creative Processes
-      - Redefining Professional Roles
-    - Productivity in the GenAI Era
-      - Measuring New Forms of Output
-      - Collaboration Between Humans and AI
-      - Workplace Efficiency Case Studies
-    - Corporate Transformation Stories
-      - Fortune 500 Implementation Examples
-      - Change Management Strategies
-      - ROI and Performance Metrics
-  - The Learning Revolution
-    - New Paradigms in Education
-      - Personalised Learning Pathways
-      - AI-Enhanced Knowledge Acquisition
-      - Skills Assessment and Development
-    - Educational Institution Case Studies
-      - University Implementation Examples
-      - K-12 Integration Stories
-      - Learning Outcome Measurements
-    - Lifelong Learning in the Digital Age
-      - Continuous Skill Development
-      - Professional Certification Evolution
-      - Self-Directed Learning Tools
-  - Ethical Considerations and Future Readiness
-    - Navigating Ethical Challenges
-      - Privacy and Data Protection
-      - Bias and Fairness
-      - Social Impact Assessment
-    - Future Readiness Framework
-      - Individual Adaptation Strategies
-      - Organisational Preparation Guidelines
-      - Long-term Success Metrics
-  - Conclusion: Embracing the GenAI Future
-    - Integration and Moving Forward
-      - Key Takeaways and Action Steps
-      - Future Trends and Predictions
-      - Building Resilience in the Age of GenAI
+- [The GenAI Revolution: Transforming Work and Learning in the Digital Age](#the-genai-revolution-transforming-work-and-learning-in-the-digital-age)
+  - [Introduction: The Dawn of Generative AI](#introduction-the-dawn-of-generative-ai)
+    - [Understanding the GenAI Paradigm Shift](#understanding-the-genai-paradigm-shift)
+      - [Defining Generative AI and Its Core Capabilities](#defining-generative-ai-and-its-core-capabilities)
+      - [The Convergence of Work and Learning](#the-convergence-of-work-and-learning)
+      - [Setting the Stage for Transformation](#setting-the-stage-for-transformation)
+  - [The Workplace Revolution](#the-workplace-revolution)
+    - [Knowledge Work Reimagined](#knowledge-work-reimagined)
+      - [Automating Cognitive Tasks](#automating-cognitive-tasks)
+      - [Enhancing Creative Processes](#enhancing-creative-processes)
+      - [Redefining Professional Roles](#redefining-professional-roles)
+    - [Productivity in the GenAI Era](#productivity-in-the-genai-era)
+      - [Measuring New Forms of Output](#measuring-new-forms-of-output)
+      - [Collaboration Between Humans and AI](#collaboration-between-humans-and-ai)
+      - [Workplace Efficiency Case Studies](#workplace-efficiency-case-studies)
+    - [Corporate Transformation Stories](#corporate-transformation-stories)
+      - [Fortune 500 Implementation Examples](#fortune-500-implementation-examples)
+      - [Change Management Strategies](#change-management-strategies)
+      - [ROI and Performance Metrics](#roi-and-performance-metrics)
+  - [The Learning Revolution](#the-learning-revolution)
+    - [New Paradigms in Education](#new-paradigms-in-education)
+      - [Personalised Learning Pathways](#personalised-learning-pathways)
+      - [AI-Enhanced Knowledge Acquisition](#ai-enhanced-knowledge-acquisition)
+      - [Skills Assessment and Development](#skills-assessment-and-development)
+    - [Educational Institution Case Studies](#educational-institution-case-studies)
+      - [University Implementation Examples](#university-implementation-examples)
+      - [K-12 Integration Stories](#k-12-integration-stories)
+      - [Learning Outcome Measurements](#learning-outcome-measurements)
+    - [Lifelong Learning in the Digital Age](#lifelong-learning-in-the-digital-age)
+      - [Continuous Skill Development](#continuous-skill-development)
+      - [Professional Certification Evolution](#professional-certification-evolution)
+      - [Self-Directed Learning Tools](#self-directed-learning-tools)
+  - [Ethical Considerations and Future Readiness](#ethical-considerations-and-future-readiness)
+    - [Navigating Ethical Challenges](#navigating-ethical-challenges)
+      - [Privacy and Data Protection](#privacy-and-data-protection)
+      - [Bias and Fairness](#bias-and-fairness)
+      - [Social Impact Assessment](#social-impact-assessment)
+    - [Future Readiness Framework](#future-readiness-framework)
+      - [Individual Adaptation Strategies](#individual-adaptation-strategies)
+      - [Organisational Preparation Guidelines](#organisational-preparation-guidelines)
+      - [Long-term Success Metrics](#long-term-success-metrics)
+  - [Conclusion: Embracing the GenAI Future](#conclusion-embracing-the-genai-future)
+    - [Integration and Moving Forward](#integration-and-moving-forward)
+      - [Key Takeaways and Action Steps](#key-takeaways-and-action-steps)
+      - [Future Trends and Predictions](#future-trends-and-predictions)
+      - [Building Resilience in the Age of GenAI](#building-resilience-in-the-age-of-genai)
 
 
 ## Introduction: The Dawn of Generative AI

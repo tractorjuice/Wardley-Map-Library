@@ -4,82 +4,82 @@
 
 # Table of Contents
 
-- Mapping Sustainable Futures: Wardley Mapping for UN Sustainable Development Goals
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: Wardley Mapping and Global Sustainability
-  - The Power of Wardley Mapping for Complex Challenges
-    - Understanding Wardley Mapping: Key Concepts and Principles
-    - Applying Mapping to Global Sustainability Issues
-    - The UN Sustainable Development Goals: An Overview
-  - The Intersection of Strategy and Sustainability
-    - Why Traditional Approaches Fall Short
-    - The Strategic Advantage of Value Chain Mapping
-    - Building a Framework for SDG Implementation
-- Mapping the 17 Sustainable Development Goals
-  - People: Mapping Social Development Goals
-    - No Poverty and Zero Hunger
-    - Good Health and Well-being
-    - Quality Education and Gender Equality
-  - Planet: Mapping Environmental Sustainability Goals
-    - Clean Water and Sanitation
-    - Climate Action and Life Below Water
-    - Life on Land
-  - Prosperity: Mapping Economic Development Goals
-    - Decent Work and Economic Growth
-    - Industry, Innovation, and Infrastructure
-    - Reduced Inequalities and Sustainable Cities
-  - Peace and Partnership: Mapping Collaborative Goals
-    - Peace, Justice, and Strong Institutions
-    - Partnerships for the Goals
-- Cross-Sector Collaboration Through Map Comparisons
-  - Identifying Synergies and Conflicts
-    - Overlapping Value Chains Across SDGs
-    - Resolving Conflicts and Trade-offs
-    - Leveraging Synergies for Multiplied Impact
-  - Strategies for Multi-Stakeholder Engagement
-    - Government and Policy Maker Involvement
-    - Private Sector Contributions
-    - Civil Society and NGO Partnerships
-  - Creating a Unified Strategy Map
-    - Integrating Individual SDG Maps
-    - Identifying Key Leverage Points
-    - Prioritising Actions for Maximum Impact
-- Case Studies: Wardley Mapping in Action for SDGs
-  - National-Level Implementation
-    - Case Study: Mapping SDG 13 (Climate Action) in a Developing Country
-    - Case Study: Integrating SDGs 8 and 9 (Economic Growth and Innovation) in an Advanced Economy
-  - Corporate Sustainability Strategies
-    - Case Study: A Global Corporation Aligning with SDG 12 (Responsible Consumption and Production)
-    - Case Study: Tech Start-up Contributing to SDG 4 (Quality Education)
-  - NGO and International Organisation Approaches
-    - Case Study: UN Agency Using Wardley Mapping for SDG 2 (Zero Hunger)
-    - Case Study: International NGO Tackling SDG 6 (Clean Water and Sanitation)
-- Future Scenarios and Adaptive Strategies
-  - Anticipating Change in the Sustainability Landscape
-    - Technological Disruptions and Their Impact on SDGs
-    - Geopolitical Shifts and Global Cooperation
-    - Climate Change Scenarios and Adaptation Strategies
-  - Evolving Wardley Maps for Dynamic SDG Implementation
-    - Continuous Mapping and Strategy Refinement
-    - Incorporating Emerging Data and Insights
-    - Adapting to Changing Stakeholder Needs and Expectations
-  - Building Resilience into SDG Strategies
-    - Identifying and Mitigating Risks
-    - Creating Flexible Implementation Frameworks
-    - Fostering Innovation and Adaptability in Sustainability Efforts
-- Conclusion: Empowering Global Sustainability Through Strategic Mapping
-  - Key Takeaways for SDG Implementation
-    - The Transformative Power of Wardley Mapping for SDGs
-    - Best Practices for Sustainable Development Strategies
-    - Overcoming Challenges in Global Sustainability Efforts
-  - The Road Ahead
-    - Scaling Up Wardley Mapping for Global Impact
-    - Fostering a Community of Practice
-    - Continuous Learning and Improvement in SDG Strategies
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Mapping Sustainable Futures: Wardley Mapping for UN Sustainable Development Goals](#mapping-sustainable-futures-wardley-mapping-for-un-sustainable-development-goals)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: Wardley Mapping and Global Sustainability](#introduction-wardley-mapping-and-global-sustainability)
+  - [The Power of Wardley Mapping for Complex Challenges](#the-power-of-wardley-mapping-for-complex-challenges)
+    - [Understanding Wardley Mapping: Key Concepts and Principles](#understanding-wardley-mapping-key-concepts-and-principles)
+    - [Applying Mapping to Global Sustainability Issues](#applying-mapping-to-global-sustainability-issues)
+    - [The UN Sustainable Development Goals: An Overview](#the-un-sustainable-development-goals-an-overview)
+  - [The Intersection of Strategy and Sustainability](#the-intersection-of-strategy-and-sustainability)
+    - [Why Traditional Approaches Fall Short](#why-traditional-approaches-fall-short)
+    - [The Strategic Advantage of Value Chain Mapping](#the-strategic-advantage-of-value-chain-mapping)
+    - [Building a Framework for SDG Implementation](#building-a-framework-for-sdg-implementation)
+- [Mapping the 17 Sustainable Development Goals](#mapping-the-17-sustainable-development-goals)
+  - [People: Mapping Social Development Goals](#people-mapping-social-development-goals)
+    - [No Poverty and Zero Hunger](#no-poverty-and-zero-hunger)
+    - [Good Health and Well-being](#good-health-and-well-being)
+    - [Quality Education and Gender Equality](#quality-education-and-gender-equality)
+  - [Planet: Mapping Environmental Sustainability Goals](#planet-mapping-environmental-sustainability-goals)
+    - [Clean Water and Sanitation](#clean-water-and-sanitation)
+    - [Climate Action and Life Below Water](#climate-action-and-life-below-water)
+    - [Life on Land](#life-on-land)
+  - [Prosperity: Mapping Economic Development Goals](#prosperity-mapping-economic-development-goals)
+    - [Decent Work and Economic Growth](#decent-work-and-economic-growth)
+    - [Industry, Innovation, and Infrastructure](#industry-innovation-and-infrastructure)
+    - [Reduced Inequalities and Sustainable Cities](#reduced-inequalities-and-sustainable-cities)
+  - [Peace and Partnership: Mapping Collaborative Goals](#peace-and-partnership-mapping-collaborative-goals)
+    - [Peace, Justice, and Strong Institutions](#peace-justice-and-strong-institutions)
+    - [Partnerships for the Goals](#partnerships-for-the-goals)
+- [Cross-Sector Collaboration Through Map Comparisons](#cross-sector-collaboration-through-map-comparisons)
+  - [Identifying Synergies and Conflicts](#identifying-synergies-and-conflicts)
+    - [Overlapping Value Chains Across SDGs](#overlapping-value-chains-across-sdgs)
+    - [Resolving Conflicts and Trade-offs](#resolving-conflicts-and-trade-offs)
+    - [Leveraging Synergies for Multiplied Impact](#leveraging-synergies-for-multiplied-impact)
+  - [Strategies for Multi-Stakeholder Engagement](#strategies-for-multi-stakeholder-engagement)
+    - [Government and Policy Maker Involvement](#government-and-policy-maker-involvement)
+    - [Private Sector Contributions](#private-sector-contributions)
+    - [Civil Society and NGO Partnerships](#civil-society-and-ngo-partnerships)
+  - [Creating a Unified Strategy Map](#creating-a-unified-strategy-map)
+    - [Integrating Individual SDG Maps](#integrating-individual-sdg-maps)
+    - [Identifying Key Leverage Points](#identifying-key-leverage-points)
+    - [Prioritising Actions for Maximum Impact](#prioritising-actions-for-maximum-impact)
+- [Case Studies: Wardley Mapping in Action for SDGs](#case-studies-wardley-mapping-in-action-for-sdgs)
+  - [National-Level Implementation](#national-level-implementation)
+    - [Case Study: Mapping SDG 13 (Climate Action) in a Developing Country](#case-study-mapping-sdg-13-climate-action-in-a-developing-country)
+    - [Case Study: Integrating SDGs 8 and 9 (Economic Growth and Innovation) in an Advanced Economy](#case-study-integrating-sdgs-8-and-9-economic-growth-and-innovation-in-an-advanced-economy)
+  - [Corporate Sustainability Strategies](#corporate-sustainability-strategies)
+    - [Case Study: A Global Corporation Aligning with SDG 12 (Responsible Consumption and Production)](#case-study-a-global-corporation-aligning-with-sdg-12-responsible-consumption-and-production)
+    - [Case Study: Tech Start-up Contributing to SDG 4 (Quality Education)](#case-study-tech-start-up-contributing-to-sdg-4-quality-education)
+  - [NGO and International Organisation Approaches](#ngo-and-international-organisation-approaches)
+    - [Case Study: UN Agency Using Wardley Mapping for SDG 2 (Zero Hunger)](#case-study-un-agency-using-wardley-mapping-for-sdg-2-zero-hunger)
+    - [Case Study: International NGO Tackling SDG 6 (Clean Water and Sanitation)](#case-study-international-ngo-tackling-sdg-6-clean-water-and-sanitation)
+- [Future Scenarios and Adaptive Strategies](#future-scenarios-and-adaptive-strategies)
+  - [Anticipating Change in the Sustainability Landscape](#anticipating-change-in-the-sustainability-landscape)
+    - [Technological Disruptions and Their Impact on SDGs](#technological-disruptions-and-their-impact-on-sdgs)
+    - [Geopolitical Shifts and Global Cooperation](#geopolitical-shifts-and-global-cooperation)
+    - [Climate Change Scenarios and Adaptation Strategies](#climate-change-scenarios-and-adaptation-strategies)
+  - [Evolving Wardley Maps for Dynamic SDG Implementation](#evolving-wardley-maps-for-dynamic-sdg-implementation)
+    - [Continuous Mapping and Strategy Refinement](#continuous-mapping-and-strategy-refinement)
+    - [Incorporating Emerging Data and Insights](#incorporating-emerging-data-and-insights)
+    - [Adapting to Changing Stakeholder Needs and Expectations](#adapting-to-changing-stakeholder-needs-and-expectations)
+  - [Building Resilience into SDG Strategies](#building-resilience-into-sdg-strategies)
+    - [Identifying and Mitigating Risks](#identifying-and-mitigating-risks)
+    - [Creating Flexible Implementation Frameworks](#creating-flexible-implementation-frameworks)
+    - [Fostering Innovation and Adaptability in Sustainability Efforts](#fostering-innovation-and-adaptability-in-sustainability-efforts)
+- [Conclusion: Empowering Global Sustainability Through Strategic Mapping](#conclusion-empowering-global-sustainability-through-strategic-mapping)
+  - [Key Takeaways for SDG Implementation](#key-takeaways-for-sdg-implementation)
+    - [The Transformative Power of Wardley Mapping for SDGs](#the-transformative-power-of-wardley-mapping-for-sdgs)
+    - [Best Practices for Sustainable Development Strategies](#best-practices-for-sustainable-development-strategies)
+    - [Overcoming Challenges in Global Sustainability Efforts](#overcoming-challenges-in-global-sustainability-efforts)
+  - [The Road Ahead](#the-road-ahead)
+    - [Scaling Up Wardley Mapping for Global Impact](#scaling-up-wardley-mapping-for-global-impact)
+    - [Fostering a Community of Practice](#fostering-a-community-of-practice)
+    - [Continuous Learning and Improvement in SDG Strategies](#continuous-learning-and-improvement-in-sdg-strategies)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: Wardley Mapping and Global Sustainability

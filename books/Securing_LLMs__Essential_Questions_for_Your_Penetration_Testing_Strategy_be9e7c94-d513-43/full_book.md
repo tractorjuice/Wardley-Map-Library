@@ -4,60 +4,60 @@
 
 # Table of Contents
 
-- Securing LLMs: Essential Questions for Your Penetration Testing Strategy
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: Understanding LLM Security Challenges
-  - The Evolving Landscape of AI Security
-    - Current State of LLM Deployments
-    - Unique Security Challenges of LLMs
-    - Stakes and Consequences of LLM Breaches
-  - Framework for LLM Security Assessment
-    - Key Components of LLM Security
-    - Stakeholder Responsibilities
-    - Risk Assessment Fundamentals
-- Core Security Assessment Questions
-  - Threat Modeling and Risk Analysis
-    - Business Impact Assessment Questions
-    - Threat Vector Identification Queries
-    - Vulnerability Assessment Checklist
-  - Technical Testing Methodology
-    - Prompt Injection Testing Protocols
-    - Data Extraction Prevention Measures
-    - Model Manipulation Safeguards
-- Governance and Control Implementation
-  - Access Control and Authentication
-    - User Permission Management
-    - API Security Measures
-    - Model Access Controls
-  - Monitoring and Logging
-    - Activity Tracking Systems
-    - Anomaly Detection Methods
-    - Audit Trail Requirements
-- Incident Management and Response
-  - Incident Detection and Classification
-    - LLM-Specific Incident Indicators
-    - Severity Assessment Criteria
-    - Response Team Roles
-  - Recovery and Continuity Planning
-    - Model Restoration Procedures
-    - Business Continuity Strategies
-    - Incident Documentation Requirements
-- Regulatory Compliance and Ethical Considerations
-  - Compliance Framework Integration
-    - Regulatory Requirements Mapping
-    - Documentation Standards
-    - Compliance Monitoring Procedures
-  - Ethical AI Security Practices
-    - Responsible AI Development
-    - Privacy Protection Measures
-    - Transparency Requirements
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialised Applications
+- [Securing LLMs: Essential Questions for Your Penetration Testing Strategy](#securing-llms-essential-questions-for-your-penetration-testing-strategy)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: Understanding LLM Security Challenges](#introduction-understanding-llm-security-challenges)
+  - [The Evolving Landscape of AI Security](#the-evolving-landscape-of-ai-security)
+    - [Current State of LLM Deployments](#current-state-of-llm-deployments)
+    - [Unique Security Challenges of LLMs](#unique-security-challenges-of-llms)
+    - [Stakes and Consequences of LLM Breaches](#stakes-and-consequences-of-llm-breaches)
+  - [Framework for LLM Security Assessment](#framework-for-llm-security-assessment)
+    - [Key Components of LLM Security](#key-components-of-llm-security)
+    - [Stakeholder Responsibilities](#stakeholder-responsibilities)
+    - [Risk Assessment Fundamentals](#risk-assessment-fundamentals)
+- [Core Security Assessment Questions](#core-security-assessment-questions)
+  - [Threat Modeling and Risk Analysis](#threat-modeling-and-risk-analysis)
+    - [Business Impact Assessment Questions](#business-impact-assessment-questions)
+    - [Threat Vector Identification Queries](#threat-vector-identification-queries)
+    - [Vulnerability Assessment Checklist](#vulnerability-assessment-checklist)
+  - [Technical Testing Methodology](#technical-testing-methodology)
+    - [Prompt Injection Testing Protocols](#prompt-injection-testing-protocols)
+    - [Data Extraction Prevention Measures](#data-extraction-prevention-measures)
+    - [Model Manipulation Safeguards](#model-manipulation-safeguards)
+- [Governance and Control Implementation](#governance-and-control-implementation)
+  - [Access Control and Authentication](#access-control-and-authentication)
+    - [User Permission Management](#user-permission-management)
+    - [API Security Measures](#api-security-measures)
+    - [Model Access Controls](#model-access-controls)
+  - [Monitoring and Logging](#monitoring-and-logging)
+    - [Activity Tracking Systems](#activity-tracking-systems)
+    - [Anomaly Detection Methods](#anomaly-detection-methods)
+    - [Audit Trail Requirements](#audit-trail-requirements)
+- [Incident Management and Response](#incident-management-and-response)
+  - [Incident Detection and Classification](#incident-detection-and-classification)
+    - [LLM-Specific Incident Indicators](#llm-specific-incident-indicators)
+    - [Severity Assessment Criteria](#severity-assessment-criteria)
+    - [Response Team Roles](#response-team-roles)
+  - [Recovery and Continuity Planning](#recovery-and-continuity-planning)
+    - [Model Restoration Procedures](#model-restoration-procedures)
+    - [Business Continuity Strategies](#business-continuity-strategies)
+    - [Incident Documentation Requirements](#incident-documentation-requirements)
+- [Regulatory Compliance and Ethical Considerations](#regulatory-compliance-and-ethical-considerations)
+  - [Compliance Framework Integration](#compliance-framework-integration)
+    - [Regulatory Requirements Mapping](#regulatory-requirements-mapping)
+    - [Documentation Standards](#documentation-standards)
+    - [Compliance Monitoring Procedures](#compliance-monitoring-procedures)
+  - [Ethical AI Security Practices](#ethical-ai-security-practices)
+    - [Responsible AI Development](#responsible-ai-development)
+    - [Privacy Protection Measures](#privacy-protection-measures)
+    - [Transparency Requirements](#transparency-requirements)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialised Applications](#specialised-applications)
 
 
 # Introduction: Understanding LLM Security Challenges

@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Starship vs Blue Origin: The New Space Race and the Future of Space Exploration
-  - Introduction: The Dawn of a New Space Era
-    - The Evolution of Space Exploration
-      - From Government Programmes to Private Enterprises
-      - The Rise of SpaceX and Blue Origin
-    - The Significance of the New Space Race
-      - Why Starship and Blue Origin Matter
-      - The Broader Implications for Humanity
-  - Technological Innovations Driving the Future
-    - Reusable Rockets: A Game-Changer
-      - The Engineering Behind Reusability
-      - Cost Efficiency and Sustainability
-    - Sustainable Space Travel
-      - Environmental Considerations
-      - Long-Term Viability
-    - Cutting-Edge Technologies
-      - Starship's Innovations
-      - Blue Origin's Advancements
-  - Economic and Geopolitical Implications
-    - The Economics of Private Space Companies
-      - Funding and Investment
-      - Market Competition and Growth
-    - Geopolitical Dynamics
-      - National Security and Space Dominance
-      - International Collaboration and Rivalry
-  - Competition and Collaboration in Aerospace
-    - The Role of Competition
-      - Accelerating Technological Advancements
-      - Fostering Innovation
-    - Collaborative Efforts
-      - Public-Private Partnerships
-      - Global Space Alliances
-  - Ethical and Environmental Considerations
-    - Space Debris and Pollution
-      - The Growing Problem of Space Junk
-      - Mitigation Strategies
-    - The Commercialization of Space
-      - Ethical Dilemmas
-      - Regulatory Frameworks
-  - The Human Element: Visionaries and Innovators
-    - The Minds Behind the Missions
-      - Elon Musk and SpaceX
-      - Jeff Bezos and Blue Origin
-    - Impact on STEM Education
-      - Inspiring the Next Generation
-      - Educational Initiatives and Outreach
-    - Public Engagement and Interest
-      - Media and Public Perception
-      - The Role of Social Media
-  - Conclusion: The Future of Space Exploration
-    - Looking Ahead
-      - The Next Frontier
-      - Challenges and Opportunities
-    - Final Thoughts
-      - The Legacy of Starship and Blue Origin
-      - The Path Forward for Humanity
+- [Starship vs Blue Origin: The New Space Race and the Future of Space Exploration](#starship-vs-blue-origin-the-new-space-race-and-the-future-of-space-exploration)
+  - [Introduction: The Dawn of a New Space Era](#introduction-the-dawn-of-a-new-space-era)
+    - [The Evolution of Space Exploration](#the-evolution-of-space-exploration)
+      - [From Government Programmes to Private Enterprises](#from-government-programmes-to-private-enterprises)
+      - [The Rise of SpaceX and Blue Origin](#the-rise-of-spacex-and-blue-origin)
+    - [The Significance of the New Space Race](#the-significance-of-the-new-space-race)
+      - [Why Starship and Blue Origin Matter](#why-starship-and-blue-origin-matter)
+      - [The Broader Implications for Humanity](#the-broader-implications-for-humanity)
+  - [Technological Innovations Driving the Future](#technological-innovations-driving-the-future)
+    - [Reusable Rockets: A Game-Changer](#reusable-rockets-a-game-changer)
+      - [The Engineering Behind Reusability](#the-engineering-behind-reusability)
+      - [Cost Efficiency and Sustainability](#cost-efficiency-and-sustainability)
+    - [Sustainable Space Travel](#sustainable-space-travel)
+      - [Environmental Considerations](#environmental-considerations)
+      - [Long-Term Viability](#long-term-viability)
+    - [Cutting-Edge Technologies](#cutting-edge-technologies)
+      - [Starship's Innovations](#starships-innovations)
+      - [Blue Origin's Advancements](#blue-origins-advancements)
+  - [Economic and Geopolitical Implications](#economic-and-geopolitical-implications)
+    - [The Economics of Private Space Companies](#the-economics-of-private-space-companies)
+      - [Funding and Investment](#funding-and-investment)
+      - [Market Competition and Growth](#market-competition-and-growth)
+    - [Geopolitical Dynamics](#geopolitical-dynamics)
+      - [National Security and Space Dominance](#national-security-and-space-dominance)
+      - [International Collaboration and Rivalry](#international-collaboration-and-rivalry)
+  - [Competition and Collaboration in Aerospace](#competition-and-collaboration-in-aerospace)
+    - [The Role of Competition](#the-role-of-competition)
+      - [Accelerating Technological Advancements](#accelerating-technological-advancements)
+      - [Fostering Innovation](#fostering-innovation)
+    - [Collaborative Efforts](#collaborative-efforts)
+      - [Public-Private Partnerships](#public-private-partnerships)
+      - [Global Space Alliances](#global-space-alliances)
+  - [Ethical and Environmental Considerations](#ethical-and-environmental-considerations)
+    - [Space Debris and Pollution](#space-debris-and-pollution)
+      - [The Growing Problem of Space Junk](#the-growing-problem-of-space-junk)
+      - [Mitigation Strategies](#mitigation-strategies)
+    - [The Commercialization of Space](#the-commercialization-of-space)
+      - [Ethical Dilemmas](#ethical-dilemmas)
+      - [Regulatory Frameworks](#regulatory-frameworks)
+  - [The Human Element: Visionaries and Innovators](#the-human-element-visionaries-and-innovators)
+    - [The Minds Behind the Missions](#the-minds-behind-the-missions)
+      - [Elon Musk and SpaceX](#elon-musk-and-spacex)
+      - [Jeff Bezos and Blue Origin](#jeff-bezos-and-blue-origin)
+    - [Impact on STEM Education](#impact-on-stem-education)
+      - [Inspiring the Next Generation](#inspiring-the-next-generation)
+      - [Educational Initiatives and Outreach](#educational-initiatives-and-outreach)
+    - [Public Engagement and Interest](#public-engagement-and-interest)
+      - [Media and Public Perception](#media-and-public-perception)
+      - [The Role of Social Media](#the-role-of-social-media)
+  - [Conclusion: The Future of Space Exploration](#conclusion-the-future-of-space-exploration)
+    - [Looking Ahead](#looking-ahead)
+      - [The Next Frontier](#the-next-frontier)
+      - [Challenges and Opportunities](#challenges-and-opportunities)
+    - [Final Thoughts](#final-thoughts)
+      - [The Legacy of Starship and Blue Origin](#the-legacy-of-starship-and-blue-origin)
+      - [The Path Forward for Humanity](#the-path-forward-for-humanity)
 
 
 ## Introduction: The Dawn of a New Space Era

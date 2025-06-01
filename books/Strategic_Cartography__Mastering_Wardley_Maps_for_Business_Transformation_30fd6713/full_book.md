@@ -2,75 +2,75 @@
 
 # Table of Contents
 
-- Strategic Cartography: Mastering Wardley Maps for Business Transformation
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Mapping
-      - The Evolution of Strategic Planning
-      - Why Visual Thinking Matters
-      - Introduction to Wardley Maps
-    - The Modern Business Landscape
-      - Digital Transformation Challenges
-      - Competitive Dynamics
-      - Value Creation in the Digital Age
-  - Fundamentals of Wardley Mapping
-    - Core Components
-      - Value Chain Basics
-      - Evolution Axis
-      - Movement and Anchoring
-      - Dependencies and Links
-    - Visual Thinking Principles
-      - Spatial Arrangement
-      - Visual Hierarchy
-      - Pattern Recognition
-      - Cognitive Load Management
-    - Map Construction
-      - Identifying Users and Needs
-      - Mapping Components
-      - Understanding Evolution
-      - Validating Your Map
-  - Practical Application and Workshop Guide
-    - Workshop Design
-      - Setting Objectives
-      - Participant Preparation
-      - Room Setup and Materials
-      - Facilitation Techniques
-    - Mapping Exercises
-      - Individual Mapping Sessions
-      - Team Mapping Activities
-      - Cross-functional Collaboration
-      - Remote Mapping Workshops
-    - Common Challenges and Solutions
-      - Component Identification Issues
-      - Evolution Assessment Problems
-      - Team Alignment Difficulties
-      - Map Refinement Strategies
-  - Integration with Strategic Tools
-    - Complementary Frameworks
-      - Business Model Canvas Integration
-      - Blue Ocean Strategy Alignment
-      - Value Chain Analysis Synthesis
-      - Strategic Planning Tools Ecosystem
-    - Enhanced Decision Making
-      - Multi-framework Analysis
-      - Strategic Options Generation
-      - Risk Assessment
-      - Investment Prioritisation
-  - Case Studies and Real-World Applications
-    - Success Stories
-      - Technology Sector Transformations
-      - Manufacturing Industry Evolution
-      - Service Industry Innovations
-      - Public Sector Implementations
-    - Learning from Failures
-      - Common Pitfalls
-      - Implementation Challenges
-      - Recovery Strategies
-      - Lessons Learned
-    - Future Applications
-      - Emerging Trends
-      - New Use Cases
-      - Tool Evolution
-      - Community Development
+- [Strategic Cartography: Mastering Wardley Maps for Business Transformation](#strategic-cartography-mastering-wardley-maps-for-business-transformation)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Mapping](#understanding-strategic-mapping)
+      - [The Evolution of Strategic Planning](#the-evolution-of-strategic-planning)
+      - [Why Visual Thinking Matters](#why-visual-thinking-matters)
+      - [Introduction to Wardley Maps](#introduction-to-wardley-maps)
+    - [The Modern Business Landscape](#the-modern-business-landscape)
+      - [Digital Transformation Challenges](#digital-transformation-challenges)
+      - [Competitive Dynamics](#competitive-dynamics)
+      - [Value Creation in the Digital Age](#value-creation-in-the-digital-age)
+  - [Fundamentals of Wardley Mapping](#fundamentals-of-wardley-mapping)
+    - [Core Components](#core-components)
+      - [Value Chain Basics](#value-chain-basics)
+      - [Evolution Axis](#evolution-axis)
+      - [Movement and Anchoring](#movement-and-anchoring)
+      - [Dependencies and Links](#dependencies-and-links)
+    - [Visual Thinking Principles](#visual-thinking-principles)
+      - [Spatial Arrangement](#spatial-arrangement)
+      - [Visual Hierarchy](#visual-hierarchy)
+      - [Pattern Recognition](#pattern-recognition)
+      - [Cognitive Load Management](#cognitive-load-management)
+    - [Map Construction](#map-construction)
+      - [Identifying Users and Needs](#identifying-users-and-needs)
+      - [Mapping Components](#mapping-components)
+      - [Understanding Evolution](#understanding-evolution)
+      - [Validating Your Map](#validating-your-map)
+  - [Practical Application and Workshop Guide](#practical-application-and-workshop-guide)
+    - [Workshop Design](#workshop-design)
+      - [Setting Objectives](#setting-objectives)
+      - [Participant Preparation](#participant-preparation)
+      - [Room Setup and Materials](#room-setup-and-materials)
+      - [Facilitation Techniques](#facilitation-techniques)
+    - [Mapping Exercises](#mapping-exercises)
+      - [Individual Mapping Sessions](#individual-mapping-sessions)
+      - [Team Mapping Activities](#team-mapping-activities)
+      - [Cross-functional Collaboration](#cross-functional-collaboration)
+      - [Remote Mapping Workshops](#remote-mapping-workshops)
+    - [Common Challenges and Solutions](#common-challenges-and-solutions)
+      - [Component Identification Issues](#component-identification-issues)
+      - [Evolution Assessment Problems](#evolution-assessment-problems)
+      - [Team Alignment Difficulties](#team-alignment-difficulties)
+      - [Map Refinement Strategies](#map-refinement-strategies)
+  - [Integration with Strategic Tools](#integration-with-strategic-tools)
+    - [Complementary Frameworks](#complementary-frameworks)
+      - [Business Model Canvas Integration](#business-model-canvas-integration)
+      - [Blue Ocean Strategy Alignment](#blue-ocean-strategy-alignment)
+      - [Value Chain Analysis Synthesis](#value-chain-analysis-synthesis)
+      - [Strategic Planning Tools Ecosystem](#strategic-planning-tools-ecosystem)
+    - [Enhanced Decision Making](#enhanced-decision-making)
+      - [Multi-framework Analysis](#multi-framework-analysis)
+      - [Strategic Options Generation](#strategic-options-generation)
+      - [Risk Assessment](#risk-assessment)
+      - [Investment Prioritisation](#investment-prioritisation)
+  - [Case Studies and Real-World Applications](#case-studies-and-real-world-applications)
+    - [Success Stories](#success-stories)
+      - [Technology Sector Transformations](#technology-sector-transformations)
+      - [Manufacturing Industry Evolution](#manufacturing-industry-evolution)
+      - [Service Industry Innovations](#service-industry-innovations)
+      - [Public Sector Implementations](#public-sector-implementations)
+    - [Learning from Failures](#learning-from-failures)
+      - [Common Pitfalls](#common-pitfalls)
+      - [Implementation Challenges](#implementation-challenges)
+      - [Recovery Strategies](#recovery-strategies)
+      - [Lessons Learned](#lessons-learned)
+    - [Future Applications](#future-applications)
+      - [Emerging Trends](#emerging-trends)
+      - [New Use Cases](#new-use-cases)
+      - [Tool Evolution](#tool-evolution)
+      - [Community Development](#community-development)
 
 
 ## Introduction: The Power of Visual Strategy

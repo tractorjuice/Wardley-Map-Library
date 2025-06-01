@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- The AI Efficiency Paradox: How Generative AI's Success Could Drive Unsustainable Resource Consumption
-  - Introduction: Understanding the Collision of Jevons Paradox and AI
-    - The Core Challenge
-      - Defining Jevons Paradox in Modern Context
-      - The Rise of Generative AI
-      - Why This Matters Now
-    - Setting the Stage
-      - Key Concepts and Terminology
-      - Current State of AI Resource Usage
-      - Overview of Coming Chapters
-  - Historical Parallels and Modern Reality
-    - Jevons' Original Insights
-      - The Coal Question Examined
-      - Victorian Era Economic Patterns
-      - Historical Impact and Lessons
-    - Modern AI Landscape
-      - Current AI Energy Consumption Patterns
-      - Data Center Growth Trends
-      - Efficiency Improvements and Their Paradoxical Effects
-  - The Economics of AI Resource Consumption
-    - Computational Resources
-      - Training Costs and Requirements
-      - Inference Infrastructure
-      - Hardware Evolution and Demands
-    - Energy Economics
-      - Power Consumption Metrics
-      - Renewable Energy Integration
-      - Cost-Benefit Analysis
-    - Data as a Resource
-      - Storage Requirements
-      - Data Center Expansion
-      - Environmental Impact
-  - Strategic Responses and Solutions
-    - Corporate Responsibility
-      - Sustainable AI Development Practices
-      - Resource Optimization Strategies
-      - Green Computing Initiatives
-    - Policy Frameworks
-      - Regulatory Approaches
-      - International Cooperation
-      - Incentive Structures
-    - Technical Solutions
-      - Efficient Model Architectures
-      - Alternative Computing Paradigms
-      - Innovation in Cooling Systems
-  - Future Trajectories and Recommendations
-    - Scenario Planning
-      - Best-Case Projections
-      - Worst-Case Scenarios
-      - Most Likely Outcomes
-    - Action Framework
-      - Individual Organization Steps
-      - Industry-Wide Initiatives
-      - Policy Recommendations
-    - Conclusion
-      - Key Takeaways
-      - Future Research Directions
-      - Call to Action
+- [The AI Efficiency Paradox: How Generative AI's Success Could Drive Unsustainable Resource Consumption](#the-ai-efficiency-paradox-how-generative-ais-success-could-drive-unsustainable-resource-consumption)
+  - [Introduction: Understanding the Collision of Jevons Paradox and AI](#introduction-understanding-the-collision-of-jevons-paradox-and-ai)
+    - [The Core Challenge](#the-core-challenge)
+      - [Defining Jevons Paradox in Modern Context](#defining-jevons-paradox-in-modern-context)
+      - [The Rise of Generative AI](#the-rise-of-generative-ai)
+      - [Why This Matters Now](#why-this-matters-now)
+    - [Setting the Stage](#setting-the-stage)
+      - [Key Concepts and Terminology](#key-concepts-and-terminology)
+      - [Current State of AI Resource Usage](#current-state-of-ai-resource-usage)
+      - [Overview of Coming Chapters](#overview-of-coming-chapters)
+  - [Historical Parallels and Modern Reality](#historical-parallels-and-modern-reality)
+    - [Jevons' Original Insights](#jevons-original-insights)
+      - [The Coal Question Examined](#the-coal-question-examined)
+      - [Victorian Era Economic Patterns](#victorian-era-economic-patterns)
+      - [Historical Impact and Lessons](#historical-impact-and-lessons)
+    - [Modern AI Landscape](#modern-ai-landscape)
+      - [Current AI Energy Consumption Patterns](#current-ai-energy-consumption-patterns)
+      - [Data Center Growth Trends](#data-center-growth-trends)
+      - [Efficiency Improvements and Their Paradoxical Effects](#efficiency-improvements-and-their-paradoxical-effects)
+  - [The Economics of AI Resource Consumption](#the-economics-of-ai-resource-consumption)
+    - [Computational Resources](#computational-resources)
+      - [Training Costs and Requirements](#training-costs-and-requirements)
+      - [Inference Infrastructure](#inference-infrastructure)
+      - [Hardware Evolution and Demands](#hardware-evolution-and-demands)
+    - [Energy Economics](#energy-economics)
+      - [Power Consumption Metrics](#power-consumption-metrics)
+      - [Renewable Energy Integration](#renewable-energy-integration)
+      - [Cost-Benefit Analysis](#cost-benefit-analysis)
+    - [Data as a Resource](#data-as-a-resource)
+      - [Storage Requirements](#storage-requirements)
+      - [Data Center Expansion](#data-center-expansion)
+      - [Environmental Impact](#environmental-impact)
+  - [Strategic Responses and Solutions](#strategic-responses-and-solutions)
+    - [Corporate Responsibility](#corporate-responsibility)
+      - [Sustainable AI Development Practices](#sustainable-ai-development-practices)
+      - [Resource Optimization Strategies](#resource-optimization-strategies)
+      - [Green Computing Initiatives](#green-computing-initiatives)
+    - [Policy Frameworks](#policy-frameworks)
+      - [Regulatory Approaches](#regulatory-approaches)
+      - [International Cooperation](#international-cooperation)
+      - [Incentive Structures](#incentive-structures)
+    - [Technical Solutions](#technical-solutions)
+      - [Efficient Model Architectures](#efficient-model-architectures)
+      - [Alternative Computing Paradigms](#alternative-computing-paradigms)
+      - [Innovation in Cooling Systems](#innovation-in-cooling-systems)
+  - [Future Trajectories and Recommendations](#future-trajectories-and-recommendations)
+    - [Scenario Planning](#scenario-planning)
+      - [Best-Case Projections](#best-case-projections)
+      - [Worst-Case Scenarios](#worst-case-scenarios)
+      - [Most Likely Outcomes](#most-likely-outcomes)
+    - [Action Framework](#action-framework)
+      - [Individual Organization Steps](#individual-organization-steps)
+      - [Industry-Wide Initiatives](#industry-wide-initiatives)
+      - [Policy Recommendations](#policy-recommendations)
+    - [Conclusion](#conclusion)
+      - [Key Takeaways](#key-takeaways)
+      - [Future Research Directions](#future-research-directions)
+      - [Call to Action](#call-to-action)
 
 
 ## Introduction: Understanding the Collision of Jevons Paradox and AI

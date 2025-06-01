@@ -2,62 +2,62 @@
 
 # Table of Contents
 
-- Strategic Cartography: Mastering Wardley Maps for Business Advantage
-  - Chapter 1: Foundations of Wardley Mapping
-    - Understanding Visual Strategy
-      - The Power of Visual Thinking in Strategy
-      - Core Principles of Wardley Maps
-      - Evolution and Value Chain Basics
-      - Map Components and Notation
-    - Building Your First Map
-      - Identifying User Needs
-      - Mapping Value Chains
-      - Understanding Evolution Axes
-      - Basic Map Construction Exercise
-  - Chapter 2: Digital Landscape Navigation
-    - Technology Evolution Patterns
-      - Innovation to Commodity Cycle
-      - Identifying Technology Phases
-      - Disruption Patterns
-      - Digital Infrastructure Mapping
-    - Market Dynamics Analysis
-      - Competition Mapping
-      - Market Position Assessment
-      - Technology Adoption Cycles
-      - Digital Transformation Opportunities
-  - Chapter 3: Ecosystem Strategy Development
-    - Partnership and Dependency Analysis
-      - Identifying Strategic Dependencies
-      - Partnership Opportunity Mapping
-      - Supplier Relationship Assessment
-      - Ecosystem Risk Analysis
-    - Strategic Positioning
-      - Competitive Advantage Mapping
-      - Strategic Play Development
-      - Ecosystem Leverage Points
-      - Alliance Strategy Formation
-  - Chapter 4: Practical Implementation Guide
-    - Map Creation Process
-      - Data Gathering Techniques
-      - Stakeholder Workshops
-      - Iterative Refinement Process
-      - Validation Methods
-    - Strategic Decision Making
-      - Map Analysis Frameworks
-      - Action Planning
-      - Resource Allocation
-      - Implementation Roadmaps
-  - Chapter 5: Future-State Planning
-    - Anticipating Market Evolution
-      - Future Scenario Mapping
-      - Evolution Prediction Techniques
-      - Opportunity Identification
-      - Risk Assessment Methods
-    - Strategic Positioning for the Future
-      - Long-term Strategy Development
-      - Capability Building Plans
-      - Innovation Portfolio Management
-      - Adaptive Strategy Frameworks
+- [Strategic Cartography: Mastering Wardley Maps for Business Advantage](#strategic-cartography-mastering-wardley-maps-for-business-advantage)
+  - [Chapter 1: Foundations of Wardley Mapping](#chapter-1-foundations-of-wardley-mapping)
+    - [Understanding Visual Strategy](#understanding-visual-strategy)
+      - [The Power of Visual Thinking in Strategy](#the-power-of-visual-thinking-in-strategy)
+      - [Core Principles of Wardley Maps](#core-principles-of-wardley-maps)
+      - [Evolution and Value Chain Basics](#evolution-and-value-chain-basics)
+      - [Map Components and Notation](#map-components-and-notation)
+    - [Building Your First Map](#building-your-first-map)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Value Chains](#mapping-value-chains)
+      - [Understanding Evolution Axes](#understanding-evolution-axes)
+      - [Basic Map Construction Exercise](#basic-map-construction-exercise)
+  - [Chapter 2: Digital Landscape Navigation](#chapter-2-digital-landscape-navigation)
+    - [Technology Evolution Patterns](#technology-evolution-patterns)
+      - [Innovation to Commodity Cycle](#innovation-to-commodity-cycle)
+      - [Identifying Technology Phases](#identifying-technology-phases)
+      - [Disruption Patterns](#disruption-patterns)
+      - [Digital Infrastructure Mapping](#digital-infrastructure-mapping)
+    - [Market Dynamics Analysis](#market-dynamics-analysis)
+      - [Competition Mapping](#competition-mapping)
+      - [Market Position Assessment](#market-position-assessment)
+      - [Technology Adoption Cycles](#technology-adoption-cycles)
+      - [Digital Transformation Opportunities](#digital-transformation-opportunities)
+  - [Chapter 3: Ecosystem Strategy Development](#chapter-3-ecosystem-strategy-development)
+    - [Partnership and Dependency Analysis](#partnership-and-dependency-analysis)
+      - [Identifying Strategic Dependencies](#identifying-strategic-dependencies)
+      - [Partnership Opportunity Mapping](#partnership-opportunity-mapping)
+      - [Supplier Relationship Assessment](#supplier-relationship-assessment)
+      - [Ecosystem Risk Analysis](#ecosystem-risk-analysis)
+    - [Strategic Positioning](#strategic-positioning)
+      - [Competitive Advantage Mapping](#competitive-advantage-mapping)
+      - [Strategic Play Development](#strategic-play-development)
+      - [Ecosystem Leverage Points](#ecosystem-leverage-points)
+      - [Alliance Strategy Formation](#alliance-strategy-formation)
+  - [Chapter 4: Practical Implementation Guide](#chapter-4-practical-implementation-guide)
+    - [Map Creation Process](#map-creation-process)
+      - [Data Gathering Techniques](#data-gathering-techniques)
+      - [Stakeholder Workshops](#stakeholder-workshops)
+      - [Iterative Refinement Process](#iterative-refinement-process)
+      - [Validation Methods](#validation-methods)
+    - [Strategic Decision Making](#strategic-decision-making)
+      - [Map Analysis Frameworks](#map-analysis-frameworks)
+      - [Action Planning](#action-planning)
+      - [Resource Allocation](#resource-allocation)
+      - [Implementation Roadmaps](#implementation-roadmaps)
+  - [Chapter 5: Future-State Planning](#chapter-5-future-state-planning)
+    - [Anticipating Market Evolution](#anticipating-market-evolution)
+      - [Future Scenario Mapping](#future-scenario-mapping)
+      - [Evolution Prediction Techniques](#evolution-prediction-techniques)
+      - [Opportunity Identification](#opportunity-identification)
+      - [Risk Assessment Methods](#risk-assessment-methods)
+    - [Strategic Positioning for the Future](#strategic-positioning-for-the-future)
+      - [Long-term Strategy Development](#long-term-strategy-development)
+      - [Capability Building Plans](#capability-building-plans)
+      - [Innovation Portfolio Management](#innovation-portfolio-management)
+      - [Adaptive Strategy Frameworks](#adaptive-strategy-frameworks)
 
 
 ## Chapter 1: Foundations of Wardley Mapping

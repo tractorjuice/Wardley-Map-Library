@@ -2,70 +2,70 @@
 
 # Table of Contents
 
-- AI Supremacy: The Battle Between OpenAI, Anthropic, and Google
-  - Introduction to AI Supremacy
-    - The Rise of AI
-      - The Evolution of AI: From Algorithms to Neural Networks
-      - Key Players in the AI Landscape
-      - Defining AI Supremacy
-    - Overview of OpenAI, Anthropic, and Google
-      - Company Histories and Milestones
-      - Core Technologies and Innovations
-      - Business Models and Market Strategies
-  - Competitive Analysis
-    - Strengths and Weaknesses
-      - OpenAI's Unique Offerings
-      - Anthropic's Ethical Focus
-      - Google's Technological Dominance
-    - Market Positioning
-      - Comparative Analysis of Market Share
-      - Strategic Partnerships and Alliances
-      - Emerging Competitors
-  - Ethical Implications
-    - Moral Dilemmas in AI
-      - Bias and Fairness in AI Systems
-      - Privacy Concerns and Data Security
-      - Impact on Workforce Dynamics and Economy
-    - Societal Impacts
-      - Public Perception of AI
-      - Regulatory Challenges
-      - Ethical Frameworks in AI Development
-  - Future Trends in AI
-    - Emerging Trends
-      - Advancements in AI Technologies
-      - Shifts in Regulatory Frameworks
-      - Collaboration vs. Competition
-    - Predictions for the Future
-      - Potential Scenarios for AI Development
-      - Impact on Global Economy
-      - Role of AI in Society
-  - Case Studies
-    - Success Stories
-      - OpenAI's ChatGPT in Customer Service
-      - Anthropic's AI in Healthcare
-      - Google's AI in Search Optimization
-    - Lessons from Failures
-      - OpenAI's Missteps in Public Perception
-      - Anthropic's Challenges in Scaling
-      - Google's Controversies in AI Ethics
-  - Methodologies for Analysis
-    - Strategic Frameworks
-      - Introduction to Wardley Mapping
-      - Applying Wardley Mapping to AI Companies
-      - Visualising Competitive Landscapes
-    - Analytical Tools
-      - SWOT Analysis of Key Players
-      - PESTLE Analysis for AI Trends
-      - Scenario Planning for Future Developments
-  - Conclusion: The Future of AI Supremacy
-    - Key Takeaways
-      - Summary of Competitive Dynamics
-      - Ethical Considerations Moving Forward
-      - Future Outlook for AI Development
-    - Call to Action
-      - Encouraging Responsible AI Development
-      - Promoting Collaboration in the AI Community
-      - Engaging Policymakers and Stakeholders
+- [AI Supremacy: The Battle Between OpenAI, Anthropic, and Google](#ai-supremacy-the-battle-between-openai-anthropic-and-google)
+  - [Introduction to AI Supremacy](#introduction-to-ai-supremacy)
+    - [The Rise of AI](#the-rise-of-ai)
+      - [The Evolution of AI: From Algorithms to Neural Networks](#the-evolution-of-ai-from-algorithms-to-neural-networks)
+      - [Key Players in the AI Landscape](#key-players-in-the-ai-landscape)
+      - [Defining AI Supremacy](#defining-ai-supremacy)
+    - [Overview of OpenAI, Anthropic, and Google](#overview-of-openai-anthropic-and-google)
+      - [Company Histories and Milestones](#company-histories-and-milestones)
+      - [Core Technologies and Innovations](#core-technologies-and-innovations)
+      - [Business Models and Market Strategies](#business-models-and-market-strategies)
+  - [Competitive Analysis](#competitive-analysis)
+    - [Strengths and Weaknesses](#strengths-and-weaknesses)
+      - [OpenAI's Unique Offerings](#openais-unique-offerings)
+      - [Anthropic's Ethical Focus](#anthropics-ethical-focus)
+      - [Google's Technological Dominance](#googles-technological-dominance)
+    - [Market Positioning](#market-positioning)
+      - [Comparative Analysis of Market Share](#comparative-analysis-of-market-share)
+      - [Strategic Partnerships and Alliances](#strategic-partnerships-and-alliances)
+      - [Emerging Competitors](#emerging-competitors)
+  - [Ethical Implications](#ethical-implications)
+    - [Moral Dilemmas in AI](#moral-dilemmas-in-ai)
+      - [Bias and Fairness in AI Systems](#bias-and-fairness-in-ai-systems)
+      - [Privacy Concerns and Data Security](#privacy-concerns-and-data-security)
+      - [Impact on Workforce Dynamics and Economy](#impact-on-workforce-dynamics-and-economy)
+    - [Societal Impacts](#societal-impacts)
+      - [Public Perception of AI](#public-perception-of-ai)
+      - [Regulatory Challenges](#regulatory-challenges)
+      - [Ethical Frameworks in AI Development](#ethical-frameworks-in-ai-development)
+  - [Future Trends in AI](#future-trends-in-ai)
+    - [Emerging Trends](#emerging-trends)
+      - [Advancements in AI Technologies](#advancements-in-ai-technologies)
+      - [Shifts in Regulatory Frameworks](#shifts-in-regulatory-frameworks)
+      - [Collaboration vs. Competition](#collaboration-vs-competition)
+    - [Predictions for the Future](#predictions-for-the-future)
+      - [Potential Scenarios for AI Development](#potential-scenarios-for-ai-development)
+      - [Impact on Global Economy](#impact-on-global-economy)
+      - [Role of AI in Society](#role-of-ai-in-society)
+  - [Case Studies](#case-studies)
+    - [Success Stories](#success-stories)
+      - [OpenAI's ChatGPT in Customer Service](#openais-chatgpt-in-customer-service)
+      - [Anthropic's AI in Healthcare](#anthropics-ai-in-healthcare)
+      - [Google's AI in Search Optimization](#googles-ai-in-search-optimization)
+    - [Lessons from Failures](#lessons-from-failures)
+      - [OpenAI's Missteps in Public Perception](#openais-missteps-in-public-perception)
+      - [Anthropic's Challenges in Scaling](#anthropics-challenges-in-scaling)
+      - [Google's Controversies in AI Ethics](#googles-controversies-in-ai-ethics)
+  - [Methodologies for Analysis](#methodologies-for-analysis)
+    - [Strategic Frameworks](#strategic-frameworks)
+      - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [Applying Wardley Mapping to AI Companies](#applying-wardley-mapping-to-ai-companies)
+      - [Visualising Competitive Landscapes](#visualising-competitive-landscapes)
+    - [Analytical Tools](#analytical-tools)
+      - [SWOT Analysis of Key Players](#swot-analysis-of-key-players)
+      - [PESTLE Analysis for AI Trends](#pestle-analysis-for-ai-trends)
+      - [Scenario Planning for Future Developments](#scenario-planning-for-future-developments)
+  - [Conclusion: The Future of AI Supremacy](#conclusion-the-future-of-ai-supremacy)
+    - [Key Takeaways](#key-takeaways)
+      - [Summary of Competitive Dynamics](#summary-of-competitive-dynamics)
+      - [Ethical Considerations Moving Forward](#ethical-considerations-moving-forward)
+      - [Future Outlook for AI Development](#future-outlook-for-ai-development)
+    - [Call to Action](#call-to-action)
+      - [Encouraging Responsible AI Development](#encouraging-responsible-ai-development)
+      - [Promoting Collaboration in the AI Community](#promoting-collaboration-in-the-ai-community)
+      - [Engaging Policymakers and Stakeholders](#engaging-policymakers-and-stakeholders)
 
 
 ## Introduction to AI Supremacy

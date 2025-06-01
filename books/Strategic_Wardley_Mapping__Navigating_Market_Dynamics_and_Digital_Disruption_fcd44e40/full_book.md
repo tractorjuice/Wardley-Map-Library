@@ -2,60 +2,60 @@
 
 # Table of Contents
 
-- Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption
-  - Introduction: The Evolution of Strategic Visualization
-    - The Modern Strategic Landscape
-      - Challenges of Traditional Strategic Planning
-      - The Need for Dynamic Strategy Tools
-      - Introduction to Wardley Mapping Principles
-    - Understanding Value Chain Dynamics
-      - Components of Value Creation
-      - Evolution and Movement
-      - Mapping Business Landscapes
-  - Mastering Wardley Mapping Fundamentals
-    - Core Components and Visualization
-      - Map Components and Structure
-      - Evolution Axes and Movement
-      - Dependencies and Anchoring
-      - Modern Visualization Techniques
-    - Building Your First Maps
-      - Identifying User Needs
-      - Mapping Value Chains
-      - Understanding Component Evolution
-      - Common Pitfalls and Solutions
-  - Competitive Intelligence and Market Positioning
-    - Market Analysis Through Mapping
-      - Competitor Landscape Mapping
-      - Identifying Strategic Opportunities
-      - Market Evolution Patterns
-      - Positioning for Advantage
-    - Industry Case Studies
-      - Technology Sector Analysis
-      - Retail Transformation Maps
-      - Financial Services Evolution
-      - Cross-Industry Insights
-  - Digital Transformation and Technology Stack Evolution
-    - Mapping Digital Transformation
-      - Technology Stack Analysis
-      - Legacy System Evolution
-      - Cloud Migration Mapping
-      - Innovation Opportunity Spotting
-    - Implementation Strategies
-      - Change Management Through Mapping
-      - Resource Allocation
-      - Risk Assessment
-      - Measuring Transformation Success
-  - Strategic Framework Integration and Future-Proofing
-    - Integrating Strategic Frameworks
-      - Blue Ocean Strategy Integration
-      - Jobs-to-be-Done Analysis
-      - Platform Strategy Mapping
-      - Creating Hybrid Approaches
-    - Future-Proofing Organizations
-      - Anticipating Market Changes
-      - Building Strategic Awareness
-      - Adaptive Planning Methods
-      - Long-term Resilience Building
+- [Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption](#strategic-wardley-mapping-navigating-market-dynamics-and-digital-disruption)
+  - [Introduction: The Evolution of Strategic Visualization](#introduction-the-evolution-of-strategic-visualization)
+    - [The Modern Strategic Landscape](#the-modern-strategic-landscape)
+      - [Challenges of Traditional Strategic Planning](#challenges-of-traditional-strategic-planning)
+      - [The Need for Dynamic Strategy Tools](#the-need-for-dynamic-strategy-tools)
+      - [Introduction to Wardley Mapping Principles](#introduction-to-wardley-mapping-principles)
+    - [Understanding Value Chain Dynamics](#understanding-value-chain-dynamics)
+      - [Components of Value Creation](#components-of-value-creation)
+      - [Evolution and Movement](#evolution-and-movement)
+      - [Mapping Business Landscapes](#mapping-business-landscapes)
+  - [Mastering Wardley Mapping Fundamentals](#mastering-wardley-mapping-fundamentals)
+    - [Core Components and Visualization](#core-components-and-visualization)
+      - [Map Components and Structure](#map-components-and-structure)
+      - [Evolution Axes and Movement](#evolution-axes-and-movement)
+      - [Dependencies and Anchoring](#dependencies-and-anchoring)
+      - [Modern Visualization Techniques](#modern-visualization-techniques)
+    - [Building Your First Maps](#building-your-first-maps)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Value Chains](#mapping-value-chains)
+      - [Understanding Component Evolution](#understanding-component-evolution)
+      - [Common Pitfalls and Solutions](#common-pitfalls-and-solutions)
+  - [Competitive Intelligence and Market Positioning](#competitive-intelligence-and-market-positioning)
+    - [Market Analysis Through Mapping](#market-analysis-through-mapping)
+      - [Competitor Landscape Mapping](#competitor-landscape-mapping)
+      - [Identifying Strategic Opportunities](#identifying-strategic-opportunities)
+      - [Market Evolution Patterns](#market-evolution-patterns)
+      - [Positioning for Advantage](#positioning-for-advantage)
+    - [Industry Case Studies](#industry-case-studies)
+      - [Technology Sector Analysis](#technology-sector-analysis)
+      - [Retail Transformation Maps](#retail-transformation-maps)
+      - [Financial Services Evolution](#financial-services-evolution)
+      - [Cross-Industry Insights](#cross-industry-insights)
+  - [Digital Transformation and Technology Stack Evolution](#digital-transformation-and-technology-stack-evolution)
+    - [Mapping Digital Transformation](#mapping-digital-transformation)
+      - [Technology Stack Analysis](#technology-stack-analysis)
+      - [Legacy System Evolution](#legacy-system-evolution)
+      - [Cloud Migration Mapping](#cloud-migration-mapping)
+      - [Innovation Opportunity Spotting](#innovation-opportunity-spotting)
+    - [Implementation Strategies](#implementation-strategies)
+      - [Change Management Through Mapping](#change-management-through-mapping)
+      - [Resource Allocation](#resource-allocation)
+      - [Risk Assessment](#risk-assessment)
+      - [Measuring Transformation Success](#measuring-transformation-success)
+  - [Strategic Framework Integration and Future-Proofing](#strategic-framework-integration-and-future-proofing)
+    - [Integrating Strategic Frameworks](#integrating-strategic-frameworks)
+      - [Blue Ocean Strategy Integration](#blue-ocean-strategy-integration)
+      - [Jobs-to-be-Done Analysis](#jobs-to-be-done-analysis)
+      - [Platform Strategy Mapping](#platform-strategy-mapping)
+      - [Creating Hybrid Approaches](#creating-hybrid-approaches)
+    - [Future-Proofing Organizations](#future-proofing-organizations)
+      - [Anticipating Market Changes](#anticipating-market-changes)
+      - [Building Strategic Awareness](#building-strategic-awareness)
+      - [Adaptive Planning Methods](#adaptive-planning-methods)
+      - [Long-term Resilience Building](#long-term-resilience-building)
 
 
 ## Introduction: The Evolution of Strategic Visualization

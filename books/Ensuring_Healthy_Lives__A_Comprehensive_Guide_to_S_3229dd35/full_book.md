@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Ensuring Healthy Lives: A Comprehensive Guide to SDG 3
-  - Overview of SDG 3: Goals, Targets, and Global Context
-    - Understanding SDG 3
-      - The Importance of Health and Well-Being
-      - Key Goals and Targets of SDG 3
-      - Global Context: Health Disparities and Challenges
-    - The Role of International Frameworks
-      - WHO's Role in Global Health
-      - The Impact of Global Partnerships
-      - Monitoring Progress: Indicators and Data
-  - Innovative Health Solutions: Technology, Telemedicine, and Community Health Models
-    - The Rise of Digital Health
-      - Telemedicine: Bridging the Gap
-      - Mobile Health Applications: Empowering Patients
-      - Data Analytics in Health Care
-    - Community Health Models
-      - Community Health Workers: A Vital Resource
-      - Participatory Health Approaches
-      - Integrating Traditional and Modern Medicine
-  - Case Studies: Successful Implementations of SDG 3 in Various Countries
-    - Innovative Approaches in Low-Income Countries
-      - Case Study: Health Initiatives in Sub-Saharan Africa
-      - Lessons from India: Health and Technology Integration
-      - Community-Led Health Solutions in Latin America
-    - High-Income Countries: Best Practices
-      - Case Study: Universal Health Coverage in Scandinavia
-      - Mental Health Strategies in the UK
-      - Preventive Health Measures in Japan
-  - Cross-Disciplinary Approaches: Insights from Public Health, Economics, and Environmental Science
-    - Public Health Perspectives
-      - Epidemiology and Disease Prevention
-      - Health Education and Promotion
-      - The Role of Policy in Public Health
-    - Economic Implications of Health
-      - The Cost of Inaction: Economic Burden of Poor Health
-      - Investing in Health: Economic Returns
-      - Health Equity and Economic Growth
-    - Environmental Health
-      - Climate Change and Health Outcomes
-      - Sustainable Practices for Health Improvement
-      - The Intersection of Environmental and Public Health
-  - Engaging Communities: Strategies for Grassroots Involvement and Advocacy
-    - Building Community Capacity
-      - Empowering Local Leaders
-      - Training and Resources for Community Health Workers
-      - Creating Support Networks
-    - Advocacy and Policy Change
-      - Grassroots Movements: Case Studies
-      - Engaging Policymakers: Strategies for Success
-      - The Role of Media in Health Advocacy
+- [Ensuring Healthy Lives: A Comprehensive Guide to SDG 3](#ensuring-healthy-lives-a-comprehensive-guide-to-sdg-3)
+  - [Overview of SDG 3: Goals, Targets, and Global Context](#overview-of-sdg-3-goals-targets-and-global-context)
+    - [Understanding SDG 3](#understanding-sdg-3)
+      - [The Importance of Health and Well-Being](#the-importance-of-health-and-well-being)
+      - [Key Goals and Targets of SDG 3](#key-goals-and-targets-of-sdg-3)
+      - [Global Context: Health Disparities and Challenges](#global-context-health-disparities-and-challenges)
+    - [The Role of International Frameworks](#the-role-of-international-frameworks)
+      - [WHO's Role in Global Health](#whos-role-in-global-health)
+      - [The Impact of Global Partnerships](#the-impact-of-global-partnerships)
+      - [Monitoring Progress: Indicators and Data](#monitoring-progress-indicators-and-data)
+  - [Innovative Health Solutions: Technology, Telemedicine, and Community Health Models](#innovative-health-solutions-technology-telemedicine-and-community-health-models)
+    - [The Rise of Digital Health](#the-rise-of-digital-health)
+      - [Telemedicine: Bridging the Gap](#telemedicine-bridging-the-gap)
+      - [Mobile Health Applications: Empowering Patients](#mobile-health-applications-empowering-patients)
+      - [Data Analytics in Health Care](#data-analytics-in-health-care)
+    - [Community Health Models](#community-health-models)
+      - [Community Health Workers: A Vital Resource](#community-health-workers-a-vital-resource)
+      - [Participatory Health Approaches](#participatory-health-approaches)
+      - [Integrating Traditional and Modern Medicine](#integrating-traditional-and-modern-medicine)
+  - [Case Studies: Successful Implementations of SDG 3 in Various Countries](#case-studies-successful-implementations-of-sdg-3-in-various-countries)
+    - [Innovative Approaches in Low-Income Countries](#innovative-approaches-in-low-income-countries)
+      - [Case Study: Health Initiatives in Sub-Saharan Africa](#case-study-health-initiatives-in-sub-saharan-africa)
+      - [Lessons from India: Health and Technology Integration](#lessons-from-india-health-and-technology-integration)
+      - [Community-Led Health Solutions in Latin America](#community-led-health-solutions-in-latin-america)
+    - [High-Income Countries: Best Practices](#high-income-countries-best-practices)
+      - [Case Study: Universal Health Coverage in Scandinavia](#case-study-universal-health-coverage-in-scandinavia)
+      - [Mental Health Strategies in the UK](#mental-health-strategies-in-the-uk)
+      - [Preventive Health Measures in Japan](#preventive-health-measures-in-japan)
+  - [Cross-Disciplinary Approaches: Insights from Public Health, Economics, and Environmental Science](#cross-disciplinary-approaches-insights-from-public-health-economics-and-environmental-science)
+    - [Public Health Perspectives](#public-health-perspectives)
+      - [Epidemiology and Disease Prevention](#epidemiology-and-disease-prevention)
+      - [Health Education and Promotion](#health-education-and-promotion)
+      - [The Role of Policy in Public Health](#the-role-of-policy-in-public-health)
+    - [Economic Implications of Health](#economic-implications-of-health)
+      - [The Cost of Inaction: Economic Burden of Poor Health](#the-cost-of-inaction-economic-burden-of-poor-health)
+      - [Investing in Health: Economic Returns](#investing-in-health-economic-returns)
+      - [Health Equity and Economic Growth](#health-equity-and-economic-growth)
+    - [Environmental Health](#environmental-health)
+      - [Climate Change and Health Outcomes](#climate-change-and-health-outcomes)
+      - [Sustainable Practices for Health Improvement](#sustainable-practices-for-health-improvement)
+      - [The Intersection of Environmental and Public Health](#the-intersection-of-environmental-and-public-health)
+  - [Engaging Communities: Strategies for Grassroots Involvement and Advocacy](#engaging-communities-strategies-for-grassroots-involvement-and-advocacy)
+    - [Building Community Capacity](#building-community-capacity)
+      - [Empowering Local Leaders](#empowering-local-leaders)
+      - [Training and Resources for Community Health Workers](#training-and-resources-for-community-health-workers)
+      - [Creating Support Networks](#creating-support-networks)
+    - [Advocacy and Policy Change](#advocacy-and-policy-change)
+      - [Grassroots Movements: Case Studies](#grassroots-movements-case-studies)
+      - [Engaging Policymakers: Strategies for Success](#engaging-policymakers-strategies-for-success)
+      - [The Role of Media in Health Advocacy](#the-role-of-media-in-health-advocacy)
 
 
 ## Overview of SDG 3: Goals, Targets, and Global Context

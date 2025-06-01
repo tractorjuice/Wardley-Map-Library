@@ -2,75 +2,75 @@
 
 # Table of Contents
 
-- Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide
-  - Understanding Wardley Mapping: Core Concepts and Principles
-    - Introduction to Wardley Mapping
-      - What is Wardley Mapping and Why is it Important?
-      - History and Context: Comparing Wardley Mapping to Traditional Strategy Techniques
-      - Key Terminology: A Glossary of Essential Wardley Mapping Terms
-    - The Core Components of a Wardley Map
-      - Value Chains: Defining User Needs and Building the Chain
-      - Anchors: Identifying Key Components and Their Position
-      - Climate: Understanding Environmental Forces and Their Impact
-      - Doctrine: Applying Universal Principles for Strategic Advantage
-    - Evolution: Mapping the Landscape of Change
-      - Understanding the Stages of Evolution: Genesis, Custom-Built, Product, Commodity
-      - Visualising Evolution on the Map
-      - The Impact of Evolution on Strategy
-  - Practical Application: Building and Interpreting Wardley Maps
-    - Creating Your First Wardley Map: A Step-by-Step Guide
-      - Identifying the User and Their Needs
-      - Building the Value Chain: From User Need to Component
-      - Positioning Components on the Evolution Axis
-      - Adding Climate and Doctrine to the Map
-    - Interpreting Wardley Maps: Strategic Insights and Decision Making
-      - Identifying Areas for Investment and Innovation
-      - Recognising Opportunities for Outsourcing
-      - Anticipating Future Changes and Adapting Strategy
-      - Using Maps to Communicate Strategic Vision
-    - Scenario Analysis: Applying Wardley Mapping to Real-World Situations
-      - Case Study 1: Disrupting an Existing Market
-      - Case Study 2: Building a New Product or Service
-      - Case Study 3: Responding to Competitive Threats
-      - Developing Your Own Scenario Analysis Skills
-  - Exam Preparation: Mastering the Foundation in Wardley Mapping Exam
-    - Exam Structure and Content
-      - Understanding the Exam Format: Multiple Choice Questions
-      - Key Topics Covered in the Exam Syllabus
-      - Bloom's Taxonomy and its Relevance to Exam Questions (Levels 1 & 2)
-      - Time Management Strategies for the Exam
-    - Practice Questions and Answers
-      - Sample Questions Covering Core Concepts
-      - Sample Questions Focusing on Practical Application
-      - Detailed Explanations of Correct Answers
-      - Identifying Common Mistakes and How to Avoid Them
-    - Exam-Taking Strategies and Tips
-      - Understanding Question Types and Answering Strategies
-      - How to Approach Tricky or Ambiguous Questions
-      - Dealing with Exam Anxiety and Maintaining Focus
-      - Final Checklist Before the Exam
-  - Common Pitfalls and Advanced Considerations
-    - Addressing Common Misconceptions
-      - Debunking Myths About Wardley Mapping
-      - Clarifying Confusing Concepts
-      - Avoiding Common Mistakes in Map Creation and Interpretation
-    - Connecting Wardley Mapping to Business Strategy
-      - Integrating Wardley Mapping into Strategic Planning Processes
-      - Using Wardley Mapping to Drive Innovation
-      - Aligning Wardley Mapping with Organisational Goals
-    - The Strategy Lifecycle
-      - Understanding the different stages
-      - How Wardley Mapping can be used at each stage
-      - Adapting to change
-  - Conclusion: Your Journey with Wardley Mapping
-    - Recap of Key Concepts and Principles
-      - Reinforcing the Fundamentals of Wardley Mapping
-      - Highlighting the Importance of Continuous Learning
-      - Encouraging Further Exploration and Application
-    - Resources for Continued Learning
-      - Recommended Books and Articles
-      - Online Communities and Forums
-      - Wardley Mapping Tools and Software
+- [Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide](#ace-your-foundation-in-wardley-mapping-exam-a-comprehensive-study-guide)
+  - [Understanding Wardley Mapping: Core Concepts and Principles](#understanding-wardley-mapping-core-concepts-and-principles)
+    - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [What is Wardley Mapping and Why is it Important?](#what-is-wardley-mapping-and-why-is-it-important)
+      - [History and Context: Comparing Wardley Mapping to Traditional Strategy Techniques](#history-and-context-comparing-wardley-mapping-to-traditional-strategy-techniques)
+      - [Key Terminology: A Glossary of Essential Wardley Mapping Terms](#key-terminology-a-glossary-of-essential-wardley-mapping-terms)
+    - [The Core Components of a Wardley Map](#the-core-components-of-a-wardley-map)
+      - [Value Chains: Defining User Needs and Building the Chain](#value-chains-defining-user-needs-and-building-the-chain)
+      - [Anchors: Identifying Key Components and Their Position](#anchors-identifying-key-components-and-their-position)
+      - [Climate: Understanding Environmental Forces and Their Impact](#climate-understanding-environmental-forces-and-their-impact)
+      - [Doctrine: Applying Universal Principles for Strategic Advantage](#doctrine-applying-universal-principles-for-strategic-advantage)
+    - [Evolution: Mapping the Landscape of Change](#evolution-mapping-the-landscape-of-change)
+      - [Understanding the Stages of Evolution: Genesis, Custom-Built, Product, Commodity](#understanding-the-stages-of-evolution-genesis-custom-built-product-commodity)
+      - [Visualising Evolution on the Map](#visualising-evolution-on-the-map)
+      - [The Impact of Evolution on Strategy](#the-impact-of-evolution-on-strategy)
+  - [Practical Application: Building and Interpreting Wardley Maps](#practical-application-building-and-interpreting-wardley-maps)
+    - [Creating Your First Wardley Map: A Step-by-Step Guide](#creating-your-first-wardley-map-a-step-by-step-guide)
+      - [Identifying the User and Their Needs](#identifying-the-user-and-their-needs)
+      - [Building the Value Chain: From User Need to Component](#building-the-value-chain-from-user-need-to-component)
+      - [Positioning Components on the Evolution Axis](#positioning-components-on-the-evolution-axis)
+      - [Adding Climate and Doctrine to the Map](#adding-climate-and-doctrine-to-the-map)
+    - [Interpreting Wardley Maps: Strategic Insights and Decision Making](#interpreting-wardley-maps-strategic-insights-and-decision-making)
+      - [Identifying Areas for Investment and Innovation](#identifying-areas-for-investment-and-innovation)
+      - [Recognising Opportunities for Outsourcing](#recognising-opportunities-for-outsourcing)
+      - [Anticipating Future Changes and Adapting Strategy](#anticipating-future-changes-and-adapting-strategy)
+      - [Using Maps to Communicate Strategic Vision](#using-maps-to-communicate-strategic-vision)
+    - [Scenario Analysis: Applying Wardley Mapping to Real-World Situations](#scenario-analysis-applying-wardley-mapping-to-real-world-situations)
+      - [Case Study 1: Disrupting an Existing Market](#case-study-1-disrupting-an-existing-market)
+      - [Case Study 2: Building a New Product or Service](#case-study-2-building-a-new-product-or-service)
+      - [Case Study 3: Responding to Competitive Threats](#case-study-3-responding-to-competitive-threats)
+      - [Developing Your Own Scenario Analysis Skills](#developing-your-own-scenario-analysis-skills)
+  - [Exam Preparation: Mastering the Foundation in Wardley Mapping Exam](#exam-preparation-mastering-the-foundation-in-wardley-mapping-exam)
+    - [Exam Structure and Content](#exam-structure-and-content)
+      - [Understanding the Exam Format: Multiple Choice Questions](#understanding-the-exam-format-multiple-choice-questions)
+      - [Key Topics Covered in the Exam Syllabus](#key-topics-covered-in-the-exam-syllabus)
+      - [Bloom's Taxonomy and its Relevance to Exam Questions (Levels 1 & 2)](#blooms-taxonomy-and-its-relevance-to-exam-questions-levels-1-2)
+      - [Time Management Strategies for the Exam](#time-management-strategies-for-the-exam)
+    - [Practice Questions and Answers](#practice-questions-and-answers)
+      - [Sample Questions Covering Core Concepts](#sample-questions-covering-core-concepts)
+      - [Sample Questions Focusing on Practical Application](#sample-questions-focusing-on-practical-application)
+      - [Detailed Explanations of Correct Answers](#detailed-explanations-of-correct-answers)
+      - [Identifying Common Mistakes and How to Avoid Them](#identifying-common-mistakes-and-how-to-avoid-them)
+    - [Exam-Taking Strategies and Tips](#exam-taking-strategies-and-tips)
+      - [Understanding Question Types and Answering Strategies](#understanding-question-types-and-answering-strategies)
+      - [How to Approach Tricky or Ambiguous Questions](#how-to-approach-tricky-or-ambiguous-questions)
+      - [Dealing with Exam Anxiety and Maintaining Focus](#dealing-with-exam-anxiety-and-maintaining-focus)
+      - [Final Checklist Before the Exam](#final-checklist-before-the-exam)
+  - [Common Pitfalls and Advanced Considerations](#common-pitfalls-and-advanced-considerations)
+    - [Addressing Common Misconceptions](#addressing-common-misconceptions)
+      - [Debunking Myths About Wardley Mapping](#debunking-myths-about-wardley-mapping)
+      - [Clarifying Confusing Concepts](#clarifying-confusing-concepts)
+      - [Avoiding Common Mistakes in Map Creation and Interpretation](#avoiding-common-mistakes-in-map-creation-and-interpretation)
+    - [Connecting Wardley Mapping to Business Strategy](#connecting-wardley-mapping-to-business-strategy)
+      - [Integrating Wardley Mapping into Strategic Planning Processes](#integrating-wardley-mapping-into-strategic-planning-processes)
+      - [Using Wardley Mapping to Drive Innovation](#using-wardley-mapping-to-drive-innovation)
+      - [Aligning Wardley Mapping with Organisational Goals](#aligning-wardley-mapping-with-organisational-goals)
+    - [The Strategy Lifecycle](#the-strategy-lifecycle)
+      - [Understanding the different stages](#understanding-the-different-stages)
+      - [How Wardley Mapping can be used at each stage](#how-wardley-mapping-can-be-used-at-each-stage)
+      - [Adapting to change](#adapting-to-change)
+  - [Conclusion: Your Journey with Wardley Mapping](#conclusion-your-journey-with-wardley-mapping)
+    - [Recap of Key Concepts and Principles](#recap-of-key-concepts-and-principles)
+      - [Reinforcing the Fundamentals of Wardley Mapping](#reinforcing-the-fundamentals-of-wardley-mapping)
+      - [Highlighting the Importance of Continuous Learning](#highlighting-the-importance-of-continuous-learning)
+      - [Encouraging Further Exploration and Application](#encouraging-further-exploration-and-application)
+    - [Resources for Continued Learning](#resources-for-continued-learning)
+      - [Recommended Books and Articles](#recommended-books-and-articles)
+      - [Online Communities and Forums](#online-communities-and-forums)
+      - [Wardley Mapping Tools and Software](#wardley-mapping-tools-and-software)
 
 
 ## Understanding Wardley Mapping: Core Concepts and Principles

@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action
-  - Introduction: Understanding Life Below Water
-    - The State of Our Oceans
-      - Current Global Ocean Health Assessment
-      - Key Challenges and Threats
-      - SDG 14 Targets and Indicators
-    - Marine Ecosystems and Biodiversity
-      - Critical Marine Habitats
-      - Endangered Marine Species
-      - Ecosystem Services and Human Well-being
-  - Marine Conservation Science and Technology
-    - Advanced Ocean Monitoring Systems
-      - Satellite Technology and Remote Sensing
-      - Marine Data Collection Networks
-      - Artificial Intelligence in Ocean Monitoring
-    - Tackling Marine Pollution
-      - Innovative Plastic Removal Technologies
-      - Chemical Pollution Prevention
-      - Microplastics Detection and Mitigation
-    - Ecosystem Restoration Techniques
-      - Coral Reef Rehabilitation
-      - Mangrove and Seagrass Restoration
-      - Marine Species Recovery Programs
-  - Sustainable Blue Economy
-    - Responsible Fishing Practices
-      - Sustainable Fishing Technologies
-      - Stock Assessment and Management
-      - Small-scale Fisheries Support
-    - Innovative Aquaculture
-      - Sustainable Feed Solutions
-      - Integrated Multi-trophic Aquaculture
-      - Disease Management and Prevention
-    - Emerging Ocean Industries
-      - Marine Biotechnology Advances
-      - Offshore Renewable Energy
-      - Sustainable Marine Tourism
-  - Climate Change and Ocean Resilience
-    - Ocean-Climate Interactions
-      - Ocean Acidification Impacts
-      - Sea Level Rise Challenges
-      - Marine Heat Waves
-    - Adaptation Strategies
-      - Coastal Infrastructure Solutions
-      - Ecosystem-based Adaptation
-      - Climate-resilient Marine Protected Areas
-  - Community Action and Governance
-    - Local Marine Conservation Initiatives
-      - Community-led Projects
-      - Indigenous Ocean Management
-      - Educational Outreach Programs
-    - Policy Frameworks
-      - International Maritime Laws
-      - Regional Cooperation Mechanisms
-      - National Implementation Strategies
-    - Future Directions
-      - Emerging Opportunities
-      - Research Priorities
-      - Call to Action
+- [Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action](#oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action)
+  - [Introduction: Understanding Life Below Water](#introduction-understanding-life-below-water)
+    - [The State of Our Oceans](#the-state-of-our-oceans)
+      - [Current Global Ocean Health Assessment](#current-global-ocean-health-assessment)
+      - [Key Challenges and Threats](#key-challenges-and-threats)
+      - [SDG 14 Targets and Indicators](#sdg-14-targets-and-indicators)
+    - [Marine Ecosystems and Biodiversity](#marine-ecosystems-and-biodiversity)
+      - [Critical Marine Habitats](#critical-marine-habitats)
+      - [Endangered Marine Species](#endangered-marine-species)
+      - [Ecosystem Services and Human Well-being](#ecosystem-services-and-human-well-being)
+  - [Marine Conservation Science and Technology](#marine-conservation-science-and-technology)
+    - [Advanced Ocean Monitoring Systems](#advanced-ocean-monitoring-systems)
+      - [Satellite Technology and Remote Sensing](#satellite-technology-and-remote-sensing)
+      - [Marine Data Collection Networks](#marine-data-collection-networks)
+      - [Artificial Intelligence in Ocean Monitoring](#artificial-intelligence-in-ocean-monitoring)
+    - [Tackling Marine Pollution](#tackling-marine-pollution)
+      - [Innovative Plastic Removal Technologies](#innovative-plastic-removal-technologies)
+      - [Chemical Pollution Prevention](#chemical-pollution-prevention)
+      - [Microplastics Detection and Mitigation](#microplastics-detection-and-mitigation)
+    - [Ecosystem Restoration Techniques](#ecosystem-restoration-techniques)
+      - [Coral Reef Rehabilitation](#coral-reef-rehabilitation)
+      - [Mangrove and Seagrass Restoration](#mangrove-and-seagrass-restoration)
+      - [Marine Species Recovery Programs](#marine-species-recovery-programs)
+  - [Sustainable Blue Economy](#sustainable-blue-economy)
+    - [Responsible Fishing Practices](#responsible-fishing-practices)
+      - [Sustainable Fishing Technologies](#sustainable-fishing-technologies)
+      - [Stock Assessment and Management](#stock-assessment-and-management)
+      - [Small-scale Fisheries Support](#small-scale-fisheries-support)
+    - [Innovative Aquaculture](#innovative-aquaculture)
+      - [Sustainable Feed Solutions](#sustainable-feed-solutions)
+      - [Integrated Multi-trophic Aquaculture](#integrated-multi-trophic-aquaculture)
+      - [Disease Management and Prevention](#disease-management-and-prevention)
+    - [Emerging Ocean Industries](#emerging-ocean-industries)
+      - [Marine Biotechnology Advances](#marine-biotechnology-advances)
+      - [Offshore Renewable Energy](#offshore-renewable-energy)
+      - [Sustainable Marine Tourism](#sustainable-marine-tourism)
+  - [Climate Change and Ocean Resilience](#climate-change-and-ocean-resilience)
+    - [Ocean-Climate Interactions](#ocean-climate-interactions)
+      - [Ocean Acidification Impacts](#ocean-acidification-impacts)
+      - [Sea Level Rise Challenges](#sea-level-rise-challenges)
+      - [Marine Heat Waves](#marine-heat-waves)
+    - [Adaptation Strategies](#adaptation-strategies)
+      - [Coastal Infrastructure Solutions](#coastal-infrastructure-solutions)
+      - [Ecosystem-based Adaptation](#ecosystem-based-adaptation)
+      - [Climate-resilient Marine Protected Areas](#climate-resilient-marine-protected-areas)
+  - [Community Action and Governance](#community-action-and-governance)
+    - [Local Marine Conservation Initiatives](#local-marine-conservation-initiatives)
+      - [Community-led Projects](#community-led-projects)
+      - [Indigenous Ocean Management](#indigenous-ocean-management)
+      - [Educational Outreach Programs](#educational-outreach-programs)
+    - [Policy Frameworks](#policy-frameworks)
+      - [International Maritime Laws](#international-maritime-laws)
+      - [Regional Cooperation Mechanisms](#regional-cooperation-mechanisms)
+      - [National Implementation Strategies](#national-implementation-strategies)
+    - [Future Directions](#future-directions)
+      - [Emerging Opportunities](#emerging-opportunities)
+      - [Research Priorities](#research-priorities)
+      - [Call to Action](#call-to-action)
 
 
 ## Introduction: Understanding Life Below Water

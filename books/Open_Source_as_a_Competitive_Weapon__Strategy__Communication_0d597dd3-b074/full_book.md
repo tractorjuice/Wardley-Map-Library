@@ -2,131 +2,131 @@
 
 # Table of Contents
 
-- Open Source as a Competitive Weapon: Strategy, Community and Business Insight
-  - Introduction: The Rise of Open Source as a Board‑Level Asset
-    - From Hobby to Strategy
-      - The evolution of open source in enterprise
-      - Why boards now care about open source
-      - Defining open source as a competitive weapon
-    - Key Themes and Structure of This Book
-      - Overview of strategic frameworks
-      - Community governance and health
-      - Business models and IP considerations
-      - Cross‑disciplinary insights and toolkits
-      - How to use the case studies and workshops
-  - Chapter 1: Strategic Frameworks and Cross‑Disciplinary Foundations
-    - Wardley Mapping for Open Source Advantage
-      - Core concepts of Wardley Mapping
-      - Mapping an open source ecosystem
-      - Identifying strategic plays and migrations
-    - Porter’s Five Forces Meets Lean Startup
-      - Adapting Porter’s model to communities
-      - Lean Startup principles in open source projects
-      - Integrating both frameworks for maximum insight
-    - Cross‑Disciplinary Lenses
-      - Economic public‑goods theory and commons management
-      - Organisational sociology of collaborative projects
-      - Network science: understanding ecosystem topology
-      - Behavioural psychology: motivating contributors
-  - Chapter 2: Building and Governing High‑Impact Communities
-    - Selecting and Evolving Governance Models
-      - Benevolent dictator vs foundation models
-      - Hybrid governance approaches
-      - Criteria for model selection
-    - Contributor Onboarding and Retention
-      - Crafting clear contribution pathways
-  - Sample CONTRIBUTING.md
-    - 1. Get the code
-    - 2. Choose an issue
-    - 3. Submit a pull request
-    - 4. Automated checks
-    - 5. Review and merge
-      - Mentorship and documentation best practices
-      - Incentives, recognition and long‑term engagement
-    - Measuring Community Health
-      - Key health metrics and indicators
-      - Building and using community dashboards
-- Sample dashboard configuration
-      - Continuous iteration based on data
-    - Conflict Resolution and Cultural Stewardship
-      - Common conflict scenarios
-      - Frameworks for mediation and resolution
-- Sample RACI escalation snippet
-      - Maintaining a positive community culture
-  - Chapter 3: Business Models, Monetisation and IP Management
-    - Open Core and Dual Licensing Strategies
-      - Designing an open core offering
-      - Mechanics and economics of dual licensing
-      - Risks, rewards and case comparisons
-    - Support, Services and Platform Plays
-      - Consulting, training and support models
-      - SaaS and hosted platform strategies
-      - Upsell and integration pathways
-- Sample integration module definition
-    - Navigating Licence Compliance and Patents
-      - Open source licence landscape
-      - Compliance tools and processes
-- Example GitLab CI job for licence scanning
-      - Defensive publishing and patent strategies
-    - Contributor Agreements and Legal Frameworks
-      - Contributor licence agreements (CLAs) vs developer certificate of origin (DCO)
-      - Best practices in legal onboarding
-      - Managing risk and liability
-  - Chapter 4: Case Studies in Strategic Open Source
-    - Elastic: Pivoting with Open Core
-      - Origins and business shift
-      - Community reactions and market impact
-      - Key strategic takeaways
-    - MongoDB’s Licensing Transformation
-      - From GPL to SSPL
-      - Competitive responses and ecosystem effects
-      - Lessons for licence strategy
-    - AWS’s Strategic Open Source Moves
-      - Contributions to key projects
-- Sample tracking of AWS open source contributions
-      - Balancing competition and collaboration
-      - Analysing ecosystem influence
-    - Synthesising Lessons Learned
-      - Cross‑case patterns
-      - Common pitfalls and success factors
-      - Translating insights to your context
-  - Chapter 5: Practical Toolkits and Workshops
-    - Wardley Mapping Workshop
-      - Workshop materials and setup
-      - Step‑by‑step mapping exercises
-      - Interpreting and actioning your map
-    - Community Health Dashboard Templates
-      - Selecting metrics and KPIs
-- Sample KPI configuration for community dashboard
-      - Dashboard design patterns
-      - Customisation examples
-    - Open Source ROI Calculators
-      - Building a financial model
-      - Input data and assumptions
-      - Interpreting ROI scenarios
-    - Governance Assessment Toolkit
-      - Self‑assessment questionnaires
-      - Decision matrices for governance evolution
-      - Implementation planning
-  - Conclusion: Embedding Open Source as a Sustained Competitive Weapon
-    - Roadmap for Board‑Level Adoption
-      - Phased implementation plan
-      - Key milestones and metrics
-      - Cross‑functional alignment
-    - Building Organisational Buy‑In
-      - Crafting the executive narrative
-- Strategic Context
-- Open Source Opportunity
-- Evidence
-- Proposed Actions
-- Expected Outcomes
-      - Stakeholder engagement strategies
-      - Measuring and celebrating wins
-- Sample announcement in team channel
-    - Sustaining Momentum and Future Trends
-      - Continuous improvement loops
-      - Emerging open source trends (AI, edge, standards)
-      - Preparing for the next wave of disruption
+- [Open Source as a Competitive Weapon: Strategy, Community and Business Insight](#open-source-as-a-competitive-weapon-strategy-community-and-business-insight)
+  - [Introduction: The Rise of Open Source as a Board‑Level Asset](#introduction-the-rise-of-open-source-as-a-boardlevel-asset)
+    - [From Hobby to Strategy](#from-hobby-to-strategy)
+      - [The evolution of open source in enterprise](#the-evolution-of-open-source-in-enterprise)
+      - [Why boards now care about open source](#why-boards-now-care-about-open-source)
+      - [Defining open source as a competitive weapon](#defining-open-source-as-a-competitive-weapon)
+    - [Key Themes and Structure of This Book](#key-themes-and-structure-of-this-book)
+      - [Overview of strategic frameworks](#overview-of-strategic-frameworks)
+      - [Community governance and health](#community-governance-and-health)
+      - [Business models and IP considerations](#business-models-and-ip-considerations)
+      - [Cross‑disciplinary insights and toolkits](#crossdisciplinary-insights-and-toolkits)
+      - [How to use the case studies and workshops](#how-to-use-the-case-studies-and-workshops)
+  - [Chapter 1: Strategic Frameworks and Cross‑Disciplinary Foundations](#chapter-1-strategic-frameworks-and-crossdisciplinary-foundations)
+    - [Wardley Mapping for Open Source Advantage](#wardley-mapping-for-open-source-advantage)
+      - [Core concepts of Wardley Mapping](#core-concepts-of-wardley-mapping)
+      - [Mapping an open source ecosystem](#mapping-an-open-source-ecosystem)
+      - [Identifying strategic plays and migrations](#identifying-strategic-plays-and-migrations)
+    - [Porter’s Five Forces Meets Lean Startup](#porters-five-forces-meets-lean-startup)
+      - [Adapting Porter’s model to communities](#adapting-porters-model-to-communities)
+      - [Lean Startup principles in open source projects](#lean-startup-principles-in-open-source-projects)
+      - [Integrating both frameworks for maximum insight](#integrating-both-frameworks-for-maximum-insight)
+    - [Cross‑Disciplinary Lenses](#crossdisciplinary-lenses)
+      - [Economic public‑goods theory and commons management](#economic-publicgoods-theory-and-commons-management)
+      - [Organisational sociology of collaborative projects](#organisational-sociology-of-collaborative-projects)
+      - [Network science: understanding ecosystem topology](#network-science-understanding-ecosystem-topology)
+      - [Behavioural psychology: motivating contributors](#behavioural-psychology-motivating-contributors)
+  - [Chapter 2: Building and Governing High‑Impact Communities](#chapter-2-building-and-governing-highimpact-communities)
+    - [Selecting and Evolving Governance Models](#selecting-and-evolving-governance-models)
+      - [Benevolent dictator vs foundation models](#benevolent-dictator-vs-foundation-models)
+      - [Hybrid governance approaches](#hybrid-governance-approaches)
+      - [Criteria for model selection](#criteria-for-model-selection)
+    - [Contributor Onboarding and Retention](#contributor-onboarding-and-retention)
+      - [Crafting clear contribution pathways](#crafting-clear-contribution-pathways)
+  - [Sample CONTRIBUTING.md](#sample-contributingmd)
+    - [1. Get the code](#1-get-the-code)
+    - [2. Choose an issue](#2-choose-an-issue)
+    - [3. Submit a pull request](#3-submit-a-pull-request)
+    - [4. Automated checks](#4-automated-checks)
+    - [5. Review and merge](#5-review-and-merge)
+      - [Mentorship and documentation best practices](#mentorship-and-documentation-best-practices)
+      - [Incentives, recognition and long‑term engagement](#incentives-recognition-and-longterm-engagement)
+    - [Measuring Community Health](#measuring-community-health)
+      - [Key health metrics and indicators](#key-health-metrics-and-indicators)
+      - [Building and using community dashboards](#building-and-using-community-dashboards)
+- [Sample dashboard configuration](#sample-dashboard-configuration)
+      - [Continuous iteration based on data](#continuous-iteration-based-on-data)
+    - [Conflict Resolution and Cultural Stewardship](#conflict-resolution-and-cultural-stewardship)
+      - [Common conflict scenarios](#common-conflict-scenarios)
+      - [Frameworks for mediation and resolution](#frameworks-for-mediation-and-resolution)
+- [Sample RACI escalation snippet](#sample-raci-escalation-snippet)
+      - [Maintaining a positive community culture](#maintaining-a-positive-community-culture)
+  - [Chapter 3: Business Models, Monetisation and IP Management](#chapter-3-business-models-monetisation-and-ip-management)
+    - [Open Core and Dual Licensing Strategies](#open-core-and-dual-licensing-strategies)
+      - [Designing an open core offering](#designing-an-open-core-offering)
+      - [Mechanics and economics of dual licensing](#mechanics-and-economics-of-dual-licensing)
+      - [Risks, rewards and case comparisons](#risks-rewards-and-case-comparisons)
+    - [Support, Services and Platform Plays](#support-services-and-platform-plays)
+      - [Consulting, training and support models](#consulting-training-and-support-models)
+      - [SaaS and hosted platform strategies](#saas-and-hosted-platform-strategies)
+      - [Upsell and integration pathways](#upsell-and-integration-pathways)
+- [Sample integration module definition](#sample-integration-module-definition)
+    - [Navigating Licence Compliance and Patents](#navigating-licence-compliance-and-patents)
+      - [Open source licence landscape](#open-source-licence-landscape)
+      - [Compliance tools and processes](#compliance-tools-and-processes)
+- [Example GitLab CI job for licence scanning](#example-gitlab-ci-job-for-licence-scanning)
+      - [Defensive publishing and patent strategies](#defensive-publishing-and-patent-strategies)
+    - [Contributor Agreements and Legal Frameworks](#contributor-agreements-and-legal-frameworks)
+      - [Contributor licence agreements (CLAs) vs developer certificate of origin (DCO)](#contributor-licence-agreements-clas-vs-developer-certificate-of-origin-dco)
+      - [Best practices in legal onboarding](#best-practices-in-legal-onboarding)
+      - [Managing risk and liability](#managing-risk-and-liability)
+  - [Chapter 4: Case Studies in Strategic Open Source](#chapter-4-case-studies-in-strategic-open-source)
+    - [Elastic: Pivoting with Open Core](#elastic-pivoting-with-open-core)
+      - [Origins and business shift](#origins-and-business-shift)
+      - [Community reactions and market impact](#community-reactions-and-market-impact)
+      - [Key strategic takeaways](#key-strategic-takeaways)
+    - [MongoDB’s Licensing Transformation](#mongodbs-licensing-transformation)
+      - [From GPL to SSPL](#from-gpl-to-sspl)
+      - [Competitive responses and ecosystem effects](#competitive-responses-and-ecosystem-effects)
+      - [Lessons for licence strategy](#lessons-for-licence-strategy)
+    - [AWS’s Strategic Open Source Moves](#awss-strategic-open-source-moves)
+      - [Contributions to key projects](#contributions-to-key-projects)
+- [Sample tracking of AWS open source contributions](#sample-tracking-of-aws-open-source-contributions)
+      - [Balancing competition and collaboration](#balancing-competition-and-collaboration)
+      - [Analysing ecosystem influence](#analysing-ecosystem-influence)
+    - [Synthesising Lessons Learned](#synthesising-lessons-learned)
+      - [Cross‑case patterns](#crosscase-patterns)
+      - [Common pitfalls and success factors](#common-pitfalls-and-success-factors)
+      - [Translating insights to your context](#translating-insights-to-your-context)
+  - [Chapter 5: Practical Toolkits and Workshops](#chapter-5-practical-toolkits-and-workshops)
+    - [Wardley Mapping Workshop](#wardley-mapping-workshop)
+      - [Workshop materials and setup](#workshop-materials-and-setup)
+      - [Step‑by‑step mapping exercises](#stepbystep-mapping-exercises)
+      - [Interpreting and actioning your map](#interpreting-and-actioning-your-map)
+    - [Community Health Dashboard Templates](#community-health-dashboard-templates)
+      - [Selecting metrics and KPIs](#selecting-metrics-and-kpis)
+- [Sample KPI configuration for community dashboard](#sample-kpi-configuration-for-community-dashboard)
+      - [Dashboard design patterns](#dashboard-design-patterns)
+      - [Customisation examples](#customisation-examples)
+    - [Open Source ROI Calculators](#open-source-roi-calculators)
+      - [Building a financial model](#building-a-financial-model)
+      - [Input data and assumptions](#input-data-and-assumptions)
+      - [Interpreting ROI scenarios](#interpreting-roi-scenarios)
+    - [Governance Assessment Toolkit](#governance-assessment-toolkit)
+      - [Self‑assessment questionnaires](#selfassessment-questionnaires)
+      - [Decision matrices for governance evolution](#decision-matrices-for-governance-evolution)
+      - [Implementation planning](#implementation-planning)
+  - [Conclusion: Embedding Open Source as a Sustained Competitive Weapon](#conclusion-embedding-open-source-as-a-sustained-competitive-weapon)
+    - [Roadmap for Board‑Level Adoption](#roadmap-for-boardlevel-adoption)
+      - [Phased implementation plan](#phased-implementation-plan)
+      - [Key milestones and metrics](#key-milestones-and-metrics)
+      - [Cross‑functional alignment](#crossfunctional-alignment)
+    - [Building Organisational Buy‑In](#building-organisational-buyin)
+      - [Crafting the executive narrative](#crafting-the-executive-narrative)
+- [Strategic Context](#strategic-context)
+- [Open Source Opportunity](#open-source-opportunity)
+- [Evidence](#evidence)
+- [Proposed Actions](#proposed-actions)
+- [Expected Outcomes](#expected-outcomes)
+      - [Stakeholder engagement strategies](#stakeholder-engagement-strategies)
+      - [Measuring and celebrating wins](#measuring-and-celebrating-wins)
+- [Sample announcement in team channel](#sample-announcement-in-team-channel)
+    - [Sustaining Momentum and Future Trends](#sustaining-momentum-and-future-trends)
+      - [Continuous improvement loops](#continuous-improvement-loops)
+      - [Emerging open source trends (AI, edge, standards)](#emerging-open-source-trends-ai-edge-standards)
+      - [Preparing for the next wave of disruption](#preparing-for-the-next-wave-of-disruption)
 
 
 ## Introduction: The Rise of Open Source as a Board‑Level Asset

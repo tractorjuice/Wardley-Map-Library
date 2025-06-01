@@ -2,64 +2,64 @@
 
 # Table of Contents
 
-- The Creative Revolution: How Generative AI is Transforming Human Potential
-  - Introduction: The Dawn of Human-AI Partnership
-    - The GenAI Watershed Moment
-      - From Tools to Creative Partners
-      - Understanding the Scale of Change
-      - Setting the Stage for Transformation
-  - Chapter 1: The Creativity Paradox
-    - Redefining Human Creativity
-      - Traditional Creative Processes
-      - AI-Enhanced Creative Thinking
-      - The New Creative Spectrum
-    - AI as Creative Catalyst
-      - Amplifying Human Ideas
-      - Breaking Creative Blocks
-      - Expanding Possibilities
-    - Creative Tensions
-      - Authenticity vs Automation
-      - Originality in the Age of AI
-      - Navigating Creative Identity
-  - Chapter 2: The Workforce Evolution
-    - Job Transformation Landscape
-      - Roles Being Augmented
-      - Emerging Opportunities
-      - Skills in Transition
-    - Industry Impact Analysis
-      - Creative Industries
-      - Knowledge Work
-      - Service Sectors
-    - Adaptation Strategies
-      - Reskilling Pathways
-      - Career Pivots
-      - Professional Development
-  - Chapter 3: The Cognitive Partnership Framework
-    - Building Effective Collaboration
-      - Understanding AI Capabilities
-      - Human-AI Workflow Design
-      - Communication Protocols
-    - Co-Creation Methodologies
-      - Ideation Techniques
-      - Iterative Development
-      - Quality Control
-    - Optimising Outcomes
-      - Performance Metrics
-      - Feedback Loops
-      - Continuous Improvement
-  - Chapter 4: Future-Proofing Strategies
-    - Developing AI-Resistant Skills
-      - Critical Thinking
-      - Emotional Intelligence
-      - Complex Problem Solving
-    - Building Adaptive Capacity
-      - Learning Agility
-      - Technological Fluency
-      - Change Resilience
-    - Creating Sustainable Value
-      - Personal Brand Development
-      - Unique Value Proposition
-      - Long-term Career Planning
+- [The Creative Revolution: How Generative AI is Transforming Human Potential](#the-creative-revolution-how-generative-ai-is-transforming-human-potential)
+  - [Introduction: The Dawn of Human-AI Partnership](#introduction-the-dawn-of-human-ai-partnership)
+    - [The GenAI Watershed Moment](#the-genai-watershed-moment)
+      - [From Tools to Creative Partners](#from-tools-to-creative-partners)
+      - [Understanding the Scale of Change](#understanding-the-scale-of-change)
+      - [Setting the Stage for Transformation](#setting-the-stage-for-transformation)
+  - [Chapter 1: The Creativity Paradox](#chapter-1-the-creativity-paradox)
+    - [Redefining Human Creativity](#redefining-human-creativity)
+      - [Traditional Creative Processes](#traditional-creative-processes)
+      - [AI-Enhanced Creative Thinking](#ai-enhanced-creative-thinking)
+      - [The New Creative Spectrum](#the-new-creative-spectrum)
+    - [AI as Creative Catalyst](#ai-as-creative-catalyst)
+      - [Amplifying Human Ideas](#amplifying-human-ideas)
+      - [Breaking Creative Blocks](#breaking-creative-blocks)
+      - [Expanding Possibilities](#expanding-possibilities)
+    - [Creative Tensions](#creative-tensions)
+      - [Authenticity vs Automation](#authenticity-vs-automation)
+      - [Originality in the Age of AI](#originality-in-the-age-of-ai)
+      - [Navigating Creative Identity](#navigating-creative-identity)
+  - [Chapter 2: The Workforce Evolution](#chapter-2-the-workforce-evolution)
+    - [Job Transformation Landscape](#job-transformation-landscape)
+      - [Roles Being Augmented](#roles-being-augmented)
+      - [Emerging Opportunities](#emerging-opportunities)
+      - [Skills in Transition](#skills-in-transition)
+    - [Industry Impact Analysis](#industry-impact-analysis)
+      - [Creative Industries](#creative-industries)
+      - [Knowledge Work](#knowledge-work)
+      - [Service Sectors](#service-sectors)
+    - [Adaptation Strategies](#adaptation-strategies)
+      - [Reskilling Pathways](#reskilling-pathways)
+      - [Career Pivots](#career-pivots)
+      - [Professional Development](#professional-development)
+  - [Chapter 3: The Cognitive Partnership Framework](#chapter-3-the-cognitive-partnership-framework)
+    - [Building Effective Collaboration](#building-effective-collaboration)
+      - [Understanding AI Capabilities](#understanding-ai-capabilities)
+      - [Human-AI Workflow Design](#human-ai-workflow-design)
+      - [Communication Protocols](#communication-protocols)
+    - [Co-Creation Methodologies](#co-creation-methodologies)
+      - [Ideation Techniques](#ideation-techniques)
+      - [Iterative Development](#iterative-development)
+      - [Quality Control](#quality-control)
+    - [Optimising Outcomes](#optimising-outcomes)
+      - [Performance Metrics](#performance-metrics)
+      - [Feedback Loops](#feedback-loops)
+      - [Continuous Improvement](#continuous-improvement)
+  - [Chapter 4: Future-Proofing Strategies](#chapter-4-future-proofing-strategies)
+    - [Developing AI-Resistant Skills](#developing-ai-resistant-skills)
+      - [Critical Thinking](#critical-thinking)
+      - [Emotional Intelligence](#emotional-intelligence)
+      - [Complex Problem Solving](#complex-problem-solving)
+    - [Building Adaptive Capacity](#building-adaptive-capacity)
+      - [Learning Agility](#learning-agility)
+      - [Technological Fluency](#technological-fluency)
+      - [Change Resilience](#change-resilience)
+    - [Creating Sustainable Value](#creating-sustainable-value)
+      - [Personal Brand Development](#personal-brand-development)
+      - [Unique Value Proposition](#unique-value-proposition)
+      - [Long-term Career Planning](#long-term-career-planning)
 
 
 ## Introduction: The Dawn of Human-AI Partnership

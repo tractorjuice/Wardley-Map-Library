@@ -4,79 +4,79 @@
 
 # Table of Contents
 
-- Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Magic of Maps
-  - What is Wardley Mapping?
-    - A simple explanation for children
-    - Why maps are useful in business and life
-  - How This Book Works
-    - The structure of each chapter
-    - How to use this book with children
-- Chapter 1: Hansel and Gretel's Forest Adventure
-  - The Story of Hansel and Gretel
-    - A child-friendly retelling
-    - Key elements of the story
-  - Mapping Hansel and Gretel's Journey
-    - Identifying user needs
-    - Mapping the components
-    - Understanding evolution
-  - Lessons from the Map
-    - The importance of planning
-    - Adapting to change
-    - Finding your way home
-- Chapter 2: The Three Little Pigs' Construction Project
-  - The Tale of the Three Little Pigs
-    - A simplified version for children
-    - Important story elements
-  - Mapping the Pigs' Building Strategies
-    - Identifying the pigs' needs
-    - Mapping building materials and methods
-    - Exploring evolution in construction
-  - Insights from the Map
-    - The value of planning ahead
-    - Balancing speed and quality
-    - Learning from mistakes
-- Chapter 3: Cinderella's Magical Transformation
-  - The Story of Cinderella
-    - A child-appropriate retelling
-    - Key story components
-  - Mapping Cinderella's Journey
-    - Identifying Cinderella's needs
-    - Mapping the magical elements
-    - Understanding evolution in Cinderella's world
-  - Lessons from Cinderella's Map
-    - The power of transformation
-    - Recognizing opportunities
-    - The importance of timing
-- Chapter 4: Jack's Beanstalk Business Venture
-  - The Tale of Jack and the Beanstalk
-    - A child-friendly version
-    - Important elements of the story
-  - Mapping Jack's Adventure
-    - Identifying Jack's needs
-    - Mapping the components of Jack's journey
-    - Exploring evolution in Jack's world
-  - Insights from Jack's Map
-    - Taking calculated risks
-    - The value of unique resources
-    - Balancing ethics and opportunity
-- Conclusion: Your Own Fairy Tale Map
-  - Recap of Mapping Principles
-    - Key elements of a Wardley Map
-    - How to apply mapping to any story
-  - Creating Your Own Fairy Tale Map
-    - Choosing a favourite story
-    - Step-by-step guide to mapping
-    - Sharing and discussing your map
-  - The Future of Your Mapping Adventure
-    - Using mapping in everyday life
-    - Continuing to learn and grow
-- Appendix: Book Generation Details
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialised Applications
+- [Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales](#once-upon-a-map-a-childs-guide-to-wardley-mapping-through-fairy-tales)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Magic of Maps](#introduction-the-magic-of-maps)
+  - [What is Wardley Mapping?](#what-is-wardley-mapping)
+    - [A simple explanation for children](#a-simple-explanation-for-children)
+    - [Why maps are useful in business and life](#why-maps-are-useful-in-business-and-life)
+  - [How This Book Works](#how-this-book-works)
+    - [The structure of each chapter](#the-structure-of-each-chapter)
+    - [How to use this book with children](#how-to-use-this-book-with-children)
+- [Chapter 1: Hansel and Gretel's Forest Adventure](#chapter-1-hansel-and-gretels-forest-adventure)
+  - [The Story of Hansel and Gretel](#the-story-of-hansel-and-gretel)
+    - [A child-friendly retelling](#a-child-friendly-retelling)
+    - [Key elements of the story](#key-elements-of-the-story)
+  - [Mapping Hansel and Gretel's Journey](#mapping-hansel-and-gretels-journey)
+    - [Identifying user needs](#identifying-user-needs)
+    - [Mapping the components](#mapping-the-components)
+    - [Understanding evolution](#understanding-evolution)
+  - [Lessons from the Map](#lessons-from-the-map)
+    - [The importance of planning](#the-importance-of-planning)
+    - [Adapting to change](#adapting-to-change)
+    - [Finding your way home](#finding-your-way-home)
+- [Chapter 2: The Three Little Pigs' Construction Project](#chapter-2-the-three-little-pigs-construction-project)
+  - [The Tale of the Three Little Pigs](#the-tale-of-the-three-little-pigs)
+    - [A simplified version for children](#a-simplified-version-for-children)
+    - [Important story elements](#important-story-elements)
+  - [Mapping the Pigs' Building Strategies](#mapping-the-pigs-building-strategies)
+    - [Identifying the pigs' needs](#identifying-the-pigs-needs)
+    - [Mapping building materials and methods](#mapping-building-materials-and-methods)
+    - [Exploring evolution in construction](#exploring-evolution-in-construction)
+  - [Insights from the Map](#insights-from-the-map)
+    - [The value of planning ahead](#the-value-of-planning-ahead)
+    - [Balancing speed and quality](#balancing-speed-and-quality)
+    - [Learning from mistakes](#learning-from-mistakes)
+- [Chapter 3: Cinderella's Magical Transformation](#chapter-3-cinderellas-magical-transformation)
+  - [The Story of Cinderella](#the-story-of-cinderella)
+    - [A child-appropriate retelling](#a-child-appropriate-retelling)
+    - [Key story components](#key-story-components)
+  - [Mapping Cinderella's Journey](#mapping-cinderellas-journey)
+    - [Identifying Cinderella's needs](#identifying-cinderellas-needs)
+    - [Mapping the magical elements](#mapping-the-magical-elements)
+    - [Understanding evolution in Cinderella's world](#understanding-evolution-in-cinderellas-world)
+  - [Lessons from Cinderella's Map](#lessons-from-cinderellas-map)
+    - [The power of transformation](#the-power-of-transformation)
+    - [Recognizing opportunities](#recognizing-opportunities)
+    - [The importance of timing](#the-importance-of-timing)
+- [Chapter 4: Jack's Beanstalk Business Venture](#chapter-4-jacks-beanstalk-business-venture)
+  - [The Tale of Jack and the Beanstalk](#the-tale-of-jack-and-the-beanstalk)
+    - [A child-friendly version](#a-child-friendly-version)
+    - [Important elements of the story](#important-elements-of-the-story)
+  - [Mapping Jack's Adventure](#mapping-jacks-adventure)
+    - [Identifying Jack's needs](#identifying-jacks-needs)
+    - [Mapping the components of Jack's journey](#mapping-the-components-of-jacks-journey)
+    - [Exploring evolution in Jack's world](#exploring-evolution-in-jacks-world)
+  - [Insights from Jack's Map](#insights-from-jacks-map)
+    - [Taking calculated risks](#taking-calculated-risks)
+    - [The value of unique resources](#the-value-of-unique-resources)
+    - [Balancing ethics and opportunity](#balancing-ethics-and-opportunity)
+- [Conclusion: Your Own Fairy Tale Map](#conclusion-your-own-fairy-tale-map)
+  - [Recap of Mapping Principles](#recap-of-mapping-principles)
+    - [Key elements of a Wardley Map](#key-elements-of-a-wardley-map)
+    - [How to apply mapping to any story](#how-to-apply-mapping-to-any-story)
+  - [Creating Your Own Fairy Tale Map](#creating-your-own-fairy-tale-map)
+    - [Choosing a favourite story](#choosing-a-favourite-story)
+    - [Step-by-step guide to mapping](#step-by-step-guide-to-mapping)
+    - [Sharing and discussing your map](#sharing-and-discussing-your-map)
+  - [The Future of Your Mapping Adventure](#the-future-of-your-mapping-adventure)
+    - [Using mapping in everyday life](#using-mapping-in-everyday-life)
+    - [Continuing to learn and grow](#continuing-to-learn-and-grow)
+- [Appendix: Book Generation Details](#appendix-book-generation-details)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialised Applications](#specialised-applications)
 
 
 # Introduction: The Magic of Maps

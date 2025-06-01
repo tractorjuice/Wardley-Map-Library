@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery
-  - Introduction: The Landscape of Government Digital Transformation
-    - Current State of Digital Government
-      - Understanding the Public Sector Digital Environment
-      - Key Challenges and Opportunities
-      - The Role of Leadership in Government Transformation
-    - Framework for Success
-      - Core Principles of Government Digital Transformation
-      - Balancing Innovation with Public Service Requirements
-      - Building Blocks of Successful Digital Initiatives
-  - Strategic Leadership and Governance
-    - Navigating Government Complexity
-      - Understanding Bureaucratic Constraints
-      - Stakeholder Mapping and Management
-      - Building Cross-Department Coalitions
-    - Governance Frameworks
-      - Establishing Effective Governance Structures
-      - Risk Management in Public Sector Projects
-      - Decision-Making Protocols and Escalation Paths
-  - Agile Delivery in Government Context
-    - Adapting Agile for Government
-      - Modified Agile Frameworks for Public Sector
-      - Compliance-Aware Sprint Planning
-      - Measuring Success in Government Projects
-    - Process Optimization
-      - Streamlining Government Workflows
-      - Change Management in Public Sector
-      - Continuous Improvement Strategies
-  - Technical Excellence and Security
-    - DevOps and Cloud Integration
-      - Government Cloud First Policies
-      - Security-Focused DevOps Practices
-      - Infrastructure Automation in Regulated Environments
-    - Quality and Compliance
-      - Building Secure Government Systems
-      - Quality Assurance in Public Sector IT
-      - Meeting Regulatory Requirements
-  - Team Leadership and Resource Management
-    - Managing Hybrid Teams
-      - Leading Mixed Internal-External Teams
-      - Capacity Planning and Resource Allocation
-      - Skills Development and Knowledge Transfer
-    - Delivery Excellence
-      - Maintaining Team Productivity
-      - Managing Priority-Driven Environments
-      - Building High-Performing Government Teams
+- [Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery](#leading-digital-transformation-in-government-a-practitioners-guide-to-complex-project-delivery)
+  - [Introduction: The Landscape of Government Digital Transformation](#introduction-the-landscape-of-government-digital-transformation)
+    - [Current State of Digital Government](#current-state-of-digital-government)
+      - [Understanding the Public Sector Digital Environment](#understanding-the-public-sector-digital-environment)
+      - [Key Challenges and Opportunities](#key-challenges-and-opportunities)
+      - [The Role of Leadership in Government Transformation](#the-role-of-leadership-in-government-transformation)
+    - [Framework for Success](#framework-for-success)
+      - [Core Principles of Government Digital Transformation](#core-principles-of-government-digital-transformation)
+      - [Balancing Innovation with Public Service Requirements](#balancing-innovation-with-public-service-requirements)
+      - [Building Blocks of Successful Digital Initiatives](#building-blocks-of-successful-digital-initiatives)
+  - [Strategic Leadership and Governance](#strategic-leadership-and-governance)
+    - [Navigating Government Complexity](#navigating-government-complexity)
+      - [Understanding Bureaucratic Constraints](#understanding-bureaucratic-constraints)
+      - [Stakeholder Mapping and Management](#stakeholder-mapping-and-management)
+      - [Building Cross-Department Coalitions](#building-cross-department-coalitions)
+    - [Governance Frameworks](#governance-frameworks)
+      - [Establishing Effective Governance Structures](#establishing-effective-governance-structures)
+      - [Risk Management in Public Sector Projects](#risk-management-in-public-sector-projects)
+      - [Decision-Making Protocols and Escalation Paths](#decision-making-protocols-and-escalation-paths)
+  - [Agile Delivery in Government Context](#agile-delivery-in-government-context)
+    - [Adapting Agile for Government](#adapting-agile-for-government)
+      - [Modified Agile Frameworks for Public Sector](#modified-agile-frameworks-for-public-sector)
+      - [Compliance-Aware Sprint Planning](#compliance-aware-sprint-planning)
+      - [Measuring Success in Government Projects](#measuring-success-in-government-projects)
+    - [Process Optimization](#process-optimization)
+      - [Streamlining Government Workflows](#streamlining-government-workflows)
+      - [Change Management in Public Sector](#change-management-in-public-sector)
+      - [Continuous Improvement Strategies](#continuous-improvement-strategies)
+  - [Technical Excellence and Security](#technical-excellence-and-security)
+    - [DevOps and Cloud Integration](#devops-and-cloud-integration)
+      - [Government Cloud First Policies](#government-cloud-first-policies)
+      - [Security-Focused DevOps Practices](#security-focused-devops-practices)
+      - [Infrastructure Automation in Regulated Environments](#infrastructure-automation-in-regulated-environments)
+    - [Quality and Compliance](#quality-and-compliance)
+      - [Building Secure Government Systems](#building-secure-government-systems)
+      - [Quality Assurance in Public Sector IT](#quality-assurance-in-public-sector-it)
+      - [Meeting Regulatory Requirements](#meeting-regulatory-requirements)
+  - [Team Leadership and Resource Management](#team-leadership-and-resource-management)
+    - [Managing Hybrid Teams](#managing-hybrid-teams)
+      - [Leading Mixed Internal-External Teams](#leading-mixed-internal-external-teams)
+      - [Capacity Planning and Resource Allocation](#capacity-planning-and-resource-allocation)
+      - [Skills Development and Knowledge Transfer](#skills-development-and-knowledge-transfer)
+    - [Delivery Excellence](#delivery-excellence)
+      - [Maintaining Team Productivity](#maintaining-team-productivity)
+      - [Managing Priority-Driven Environments](#managing-priority-driven-environments)
+      - [Building High-Performing Government Teams](#building-high-performing-government-teams)
 
 
 ## Introduction: The Landscape of Government Digital Transformation

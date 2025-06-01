@@ -2,80 +2,80 @@
 
 # Table of Contents
 
-- Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries
-  - Understanding Inequality: Root Causes and Current State
-    - Defining Inequality
-      - Wealth Disparity and Its Impacts
-      - Systemic Inequality
-      - Digital Divide and Access Inequality
-    - Global Trends in Inequality
-      - Historical Context
-      - Current Statistics
-      - Regional Disparities
-    - Root Causes of Inequality
-      - Structural Factors
-      - Policy Failures
-      - Cultural Influences
-  - Policy Frameworks for Reducing Inequality
-    - Existing Policy Solutions
-      - Progressive Taxation
-      - Social Safety Nets
-      - Universal Basic Income
-    - Innovative Approaches
-      - Inclusive Economic Policies
-      - Education and Skill Development
-      - Healthcare Accessibility
-    - Evaluating Policy Effectiveness
-      - Metrics for Success
-      - Case Studies of Effective Policies
-      - Lessons Learned
-  - Case Studies: Successful Initiatives Worldwide
-    - Case Study: Nordic Model
-      - Overview of the Model
-      - Key Policies Implemented
-      - Outcomes and Impact
-    - Case Study: Brazil's Bolsa Família
-      - Program Structure
-      - Target Population
-      - Results and Challenges
-    - Case Study: South Africa's Land Reform
-      - Implementation Strategies
-      - Impact on Inequality
-  - Community Engagement: Grassroots Movements for Change
-    - Building Community Coalitions
-      - Identifying Stakeholders
-      - Creating a Shared Vision
-      - Mobilising Resources
-    - Advocacy Strategies
-      - Grassroots Campaigning
-      - Utilising Social Media
-      - Engaging with Policymakers
-    - Measuring Community Impact
-      - Feedback Mechanisms
-      - Success Stories
-      - Adjusting Strategies Based on Outcomes
-  - Cross-Sector Collaboration: A Unified Approach
-    - The Role of Businesses
-      - Corporate Social Responsibility
-      - Inclusive Business Models
-      - Partnerships with NGOs
-    - Government and Non-Profit Synergies
-      - Public-Private Partnerships
-      - Collaborative Policy Development
-      - Shared Resources and Knowledge
-    - Global Networks and Initiatives
-      - International Organisations
-      - Global Campaigns for Equity
-      - Knowledge Sharing Platforms
-  - Conclusion: The Path Forward
-    - Summarising Key Insights
-      - Lessons from Case Studies
-      - Importance of Policy Innovation
-      - Role of Community Engagement
-    - Call to Action
-      - Engaging Stakeholders
-      - Advocating for Change
-      - Building a More Equitable Future
+- [Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries](#bridging-the-divide-strategies-for-reducing-inequality-within-and-among-countries)
+  - [Understanding Inequality: Root Causes and Current State](#understanding-inequality-root-causes-and-current-state)
+    - [Defining Inequality](#defining-inequality)
+      - [Wealth Disparity and Its Impacts](#wealth-disparity-and-its-impacts)
+      - [Systemic Inequality](#systemic-inequality)
+      - [Digital Divide and Access Inequality](#digital-divide-and-access-inequality)
+    - [Global Trends in Inequality](#global-trends-in-inequality)
+      - [Historical Context](#historical-context)
+      - [Current Statistics](#current-statistics)
+      - [Regional Disparities](#regional-disparities)
+    - [Root Causes of Inequality](#root-causes-of-inequality)
+      - [Structural Factors](#structural-factors)
+      - [Policy Failures](#policy-failures)
+      - [Cultural Influences](#cultural-influences)
+  - [Policy Frameworks for Reducing Inequality](#policy-frameworks-for-reducing-inequality)
+    - [Existing Policy Solutions](#existing-policy-solutions)
+      - [Progressive Taxation](#progressive-taxation)
+      - [Social Safety Nets](#social-safety-nets)
+      - [Universal Basic Income](#universal-basic-income)
+    - [Innovative Approaches](#innovative-approaches)
+      - [Inclusive Economic Policies](#inclusive-economic-policies)
+      - [Education and Skill Development](#education-and-skill-development)
+      - [Healthcare Accessibility](#healthcare-accessibility)
+    - [Evaluating Policy Effectiveness](#evaluating-policy-effectiveness)
+      - [Metrics for Success](#metrics-for-success)
+      - [Case Studies of Effective Policies](#case-studies-of-effective-policies)
+      - [Lessons Learned](#lessons-learned)
+  - [Case Studies: Successful Initiatives Worldwide](#case-studies-successful-initiatives-worldwide)
+    - [Case Study: Nordic Model](#case-study-nordic-model)
+      - [Overview of the Model](#overview-of-the-model)
+      - [Key Policies Implemented](#key-policies-implemented)
+      - [Outcomes and Impact](#outcomes-and-impact)
+    - [Case Study: Brazil's Bolsa Família](#case-study-brazils-bolsa-famlia)
+      - [Program Structure](#program-structure)
+      - [Target Population](#target-population)
+      - [Results and Challenges](#results-and-challenges)
+    - [Case Study: South Africa's Land Reform](#case-study-south-africas-land-reform)
+      - [Implementation Strategies](#implementation-strategies)
+      - [Impact on Inequality](#impact-on-inequality)
+  - [Community Engagement: Grassroots Movements for Change](#community-engagement-grassroots-movements-for-change)
+    - [Building Community Coalitions](#building-community-coalitions)
+      - [Identifying Stakeholders](#identifying-stakeholders)
+      - [Creating a Shared Vision](#creating-a-shared-vision)
+      - [Mobilising Resources](#mobilising-resources)
+    - [Advocacy Strategies](#advocacy-strategies)
+      - [Grassroots Campaigning](#grassroots-campaigning)
+      - [Utilising Social Media](#utilising-social-media)
+      - [Engaging with Policymakers](#engaging-with-policymakers)
+    - [Measuring Community Impact](#measuring-community-impact)
+      - [Feedback Mechanisms](#feedback-mechanisms)
+      - [Success Stories](#success-stories)
+      - [Adjusting Strategies Based on Outcomes](#adjusting-strategies-based-on-outcomes)
+  - [Cross-Sector Collaboration: A Unified Approach](#cross-sector-collaboration-a-unified-approach)
+    - [The Role of Businesses](#the-role-of-businesses)
+      - [Corporate Social Responsibility](#corporate-social-responsibility)
+      - [Inclusive Business Models](#inclusive-business-models)
+      - [Partnerships with NGOs](#partnerships-with-ngos)
+    - [Government and Non-Profit Synergies](#government-and-non-profit-synergies)
+      - [Public-Private Partnerships](#public-private-partnerships)
+      - [Collaborative Policy Development](#collaborative-policy-development)
+      - [Shared Resources and Knowledge](#shared-resources-and-knowledge)
+    - [Global Networks and Initiatives](#global-networks-and-initiatives)
+      - [International Organisations](#international-organisations)
+      - [Global Campaigns for Equity](#global-campaigns-for-equity)
+      - [Knowledge Sharing Platforms](#knowledge-sharing-platforms)
+  - [Conclusion: The Path Forward](#conclusion-the-path-forward)
+    - [Summarising Key Insights](#summarising-key-insights)
+      - [Lessons from Case Studies](#lessons-from-case-studies)
+      - [Importance of Policy Innovation](#importance-of-policy-innovation)
+      - [Role of Community Engagement](#role-of-community-engagement)
+    - [Call to Action](#call-to-action)
+      - [Engaging Stakeholders](#engaging-stakeholders)
+      - [Advocating for Change](#advocating-for-change)
+      - [Building a More Equitable Future](#building-a-more-equitable-future)
 
 
 ## Understanding Inequality: Root Causes and Current State

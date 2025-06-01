@@ -2,70 +2,70 @@
 
 # Table of Contents
 
-- Reversible Revolution: Can Vaire Computing Cool Down the AI Heatwave?
-  - The AI Energy Paradox: Powering Progress, Fueling Crisis
-    - The Unsustainable Appetite of Generative AI
-      - Exponential Growth in AI Compute Demands
-      - Quantifying the Carbon Footprint of AI Training and Inference
-      - Limitations of Current Energy Efficiency Measures
-      - The Environmental Cost of Data Centers: A Growing Concern
-    - Moore's Law and the Impending Energy Wall
-      - The Slowdown of Moore's Law: Physical Limits and Economic Realities
-      - The Rise of Specialised Hardware: GPUs, TPUs, and ASICs
-      - The Need for Radical Innovation: Beyond Conventional Computing
-  - Reversible Computing: A Paradigm Shift in Energy Efficiency
-    - The Theoretical Foundations of Reversible Computing
-      - Landauer's Principle: The Thermodynamic Limit of Computation
-      - Feynman's Vision: Reversible Turing Machines and Quantum Computing
-      - Adiabatic Logic: Minimising Energy Dissipation Through Gradual Switching
-      - Information as a Physical Quantity: Exploring the Physics of Computation
-    - From Theory to Practice: Challenges and Opportunities
-      - The History of Reversible Computing Research
-      - Overcoming the Technical Hurdles: Circuit Design and Fabrication
-      - Reversible Logic Gates: Building Blocks for Energy-Efficient Processors
-      - Error Correction and Reliability in Reversible Systems
-  - Vaire Computing: Pioneering Near-Zero Energy Chips
-    - Vaire's Technological Innovation: A Deep Dive
-      - The Vaire Architecture: Combining Reversible Computing and Adiabatic Techniques
-      - Prototype Development: Design, Fabrication, and Testing
-      - Near-Zero Energy Consumption: Quantifying the Efficiency Gains
-      - Addressing the Challenges of Scalability and Performance
-    - Roadmap to Commercialisation: From Prototype to Production
-      - The Vaire Team: Expertise and Vision
-      - Intel's Ignite and ChipStart: Leveraging Accelerator Programs
-      - Securing Funding: Investment Landscape and Future Prospects
-      - Partnerships and Collaborations: Building an Ecosystem
-  - Market Disruption and Investment Opportunities
-    - The Market Potential of Reversible Computing
-      - Data Centers: Reducing Energy Costs and Environmental Impact
-      - Edge Computing: Enabling Sustainable AI at the Edge
-      - AI and Machine Learning: Powering the Next Generation of Algorithms
-      - Other Applications: High-Performance Computing, Embedded Systems, and Beyond
-    - Investment Landscape and Competitive Analysis
-      - The Growing Interest in Sustainable Computing
-      - Vaire's Competitive Advantage: Technology and Market Positioning
-      - Potential Investors: Venture Capital, Corporate Venture Arms, and Government Funding
-      - Risks and Opportunities: Navigating the Emerging Market
-  - The Future of Computing: A Sustainable and Efficient Tomorrow
-    - The Broader Implications of Reversible Computing
-      - Environmental Benefits: Reducing Carbon Emissions and Resource Consumption
-      - Economic Impact: Creating New Industries and Jobs
-      - Societal Transformation: Democratising Access to Computing Power
-      - Ethical Considerations: Ensuring Responsible Innovation
-    - Challenges and Controversies: Addressing the Skeptics
-      - The Long Road to Widespread Adoption
-      - Addressing Concerns About Performance and Reliability
-      - The Role of Government Regulation and Industry Standards
-      - The Future of Vaire Computing: Vision and Strategy
-  - Conclusion: A Reversible Future?
-    - Recap of Key Findings
-      - The Urgency of Sustainable Computing
-      - The Promise of Reversible Computing
-      - Vaire Computing's Potential Impact
-    - Looking Ahead: The Next Steps in the Reversible Revolution
-      - Future Research Directions
-      - Call to Action: Investing in a Sustainable Future
-      - The Legacy of Reversible Computing
+- [Reversible Revolution: Can Vaire Computing Cool Down the AI Heatwave?](#reversible-revolution-can-vaire-computing-cool-down-the-ai-heatwave)
+  - [The AI Energy Paradox: Powering Progress, Fueling Crisis](#the-ai-energy-paradox-powering-progress-fueling-crisis)
+    - [The Unsustainable Appetite of Generative AI](#the-unsustainable-appetite-of-generative-ai)
+      - [Exponential Growth in AI Compute Demands](#exponential-growth-in-ai-compute-demands)
+      - [Quantifying the Carbon Footprint of AI Training and Inference](#quantifying-the-carbon-footprint-of-ai-training-and-inference)
+      - [Limitations of Current Energy Efficiency Measures](#limitations-of-current-energy-efficiency-measures)
+      - [The Environmental Cost of Data Centers: A Growing Concern](#the-environmental-cost-of-data-centers-a-growing-concern)
+    - [Moore's Law and the Impending Energy Wall](#moores-law-and-the-impending-energy-wall)
+      - [The Slowdown of Moore's Law: Physical Limits and Economic Realities](#the-slowdown-of-moores-law-physical-limits-and-economic-realities)
+      - [The Rise of Specialised Hardware: GPUs, TPUs, and ASICs](#the-rise-of-specialised-hardware-gpus-tpus-and-asics)
+      - [The Need for Radical Innovation: Beyond Conventional Computing](#the-need-for-radical-innovation-beyond-conventional-computing)
+  - [Reversible Computing: A Paradigm Shift in Energy Efficiency](#reversible-computing-a-paradigm-shift-in-energy-efficiency)
+    - [The Theoretical Foundations of Reversible Computing](#the-theoretical-foundations-of-reversible-computing)
+      - [Landauer's Principle: The Thermodynamic Limit of Computation](#landauers-principle-the-thermodynamic-limit-of-computation)
+      - [Feynman's Vision: Reversible Turing Machines and Quantum Computing](#feynmans-vision-reversible-turing-machines-and-quantum-computing)
+      - [Adiabatic Logic: Minimising Energy Dissipation Through Gradual Switching](#adiabatic-logic-minimising-energy-dissipation-through-gradual-switching)
+      - [Information as a Physical Quantity: Exploring the Physics of Computation](#information-as-a-physical-quantity-exploring-the-physics-of-computation)
+    - [From Theory to Practice: Challenges and Opportunities](#from-theory-to-practice-challenges-and-opportunities)
+      - [The History of Reversible Computing Research](#the-history-of-reversible-computing-research)
+      - [Overcoming the Technical Hurdles: Circuit Design and Fabrication](#overcoming-the-technical-hurdles-circuit-design-and-fabrication)
+      - [Reversible Logic Gates: Building Blocks for Energy-Efficient Processors](#reversible-logic-gates-building-blocks-for-energy-efficient-processors)
+      - [Error Correction and Reliability in Reversible Systems](#error-correction-and-reliability-in-reversible-systems)
+  - [Vaire Computing: Pioneering Near-Zero Energy Chips](#vaire-computing-pioneering-near-zero-energy-chips)
+    - [Vaire's Technological Innovation: A Deep Dive](#vaires-technological-innovation-a-deep-dive)
+      - [The Vaire Architecture: Combining Reversible Computing and Adiabatic Techniques](#the-vaire-architecture-combining-reversible-computing-and-adiabatic-techniques)
+      - [Prototype Development: Design, Fabrication, and Testing](#prototype-development-design-fabrication-and-testing)
+      - [Near-Zero Energy Consumption: Quantifying the Efficiency Gains](#near-zero-energy-consumption-quantifying-the-efficiency-gains)
+      - [Addressing the Challenges of Scalability and Performance](#addressing-the-challenges-of-scalability-and-performance)
+    - [Roadmap to Commercialisation: From Prototype to Production](#roadmap-to-commercialisation-from-prototype-to-production)
+      - [The Vaire Team: Expertise and Vision](#the-vaire-team-expertise-and-vision)
+      - [Intel's Ignite and ChipStart: Leveraging Accelerator Programs](#intels-ignite-and-chipstart-leveraging-accelerator-programs)
+      - [Securing Funding: Investment Landscape and Future Prospects](#securing-funding-investment-landscape-and-future-prospects)
+      - [Partnerships and Collaborations: Building an Ecosystem](#partnerships-and-collaborations-building-an-ecosystem)
+  - [Market Disruption and Investment Opportunities](#market-disruption-and-investment-opportunities)
+    - [The Market Potential of Reversible Computing](#the-market-potential-of-reversible-computing)
+      - [Data Centers: Reducing Energy Costs and Environmental Impact](#data-centers-reducing-energy-costs-and-environmental-impact)
+      - [Edge Computing: Enabling Sustainable AI at the Edge](#edge-computing-enabling-sustainable-ai-at-the-edge)
+      - [AI and Machine Learning: Powering the Next Generation of Algorithms](#ai-and-machine-learning-powering-the-next-generation-of-algorithms)
+      - [Other Applications: High-Performance Computing, Embedded Systems, and Beyond](#other-applications-high-performance-computing-embedded-systems-and-beyond)
+    - [Investment Landscape and Competitive Analysis](#investment-landscape-and-competitive-analysis)
+      - [The Growing Interest in Sustainable Computing](#the-growing-interest-in-sustainable-computing)
+      - [Vaire's Competitive Advantage: Technology and Market Positioning](#vaires-competitive-advantage-technology-and-market-positioning)
+      - [Potential Investors: Venture Capital, Corporate Venture Arms, and Government Funding](#potential-investors-venture-capital-corporate-venture-arms-and-government-funding)
+      - [Risks and Opportunities: Navigating the Emerging Market](#risks-and-opportunities-navigating-the-emerging-market)
+  - [The Future of Computing: A Sustainable and Efficient Tomorrow](#the-future-of-computing-a-sustainable-and-efficient-tomorrow)
+    - [The Broader Implications of Reversible Computing](#the-broader-implications-of-reversible-computing)
+      - [Environmental Benefits: Reducing Carbon Emissions and Resource Consumption](#environmental-benefits-reducing-carbon-emissions-and-resource-consumption)
+      - [Economic Impact: Creating New Industries and Jobs](#economic-impact-creating-new-industries-and-jobs)
+      - [Societal Transformation: Democratising Access to Computing Power](#societal-transformation-democratising-access-to-computing-power)
+      - [Ethical Considerations: Ensuring Responsible Innovation](#ethical-considerations-ensuring-responsible-innovation)
+    - [Challenges and Controversies: Addressing the Skeptics](#challenges-and-controversies-addressing-the-skeptics)
+      - [The Long Road to Widespread Adoption](#the-long-road-to-widespread-adoption)
+      - [Addressing Concerns About Performance and Reliability](#addressing-concerns-about-performance-and-reliability)
+      - [The Role of Government Regulation and Industry Standards](#the-role-of-government-regulation-and-industry-standards)
+      - [The Future of Vaire Computing: Vision and Strategy](#the-future-of-vaire-computing-vision-and-strategy)
+  - [Conclusion: A Reversible Future?](#conclusion-a-reversible-future)
+    - [Recap of Key Findings](#recap-of-key-findings)
+      - [The Urgency of Sustainable Computing](#the-urgency-of-sustainable-computing)
+      - [The Promise of Reversible Computing](#the-promise-of-reversible-computing)
+      - [Vaire Computing's Potential Impact](#vaire-computings-potential-impact)
+    - [Looking Ahead: The Next Steps in the Reversible Revolution](#looking-ahead-the-next-steps-in-the-reversible-revolution)
+      - [Future Research Directions](#future-research-directions)
+      - [Call to Action: Investing in a Sustainable Future](#call-to-action-investing-in-a-sustainable-future)
+      - [The Legacy of Reversible Computing](#the-legacy-of-reversible-computing)
 
 
 ## The AI Energy Paradox: Powering Progress, Fueling Crisis

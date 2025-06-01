@@ -2,82 +2,82 @@
 
 # Table of Contents
 
-- Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping
-  - Foundations of Wardley Mapping and the ILC Lifecycle
-    - Introduction to Wardley Mapping
-      - What is Wardley Mapping?
-      - The Value‑Chain Y‑Axis
-      - The Evolution X‑Axis
-    - Building Your First Map
-      - Identifying Users and Needs
-      - Linking Components in the Value Chain
-      - Determining Evolution Stages
-    - Overview of the ILC Model
-      - Innovate‑Leverage‑Commoditise Explained
-    - Innovate Stage
-    - Leverage Stage
-    - Commoditise Stage
-    - Key Benefits of the ILC Approach
-      - How ILC Aligns with Wardley Maps
-      - Key Benefits of the ILC Approach
-  - Innovate Phase: Spotting and Mapping Emerging Innovations
-    - Genesis and Custom‑Built Components
-      - Characteristics of Genesis Stage
-      - Characteristics of Custom‑Built Stage
-    - Sensing Early‑Stage Innovation
-      - User‑Driven Experimentation
-      - Ecosystem Listening Techniques
-    - Mapping Techniques for the Innovate Phase
-      - Collaborative Workshops
-      - Using Templates and Digital Tools
-    - Tech Startup Case Study
-      - Scenario and Map Walk‑Through
-      - Lessons Learned
-  - Leverage Phase: Monitoring, Refining and Identifying Patterns
-    - Tracking Customer‑Driven Solutions
-      - Data Collection Methods
-      - Success Metrics and Indicators
-    - Maintaining and Updating Maps
-      - Versioning and Annotation
-      - Spotting Emerging Trends
-    - Identifying Repeatable Patterns
-      - Standardisation vs. Customisation
-      - Transitioning to Product Form
-    - Integrating Agile, Lean and Design Thinking
-      - Lean Startup for Hypothesis Testing
-      - Agile Iterations for Map Refinement
-      - Design Thinking for User Focus
-  - Commoditise Phase: Industrialising and Scaling Solutions
-    - Recognising Commodity Readiness
-      - Maturity Indicators
-      - Assessing Market Demand
-    - Best Practices for Commoditisation
-      - Automating and Standardising
-      - Building Platform Services
-    - Risk, Governance and Cost Optimisation
-      - Security and Compliance
-      - Operational Cost Controls
-    - Healthcare Sector Case Study
-      - Mapping Healthcare Services
-      - Outcomes and Impact
-  - Cross‑Industry Case Studies, Tools and Next Steps
-    - Technology Industry Example
-      - Mapping a SaaS Platform
-      - Key Takeaways
-    - Public Sector Transformation
-      - Unique Challenges
-      - Government Service Evolution
-    - Tools, Templates and Frameworks
-      - Open‑Source and Commercial Tools
-      - Customisable Map Templates
-    - Integrating ILC with Other Methodologies
-      - Combining ILC and Agile
-      - ILC in Lean Startup
-      - ILC for Design Thinking
-    - Looking Ahead: Next Steps and Conclusion
-      - Building Your ILC Practice
-      - Community and Further Learning
-      - Final Reflections
+- [Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping](#mapping-the-ilc-lifecycle-a-beginners-guide-to-wardley-mapping)
+  - [Foundations of Wardley Mapping and the ILC Lifecycle](#foundations-of-wardley-mapping-and-the-ilc-lifecycle)
+    - [Introduction to Wardley Mapping](#introduction-to-wardley-mapping)
+      - [What is Wardley Mapping?](#what-is-wardley-mapping)
+      - [The Value‑Chain Y‑Axis](#the-valuechain-yaxis)
+      - [The Evolution X‑Axis](#the-evolution-xaxis)
+    - [Building Your First Map](#building-your-first-map)
+      - [Identifying Users and Needs](#identifying-users-and-needs)
+      - [Linking Components in the Value Chain](#linking-components-in-the-value-chain)
+      - [Determining Evolution Stages](#determining-evolution-stages)
+    - [Overview of the ILC Model](#overview-of-the-ilc-model)
+      - [Innovate‑Leverage‑Commoditise Explained](#innovateleveragecommoditise-explained)
+    - [Innovate Stage](#innovate-stage)
+    - [Leverage Stage](#leverage-stage)
+    - [Commoditise Stage](#commoditise-stage)
+    - [Key Benefits of the ILC Approach](#key-benefits-of-the-ilc-approach)
+      - [How ILC Aligns with Wardley Maps](#how-ilc-aligns-with-wardley-maps)
+      - [Key Benefits of the ILC Approach](#key-benefits-of-the-ilc-approach)
+  - [Innovate Phase: Spotting and Mapping Emerging Innovations](#innovate-phase-spotting-and-mapping-emerging-innovations)
+    - [Genesis and Custom‑Built Components](#genesis-and-custombuilt-components)
+      - [Characteristics of Genesis Stage](#characteristics-of-genesis-stage)
+      - [Characteristics of Custom‑Built Stage](#characteristics-of-custombuilt-stage)
+    - [Sensing Early‑Stage Innovation](#sensing-earlystage-innovation)
+      - [User‑Driven Experimentation](#userdriven-experimentation)
+      - [Ecosystem Listening Techniques](#ecosystem-listening-techniques)
+    - [Mapping Techniques for the Innovate Phase](#mapping-techniques-for-the-innovate-phase)
+      - [Collaborative Workshops](#collaborative-workshops)
+      - [Using Templates and Digital Tools](#using-templates-and-digital-tools)
+    - [Tech Startup Case Study](#tech-startup-case-study)
+      - [Scenario and Map Walk‑Through](#scenario-and-map-walkthrough)
+      - [Lessons Learned](#lessons-learned)
+  - [Leverage Phase: Monitoring, Refining and Identifying Patterns](#leverage-phase-monitoring-refining-and-identifying-patterns)
+    - [Tracking Customer‑Driven Solutions](#tracking-customerdriven-solutions)
+      - [Data Collection Methods](#data-collection-methods)
+      - [Success Metrics and Indicators](#success-metrics-and-indicators)
+    - [Maintaining and Updating Maps](#maintaining-and-updating-maps)
+      - [Versioning and Annotation](#versioning-and-annotation)
+      - [Spotting Emerging Trends](#spotting-emerging-trends)
+    - [Identifying Repeatable Patterns](#identifying-repeatable-patterns)
+      - [Standardisation vs. Customisation](#standardisation-vs-customisation)
+      - [Transitioning to Product Form](#transitioning-to-product-form)
+    - [Integrating Agile, Lean and Design Thinking](#integrating-agile-lean-and-design-thinking)
+      - [Lean Startup for Hypothesis Testing](#lean-startup-for-hypothesis-testing)
+      - [Agile Iterations for Map Refinement](#agile-iterations-for-map-refinement)
+      - [Design Thinking for User Focus](#design-thinking-for-user-focus)
+  - [Commoditise Phase: Industrialising and Scaling Solutions](#commoditise-phase-industrialising-and-scaling-solutions)
+    - [Recognising Commodity Readiness](#recognising-commodity-readiness)
+      - [Maturity Indicators](#maturity-indicators)
+      - [Assessing Market Demand](#assessing-market-demand)
+    - [Best Practices for Commoditisation](#best-practices-for-commoditisation)
+      - [Automating and Standardising](#automating-and-standardising)
+      - [Building Platform Services](#building-platform-services)
+    - [Risk, Governance and Cost Optimisation](#risk-governance-and-cost-optimisation)
+      - [Security and Compliance](#security-and-compliance)
+      - [Operational Cost Controls](#operational-cost-controls)
+    - [Healthcare Sector Case Study](#healthcare-sector-case-study)
+      - [Mapping Healthcare Services](#mapping-healthcare-services)
+      - [Outcomes and Impact](#outcomes-and-impact)
+  - [Cross‑Industry Case Studies, Tools and Next Steps](#crossindustry-case-studies-tools-and-next-steps)
+    - [Technology Industry Example](#technology-industry-example)
+      - [Mapping a SaaS Platform](#mapping-a-saas-platform)
+      - [Key Takeaways](#key-takeaways)
+    - [Public Sector Transformation](#public-sector-transformation)
+      - [Unique Challenges](#unique-challenges)
+      - [Government Service Evolution](#government-service-evolution)
+    - [Tools, Templates and Frameworks](#tools-templates-and-frameworks)
+      - [Open‑Source and Commercial Tools](#opensource-and-commercial-tools)
+      - [Customisable Map Templates](#customisable-map-templates)
+    - [Integrating ILC with Other Methodologies](#integrating-ilc-with-other-methodologies)
+      - [Combining ILC and Agile](#combining-ilc-and-agile)
+      - [ILC in Lean Startup](#ilc-in-lean-startup)
+      - [ILC for Design Thinking](#ilc-for-design-thinking)
+    - [Looking Ahead: Next Steps and Conclusion](#looking-ahead-next-steps-and-conclusion)
+      - [Building Your ILC Practice](#building-your-ilc-practice)
+      - [Community and Further Learning](#community-and-further-learning)
+      - [Final Reflections](#final-reflections)
 
 
 ## Foundations of Wardley Mapping and the ILC Lifecycle

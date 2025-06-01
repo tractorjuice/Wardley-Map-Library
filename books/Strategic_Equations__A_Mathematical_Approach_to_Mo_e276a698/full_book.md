@@ -2,45 +2,45 @@
 
 # Table of Contents
 
-- Strategic Equations: A Mathematical Approach to Modern Warfare
-  - Introduction to Mathematical Models in Warfare: Historical Context and Evolution
-    - The Genesis of Warfare Mathematics
-      - Early Applications in Military Strategy
-      - Evolution Through the World Wars
-    - The Rise of Computational Models
-      - The Cold War and the Advent of Complex Models
-      - Transition to Digital and Computational Techniques
-  - Modern Warfare Challenges: Cybersecurity, Asymmetrical Threats, and Hybrid Warfare
-    - Cybersecurity in Modern Conflict
-      - Mathematical Approaches to Cyber Defense
-      - Case Studies in Cyber Warfare
-    - Asymmetrical and Hybrid Threats
-      - Understanding Asymmetrical Warfare
-      - Hybrid Warfare: A New Paradigm
-  - Mathematical Frameworks: Game Theory, Network Analysis, and Predictive Modeling
-    - Game Theory in Strategic Decision Making
-      - Basic Principles of Game Theory
-      - Applications in Military Strategy
-    - Network Analysis for Tactical Advantage
-      - Understanding Network Structures
-      - Utilizing Networks in Warfare
-    - Predictive Modeling for Future Conflicts
-      - Techniques in Predictive Analytics
-      - Forecasting Conflict Scenarios
-  - Case Studies: Successful Applications of Math Models in Recent Conflicts
-    - Operation Desert Storm
-      - Strategic Planning and Execution
-      - Mathematical Models Used
-    - Counterinsurgency in Afghanistan
-      - Challenges and Mathematical Solutions
-      - Outcome Analysis
-  - Ethical and Practical Considerations: Balancing Technology and Human Decision-Making
-    - Ethics in Automated Warfare
-      - Moral Implications of AI in Warfare
-      - Balancing Human and Machine Decisions
-    - Practical Limitations of Mathematical Models
-      - Understanding Model Limitations
-      - Integrating Human Insight
+- [Strategic Equations: A Mathematical Approach to Modern Warfare](#strategic-equations-a-mathematical-approach-to-modern-warfare)
+  - [Introduction to Mathematical Models in Warfare: Historical Context and Evolution](#introduction-to-mathematical-models-in-warfare-historical-context-and-evolution)
+    - [The Genesis of Warfare Mathematics](#the-genesis-of-warfare-mathematics)
+      - [Early Applications in Military Strategy](#early-applications-in-military-strategy)
+      - [Evolution Through the World Wars](#evolution-through-the-world-wars)
+    - [The Rise of Computational Models](#the-rise-of-computational-models)
+      - [The Cold War and the Advent of Complex Models](#the-cold-war-and-the-advent-of-complex-models)
+      - [Transition to Digital and Computational Techniques](#transition-to-digital-and-computational-techniques)
+  - [Modern Warfare Challenges: Cybersecurity, Asymmetrical Threats, and Hybrid Warfare](#modern-warfare-challenges-cybersecurity-asymmetrical-threats-and-hybrid-warfare)
+    - [Cybersecurity in Modern Conflict](#cybersecurity-in-modern-conflict)
+      - [Mathematical Approaches to Cyber Defense](#mathematical-approaches-to-cyber-defense)
+      - [Case Studies in Cyber Warfare](#case-studies-in-cyber-warfare)
+    - [Asymmetrical and Hybrid Threats](#asymmetrical-and-hybrid-threats)
+      - [Understanding Asymmetrical Warfare](#understanding-asymmetrical-warfare)
+      - [Hybrid Warfare: A New Paradigm](#hybrid-warfare-a-new-paradigm)
+  - [Mathematical Frameworks: Game Theory, Network Analysis, and Predictive Modeling](#mathematical-frameworks-game-theory-network-analysis-and-predictive-modeling)
+    - [Game Theory in Strategic Decision Making](#game-theory-in-strategic-decision-making)
+      - [Basic Principles of Game Theory](#basic-principles-of-game-theory)
+      - [Applications in Military Strategy](#applications-in-military-strategy)
+    - [Network Analysis for Tactical Advantage](#network-analysis-for-tactical-advantage)
+      - [Understanding Network Structures](#understanding-network-structures)
+      - [Utilizing Networks in Warfare](#utilizing-networks-in-warfare)
+    - [Predictive Modeling for Future Conflicts](#predictive-modeling-for-future-conflicts)
+      - [Techniques in Predictive Analytics](#techniques-in-predictive-analytics)
+      - [Forecasting Conflict Scenarios](#forecasting-conflict-scenarios)
+  - [Case Studies: Successful Applications of Math Models in Recent Conflicts](#case-studies-successful-applications-of-math-models-in-recent-conflicts)
+    - [Operation Desert Storm](#operation-desert-storm)
+      - [Strategic Planning and Execution](#strategic-planning-and-execution)
+      - [Mathematical Models Used](#mathematical-models-used)
+    - [Counterinsurgency in Afghanistan](#counterinsurgency-in-afghanistan)
+      - [Challenges and Mathematical Solutions](#challenges-and-mathematical-solutions)
+      - [Outcome Analysis](#outcome-analysis)
+  - [Ethical and Practical Considerations: Balancing Technology and Human Decision-Making](#ethical-and-practical-considerations-balancing-technology-and-human-decision-making)
+    - [Ethics in Automated Warfare](#ethics-in-automated-warfare)
+      - [Moral Implications of AI in Warfare](#moral-implications-of-ai-in-warfare)
+      - [Balancing Human and Machine Decisions](#balancing-human-and-machine-decisions)
+    - [Practical Limitations of Mathematical Models](#practical-limitations-of-mathematical-models)
+      - [Understanding Model Limitations](#understanding-model-limitations)
+      - [Integrating Human Insight](#integrating-human-insight)
 
 
 ## Introduction to Mathematical Models in Warfare: Historical Context and Evolution

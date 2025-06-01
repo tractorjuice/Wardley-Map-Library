@@ -2,90 +2,90 @@
 
 # Table of Contents
 
-- Generative AI in Defence: Applications, Ethics, and Strategic Foresight for DSTL
-  - Introduction: The GenAI Revolution in Defence
-    - The Dawn of Generative AI: A Paradigm Shift
-      - Defining Generative AI: Capabilities and Limitations
-      - Historical Context: AI in Defence - From Expert Systems to GenAI
-      - The Unique Potential of GenAI for Defence Applications
-    - DSTL's Role in the GenAI Landscape
-      - DSTL's Mission and Strategic Objectives
-      - Current AI Initiatives within DSTL
-      - The Imperative for GenAI Adoption: Opportunities and Challenges
-    - Book Overview and Scope
-      - Target Audience and Intended Use
-      - Key Themes and Chapter Summaries
-      - Methodology and Approach
-  - Current and Emerging GenAI Technologies for Defence
-    - Large Language Models (LLMs): Capabilities and Applications
-      - Architecture and Functionality of LLMs
-      - Text Generation, Summarization, and Translation for Defence Intelligence
-      - LLMs for Natural Language Understanding and Dialogue Systems
-    - Diffusion Models: Image and Data Synthesis
-      - Principles of Diffusion Models
-      - Generating Realistic Training Data for AI Systems
-      - Image Enhancement and Reconstruction for Surveillance and Reconnaissance
-    - Beyond LLMs and Diffusion Models: Other Relevant GenAI Techniques
-      - Generative Adversarial Networks (GANs) for Cyber Defence
-      - Variational Autoencoders (VAEs) for Anomaly Detection
-      - Emerging Trends: Transformers, Attention Mechanisms, and Beyond
-  - Specific Use Cases of GenAI within DSTL
-    - Intelligence Analysis and Threat Detection
-      - Automated Threat Assessment and Prediction
-      - Enhanced Situational Awareness through GenAI-Powered Analysis
-      - Counter-Terrorism Applications: Identifying and Tracking Potential Threats
-    - Cybersecurity and Defence
-      - Generating Realistic Cyberattack Simulations for Training
-      - Automated Vulnerability Detection and Patching
-      - GenAI-Powered Intrusion Detection Systems
-    - Logistics Optimisation and Resource Management
-      - Predictive Maintenance and Equipment Failure Analysis
-      - Optimising Supply Chains and Resource Allocation
-      - Automated Inventory Management and Procurement
-    - Training and Simulation
-      - Creating Realistic and Dynamic Training Scenarios
-      - Personalised Learning and Adaptive Training Systems
-      - Virtual Reality and Augmented Reality Applications for Defence Training
-  - Ethical and Responsible AI in Defence: Navigating the Challenges
-    - Bias and Fairness in GenAI Systems
-      - Identifying and Mitigating Bias in Training Data
-      - Developing Fair and Equitable AI Algorithms
-      - Ensuring Transparency and Explainability in AI Decision-Making
-    - Accountability and Transparency
-      - Establishing Clear Lines of Responsibility for AI Systems
-      - Developing Auditable AI Systems
-      - Promoting Openness and Collaboration in AI Development
-    - Potential Misuse and Mitigation Strategies
-      - Addressing the Risks of Autonomous Weapons Systems
-      - Preventing the Use of GenAI for Malicious Purposes
-      - International Cooperation and Arms Control
-  - Implementation Challenges, Future Trends, and Strategic Implications
-    - Overcoming Implementation Hurdles
-      - Data Security and Privacy Considerations
-      - Infrastructure Requirements and Scalability
-      - Talent Acquisition and Skill Development
-      - Integration with Existing Defence Systems
-    - Future Trends in GenAI for Defence
-      - The Convergence of GenAI with Other Emerging Technologies
-      - The Evolution of AI-Driven Warfare
-      - The Role of Quantum Computing in GenAI
-    - Strategic Implications for DSTL and the UK
-      - Maintaining a Competitive Edge in AI
-      - Strengthening National Security through GenAI Innovation
-      - Shaping the Future of Defence through Responsible AI Development
-  - Conclusion: Embracing the Future of GenAI in Defence
-    - Recap of Key Findings and Recommendations
-      - Summary of GenAI's Potential for DSTL
-      - Key Ethical Considerations and Mitigation Strategies
-      - Strategic Imperatives for Future Development
-    - Call to Action: Fostering Innovation and Collaboration
-      - Encouraging Collaboration between Academia, Industry, and Government
-      - Investing in AI Research and Development
-      - Promoting a Culture of Responsible AI Innovation
-    - The Future of Defence: A Vision for GenAI-Enabled Capabilities
-      - Envisioning the Next Generation of Defence Systems
-      - The Transformative Potential of GenAI for National Security
-      - Concluding Remarks and Future Outlook
+- [Generative AI in Defence: Applications, Ethics, and Strategic Foresight for DSTL](#generative-ai-in-defence-applications-ethics-and-strategic-foresight-for-dstl)
+  - [Introduction: The GenAI Revolution in Defence](#introduction-the-genai-revolution-in-defence)
+    - [The Dawn of Generative AI: A Paradigm Shift](#the-dawn-of-generative-ai-a-paradigm-shift)
+      - [Defining Generative AI: Capabilities and Limitations](#defining-generative-ai-capabilities-and-limitations)
+      - [Historical Context: AI in Defence - From Expert Systems to GenAI](#historical-context-ai-in-defence-from-expert-systems-to-genai)
+      - [The Unique Potential of GenAI for Defence Applications](#the-unique-potential-of-genai-for-defence-applications)
+    - [DSTL's Role in the GenAI Landscape](#dstls-role-in-the-genai-landscape)
+      - [DSTL's Mission and Strategic Objectives](#dstls-mission-and-strategic-objectives)
+      - [Current AI Initiatives within DSTL](#current-ai-initiatives-within-dstl)
+      - [The Imperative for GenAI Adoption: Opportunities and Challenges](#the-imperative-for-genai-adoption-opportunities-and-challenges)
+    - [Book Overview and Scope](#book-overview-and-scope)
+      - [Target Audience and Intended Use](#target-audience-and-intended-use)
+      - [Key Themes and Chapter Summaries](#key-themes-and-chapter-summaries)
+      - [Methodology and Approach](#methodology-and-approach)
+  - [Current and Emerging GenAI Technologies for Defence](#current-and-emerging-genai-technologies-for-defence)
+    - [Large Language Models (LLMs): Capabilities and Applications](#large-language-models-llms-capabilities-and-applications)
+      - [Architecture and Functionality of LLMs](#architecture-and-functionality-of-llms)
+      - [Text Generation, Summarization, and Translation for Defence Intelligence](#text-generation-summarization-and-translation-for-defence-intelligence)
+      - [LLMs for Natural Language Understanding and Dialogue Systems](#llms-for-natural-language-understanding-and-dialogue-systems)
+    - [Diffusion Models: Image and Data Synthesis](#diffusion-models-image-and-data-synthesis)
+      - [Principles of Diffusion Models](#principles-of-diffusion-models)
+      - [Generating Realistic Training Data for AI Systems](#generating-realistic-training-data-for-ai-systems)
+      - [Image Enhancement and Reconstruction for Surveillance and Reconnaissance](#image-enhancement-and-reconstruction-for-surveillance-and-reconnaissance)
+    - [Beyond LLMs and Diffusion Models: Other Relevant GenAI Techniques](#beyond-llms-and-diffusion-models-other-relevant-genai-techniques)
+      - [Generative Adversarial Networks (GANs) for Cyber Defence](#generative-adversarial-networks-gans-for-cyber-defence)
+      - [Variational Autoencoders (VAEs) for Anomaly Detection](#variational-autoencoders-vaes-for-anomaly-detection)
+      - [Emerging Trends: Transformers, Attention Mechanisms, and Beyond](#emerging-trends-transformers-attention-mechanisms-and-beyond)
+  - [Specific Use Cases of GenAI within DSTL](#specific-use-cases-of-genai-within-dstl)
+    - [Intelligence Analysis and Threat Detection](#intelligence-analysis-and-threat-detection)
+      - [Automated Threat Assessment and Prediction](#automated-threat-assessment-and-prediction)
+      - [Enhanced Situational Awareness through GenAI-Powered Analysis](#enhanced-situational-awareness-through-genai-powered-analysis)
+      - [Counter-Terrorism Applications: Identifying and Tracking Potential Threats](#counter-terrorism-applications-identifying-and-tracking-potential-threats)
+    - [Cybersecurity and Defence](#cybersecurity-and-defence)
+      - [Generating Realistic Cyberattack Simulations for Training](#generating-realistic-cyberattack-simulations-for-training)
+      - [Automated Vulnerability Detection and Patching](#automated-vulnerability-detection-and-patching)
+      - [GenAI-Powered Intrusion Detection Systems](#genai-powered-intrusion-detection-systems)
+    - [Logistics Optimisation and Resource Management](#logistics-optimisation-and-resource-management)
+      - [Predictive Maintenance and Equipment Failure Analysis](#predictive-maintenance-and-equipment-failure-analysis)
+      - [Optimising Supply Chains and Resource Allocation](#optimising-supply-chains-and-resource-allocation)
+      - [Automated Inventory Management and Procurement](#automated-inventory-management-and-procurement)
+    - [Training and Simulation](#training-and-simulation)
+      - [Creating Realistic and Dynamic Training Scenarios](#creating-realistic-and-dynamic-training-scenarios)
+      - [Personalised Learning and Adaptive Training Systems](#personalised-learning-and-adaptive-training-systems)
+      - [Virtual Reality and Augmented Reality Applications for Defence Training](#virtual-reality-and-augmented-reality-applications-for-defence-training)
+  - [Ethical and Responsible AI in Defence: Navigating the Challenges](#ethical-and-responsible-ai-in-defence-navigating-the-challenges)
+    - [Bias and Fairness in GenAI Systems](#bias-and-fairness-in-genai-systems)
+      - [Identifying and Mitigating Bias in Training Data](#identifying-and-mitigating-bias-in-training-data)
+      - [Developing Fair and Equitable AI Algorithms](#developing-fair-and-equitable-ai-algorithms)
+      - [Ensuring Transparency and Explainability in AI Decision-Making](#ensuring-transparency-and-explainability-in-ai-decision-making)
+    - [Accountability and Transparency](#accountability-and-transparency)
+      - [Establishing Clear Lines of Responsibility for AI Systems](#establishing-clear-lines-of-responsibility-for-ai-systems)
+      - [Developing Auditable AI Systems](#developing-auditable-ai-systems)
+      - [Promoting Openness and Collaboration in AI Development](#promoting-openness-and-collaboration-in-ai-development)
+    - [Potential Misuse and Mitigation Strategies](#potential-misuse-and-mitigation-strategies)
+      - [Addressing the Risks of Autonomous Weapons Systems](#addressing-the-risks-of-autonomous-weapons-systems)
+      - [Preventing the Use of GenAI for Malicious Purposes](#preventing-the-use-of-genai-for-malicious-purposes)
+      - [International Cooperation and Arms Control](#international-cooperation-and-arms-control)
+  - [Implementation Challenges, Future Trends, and Strategic Implications](#implementation-challenges-future-trends-and-strategic-implications)
+    - [Overcoming Implementation Hurdles](#overcoming-implementation-hurdles)
+      - [Data Security and Privacy Considerations](#data-security-and-privacy-considerations)
+      - [Infrastructure Requirements and Scalability](#infrastructure-requirements-and-scalability)
+      - [Talent Acquisition and Skill Development](#talent-acquisition-and-skill-development)
+      - [Integration with Existing Defence Systems](#integration-with-existing-defence-systems)
+    - [Future Trends in GenAI for Defence](#future-trends-in-genai-for-defence)
+      - [The Convergence of GenAI with Other Emerging Technologies](#the-convergence-of-genai-with-other-emerging-technologies)
+      - [The Evolution of AI-Driven Warfare](#the-evolution-of-ai-driven-warfare)
+      - [The Role of Quantum Computing in GenAI](#the-role-of-quantum-computing-in-genai)
+    - [Strategic Implications for DSTL and the UK](#strategic-implications-for-dstl-and-the-uk)
+      - [Maintaining a Competitive Edge in AI](#maintaining-a-competitive-edge-in-ai)
+      - [Strengthening National Security through GenAI Innovation](#strengthening-national-security-through-genai-innovation)
+      - [Shaping the Future of Defence through Responsible AI Development](#shaping-the-future-of-defence-through-responsible-ai-development)
+  - [Conclusion: Embracing the Future of GenAI in Defence](#conclusion-embracing-the-future-of-genai-in-defence)
+    - [Recap of Key Findings and Recommendations](#recap-of-key-findings-and-recommendations)
+      - [Summary of GenAI's Potential for DSTL](#summary-of-genais-potential-for-dstl)
+      - [Key Ethical Considerations and Mitigation Strategies](#key-ethical-considerations-and-mitigation-strategies)
+      - [Strategic Imperatives for Future Development](#strategic-imperatives-for-future-development)
+    - [Call to Action: Fostering Innovation and Collaboration](#call-to-action-fostering-innovation-and-collaboration)
+      - [Encouraging Collaboration between Academia, Industry, and Government](#encouraging-collaboration-between-academia-industry-and-government)
+      - [Investing in AI Research and Development](#investing-in-ai-research-and-development)
+      - [Promoting a Culture of Responsible AI Innovation](#promoting-a-culture-of-responsible-ai-innovation)
+    - [The Future of Defence: A Vision for GenAI-Enabled Capabilities](#the-future-of-defence-a-vision-for-genai-enabled-capabilities)
+      - [Envisioning the Next Generation of Defence Systems](#envisioning-the-next-generation-of-defence-systems)
+      - [The Transformative Potential of GenAI for National Security](#the-transformative-potential-of-genai-for-national-security)
+      - [Concluding Remarks and Future Outlook](#concluding-remarks-and-future-outlook)
 
 
 ## Introduction: The GenAI Revolution in Defence

@@ -2,87 +2,87 @@
 
 # Table of Contents
 
-- World War III: An Expert's Guide to Geopolitics, Technology, and Survival
-  - Understanding the New Geopolitical Landscape
-    - Geopolitical Flashpoints and Escalation Dynamics
-      - Identifying Current and Emerging Flashpoints
-      - Analyzing Escalation Triggers and Pathways
-      - The Role of Great Power Competition
-      - Case Study: Ukraine and its Global Implications
-    - The Shifting Balance of Power
-      - Rise of Multipolarity and Regional Powers
-      - Decline of US Hegemony?
-      - The China Factor: Economic and Military Expansion
-      - Russia's Resurgence and Strategic Objectives
-    - Resource Wars and Economic Interdependence
-      - Competition for Critical Resources: Energy, Minerals, and Water
-      - Economic Sanctions and Trade Wars as Weapons
-      - The Impact of Global Supply Chain Disruptions
-      - Financial Warfare: Debt, Currency Manipulation, and Cyberattacks
-  - Technological Warfare: The Cutting Edge of Conflict
-    - Cyber Warfare: Disrupt, Degrade, Destroy
-      - Cyberattacks on Critical Infrastructure
-      - Information Warfare and Disinformation Campaigns
-      - Defensive Strategies and Cyber Resilience
-      - Case Study: The Impact of a Major Cyberattack on a Nation State
-    - Artificial Intelligence and Autonomous Weapons Systems
-      - The AI Arms Race: Capabilities and Risks
-      - Autonomous Weapons: Ethical and Strategic Implications
-      - AI in Intelligence Gathering and Analysis
-      - Countering AI-Driven Threats
-    - Emerging Weapons Technologies
-      - Hypersonic Missiles: Speed and Maneuverability
-      - Space-Based Warfare: Satellites and Anti-Satellite Weapons
-      - Directed Energy Weapons: Lasers and Microwaves
-      - The Proliferation of Drone Technology
-  - Societal Impacts and Strategies for Resilience
-    - Disinformation and Propaganda in the Digital Age
-      - The Weaponization of Social Media
-      - Combating Fake News and Propaganda
-      - Protecting Democratic Institutions from Foreign Interference
-      - Building Media Literacy and Critical Thinking Skills
-    - Humanitarian Crises and Disaster Response
-      - The Impact of War on Civilian Populations
-      - Refugee Flows and Humanitarian Aid
-      - Preparing for Mass Displacement and Resource Scarcity
-      - International Law and the Protection of Civilians
-    - Building Societal Resilience
-      - Community Preparedness and Emergency Planning
-      - Protecting Critical Infrastructure and Essential Services
-      - Strengthening Social Cohesion and Trust
-      - Psychological Resilience and Mental Health Support
-  - Strategic Frameworks for Conflict Analysis and Mitigation
-    - Applying Wardley Mapping to Geopolitical Analysis
-      - Understanding the Value Chain of National Security
-      - Mapping the Evolution of Military Capabilities
-      - Identifying Strategic Dependencies and Vulnerabilities
-      - Using Wardley Maps to Anticipate Future Conflicts
-    - Game Theory and Conflict Resolution
-      - Understanding Strategic Interactions and Decision-Making
-      - The Prisoner's Dilemma and the Logic of Escalation
-      - Negotiation Strategies and Conflict De-escalation
-      - The Role of International Institutions in Conflict Management
-    - Scenario Planning and Risk Assessment
-      - Developing Alternative Scenarios for World War III
-      - Identifying Key Risks and Uncertainties
-      - Evaluating the Potential Consequences of Different Scenarios
-      - Developing Mitigation Strategies and Contingency Plans
-  - Surviving World War III: A Practical Guide
-    - Personal Preparedness and Survival Skills
-      - Creating a Survival Kit and Emergency Plan
-      - Securing Food, Water, and Shelter
-      - Basic First Aid and Medical Skills
-      - Self-Defense and Personal Security
-    - Community Resilience and Mutual Aid
-      - Building Local Networks and Support Systems
-      - Sharing Resources and Skills
-      - Protecting Your Community from Threats
-      - Maintaining Morale and Hope
-    - The Long-Term Recovery and Rebuilding
-      - Adapting to a New Reality
-      - Rebuilding Infrastructure and Institutions
-      - Promoting Reconciliation and Healing
-      - Learning from the Past to Prevent Future Conflicts
+- [World War III: An Expert's Guide to Geopolitics, Technology, and Survival](#world-war-iii-an-experts-guide-to-geopolitics-technology-and-survival)
+  - [Understanding the New Geopolitical Landscape](#understanding-the-new-geopolitical-landscape)
+    - [Geopolitical Flashpoints and Escalation Dynamics](#geopolitical-flashpoints-and-escalation-dynamics)
+      - [Identifying Current and Emerging Flashpoints](#identifying-current-and-emerging-flashpoints)
+      - [Analyzing Escalation Triggers and Pathways](#analyzing-escalation-triggers-and-pathways)
+      - [The Role of Great Power Competition](#the-role-of-great-power-competition)
+      - [Case Study: Ukraine and its Global Implications](#case-study-ukraine-and-its-global-implications)
+    - [The Shifting Balance of Power](#the-shifting-balance-of-power)
+      - [Rise of Multipolarity and Regional Powers](#rise-of-multipolarity-and-regional-powers)
+      - [Decline of US Hegemony?](#decline-of-us-hegemony)
+      - [The China Factor: Economic and Military Expansion](#the-china-factor-economic-and-military-expansion)
+      - [Russia's Resurgence and Strategic Objectives](#russias-resurgence-and-strategic-objectives)
+    - [Resource Wars and Economic Interdependence](#resource-wars-and-economic-interdependence)
+      - [Competition for Critical Resources: Energy, Minerals, and Water](#competition-for-critical-resources-energy-minerals-and-water)
+      - [Economic Sanctions and Trade Wars as Weapons](#economic-sanctions-and-trade-wars-as-weapons)
+      - [The Impact of Global Supply Chain Disruptions](#the-impact-of-global-supply-chain-disruptions)
+      - [Financial Warfare: Debt, Currency Manipulation, and Cyberattacks](#financial-warfare-debt-currency-manipulation-and-cyberattacks)
+  - [Technological Warfare: The Cutting Edge of Conflict](#technological-warfare-the-cutting-edge-of-conflict)
+    - [Cyber Warfare: Disrupt, Degrade, Destroy](#cyber-warfare-disrupt-degrade-destroy)
+      - [Cyberattacks on Critical Infrastructure](#cyberattacks-on-critical-infrastructure)
+      - [Information Warfare and Disinformation Campaigns](#information-warfare-and-disinformation-campaigns)
+      - [Defensive Strategies and Cyber Resilience](#defensive-strategies-and-cyber-resilience)
+      - [Case Study: The Impact of a Major Cyberattack on a Nation State](#case-study-the-impact-of-a-major-cyberattack-on-a-nation-state)
+    - [Artificial Intelligence and Autonomous Weapons Systems](#artificial-intelligence-and-autonomous-weapons-systems)
+      - [The AI Arms Race: Capabilities and Risks](#the-ai-arms-race-capabilities-and-risks)
+      - [Autonomous Weapons: Ethical and Strategic Implications](#autonomous-weapons-ethical-and-strategic-implications)
+      - [AI in Intelligence Gathering and Analysis](#ai-in-intelligence-gathering-and-analysis)
+      - [Countering AI-Driven Threats](#countering-ai-driven-threats)
+    - [Emerging Weapons Technologies](#emerging-weapons-technologies)
+      - [Hypersonic Missiles: Speed and Maneuverability](#hypersonic-missiles-speed-and-maneuverability)
+      - [Space-Based Warfare: Satellites and Anti-Satellite Weapons](#space-based-warfare-satellites-and-anti-satellite-weapons)
+      - [Directed Energy Weapons: Lasers and Microwaves](#directed-energy-weapons-lasers-and-microwaves)
+      - [The Proliferation of Drone Technology](#the-proliferation-of-drone-technology)
+  - [Societal Impacts and Strategies for Resilience](#societal-impacts-and-strategies-for-resilience)
+    - [Disinformation and Propaganda in the Digital Age](#disinformation-and-propaganda-in-the-digital-age)
+      - [The Weaponization of Social Media](#the-weaponization-of-social-media)
+      - [Combating Fake News and Propaganda](#combating-fake-news-and-propaganda)
+      - [Protecting Democratic Institutions from Foreign Interference](#protecting-democratic-institutions-from-foreign-interference)
+      - [Building Media Literacy and Critical Thinking Skills](#building-media-literacy-and-critical-thinking-skills)
+    - [Humanitarian Crises and Disaster Response](#humanitarian-crises-and-disaster-response)
+      - [The Impact of War on Civilian Populations](#the-impact-of-war-on-civilian-populations)
+      - [Refugee Flows and Humanitarian Aid](#refugee-flows-and-humanitarian-aid)
+      - [Preparing for Mass Displacement and Resource Scarcity](#preparing-for-mass-displacement-and-resource-scarcity)
+      - [International Law and the Protection of Civilians](#international-law-and-the-protection-of-civilians)
+    - [Building Societal Resilience](#building-societal-resilience)
+      - [Community Preparedness and Emergency Planning](#community-preparedness-and-emergency-planning)
+      - [Protecting Critical Infrastructure and Essential Services](#protecting-critical-infrastructure-and-essential-services)
+      - [Strengthening Social Cohesion and Trust](#strengthening-social-cohesion-and-trust)
+      - [Psychological Resilience and Mental Health Support](#psychological-resilience-and-mental-health-support)
+  - [Strategic Frameworks for Conflict Analysis and Mitigation](#strategic-frameworks-for-conflict-analysis-and-mitigation)
+    - [Applying Wardley Mapping to Geopolitical Analysis](#applying-wardley-mapping-to-geopolitical-analysis)
+      - [Understanding the Value Chain of National Security](#understanding-the-value-chain-of-national-security)
+      - [Mapping the Evolution of Military Capabilities](#mapping-the-evolution-of-military-capabilities)
+      - [Identifying Strategic Dependencies and Vulnerabilities](#identifying-strategic-dependencies-and-vulnerabilities)
+      - [Using Wardley Maps to Anticipate Future Conflicts](#using-wardley-maps-to-anticipate-future-conflicts)
+    - [Game Theory and Conflict Resolution](#game-theory-and-conflict-resolution)
+      - [Understanding Strategic Interactions and Decision-Making](#understanding-strategic-interactions-and-decision-making)
+      - [The Prisoner's Dilemma and the Logic of Escalation](#the-prisoners-dilemma-and-the-logic-of-escalation)
+      - [Negotiation Strategies and Conflict De-escalation](#negotiation-strategies-and-conflict-de-escalation)
+      - [The Role of International Institutions in Conflict Management](#the-role-of-international-institutions-in-conflict-management)
+    - [Scenario Planning and Risk Assessment](#scenario-planning-and-risk-assessment)
+      - [Developing Alternative Scenarios for World War III](#developing-alternative-scenarios-for-world-war-iii)
+      - [Identifying Key Risks and Uncertainties](#identifying-key-risks-and-uncertainties)
+      - [Evaluating the Potential Consequences of Different Scenarios](#evaluating-the-potential-consequences-of-different-scenarios)
+      - [Developing Mitigation Strategies and Contingency Plans](#developing-mitigation-strategies-and-contingency-plans)
+  - [Surviving World War III: A Practical Guide](#surviving-world-war-iii-a-practical-guide)
+    - [Personal Preparedness and Survival Skills](#personal-preparedness-and-survival-skills)
+      - [Creating a Survival Kit and Emergency Plan](#creating-a-survival-kit-and-emergency-plan)
+      - [Securing Food, Water, and Shelter](#securing-food-water-and-shelter)
+      - [Basic First Aid and Medical Skills](#basic-first-aid-and-medical-skills)
+      - [Self-Defense and Personal Security](#self-defense-and-personal-security)
+    - [Community Resilience and Mutual Aid](#community-resilience-and-mutual-aid)
+      - [Building Local Networks and Support Systems](#building-local-networks-and-support-systems)
+      - [Sharing Resources and Skills](#sharing-resources-and-skills)
+      - [Protecting Your Community from Threats](#protecting-your-community-from-threats)
+      - [Maintaining Morale and Hope](#maintaining-morale-and-hope)
+    - [The Long-Term Recovery and Rebuilding](#the-long-term-recovery-and-rebuilding)
+      - [Adapting to a New Reality](#adapting-to-a-new-reality)
+      - [Rebuilding Infrastructure and Institutions](#rebuilding-infrastructure-and-institutions)
+      - [Promoting Reconciliation and Healing](#promoting-reconciliation-and-healing)
+      - [Learning from the Past to Prevent Future Conflicts](#learning-from-the-past-to-prevent-future-conflicts)
 
 
 ## Understanding the New Geopolitical Landscape

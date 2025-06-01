@@ -2,65 +2,65 @@
 
 # Table of Contents
 
-- DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power
-  - Introduction: The DeepSeek Moment and the AI Landscape
-    - Defining the 'DeepSeek Bombshell': What It Means and Why It Matters
-    - Setting the Stage: The Current State of AI Development Globally
-  - China's Open-Source AI Strategy: Motivations and Implementation
-    - The Strategic Rationale: Why Open Source?
-    - DeepSeek and Beyond: Key Players and Initiatives
-    - Implementation Challenges and Opportunities
-  - West vs. East: A Comparative Analysis of AI Development Models
-    - The Western Approach: Proprietary Models and Concentrated Wealth
-    - China's Open-Source Model: Democratisation and Collaboration
-    - Strategic Gameplay: Wardley Mapping and Game Theory Perspectives
-      - Mapping the AI Landscape: Identifying Key Components and Dependencies
-      - Strategic Advantage: Open Source vs. Proprietary in Different Contexts
-      - Game Theory: Analysing the Interactions Between Players
-      - Evolving Strategies: Adapting to a Dynamic Environment
-  - Case Studies: Practical Applications of China's Open-Source AI
-    - AI in Manufacturing: Optimising Production and Efficiency
-      - Smart Factories: Automating Processes and Improving Quality
-      - Predictive Maintenance: Reducing Downtime and Costs
-      - Supply Chain Management: Enhancing Visibility and Resilience
-      - Case Study: A Chinese Manufacturing Company Leveraging DeepSeek
-    - AI in Healthcare: Improving Diagnosis and Treatment
-      - Medical Imaging: Detecting Diseases Earlier and More Accurately
-      - Drug Discovery: Accelerating the Development of New Therapies
-      - Personalised Medicine: Tailoring Treatments to Individual Patients
-      - Case Study: A Chinese Hospital Using Open-Source AI for Cancer Detection
-    - AI in Smart Cities: Enhancing Urban Living
-      - Traffic Management: Reducing Congestion and Improving Safety
-      - Public Safety: Preventing Crime and Responding to Emergencies
-      - Environmental Monitoring: Protecting Air and Water Quality
-      - Case Study: A Chinese City Implementing Open-Source AI for Smart Governance
-  - The Future of Global Power: AI, Division, and Collaboration
-    - Geopolitical Implications: A Shifting Balance of Power
-      - Economic Dominance: Who Will Control the AI Economy?
-      - Technological Leadership: The Race for AI Supremacy
-      - Military Applications: The AI Arms Race
-      - The Risk of Fragmentation: A Divided World?
-    - The Potential for Collaboration: A Shared Future?
-      - Open Standards: Promoting Interoperability and Compatibility
-      - Data Sharing: Facilitating Cross-Border Collaboration
-      - Ethical Frameworks: Establishing Common Principles for AI Development
-      - Global Governance: Addressing the Challenges of AI Regulation
-    - Navigating the DeepSeek Disruption: A Call to Action
-      - For Policymakers: Fostering Innovation and Ensuring Fairness
-      - For Businesses: Embracing Open Source and Adapting to Change
-      - For Researchers: Advancing the Frontiers of AI Knowledge
-      - For Individuals: Understanding the Impact of AI on Our Lives
-  - Conclusion: The AI Revolution and the Choice Before Us
-    - Reflecting on the DeepSeek Bombshell: Lessons Learned
-      - The Power of Open Source: A Catalyst for Innovation
-      - The Importance of Strategic Thinking: Navigating a Complex Landscape
-      - The Need for Ethical Considerations: Ensuring Responsible AI Development
-      - The Urgency of Global Collaboration: Building a Shared Future
-    - Looking Ahead: The Future of AI and Global Power
-      - Emerging Trends: What to Expect in the Coming Years
-      - Key Challenges: Addressing the Risks and Uncertainties
-      - Opportunities for Growth: Harnessing the Potential of AI
-      - A Vision for the Future: A World Transformed by AI
+- [DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power](#deepseek-disruption-chinas-open-source-ai-and-the-remaking-of-global-power)
+  - [Introduction: The DeepSeek Moment and the AI Landscape](#introduction-the-deepseek-moment-and-the-ai-landscape)
+    - [Defining the 'DeepSeek Bombshell': What It Means and Why It Matters](#defining-the-deepseek-bombshell-what-it-means-and-why-it-matters)
+    - [Setting the Stage: The Current State of AI Development Globally](#setting-the-stage-the-current-state-of-ai-development-globally)
+  - [China's Open-Source AI Strategy: Motivations and Implementation](#chinas-open-source-ai-strategy-motivations-and-implementation)
+    - [The Strategic Rationale: Why Open Source?](#the-strategic-rationale-why-open-source)
+    - [DeepSeek and Beyond: Key Players and Initiatives](#deepseek-and-beyond-key-players-and-initiatives)
+    - [Implementation Challenges and Opportunities](#implementation-challenges-and-opportunities)
+  - [West vs. East: A Comparative Analysis of AI Development Models](#west-vs-east-a-comparative-analysis-of-ai-development-models)
+    - [The Western Approach: Proprietary Models and Concentrated Wealth](#the-western-approach-proprietary-models-and-concentrated-wealth)
+    - [China's Open-Source Model: Democratisation and Collaboration](#chinas-open-source-model-democratisation-and-collaboration)
+    - [Strategic Gameplay: Wardley Mapping and Game Theory Perspectives](#strategic-gameplay-wardley-mapping-and-game-theory-perspectives)
+      - [Mapping the AI Landscape: Identifying Key Components and Dependencies](#mapping-the-ai-landscape-identifying-key-components-and-dependencies)
+      - [Strategic Advantage: Open Source vs. Proprietary in Different Contexts](#strategic-advantage-open-source-vs-proprietary-in-different-contexts)
+      - [Game Theory: Analysing the Interactions Between Players](#game-theory-analysing-the-interactions-between-players)
+      - [Evolving Strategies: Adapting to a Dynamic Environment](#evolving-strategies-adapting-to-a-dynamic-environment)
+  - [Case Studies: Practical Applications of China's Open-Source AI](#case-studies-practical-applications-of-chinas-open-source-ai)
+    - [AI in Manufacturing: Optimising Production and Efficiency](#ai-in-manufacturing-optimising-production-and-efficiency)
+      - [Smart Factories: Automating Processes and Improving Quality](#smart-factories-automating-processes-and-improving-quality)
+      - [Predictive Maintenance: Reducing Downtime and Costs](#predictive-maintenance-reducing-downtime-and-costs)
+      - [Supply Chain Management: Enhancing Visibility and Resilience](#supply-chain-management-enhancing-visibility-and-resilience)
+      - [Case Study: A Chinese Manufacturing Company Leveraging DeepSeek](#case-study-a-chinese-manufacturing-company-leveraging-deepseek)
+    - [AI in Healthcare: Improving Diagnosis and Treatment](#ai-in-healthcare-improving-diagnosis-and-treatment)
+      - [Medical Imaging: Detecting Diseases Earlier and More Accurately](#medical-imaging-detecting-diseases-earlier-and-more-accurately)
+      - [Drug Discovery: Accelerating the Development of New Therapies](#drug-discovery-accelerating-the-development-of-new-therapies)
+      - [Personalised Medicine: Tailoring Treatments to Individual Patients](#personalised-medicine-tailoring-treatments-to-individual-patients)
+      - [Case Study: A Chinese Hospital Using Open-Source AI for Cancer Detection](#case-study-a-chinese-hospital-using-open-source-ai-for-cancer-detection)
+    - [AI in Smart Cities: Enhancing Urban Living](#ai-in-smart-cities-enhancing-urban-living)
+      - [Traffic Management: Reducing Congestion and Improving Safety](#traffic-management-reducing-congestion-and-improving-safety)
+      - [Public Safety: Preventing Crime and Responding to Emergencies](#public-safety-preventing-crime-and-responding-to-emergencies)
+      - [Environmental Monitoring: Protecting Air and Water Quality](#environmental-monitoring-protecting-air-and-water-quality)
+      - [Case Study: A Chinese City Implementing Open-Source AI for Smart Governance](#case-study-a-chinese-city-implementing-open-source-ai-for-smart-governance)
+  - [The Future of Global Power: AI, Division, and Collaboration](#the-future-of-global-power-ai-division-and-collaboration)
+    - [Geopolitical Implications: A Shifting Balance of Power](#geopolitical-implications-a-shifting-balance-of-power)
+      - [Economic Dominance: Who Will Control the AI Economy?](#economic-dominance-who-will-control-the-ai-economy)
+      - [Technological Leadership: The Race for AI Supremacy](#technological-leadership-the-race-for-ai-supremacy)
+      - [Military Applications: The AI Arms Race](#military-applications-the-ai-arms-race)
+      - [The Risk of Fragmentation: A Divided World?](#the-risk-of-fragmentation-a-divided-world)
+    - [The Potential for Collaboration: A Shared Future?](#the-potential-for-collaboration-a-shared-future)
+      - [Open Standards: Promoting Interoperability and Compatibility](#open-standards-promoting-interoperability-and-compatibility)
+      - [Data Sharing: Facilitating Cross-Border Collaboration](#data-sharing-facilitating-cross-border-collaboration)
+      - [Ethical Frameworks: Establishing Common Principles for AI Development](#ethical-frameworks-establishing-common-principles-for-ai-development)
+      - [Global Governance: Addressing the Challenges of AI Regulation](#global-governance-addressing-the-challenges-of-ai-regulation)
+    - [Navigating the DeepSeek Disruption: A Call to Action](#navigating-the-deepseek-disruption-a-call-to-action)
+      - [For Policymakers: Fostering Innovation and Ensuring Fairness](#for-policymakers-fostering-innovation-and-ensuring-fairness)
+      - [For Businesses: Embracing Open Source and Adapting to Change](#for-businesses-embracing-open-source-and-adapting-to-change)
+      - [For Researchers: Advancing the Frontiers of AI Knowledge](#for-researchers-advancing-the-frontiers-of-ai-knowledge)
+      - [For Individuals: Understanding the Impact of AI on Our Lives](#for-individuals-understanding-the-impact-of-ai-on-our-lives)
+  - [Conclusion: The AI Revolution and the Choice Before Us](#conclusion-the-ai-revolution-and-the-choice-before-us)
+    - [Reflecting on the DeepSeek Bombshell: Lessons Learned](#reflecting-on-the-deepseek-bombshell-lessons-learned)
+      - [The Power of Open Source: A Catalyst for Innovation](#the-power-of-open-source-a-catalyst-for-innovation)
+      - [The Importance of Strategic Thinking: Navigating a Complex Landscape](#the-importance-of-strategic-thinking-navigating-a-complex-landscape)
+      - [The Need for Ethical Considerations: Ensuring Responsible AI Development](#the-need-for-ethical-considerations-ensuring-responsible-ai-development)
+      - [The Urgency of Global Collaboration: Building a Shared Future](#the-urgency-of-global-collaboration-building-a-shared-future)
+    - [Looking Ahead: The Future of AI and Global Power](#looking-ahead-the-future-of-ai-and-global-power)
+      - [Emerging Trends: What to Expect in the Coming Years](#emerging-trends-what-to-expect-in-the-coming-years)
+      - [Key Challenges: Addressing the Risks and Uncertainties](#key-challenges-addressing-the-risks-and-uncertainties)
+      - [Opportunities for Growth: Harnessing the Potential of AI](#opportunities-for-growth-harnessing-the-potential-of-ai)
+      - [A Vision for the Future: A World Transformed by AI](#a-vision-for-the-future-a-world-transformed-by-ai)
 
 
 ## Introduction: The DeepSeek Moment and the AI Landscape

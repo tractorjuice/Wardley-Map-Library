@@ -2,58 +2,58 @@
 
 # Table of Contents
 
-- Navigating Complexity: Wardley Mapping Climatic Patterns as a Math Model
-  - Introduction to Wardley Mapping and Climatic Patterns
-    - Understanding Wardley Maps
-      - History and Origin
-      - Core Concepts and Components
-    - The Role of Climatic Patterns
-      - Definition and Importance
-      - Predictability and Strategic Foresight
-    - How to Use This Book
-      - Structure and Organisation
-      - Reading Approaches and Tips
-  - Mathematical Modeling of Strategic Patterns
-    - The Evolutionary Process
-      - Stages of Evolution
-      - Supply and Demand Dynamics
-    - Rates of Evolution
-      - Ecosystem Variability
-      - Consumer vs. Industrial Ecosystems
-    - Predictive Modeling in Strategy
-      - P[what] vs P[when]
-      - Scenario Planning Techniques
-  - Case Studies: Quantifying Success with Math Models
-    - Cloud Computing
-      - Evolution and Adoption
-      - Strategic Implications
-    - Automotive Industry
-      - Electric Vehicles Transition
-      - Market Dynamics
-    - Artificial Intelligence
-      - Development and Integration
-      - Predictive Challenges
-  - Cross-Disciplinary Insights: Integrating Business Strategy with Data Science
-    - The Role of Data Science in Strategy
-      - Data-Driven Decision Making
-      - Predictive Analytics
-    - Bridging the Gap
-      - Qualitative and Quantitative Integration
-      - Tools and Techniques
-  - Addressing Challenges: Balancing Quantitative and Qualitative Approaches
-    - The Inertia of Success
-      - Understanding Inertia
-      - Strategies for Overcoming
-    - Navigating Uncertainty
-      - Embracing Uncertainty
-      - Adaptive Strategies
-  - Conclusion and Future Directions
-    - Key Takeaways
-      - Summary of Insights
-      - Strategic Applications
-    - The Future of Wardley Mapping
-      - Emerging Trends
-      - Potential Developments
+- [Navigating Complexity: Wardley Mapping Climatic Patterns as a Math Model](#navigating-complexity-wardley-mapping-climatic-patterns-as-a-math-model)
+  - [Introduction to Wardley Mapping and Climatic Patterns](#introduction-to-wardley-mapping-and-climatic-patterns)
+    - [Understanding Wardley Maps](#understanding-wardley-maps)
+      - [History and Origin](#history-and-origin)
+      - [Core Concepts and Components](#core-concepts-and-components)
+    - [The Role of Climatic Patterns](#the-role-of-climatic-patterns)
+      - [Definition and Importance](#definition-and-importance)
+      - [Predictability and Strategic Foresight](#predictability-and-strategic-foresight)
+    - [How to Use This Book](#how-to-use-this-book)
+      - [Structure and Organisation](#structure-and-organisation)
+      - [Reading Approaches and Tips](#reading-approaches-and-tips)
+  - [Mathematical Modeling of Strategic Patterns](#mathematical-modeling-of-strategic-patterns)
+    - [The Evolutionary Process](#the-evolutionary-process)
+      - [Stages of Evolution](#stages-of-evolution)
+      - [Supply and Demand Dynamics](#supply-and-demand-dynamics)
+    - [Rates of Evolution](#rates-of-evolution)
+      - [Ecosystem Variability](#ecosystem-variability)
+      - [Consumer vs. Industrial Ecosystems](#consumer-vs-industrial-ecosystems)
+    - [Predictive Modeling in Strategy](#predictive-modeling-in-strategy)
+      - [P[what] vs P[when]](#pwhat-vs-pwhen)
+      - [Scenario Planning Techniques](#scenario-planning-techniques)
+  - [Case Studies: Quantifying Success with Math Models](#case-studies-quantifying-success-with-math-models)
+    - [Cloud Computing](#cloud-computing)
+      - [Evolution and Adoption](#evolution-and-adoption)
+      - [Strategic Implications](#strategic-implications)
+    - [Automotive Industry](#automotive-industry)
+      - [Electric Vehicles Transition](#electric-vehicles-transition)
+      - [Market Dynamics](#market-dynamics)
+    - [Artificial Intelligence](#artificial-intelligence)
+      - [Development and Integration](#development-and-integration)
+      - [Predictive Challenges](#predictive-challenges)
+  - [Cross-Disciplinary Insights: Integrating Business Strategy with Data Science](#cross-disciplinary-insights-integrating-business-strategy-with-data-science)
+    - [The Role of Data Science in Strategy](#the-role-of-data-science-in-strategy)
+      - [Data-Driven Decision Making](#data-driven-decision-making)
+      - [Predictive Analytics](#predictive-analytics)
+    - [Bridging the Gap](#bridging-the-gap)
+      - [Qualitative and Quantitative Integration](#qualitative-and-quantitative-integration)
+      - [Tools and Techniques](#tools-and-techniques)
+  - [Addressing Challenges: Balancing Quantitative and Qualitative Approaches](#addressing-challenges-balancing-quantitative-and-qualitative-approaches)
+    - [The Inertia of Success](#the-inertia-of-success)
+      - [Understanding Inertia](#understanding-inertia)
+      - [Strategies for Overcoming](#strategies-for-overcoming)
+    - [Navigating Uncertainty](#navigating-uncertainty)
+      - [Embracing Uncertainty](#embracing-uncertainty)
+      - [Adaptive Strategies](#adaptive-strategies)
+  - [Conclusion and Future Directions](#conclusion-and-future-directions)
+    - [Key Takeaways](#key-takeaways)
+      - [Summary of Insights](#summary-of-insights)
+      - [Strategic Applications](#strategic-applications)
+    - [The Future of Wardley Mapping](#the-future-of-wardley-mapping)
+      - [Emerging Trends](#emerging-trends)
+      - [Potential Developments](#potential-developments)
 
 
 ## Introduction to Wardley Mapping and Climatic Patterns

@@ -2,67 +2,67 @@
 
 # Table of Contents
 
-- Open Banking for You: Take Control of Your Finances in the UK
-  - Understanding Open Banking: Your Financial Revolution
-    - What is Open Banking and Why Should You Care?
-      - Defining Open Banking: Beyond the Buzzwords
-      - The UK's Open Banking Journey: A Regulatory Overview (FCA, CMA)
-      - Benefits for Consumers: Time, Money, and Control
-      - Dispelling the Myths: Addressing Common Concerns
-    - The Open Banking Ecosystem: Players and Processes
-      - Banks and Building Societies: The Data Holders
-      - Third-Party Providers (TPPs): The Innovators
-      - APIs: The Technology That Connects It All
-      - Consent and Control: Your Rights as a Consumer
-  - Unlocking the Power: Practical Applications for UK Consumers
-    - Budgeting and Money Management: See Where Your Money Goes
-      - Aggregating Accounts: A Single View of Your Finances
-      - Automated Budgeting Tools: Setting Limits and Tracking Spending
-      - Personalised Insights: Understanding Your Spending Habits
-      - Case Study: Using Open Banking to Achieve Budgeting Goals
-    - Savings and Investments: Grow Your Wealth Smarter
-      - Finding the Best Savings Rates: Automated Comparisons
-      - Personalised Investment Recommendations: Tailored to Your Needs
-      - Round-Up Savings: Effortless Saving with Every Purchase
-      - Case Study: Using Open Banking to Optimize Savings and Investments
-    - Smarter Lending: Accessing Credit on Your Terms
-      - Faster Loan Applications: Streamlining the Process
-      - Personalised Loan Offers: Finding the Best Rates for You
-      - Credit Score Improvement: Using Open Banking Data to Your Advantage
-      - Case Study: Using Open Banking to Secure a Better Loan
-  - Staying Safe and Secure: Navigating the Open Banking Landscape
-    - Understanding the Risks: Data Security and Fraud Prevention
-      - Data Encryption and Security Protocols: Protecting Your Information
-      - Authorisation and Authentication: Verifying Your Identity
-      - Fraud Detection and Prevention: Identifying Suspicious Activity
-      - Your Responsibilities: Protecting Yourself from Scams
-    - Privacy and Control: Managing Your Data Sharing
-      - Informed Consent: Understanding What You're Agreeing To
-      - Data Minimisation: Sharing Only What's Necessary
-      - Revoking Access: Taking Back Control of Your Data
-      - GDPR and Open Banking: Your Rights Under the Law
-  - Mapping Your Financial Future: Using Wardley Maps for Open Banking
-    - Introduction to Wardley Maps: Visualising the Landscape
-      - Core Concepts: Value Chains, Evolution, and Strategic Play
-      - Mapping Your Financial Needs: Identifying Key Components
-      - Understanding the Evolution of Open Banking Services
-      - Example Wardley Map: Visualising a Simple Open Banking Use Case
-    - Applying Wardley Maps to Open Banking Decisions
-      - Identifying Opportunities: Where Can Open Banking Help You?
-      - Assessing Risks: Understanding the Potential Downsides
-      - Making Informed Choices: Choosing the Right Services for You
-      - Future-Proofing Your Finances: Anticipating Changes in the Ecosystem
-  - The Future of Open Banking: What's Next for UK Consumers?
-    - Emerging Trends: Variable Recurring Payments and Beyond
-      - Variable Recurring Payments (VRPs): A New Era of Control
-      - AI-Powered Financial Advice: Personalised Insights at Your Fingertips
-      - Embedded Finance: Open Banking Integrated into Everyday Life
-      - The Metaverse and Open Banking: Exploring New Possibilities
-    - The Road Ahead: Challenges and Opportunities
-      - Increasing Consumer Awareness and Trust
-      - Ensuring Interoperability and Standardisation
-      - Addressing Ethical Considerations: Data Bias and Fairness
-      - Empowering Consumers: Taking Control of Their Financial Future
+- [Open Banking for You: Take Control of Your Finances in the UK](#open-banking-for-you-take-control-of-your-finances-in-the-uk)
+  - [Understanding Open Banking: Your Financial Revolution](#understanding-open-banking-your-financial-revolution)
+    - [What is Open Banking and Why Should You Care?](#what-is-open-banking-and-why-should-you-care)
+      - [Defining Open Banking: Beyond the Buzzwords](#defining-open-banking-beyond-the-buzzwords)
+      - [The UK's Open Banking Journey: A Regulatory Overview (FCA, CMA)](#the-uks-open-banking-journey-a-regulatory-overview-fca-cma)
+      - [Benefits for Consumers: Time, Money, and Control](#benefits-for-consumers-time-money-and-control)
+      - [Dispelling the Myths: Addressing Common Concerns](#dispelling-the-myths-addressing-common-concerns)
+    - [The Open Banking Ecosystem: Players and Processes](#the-open-banking-ecosystem-players-and-processes)
+      - [Banks and Building Societies: The Data Holders](#banks-and-building-societies-the-data-holders)
+      - [Third-Party Providers (TPPs): The Innovators](#third-party-providers-tpps-the-innovators)
+      - [APIs: The Technology That Connects It All](#apis-the-technology-that-connects-it-all)
+      - [Consent and Control: Your Rights as a Consumer](#consent-and-control-your-rights-as-a-consumer)
+  - [Unlocking the Power: Practical Applications for UK Consumers](#unlocking-the-power-practical-applications-for-uk-consumers)
+    - [Budgeting and Money Management: See Where Your Money Goes](#budgeting-and-money-management-see-where-your-money-goes)
+      - [Aggregating Accounts: A Single View of Your Finances](#aggregating-accounts-a-single-view-of-your-finances)
+      - [Automated Budgeting Tools: Setting Limits and Tracking Spending](#automated-budgeting-tools-setting-limits-and-tracking-spending)
+      - [Personalised Insights: Understanding Your Spending Habits](#personalised-insights-understanding-your-spending-habits)
+      - [Case Study: Using Open Banking to Achieve Budgeting Goals](#case-study-using-open-banking-to-achieve-budgeting-goals)
+    - [Savings and Investments: Grow Your Wealth Smarter](#savings-and-investments-grow-your-wealth-smarter)
+      - [Finding the Best Savings Rates: Automated Comparisons](#finding-the-best-savings-rates-automated-comparisons)
+      - [Personalised Investment Recommendations: Tailored to Your Needs](#personalised-investment-recommendations-tailored-to-your-needs)
+      - [Round-Up Savings: Effortless Saving with Every Purchase](#round-up-savings-effortless-saving-with-every-purchase)
+      - [Case Study: Using Open Banking to Optimize Savings and Investments](#case-study-using-open-banking-to-optimize-savings-and-investments)
+    - [Smarter Lending: Accessing Credit on Your Terms](#smarter-lending-accessing-credit-on-your-terms)
+      - [Faster Loan Applications: Streamlining the Process](#faster-loan-applications-streamlining-the-process)
+      - [Personalised Loan Offers: Finding the Best Rates for You](#personalised-loan-offers-finding-the-best-rates-for-you)
+      - [Credit Score Improvement: Using Open Banking Data to Your Advantage](#credit-score-improvement-using-open-banking-data-to-your-advantage)
+      - [Case Study: Using Open Banking to Secure a Better Loan](#case-study-using-open-banking-to-secure-a-better-loan)
+  - [Staying Safe and Secure: Navigating the Open Banking Landscape](#staying-safe-and-secure-navigating-the-open-banking-landscape)
+    - [Understanding the Risks: Data Security and Fraud Prevention](#understanding-the-risks-data-security-and-fraud-prevention)
+      - [Data Encryption and Security Protocols: Protecting Your Information](#data-encryption-and-security-protocols-protecting-your-information)
+      - [Authorisation and Authentication: Verifying Your Identity](#authorisation-and-authentication-verifying-your-identity)
+      - [Fraud Detection and Prevention: Identifying Suspicious Activity](#fraud-detection-and-prevention-identifying-suspicious-activity)
+      - [Your Responsibilities: Protecting Yourself from Scams](#your-responsibilities-protecting-yourself-from-scams)
+    - [Privacy and Control: Managing Your Data Sharing](#privacy-and-control-managing-your-data-sharing)
+      - [Informed Consent: Understanding What You're Agreeing To](#informed-consent-understanding-what-youre-agreeing-to)
+      - [Data Minimisation: Sharing Only What's Necessary](#data-minimisation-sharing-only-whats-necessary)
+      - [Revoking Access: Taking Back Control of Your Data](#revoking-access-taking-back-control-of-your-data)
+      - [GDPR and Open Banking: Your Rights Under the Law](#gdpr-and-open-banking-your-rights-under-the-law)
+  - [Mapping Your Financial Future: Using Wardley Maps for Open Banking](#mapping-your-financial-future-using-wardley-maps-for-open-banking)
+    - [Introduction to Wardley Maps: Visualising the Landscape](#introduction-to-wardley-maps-visualising-the-landscape)
+      - [Core Concepts: Value Chains, Evolution, and Strategic Play](#core-concepts-value-chains-evolution-and-strategic-play)
+      - [Mapping Your Financial Needs: Identifying Key Components](#mapping-your-financial-needs-identifying-key-components)
+      - [Understanding the Evolution of Open Banking Services](#understanding-the-evolution-of-open-banking-services)
+      - [Example Wardley Map: Visualising a Simple Open Banking Use Case](#example-wardley-map-visualising-a-simple-open-banking-use-case)
+    - [Applying Wardley Maps to Open Banking Decisions](#applying-wardley-maps-to-open-banking-decisions)
+      - [Identifying Opportunities: Where Can Open Banking Help You?](#identifying-opportunities-where-can-open-banking-help-you)
+      - [Assessing Risks: Understanding the Potential Downsides](#assessing-risks-understanding-the-potential-downsides)
+      - [Making Informed Choices: Choosing the Right Services for You](#making-informed-choices-choosing-the-right-services-for-you)
+      - [Future-Proofing Your Finances: Anticipating Changes in the Ecosystem](#future-proofing-your-finances-anticipating-changes-in-the-ecosystem)
+  - [The Future of Open Banking: What's Next for UK Consumers?](#the-future-of-open-banking-whats-next-for-uk-consumers)
+    - [Emerging Trends: Variable Recurring Payments and Beyond](#emerging-trends-variable-recurring-payments-and-beyond)
+      - [Variable Recurring Payments (VRPs): A New Era of Control](#variable-recurring-payments-vrps-a-new-era-of-control)
+      - [AI-Powered Financial Advice: Personalised Insights at Your Fingertips](#ai-powered-financial-advice-personalised-insights-at-your-fingertips)
+      - [Embedded Finance: Open Banking Integrated into Everyday Life](#embedded-finance-open-banking-integrated-into-everyday-life)
+      - [The Metaverse and Open Banking: Exploring New Possibilities](#the-metaverse-and-open-banking-exploring-new-possibilities)
+    - [The Road Ahead: Challenges and Opportunities](#the-road-ahead-challenges-and-opportunities)
+      - [Increasing Consumer Awareness and Trust](#increasing-consumer-awareness-and-trust)
+      - [Ensuring Interoperability and Standardisation](#ensuring-interoperability-and-standardisation)
+      - [Addressing Ethical Considerations: Data Bias and Fairness](#addressing-ethical-considerations-data-bias-and-fairness)
+      - [Empowering Consumers: Taking Control of Their Financial Future](#empowering-consumers-taking-control-of-their-financial-future)
 
 
 ## Understanding Open Banking: Your Financial Revolution

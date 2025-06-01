@@ -2,82 +2,82 @@
 
 # Table of Contents
 
-- Seizing the AI Tide: A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth
-  - Plymouth's Untapped Potential: Assessing the Foundation for an AI Hub
-    - Mapping Plymouth's AI and Marine Research Ecosystem
-      - Identifying Key Players: Universities, Research Institutions, and Businesses
-      - Analysing Existing AI Capabilities: Strengths in Marine Robotics, Data Analytics, and Sensor Technology
-      - Evaluating Marine Research Infrastructure: Vessels, Labs, and Data Repositories
-      - Assessing Current Funding Landscape: Grants, Investments, and Research Budgets
-    - SWOT Analysis: Plymouth's Unique Position
-      - Strengths: World-leading Marine Research, Established Maritime Sector, Growing Tech Community
-      - Weaknesses: Limited AI Talent Pool, Funding Gaps, Infrastructure Constraints
-      - Opportunities: National AI Strategy Alignment, Blue Economy Growth, Collaboration Potential
-      - Threats: Competition from Other AI Hubs, Skills Shortages, Regulatory Uncertainty
-    - Wardley Mapping the AI-Marine Landscape
-      - Understanding Wardley Mapping Principles: Value Chains, Evolution, and Strategic Play
-      - Mapping Plymouth's AI-Marine Value Chain: From Data Collection to Application
-      - Identifying Strategic Opportunities: Areas for Innovation and Investment
-      - Prioritising Initiatives: Focusing on High-Impact, High-Evolution Activities
-  - Crafting a Winning Proposal: Building the Plymouth AI Hub
-    - Defining the Hub's Vision and Mission
-      - Establishing Clear Goals: Economic Growth, Job Creation, Research Advancement
-      - Identifying Target Sectors: Autonomous Shipping, Sustainable Aquaculture, Ocean Monitoring
-      - Developing a Unique Value Proposition: Specialisation in Marine and Maritime AI
-      - Creating a Compelling Narrative: Showcasing Plymouth's Potential
-    - Essential Components of the AI Hub
-      - Infrastructure: High-Performance Computing, Data Storage, and Communication Networks
-      - Talent: Attracting and Retaining AI Specialists, Marine Scientists, and Engineers
-      - Funding: Securing Public and Private Investment, Grants, and Venture Capital
-      - Community Engagement: Building Partnerships with Industry, Academia, and Government
-    - Governance and Management Structure
-      - Establishing a Board of Directors: Representation from Key Stakeholders
-      - Creating an Advisory Board: Experts in AI, Marine Science, and Business
-      - Developing Clear Governance Policies: Transparency, Accountability, and Ethical Considerations
-      - Implementing Effective Project Management Processes
-  - Learning from Success: Case Studies of Coastal AI Hubs
-    - Analysing Global Best Practices
-      - Case Study 1: [Fictional Example] The Bergen Maritime AI Centre (Norway)
-      - Case Study 2: [Fictional Example] The Halifax Ocean Tech Innovation Hub (Canada)
-      - Case Study 3: [Fictional Example] The Singapore Marine Autonomy Cluster
-      - Identifying Common Success Factors: Collaboration, Specialisation, and Government Support
-    - Applying Lessons Learned to Plymouth
-      - Adapting Best Practices to the Local Context
-      - Avoiding Common Pitfalls: Over-Reliance on Single Industries, Lack of Talent Pipeline
-      - Leveraging Plymouth's Unique Strengths: Marine Research Expertise, Maritime Heritage
-      - Building a Sustainable Ecosystem: Long-Term Vision and Commitment
-  - Navigating the Ethical Seas: Addressing Societal Implications of Marine AI
-    - Anticipating Potential Challenges
-      - Job Displacement: Automating Maritime Tasks and the Need for Reskilling
-      - Environmental Impact: Minimising the Footprint of AI Technologies
-      - Data Privacy: Protecting Sensitive Marine Data and Ensuring Responsible Use
-      - Algorithmic Bias: Addressing Fairness and Transparency in AI Systems
-    - Developing Mitigation Strategies
-      - Investing in Education and Training: Preparing the Workforce for the Future
-      - Promoting Sustainable AI Practices: Energy Efficiency, Responsible Data Management
-      - Establishing Ethical Guidelines: Ensuring AI is Used for the Benefit of Society
-      - Engaging with the Public: Building Trust and Addressing Concerns
-    - Ensuring Responsible Innovation
-      - Implementing AI Ethics Frameworks
-      - Promoting Diversity and Inclusion in AI Development
-      - Fostering Collaboration between AI Experts and Marine Stakeholders
-      - Monitoring and Evaluating the Societal Impact of AI Technologies
-  - Plymouth's AI Future: A Call to Action
-    - Summarising the Key Recommendations
-      - Prioritising Investment in AI Infrastructure and Talent
-      - Fostering Collaboration between Academia, Industry, and Government
-      - Developing a Clear Vision and Strategy for the AI Hub
-      - Addressing the Ethical and Societal Implications of AI
-    - Looking Ahead: The Long-Term Vision for Plymouth
-      - Establishing Plymouth as a Global Leader in Marine and Maritime AI
-      - Driving Economic Growth and Job Creation in the Region
-      - Contributing to Sustainable Ocean Management and Conservation
-      - Inspiring the Next Generation of AI Innovators
-    - A Final Word: Seizing the Opportunity
-      - The Importance of Bold Action and Collaboration
-      - The Potential Benefits of a Successful AI Hub
-      - A Call to Action for All Stakeholders
-      - Ensuring Plymouth's Place at the Forefront of the AI Revolution
+- [Seizing the AI Tide: A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth](#seizing-the-ai-tide-a-practical-guide-to-building-a-marine-maritime-ai-hub-in-plymouth)
+  - [Plymouth's Untapped Potential: Assessing the Foundation for an AI Hub](#plymouths-untapped-potential-assessing-the-foundation-for-an-ai-hub)
+    - [Mapping Plymouth's AI and Marine Research Ecosystem](#mapping-plymouths-ai-and-marine-research-ecosystem)
+      - [Identifying Key Players: Universities, Research Institutions, and Businesses](#identifying-key-players-universities-research-institutions-and-businesses)
+      - [Analysing Existing AI Capabilities: Strengths in Marine Robotics, Data Analytics, and Sensor Technology](#analysing-existing-ai-capabilities-strengths-in-marine-robotics-data-analytics-and-sensor-technology)
+      - [Evaluating Marine Research Infrastructure: Vessels, Labs, and Data Repositories](#evaluating-marine-research-infrastructure-vessels-labs-and-data-repositories)
+      - [Assessing Current Funding Landscape: Grants, Investments, and Research Budgets](#assessing-current-funding-landscape-grants-investments-and-research-budgets)
+    - [SWOT Analysis: Plymouth's Unique Position](#swot-analysis-plymouths-unique-position)
+      - [Strengths: World-leading Marine Research, Established Maritime Sector, Growing Tech Community](#strengths-world-leading-marine-research-established-maritime-sector-growing-tech-community)
+      - [Weaknesses: Limited AI Talent Pool, Funding Gaps, Infrastructure Constraints](#weaknesses-limited-ai-talent-pool-funding-gaps-infrastructure-constraints)
+      - [Opportunities: National AI Strategy Alignment, Blue Economy Growth, Collaboration Potential](#opportunities-national-ai-strategy-alignment-blue-economy-growth-collaboration-potential)
+      - [Threats: Competition from Other AI Hubs, Skills Shortages, Regulatory Uncertainty](#threats-competition-from-other-ai-hubs-skills-shortages-regulatory-uncertainty)
+    - [Wardley Mapping the AI-Marine Landscape](#wardley-mapping-the-ai-marine-landscape)
+      - [Understanding Wardley Mapping Principles: Value Chains, Evolution, and Strategic Play](#understanding-wardley-mapping-principles-value-chains-evolution-and-strategic-play)
+      - [Mapping Plymouth's AI-Marine Value Chain: From Data Collection to Application](#mapping-plymouths-ai-marine-value-chain-from-data-collection-to-application)
+      - [Identifying Strategic Opportunities: Areas for Innovation and Investment](#identifying-strategic-opportunities-areas-for-innovation-and-investment)
+      - [Prioritising Initiatives: Focusing on High-Impact, High-Evolution Activities](#prioritising-initiatives-focusing-on-high-impact-high-evolution-activities)
+  - [Crafting a Winning Proposal: Building the Plymouth AI Hub](#crafting-a-winning-proposal-building-the-plymouth-ai-hub)
+    - [Defining the Hub's Vision and Mission](#defining-the-hubs-vision-and-mission)
+      - [Establishing Clear Goals: Economic Growth, Job Creation, Research Advancement](#establishing-clear-goals-economic-growth-job-creation-research-advancement)
+      - [Identifying Target Sectors: Autonomous Shipping, Sustainable Aquaculture, Ocean Monitoring](#identifying-target-sectors-autonomous-shipping-sustainable-aquaculture-ocean-monitoring)
+      - [Developing a Unique Value Proposition: Specialisation in Marine and Maritime AI](#developing-a-unique-value-proposition-specialisation-in-marine-and-maritime-ai)
+      - [Creating a Compelling Narrative: Showcasing Plymouth's Potential](#creating-a-compelling-narrative-showcasing-plymouths-potential)
+    - [Essential Components of the AI Hub](#essential-components-of-the-ai-hub)
+      - [Infrastructure: High-Performance Computing, Data Storage, and Communication Networks](#infrastructure-high-performance-computing-data-storage-and-communication-networks)
+      - [Talent: Attracting and Retaining AI Specialists, Marine Scientists, and Engineers](#talent-attracting-and-retaining-ai-specialists-marine-scientists-and-engineers)
+      - [Funding: Securing Public and Private Investment, Grants, and Venture Capital](#funding-securing-public-and-private-investment-grants-and-venture-capital)
+      - [Community Engagement: Building Partnerships with Industry, Academia, and Government](#community-engagement-building-partnerships-with-industry-academia-and-government)
+    - [Governance and Management Structure](#governance-and-management-structure)
+      - [Establishing a Board of Directors: Representation from Key Stakeholders](#establishing-a-board-of-directors-representation-from-key-stakeholders)
+      - [Creating an Advisory Board: Experts in AI, Marine Science, and Business](#creating-an-advisory-board-experts-in-ai-marine-science-and-business)
+      - [Developing Clear Governance Policies: Transparency, Accountability, and Ethical Considerations](#developing-clear-governance-policies-transparency-accountability-and-ethical-considerations)
+      - [Implementing Effective Project Management Processes](#implementing-effective-project-management-processes)
+  - [Learning from Success: Case Studies of Coastal AI Hubs](#learning-from-success-case-studies-of-coastal-ai-hubs)
+    - [Analysing Global Best Practices](#analysing-global-best-practices)
+      - [Case Study 1: [Fictional Example] The Bergen Maritime AI Centre (Norway)](#case-study-1-fictional-example-the-bergen-maritime-ai-centre-norway)
+      - [Case Study 2: [Fictional Example] The Halifax Ocean Tech Innovation Hub (Canada)](#case-study-2-fictional-example-the-halifax-ocean-tech-innovation-hub-canada)
+      - [Case Study 3: [Fictional Example] The Singapore Marine Autonomy Cluster](#case-study-3-fictional-example-the-singapore-marine-autonomy-cluster)
+      - [Identifying Common Success Factors: Collaboration, Specialisation, and Government Support](#identifying-common-success-factors-collaboration-specialisation-and-government-support)
+    - [Applying Lessons Learned to Plymouth](#applying-lessons-learned-to-plymouth)
+      - [Adapting Best Practices to the Local Context](#adapting-best-practices-to-the-local-context)
+      - [Avoiding Common Pitfalls: Over-Reliance on Single Industries, Lack of Talent Pipeline](#avoiding-common-pitfalls-over-reliance-on-single-industries-lack-of-talent-pipeline)
+      - [Leveraging Plymouth's Unique Strengths: Marine Research Expertise, Maritime Heritage](#leveraging-plymouths-unique-strengths-marine-research-expertise-maritime-heritage)
+      - [Building a Sustainable Ecosystem: Long-Term Vision and Commitment](#building-a-sustainable-ecosystem-long-term-vision-and-commitment)
+  - [Navigating the Ethical Seas: Addressing Societal Implications of Marine AI](#navigating-the-ethical-seas-addressing-societal-implications-of-marine-ai)
+    - [Anticipating Potential Challenges](#anticipating-potential-challenges)
+      - [Job Displacement: Automating Maritime Tasks and the Need for Reskilling](#job-displacement-automating-maritime-tasks-and-the-need-for-reskilling)
+      - [Environmental Impact: Minimising the Footprint of AI Technologies](#environmental-impact-minimising-the-footprint-of-ai-technologies)
+      - [Data Privacy: Protecting Sensitive Marine Data and Ensuring Responsible Use](#data-privacy-protecting-sensitive-marine-data-and-ensuring-responsible-use)
+      - [Algorithmic Bias: Addressing Fairness and Transparency in AI Systems](#algorithmic-bias-addressing-fairness-and-transparency-in-ai-systems)
+    - [Developing Mitigation Strategies](#developing-mitigation-strategies)
+      - [Investing in Education and Training: Preparing the Workforce for the Future](#investing-in-education-and-training-preparing-the-workforce-for-the-future)
+      - [Promoting Sustainable AI Practices: Energy Efficiency, Responsible Data Management](#promoting-sustainable-ai-practices-energy-efficiency-responsible-data-management)
+      - [Establishing Ethical Guidelines: Ensuring AI is Used for the Benefit of Society](#establishing-ethical-guidelines-ensuring-ai-is-used-for-the-benefit-of-society)
+      - [Engaging with the Public: Building Trust and Addressing Concerns](#engaging-with-the-public-building-trust-and-addressing-concerns)
+    - [Ensuring Responsible Innovation](#ensuring-responsible-innovation)
+      - [Implementing AI Ethics Frameworks](#implementing-ai-ethics-frameworks)
+      - [Promoting Diversity and Inclusion in AI Development](#promoting-diversity-and-inclusion-in-ai-development)
+      - [Fostering Collaboration between AI Experts and Marine Stakeholders](#fostering-collaboration-between-ai-experts-and-marine-stakeholders)
+      - [Monitoring and Evaluating the Societal Impact of AI Technologies](#monitoring-and-evaluating-the-societal-impact-of-ai-technologies)
+  - [Plymouth's AI Future: A Call to Action](#plymouths-ai-future-a-call-to-action)
+    - [Summarising the Key Recommendations](#summarising-the-key-recommendations)
+      - [Prioritising Investment in AI Infrastructure and Talent](#prioritising-investment-in-ai-infrastructure-and-talent)
+      - [Fostering Collaboration between Academia, Industry, and Government](#fostering-collaboration-between-academia-industry-and-government)
+      - [Developing a Clear Vision and Strategy for the AI Hub](#developing-a-clear-vision-and-strategy-for-the-ai-hub)
+      - [Addressing the Ethical and Societal Implications of AI](#addressing-the-ethical-and-societal-implications-of-ai)
+    - [Looking Ahead: The Long-Term Vision for Plymouth](#looking-ahead-the-long-term-vision-for-plymouth)
+      - [Establishing Plymouth as a Global Leader in Marine and Maritime AI](#establishing-plymouth-as-a-global-leader-in-marine-and-maritime-ai)
+      - [Driving Economic Growth and Job Creation in the Region](#driving-economic-growth-and-job-creation-in-the-region)
+      - [Contributing to Sustainable Ocean Management and Conservation](#contributing-to-sustainable-ocean-management-and-conservation)
+      - [Inspiring the Next Generation of AI Innovators](#inspiring-the-next-generation-of-ai-innovators)
+    - [A Final Word: Seizing the Opportunity](#a-final-word-seizing-the-opportunity)
+      - [The Importance of Bold Action and Collaboration](#the-importance-of-bold-action-and-collaboration)
+      - [The Potential Benefits of a Successful AI Hub](#the-potential-benefits-of-a-successful-ai-hub)
+      - [A Call to Action for All Stakeholders](#a-call-to-action-for-all-stakeholders)
+      - [Ensuring Plymouth's Place at the Forefront of the AI Revolution](#ensuring-plymouths-place-at-the-forefront-of-the-ai-revolution)
 
 
 ## Plymouth's Untapped Potential: Assessing the Foundation for an AI Hub

@@ -2,69 +2,69 @@
 
 # Table of Contents
 
-- Pricing Strategies for GenAI Applications: Unlocking Value in the AI Revolution
-  - Understanding the Value Proposition of GenAI
-    - Defining GenAI and Its Impact
-      - What is GenAI?
-      - The Evolution of AI Technologies
-      - Key Benefits for Users and Businesses
-    - Value Creation Mechanisms
-      - How GenAI Enhances Productivity
-      - Cost Savings and Efficiency Gains
-      - User Experience and Engagement
-  - Pricing Models and Frameworks
-    - Overview of Pricing Strategies
-      - Traditional vs. Modern Pricing Models
-      - Understanding Pricing Psychology
-      - The Role of Perceived Value
-    - Tailored Pricing Models for GenAI
-      - Subscription-Based Pricing
-      - Freemium Models and Their Effectiveness
-      - Usage-Based Pricing Strategies
-    - Dynamic Pricing and Market Adaptation
-      - Implementing Dynamic Pricing in GenAI
-      - Market Response and Adjustments
-      - Case Studies of Dynamic Pricing Success
-  - Market Trends and Competitive Analysis
-    - Current Trends in the AI Market
-      - Emerging Technologies and Innovations
-      - Key Players in the GenAI Space
-      - Market Growth Projections
-    - Competitive Analysis Frameworks
-      - SWOT Analysis for GenAI Applications
-      - Porter's Five Forces in AI Pricing
-      - Benchmarking Against Competitors
-    - Insights from Recent Publications
-      - Lessons from 'AI Superpowers' by Kai-Fu Lee
-      - Key Takeaways from 'The AI Advantage' by Thomas H. Davenport
-      - Integrating Insights into Pricing Strategies
-  - Case Studies of Successful GenAI Implementations
-    - Real-World Examples
-      - Case Study 1: Company A's Subscription Model
-      - Case Study 2: Company B's Freemium Approach
-      - Case Study 3: Company C's Usage-Based Strategy
-    - Lessons Learned from Implementations
-      - Common Pitfalls and How to Avoid Them
-      - Best Practices for Pricing GenAI Applications
-      - Measuring Success and ROI
-  - Ethical Considerations and Controversies
-    - Ethical Dilemmas in AI Pricing
-      - Fairness in Pricing Models
-      - Accessibility and Inclusivity
-      - Transparency in Pricing Strategies
-    - Navigating Controversies
-      - Public Perception of AI Pricing
-      - Regulatory Considerations
-      - Building Trust with Users
-  - Conclusion: Future Directions in GenAI Pricing
-    - Summarising Key Insights
-      - Recap of Value Proposition
-      - Future Trends in Pricing Strategies
-      - Final Thoughts on Ethical Pricing
-    - Call to Action for Practitioners
-      - Implementing Strategies in Your Business
-      - Engaging with the GenAI Community
-      - Continued Learning and Adaptation
+- [Pricing Strategies for GenAI Applications: Unlocking Value in the AI Revolution](#pricing-strategies-for-genai-applications-unlocking-value-in-the-ai-revolution)
+  - [Understanding the Value Proposition of GenAI](#understanding-the-value-proposition-of-genai)
+    - [Defining GenAI and Its Impact](#defining-genai-and-its-impact)
+      - [What is GenAI?](#what-is-genai)
+      - [The Evolution of AI Technologies](#the-evolution-of-ai-technologies)
+      - [Key Benefits for Users and Businesses](#key-benefits-for-users-and-businesses)
+    - [Value Creation Mechanisms](#value-creation-mechanisms)
+      - [How GenAI Enhances Productivity](#how-genai-enhances-productivity)
+      - [Cost Savings and Efficiency Gains](#cost-savings-and-efficiency-gains)
+      - [User Experience and Engagement](#user-experience-and-engagement)
+  - [Pricing Models and Frameworks](#pricing-models-and-frameworks)
+    - [Overview of Pricing Strategies](#overview-of-pricing-strategies)
+      - [Traditional vs. Modern Pricing Models](#traditional-vs-modern-pricing-models)
+      - [Understanding Pricing Psychology](#understanding-pricing-psychology)
+      - [The Role of Perceived Value](#the-role-of-perceived-value)
+    - [Tailored Pricing Models for GenAI](#tailored-pricing-models-for-genai)
+      - [Subscription-Based Pricing](#subscription-based-pricing)
+      - [Freemium Models and Their Effectiveness](#freemium-models-and-their-effectiveness)
+      - [Usage-Based Pricing Strategies](#usage-based-pricing-strategies)
+    - [Dynamic Pricing and Market Adaptation](#dynamic-pricing-and-market-adaptation)
+      - [Implementing Dynamic Pricing in GenAI](#implementing-dynamic-pricing-in-genai)
+      - [Market Response and Adjustments](#market-response-and-adjustments)
+      - [Case Studies of Dynamic Pricing Success](#case-studies-of-dynamic-pricing-success)
+  - [Market Trends and Competitive Analysis](#market-trends-and-competitive-analysis)
+    - [Current Trends in the AI Market](#current-trends-in-the-ai-market)
+      - [Emerging Technologies and Innovations](#emerging-technologies-and-innovations)
+      - [Key Players in the GenAI Space](#key-players-in-the-genai-space)
+      - [Market Growth Projections](#market-growth-projections)
+    - [Competitive Analysis Frameworks](#competitive-analysis-frameworks)
+      - [SWOT Analysis for GenAI Applications](#swot-analysis-for-genai-applications)
+      - [Porter's Five Forces in AI Pricing](#porters-five-forces-in-ai-pricing)
+      - [Benchmarking Against Competitors](#benchmarking-against-competitors)
+    - [Insights from Recent Publications](#insights-from-recent-publications)
+      - [Lessons from 'AI Superpowers' by Kai-Fu Lee](#lessons-from-ai-superpowers-by-kai-fu-lee)
+      - [Key Takeaways from 'The AI Advantage' by Thomas H. Davenport](#key-takeaways-from-the-ai-advantage-by-thomas-h-davenport)
+      - [Integrating Insights into Pricing Strategies](#integrating-insights-into-pricing-strategies)
+  - [Case Studies of Successful GenAI Implementations](#case-studies-of-successful-genai-implementations)
+    - [Real-World Examples](#real-world-examples)
+      - [Case Study 1: Company A's Subscription Model](#case-study-1-company-as-subscription-model)
+      - [Case Study 2: Company B's Freemium Approach](#case-study-2-company-bs-freemium-approach)
+      - [Case Study 3: Company C's Usage-Based Strategy](#case-study-3-company-cs-usage-based-strategy)
+    - [Lessons Learned from Implementations](#lessons-learned-from-implementations)
+      - [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
+      - [Best Practices for Pricing GenAI Applications](#best-practices-for-pricing-genai-applications)
+      - [Measuring Success and ROI](#measuring-success-and-roi)
+  - [Ethical Considerations and Controversies](#ethical-considerations-and-controversies)
+    - [Ethical Dilemmas in AI Pricing](#ethical-dilemmas-in-ai-pricing)
+      - [Fairness in Pricing Models](#fairness-in-pricing-models)
+      - [Accessibility and Inclusivity](#accessibility-and-inclusivity)
+      - [Transparency in Pricing Strategies](#transparency-in-pricing-strategies)
+    - [Navigating Controversies](#navigating-controversies)
+      - [Public Perception of AI Pricing](#public-perception-of-ai-pricing)
+      - [Regulatory Considerations](#regulatory-considerations)
+      - [Building Trust with Users](#building-trust-with-users)
+  - [Conclusion: Future Directions in GenAI Pricing](#conclusion-future-directions-in-genai-pricing)
+    - [Summarising Key Insights](#summarising-key-insights)
+      - [Recap of Value Proposition](#recap-of-value-proposition)
+      - [Future Trends in Pricing Strategies](#future-trends-in-pricing-strategies)
+      - [Final Thoughts on Ethical Pricing](#final-thoughts-on-ethical-pricing)
+    - [Call to Action for Practitioners](#call-to-action-for-practitioners)
+      - [Implementing Strategies in Your Business](#implementing-strategies-in-your-business)
+      - [Engaging with the GenAI Community](#engaging-with-the-genai-community)
+      - [Continued Learning and Adaptation](#continued-learning-and-adaptation)
 
 
 ## Understanding the Value Proposition of GenAI

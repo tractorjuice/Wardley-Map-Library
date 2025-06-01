@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- Digital Darwinism: How GenAI Challenges the Survival of Time-Tested Knowledge
-  - Introduction: Understanding the Lindy Effect in the Age of AI
-    - The Lindy Effect Explained
-      - Origins and Core Principles
-      - Historical Examples of Lindy in Action
-      - Why the Lindy Effect Matters Today
-    - The GenAI Revolution
-      - Defining Generative AI
-      - Current Capabilities and Limitations
-      - Potential Impact on Established Systems
-  - Historical Patterns of Technological Disruption
-    - Case Studies in Technology Survival
-      - The Printing Press Revolution
-      - Industrial Revolution Adaptations
-      - Digital Age Transformations
-    - Knowledge Systems That Endured
-      - Common Characteristics of Survivors
-      - Adaptation Mechanisms
-      - Lessons for the AI Era
-  - GenAI's Impact on Traditional Knowledge Domains
-    - Education and Learning
-      - AI-Enhanced vs Traditional Teaching Methods
-      - The Future of Expertise
-      - Hybrid Learning Models
-    - Professional Knowledge Work
-      - Legal and Medical Domains
-      - Creative Industries
-      - Technical Fields
-    - Information Distribution
-      - Journalism in the AI Age
-      - Scientific Publishing
-      - Social Knowledge Sharing
-  - Mapping the Future of Knowledge Systems
-    - Strategic Analysis Tools
-      - Wardley Mapping for AI Impact
-      - Complexity Analysis
-      - Survival Probability Assessment
-    - Cultural Resilience Factors
-      - Identity and Tradition
-      - Social Cohesion
-      - Adaptive Capacity
-  - Survival Strategies for the AI Age
-    - Organizational Adaptation
-      - Identifying Core Knowledge Assets
-      - Integration of AI Tools
-      - Building Resilient Systems
-    - Individual Response Strategies
-      - Skills Portfolio Management
-      - Continuous Learning Approaches
-      - Balancing AI and Human Expertise
+- [Digital Darwinism: How GenAI Challenges the Survival of Time-Tested Knowledge](#digital-darwinism-how-genai-challenges-the-survival-of-time-tested-knowledge)
+  - [Introduction: Understanding the Lindy Effect in the Age of AI](#introduction-understanding-the-lindy-effect-in-the-age-of-ai)
+    - [The Lindy Effect Explained](#the-lindy-effect-explained)
+      - [Origins and Core Principles](#origins-and-core-principles)
+      - [Historical Examples of Lindy in Action](#historical-examples-of-lindy-in-action)
+      - [Why the Lindy Effect Matters Today](#why-the-lindy-effect-matters-today)
+    - [The GenAI Revolution](#the-genai-revolution)
+      - [Defining Generative AI](#defining-generative-ai)
+      - [Current Capabilities and Limitations](#current-capabilities-and-limitations)
+      - [Potential Impact on Established Systems](#potential-impact-on-established-systems)
+  - [Historical Patterns of Technological Disruption](#historical-patterns-of-technological-disruption)
+    - [Case Studies in Technology Survival](#case-studies-in-technology-survival)
+      - [The Printing Press Revolution](#the-printing-press-revolution)
+      - [Industrial Revolution Adaptations](#industrial-revolution-adaptations)
+      - [Digital Age Transformations](#digital-age-transformations)
+    - [Knowledge Systems That Endured](#knowledge-systems-that-endured)
+      - [Common Characteristics of Survivors](#common-characteristics-of-survivors)
+      - [Adaptation Mechanisms](#adaptation-mechanisms)
+      - [Lessons for the AI Era](#lessons-for-the-ai-era)
+  - [GenAI's Impact on Traditional Knowledge Domains](#genais-impact-on-traditional-knowledge-domains)
+    - [Education and Learning](#education-and-learning)
+      - [AI-Enhanced vs Traditional Teaching Methods](#ai-enhanced-vs-traditional-teaching-methods)
+      - [The Future of Expertise](#the-future-of-expertise)
+      - [Hybrid Learning Models](#hybrid-learning-models)
+    - [Professional Knowledge Work](#professional-knowledge-work)
+      - [Legal and Medical Domains](#legal-and-medical-domains)
+      - [Creative Industries](#creative-industries)
+      - [Technical Fields](#technical-fields)
+    - [Information Distribution](#information-distribution)
+      - [Journalism in the AI Age](#journalism-in-the-ai-age)
+      - [Scientific Publishing](#scientific-publishing)
+      - [Social Knowledge Sharing](#social-knowledge-sharing)
+  - [Mapping the Future of Knowledge Systems](#mapping-the-future-of-knowledge-systems)
+    - [Strategic Analysis Tools](#strategic-analysis-tools)
+      - [Wardley Mapping for AI Impact](#wardley-mapping-for-ai-impact)
+      - [Complexity Analysis](#complexity-analysis)
+      - [Survival Probability Assessment](#survival-probability-assessment)
+    - [Cultural Resilience Factors](#cultural-resilience-factors)
+      - [Identity and Tradition](#identity-and-tradition)
+      - [Social Cohesion](#social-cohesion)
+      - [Adaptive Capacity](#adaptive-capacity)
+  - [Survival Strategies for the AI Age](#survival-strategies-for-the-ai-age)
+    - [Organizational Adaptation](#organizational-adaptation)
+      - [Identifying Core Knowledge Assets](#identifying-core-knowledge-assets)
+      - [Integration of AI Tools](#integration-of-ai-tools)
+      - [Building Resilient Systems](#building-resilient-systems)
+    - [Individual Response Strategies](#individual-response-strategies)
+      - [Skills Portfolio Management](#skills-portfolio-management)
+      - [Continuous Learning Approaches](#continuous-learning-approaches)
+      - [Balancing AI and Human Expertise](#balancing-ai-and-human-expertise)
 
 
 ## Introduction: Understanding the Lindy Effect in the Age of AI

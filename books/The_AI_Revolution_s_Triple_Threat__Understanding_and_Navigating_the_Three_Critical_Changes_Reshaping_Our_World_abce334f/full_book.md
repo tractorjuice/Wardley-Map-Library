@@ -2,56 +2,56 @@
 
 # Table of Contents
 
-- The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World
-  - Introduction: The Dawn of Generative AI
-    - Setting the Stage
-      - The Current State of GenAI
-      - Why These Three Changes Matter
-      - How to Use This Book
-  - Economic Metamorphosis: The First Critical Change
-    - The Great Job Market Disruption
-      - Emerging Job Categories
-      - Skills Obsolescence and Evolution
-      - New Career Pathways
-    - Business Model Revolution
-      - AI-First Enterprise Models
-      - Value Chain Transformations
-      - Competitive Advantage Redefined
-    - Wealth Distribution Dynamics
-      - AI-Driven Economic Mobility
-      - Risk Mitigation Strategies
-      - Opportunity Identification Framework
-  - Social Infrastructure Evolution: The Second Critical Change
-    - Education System Transformation
-      - Personalised Learning Pathways
-      - AI-Enhanced Teaching Methods
-      - Skills Assessment Revolution
-    - Healthcare Reimagined
-      - AI-Powered Diagnostics
-      - Preventative Care Evolution
-      - Healthcare Access Transformation
-    - Public Services Revolution
-      - Smart City Integration
-      - Government Service Automation
-      - Community Impact Assessment
-  - Personal Agency Transformation: The Third Critical Change
-    - Decision-Making in the AI Era
-      - Cognitive Augmentation
-      - Choice Architecture Evolution
-      - Information Processing Changes
-    - Creativity and Innovation
-      - Human-AI Creative Collaboration
-      - Ideation Process Changes
-      - Innovation Framework Adaptation
-    - Personal Development Revolution
-      - Identity in the AI Age
-      - Skill Development Strategies
-      - Mental Model Evolution
-  - Conclusion: Navigating the Future
-    - Integration and Implementation
-      - Action Planning Framework
-      - Risk Management Strategies
-      - Success Metrics and Monitoring
+- [The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World](#the-ai-revolutions-triple-threat-understanding-and-navigating-the-three-critical-changes-reshaping-our-world)
+  - [Introduction: The Dawn of Generative AI](#introduction-the-dawn-of-generative-ai)
+    - [Setting the Stage](#setting-the-stage)
+      - [The Current State of GenAI](#the-current-state-of-genai)
+      - [Why These Three Changes Matter](#why-these-three-changes-matter)
+      - [How to Use This Book](#how-to-use-this-book)
+  - [Economic Metamorphosis: The First Critical Change](#economic-metamorphosis-the-first-critical-change)
+    - [The Great Job Market Disruption](#the-great-job-market-disruption)
+      - [Emerging Job Categories](#emerging-job-categories)
+      - [Skills Obsolescence and Evolution](#skills-obsolescence-and-evolution)
+      - [New Career Pathways](#new-career-pathways)
+    - [Business Model Revolution](#business-model-revolution)
+      - [AI-First Enterprise Models](#ai-first-enterprise-models)
+      - [Value Chain Transformations](#value-chain-transformations)
+      - [Competitive Advantage Redefined](#competitive-advantage-redefined)
+    - [Wealth Distribution Dynamics](#wealth-distribution-dynamics)
+      - [AI-Driven Economic Mobility](#ai-driven-economic-mobility)
+      - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+      - [Opportunity Identification Framework](#opportunity-identification-framework)
+  - [Social Infrastructure Evolution: The Second Critical Change](#social-infrastructure-evolution-the-second-critical-change)
+    - [Education System Transformation](#education-system-transformation)
+      - [Personalised Learning Pathways](#personalised-learning-pathways)
+      - [AI-Enhanced Teaching Methods](#ai-enhanced-teaching-methods)
+      - [Skills Assessment Revolution](#skills-assessment-revolution)
+    - [Healthcare Reimagined](#healthcare-reimagined)
+      - [AI-Powered Diagnostics](#ai-powered-diagnostics)
+      - [Preventative Care Evolution](#preventative-care-evolution)
+      - [Healthcare Access Transformation](#healthcare-access-transformation)
+    - [Public Services Revolution](#public-services-revolution)
+      - [Smart City Integration](#smart-city-integration)
+      - [Government Service Automation](#government-service-automation)
+      - [Community Impact Assessment](#community-impact-assessment)
+  - [Personal Agency Transformation: The Third Critical Change](#personal-agency-transformation-the-third-critical-change)
+    - [Decision-Making in the AI Era](#decision-making-in-the-ai-era)
+      - [Cognitive Augmentation](#cognitive-augmentation)
+      - [Choice Architecture Evolution](#choice-architecture-evolution)
+      - [Information Processing Changes](#information-processing-changes)
+    - [Creativity and Innovation](#creativity-and-innovation)
+      - [Human-AI Creative Collaboration](#human-ai-creative-collaboration)
+      - [Ideation Process Changes](#ideation-process-changes)
+      - [Innovation Framework Adaptation](#innovation-framework-adaptation)
+    - [Personal Development Revolution](#personal-development-revolution)
+      - [Identity in the AI Age](#identity-in-the-ai-age)
+      - [Skill Development Strategies](#skill-development-strategies)
+      - [Mental Model Evolution](#mental-model-evolution)
+  - [Conclusion: Navigating the Future](#conclusion-navigating-the-future)
+    - [Integration and Implementation](#integration-and-implementation)
+      - [Action Planning Framework](#action-planning-framework)
+      - [Risk Management Strategies](#risk-management-strategies)
+      - [Success Metrics and Monitoring](#success-metrics-and-monitoring)
 
 
 ## Introduction: The Dawn of Generative AI

@@ -4,56 +4,56 @@
 
 # Table of Contents
 
-- Strategic Synthesis: Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Power of Combined Methodologies
-  - The Evolution of Strategic Planning
-    - Current Challenges in Digital Strategy
-    - The Need for Integrated Frameworks
-    - Overview of JTBD and Wardley Mapping Synergy
-- Foundations of JTBD and Wardley Mapping
-  - Understanding Jobs-to-be-Done Theory
-    - Ulwick's Outcome-Driven Innovation
-    - Moesta's Switch and Progress-Making Forces
-    - Job Definition and Customer Needs Mapping
-  - Mastering Wardley Mapping Fundamentals
-    - Value Chain Visualization
-    - Evolution and Movement
-    - Strategic Positioning and Gameplay
-- Integration Framework and Methodology
-  - Mapping Customer Jobs to Value Chains
-    - Job Layer Analysis
-    - Component Evolution Tracking
-    - Value Chain Integration Points
-  - Digital Transformation Tools
-    - Combined Analysis Templates
-    - Strategic Planning Worksheets
-    - Decision-Making Frameworks
-- Implementation and Execution
-  - Digital Product Strategy
-    - Opportunity Discovery Process
-    - Feature Prioritization Framework
-    - Evolution-Based Roadmapping
-  - Platform and Ecosystem Design
-    - Platform Component Analysis
-    - Ecosystem Mapping Techniques
-    - Strategic Positioning Guidelines
-- Advanced Applications and Future Directions
-  - Case Studies in Digital Innovation
-    - Technology Sector Examples
-    - Service Industry Transformations
-    - Platform Business Models
-  - Emerging Trends and Applications
-    - AI and Machine Learning Integration
-    - Ecosystem Evolution Patterns
-    - Future of Strategic Planning
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [Strategic Synthesis: Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation](#strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Power of Combined Methodologies](#introduction-the-power-of-combined-methodologies)
+  - [The Evolution of Strategic Planning](#the-evolution-of-strategic-planning)
+    - [Current Challenges in Digital Strategy](#current-challenges-in-digital-strategy)
+    - [The Need for Integrated Frameworks](#the-need-for-integrated-frameworks)
+    - [Overview of JTBD and Wardley Mapping Synergy](#overview-of-jtbd-and-wardley-mapping-synergy)
+- [Foundations of JTBD and Wardley Mapping](#foundations-of-jtbd-and-wardley-mapping)
+  - [Understanding Jobs-to-be-Done Theory](#understanding-jobs-to-be-done-theory)
+    - [Ulwick's Outcome-Driven Innovation](#ulwicks-outcome-driven-innovation)
+    - [Moesta's Switch and Progress-Making Forces](#moestas-switch-and-progress-making-forces)
+    - [Job Definition and Customer Needs Mapping](#job-definition-and-customer-needs-mapping)
+  - [Mastering Wardley Mapping Fundamentals](#mastering-wardley-mapping-fundamentals)
+    - [Value Chain Visualization](#value-chain-visualization)
+    - [Evolution and Movement](#evolution-and-movement)
+    - [Strategic Positioning and Gameplay](#strategic-positioning-and-gameplay)
+- [Integration Framework and Methodology](#integration-framework-and-methodology)
+  - [Mapping Customer Jobs to Value Chains](#mapping-customer-jobs-to-value-chains)
+    - [Job Layer Analysis](#job-layer-analysis)
+    - [Component Evolution Tracking](#component-evolution-tracking)
+    - [Value Chain Integration Points](#value-chain-integration-points)
+  - [Digital Transformation Tools](#digital-transformation-tools)
+    - [Combined Analysis Templates](#combined-analysis-templates)
+    - [Strategic Planning Worksheets](#strategic-planning-worksheets)
+    - [Decision-Making Frameworks](#decision-making-frameworks)
+- [Implementation and Execution](#implementation-and-execution)
+  - [Digital Product Strategy](#digital-product-strategy)
+    - [Opportunity Discovery Process](#opportunity-discovery-process)
+    - [Feature Prioritization Framework](#feature-prioritization-framework)
+    - [Evolution-Based Roadmapping](#evolution-based-roadmapping)
+  - [Platform and Ecosystem Design](#platform-and-ecosystem-design)
+    - [Platform Component Analysis](#platform-component-analysis)
+    - [Ecosystem Mapping Techniques](#ecosystem-mapping-techniques)
+    - [Strategic Positioning Guidelines](#strategic-positioning-guidelines)
+- [Advanced Applications and Future Directions](#advanced-applications-and-future-directions)
+  - [Case Studies in Digital Innovation](#case-studies-in-digital-innovation)
+    - [Technology Sector Examples](#technology-sector-examples)
+    - [Service Industry Transformations](#service-industry-transformations)
+    - [Platform Business Models](#platform-business-models)
+  - [Emerging Trends and Applications](#emerging-trends-and-applications)
+    - [AI and Machine Learning Integration](#ai-and-machine-learning-integration)
+    - [Ecosystem Evolution Patterns](#ecosystem-evolution-patterns)
+    - [Future of Strategic Planning](#future-of-strategic-planning)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The Power of Combined Methodologies

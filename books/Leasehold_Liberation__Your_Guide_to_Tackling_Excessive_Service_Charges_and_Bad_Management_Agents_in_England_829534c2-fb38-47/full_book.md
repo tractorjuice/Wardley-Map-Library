@@ -4,91 +4,91 @@
 
 # Table of Contents
 
-- Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: Understanding the Leasehold Landscape
-  - The Leasehold System in England: An Overview
-    - What is a leasehold property?
-    - Key players: freeholders, leaseholders, and management agents
-    - Common issues faced by leaseholders
-  - The Legal Framework
-    - Relevant legislation and regulations
-    - Your rights as a leaseholder
-    - Obligations of freeholders and management agents
-- Decoding Service Charges and Management Fees
-  - Understanding Service Charges
-    - What are service charges?
-    - Typical items covered by service charges
-    - Reasonableness and consultation requirements
-  - Scrutinising Your Service Charge Demands
-    - Reading and interpreting service charge statements
-    - Red flags: identifying potentially excessive charges
-    - Your right to challenge service charges
-  - Management Fees: Fair Compensation or Profiteering?
-    - What management fees should cover
-    - Benchmarking management fees
-    - Challenging unreasonable management fees
-- Challenging Excessive Charges and Unfair Terms
-  - Preparing Your Case
-    - Gathering evidence and documentation
-    - Understanding the grounds for challenge
-    - Seeking professional advice: when and how
-  - Informal Resolution Strategies
-    - Communicating effectively with your management agent
-    - Negotiation techniques for positive outcomes
-    - Using mediation services
-  - Formal Dispute Resolution
-    - The First-tier Tribunal (Property Chamber)
-    - Preparing for a tribunal hearing
-    - Alternative legal routes: county courts and the Upper Tribunal
-- Reforming Bad Management Practices
-  - Identifying Poor Management
-    - Common signs of mismanagement
-    - Assessing communication and transparency
-    - Evaluating maintenance and repair standards
-  - Engaging with Your Management Agent
-    - Effective complaint procedures
-    - Requesting information and exercising your rights
-    - Collaborating with other leaseholders for a united front
-  - Changing Your Management Agent
-    - Legal routes to appointing a new agent
-    - The process of changing management agents
-    - Selecting a reputable replacement
-- Collective Action and Empowerment
-  - Forming a Residents' Association
-    - Benefits of a recognised association
-    - Steps to form and register an association
-    - Running an effective residents' association
-  - The Right to Manage (RTM)
-    - Understanding the RTM process
-    - Qualifying criteria and potential obstacles
-    - Setting up and running an RTM company
-  - Collective Enfranchisement
-    - The benefits and challenges of buying the freehold
-    - Eligibility and process overview
-    - Managing your property post-enfranchisement
-- Advocacy and Reform: Shaping the Future of Leasehold
-  - Current Reform Initiatives
-    - Overview of proposed leasehold reforms
-    - Key organisations driving change
-    - How reforms may affect existing leaseholders
-  - Getting Involved in Advocacy
-    - Joining leasehold campaign groups
-    - Engaging with your MP and local government
-    - Using social media and traditional media effectively
-  - The Future of Leasehold in England
-    - Potential alternatives to leasehold
-    - International comparisons and best practices
-    - Preparing for a changing landscape
-- Conclusion: Empowered Leaseholders, Fairer Future
-  - Recap of Key Strategies
-    - Summary of main action points
-    - Long-term outlook for tackling issues
-    - Importance of ongoing education and engagement
-  - Resources and Further Support
-    - Useful organisations and websites
-    - Recommended reading and courses
-    - Templates and checklists for common procedures
+- [Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England](#leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: Understanding the Leasehold Landscape](#introduction-understanding-the-leasehold-landscape)
+  - [The Leasehold System in England: An Overview](#the-leasehold-system-in-england-an-overview)
+    - [What is a leasehold property?](#what-is-a-leasehold-property)
+    - [Key players: freeholders, leaseholders, and management agents](#key-players-freeholders-leaseholders-and-management-agents)
+    - [Common issues faced by leaseholders](#common-issues-faced-by-leaseholders)
+  - [The Legal Framework](#the-legal-framework)
+    - [Relevant legislation and regulations](#relevant-legislation-and-regulations)
+    - [Your rights as a leaseholder](#your-rights-as-a-leaseholder)
+    - [Obligations of freeholders and management agents](#obligations-of-freeholders-and-management-agents)
+- [Decoding Service Charges and Management Fees](#decoding-service-charges-and-management-fees)
+  - [Understanding Service Charges](#understanding-service-charges)
+    - [What are service charges?](#what-are-service-charges)
+    - [Typical items covered by service charges](#typical-items-covered-by-service-charges)
+    - [Reasonableness and consultation requirements](#reasonableness-and-consultation-requirements)
+  - [Scrutinising Your Service Charge Demands](#scrutinising-your-service-charge-demands)
+    - [Reading and interpreting service charge statements](#reading-and-interpreting-service-charge-statements)
+    - [Red flags: identifying potentially excessive charges](#red-flags-identifying-potentially-excessive-charges)
+    - [Your right to challenge service charges](#your-right-to-challenge-service-charges)
+  - [Management Fees: Fair Compensation or Profiteering?](#management-fees-fair-compensation-or-profiteering)
+    - [What management fees should cover](#what-management-fees-should-cover)
+    - [Benchmarking management fees](#benchmarking-management-fees)
+    - [Challenging unreasonable management fees](#challenging-unreasonable-management-fees)
+- [Challenging Excessive Charges and Unfair Terms](#challenging-excessive-charges-and-unfair-terms)
+  - [Preparing Your Case](#preparing-your-case)
+    - [Gathering evidence and documentation](#gathering-evidence-and-documentation)
+    - [Understanding the grounds for challenge](#understanding-the-grounds-for-challenge)
+    - [Seeking professional advice: when and how](#seeking-professional-advice-when-and-how)
+  - [Informal Resolution Strategies](#informal-resolution-strategies)
+    - [Communicating effectively with your management agent](#communicating-effectively-with-your-management-agent)
+    - [Negotiation techniques for positive outcomes](#negotiation-techniques-for-positive-outcomes)
+    - [Using mediation services](#using-mediation-services)
+  - [Formal Dispute Resolution](#formal-dispute-resolution)
+    - [The First-tier Tribunal (Property Chamber)](#the-first-tier-tribunal-property-chamber)
+    - [Preparing for a tribunal hearing](#preparing-for-a-tribunal-hearing)
+    - [Alternative legal routes: county courts and the Upper Tribunal](#alternative-legal-routes-county-courts-and-the-upper-tribunal)
+- [Reforming Bad Management Practices](#reforming-bad-management-practices)
+  - [Identifying Poor Management](#identifying-poor-management)
+    - [Common signs of mismanagement](#common-signs-of-mismanagement)
+    - [Assessing communication and transparency](#assessing-communication-and-transparency)
+    - [Evaluating maintenance and repair standards](#evaluating-maintenance-and-repair-standards)
+  - [Engaging with Your Management Agent](#engaging-with-your-management-agent)
+    - [Effective complaint procedures](#effective-complaint-procedures)
+    - [Requesting information and exercising your rights](#requesting-information-and-exercising-your-rights)
+    - [Collaborating with other leaseholders for a united front](#collaborating-with-other-leaseholders-for-a-united-front)
+  - [Changing Your Management Agent](#changing-your-management-agent)
+    - [Legal routes to appointing a new agent](#legal-routes-to-appointing-a-new-agent)
+    - [The process of changing management agents](#the-process-of-changing-management-agents)
+    - [Selecting a reputable replacement](#selecting-a-reputable-replacement)
+- [Collective Action and Empowerment](#collective-action-and-empowerment)
+  - [Forming a Residents' Association](#forming-a-residents-association)
+    - [Benefits of a recognised association](#benefits-of-a-recognised-association)
+    - [Steps to form and register an association](#steps-to-form-and-register-an-association)
+    - [Running an effective residents' association](#running-an-effective-residents-association)
+  - [The Right to Manage (RTM)](#the-right-to-manage-rtm)
+    - [Understanding the RTM process](#understanding-the-rtm-process)
+    - [Qualifying criteria and potential obstacles](#qualifying-criteria-and-potential-obstacles)
+    - [Setting up and running an RTM company](#setting-up-and-running-an-rtm-company)
+  - [Collective Enfranchisement](#collective-enfranchisement)
+    - [The benefits and challenges of buying the freehold](#the-benefits-and-challenges-of-buying-the-freehold)
+    - [Eligibility and process overview](#eligibility-and-process-overview)
+    - [Managing your property post-enfranchisement](#managing-your-property-post-enfranchisement)
+- [Advocacy and Reform: Shaping the Future of Leasehold](#advocacy-and-reform-shaping-the-future-of-leasehold)
+  - [Current Reform Initiatives](#current-reform-initiatives)
+    - [Overview of proposed leasehold reforms](#overview-of-proposed-leasehold-reforms)
+    - [Key organisations driving change](#key-organisations-driving-change)
+    - [How reforms may affect existing leaseholders](#how-reforms-may-affect-existing-leaseholders)
+  - [Getting Involved in Advocacy](#getting-involved-in-advocacy)
+    - [Joining leasehold campaign groups](#joining-leasehold-campaign-groups)
+    - [Engaging with your MP and local government](#engaging-with-your-mp-and-local-government)
+    - [Using social media and traditional media effectively](#using-social-media-and-traditional-media-effectively)
+  - [The Future of Leasehold in England](#the-future-of-leasehold-in-england)
+    - [Potential alternatives to leasehold](#potential-alternatives-to-leasehold)
+    - [International comparisons and best practices](#international-comparisons-and-best-practices)
+    - [Preparing for a changing landscape](#preparing-for-a-changing-landscape)
+- [Conclusion: Empowered Leaseholders, Fairer Future](#conclusion-empowered-leaseholders-fairer-future)
+  - [Recap of Key Strategies](#recap-of-key-strategies)
+    - [Summary of main action points](#summary-of-main-action-points)
+    - [Long-term outlook for tackling issues](#long-term-outlook-for-tackling-issues)
+    - [Importance of ongoing education and engagement](#importance-of-ongoing-education-and-engagement)
+  - [Resources and Further Support](#resources-and-further-support)
+    - [Useful organisations and websites](#useful-organisations-and-websites)
+    - [Recommended reading and courses](#recommended-reading-and-courses)
+    - [Templates and checklists for common procedures](#templates-and-checklists-for-common-procedures)
 
 
 # Introduction: Understanding the Leasehold Landscape

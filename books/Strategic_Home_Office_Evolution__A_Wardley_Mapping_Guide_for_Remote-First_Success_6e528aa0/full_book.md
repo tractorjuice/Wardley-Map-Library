@@ -2,52 +2,52 @@
 
 # Table of Contents
 
-- Strategic Home Office Evolution: A Wardley Mapping Guide for Remote-First Success
-  - Introduction: The New Frontier of Work
-    - Understanding the Home Office Revolution
-      - The Shift to Remote-First Operations
-      - Why Traditional Strategy Falls Short
-      - The Power of Wardley Mapping in Remote Contexts
-    - Foundations of Strategic Mapping
-      - Core Principles of Wardley Mapping
-      - Adapting Maps for Remote Environments
-      - Key Components of Home Office Strategy
-  - Mapping the Home Office Landscape
-    - Value Chain Analysis for Remote Work
-      - Identifying Key Stakeholders
-      - Mapping Core Activities
-      - Understanding Dependencies in Remote Operations
-    - Technology Infrastructure Components
-      - Communication Platforms Evolution
-      - Security and Access Management
-      - Digital Collaboration Tools
-      - Infrastructure Maturity Assessment
-    - Cultural Elements Mapping
-      - Remote Team Dynamics
-      - Virtual Communication Patterns
-      - Trust and Accountability Frameworks
-  - Strategic Evolution Planning
-    - Movement Analysis
-      - Evolution of Remote Work Components
-      - Identifying Strategic Opportunities
-      - Anticipating Market Changes
-    - Climatic Pattern Recognition
-      - Industry Trends in Remote Work
-      - Technology Evolution Patterns
-      - Cultural Shift Indicators
-  - Implementation and Execution
-    - Creating Your First Home Office Map
-      - Initial Assessment and Setup
-      - Component Positioning
-      - Evolution Planning
-    - Strategic Decision Making
-      - Prioritizing Initiatives
-      - Resource Allocation
-      - Risk Management in Remote Environments
-    - Measuring Success
-      - Key Performance Indicators
-      - Adaptation and Refinement
-      - Long-term Strategy Evaluation
+- [Strategic Home Office Evolution: A Wardley Mapping Guide for Remote-First Success](#strategic-home-office-evolution-a-wardley-mapping-guide-for-remote-first-success)
+  - [Introduction: The New Frontier of Work](#introduction-the-new-frontier-of-work)
+    - [Understanding the Home Office Revolution](#understanding-the-home-office-revolution)
+      - [The Shift to Remote-First Operations](#the-shift-to-remote-first-operations)
+      - [Why Traditional Strategy Falls Short](#why-traditional-strategy-falls-short)
+      - [The Power of Wardley Mapping in Remote Contexts](#the-power-of-wardley-mapping-in-remote-contexts)
+    - [Foundations of Strategic Mapping](#foundations-of-strategic-mapping)
+      - [Core Principles of Wardley Mapping](#core-principles-of-wardley-mapping)
+      - [Adapting Maps for Remote Environments](#adapting-maps-for-remote-environments)
+      - [Key Components of Home Office Strategy](#key-components-of-home-office-strategy)
+  - [Mapping the Home Office Landscape](#mapping-the-home-office-landscape)
+    - [Value Chain Analysis for Remote Work](#value-chain-analysis-for-remote-work)
+      - [Identifying Key Stakeholders](#identifying-key-stakeholders)
+      - [Mapping Core Activities](#mapping-core-activities)
+      - [Understanding Dependencies in Remote Operations](#understanding-dependencies-in-remote-operations)
+    - [Technology Infrastructure Components](#technology-infrastructure-components)
+      - [Communication Platforms Evolution](#communication-platforms-evolution)
+      - [Security and Access Management](#security-and-access-management)
+      - [Digital Collaboration Tools](#digital-collaboration-tools)
+      - [Infrastructure Maturity Assessment](#infrastructure-maturity-assessment)
+    - [Cultural Elements Mapping](#cultural-elements-mapping)
+      - [Remote Team Dynamics](#remote-team-dynamics)
+      - [Virtual Communication Patterns](#virtual-communication-patterns)
+      - [Trust and Accountability Frameworks](#trust-and-accountability-frameworks)
+  - [Strategic Evolution Planning](#strategic-evolution-planning)
+    - [Movement Analysis](#movement-analysis)
+      - [Evolution of Remote Work Components](#evolution-of-remote-work-components)
+      - [Identifying Strategic Opportunities](#identifying-strategic-opportunities)
+      - [Anticipating Market Changes](#anticipating-market-changes)
+    - [Climatic Pattern Recognition](#climatic-pattern-recognition)
+      - [Industry Trends in Remote Work](#industry-trends-in-remote-work)
+      - [Technology Evolution Patterns](#technology-evolution-patterns)
+      - [Cultural Shift Indicators](#cultural-shift-indicators)
+  - [Implementation and Execution](#implementation-and-execution)
+    - [Creating Your First Home Office Map](#creating-your-first-home-office-map)
+      - [Initial Assessment and Setup](#initial-assessment-and-setup)
+      - [Component Positioning](#component-positioning)
+      - [Evolution Planning](#evolution-planning)
+    - [Strategic Decision Making](#strategic-decision-making)
+      - [Prioritizing Initiatives](#prioritizing-initiatives)
+      - [Resource Allocation](#resource-allocation)
+      - [Risk Management in Remote Environments](#risk-management-in-remote-environments)
+    - [Measuring Success](#measuring-success)
+      - [Key Performance Indicators](#key-performance-indicators)
+      - [Adaptation and Refinement](#adaptation-and-refinement)
+      - [Long-term Strategy Evaluation](#long-term-strategy-evaluation)
 
 
 ## Introduction: The New Frontier of Work

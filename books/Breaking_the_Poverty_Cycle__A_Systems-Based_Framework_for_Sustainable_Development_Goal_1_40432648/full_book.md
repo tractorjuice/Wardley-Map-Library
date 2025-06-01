@@ -2,48 +2,48 @@
 
 # Table of Contents
 
-- Breaking the Poverty Cycle: A Systems-Based Framework for Sustainable Development Goal 1
-  - Introduction: Understanding Poverty as a Complex System
-    - The Multidimensional Nature of Global Poverty
-      - Defining Poverty in the 21st Century
-      - Interconnected Challenges and System Dynamics
-      - SDG 1 Framework and Targets
-    - Systems Thinking Approach to Poverty Reduction
-      - Key Principles of Systems Analysis
-      - Stakeholder Mapping and Interactions
-      - Leverage Points for Systemic Change
-  - Digital Innovation and Financial Inclusion
-    - Technology-Driven Financial Access
-      - Mobile Banking Revolution
-      - Blockchain for Financial Inclusion
-      - Digital Identity Solutions
-    - Data Analytics for Poverty Reduction
-      - AI-Powered Poverty Mapping
-      - Predictive Analytics for Intervention Design
-      - Impact Measurement Frameworks
-  - Sustainable Livelihoods and Climate Resilience
-    - Climate-Smart Poverty Reduction
-      - Environmental Vulnerability and Poverty
-      - Adaptive Capacity Building
-      - Green Economy Opportunities
-    - Circular Economy Solutions
-      - Resource Efficiency Models
-      - Waste-to-Value Initiatives
-      - Sustainable Employment Creation
-  - Collaborative Frameworks and Behavioral Interventions
-    - Multi-Stakeholder Partnership Models
-      - Government-Private Sector Collaboration
-      - Civil Society Integration
-      - Cross-Sector Resource Mobilization
-    - Behavioral Economics Applications
-      - Evidence-Based Intervention Design
-      - Nudge Strategies for Poverty Reduction
-      - Behavioral Change Measurement
-  - Conclusion: Towards Systemic Change
-    - Integration and Implementation
-      - Scaling Successful Interventions
-      - Policy Recommendations
-      - Future Research Directions
+- [Breaking the Poverty Cycle: A Systems-Based Framework for Sustainable Development Goal 1](#breaking-the-poverty-cycle-a-systems-based-framework-for-sustainable-development-goal-1)
+  - [Introduction: Understanding Poverty as a Complex System](#introduction-understanding-poverty-as-a-complex-system)
+    - [The Multidimensional Nature of Global Poverty](#the-multidimensional-nature-of-global-poverty)
+      - [Defining Poverty in the 21st Century](#defining-poverty-in-the-21st-century)
+      - [Interconnected Challenges and System Dynamics](#interconnected-challenges-and-system-dynamics)
+      - [SDG 1 Framework and Targets](#sdg-1-framework-and-targets)
+    - [Systems Thinking Approach to Poverty Reduction](#systems-thinking-approach-to-poverty-reduction)
+      - [Key Principles of Systems Analysis](#key-principles-of-systems-analysis)
+      - [Stakeholder Mapping and Interactions](#stakeholder-mapping-and-interactions)
+      - [Leverage Points for Systemic Change](#leverage-points-for-systemic-change)
+  - [Digital Innovation and Financial Inclusion](#digital-innovation-and-financial-inclusion)
+    - [Technology-Driven Financial Access](#technology-driven-financial-access)
+      - [Mobile Banking Revolution](#mobile-banking-revolution)
+      - [Blockchain for Financial Inclusion](#blockchain-for-financial-inclusion)
+      - [Digital Identity Solutions](#digital-identity-solutions)
+    - [Data Analytics for Poverty Reduction](#data-analytics-for-poverty-reduction)
+      - [AI-Powered Poverty Mapping](#ai-powered-poverty-mapping)
+      - [Predictive Analytics for Intervention Design](#predictive-analytics-for-intervention-design)
+      - [Impact Measurement Frameworks](#impact-measurement-frameworks)
+  - [Sustainable Livelihoods and Climate Resilience](#sustainable-livelihoods-and-climate-resilience)
+    - [Climate-Smart Poverty Reduction](#climate-smart-poverty-reduction)
+      - [Environmental Vulnerability and Poverty](#environmental-vulnerability-and-poverty)
+      - [Adaptive Capacity Building](#adaptive-capacity-building)
+      - [Green Economy Opportunities](#green-economy-opportunities)
+    - [Circular Economy Solutions](#circular-economy-solutions)
+      - [Resource Efficiency Models](#resource-efficiency-models)
+      - [Waste-to-Value Initiatives](#waste-to-value-initiatives)
+      - [Sustainable Employment Creation](#sustainable-employment-creation)
+  - [Collaborative Frameworks and Behavioral Interventions](#collaborative-frameworks-and-behavioral-interventions)
+    - [Multi-Stakeholder Partnership Models](#multi-stakeholder-partnership-models)
+      - [Government-Private Sector Collaboration](#government-private-sector-collaboration)
+      - [Civil Society Integration](#civil-society-integration)
+      - [Cross-Sector Resource Mobilization](#cross-sector-resource-mobilization)
+    - [Behavioral Economics Applications](#behavioral-economics-applications)
+      - [Evidence-Based Intervention Design](#evidence-based-intervention-design)
+      - [Nudge Strategies for Poverty Reduction](#nudge-strategies-for-poverty-reduction)
+      - [Behavioral Change Measurement](#behavioral-change-measurement)
+  - [Conclusion: Towards Systemic Change](#conclusion-towards-systemic-change)
+    - [Integration and Implementation](#integration-and-implementation)
+      - [Scaling Successful Interventions](#scaling-successful-interventions)
+      - [Policy Recommendations](#policy-recommendations)
+      - [Future Research Directions](#future-research-directions)
 
 
 ## Introduction: Understanding Poverty as a Complex System

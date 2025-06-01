@@ -4,59 +4,59 @@
 
 # Table of Contents
 
-- AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development
-    - :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
-- Introduction: The Convergence of AI and Sustainable Development
-  - Understanding the SDG Landscape
-    - Current Progress and Challenges
-    - The Role of Technology in Development
-    - Introduction to Generative AI Capabilities
-  - AI Implementation Framework Overview
-    - Core Components of AI-SDG Integration
-    - Ethical Considerations and Principles
-    - Stakeholder Ecosystem Mapping
-- SDG-Specific AI Solutions
-  - Poverty and Economic Development (SDGs 1, 8, 9)
-    - AI-Powered Microfinance Solutions
-    - Predictive Analytics for Economic Planning
-    - Digital Infrastructure Development
-  - Health and Well-being (SDGs 2, 3)
-    - AI in Healthcare Diagnostics
-    - Nutrition Optimization Systems
-    - Disease Outbreak Prediction
-  - Education and Gender Equality (SDGs 4, 5)
-    - Personalized Learning Platforms
-    - Gender Bias Detection Tools
-    - Access Enhancement Solutions
-  - Environmental Sustainability (SDGs 6, 7, 13, 14, 15)
-    - Climate Change Modeling
-    - Resource Management Systems
-    - Biodiversity Protection Tools
-- Implementation and Resource Optimization
-  - Deployment Strategies
-    - Infrastructure Assessment
-    - Cost-Benefit Analysis
-    - Scalability Planning
-  - Resource Management
-    - AI-Driven Resource Allocation
-    - Efficiency Optimization
-    - Sustainable Implementation Models
-- Measuring Impact and Ensuring Success
-  - Impact Assessment Framework
-    - Key Performance Indicators
-    - Data Collection Methods
-    - Analysis and Reporting Tools
-  - Stakeholder Collaboration
-    - Partnership Development
-    - Community Engagement
-    - Knowledge Sharing Platforms
-- Appendix
-  - Book Generation Details
-  - Further Reading on Wardley Mapping
-- Appendix: Further Reading on Wardley Mapping
-  - Core Wardley Mapping Series
-  - Practical Resources
-  - Specialized Applications
+- [AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development](#ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development)
+    - [:warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.](#warning-warning-this-content-was-generated-using-generative-ai-while-efforts-have-been-made-to-ensure-accuracy-and-coherence-readers-should-approach-the-material-with-critical-thinking-and-verify-important-information-from-authoritative-sources)
+- [Introduction: The Convergence of AI and Sustainable Development](#introduction-the-convergence-of-ai-and-sustainable-development)
+  - [Understanding the SDG Landscape](#understanding-the-sdg-landscape)
+    - [Current Progress and Challenges](#current-progress-and-challenges)
+    - [The Role of Technology in Development](#the-role-of-technology-in-development)
+    - [Introduction to Generative AI Capabilities](#introduction-to-generative-ai-capabilities)
+  - [AI Implementation Framework Overview](#ai-implementation-framework-overview)
+    - [Core Components of AI-SDG Integration](#core-components-of-ai-sdg-integration)
+    - [Ethical Considerations and Principles](#ethical-considerations-and-principles)
+    - [Stakeholder Ecosystem Mapping](#stakeholder-ecosystem-mapping)
+- [SDG-Specific AI Solutions](#sdg-specific-ai-solutions)
+  - [Poverty and Economic Development (SDGs 1, 8, 9)](#poverty-and-economic-development-sdgs-1-8-9)
+    - [AI-Powered Microfinance Solutions](#ai-powered-microfinance-solutions)
+    - [Predictive Analytics for Economic Planning](#predictive-analytics-for-economic-planning)
+    - [Digital Infrastructure Development](#digital-infrastructure-development)
+  - [Health and Well-being (SDGs 2, 3)](#health-and-well-being-sdgs-2-3)
+    - [AI in Healthcare Diagnostics](#ai-in-healthcare-diagnostics)
+    - [Nutrition Optimization Systems](#nutrition-optimization-systems)
+    - [Disease Outbreak Prediction](#disease-outbreak-prediction)
+  - [Education and Gender Equality (SDGs 4, 5)](#education-and-gender-equality-sdgs-4-5)
+    - [Personalized Learning Platforms](#personalized-learning-platforms)
+    - [Gender Bias Detection Tools](#gender-bias-detection-tools)
+    - [Access Enhancement Solutions](#access-enhancement-solutions)
+  - [Environmental Sustainability (SDGs 6, 7, 13, 14, 15)](#environmental-sustainability-sdgs-6-7-13-14-15)
+    - [Climate Change Modeling](#climate-change-modeling)
+    - [Resource Management Systems](#resource-management-systems)
+    - [Biodiversity Protection Tools](#biodiversity-protection-tools)
+- [Implementation and Resource Optimization](#implementation-and-resource-optimization)
+  - [Deployment Strategies](#deployment-strategies)
+    - [Infrastructure Assessment](#infrastructure-assessment)
+    - [Cost-Benefit Analysis](#cost-benefit-analysis)
+    - [Scalability Planning](#scalability-planning)
+  - [Resource Management](#resource-management)
+    - [AI-Driven Resource Allocation](#ai-driven-resource-allocation)
+    - [Efficiency Optimization](#efficiency-optimization)
+    - [Sustainable Implementation Models](#sustainable-implementation-models)
+- [Measuring Impact and Ensuring Success](#measuring-impact-and-ensuring-success)
+  - [Impact Assessment Framework](#impact-assessment-framework)
+    - [Key Performance Indicators](#key-performance-indicators)
+    - [Data Collection Methods](#data-collection-methods)
+    - [Analysis and Reporting Tools](#analysis-and-reporting-tools)
+  - [Stakeholder Collaboration](#stakeholder-collaboration)
+    - [Partnership Development](#partnership-development)
+    - [Community Engagement](#community-engagement)
+    - [Knowledge Sharing Platforms](#knowledge-sharing-platforms)
+- [Appendix](#appendix)
+  - [Book Generation Details](#book-generation-details)
+  - [Further Reading on Wardley Mapping](#further-reading-on-wardley-mapping)
+- [Appendix: Further Reading on Wardley Mapping](#appendix-further-reading-on-wardley-mapping)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
 
 
 # Introduction: The Convergence of AI and Sustainable Development

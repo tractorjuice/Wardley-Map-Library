@@ -2,55 +2,55 @@
 
 # Table of Contents
 
-- Wardley Mapping for Digital Transformation: A Strategic Decision-Making Guide
-  - Introduction: The Power of Visual Strategy
-    - Understanding Strategic Decision-Making in the Digital Age
-      - The Evolution of Strategic Planning
-      - Why Traditional Methods Fall Short
-      - The Need for Visual Strategy
-    - Fundamentals of Wardley Mapping
-      - Core Components and Principles
-      - Value Chain Dynamics
-      - Evolution and Movement
-  - Building Your First Wardley Map
-    - Map Components and Construction
-      - Identifying User Needs
-      - Mapping Value Chains
-      - Understanding Evolution Axes
-      - Component Positioning
-    - Common Patterns and Antipatterns
-      - Strategic Patterns
-      - Gameplay Patterns
-      - Avoiding Common Mistakes
-  - Digital Transformation Strategy
-    - Mapping Digital Landscapes
-      - Technology Stack Analysis
-      - Legacy System Evolution
-      - Innovation Opportunities
-    - Transformation Planning
-      - Gap Analysis
-      - Capability Planning
-      - Risk Assessment
-      - Implementation Roadmaps
-  - Competitive Intelligence and Market Analysis
-    - Market Positioning
-      - Competitor Analysis
-      - Market Evolution Patterns
-      - Opportunity Identification
-    - Strategic Response Development
-      - Defensive Strategies
-      - Offensive Moves
-      - Innovation Planning
-  - Practical Implementation and Case Studies
-    - Implementation Frameworks
-      - Decision-Making Templates
-      - Workshop Guidelines
-      - Team Collaboration Tools
-    - Industry Case Studies
-      - Technology Sector Examples
-      - Healthcare Transformation Cases
-      - Financial Services Applications
-      - Manufacturing Evolution Studies
+- [Wardley Mapping for Digital Transformation: A Strategic Decision-Making Guide](#wardley-mapping-for-digital-transformation-a-strategic-decision-making-guide)
+  - [Introduction: The Power of Visual Strategy](#introduction-the-power-of-visual-strategy)
+    - [Understanding Strategic Decision-Making in the Digital Age](#understanding-strategic-decision-making-in-the-digital-age)
+      - [The Evolution of Strategic Planning](#the-evolution-of-strategic-planning)
+      - [Why Traditional Methods Fall Short](#why-traditional-methods-fall-short)
+      - [The Need for Visual Strategy](#the-need-for-visual-strategy)
+    - [Fundamentals of Wardley Mapping](#fundamentals-of-wardley-mapping)
+      - [Core Components and Principles](#core-components-and-principles)
+      - [Value Chain Dynamics](#value-chain-dynamics)
+      - [Evolution and Movement](#evolution-and-movement)
+  - [Building Your First Wardley Map](#building-your-first-wardley-map)
+    - [Map Components and Construction](#map-components-and-construction)
+      - [Identifying User Needs](#identifying-user-needs)
+      - [Mapping Value Chains](#mapping-value-chains)
+      - [Understanding Evolution Axes](#understanding-evolution-axes)
+      - [Component Positioning](#component-positioning)
+    - [Common Patterns and Antipatterns](#common-patterns-and-antipatterns)
+      - [Strategic Patterns](#strategic-patterns)
+      - [Gameplay Patterns](#gameplay-patterns)
+      - [Avoiding Common Mistakes](#avoiding-common-mistakes)
+  - [Digital Transformation Strategy](#digital-transformation-strategy)
+    - [Mapping Digital Landscapes](#mapping-digital-landscapes)
+      - [Technology Stack Analysis](#technology-stack-analysis)
+      - [Legacy System Evolution](#legacy-system-evolution)
+      - [Innovation Opportunities](#innovation-opportunities)
+    - [Transformation Planning](#transformation-planning)
+      - [Gap Analysis](#gap-analysis)
+      - [Capability Planning](#capability-planning)
+      - [Risk Assessment](#risk-assessment)
+      - [Implementation Roadmaps](#implementation-roadmaps)
+  - [Competitive Intelligence and Market Analysis](#competitive-intelligence-and-market-analysis)
+    - [Market Positioning](#market-positioning)
+      - [Competitor Analysis](#competitor-analysis)
+      - [Market Evolution Patterns](#market-evolution-patterns)
+      - [Opportunity Identification](#opportunity-identification)
+    - [Strategic Response Development](#strategic-response-development)
+      - [Defensive Strategies](#defensive-strategies)
+      - [Offensive Moves](#offensive-moves)
+      - [Innovation Planning](#innovation-planning)
+  - [Practical Implementation and Case Studies](#practical-implementation-and-case-studies)
+    - [Implementation Frameworks](#implementation-frameworks)
+      - [Decision-Making Templates](#decision-making-templates)
+      - [Workshop Guidelines](#workshop-guidelines)
+      - [Team Collaboration Tools](#team-collaboration-tools)
+    - [Industry Case Studies](#industry-case-studies)
+      - [Technology Sector Examples](#technology-sector-examples)
+      - [Healthcare Transformation Cases](#healthcare-transformation-cases)
+      - [Financial Services Applications](#financial-services-applications)
+      - [Manufacturing Evolution Studies](#manufacturing-evolution-studies)
 
 
 ## Introduction: The Power of Visual Strategy

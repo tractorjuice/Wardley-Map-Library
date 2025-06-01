@@ -69,7 +69,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 │   ├── styles.css         # Complete CSS styling
 │   └── script.js          # Frontend JavaScript application
 ├── scripts/               # Utility scripts directory
-│   ├── generate-manifest.js # Book discovery and manifest generation
+│   ├── generate-manifest.js # Book discovery, manifest generation, and sitemap creation
 │   └── table-of-contents-generator.js # ToC generator script
 ├── package.json           # Dependencies and scripts
 ├── vercel.json           # Vercel deployment configuration
@@ -112,6 +112,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 4. Generates clean IDs from directory names
 5. Categorizes books based on title and content analysis
 6. Creates `books.json` manifest file for API consumption
+7. **Automatically generates `public/sitemap.xml`** with all books, categories, and API endpoints
 
 ### Book ID Generation
 - Converts directory names to lowercase
@@ -214,13 +215,14 @@ Books are categorized using keyword matching:
 1. Create directory inside `books/` folder with descriptive name
 2. Add `full_book.md` file with markdown content
 3. Optionally add `full_book.docx` and other markdown files
-4. Run `node generate-manifest.js` to update the book manifest
+4. Run `node scripts/generate-manifest.js` to update the book manifest and sitemap
 5. Book will be automatically categorized and listed
+6. **Sitemap.xml automatically updated** with new book URL for SEO
 
 ### Modifying Categories
-1. Edit `categorizeBook()` method in `generate-manifest.js`
+1. Edit `categorizeBook()` method in `scripts/generate-manifest.js`
 2. Add new keyword mappings
-3. Run `node generate-manifest.js` to regenerate manifest
+3. Run `node scripts/generate-manifest.js` to regenerate manifest and sitemap
 
 ### Updating Styles
 1. Edit `public/styles.css`
@@ -272,6 +274,34 @@ Books are categorized using keyword matching:
 - HTTPS by default for secure features
 - Vercel development server for local testing
 
+## 🗺️ SEO and Sitemap Management
+
+### Automatic Sitemap Generation
+- **Sitemap Location**: `https://library.wardleymaps.ai/sitemap.xml`
+- **Auto-Updates**: Regenerated every time `scripts/generate-manifest.js` runs
+- **Content Included**: Homepage, API endpoints, all book categories, and individual book pages
+- **URL Count**: 200+ URLs including 174 books and 23 categories
+
+### Sitemap Structure
+```xml
+Homepage (priority 1.0)
+API endpoints (health, books listing)
+Category pages (all discovered categories)
+Individual book pages (all book IDs)
+```
+
+### SEO Best Practices
+- **Current Timestamps**: All URLs include current lastmod dates
+- **Priority Levels**: Homepage (1.0), Categories (0.7), Books (0.8), APIs (0.3-0.7)
+- **Change Frequency**: Weekly for homepage/categories, monthly for books
+- **Search Engine Submission**: Submit sitemap.xml to Google Search Console and Bing
+
+### Maintenance Notes
+- Sitemap automatically stays synchronized with book collection
+- No manual sitemap updates required when adding/removing books
+- Categories dynamically generated based on book categorization
+- Test sitemap validity at [xml-sitemaps.com validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
+
 ## 🔄 Maintenance
 
 ### Regular Tasks
@@ -279,11 +309,13 @@ Books are categorized using keyword matching:
 - Update dependencies for security
 - Test new book additions
 - Verify external link functionality
+- **Verify sitemap accessibility** at library.wardleymaps.ai/sitemap.xml
 
 ### Performance Monitoring
 - Check API response times
 - Monitor memory usage during book discovery
 - Test with large numbers of books
+- **Monitor sitemap size** and URL count
 
 ### User Feedback
 - Monitor for broken links

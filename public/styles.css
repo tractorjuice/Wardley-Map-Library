@@ -177,6 +177,100 @@ header p {
     opacity: 1;
 }
 
+/* Table of Contents Panel */
+.toc-panel {
+    width: 300px;
+    min-width: 200px;
+    max-width: 400px;
+    background: white;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.05);
+    flex-shrink: 0;
+    height: 100%;
+    max-height: calc(100vh - 160px);
+    border-left: 1px solid #e9ecef;
+}
+
+.toc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+    background: #f8f9fa;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.toc-header h3 {
+    margin: 0;
+    color: #495057;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.toggle-toc {
+    background: none;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+    padding: 0.4rem;
+    cursor: pointer;
+    color: #6c757d;
+    transition: all 0.2s ease;
+}
+
+.toggle-toc:hover {
+    background: #e9ecef;
+    color: #495057;
+}
+
+.toc-content {
+    padding: 1rem 0;
+}
+
+.toc-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.toc-content li {
+    margin: 0;
+}
+
+.toc-content a {
+    display: block;
+    padding: 0.4rem 1.5rem;
+    color: #495057;
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.toc-content a:hover {
+    background: #f8f9fa;
+    color: #667eea;
+    border-left-color: #667eea;
+}
+
+.toc-content a.active {
+    background: #e3f2fd;
+    color: #1976d2;
+    border-left-color: #1976d2;
+    font-weight: 500;
+}
+
+/* Nested TOC levels */
+.toc-content .level-2 a { padding-left: 2rem; font-size: 0.85rem; }
+.toc-content .level-3 a { padding-left: 2.5rem; font-size: 0.8rem; }
+.toc-content .level-4 a { padding-left: 3rem; font-size: 0.8rem; color: #6c757d; }
+.toc-content .level-5 a { padding-left: 3.5rem; font-size: 0.75rem; color: #6c757d; }
+.toc-content .level-6 a { padding-left: 4rem; font-size: 0.75rem; color: #6c757d; }
+
 .book-list-header {
     display: flex;
     justify-content: space-between;
@@ -740,6 +834,10 @@ header p {
     .splitter,
     .splitter-vertical {
         display: none;
+    }
+    
+    .toc-panel {
+        display: none !important; /* Hide TOC on mobile to save space */
     }
     
     .book-content {

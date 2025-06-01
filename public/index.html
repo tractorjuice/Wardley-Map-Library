@@ -83,6 +83,25 @@
                 <div class="splitter-handle"></div>
             </div>
             
+            <aside class="toc-panel" id="tocPanel" style="display: none;" role="navigation" aria-label="Table of contents">
+                <div class="toc-header">
+                    <h3>Contents</h3>
+                    <button id="toggleToc" class="toggle-toc" title="Hide table of contents">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div id="tocContent" class="toc-content">
+                    <!-- TOC will be populated here -->
+                </div>
+            </aside>
+            
+            <div class="splitter" id="splitterToc" style="display: none;">
+                <div class="splitter-handle"></div>
+            </div>
+            
             <main class="book-content" id="bookContentMain" role="main" aria-label="Book content">
                 <div id="welcomeMessage" class="welcome">
                     <h2>Welcome to Wardley Map Library</h2>

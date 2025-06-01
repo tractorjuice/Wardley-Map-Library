@@ -451,6 +451,10 @@ class BooksLibrary {
                 if (typeof Prism !== 'undefined') {
                     Prism.highlightAllUnder(bookContent);
                 }
+                
+                // Extract and display TOC
+                this.extractAndDisplayTOC(bookContent);
+                
             } catch (error) {
                 console.error('Error parsing markdown:', error);
                 bookContent.innerHTML = `<pre>${this.escapeHtml(content)}</pre>`;
@@ -772,6 +776,124 @@ class BooksLibrary {
         });
         
         console.log(`Scrolled to element with id: ${targetId}`);
+    }
+
+    extractAndDisplayTOC(bookContent) {
+        // Find all headings in the book content
+        const headings = bookContent.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        const tocPanel = document.getElementById('tocPanel');
+        const tocContent = document.getElementById('tocContent');
+        const splitterToc = document.getElementById('splitterToc');
+        
+        if (headings.length > 1) { // Only show TOC if there are multiple headings
+            // Extract TOC data
+            const tocData = Array.from(headings).map(heading => {
+                const level = parseInt(heading.tagName.charAt(1));
+                const text = heading.textContent.trim();
+                const id = heading.querySelector('a[id]')?.id || this.generateAnchor(text);
+                
+                return { level, text, id };
+            }).filter(item => item.text && item.text !== 'Table of Contents'); // Filter out empty and TOC heading
+            
+            if (tocData.length > 1) { // Only proceed if we have meaningful content
+                // Generate TOC HTML
+                const tocHTML = this.generateTOCHTML(tocData);
+                tocContent.innerHTML = tocHTML;
+                
+                // Show TOC panel and splitter
+                tocPanel.style.display = 'block';
+                splitterToc.style.display = 'block';
+                
+                // Setup TOC event listeners
+                this.setupTOCEventListeners();
+                
+                return;
+            }
+        }
+        
+        // Hide TOC if not enough content
+        tocPanel.style.display = 'none';
+        splitterToc.style.display = 'none';
+    }
+
+    generateTOCHTML(tocData) {
+        let html = '<ul>';
+        let currentLevel = 0;
+        
+        tocData.forEach(item => {
+            if (item.level > currentLevel) {
+                // Open new nested levels
+                for (let i = currentLevel; i < item.level; i++) {
+                    if (i > 0) html += '<ul>';
+                }
+            } else if (item.level < currentLevel) {
+                // Close nested levels
+                for (let i = currentLevel; i > item.level; i--) {
+                    html += '</ul>';
+                }
+            }
+            
+            html += `<li class="level-${item.level}">
+                        <a href="#${item.id}" data-target="${item.id}">${this.escapeHtml(item.text)}</a>
+                     </li>`;
+            currentLevel = item.level;
+        });
+        
+        // Close all remaining levels
+        for (let i = currentLevel; i > 0; i--) {
+            html += '</ul>';
+        }
+        
+        return html;
+    }
+
+    generateAnchor(text) {
+        return text
+            .toLowerCase()
+            .replace(/[^a-z0-9\s-]/g, '')
+            .replace(/\s+/g, '-')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+
+    setupTOCEventListeners() {
+        const tocContent = document.getElementById('tocContent');
+        const toggleToc = document.getElementById('toggleToc');
+        
+        // Handle TOC link clicks
+        if (tocContent) {
+            tocContent.addEventListener('click', (e) => {
+                e.preventDefault();
+                const link = e.target.closest('a[data-target]');
+                if (link) {
+                    const targetId = link.getAttribute('data-target');
+                    this.scrollToHash(`#${targetId}`);
+                    
+                    // Update active state
+                    tocContent.querySelectorAll('a').forEach(a => a.classList.remove('active'));
+                    link.classList.add('active');
+                    
+                    // Update URL hash
+                    window.history.replaceState(null, null, `${window.location.pathname}${window.location.search}#${targetId}`);
+                }
+            });
+        }
+        
+        // Handle TOC toggle
+        if (toggleToc) {
+            toggleToc.onclick = () => this.toggleTOCPanel();
+        }
+    }
+
+    toggleTOCPanel() {
+        const tocPanel = document.getElementById('tocPanel');
+        const splitterToc = document.getElementById('splitterToc');
+        
+        if (tocPanel && splitterToc) {
+            const isVisible = tocPanel.style.display !== 'none';
+            tocPanel.style.display = isVisible ? 'none' : 'block';
+            splitterToc.style.display = isVisible ? 'none' : 'block';
+        }
     }
 
     // URL routing methods

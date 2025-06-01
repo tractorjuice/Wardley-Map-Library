@@ -69,27 +69,58 @@ The library covers diverse strategic domains:
 
 ### Key Scripts
 ```bash
-npm run generate-manifest      # Scan books, update manifest, and generate sitemap
+npm run generate-manifest      # Scan books, update manifest, and generate sitemaps
 npm run generate-toc          # Generate table of contents for all books
 npm run build-all            # Complete build process
 ```
 
+### Sitemap Generation
+The manifest generator automatically creates and updates two sitemaps:
+- **Library Sitemap** (`sitemap.xml`): 200+ URLs for books, categories, and API endpoints
+- **Podcast Sitemap** (`sitemap-podcast.xml`): 154+ URLs for podcast episodes from RSS feed
+
+```bash
+# Generate both sitemaps automatically
+node scripts/generate-manifest.js
+
+# Or generate podcast sitemap independently
+node scripts/generate-podcast-sitemap.js
+```
+
 ### Adding New Books
 1. Add book directory to `books/` with `full_book.md`
-2. Run `npm run generate-manifest` to update catalog and sitemap
+2. Run `npm run generate-manifest` to update catalog and both sitemaps
 3. Test with `npm run test-server`
 
 ### SEO and Search Engines
-- **Sitemap**: Automatically generated at `/public/sitemap.xml` (accessible via `library.wardleymaps.ai/sitemap.xml`)
-- **Auto-Updates**: Sitemap regenerates whenever books are added/removed
-- **Coverage**: 200+ URLs including all books, categories, and API endpoints
-- **Search Console**: Submit sitemap to Google Search Console and Bing Webmaster Tools
+- **Library Sitemap**: Automatically generated at `/public/sitemap.xml` (accessible via `library.wardleymaps.ai/sitemap.xml`)
+- **Podcast Sitemap**: Automatically generated at `/public/sitemap-podcast.xml` from RSS feed conversion
+- **Auto-Updates**: Both sitemaps regenerate whenever content changes (books added/removed or new podcast episodes)
+- **Coverage**: 
+  - Library: 200+ URLs including all books, categories, and API endpoints
+  - Podcast: 154+ URLs including episodes, pagination pages, and RSS feed
+- **Search Console**: Submit both sitemaps to Google Search Console and Bing Webmaster Tools
+
+### RSS to Sitemap Conversion
+The podcast sitemap is automatically generated from the live RSS feed:
+- **Source**: `https://podcast.wardleymaps.ai/feed.xml`
+- **Episodes Discovered**: 135+ podcast episodes with publication dates
+- **Additional Pages**: Homepage, RSS feed, and 17 pagination pages
+- **Update Frequency**: Syncs with RSS feed changes automatically
 
 ### Architecture
 - **Frontend**: Vanilla JavaScript with modern ES6+ features
 - **Backend**: Vercel serverless functions with manifest-based discovery
 - **Storage**: Git-based content management with GitHub integration
+- **SEO**: Automated XML sitemap generation for both library and podcast content
+- **RSS Integration**: Live RSS-to-sitemap conversion with episode discovery
 - **Deployment**: Automated Vercel deployment from Development branch
+
+### Technical Dependencies
+- **Core**: Node.js, vanilla JavaScript, Vercel serverless functions
+- **XML Processing**: `xml2js` for RSS feed parsing and sitemap generation
+- **Testing**: Custom test suite for API endpoints and content validation
+- **Build Tools**: Automated manifest generation and content discovery
 
 ## 📖 Documentation
 
@@ -125,7 +156,7 @@ We welcome contributions! Please see our development guidelines:
 ```bash
 git checkout Development
 # Make your changes
-npm run generate-manifest  # Update manifest and sitemap if adding books
+npm run generate-manifest  # Update manifest and both sitemaps if adding books
 npm run test-all           # Verify everything works
 ```
 

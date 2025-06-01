@@ -44,8 +44,9 @@ class TableOfContentsGenerator {
                 const level = headingMatch[1].length;
                 let text = headingMatch[2].trim();
                 
-                // Clean heading text - remove markdown formatting
+                // Clean heading text - remove markdown formatting and anchor tags
                 text = text
+                    .replace(/<a\s+(?:name|id)="[^"]*"><\/a>/g, '') // Remove anchor tags
                     .replace(/\*\*(.*?)\*\*/g, '$1')  // Remove bold
                     .replace(/\*(.*?)\*/g, '$1')      // Remove italic
                     .replace(/`(.*?)`/g, '$1')        // Remove code
@@ -160,6 +161,16 @@ class TableOfContentsGenerator {
     }
 
     /**
+     * Convert existing name attributes to id attributes for proper fragment navigation
+     * @param {string} content - Original markdown content
+     * @returns {string} Updated content with id attributes
+     */
+    convertNameToIdAttributes(content) {
+        // Replace all <a name="..."> with <a id="..."> for proper fragment navigation
+        return content.replace(/<a name="([^"]+)"><\/a>/g, '<a id="$1"></a>');
+    }
+
+    /**
      * Add anchor tags to headings in content
      * @param {string} content - Original markdown content
      * @param {Array} headings - Array of heading objects with anchors
@@ -180,12 +191,12 @@ class TableOfContentsGenerator {
                 const line = lines[lineIndex];
                 const headingMatch = line.match(/^(#{1,6})\s+(.+)$/);
                 
-                if (headingMatch && !line.includes('<a name=')) {
+                if (headingMatch && !line.includes('<a name=') && !line.includes(' id=')) {
                     const level = headingMatch[1];
                     const text = headingMatch[2];
                     
-                    // Add anchor tag before the heading text
-                    lines[lineIndex] = `${level} <a name="${heading.anchor}"></a>${text}`;
+                    // Add id attribute to the heading for proper fragment navigation
+                    lines[lineIndex] = `${level} <a id="${heading.anchor}"></a>${text}`;
                 }
             }
         }
@@ -312,6 +323,9 @@ class TableOfContentsGenerator {
             } else {
                 // Update the file
                 let updatedContent = this.updateToC(content, newToC);
+                
+                // Convert existing name attributes to id attributes
+                updatedContent = this.convertNameToIdAttributes(updatedContent);
                 
                 // Add anchor tags to headings if anchors are enabled
                 if (options.includeAnchors) {

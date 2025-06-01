@@ -191,7 +191,7 @@ class TableOfContentsGenerator {
                 const line = lines[lineIndex];
                 const headingMatch = line.match(/^(#{1,6})\s+(.+)$/);
                 
-                if (headingMatch && !line.includes('<a name=') && !line.includes(' id=')) {
+                if (headingMatch && !line.includes('<a name=') && !line.includes('<a id=')) {
                     const level = headingMatch[1];
                     const text = headingMatch[2];
                     

@@ -1098,10 +1098,185 @@ header p {
     color: #667eea;
 }
 
-/* Mobile adjustments for figures panel */
+/* Inline Figures Section Styling */
+.figures-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #e9ecef;
+    background: #fafbfc;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.figures-section h2 {
+    color: #495057;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 0.5rem;
+}
+
+.figures-summary {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 6px;
+    border-left: 4px solid #667eea;
+}
+
+.figures-summary p {
+    margin: 0 0 0.5rem;
+    color: #495057;
+    font-size: 1rem;
+}
+
+.figures-breakdown {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.figures-breakdown li {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.figures-index {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.figure-index-item {
+    display: flex;
+    padding: 1rem;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.2s ease;
+}
+
+.figure-index-item:last-child {
+    border-bottom: none;
+}
+
+.figure-index-item:hover {
+    background: #f8f9fa;
+}
+
+.figure-number {
+    flex-shrink: 0;
+    width: 80px;
+    font-weight: 600;
+    color: #667eea;
+    background: #f8f9fa;
+    padding: 0.5rem;
+    border-radius: 6px;
+    text-align: center;
+    margin-right: 1rem;
+    font-size: 0.9rem;
+}
+
+.figure-info {
+    flex: 1;
+}
+
+.figure-title {
+    margin-bottom: 0.5rem;
+}
+
+.figure-title a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 1.4;
+    display: block;
+}
+
+.figure-title a:hover {
+    color: #667eea;
+    text-decoration: underline;
+}
+
+.figure-details {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+.figure-type-badge {
+    background: #e9ecef;
+    color: #495057;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 0.75rem;
+}
+
+.figure-type-badge.wardley_map {
+    background: #e3f2fd;
+    color: #1976d2;
+}
+
+.figure-type-badge.image {
+    background: #f3e5f5;
+    color: #7b1fa2;
+}
+
+.figure-chapter {
+    font-style: italic;
+}
+
+.figure-link {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.figure-link:hover {
+    text-decoration: underline;
+}
+
+/* Mobile adjustments for figures section */
 @media (max-width: 768px) {
+    .figures-section {
+        margin: 2rem -1rem 1rem;
+        padding: 1rem;
+        border-radius: 0;
+    }
+    
+    .figure-index-item {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+    
+    .figure-number {
+        width: auto;
+        margin-right: 0;
+        margin-bottom: 0.5rem;
+        text-align: left;
+    }
+    
+    .figure-details {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+    
     .figures-panel {
-        display: none !important; /* Hide figures on mobile to save space */
+        display: none !important; /* Hide figures panel on mobile to save space */
     }
     
     .figures-button {

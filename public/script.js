@@ -455,8 +455,8 @@ class BooksLibrary {
                 // Extract and display TOC
                 this.extractAndDisplayTOC(bookContent);
                 
-                // Extract and display figures list if available
-                this.displayFiguresList(book);
+                // Append figures list to book content if available
+                this.appendFiguresListToContent(book, bookContent);
                 
             } catch (error) {
                 console.error('Error parsing markdown:', error);
@@ -511,62 +511,53 @@ class BooksLibrary {
         }
     }
 
-    displayFiguresList(book) {
-        const figuresButton = document.getElementById('showFiguresButton');
-        const figuresPanel = document.getElementById('figuresPanel');
-        const figuresContent = document.getElementById('figuresContent');
-        
+    appendFiguresListToContent(book, bookContent) {
         // Check if book has figures
         if (!book.figures || !book.figures.list || book.figures.list.length === 0) {
-            if (figuresButton) figuresButton.style.display = 'none';
-            if (figuresPanel) figuresPanel.style.display = 'none';
             return;
         }
 
-        // Show figures button
-        if (figuresButton) {
-            figuresButton.style.display = 'inline-flex';
-            figuresButton.onclick = () => this.toggleFiguresPanel();
-        }
-
-        // Populate figures content
-        if (figuresContent) {
-            const figures = book.figures.list;
-            const figuresHtml = `
+        const figures = book.figures.list;
+        
+        // Create the figures section HTML
+        const figuresHtml = `
+            <div class="figures-section">
+                <h2 id="list-of-figures">List of Figures</h2>
                 <div class="figures-summary">
-                    <p><strong>${book.figures.total}</strong> figures total</p>
-                    <div class="figures-breakdown">
-                        <span class="figure-count wardley-maps">${book.figures.wardleyMaps} Wardley Maps</span>
-                        <span class="figure-count images">${book.figures.images} Images</span>
-                    </div>
+                    <p>This book contains <strong>${book.figures.total}</strong> figures:</p>
+                    <ul class="figures-breakdown">
+                        ${book.figures.wardleyMaps > 0 ? `<li><strong>${book.figures.wardleyMaps}</strong> Wardley Maps</li>` : ''}
+                        ${book.figures.images > 0 ? `<li><strong>${book.figures.images}</strong> Images</li>` : ''}
+                    </ul>
                 </div>
-                <div class="figures-list">
-                    ${figures.map(figure => `
-                        <div class="figure-item ${figure.type}" data-figure-id="${figure.id}">
-                            <div class="figure-preview">
-                                ${this.createFigurePreview(figure)}
-                            </div>
-                            <div class="figure-details">
-                                <h4 class="figure-caption">${this.escapeHtml(figure.caption)}</h4>
-                                <div class="figure-meta">
-                                    <span class="figure-type">${figure.type === 'wardley_map' ? 'Wardley Map' : 'Image'}</span>
-                                    <span class="figure-chapter">${this.escapeHtml(figure.chapter)}</span>
+                
+                <div class="figures-index">
+                    ${figures.map((figure, index) => `
+                        <div class="figure-index-item">
+                            <div class="figure-number">Figure ${index + 1}</div>
+                            <div class="figure-info">
+                                <div class="figure-title">
+                                    <a href="#" onclick="library.scrollToFigureInContent('${figure.url}', '${this.escapeHtml(figure.caption).replace(/'/g, "\\'")}'); return false;">
+                                        ${this.escapeHtml(figure.caption)}
+                                    </a>
                                 </div>
-                                <div class="figure-actions">
-                                    <button onclick="library.scrollToFigure('${figure.id}')" class="figure-action" title="Go to figure">
-                                        📍 Go to
-                                    </button>
-                                    <button onclick="library.openFigure('${figure.url}')" class="figure-action" title="View full size">
-                                        🔍 View
-                                    </button>
+                                <div class="figure-details">
+                                    <span class="figure-type-badge ${figure.type}">${figure.type === 'wardley_map' ? 'Wardley Map' : 'Image'}</span>
+                                    <span class="figure-chapter">Chapter: ${this.escapeHtml(figure.chapter)}</span>
+                                    <a href="${figure.url.startsWith('http') ? figure.url : `https://raw.githubusercontent.com/tractorjuice/GenAI-Books/Development/books/${book.directory}/${figure.url}`}" 
+                                       target="_blank" class="figure-link" title="View full size">
+                                        🔗 View Full Size
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     `).join('')}
                 </div>
-            `;
-            figuresContent.innerHTML = figuresHtml;
-        }
+            </div>
+        `;
+        
+        // Append the figures section to the book content
+        bookContent.insertAdjacentHTML('beforeend', figuresHtml);
     }
 
     createFigurePreview(figure) {
@@ -612,7 +603,7 @@ class BooksLibrary {
         this.updateLayout();
     }
 
-    scrollToFigure(figureId) {
+    scrollToFigureInContent(figureUrl, figureCaption) {
         // Find the figure in the content by its URL or caption
         const bookContent = document.getElementById('bookContent');
         if (!bookContent) return;
@@ -621,15 +612,12 @@ class BooksLibrary {
         const images = bookContent.querySelectorAll('img');
         const links = bookContent.querySelectorAll('a[href*=".png"], a[href*=".jpg"], a[href*=".jpeg"], a[href*=".gif"], a[href*=".svg"]');
         
-        // Look for the figure based on the stored data
-        const figure = this.selectedBook?.figures?.list?.find(f => f.id === figureId);
-        if (!figure) return;
-        
         let targetElement = null;
         
         // Try to find by URL match
         for (let img of images) {
-            if (img.src.includes(figure.url) || figure.url.includes(img.getAttribute('src'))) {
+            const imgSrc = img.getAttribute('src') || img.src;
+            if (imgSrc && (imgSrc.includes(figureUrl) || figureUrl.includes(imgSrc))) {
                 targetElement = img;
                 break;
             }
@@ -638,8 +626,20 @@ class BooksLibrary {
         // Try to find by link text or href
         if (!targetElement) {
             for (let link of links) {
-                if (link.href.includes(figure.url) || figure.url.includes(link.getAttribute('href'))) {
+                const linkHref = link.getAttribute('href') || link.href;
+                if (linkHref && (linkHref.includes(figureUrl) || figureUrl.includes(linkHref))) {
                     targetElement = link;
+                    break;
+                }
+            }
+        }
+        
+        // Try to find by text content match
+        if (!targetElement && figureCaption) {
+            const allElements = bookContent.querySelectorAll('*');
+            for (let element of allElements) {
+                if (element.textContent && element.textContent.includes(figureCaption.substring(0, 50))) {
+                    targetElement = element;
                     break;
                 }
             }
@@ -649,8 +649,12 @@ class BooksLibrary {
             targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
             // Highlight the element briefly
             targetElement.style.boxShadow = '0 0 10px #007bff';
+            targetElement.style.transition = 'box-shadow 0.3s ease';
             setTimeout(() => {
                 targetElement.style.boxShadow = '';
+                setTimeout(() => {
+                    targetElement.style.transition = '';
+                }, 300);
             }, 2000);
         }
     }

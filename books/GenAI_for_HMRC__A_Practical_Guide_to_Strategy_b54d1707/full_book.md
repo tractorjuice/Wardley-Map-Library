@@ -2489,6 +2489,3 @@ Furthermore, ethical considerations must be embedded within the culture of innov
 > Innovation is not just about technology, it's about people and culture, says a leading expert in organisational change. Creating a culture that embraces experimentation, collaboration, and ethical responsibility is essential for unlocking the full potential of GenAI.
 
 In conclusion, inspiring innovation and collaboration is paramount for ensuring that HMRC remains at the forefront of AI excellence. By fostering a culture of experimentation, encouraging knowledge sharing, and prioritising ethical considerations, HMRC can unlock the full potential of GenAI and deliver exceptional value to taxpayers and society. This commitment to innovation and collaboration will not only transform HMRC's operations but also contribute to the broader advancement of AI in the public sector.
-
-
-

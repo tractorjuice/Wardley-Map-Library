@@ -1093,6 +1093,3 @@ Technical considerations are paramount when photographing in Borovets. The high 
 [Edit this Wardley Map](https://create.wardleymaps.ai/#clone:c1fb8e8635c43195cc)
 
 For those seeking unique perspectives, consider accessing the less-frequented locations such as the old forestry trails or the abandoned ski lift stations. These spots offer distinctive framing opportunities and a chance to capture the resort from angles rarely seen in typical tourist photographs. However, always prioritize safety and obtain necessary permissions when photographing in restricted areas.
-
-
-

@@ -1964,6 +1964,3 @@ Furthermore, HMRC can leverage its expertise to influence the development of int
 Finally, HMRC should continuously monitor and evaluate the impact of GenAI on its operations and on the tax system as a whole. This involves tracking key metrics such as efficiency savings, improved outcomes, and enhanced taxpayer experience. It also involves conducting regular audits to ensure that GenAI systems are performing as expected and that they are not having any unintended consequences. By continuously monitoring and evaluating its GenAI initiatives, HMRC can ensure that it is maximizing the benefits of these technologies and that it is mitigating any potential risks.
 
 In conclusion, HMRC has a unique opportunity to lead the way in transforming tax administration with GenAI. By fostering collaboration, promoting ethical practices, and advocating for responsible innovation, HMRC can ensure that these technologies are used for the benefit of all taxpayers and that the tax system is more efficient, fair, and transparent. This leadership role requires a long-term commitment to innovation, ethical development, and continuous improvement. As a senior government official has stated, the future of tax administration is intelligent, adaptive, and taxpayer-centric, and HMRC is well-positioned to lead the way.
-
-
-

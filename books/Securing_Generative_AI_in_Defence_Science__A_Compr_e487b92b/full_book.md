@@ -1111,6 +1111,3 @@ The framework must be underpinned by a robust governance structure that ensures 
 > The success of a continuous improvement framework in defence AI security relies heavily on its ability to adapt and respond to rapid technological changes while maintaining the highest levels of security assurance, explains a leading military cybersecurity expert.
 
 Integration with existing defence systems and processes is paramount. The framework should complement and enhance established security protocols while introducing new capabilities for addressing GenAI-specific security challenges. This includes considerations for supply chain security, third-party risk management, and international collaboration within secure parameters.
-
-
-

@@ -1034,6 +1034,3 @@ Technology plays a crucial role in modern governance frameworks. British Airways
 > The integration of automated compliance systems with loyalty programme operations is no longer optional - it's a fundamental requirement for maintaining programme integrity in the digital age, observes a senior regulatory technology expert.
 
 Looking ahead to 2030, the governance framework must be sufficiently flexible to accommodate emerging technologies, changing regulatory landscapes, and evolving customer expectations while maintaining robust controls and oversight mechanisms. This includes preparing for potential regulations around digital currencies, cross-border data transfers, and environmental impact reporting.
-
-
-

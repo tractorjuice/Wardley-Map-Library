@@ -568,6 +568,3 @@ The integration of these steps will create a dynamic M&E framework that not only
 Furthermore, the Home Office should consider leveraging existing frameworks and best practices from other government departments and international counterparts. This collaborative approach can provide valuable insights and enhance the effectiveness of the M&E framework.
 
 In conclusion, the next steps for the Home Office involve not only the establishment of a solid M&E framework but also the commitment to ongoing learning and adaptation. By doing so, the Home Office can ensure that its GenAI strategy remains relevant and impactful in serving the needs of the public.
-
-
-

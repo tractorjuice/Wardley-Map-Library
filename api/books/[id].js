@@ -81,7 +81,12 @@ export default async function handler(req, res) {
             book: {
                 id: book.id,
                 title: book.title,
-                category: book.category
+                category: book.category,
+                categories: book.categories,
+                directory: book.directory,
+                path: book.path,
+                additionalFiles: book.additionalFiles,
+                figures: book.figures
             }
         });
         

@@ -1481,6 +1481,3 @@ Impact measurement should also consider the ripple effects throughout the value 
 - Risk reduction outcomes
 
 Finally, it's crucial to maintain a learning mindset when measuring impact. Not all changes will deliver the expected results, and this information is equally valuable for refining future strategic decisions. Document both successes and failures, using the Wardley Map as a reference point for understanding what worked, what didn't, and why.
-
-
-

@@ -1118,6 +1118,3 @@ However, it's crucial to note that convergence doesn't mean uniformity. Each com
 > The future of AI development will be characterised by a dynamic tension between standardisation for safety and differentiation for innovation, reflects a veteran AI industry analyst.
 
 Looking ahead, we can anticipate increased collaboration on fundamental research challenges, particularly in areas like AI safety, interpretability, and robustness. These shared challenges may catalyse the formation of industry consortia or research partnerships, further accelerating the convergence of approaches whilst maintaining healthy competition in commercial applications.
-
-
-

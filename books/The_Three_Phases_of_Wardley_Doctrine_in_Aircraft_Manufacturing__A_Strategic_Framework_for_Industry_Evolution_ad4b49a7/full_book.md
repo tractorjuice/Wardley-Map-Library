@@ -1048,6 +1048,3 @@ The integration of Wardley Mapping principles into innovation pipeline managemen
 - Sustainability Focus: Prioritizing innovations that advance sustainable manufacturing practices
 
 Success in innovation pipeline management requires a balance between maintaining operational excellence in current production while fostering the development of next-generation technologies and processes. This dual focus ensures both short-term competitiveness and long-term sustainability in the aircraft manufacturing sector.
-
-
-

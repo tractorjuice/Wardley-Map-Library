@@ -2029,6 +2029,3 @@ Continuous monitoring and evaluation are crucial for ensuring the long-term succ
 A leading expert in the field stated, Building a sustainable GenAI ecosystem is a marathon, not a sprint. It requires a long-term commitment to data governance, skills development, ethical considerations, and continuous monitoring.
 
 Finally, scaling GenAI across the organisation requires a strategic approach. The ONS should identify high-impact use cases that can be replicated across different departments and should develop a roadmap for scaling GenAI solutions. This roadmap should include clear milestones, resource allocation, and performance metrics. By scaling GenAI strategically, the ONS can maximise the return on investment and ensure that GenAI becomes an integral part of its operations.
-
-
-

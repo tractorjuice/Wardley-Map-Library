@@ -2168,6 +2168,3 @@ The recommendations for a sustainable GenAI strategy, including investing in res
 Ultimately, the transformative power of GenAI lies in its ability to empower statisticians, enhance data quality, and improve public understanding. By embracing GenAI, the ONS can become a more efficient, innovative, and impactful organisation, delivering high-quality, relevant, and timely statistics that inform decision-making and promote a more informed and prosperous society. This is not just about adopting new technology; it's about transforming the way the ONS operates and fulfilling its mission to serve the public good.
 
 > The future of official statistics is inextricably linked to the responsible and ethical adoption of AI, and the ONS has a unique opportunity to lead the way, says a leading expert in the field.
-
-
-

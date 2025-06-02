@@ -921,6 +921,3 @@ Regular maintenance of one's information ecosystem is paramount. Just as we regu
 - Documentation of verified information sources
 - Regular cleaning of browser history and cookies
 - Update of personal verification protocols
-
-
-

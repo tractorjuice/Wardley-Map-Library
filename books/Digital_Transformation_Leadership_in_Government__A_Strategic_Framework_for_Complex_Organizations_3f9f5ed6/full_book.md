@@ -1357,6 +1357,3 @@ Security and compliance must be embedded within the continuous improvement cycle
 - Process efficiency reviews and optimisation
 
 The framework must also incorporate mechanisms for knowledge retention and sharing across government departments. This is particularly crucial given the frequent rotation of staff and contractors in government roles, ensuring that improvements and lessons learned are institutionalised rather than lost with personnel changes.
-
-
-

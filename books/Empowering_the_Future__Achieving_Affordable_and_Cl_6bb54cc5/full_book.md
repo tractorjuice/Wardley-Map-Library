@@ -1007,6 +1007,3 @@ Moreover, addressing the social dimensions of energy access is essential. This i
 - Implementing Sustainable Practices: Encouraging industries to adopt energy-efficient practices and reduce their carbon footprints.
 
 In conclusion, the path forward requires a multifaceted approach that embraces innovation, inclusivity, and sustainability. By aligning our efforts with the principles of SDG 7, we can pave the way for a future where clean energy is not just a goal but a reality for all.
-
-
-

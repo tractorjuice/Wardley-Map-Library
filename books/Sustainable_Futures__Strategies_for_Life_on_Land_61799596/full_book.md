@@ -851,6 +851,3 @@ The importance of integrating strategies cannot be overstated. A leading expert 
 - Promoting interdisciplinary research that bridges gaps between ecological science, social science, and economic development.
 
 > The future of our ecosystems depends on our ability to work together across sectors and scales, says a senior government official.
-
-
-

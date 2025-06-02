@@ -1266,6 +1266,3 @@ The strategic impact evaluation process must be iterative and adaptive, recognis
 > Success in open source strategy isn't just about what you can measure today - it's about building the capabilities and relationships that will define your competitive position tomorrow, explains a chief strategy officer at a major public sector organisation.
 
 For government and public sector organisations, strategic impact evaluation must also consider broader societal benefits, including digital sovereignty, economic development, and public value creation. This requires additional evaluation dimensions that may not be present in private sector assessments.
-
-
-

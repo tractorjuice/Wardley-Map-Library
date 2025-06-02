@@ -869,6 +869,3 @@ Practitioners should also consider the importance of feedback loops in their pri
 > Adaptation is not just about keeping pace with change; it is about anticipating future trends and positioning your organisation to thrive in an ever-evolving landscape, says a leading expert in the field.
 
 Ultimately, the call to action for practitioners is clear: embrace a mindset of agility and responsiveness. By doing so, they can unlock the full potential of GenAI applications and drive meaningful value for their organisations and the communities they serve.
-
-
-

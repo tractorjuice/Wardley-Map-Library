@@ -596,6 +596,3 @@ Another significant limitation is the quality and availability of data. Models a
 Furthermore, mathematical models may not be able to adapt quickly to unforeseen changes in the environment. Warfare is inherently dynamic, with rapidly shifting conditions that can render static models obsolete. Human insight provides the flexibility needed to respond to these changes in real-time. By continuously monitoring the situation and adjusting strategies accordingly, human decision-makers can ensure that their actions remain effective and relevant.
 
 In conclusion, while mathematical models are indispensable in modern warfare, they must be complemented by human insight to be truly effective. By recognising the limitations of these models and leveraging the unique strengths of human intuition and experience, military leaders can make more informed and adaptive decisions. This integration not only enhances the accuracy and reliability of strategic planning but also ensures that ethical considerations are taken into account, balancing the power of technology with the wisdom of human judgement.
-
-
-

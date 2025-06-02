@@ -4299,6 +4299,3 @@ As the leasehold landscape continues to evolve, so too will the tools available 
 > The Wardley Map reveals a strategic landscape in transition, with significant opportunities for innovation in leaseholder support through AI and digital platforms. The key challenge lies in effectively integrating these emerging technologies with existing legal expertise and processes. Organizations that can successfully navigate this transition, balancing innovation with reliability and user trust, will be well-positioned to lead in empowering leaseholders and transforming the industry. The future likely holds a more democratized, efficient, and user-centric approach to leaseholder rights and dispute resolution.
 
 > [View full Wardley Map report](markdown/wardley_map_reports/wardley_map_report_57_Templates_and_checklists_for_common_procedures.md)
-
-
-

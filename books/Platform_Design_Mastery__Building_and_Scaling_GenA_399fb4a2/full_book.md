@@ -1313,6 +1313,3 @@ Innovation governance frameworks must be adaptable and forward-looking, capable 
 - Establishment of ethical innovation metrics and KPIs
 
 Training and capacity building form another crucial component of responsible innovation. Platform teams must be equipped with the knowledge and tools to identify and address ethical considerations in their work. This includes regular training sessions, workshops, and the development of practical tools and frameworks for ethical decision-making.
-
-
-

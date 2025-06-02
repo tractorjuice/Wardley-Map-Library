@@ -1848,6 +1848,3 @@ Consider the challenge of using GenAI to improve data quality for SDG monitoring
 By embracing these commitments, the UNSD can demonstrate its leadership in responsible AI innovation and inspire others to follow suit. This will not only enhance the UNSD's own operations but also contribute to a more sustainable and equitable future for all. The journey towards embracing GenAI is a continuous one, requiring ongoing learning, adaptation, and a steadfast commitment to ethical principles.
 
 > The future of AI is not predetermined; it is up to us to shape it, says a leading voice in sustainable technology. By committing to a sustainable and equitable future, we can ensure that AI is used to promote human well-being and to build a better world for all.
-
-
-

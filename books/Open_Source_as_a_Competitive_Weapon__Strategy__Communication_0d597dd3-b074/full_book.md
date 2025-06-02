@@ -3013,6 +3013,3 @@ To prepare for these disruptions, leadership teams should update strategic toolk
 [Edit this Wardley Map](https://create.wardleymaps.ai/#clone:6cc0359965ccbad5ad)
 
 > Proactive anticipation of emerging trends secures long term momentum says a leading expert in the field
-
-
-

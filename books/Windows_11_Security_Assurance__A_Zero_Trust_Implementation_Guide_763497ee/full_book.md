@@ -1350,6 +1350,3 @@ To ensure effective stakeholder communication, incident response documentation s
 > The most effective incident response documentation serves not just as a record of what happened, but as a living document that drives continuous improvement in an organisation's security posture.
 
 Documentation must be maintained in a secure, accessible format that supports both immediate incident response needs and long-term analysis. Utilising Windows 11's built-in security features and integration with Microsoft 365 services can facilitate secure document sharing and collaboration while maintaining proper access controls and audit trails.
-
-
-

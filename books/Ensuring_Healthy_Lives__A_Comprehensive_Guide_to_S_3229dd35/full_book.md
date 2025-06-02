@@ -758,6 +758,3 @@ Successful media advocacy requires a strategic approach, including identifying k
 - Engaging with journalists to promote accurate health reporting
 
 Case studies from various countries illustrate the power of media in health advocacy. For example, during public health crises, such as the COVID-19 pandemic, media campaigns have been instrumental in disseminating vital information about prevention measures and vaccination efforts. These campaigns not only informed the public but also encouraged compliance with health guidelines, showcasing the media's role in shaping health behaviours.
-
-
-

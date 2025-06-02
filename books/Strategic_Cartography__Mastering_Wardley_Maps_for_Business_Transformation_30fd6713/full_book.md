@@ -1879,6 +1879,3 @@ The role of technology in facilitating community development cannot be understat
 The sustainability of the Wardley Mapping community will depend on its ability to maintain openness while ensuring quality and consistency. This balance is particularly important in government contexts, where standardisation and reliability are crucial considerations.
 
 > The most successful mapping communities have found ways to maintain their innovative edge while developing robust governance structures that ensure quality and consistency in practice.
-
-
-

@@ -1005,6 +1005,3 @@ To maintain delivery excellence, teams must establish robust governance framewor
 > The most successful government digital teams are those that can maintain delivery momentum while navigating the complex landscape of public sector requirements and stakeholder expectations, notes a chief digital officer in central government.
 
 Performance monitoring and measurement take on additional dimensions in government contexts. Teams must track not only traditional delivery metrics but also measure public value creation, security compliance, and alignment with policy objectives. This requires sophisticated performance frameworks that capture both quantitative and qualitative aspects of delivery excellence.
-
-
-

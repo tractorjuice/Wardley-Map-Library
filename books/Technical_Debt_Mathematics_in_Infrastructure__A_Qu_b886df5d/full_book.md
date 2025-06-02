@@ -1352,6 +1352,3 @@ The mathematical framework must be designed with inherent flexibility to accommo
 > The key to sustainable technical debt management lies not in creating a perfect initial model, but in building one that can effectively learn and adapt over time, explains a leading infrastructure asset management specialist.
 
 Successful adaptation strategies also require careful consideration of the organisational context and resource constraints. The model's complexity should be balanced against the organisation's capacity to maintain and update it effectively, ensuring long-term sustainability of the technical debt management approach.
-
-
-

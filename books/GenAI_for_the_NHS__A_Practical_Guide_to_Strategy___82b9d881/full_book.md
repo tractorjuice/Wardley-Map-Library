@@ -2285,6 +2285,3 @@ To ensure that these resources and support mechanisms are readily accessible, th
 > Providing readily accessible resources and ongoing support is essential for empowering healthcare professionals to embrace GenAI and transform healthcare delivery, says a leading expert in healthcare innovation.
 
 By investing in these resources and support mechanisms, the NHS can accelerate the adoption of GenAI and ensure that it is used in a way that is safe, effective, and equitable. This will enable the NHS to realise the full potential of GenAI to improve patient outcomes, enhance efficiency, and create a healthier future for all.
-
-
-

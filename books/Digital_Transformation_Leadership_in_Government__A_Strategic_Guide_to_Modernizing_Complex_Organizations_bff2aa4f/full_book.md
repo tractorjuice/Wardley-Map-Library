@@ -1190,6 +1190,3 @@ Government organizations must establish baseline measurements before implementin
 Performance measurement frameworks should be integrated into governance structures and regular reporting cycles. This ensures accountability and enables data-driven decision-making for future investments and strategic planning. Organizations should also establish clear feedback loops that allow for continuous refinement of metrics and measurement approaches.
 
 > Effective performance measurement in government digital transformation requires a balanced scorecard approach that considers multiple dimensions of public value creation, explains a leading public sector digital strategist.
-
-
-

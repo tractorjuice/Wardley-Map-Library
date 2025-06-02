@@ -1609,6 +1609,3 @@ When evaluating Wardley Mapping tools, consider the following features:
 In the context of the government and public sector, selecting the right Wardley Mapping tool is crucial for ensuring that resources are used effectively and that strategic decisions are based on accurate and reliable information. Government agencies often face budget constraints and limited technical expertise, so it's important to select a tool that is both affordable and easy to use. By carefully evaluating the available options and selecting a tool that meets their specific needs, agencies can improve their strategic planning capabilities and deliver better outcomes for citizens. A senior government official stated that the right tools are essential for effective governance.
 
 > Selecting the right Wardley Mapping tool is a strategic decision in itself, says a leading expert in the field.
-
-
-

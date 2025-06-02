@@ -2038,6 +2038,3 @@ Connecting with fellow practitioners accelerates mastery, surfaces emerging patt
 Engaging in these forums accelerates learning curves by exposing practitioners to diverse contexts, from local policy pilots to cross‑agency innovation labs. Regular participation transforms scattered case studies into collective wisdom and ensures that adaptation is informed by the latest co‑evolutionary pressures.
 
 > Active engagement in practitioner networks turns solitary mapping exercises into collective strategic advantage says a senior public sector strategist
-
-
-

@@ -1122,6 +1122,3 @@ To ensure sustainable impact, organisations should establish a structured approa
 - Continuous monitoring of SDG indicator progress
 
 The success of continuous improvement methods in SDG implementation relies heavily on organisational culture and leadership commitment. Leaders must foster an environment that encourages experimentation, learns from failures, and celebrates incremental progress towards SDG targets. This cultural aspect should be reflected in the mapping process, acknowledging the role of organisational capabilities in driving improvement.
-
-
-

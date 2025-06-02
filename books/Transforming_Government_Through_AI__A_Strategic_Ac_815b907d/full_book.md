@@ -1836,6 +1836,3 @@ Resource optimisation through JPM requires careful consideration of both human a
 - Implementation of shared procurement frameworks
 
 The success of JPM in cross-department AI initiatives ultimately depends on the establishment of robust measurement and evaluation frameworks. These should track both project-specific outcomes and broader benefits realisation across participating departments, ensuring that resource optimisation efforts deliver tangible value to all stakeholders.
-
-
-

@@ -1543,6 +1543,3 @@ Social impact management must address both direct and indirect effects on coasta
 - Traditional fishing rights protection
 - Community access guarantees
 - Fair benefit-sharing mechanisms
-
-
-

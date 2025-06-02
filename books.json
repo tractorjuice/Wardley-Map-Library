@@ -1,7 +1,7 @@
 {
-  "generated": "2025-06-02T08:59:49.182Z",
+  "generated": "2025-06-02T10:44:18.086Z",
   "version": "1.0.0",
-  "totalBooks": 173,
+  "totalBooks": 172,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -131,17 +131,6 @@
       "additionalFiles": [
         "markdown/"
       ]
-    },
-    {
-      "id": "borovets-bulgaria-s-premier-mountain-resort-a-complete-guide-through-the-seasons-8b0ca853",
-      "title": "Borovets: Bulgaria's Premier Mountain Resort - A Complete Guide Through the Seasons",
-      "category": "Artificial Intelligence",
-      "categories": [
-        "Artificial Intelligence"
-      ],
-      "directory": "Borovets__Bulgaria_s_Premier_Mountain_Resort_-_A_Complete_Guide_Through_the_Seasons_8b0ca853",
-      "path": "/workspaces/GenAI-Books/books/Borovets__Bulgaria_s_Premier_Mountain_Resort_-_A_Complete_Guide_Through_the_Seasons_8b0ca853/full_book.md",
-      "additionalFiles": []
     },
     {
       "id": "breaking-the-poverty-cycle-a-systems-based-framework-for-sustainable-development-goal-1-40432648",

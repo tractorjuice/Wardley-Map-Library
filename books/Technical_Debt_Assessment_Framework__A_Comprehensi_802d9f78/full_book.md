@@ -1500,6 +1500,3 @@ To ensure the sustainability and effectiveness of feedback loops, organisations 
 - Maintain documentation of feedback-driven improvements and outcomes
 
 The success of feedback loop implementation can be measured through various metrics, including reduction in technical debt accumulation rate, improved code quality metrics, and increased team engagement in technical debt management activities. Regular assessment of these metrics ensures the feedback mechanisms remain effective and continue to support the organisation's technical debt management objectives.
-
-
-

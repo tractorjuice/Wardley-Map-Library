@@ -1547,6 +1547,3 @@ The governance structures supporting adaptive frameworks must themselves be flex
 - Regular reassessment of strategic assumptions and positions
 
 Success in implementing adaptive frameworks requires careful attention to organisational culture and capabilities. Leaders must foster an environment that embraces uncertainty, encourages experimentation, and values learning from failure. This cultural shift is often the most challenging aspect of moving to a more adaptive strategic approach, particularly in traditional hierarchical organisations.
-
-
-

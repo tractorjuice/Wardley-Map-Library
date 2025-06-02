@@ -1194,6 +1194,3 @@ A crucial aspect often overlooked is the need for balanced scorecard approaches 
 - Long-term Metrics: Systemic change indicators, societal impact measures, sustainability outcomes
 
 The monitoring framework should incorporate both leading and lagging indicators, providing early warning signals of potential issues while tracking ultimate outcomes. This dual approach enables proactive management of the transformation journey.
-
-
-

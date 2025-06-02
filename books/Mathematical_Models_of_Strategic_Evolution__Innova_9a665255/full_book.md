@@ -801,6 +801,3 @@ Modern DSS implementations typically incorporate machine learning algorithms to 
 - Audit trails for strategic decisions and outcomes
 
 The effectiveness of a DSS in supporting strategic evolution depends heavily on the quality of its underlying mathematical models and the accuracy of its input data. Regular calibration and validation of these systems against real-world outcomes is essential for maintaining their reliability and relevance.
-
-
-

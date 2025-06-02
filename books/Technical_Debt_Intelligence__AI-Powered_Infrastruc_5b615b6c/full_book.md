@@ -1975,6 +1975,3 @@ The future of technical debt modeling will likely see increased focus on the dev
 > The next frontier in technical debt management will be systems that can not only identify and assess debt but actively participate in architectural decision-making to prevent its accumulation, suggests a prominent AI infrastructure architect.
 
 Research into the integration of emotional intelligence and cultural awareness in technical debt assessment systems represents another frontier. This could lead to more holistic assessment models that consider not just technical aspects but also human and organisational factors in technical debt accumulation and resolution.
-
-
-

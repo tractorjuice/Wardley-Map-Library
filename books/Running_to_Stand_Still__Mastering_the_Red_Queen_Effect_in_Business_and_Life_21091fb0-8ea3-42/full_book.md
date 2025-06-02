@@ -2750,4 +2750,3 @@ To effectively implement these metrics, organisations should consider the follow
 It's worth noting that the specific weights and importance of these metrics may vary depending on the organisation's context and priorities. Leaders should engage in a collaborative process to determine the most relevant metrics for their specific circumstances and adjust them as needed over time.
 
 In conclusion, measuring progress in the Red Queen's race requires a comprehensive and nuanced approach. By implementing these metrics and continuously refining their measurement practices, government bodies and public sector organisations can gain valuable insights into their adaptive capacity and ensure they are not just running to stand still, but truly advancing in the face of relentless change.
-

@@ -1110,6 +1110,3 @@ For effective BIA implementation, CISOs must establish clear metrics and measure
 > The most successful BIA implementations are those that translate technical identity management metrics into business impact language that resonates with board-level stakeholders, explains a senior risk management consultant.
 
 Regular review and updates of the BIA are essential as organisations evolve their digital capabilities and identity infrastructure. CISOs should establish a periodic review cycle, typically quarterly or bi-annually, to ensure the analysis remains aligned with current business operations and emerging threats.
-
-
-

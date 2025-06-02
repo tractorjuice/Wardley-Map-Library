@@ -1616,6 +1616,3 @@ Financial sustainability represents a particular challenge in the public sector 
 - Build business cases for ongoing improvement initiatives
 
 The success of long-term sustainability planning ultimately depends on the ability to maintain momentum while adapting to change. This requires a delicate balance between stability and flexibility, ensuring that the transformation journey remains relevant and responsive to evolving needs while maintaining consistent progress toward strategic goals.
-
-
-

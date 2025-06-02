@@ -566,6 +566,3 @@ By taking these actions, technology leaders can position their organisations not
 > The future of technology will be defined by those who are willing to collaborate, innovate, and embrace the open source ethos, says a leading expert in the field.
 
 In conclusion, the call to action is clear: leverage the power of open source, foster collaboration, and remain adaptable to ensure your organisation's success in the ever-changing technological landscape.
-
-
-

@@ -2434,6 +2434,3 @@ Consider the example of a local council struggling to meet the increasing demand
 > We must embrace the Red Queen Effect not as a burden, but as an opportunity to build a more resilient and responsive public sector, says a senior government official.
 
 Your Red Queen journey will be unique, shaped by your organisation's specific context and challenges. However, by following these steps and embracing the principles outlined in this book, you can equip yourself to thrive in the relentlessly evolving world of the 21st century. The race is ongoing, but with the right mindset and tools, you can not only keep pace but also lead the way.
-
-
-

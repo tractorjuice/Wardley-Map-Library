@@ -1459,6 +1459,3 @@ Wardley Mapping, as a tool for situational awareness, can also support this call
 The Red Queen Effect demands continuous effort and adaptation. There is no finish line in the AI race; it is a perpetual journey of learning, innovation, and improvement. Organisations and individuals that embrace this dynamic will be well-positioned to thrive in the long term. Those that fail to act risk being left behind.
 
 > The future is not waiting to be discovered; it is waiting to be created, says a technology visionary.
-
-
-

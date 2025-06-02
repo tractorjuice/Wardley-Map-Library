@@ -772,6 +772,3 @@ As we conclude our exploration of the geopolitical and technological rivalry in 
 - The evolving nature of AI necessitates continuous dialogue among stakeholders, including governments, private sector players, and civil society, to address emerging challenges and opportunities.
 
 > Navigating the future of AI will require a delicate balance between competition and collaboration, as nations seek to harness the transformative potential of this technology while managing its inherent risks, says a leading expert in the field.
-
-
-

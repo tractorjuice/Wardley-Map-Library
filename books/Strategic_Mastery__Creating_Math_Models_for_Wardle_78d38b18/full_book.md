@@ -892,6 +892,3 @@ To effectively embrace uncertainty, organisations must cultivate a culture of co
 - Implementing feedback loops to assess the effectiveness of strategic decisions
 
 Ultimately, embracing uncertainty is about building resilience and flexibility into the strategic planning process. By leveraging the insights gained from Wardley Mapping and fostering a culture of adaptability, organisations can not only survive but thrive in an unpredictable world.
-
-
-

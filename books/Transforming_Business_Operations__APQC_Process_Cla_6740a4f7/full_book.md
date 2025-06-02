@@ -1073,6 +1073,3 @@ A case study from the public sector illustrates this principle in action. A gove
 To sustain continuous improvement in innovation management, organisations must also invest in training and development. Equipping employees with the skills to leverage GenAI tools and interpret data insights is essential for fostering a culture of innovation. Additionally, leadership must champion these efforts, providing the necessary resources and support to drive meaningful change.
 
 In conclusion, continuous improvement is not a one-time initiative but an ongoing commitment to excellence. By integrating GenAI with the APQC Process Classification Framework, organisations can create a robust foundation for innovation management that adapts to evolving challenges and opportunities. This approach ensures that businesses remain resilient, competitive, and future-ready in an increasingly complex and dynamic environment.
-
-
-

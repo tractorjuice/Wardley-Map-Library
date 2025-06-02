@@ -1422,6 +1422,3 @@ To facilitate collaboration and knowledge sharing, the UNSD should establish a c
 > The key to success in GenAI is not just about having the best technology, it's about having the best people and the best culture of collaboration and knowledge sharing, says a senior government official.
 
 In conclusion, fostering collaboration and knowledge sharing is essential for the long-term success of GenAI in official statistics. By creating opportunities for statisticians, data scientists, policymakers, and other stakeholders to connect, share their experiences, and learn from each other, the UNSD can accelerate innovation, mitigate risks, and ensure that GenAI benefits all stakeholders. This collaborative approach, combined with the technological infrastructure, data governance policies, and capacity building programs discussed earlier, will pave the way for a future where GenAI is used effectively to enhance official statistics and support the achievement of the Sustainable Development Goals. This marks the culmination of our strategic roadmap, providing a comprehensive framework for the UNSD to navigate the evolving landscape of GenAI and harness its transformative potential for the benefit of the global community.
-
-
-

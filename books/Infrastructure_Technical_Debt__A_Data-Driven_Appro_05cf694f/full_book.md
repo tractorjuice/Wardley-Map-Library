@@ -1096,6 +1096,3 @@ The utilities sector presents a particularly interesting case study in infrastru
 > Understanding the unique operational rhythms and constraints of each industry is fundamental to developing effective technical debt management strategies, observes a chief technology officer from a major utilities provider.
 
 Manufacturing sector implementations often require special consideration of operational technology integration. Our experience with several manufacturing clients has shown that successful technical debt management programmes must account for the interconnected nature of IT and OT systems, with particular attention to real-time control systems and industrial automation networks.
-
-
-

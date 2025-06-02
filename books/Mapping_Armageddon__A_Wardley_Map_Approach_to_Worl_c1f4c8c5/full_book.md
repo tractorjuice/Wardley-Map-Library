@@ -1923,6 +1923,3 @@ Promoting peace and understanding is perhaps the most important aspect of respon
 Ultimately, responsible global citizenship is about taking ownership of the future and working towards a world where all people can live in peace, prosperity, and dignity. It is a call to action that requires each of us to embrace our role as global citizens and to contribute to building a more just and sustainable world. The principles of Wardley Mapping, with its emphasis on understanding complexity, anticipating change, and making informed decisions, can provide a valuable framework for navigating this journey and for shaping a more positive future for all.
 
 > The future is not something that happens to us; it is something we create, says a visionary leader.
-
-
-

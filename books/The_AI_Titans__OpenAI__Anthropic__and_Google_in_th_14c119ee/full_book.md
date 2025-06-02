@@ -1553,6 +1553,3 @@ Academia and civil society are equally critical. Universities and research insti
 Finally, individuals must take an active role in shaping the AI future. This includes staying informed about AI developments, advocating for ethical practices, and participating in public discourse. A responsible AI future is not the sole responsibility of a few; it requires collective action and shared commitment.
 
 In conclusion, the path forward for OpenAI, Anthropic, and Google—and for humanity as a whole—depends on our ability to collaborate, innovate responsibly, and prioritise the common good. The time to act is now. By working together, we can ensure that AI becomes a transformative force for good, benefiting all of humanity and safeguarding our shared future.
-
-
-

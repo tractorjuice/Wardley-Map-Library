@@ -1928,6 +1928,3 @@ By implementing these strategies, the agency can sustain momentum and ensure tha
 The Red Queen Effect, as discussed in Chapter 2, is also relevant here. Sustaining momentum requires continuous effort and adaptation to maintain or improve the level of engagement with Wardley Mapping. A static approach will quickly lead to a decline in enthusiasm and effectiveness. As previously mentioned, constant effort is required to maintain the same relative position, and this effort is heavily reliant on actively sustaining momentum and maintaining engagement.
 
 > Sustaining momentum is about creating a self-reinforcing cycle of learning, improvement, and engagement, says a leading expert in organisational change.
-
-
-

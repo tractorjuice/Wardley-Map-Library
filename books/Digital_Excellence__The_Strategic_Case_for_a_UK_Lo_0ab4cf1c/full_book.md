@@ -1130,6 +1130,3 @@ To ensure the effectiveness of the continuous improvement process, the Centre mu
 - Continuous monitoring of user satisfaction metrics
 
 The Centre must also maintain a comprehensive documentation system for tracking improvements, including lessons learned, impact assessments, and modification histories. This knowledge repository becomes an invaluable resource for future improvement initiatives and helps prevent the repetition of unsuccessful approaches.
-
-
-

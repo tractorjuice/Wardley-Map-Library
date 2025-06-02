@@ -1395,6 +1395,3 @@ To maximise the effectiveness of process checklists, organisations must establis
 - Escalation Procedures: Structured approach to issue resolution
 - Review Mechanisms: Regular assessment of checklist effectiveness
 - Continuous Improvement Process: Systematic updates based on lessons learned
-
-
-

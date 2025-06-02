@@ -1421,6 +1421,3 @@ Future-proofing risk assessment strategies requires organisations to develop cap
 - Establishment of stakeholder communication protocols
 
 The success of risk assessment initiatives will increasingly depend on the ability to leverage AI agents themselves in identifying and analysing potential risks. This creates a meta-level consideration where AI systems become both the subject of risk assessment and tools for conducting it.
-
-
-

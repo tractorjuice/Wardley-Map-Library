@@ -3453,6 +3453,3 @@ Ultimately, the ability to thrive in an ever-evolving landscape depends on culti
 A leading innovator stated, The future belongs to those who are curious and willing to explore the unknown. By cultivating a mindset of curiosity and exploration, organisations can unlock new opportunities, adapt to change, and create a sustainable competitive advantage.
 
 The journey of strategic mastery is a continuous one, requiring constant vigilance, adaptation, and a commitment to learning. By embracing the practices and mindsets outlined in this section, organisations can navigate the ever-evolving landscape and achieve sustained success. The key is to remember that strategy is not a destination but a journey, and the most successful organisations are those that are best equipped to adapt and learn along the way.
-
-
-

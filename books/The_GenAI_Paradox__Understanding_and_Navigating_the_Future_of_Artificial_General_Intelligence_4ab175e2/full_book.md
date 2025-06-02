@@ -974,6 +974,3 @@ The roadmap must also address the crucial aspect of capacity building across dif
 - Regular review and update processes for existing protocols
 
 Finally, the roadmap must incorporate robust feedback mechanisms and adaptive management strategies. This ensures that our approach to GenAI governance can evolve based on real-world experience and emerging challenges. Regular assessment and adjustment of the roadmap itself should be built into the process, creating a living document that maintains relevance as technology advances.
-
-
-

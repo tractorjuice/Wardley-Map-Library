@@ -2274,6 +2274,3 @@ The journey towards a more sustainable and resilient transport system will not b
 This book has provided a framework for thinking strategically about the future of UK transport. It is now up to each of us to put these principles into practice and to shape a transport system that is worthy of future generations. The time for action is now.
 
 > The best way to predict the future is to create it, says a leading expert in future trends.
-
-
-

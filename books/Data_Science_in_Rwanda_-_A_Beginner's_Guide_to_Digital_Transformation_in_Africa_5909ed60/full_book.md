@@ -1347,6 +1347,3 @@ Community-driven initiatives have become instrumental in addressing the unique c
 - Regional data science conferences and events
 
 The future of Rwanda's data science community depends on sustained engagement and support from all stakeholders. Establishing strong mentorship programmes and fostering community growth will continue to be essential for developing the next generation of data science professionals who can drive Rwanda's digital transformation forward.
-
-
-

@@ -1702,6 +1702,3 @@ To operationalise continuous evolution effectively, organisations must develop w
 - Evolution of regulatory frameworks and compliance requirements
 
 The implementation of continuous evolution requires organisations to develop specific organisational routines and capabilities. These include establishing regular review cycles for Wardley Maps, maintaining flexible resource allocation mechanisms, and fostering a culture that embraces change while maintaining strategic coherence. Success in this domain requires both technical sophistication in mapping and strategic planning, as well as the cultural and organisational capacity to execute continuous adaptation effectively.
-
-
-

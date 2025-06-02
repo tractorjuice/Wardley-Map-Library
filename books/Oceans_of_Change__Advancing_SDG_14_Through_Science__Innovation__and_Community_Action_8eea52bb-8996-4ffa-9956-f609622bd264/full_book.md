@@ -1604,6 +1604,3 @@ Critical to this transformation is the mobilisation of resources and political w
 > The solutions exist - what we need now is the collective will to implement them at scale and with the urgency that the situation demands, emphasises a veteran ocean policy expert with decades of experience in international maritime law.
 
 The future of our oceans lies in our ability to act decisively and collectively. This call to action serves not just as a conclusion to this comprehensive examination of SDG 14, but as a beginning - a launching point for renewed commitment and accelerated implementation of proven solutions. The time for action is now, and the path forward is clear.
-
-
-

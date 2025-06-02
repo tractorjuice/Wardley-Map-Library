@@ -1496,6 +1496,3 @@ As we conclude this guide, recall that mapping and the ILC lifecycle thrive as o
 > By treating your Wardley Map as a living practice you cultivate the agility and insight needed to navigate complexity says a senior government strategist
 
 Looking ahead, leaders in the public sector can magnify impact by championing transparent mapping practices, investing in mapping literacy across teams and actively contributing to the broader Wardley community. This commitment transforms static strategy documents into dynamic compasses that guide continuous adaptation.
-
-
-

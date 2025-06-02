@@ -1227,6 +1227,3 @@ Looking ahead to 2025, organisations must prepare for increasingly stringent reg
 - External Validation: Independent audits and assessments
 
 The success of these compliance frameworks ultimately depends on their integration into the organisation's culture and operations. This requires clear communication, ongoing training, and visible leadership commitment to maintaining high standards of AI governance. As we move into 2025, organisations that establish robust, adaptable compliance frameworks will be better positioned to leverage GenAI technologies while managing associated risks effectively.
-
-
-

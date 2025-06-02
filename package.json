@@ -8,8 +8,10 @@
     "vercel-build": "echo \"Vercel build completed\"",
     "generate-manifest": "node scripts/generate-manifest.js",
     "generate-manifest-with-toc": "node scripts/generate-manifest.js --include-toc",
-    "generate-toc": "node scripts/table-of-contents-generator.js",
+    "generate-toc": "node scripts/table-of-contents-generator.js --anchors",
     "generate-toc-dry": "node scripts/table-of-contents-generator.js --dry-run",
+    "update-books-with-figures": "node scripts/update-books-with-figures.js",
+    "add-wardley-appendix": "node scripts/add-wardley-appendix.js",
     "build-all": "npm run generate-toc && npm run generate-manifest"
   },
   "keywords": [

@@ -2078,6 +2078,3 @@ The UK, with DSTL at the forefront, has the opportunity to be a leader in the de
 > The future of defence will be defined by those who can harness the power of AI most effectively, says a leading expert in the field. It is not simply about adopting new technologies, but about fundamentally rethinking how we approach national security.
 
 Ultimately, the vision for a GenAI-enabled defence future is one of enhanced capabilities, improved decision-making, and increased resilience. By embracing the transformative potential of GenAI, DSTL and the UK can ensure that they are well-prepared to meet the challenges of the 21st century and beyond.
-
-
-

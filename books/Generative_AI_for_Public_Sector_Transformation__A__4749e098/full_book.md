@@ -1725,6 +1725,3 @@ Ultimately, the future of GenAI at Advice Cloud is about creating a better world
 > The future of AI is not about replacing humans, it's about empowering them to do more, says a visionary technology leader.
 
 By embracing this philosophy and by committing to the principles outlined in this book, Advice Cloud can ensure that GenAI is used as a force for good in the public sector, creating a brighter future for all.
-
-
-

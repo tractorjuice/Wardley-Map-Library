@@ -1271,6 +1271,3 @@ These evolution studies collectively highlight several critical success factors 
 The studies also reveal common patterns in manufacturing evolution, particularly around the movement of previously custom-built solutions towards commodity services and the increasing importance of data analytics and artificial intelligence in driving operational efficiency.
 
 > The most successful manufacturing transformations we've observed aren't those with the biggest technology budgets, but those that best understood their value chain evolution and timed their moves accordingly.
-
-
-

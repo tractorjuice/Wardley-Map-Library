@@ -3086,6 +3086,3 @@ Technological innovation can play a crucial role in building a more just and sus
 Ultimately, building a more just and sustainable world requires a collective effort from individuals, communities, governments, and international organisations. It requires a commitment to dialogue, cooperation, and a shared vision of a better future for all. By embracing our individual and collective responsibility, we can navigate the perilous future and create a world where peace, justice, and sustainability prevail.
 
 > The future is not something we enter. The future is something we create, says a leading futurist.
-
-
-

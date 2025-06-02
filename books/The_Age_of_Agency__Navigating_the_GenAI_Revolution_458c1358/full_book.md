@@ -2481,6 +2481,3 @@ One key aspect of a human-centred approach is to ensure that AI systems are alig
 Furthermore, it is essential to establish clear lines of responsibility for AI actions. This means developing mechanisms for auditing and monitoring AI systems to ensure that they are operating ethically and in accordance with relevant regulations. When AI systems make decisions that affect individuals' lives, it is important to provide recourse mechanisms for those who are harmed by those decisions. This could include establishing independent oversight bodies or ombudsman offices to investigate complaints and provide redress.
 
 In conclusion, the age of GenAI agency presents both unprecedented opportunities and significant challenges. By embracing a human-centred approach and prioritising collaboration, innovation, education, and ethical considerations, we can shape a future where AI benefits all of humanity. This requires a collective commitment from governments, industry, researchers, and individuals to work together to ensure that AI is developed and deployed in a responsible and equitable manner. The future of AI is not predetermined; it is up to us to shape it.
-
-
-

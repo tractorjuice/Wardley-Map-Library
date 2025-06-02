@@ -1976,6 +1976,3 @@ As a final word of encouragement, remember that you are not alone on this journe
 > The best way to predict the future is to create it, says a leading expert in the field.
 
 Embrace the power of visualisation and context, build a strategic culture within your organisation, and continuously map your strategic landscape. By doing so, you can master strategic clarity and deliver lasting value to the communities you serve. Good luck on your journey!
-
-
-

@@ -1453,6 +1453,3 @@ The final crucial element in building long-term resilience is the development of
 - Creation of cross-organisational learning networks
 - Integration of feedback loops into strategic planning
 - Regular testing and validation of resilience measures
-
-
-

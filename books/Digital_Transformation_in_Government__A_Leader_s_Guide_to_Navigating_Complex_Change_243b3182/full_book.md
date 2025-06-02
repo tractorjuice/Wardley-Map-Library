@@ -1432,6 +1432,3 @@ A critical next step for leaders is to establish robust feedback mechanisms that
 - Implement sustainable funding models for digital initiatives
 
 The path forward requires leaders to maintain a dual focus on immediate operational excellence and long-term strategic positioning. This includes developing capabilities to rapidly prototype and scale successful initiatives while maintaining the robust governance frameworks required in public sector contexts.
-
-
-

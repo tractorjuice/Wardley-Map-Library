@@ -1050,6 +1050,3 @@ Cross-cutting research themes will become increasingly important, particularly i
 - Development of resilience metrics for vulnerable communities
 
 The research agenda must also prioritise the development of new theoretical frameworks that can better explain the complex interactions between various systems affecting poverty. This includes understanding the role of network effects in poverty reduction, the impact of digital platforms on informal economies, and the potential of decentralised systems in promoting economic inclusion.
-
-
-

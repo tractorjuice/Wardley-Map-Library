@@ -1256,6 +1256,3 @@ A crucial aspect of the updated regulatory framework must focus on establishing 
 > The next generation of submarine cable regulations must move beyond traditional maritime law to encompass hybrid warfare considerations. We need frameworks that can respond to both overt and covert threats to our undersea infrastructure, explains a leading expert in maritime security law.
 
 The implementation timeline for these regulatory updates should be accelerated given the increasing sophistication of Russian capabilities and the critical nature of submarine cable infrastructure to global communications. Regular review and update mechanisms should be built into the framework to ensure continued effectiveness against evolving threats.
-
-
-

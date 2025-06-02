@@ -1653,6 +1653,3 @@ The journey of strategic discovery is not a solitary pursuit. It requires collab
 Ultimately, the journey of strategic discovery is about creating a better future. By using Wardley Mapping and other strategic tools to understand the world around us, we can make more informed decisions, develop more effective strategies, and create a more sustainable and equitable future for all. This requires a commitment to ethical behaviour, a willingness to embrace change, and a deep understanding of the interconnectedness of all things.
 
 > The journey of a thousand miles begins with a single step, and the journey of strategic mastery begins with a single map, says a leading expert. But it is the continuous effort, the relentless pursuit of knowledge, and the unwavering commitment to ethical principles that will ultimately determine our success.
-
-
-

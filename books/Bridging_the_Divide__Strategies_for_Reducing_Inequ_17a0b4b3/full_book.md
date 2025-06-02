@@ -1071,6 +1071,3 @@ Furthermore, it is crucial to amplify the voices of those most affected by inequ
 > The path to a more equitable future is paved with collaboration, innovation, and a commitment to justice for all.
 
 In conclusion, the journey towards reducing inequality is ongoing and requires unwavering dedication from all sectors of society. By taking decisive action today, we can build a more equitable future for generations to come.
-
-
-

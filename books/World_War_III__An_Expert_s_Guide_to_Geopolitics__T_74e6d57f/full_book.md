@@ -1999,6 +1999,3 @@ International cooperation is essential for supporting these efforts, sharing les
 > The best way to honour the victims of past conflicts is to learn from their suffering and to build a future where such tragedies never happen again, says a peace activist.
 
 In conclusion, learning from the past is a crucial aspect of long-term recovery and rebuilding. By analysing the causes of the conflict, identifying the mistakes that were made, and developing strategies to prevent them from happening again, societies can create a more resilient, equitable, and sustainable future. As previously discussed, building societal resilience is crucial for withstanding the challenges of the 21st century, and learning from the past is a key component of this effort. This requires a collective effort, guided by a shared vision of a better world, informed by the hard lessons of the past.
-
-
-

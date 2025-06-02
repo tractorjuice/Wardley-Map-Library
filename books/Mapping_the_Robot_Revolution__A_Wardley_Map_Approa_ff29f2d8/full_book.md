@@ -1904,6 +1904,3 @@ Wardley Maps can be used to visualise the social and environmental impact of dif
 > The future is not predetermined; it is shaped by the choices we make today, says a leading expert in the field. Let us choose to build a future that is both prosperous and just, where technology serves humanity and protects the planet.
 
 By embracing responsible innovation, promoting ethical development, and building a more equitable and sustainable future for all, we can harness the power of automation to create a world that is worthy of our aspirations. This requires a collective effort, with government, industry, academia, and civil society working together to shape a better future for all. The journey is ongoing, but the destination is clear: a future where technology empowers humanity and protects the planet.
-
-
-

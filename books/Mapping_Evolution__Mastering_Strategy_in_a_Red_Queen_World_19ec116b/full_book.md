@@ -1165,6 +1165,3 @@ The maturity of an organisation's continuous learning system can be assessed thr
 - Foster a culture that values learning over short-term performance
 
 The ultimate measure of a continuous learning system's effectiveness is its ability to maintain competitive advantage in an increasingly dynamic environment. This requires not just learning about specific changes or challenges, but learning how to learn more effectively - a meta-learning capability that becomes increasingly valuable as the pace of change accelerates.
-
-
-

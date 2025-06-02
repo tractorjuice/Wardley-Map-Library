@@ -1001,6 +1001,3 @@ Looking forward, we can identify several key trends that will likely shape the f
 - Democratic Innovation: The tension between centralised and distributed innovation models
 
 The future of global innovation will likely be shaped by how these companies navigate emerging challenges, including regulatory pressures, environmental concerns, and changing consumer expectations. Their responses to these challenges will continue to influence innovation patterns worldwide, potentially creating new paradigms for technological advancement and market competition.
-
-
-

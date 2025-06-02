@@ -13,7 +13,7 @@ The Wardley Map Library is an **open-source** Node.js web application that serve
 - Wardley map integration operational
 - Responsive UI with interactive features
 - Dynamic book discovery and categorization
-- **177 books** currently available in the library
+- **174 books** currently available in the library
 - Vercel deployment optimized and stable
 
 ## 🌿 **IMPORTANT: Development Branch Workflow**
@@ -212,12 +212,75 @@ Books are categorized using keyword matching:
 ## 🛠️ Common Tasks
 
 ### Adding a New Book
-1. Create directory inside `books/` folder with descriptive name
-2. Add `full_book.md` file with markdown content
-3. Optionally add `full_book.docx` and other markdown files
-4. Run `node scripts/generate-manifest.js` to update the book manifest and sitemap
-5. Book will be automatically categorized and listed
-6. **Sitemap.xml automatically updated** with new book URL for SEO
+
+#### Complete Book Publishing Process
+Follow these steps to properly publish new books with full functionality:
+
+**Step 1: Initial Setup and Structure**
+1. **Check Development Branch**: Ensure you're on `Development` branch: `git checkout Development`
+2. **Extract and Organize**: If books are in `temp_books/` as zip files:
+   - Unzip any `markdown_wardley_map_reports.zip` files in each book directory
+   - Rename files if needed (e.g., `full_book v2.md` → `full_book.md`)
+
+**Step 2: Migrate to Books Directory**
+3. **Move Books**: Transfer book directories from `temp_books/` to `books/` directory
+4. **Fix Markdown Structure**: Ensure Wardley map reports are in correct location:
+   ```bash
+   cd /path/to/book/directory
+   mkdir -p markdown
+   mv markdown_wardley_map_reports markdown/wardley_map_reports
+   ```
+5. **Clean Up**: Remove zip files: `rm markdown_wardley_map_reports.zip`
+
+**Step 3: Validate Structure**
+Each book directory should have:
+```
+books/[Book_Directory_Name]/
+├── full_book.md              # REQUIRED: Main book content
+├── markdown/                 # REQUIRED: Additional content
+│   └── wardley_map_reports/  # Wardley map files
+└── full_book.docx           # OPTIONAL: Word version
+```
+
+**Step 4: Generate Navigation and Metadata**
+6. **Update Manifest**: Run `node scripts/generate-manifest.js` to:
+   - Discover new books and update `books.json`
+   - Auto-categorize books based on content
+   - Regenerate sitemap.xml for SEO
+7. **Add Table of Contents**: Run `node scripts/table-of-contents-generator.js --anchors` to:
+   - Generate clickable table of contents with anchor links
+   - Add HTML anchor IDs to all headings for deep linking
+
+**Step 5: Content Cleanup (If Needed)**
+8. **Remove Appendices**: If books contain appendix sections:
+   - Manually remove appendix content from `full_book.md`
+   - Re-run TOC generator: `node scripts/table-of-contents-generator.js --anchors`
+
+**Step 6: Verification**
+9. **Verify Structure**: Check that both books have:
+   - ✅ Proper `markdown/wardley_map_reports/` directory structure
+   - ✅ Clickable table of contents with anchor links: `[text](#anchor)`
+   - ✅ HTML anchor IDs in headings: `<a id="anchor"></a>`
+   - ✅ No appendix sections (if removed)
+   - ✅ Updated manifest and sitemap
+
+**Step 7: Publication**
+10. **Test Locally**: Verify books appear and function correctly
+11. **Commit Changes**: Push to `Development` branch
+12. **Deploy**: Merge to `main` when ready for production
+
+#### Quick Command Reference
+```bash
+# Essential commands for book publishing
+node scripts/generate-manifest.js                    # Update manifest & sitemap
+node scripts/table-of-contents-generator.js --anchors # Add navigation links
+git checkout Development                              # Switch to dev branch
+```
+
+#### File Structure Requirements
+- **REQUIRED**: `full_book.md` in book root directory
+- **REQUIRED**: `markdown/wardley_map_reports/` for Wardley map integration
+- **OPTIONAL**: `full_book.docx` for Word document version
 
 ### Modifying Categories
 1. Edit `categorizeBook()` method in `scripts/generate-manifest.js`

@@ -1,7 +1,7 @@
 {
-  "generated": "2025-06-02T01:43:15.572Z",
+  "generated": "2025-06-02T08:59:49.182Z",
   "version": "1.0.0",
-  "totalBooks": 174,
+  "totalBooks": 173,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -1450,25 +1450,6 @@
       ],
       "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
       "path": "/workspaces/GenAI-Books/books/Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "securing-generative-ai-in-defence-science-a-compr-e487b92b",
-      "title": "Securing Generative AI in Defence Science: A Comprehensive Framework for Military Research Environments",
-      "category": [
-        "Artificial Intelligence",
-        "Military",
-        "Sustainability",
-        "Data Science"
-      ],
-      "categories": [
-        "Artificial Intelligence",
-        "Military",
-        "Sustainability",
-        "Data Science"
-      ],
-      "directory": "Securing_Generative_AI_in_Defence_Science__A_Compr_e487b92b",
-      "path": "/workspaces/GenAI-Books/books/Securing_Generative_AI_in_Defence_Science__A_Compr_e487b92b/full_book.md",
       "additionalFiles": []
     },
     {

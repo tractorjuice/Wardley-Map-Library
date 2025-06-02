@@ -1,7 +1,7 @@
 {
-  "generated": "2025-06-02T10:44:18.086Z",
+  "generated": "2025-06-02T18:26:54.123Z",
   "version": "1.0.0",
-  "totalBooks": 172,
+  "totalBooks": 174,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -919,6 +919,23 @@
       ],
       "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
       "path": "/workspaces/GenAI-Books/books/Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
+    },
+    {
+      "id": "blue-planet-green-robots-scaling-climate-action-with-ai-and-robotics-cc89ef16-06ed-45",
+      "title": "Blue Planet, Green Robots: Scaling Climate Action with AI and Robotics",
+      "category": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
+      "path": "/workspaces/GenAI-Books/books/Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45/full_book.md",
       "additionalFiles": [
         "markdown/"
       ]
@@ -2420,6 +2437,25 @@
       "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
       "path": "/workspaces/GenAI-Books/books/Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b/full_book.md",
       "additionalFiles": []
+    },
+    {
+      "id": "mapping-green-software-leveraging-wardley-maps-for-sustainable-it-strategies-957a2731-88bf-4b",
+      "title": "Mapping Green Software: Leveraging Wardley Maps for Sustainable IT Strategies",
+      "category": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Artificial Intelligence",
+        "Sustainability"
+      ],
+      "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
+      "path": "/workspaces/GenAI-Books/books/Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
     },
     {
       "id": "mapping-sustainable-development-a-strategic-approach-to-sdgs-using-wardley-mapping-1ec7fcf3",

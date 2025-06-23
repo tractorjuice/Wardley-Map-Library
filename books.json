@@ -1,7 +1,7 @@
 {
-  "generated": "2025-06-03T11:29:48.080Z",
+  "generated": "2025-06-23T09:54:12.712Z",
   "version": "1.0.0",
-  "totalBooks": 183,
+  "totalBooks": 182,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -277,19 +277,6 @@
       "additionalFiles": []
     },
     {
-      "id": "chronicles-of-the-cosmos-uprising-of-the-mechanized-overlords-44bc735c-effd-4ccb-9125-c3640618152c",
-      "title": "Chronicles of the Cosmos  Uprising of the Mechanized Overlords",
-      "category": [
-        "Technology"
-      ],
-      "categories": [
-        "Technology"
-      ],
-      "directory": "Chronicles_of_the_Cosmos__Uprising_of_the_Mechanized_Overlords_44bc735c-effd-4ccb-9125-c3640618152c",
-      "path": "/workspaces/GenAI-Books/books/Chronicles_of_the_Cosmos__Uprising_of_the_Mechanized_Overlords_44bc735c-effd-4ccb-9125-c3640618152c/full_book.md",
-      "additionalFiles": []
-    },
-    {
       "id": "chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
       "title": "Chronos Resistance",
       "category": [
@@ -384,6 +371,19 @@
       "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
       "path": "/workspaces/GenAI-Books/books/Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60/full_book.md",
       "additionalFiles": []
+    },
+    {
+      "id": "data-under-duress-national-statistic-offices-navigating-the-transition-to-war-7a6cf999",
+      "title": "Data Under Duress: National Statistic Offices Navigating the Transition to War",
+      "category": "Data Science",
+      "categories": [
+        "Data Science"
+      ],
+      "directory": "Data_Under_Duress__National_Statistic_Offices_Navigating_the_Transition_to_War_7a6cf999",
+      "path": "/workspaces/GenAI-Books/books/Data_Under_Duress__National_Statistic_Offices_Navigating_the_Transition_to_War_7a6cf999/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
     },
     {
       "id": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
@@ -2085,17 +2085,6 @@
       ],
       "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
       "path": "/workspaces/GenAI-Books/books/The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "the-mysterious-wardley-map-74d2f308-7713-4d89-b3b1-e79899ac1e34",
-      "title": "The Mysterious Wardley Map",
-      "category": "Strategic Mapping",
-      "categories": [
-        "Strategic Mapping"
-      ],
-      "directory": "The_Mysterious_Wardley_Map_74d2f308-7713-4d89-b3b1-e79899ac1e34",
-      "path": "/workspaces/GenAI-Books/books/The_Mysterious_Wardley_Map_74d2f308-7713-4d89-b3b1-e79899ac1e34/full_book.md",
       "additionalFiles": []
     },
     {

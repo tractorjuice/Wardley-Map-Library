@@ -6,6 +6,65 @@
 - [Table of Contents](#table-of-contents)
 - [Table of Contents](#table-of-contents)
 - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
+  - [Introduction: The Power of Wardley Doctrine](#introduction-the-power-of-wardley-doctrine)
+    - [Understanding Wardley Doctrine](#understanding-wardley-doctrine)
+      - [What is Wardley Doctrine?](#what-is-wardley-doctrine)
+      - [Why Doctrine Matters in Business Strategy](#why-doctrine-matters-in-business-strategy)
+      - [The Evolution of Strategic Thinking](#the-evolution-of-strategic-thinking)
+    - [Getting Started with Doctrine](#getting-started-with-doctrine)
+      - [Core Principles and Concepts](#core-principles-and-concepts)
+      - [The Doctrine Learning Journey](#the-doctrine-learning-journey)
+      - [Setting Expectations and Goals](#setting-expectations-and-goals)
+  - [Foundations of Situational Awareness](#foundations-of-situational-awareness)
+    - [Mapping the Landscape](#mapping-the-landscape)
+      - [Understanding Position and Movement](#understanding-position-and-movement)
+      - [Component Classification](#component-classification)
+      - [Identifying Dependencies and Relationships](#identifying-dependencies-and-relationships)
+    - [Context-Specific Analysis](#context-specific-analysis)
+      - [Industry and Market Assessment](#industry-and-market-assessment)
+      - [Competitive Positioning](#competitive-positioning)
+      - [Environmental Factors](#environmental-factors)
+  - [Value Chain Evolution and Competitive Dynamics](#value-chain-evolution-and-competitive-dynamics)
+    - [Evolution Patterns](#evolution-patterns)
+      - [Genesis to Commodity](#genesis-to-commodity)
+      - [Pace of Evolution](#pace-of-evolution)
+      - [Anticipating Change](#anticipating-change)
+    - [Competitive Forces](#competitive-forces)
+      - [Market Forces and Inertia](#market-forces-and-inertia)
+      - [Strategic Gameplay](#strategic-gameplay)
+      - [Adaptation and Response](#adaptation-and-response)
+  - [Strategic Play Patterns in Action](#strategic-play-patterns-in-action)
+    - [Core Doctrinal Patterns](#core-doctrinal-patterns)
+      - [Universal Patterns](#universal-patterns)
+      - [Situational Patterns](#situational-patterns)
+      - [Pattern Recognition and Application](#pattern-recognition-and-application)
+    - [Implementation Strategies](#implementation-strategies)
+      - [Pattern Selection and Timing](#pattern-selection-and-timing)
+      - [Resource Allocation](#resource-allocation)
+      - [Measuring Success](#measuring-success)
+  - [Decision-Making and Organizational Transformation](#decision-making-and-organizational-transformation)
+    - [Strategic Decision Framework](#strategic-decision-framework)
+      - [Decision Analysis Tools](#decision-analysis-tools)
+      - [Risk Assessment](#risk-assessment)
+      - [Uncertainty Management](#uncertainty-management)
+    - [Organizational Change](#organizational-change)
+      - [Building Adaptive Capabilities](#building-adaptive-capabilities)
+      - [Cultural Transformation](#cultural-transformation)
+      - [Sustainable Implementation](#sustainable-implementation)
+  - [Core Wardley Mapping Series](#core-wardley-mapping-series)
+  - [Practical Resources](#practical-resources)
+  - [Specialized Applications](#specialized-applications)
+
+
+
+
+# <a id="table-of-contents"></a>Table of Contents
+
+- [Wardley Doctrine in Practice: A Strategic Framework for Modern Business](#wardley-doctrine-in-practice-a-strategic-framework-for-modern-business)
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
   - [Introduction: The Power of Wardley Doctrine](#introduction-the-power-of-wardley-doctrine)
     - [Understanding Wardley Doctrine](#understanding-wardley-doctrine)
       - [What is Wardley Doctrine?](#what-is-wardley-doctrine)
@@ -1347,7 +1406,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Editor: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0BVSXB5W5)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This foundational text introduces readers to the Wardley Mapping approach:
    - Covers key principles, core concepts, and techniques for creating situational maps
@@ -1367,7 +1426,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C2SFTR7Z)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book explores how doctrine supports organizational learning and adaptation:
    - Standardisation: Enhances efficiency through consistent application of best practices
@@ -1391,7 +1450,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C7CR9R9Q)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book delves into gameplays, a crucial component of Wardley Mapping:
 
@@ -1422,7 +1481,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C34FX8XC)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This comprehensive guide explores organizational inertia and strategies to overcome it:
 
@@ -1450,7 +1509,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0BVHF2MBH)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This comprehensive guide explores climatic patterns in business landscapes:
 
@@ -1482,7 +1541,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - 100 pages of Wardley Mapping design templates and cheat sheets
    - Available in paperback format
-   - [Amazon Link](https://www.amazon.com/dp/B09TPDM9PP)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This practical resource includes:
    - Ready-to-use Wardley Mapping templates
@@ -1501,7 +1560,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Explores the use of Wardley Mapping in the context of sustainable development
    - Available for free with Kindle Unlimited or for purchase
-   - [Amazon Link](https://www.amazon.com/dp/B09PNKFHG4)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This specialized guide:
    - Applies Wardley Mapping to the UN's Sustainable Development Goals
@@ -1512,7 +1571,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
 8. **AIconomics: The Business Value of Artificial Intelligence**
    - Author: Mark Craddock
    - Applies Wardley Mapping concepts to the field of artificial intelligence in business
-   - [Amazon Link](https://www.amazon.com/dp/B0C6V9VZ9B)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book explores:
    - The impact of AI on business landscapes

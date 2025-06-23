@@ -3836,7 +3836,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Editor: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0BVSXB5W5)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This foundational text introduces readers to the Wardley Mapping approach:
    - Covers key principles, core concepts, and techniques for creating situational maps
@@ -3856,7 +3856,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C2SFTR7Z)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book explores how doctrine supports organizational learning and adaptation:
    - Standardisation: Enhances efficiency through consistent application of best practices
@@ -3880,7 +3880,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C7CR9R9Q)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book delves into gameplays, a crucial component of Wardley Mapping:
 
@@ -3911,7 +3911,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0C34FX8XC)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This comprehensive guide explores organizational inertia and strategies to overcome it:
 
@@ -3939,7 +3939,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
-   - [Amazon Link](https://www.amazon.com/dp/B0BVHF2MBH)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This comprehensive guide explores climatic patterns in business landscapes:
 
@@ -3971,7 +3971,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - 100 pages of Wardley Mapping design templates and cheat sheets
    - Available in paperback format
-   - [Amazon Link](https://www.amazon.com/dp/B09TPDM9PP)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This practical resource includes:
    - Ready-to-use Wardley Mapping templates
@@ -3990,7 +3990,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Mark Craddock
    - Explores the use of Wardley Mapping in the context of sustainable development
    - Available for free with Kindle Unlimited or for purchase
-   - [Amazon Link](https://www.amazon.com/dp/B09PNKFHG4)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This specialized guide:
    - Applies Wardley Mapping to the UN's Sustainable Development Goals
@@ -4001,7 +4001,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
 8. **AIconomics: The Business Value of Artificial Intelligence**
    - Author: Mark Craddock
    - Applies Wardley Mapping concepts to the field of artificial intelligence in business
-   - [Amazon Link](https://www.amazon.com/dp/B0C6V9VZ9B)
+   - [Amazon Link](https://www.amazon.co.uk/stores/Mark-Craddock/author/B08FT5G32H)
 
    This book explores:
    - The impact of AI on business landscapes

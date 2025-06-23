@@ -3024,7 +3024,7 @@ Appendix: Further Reading on Wardley Mapping
 
 The following books, primarily authored by Mark Craddock, offer comprehensive insights into various aspects of Wardley Mapping:
 
-## Core Wardley Mapping Series
+## <a id="core-wardley-mapping-series"></a>Core Wardley Mapping Series
 
 1. **Wardley Mapping, The Knowledge: Part One, Topographical Intelligence in Business**
    - Author: Simon Wardley
@@ -3160,7 +3160,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Product managers and innovation teams
    - Anyone interested in cutting-edge strategic thinking
 
-## Practical Resources
+## <a id="practical-resources"></a>Practical Resources
 
 6. **Wardley Mapping Cheat Sheets & Notebook**
    - Author: Mark Craddock
@@ -3179,7 +3179,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Workshop facilitators and educators
    - Anyone wanting to practice and refine their mapping skills
 
-## Specialized Applications
+## <a id="specialized-applications"></a>Specialized Applications
 
 7. **UN Global Platform Handbook on Information Technology Strategy: Wardley Mapping The Sustainable Development Goals (SDGs)**
    - Author: Mark Craddock

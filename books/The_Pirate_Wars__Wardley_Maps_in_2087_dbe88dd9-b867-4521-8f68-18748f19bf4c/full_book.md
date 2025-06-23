@@ -127,8 +127,6 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
   - [Specialized Applications](#specialized-applications)
 
 
-
-
 1. **Wardley Mapping, The Knowledge: Part One, Topographical Intelligence in Business**
    - Author: Simon Wardley
    - Editor: Mark Craddock

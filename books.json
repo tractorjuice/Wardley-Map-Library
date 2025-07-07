@@ -1,7 +1,7 @@
 {
-  "generated": "2025-06-23T09:54:12.712Z",
+  "generated": "2025-07-07T15:12:09.964Z",
   "version": "1.0.0",
-  "totalBooks": 182,
+  "totalBooks": 183,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -261,32 +261,6 @@
       ],
       "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
       "path": "/workspaces/GenAI-Books/books/Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "chronicles-of-2064-echoes-of-the-guardians-00ae8f95-797c-4d70-bc38-00ebbec615e7",
-      "title": "Chronicles of 2064  Echoes of the Guardians",
-      "category": [
-        "Technology"
-      ],
-      "categories": [
-        "Technology"
-      ],
-      "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
-      "path": "/workspaces/GenAI-Books/books/Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
-      "title": "Chronos Resistance",
-      "category": [
-        "Technology"
-      ],
-      "categories": [
-        "Technology"
-      ],
-      "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
-      "path": "/workspaces/GenAI-Books/books/Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a/full_book.md",
       "additionalFiles": []
     },
     {
@@ -1842,6 +1816,78 @@
       "additionalFiles": []
     },
     {
+      "id": "chronicles-of-2064-echoes-of-the-guardians-00ae8f95-797c-4d70-bc38-00ebbec615e7",
+      "title": "Table of Contents",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
+      "path": "/workspaces/GenAI-Books/books/Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
+      "title": "Table of Contents",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
+      "path": "/workspaces/GenAI-Books/books/Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
+      "title": "Table of Contents",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
+      "path": "/workspaces/GenAI-Books/books/The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
+      "title": "Table of Contents",
+      "category": [
+        "Technology"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
+      "path": "/workspaces/GenAI-Books/books/The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-wardley-map-e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
+      "title": "Table of Contents",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
+      "path": "/workspaces/GenAI-Books/books/The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9/full_book.md",
+      "additionalFiles": []
+    },
+    {
+      "id": "the-wardley-maps-pirates-of-the-stars-706c795b-b0f8-4064-8c80-67b19be2b053",
+      "title": "Table of Contents",
+      "category": "Strategic Mapping",
+      "categories": [
+        "Strategic Mapping"
+      ],
+      "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
+      "path": "/workspaces/GenAI-Books/books/The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053/full_book.md",
+      "additionalFiles": []
+    },
+    {
       "id": "technical-debt-assessment-framework-a-comprehensi-802d9f78",
       "title": "Technical Debt Assessment Framework: A Comprehensive Guide to Measurement, Management, and Strategic Implementation",
       "category": [
@@ -2088,17 +2134,6 @@
       "additionalFiles": []
     },
     {
-      "id": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
-      "title": "The Pirate Wars  Wardley Maps in 2087",
-      "category": "Strategic Mapping",
-      "categories": [
-        "Strategic Mapping"
-      ],
-      "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
-      "path": "/workspaces/GenAI-Books/books/The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c/full_book.md",
-      "additionalFiles": []
-    },
-    {
       "id": "the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45",
       "title": "The Planet Information Platform: Mapping Earth with Satellites, AI, and Big Data",
       "category": [
@@ -2113,19 +2148,6 @@
       ],
       "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
       "path": "/workspaces/GenAI-Books/books/The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
-      "title": "The Rebellion Resurgence",
-      "category": [
-        "Technology"
-      ],
-      "categories": [
-        "Technology"
-      ],
-      "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
-      "path": "/workspaces/GenAI-Books/books/The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58/full_book.md",
       "additionalFiles": []
     },
     {
@@ -2170,26 +2192,17 @@
       "additionalFiles": []
     },
     {
-      "id": "the-wardley-map-e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
-      "title": "The Wardley Map",
-      "category": "Strategic Mapping",
+      "id": "the-value-chasm-how-corporate-greed-and-government-neglect-broke-the-digital-commons",
+      "title": "The Value Chasm: How Corporate Greed and Government Neglect Broke the Digital Commons",
+      "category": "Government",
       "categories": [
-        "Strategic Mapping"
+        "Government"
       ],
-      "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
-      "path": "/workspaces/GenAI-Books/books/The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9/full_book.md",
-      "additionalFiles": []
-    },
-    {
-      "id": "the-wardley-maps-pirates-of-the-stars-706c795b-b0f8-4064-8c80-67b19be2b053",
-      "title": "The Wardley Maps  Pirates of the Stars",
-      "category": "Strategic Mapping",
-      "categories": [
-        "Strategic Mapping"
-      ],
-      "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
-      "path": "/workspaces/GenAI-Books/books/The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053/full_book.md",
-      "additionalFiles": []
+      "directory": "The_Value_Chasm_How_Corporate_Greed_and_Government_Neglect_Broke_the_Digital_Commons",
+      "path": "/workspaces/GenAI-Books/books/The_Value_Chasm_How_Corporate_Greed_and_Government_Neglect_Broke_the_Digital_Commons/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
     },
     {
       "id": "transforming-business-operations-apqc-process-cla-6740a4f7",

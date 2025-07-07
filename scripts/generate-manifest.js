@@ -3,7 +3,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 const TableOfContentsGenerator = require('./table-of-contents-generator');
-const PodcastSitemapGenerator = require('./generate-podcast-sitemap');
+// const PodcastSitemapGenerator = require('./generate-podcast-sitemap');
 
 class ManifestGenerator {
     constructor() {
@@ -480,14 +480,9 @@ ${bookUrls}
     }
 
     async generatePodcastSitemap() {
-        console.log('\n🎙️ Generating podcast sitemap...');
-        try {
-            const podcastGenerator = new PodcastSitemapGenerator();
-            await podcastGenerator.run();
-        } catch (error) {
-            console.error('❌ Error generating podcast sitemap:', error);
-            throw error;
-        }
+        console.log('\n🎙️ Skipping podcast sitemap generation (module not available)...');
+        // const podcastGenerator = new PodcastSitemapGenerator();
+        // await podcastGenerator.run();
     }
 
     async run(options = {}) {
@@ -502,7 +497,6 @@ ${bookUrls}
             console.log('\n✅ Manifest and sitemap generation completed successfully!');
             console.log('   The books.json file is ready for use by Vercel functions.');
             console.log('   The sitemap.xml file is ready for search engine submission.');
-            console.log('   The sitemap-podcast.xml file is ready for podcast SEO.');
 
         } catch (error) {
             console.error('\n❌ Manifest generation failed:', error);

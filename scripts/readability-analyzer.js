@@ -490,6 +490,7 @@ class ReadabilityAnalyzer {
             bestPractices,
             commonIssues,
             bookRankings: {
+                allBooks: analyses.sort((a, b) => b.overallScore - a.overallScore),
                 mostReadable: analyses.sort((a, b) => b.overallScore - a.overallScore).slice(0, 10),
                 leastReadable: analyses.sort((a, b) => a.overallScore - b.overallScore).slice(0, 10)
             },

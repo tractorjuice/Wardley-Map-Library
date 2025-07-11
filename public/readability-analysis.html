@@ -628,12 +628,12 @@
             
             const rankings = analysisData.bookRankings;
             
-            // Create a combined list of all books sorted by score
-            const allBooks = [...rankings.mostReadable, ...rankings.leastReadable]
+            // Use the complete allBooks array if available, otherwise fall back to combining limited arrays
+            const allBooks = rankings.allBooks || [...rankings.mostReadable, ...rankings.leastReadable]
                 .sort((a, b) => b.overallScore - a.overallScore);
             
-            // Remove duplicates (in case some books appear in both lists)
-            const uniqueBooks = allBooks.filter((book, index, self) => 
+            // Remove duplicates (in case some books appear in both lists when using fallback)
+            const uniqueBooks = rankings.allBooks || allBooks.filter((book, index, self) => 
                 index === self.findIndex(b => b.directory === book.directory)
             );
             

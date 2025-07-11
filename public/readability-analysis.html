@@ -461,11 +461,18 @@
                 <h2 class="section-header">📚 Book Rankings</h2>
                 <div class="section-content">
                     <div class="tabs">
-                        <button class="tab active" onclick="showTab('mostReadable')">Most Readable</button>
+                        <button class="tab active" onclick="showTab('allRanked')">All Books Ranked</button>
+                        <button class="tab" onclick="showTab('mostReadable')">Most Readable</button>
                         <button class="tab" onclick="showTab('leastReadable')">Least Readable</button>
                     </div>
                     
-                    <div id="mostReadable" class="tab-content active">
+                    <div id="allRanked" class="tab-content active">
+                        <div class="book-grid" id="allRankedBooks">
+                            <!-- All books will be populated by JavaScript -->
+                        </div>
+                    </div>
+                    
+                    <div id="mostReadable" class="tab-content">
                         <div class="book-grid" id="mostReadableBooks">
                             <!-- Books will be populated by JavaScript -->
                         </div>
@@ -615,12 +622,39 @@
         }
 
         function populateBooks() {
+            const allRankedBooks = document.getElementById('allRankedBooks');
             const mostReadableBooks = document.getElementById('mostReadableBooks');
             const leastReadableBooks = document.getElementById('leastReadableBooks');
             
             const rankings = analysisData.bookRankings;
             
-            mostReadableBooks.innerHTML = rankings.mostReadable.slice(0, 10).map((book, index) => `
+            // Create a combined list of all books sorted by score
+            const allBooks = [...rankings.mostReadable, ...rankings.leastReadable]
+                .sort((a, b) => b.overallScore - a.overallScore);
+            
+            // Remove duplicates (in case some books appear in both lists)
+            const uniqueBooks = allBooks.filter((book, index, self) => 
+                index === self.findIndex(b => b.directory === book.directory)
+            );
+            
+            // Populate all books ranked
+            allRankedBooks.innerHTML = uniqueBooks.map((book, index) => `
+                <div class="book-card ${book.overallScore < 30 ? 'poor' : ''}">
+                    <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
+                    <div class="book-stats">
+                        <span>Score: ${book.overallScore.toFixed(1)}</span>
+                        <span>Category: ${book.category}</span>
+                        <span>Words: ${book.wordCount.toLocaleString()}</span>
+                    </div>
+                    <div class="book-issues">
+                        ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'No major issues detected'}
+                    </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
+                </div>
+            `).join('');
+            
+            // Populate most readable (show all instead of top 10)
+            mostReadableBooks.innerHTML = rankings.mostReadable.map((book, index) => `
                 <div class="book-card">
                     <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
                     <div class="book-stats">
@@ -635,7 +669,8 @@
                 </div>
             `).join('');
             
-            leastReadableBooks.innerHTML = rankings.leastReadable.slice(0, 10).map((book, index) => `
+            // Populate least readable (show all instead of top 10)
+            leastReadableBooks.innerHTML = rankings.leastReadable.map((book, index) => `
                 <div class="book-card poor">
                     <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
                     <div class="book-stats">

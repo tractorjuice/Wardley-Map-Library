@@ -1,0 +1,1419 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wardley Map Library - Word Analysis Report</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 {
+            color: #7f8c8d;
+            margin-top: 30px;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .stat-card {
+            background: #ecf0f1;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            border-left: 4px solid #3498db;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .stat-label {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        .word-list {
+            columns: 3;
+            column-gap: 30px;
+        }
+        .word-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px 0;
+            border-bottom: 1px solid #ecf0f1;
+            break-inside: avoid;
+        }
+        .word-item:hover {
+            background-color: #f8f9fa;
+        }
+        .category-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .category-table th,
+        .category-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .category-table th {
+            background-color: #3498db;
+            color: white;
+        }
+        .category-table tr:hover {
+            background-color: #f5f5f5;
+        }
+        .bigram-list {
+            columns: 2;
+            column-gap: 30px;
+        }
+        .bigram-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #ecf0f1;
+            break-inside: avoid;
+        }
+        .bigram-phrase {
+            font-style: italic;
+            color: #2c3e50;
+        }
+        .navigation {
+            background: #34495e;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+        .navigation a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+            padding: 5px 10px;
+            border-radius: 3px;
+            transition: background-color 0.3s;
+        }
+        .navigation a:hover {
+            background-color: #2c3e50;
+        }
+        .chart-container {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 5px 0;
+        }
+        .progress-fill {
+            height: 100%;
+            background-color: #3498db;
+            transition: width 0.3s ease;
+        }
+        .domain-analysis {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .domain-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #e74c3c;
+        }
+        .domain-card h4 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        .top-books {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+        }
+        .book-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #27ae60;
+        }
+        .book-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .book-stats {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .timestamp {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Wardley Map Library - Word Analysis Report</h1>
+        
+        <div class="navigation">
+            <a href="#overview">Overview</a>
+            <a href="#words">Word Analysis</a>
+            <a href="#categories">Categories</a>
+            <a href="#bigrams">Phrases</a>
+            <a href="#domains">Domain Analysis</a>
+            <a href="#books">Top Books</a>
+        </div>
+
+        <section id="overview">
+            <h2>📊 Library Overview</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">182</div>
+                    <div class="stat-label">Total Books</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3,572,506</div>
+                    <div class="stat-label">Total Words</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">35,616</div>
+                    <div class="stat-label">Unique Words</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">19,629</div>
+                    <div class="stat-label">Avg Words/Book</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">1.00%</div>
+                    <div class="stat-label">Vocabulary Richness</div>
+                </div>
+            </div>
+        </section>
+
+        <section id="words">
+            <h2>🔤 Word Analysis</h2>
+            
+            <h3>Most Common Words</h3>
+            <div class="word-list">
+                
+                    <div class="word-item">
+                        <span>1. ai</span>
+                        <span class="highlight">40,043</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>2. data</span>
+                        <span class="highlight">34,270</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>3. as</span>
+                        <span class="highlight">31,270</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>4. wardley</span>
+                        <span class="highlight">21,545</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>5. strategic</span>
+                        <span class="highlight">19,252</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>6. systems</span>
+                        <span class="highlight">18,445</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>7. mapping</span>
+                        <span class="highlight">18,367</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>8. from</span>
+                        <span class="highlight">17,753</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>9. genai</span>
+                        <span class="highlight">16,603</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>10. development</span>
+                        <span class="highlight">14,417</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>11. potential</span>
+                        <span class="highlight">13,992</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>12. government</span>
+                        <span class="highlight">13,590</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>13. organisations</span>
+                        <span class="highlight">13,208</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>14. public</span>
+                        <span class="highlight">12,268</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>15. approach</span>
+                        <span class="highlight">11,700</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>16. value</span>
+                        <span class="highlight">11,419</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>17. understanding</span>
+                        <span class="highlight">11,189</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>18. security</span>
+                        <span class="highlight">10,934</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>19. map</span>
+                        <span class="highlight">10,892</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>20. components</span>
+                        <span class="highlight">10,498</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>21. new</span>
+                        <span class="highlight">10,370</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>22. evolution</span>
+                        <span class="highlight">10,260</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>23. into</span>
+                        <span class="highlight">10,040</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>24. challenges</span>
+                        <span class="highlight">9,706</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>25. capabilities</span>
+                        <span class="highlight">9,664</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>26. innovation</span>
+                        <span class="highlight">9,527</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>27. crucial</span>
+                        <span class="highlight">9,508</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>28. management</span>
+                        <span class="highlight">9,402</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>29. also</span>
+                        <span class="highlight">9,366</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>30. while</span>
+                        <span class="highlight">9,121</span>
+                    </div>
+                
+            </div>
+
+            <h3>Rare Words (Used Once)</h3>
+            <div class="word-list">
+                
+                    <div class="word-item">
+                        <span>1. anatomical</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>2. drug-drug</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>3. radiotherapy</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>4. insilico</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>5. exscientia</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>6. drug-like</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>7. off-target</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>8. treatable</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>9. icd-10</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>10. rosters</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>11. perishable</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>12. quiz</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>13. nmip</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>14. misdiagnoses</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>15. reweighting</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>16. 1intersectional</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>17. excludes</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>18. health-seeking</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>19. limbo</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>20. 1ethicists</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>21. cooperatively</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>22. omop</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>23. systematized</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>24. loinc</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>25. 1practising</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>26. replacive</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>27. reassignment</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>28. ema</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>29. revalidations</span>
+                        <span>1</span>
+                    </div>
+                
+                    <div class="word-item">
+                        <span>30. bioethicists</span>
+                        <span>1</span>
+                    </div>
+                
+            </div>
+        </section>
+
+        <section id="categories">
+            <h2>📂 Category Analysis</h2>
+            <table class="category-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Books</th>
+                        <th>Total Words</th>
+                        <th>Avg Words/Book</th>
+                        <th>Vocabulary Richness</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                        <tr>
+                            <td><strong>Artificial Intelligence</strong></td>
+                            <td>72</td>
+                            <td>1,623,304</td>
+                            <td>22,546</td>
+                            <td>1.41%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Strategic Mapping</strong></td>
+                            <td>57</td>
+                            <td>1,145,965</td>
+                            <td>20,105</td>
+                            <td>1.68%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Other</strong></td>
+                            <td>30</td>
+                            <td>487,036</td>
+                            <td>16,235</td>
+                            <td>3.91%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Technology</strong></td>
+                            <td>9</td>
+                            <td>120,596</td>
+                            <td>13,400</td>
+                            <td>7.19%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Government</strong></td>
+                            <td>6</td>
+                            <td>95,808</td>
+                            <td>15,968</td>
+                            <td>6.22%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Business Strategy</strong></td>
+                            <td>4</td>
+                            <td>61,897</td>
+                            <td>15,474</td>
+                            <td>10.18%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Data Science</strong></td>
+                            <td>3</td>
+                            <td>26,481</td>
+                            <td>8,827</td>
+                            <td>15.34%</td>
+                        </tr>
+                    
+                        <tr>
+                            <td><strong>Security</strong></td>
+                            <td>1</td>
+                            <td>11,419</td>
+                            <td>11,419</td>
+                            <td>17.66%</td>
+                        </tr>
+                    
+                </tbody>
+            </table>
+        </section>
+
+        <section id="bigrams">
+            <h2>🔍 Most Common Phrases (Bigrams)</h2>
+            <div class="bigram-list">
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">1. "wardley mapping"</span>
+                        <span class="highlight">2,840</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">2. "public sector"</span>
+                        <span class="highlight">1,787</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">3. "wardley map"</span>
+                        <span class="highlight">1,707</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">4. "value chain"</span>
+                        <span class="highlight">1,189</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">5. "generative ai"</span>
+                        <span class="highlight">961</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">6. "ai systems"</span>
+                        <span class="highlight">813</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">7. "digital transformation"</span>
+                        <span class="highlight">778</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">8. "wardley maps"</span>
+                        <span class="highlight">760</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">9. "open source"</span>
+                        <span class="highlight">725</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">10. "technical debt"</span>
+                        <span class="highlight">701</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">11. "leading expert"</span>
+                        <span class="highlight">640</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">12. "resource allocation"</span>
+                        <span class="highlight">634</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">13. "user needs"</span>
+                        <span class="highlight">634</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">14. "draft wardley"</span>
+                        <span class="highlight">609</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">15. "while maintaining"</span>
+                        <span class="highlight">607</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">16. "strategic planning"</span>
+                        <span class="highlight">603</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">17. "senior government"</span>
+                        <span class="highlight">537</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">18. "expert field"</span>
+                        <span class="highlight">512</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">19. "machine learning"</span>
+                        <span class="highlight">508</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">20. "artificial intelligence"</span>
+                        <span class="highlight">456</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">21. "service delivery"</span>
+                        <span class="highlight">451</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">22. "over time"</span>
+                        <span class="highlight">437</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">23. "notes senior"</span>
+                        <span class="highlight">433</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">24. "red queen"</span>
+                        <span class="highlight">430</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">25. "says leading"</span>
+                        <span class="highlight">412</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">26. "competitive advantage"</span>
+                        <span class="highlight">406</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">27. "evolution axis"</span>
+                        <span class="highlight">401</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">28. "ai development"</span>
+                        <span class="highlight">397</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">29. "informed decisions"</span>
+                        <span class="highlight">390</span>
+                    </div>
+                
+                    <div class="bigram-item">
+                        <span class="bigram-phrase">30. "make informed"</span>
+                        <span class="highlight">387</span>
+                    </div>
+                
+            </div>
+        </section>
+
+        <section id="domains">
+            <h2>🎯 Domain Analysis</h2>
+            <div class="domain-analysis">
+                
+                    <div class="domain-card">
+                        <h4>wardley Mapping</h4>
+                        
+                            <div class="word-item">
+                                <span>1. wardley</span>
+                                <span>21545</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. mapping</span>
+                                <span>18367</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. map</span>
+                                <span>10892</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. components</span>
+                                <span>10498</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. evolution</span>
+                                <span>10260</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. landscape</span>
+                                <span>7455</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. patterns</span>
+                                <span>6036</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. maps</span>
+                                <span>4726</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. ecosystem</span>
+                                <span>4427</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. component</span>
+                                <span>4167</span>
+                            </div>
+                        
+                    </div>
+                
+                    <div class="domain-card">
+                        <h4>artificial Intelligence</h4>
+                        
+                            <div class="word-item">
+                                <span>1. ai</span>
+                                <span>40043</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. genai</span>
+                                <span>16603</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. models</span>
+                                <span>8744</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. learning</span>
+                                <span>6964</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. training</span>
+                                <span>6152</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. model</span>
+                                <span>5731</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. maintaining</span>
+                                <span>5466</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. sustainable</span>
+                                <span>4954</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. chain</span>
+                                <span>4504</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. algorithms</span>
+                                <span>2998</span>
+                            </div>
+                        
+                    </div>
+                
+                    <div class="domain-card">
+                        <h4>strategy</h4>
+                        
+                            <div class="word-item">
+                                <span>1. strategic</span>
+                                <span>19252</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. value</span>
+                                <span>11419</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. innovation</span>
+                                <span>9527</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. strategy</span>
+                                <span>6516</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. governance</span>
+                                <span>4935</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. competitive</span>
+                                <span>4858</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. metrics</span>
+                                <span>4232</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. transformation</span>
+                                <span>4119</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. objectives</span>
+                                <span>3193</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. goals</span>
+                                <span>2815</span>
+                            </div>
+                        
+                    </div>
+                
+                    <div class="domain-card">
+                        <h4>technology</h4>
+                        
+                            <div class="word-item">
+                                <span>1. systems</span>
+                                <span>18445</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. security</span>
+                                <span>10934</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. technology</span>
+                                <span>7280</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. infrastructure</span>
+                                <span>7098</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. digital</span>
+                                <span>6790</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. system</span>
+                                <span>6196</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. frameworks</span>
+                                <span>6139</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. framework</span>
+                                <span>5986</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. ecosystem</span>
+                                <span>4427</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. deployment</span>
+                                <span>3793</span>
+                            </div>
+                        
+                    </div>
+                
+                    <div class="domain-card">
+                        <h4>business</h4>
+                        
+                            <div class="word-item">
+                                <span>1. market</span>
+                                <span>5966</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. user</span>
+                                <span>5641</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. business</span>
+                                <span>5525</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. collaboration</span>
+                                <span>4516</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. chain</span>
+                                <span>4504</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. stakeholders</span>
+                                <span>3860</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. costs</span>
+                                <span>3613</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. operations</span>
+                                <span>3506</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. investment</span>
+                                <span>2974</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. cost</span>
+                                <span>2907</span>
+                            </div>
+                        
+                    </div>
+                
+                    <div class="domain-card">
+                        <h4>government</h4>
+                        
+                            <div class="word-item">
+                                <span>1. government</span>
+                                <span>13590</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>2. public</span>
+                                <span>12268</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>3. sector</span>
+                                <span>8424</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>4. services</span>
+                                <span>6888</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>5. digital</span>
+                                <span>6790</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>6. efficiency</span>
+                                <span>5379</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>7. service</span>
+                                <span>5098</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>8. governance</span>
+                                <span>4935</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>9. compliance</span>
+                                <span>4913</span>
+                            </div>
+                        
+                            <div class="word-item">
+                                <span>10. transformation</span>
+                                <span>4119</span>
+                            </div>
+                        
+                    </div>
+                
+            </div>
+        </section>
+
+        <section id="books">
+            <h2>📚 Top Books</h2>
+            
+            <h3>Largest Books by Word Count</h3>
+            <div class="top-books">
+                
+                    <div class="book-card">
+                        <div class="book-title">1. Strategic AI Advantage  A Comprehensive Framework cde800e0-3f4d-47</div>
+                        <div class="book-stats">
+                            <span>Words: 139,440</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 5,563</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">2. Charting the AI Current  A Strategic Blueprint for eee71c96-ce56-45</div>
+                        <div class="book-stats">
+                            <span>Words: 112,088</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 7,794</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">3. Cost-Effective Migration  Transitioning Applicatio 366f9974</div>
+                        <div class="book-stats">
+                            <span>Words: 63,100</span>
+                            <span>Category: Other</span>
+                            <span>Unique: 5,360</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">4. Mastering Wardley Mapping  An Expert s Guide to St</div>
+                        <div class="book-stats">
+                            <span>Words: 59,133</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 4,333</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">5. SpimeScript  Beyond AI  Towards the Malleable Future c76174cb</div>
+                        <div class="book-stats">
+                            <span>Words: 58,331</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 6,684</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">6. Wardley Mapping for Startups  Navigating Uncertainty and Driving Innovation 5c03d220-6cf2-41</div>
+                        <div class="book-stats">
+                            <span>Words: 46,233</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 4,062</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">7. From Lotus to AI  Modernising Legacy Systems for the Generative AI Era 88200f01-7a30-42</div>
+                        <div class="book-stats">
+                            <span>Words: 45,943</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 4,572</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">8. Wardley Mapping  Strategy in a Landscape of Consta b532244c</div>
+                        <div class="book-stats">
+                            <span>Words: 45,925</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 4,671</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">9. Wardley Mapping  Mastering Strategy Through Landsc 1ad8b99f</div>
+                        <div class="book-stats">
+                            <span>Words: 44,605</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 4,647</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">10. The Algorithmic Consumer  How AI Agents are Rewrit 08335ae6</div>
+                        <div class="book-stats">
+                            <span>Words: 42,979</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 4,348</span>
+                        </div>
+                    </div>
+                
+            </div>
+
+            <h3>Most Vocabulary-Rich Books</h3>
+            <div class="top-books">
+                
+                    <div class="book-card">
+                        <div class="book-title">1. AI Supremacy  The Battle Between OpenAI  Anthropic 8cd4825c</div>
+                        <div class="book-stats">
+                            <span>Richness: 48.00%</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 696</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">2. Are the GenAI Agents Taking Over  Navigating the F 987fcdf5</div>
+                        <div class="book-stats">
+                            <span>Richness: 42.16%</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 1,113</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">3. The Pirate Wars  Wardley Maps in 2087 dbe88dd9-b867-4521-8f68-18748f19bf4c</div>
+                        <div class="book-stats">
+                            <span>Richness: 41.78%</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 1,080</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">4. Mastering Modern Bid and Tender Consultancy  A Digital-Era Guide to Strategic Supply Market Management cc0fb778</div>
+                        <div class="book-stats">
+                            <span>Richness: 38.27%</span>
+                            <span>Category: Technology</span>
+                            <span>Unique: 982</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">5. Chronos Resistance 61fc8b58-bd77-4973-b45e-a97d2cc6d84a</div>
+                        <div class="book-stats">
+                            <span>Richness: 37.16%</span>
+                            <span>Category: Other</span>
+                            <span>Unique: 2,558</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">6. Oceans of Change  Advancing SDG 14 Through Science  Innovation  and Community Action 8eea52bb-8996-4ffa-9956-f609622bd264</div>
+                        <div class="book-stats">
+                            <span>Richness: 34.97%</span>
+                            <span>Category: Data Science</span>
+                            <span>Unique: 1,557</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">7. The Rebellion Resurgence 02180336-6d26-4ffb-842a-fdf7fdddca58</div>
+                        <div class="book-stats">
+                            <span>Richness: 34.92%</span>
+                            <span>Category: Other</span>
+                            <span>Unique: 2,597</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">8. The Wardley Map e1797f31-2e24-4a9a-9387-f1b8c291c2a9</div>
+                        <div class="book-stats">
+                            <span>Richness: 34.54%</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 2,411</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">9. Transforming Government Through AI  A Strategic Ac 815b907d</div>
+                        <div class="book-stats">
+                            <span>Richness: 33.13%</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Unique: 1,309</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">10. The Wardley Maps  Pirates of the Stars 706c795b-b0f8-4064-8c80-67b19be2b053</div>
+                        <div class="book-stats">
+                            <span>Richness: 31.39%</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Unique: 1,194</span>
+                        </div>
+                    </div>
+                
+            </div>
+
+            <h3>Most Readable Books</h3>
+            <div class="top-books">
+                
+                    <div class="book-card">
+                        <div class="book-title">1. Once Upon a Map  A Child s Guide to Wardley Mapping Through Fairy Tales d1b4d1dd-889d-4b</div>
+                        <div class="book-stats">
+                            <span>Readability: 58.6</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Words: 5,718</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">2. The Pirate Wars  Wardley Maps in 2087 dbe88dd9-b867-4521-8f68-18748f19bf4c</div>
+                        <div class="book-stats">
+                            <span>Readability: 51.3</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Words: 2,585</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">3. The Wardley Maps  Pirates of the Stars 706c795b-b0f8-4064-8c80-67b19be2b053</div>
+                        <div class="book-stats">
+                            <span>Readability: 49.2</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Words: 3,804</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">4. Chronos Resistance 61fc8b58-bd77-4973-b45e-a97d2cc6d84a</div>
+                        <div class="book-stats">
+                            <span>Readability: 47.3</span>
+                            <span>Category: Other</span>
+                            <span>Words: 6,883</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">5. The Rebellion Resurgence 02180336-6d26-4ffb-842a-fdf7fdddca58</div>
+                        <div class="book-stats">
+                            <span>Readability: 46.3</span>
+                            <span>Category: Other</span>
+                            <span>Words: 7,437</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">6. The Wardley Map e1797f31-2e24-4a9a-9387-f1b8c291c2a9</div>
+                        <div class="book-stats">
+                            <span>Readability: 45.7</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Words: 6,980</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">7. Chronicles of 2064  Echoes of the Guardians 00ae8f95-797c-4d70-bc38-00ebbec615e7</div>
+                        <div class="book-stats">
+                            <span>Readability: 43.9</span>
+                            <span>Category: Other</span>
+                            <span>Words: 14,057</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">8. Data-Driven Open Source AI  The Imperative for Inclusive Definitions and Practices 190bb682-78fb-43</div>
+                        <div class="book-stats">
+                            <span>Readability: 39.8</span>
+                            <span>Category: Artificial Intelligence</span>
+                            <span>Words: 19,679</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">9. Mapping the ILC Lifecycle  A Beginner s Guide to Wardley Mapping 199fb93c-e40a</div>
+                        <div class="book-stats">
+                            <span>Readability: 39.5</span>
+                            <span>Category: Strategic Mapping</span>
+                            <span>Words: 9,935</span>
+                        </div>
+                    </div>
+                
+                    <div class="book-card">
+                        <div class="book-title">10. Starship vs Blue Origin  The New Space Race and th 8f339d59</div>
+                        <div class="book-stats">
+                            <span>Readability: 39.2</span>
+                            <span>Category: Other</span>
+                            <span>Words: 11,664</span>
+                        </div>
+                    </div>
+                
+            </div>
+        </section>
+
+        <div class="timestamp">
+            Report generated on 7/11/2025, 2:19:15 PM
+        </div>
+    </div>
+</body>
+</html>
+        

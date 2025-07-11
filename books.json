@@ -1,7 +1,7 @@
 {
-  "generated": "2025-07-07T15:12:09.964Z",
+  "generated": "2025-07-11T13:53:55.834Z",
   "version": "1.0.0",
-  "totalBooks": 183,
+  "totalBooks": 184,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -1094,6 +1094,23 @@
       ],
       "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
       "path": "/workspaces/GenAI-Books/books/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
+    },
+    {
+      "id": "mastering-wardley-mapping-an-expert-s-guide-to-st",
+      "title": "Mastering Wardley Mapping: An Expert's Guide to Strategy, Evolution, and Competitive Survival",
+      "category": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "categories": [
+        "Strategic Mapping",
+        "Business Strategy"
+      ],
+      "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
+      "path": "/workspaces/GenAI-Books/books/Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St/full_book.md",
       "additionalFiles": [
         "markdown/"
       ]

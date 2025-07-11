@@ -1,0 +1,142 @@
+{
+  "bookId": "the-ai-superpower-showdown-inside-the-us-china-ra-78bf7278",
+  "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
+  "title": "The AI Superpower Showdown Inside The US-China Ra 78bf7278",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:10:01.572Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 12156,
+    "estimatedReadingTime": 61
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 29.998536397721637,
+    "smogIndex": 22.47673911107852,
+    "ariIndex": 27.587693366516973,
+    "cliIndex": 0,
+    "avgSentenceLength": 21.401408450704224,
+    "avgSyllablesPerWord": 2.737331358999671,
+    "complexWordRatio": 0.5359493254359987
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 568,
+    "avgWordsPerSentence": 32.403169014084504,
+    "avgSyllablesPerWord": 2.249769084487911,
+    "longSentences": 269,
+    "shortSentences": 8,
+    "complexWords": 6922,
+    "passiveVoice": 38,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 193,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (47.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12156,
+    "uniqueWords": 2478,
+    "vocabularyRichness": 0.20384995064165845,
+    "rareWords": 555,
+    "technicalTerms": 3356,
+    "jargonWords": 14,
+    "avgWordLength": 8.135241855873643,
+    "complexityScore": 0.32288581770319186
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 592,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 84,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 444,
+    "avgParagraphLength": 40.833333333333336,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 32.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 21.401408450704224,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32288581770319186,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

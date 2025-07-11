@@ -1,0 +1,128 @@
+{
+  "bookId": "ace-your-foundation-in-wardley-mapping-exam-a-com-e3a63103",
+  "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
+  "title": "Ace Your Foundation In Wardley Mapping Exam A Com E3a63103",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:50.379Z",
+  "summary": {
+    "overallScore": 24,
+    "readabilityGrade": "Poor",
+    "wordCount": 21565,
+    "estimatedReadingTime": 108
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 23.137789851348476,
+    "smogIndex": 16.149061502270985,
+    "ariIndex": 20.00633005705599,
+    "cliIndex": 0,
+    "avgSentenceLength": 11.1159793814433,
+    "avgSyllablesPerWord": 2.515557616508231,
+    "complexWordRatio": 0.4672849524692789
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1940,
+    "avgWordsPerSentence": 18.63917525773196,
+    "avgSyllablesPerWord": 1.9857853982300886,
+    "longSentences": 291,
+    "shortSentences": 83,
+    "complexWords": 10633,
+    "passiveVoice": 250,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 549,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 21565,
+    "uniqueWords": 2741,
+    "vocabularyRichness": 0.12710410387201485,
+    "rareWords": 470,
+    "technicalTerms": 4318,
+    "jargonWords": 452,
+    "avgWordLength": 7.617482031068862,
+    "complexityScore": 0.2429863204266172
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 558,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 46,
+    "links": 80,
+    "emphasis": 162,
+    "paragraphs": 608,
+    "avgParagraphLength": 58.65625,
+    "tableOfContents": true,
+    "summaries": 6,
+    "examples": 65,
+    "definitions": 11
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 24.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 11.1159793814433,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2429863204266172,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

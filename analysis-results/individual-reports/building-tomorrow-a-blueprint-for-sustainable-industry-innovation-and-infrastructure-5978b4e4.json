@@ -1,0 +1,142 @@
+{
+  "bookId": "building-tomorrow-a-blueprint-for-sustainable-industry-innovation-and-infrastructure-5978b4e4",
+  "directory": "Building_Tomorrow__A_Blueprint_for_Sustainable_Industry__Innovation__and_Infrastructure_5978b4e4",
+  "title": "Building Tomorrow A Blueprint For Sustainable Industry Innovation And Infrastructure 5978b4e4",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:51.028Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 11874,
+    "estimatedReadingTime": 60
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 32.650086044219265,
+    "smogIndex": 24.048073260293517,
+    "ariIndex": 30.31217215018733,
+    "cliIndex": 0,
+    "avgSentenceLength": 22.790786948176585,
+    "avgSyllablesPerWord": 2.8460501937005223,
+    "complexWordRatio": 0.5883442816237157
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 521,
+    "avgWordsPerSentence": 33.339731285988485,
+    "avgSyllablesPerWord": 2.368566493955095,
+    "longSentences": 249,
+    "shortSentences": 6,
+    "complexWords": 7377,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 190,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.3 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (47.8%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11874,
+    "uniqueWords": 2370,
+    "vocabularyRichness": 0.1995957554320364,
+    "rareWords": 566,
+    "technicalTerms": 3512,
+    "jargonWords": 48,
+    "avgWordLength": 8.566195048004042,
+    "complexityScore": 0.34748189321205997
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 582,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 67,
+    "links": 62,
+    "emphasis": 15,
+    "paragraphs": 453,
+    "avgParagraphLength": 37.88962472406181,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 9,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.3 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 22.790786948176585,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34748189321205997,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

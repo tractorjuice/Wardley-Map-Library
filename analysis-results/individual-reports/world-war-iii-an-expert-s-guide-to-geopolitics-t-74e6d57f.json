@@ -1,0 +1,141 @@
+{
+  "bookId": "world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f",
+  "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
+  "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:10:05.140Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 31254,
+    "estimatedReadingTime": 157
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 25.85108941186833,
+    "smogIndex": 17.940857897894634,
+    "ariIndex": 22.679270352536186,
+    "cliIndex": 0,
+    "avgSentenceLength": 13.027928303459776,
+    "avgSyllablesPerWord": 2.6624432072694697,
+    "complexWordRatio": 0.5159979522621104
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2399,
+    "avgWordsPerSentence": 20.589412255106293,
+    "avgSyllablesPerWord": 2.1233348179940883,
+    "longSentences": 495,
+    "shortSentences": 36,
+    "complexWords": 16768,
+    "passiveVoice": 277,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 428,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 31254,
+    "uniqueWords": 4256,
+    "vocabularyRichness": 0.13617456965508415,
+    "rareWords": 870,
+    "technicalTerms": 6760,
+    "jargonWords": 89,
+    "avgWordLength": 7.982018301657388,
+    "complexityScore": 0.24697638702246114
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 767,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 45,
+    "links": 92,
+    "emphasis": 44,
+    "paragraphs": 704,
+    "avgParagraphLength": 69.50142045454545,
+    "tableOfContents": true,
+    "summaries": 57,
+    "examples": 34,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 20.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 24.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 13.027928303459776,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24697638702246114,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

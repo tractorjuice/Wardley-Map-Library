@@ -1,0 +1,140 @@
+{
+  "bookId": "chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
+  "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
+  "title": "Chronos Resistance 61fc8b58-Bd77-4973-B45e-A97d2cc6d84a",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:51.664Z",
+  "summary": {
+    "overallScore": 28.438685408756136,
+    "readabilityGrade": "Poor",
+    "wordCount": 6883,
+    "estimatedReadingTime": 35
+  },
+  "readabilityMetrics": {
+    "fleschScore": 11.096713521890337,
+    "fleschGrade": "Graduate",
+    "fogIndex": 18.449025239099335,
+    "smogIndex": 14.811606045943801,
+    "ariIndex": 16.781519817071178,
+    "cliIndex": 0,
+    "avgSentenceLength": 12.401801801801803,
+    "avgSyllablesPerWord": 2.164899026587244,
+    "complexWordRatio": 0.33720761295946533
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 555,
+    "avgWordsPerSentence": 23.111711711711713,
+    "avgSyllablesPerWord": 1.7052311530365636,
+    "longSentences": 165,
+    "shortSentences": 12,
+    "complexWords": 2629,
+    "passiveVoice": 96,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 184,
+    "readabilityIssues": [
+      "Sentences too long (avg: 23.1 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 6883,
+    "uniqueWords": 2558,
+    "vocabularyRichness": 0.37164027313671366,
+    "rareWords": 543,
+    "technicalTerms": 603,
+    "jargonWords": 16,
+    "avgWordLength": 6.7963097486561095,
+    "complexityScore": 0.1688217347087026
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 111,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 236,
+    "avgParagraphLength": 53.74576271186441,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 23.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 16.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 11.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 28.438685408756136,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 80
+    },
+    "fleschScore": {
+      "bookScore": 11.096713521890337,
+      "libraryAverage": 0.5,
+      "comparison": "Above Average"
+    },
+    "sentenceLength": {
+      "bookScore": 12.401801801801803,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.1688217347087026,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc",
+  "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
+  "title": "Silent Warfare Russia S Strategic Targeting Of Gl 64e36abc",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:59.165Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 11883,
+    "estimatedReadingTime": 60
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 30.66823212068302,
+    "smogIndex": 23.11903904958459,
+    "ariIndex": 29.03190380060552,
+    "cliIndex": 0,
+    "avgSentenceLength": 22.677480916030536,
+    "avgSyllablesPerWord": 2.774972650004208,
+    "complexWordRatio": 0.5399309938567701
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 524,
+    "avgWordsPerSentence": 33.36832061068702,
+    "avgSyllablesPerWord": 2.3257077494995713,
+    "longSentences": 253,
+    "shortSentences": 7,
+    "complexWords": 6841,
+    "passiveVoice": 64,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 185,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11883,
+    "uniqueWords": 2498,
+    "vocabularyRichness": 0.21021627535134224,
+    "rareWords": 557,
+    "technicalTerms": 2907,
+    "jargonWords": 12,
+    "avgWordLength": 8.30640410670706,
+    "complexityScore": 0.2925187242278886
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 576,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 84,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 434,
+    "avgParagraphLength": 39.64055299539171,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 29.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 22.677480916030536,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2925187242278886,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

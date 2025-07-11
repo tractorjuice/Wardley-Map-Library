@@ -1,0 +1,142 @@
+{
+  "bookId": "open-source-advantage-transforming-business-compe-3bca9762",
+  "directory": "Open_Source_Advantage__Transforming_Business_Compe_3bca9762",
+  "title": "Open Source Advantage Transforming Business Compe 3bca9762",
+  "category": "Business Strategy",
+  "generatedAt": "2025-07-11T15:09:57.806Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 11406,
+    "estimatedReadingTime": 58
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 31.3719653696508,
+    "smogIndex": 23.70692591724037,
+    "ariIndex": 29.042272160073317,
+    "cliIndex": 0,
+    "avgSentenceLength": 23.713097713097714,
+    "avgSyllablesPerWord": 2.7408381553568297,
+    "complexWordRatio": 0.5471681571102929
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 481,
+    "avgWordsPerSentence": 34.933471933471935,
+    "avgSyllablesPerWord": 2.3002440040468963,
+    "longSentences": 217,
+    "shortSentences": 6,
+    "complexWords": 6651,
+    "passiveVoice": 22,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 196,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.9 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (45.1%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11406,
+    "uniqueWords": 2142,
+    "vocabularyRichness": 0.18779589689637033,
+    "rareWords": 484,
+    "technicalTerms": 3223,
+    "jargonWords": 34,
+    "avgWordLength": 8.198667368051902,
+    "complexityScore": 0.32798527091004737
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 630,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 72,
+    "links": 66,
+    "emphasis": 15,
+    "paragraphs": 426,
+    "avgParagraphLength": 38.84507042253521,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 32.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 23.713097713097714,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32798527091004737,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "digital-titans-the-epic-battle-between-apple-mic-c2b141ff",
+  "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
+  "title": "Digital Titans The Epic Battle Between Apple Mic C2b141ff",
+  "category": "Technology",
+  "generatedAt": "2025-07-11T15:09:52.892Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9956,
+    "estimatedReadingTime": 50
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 28.913944031563144,
+    "smogIndex": 21.831320171719305,
+    "ariIndex": 26.612660051506964,
+    "cliIndex": 0,
+    "avgSentenceLength": 20.828451882845187,
+    "avgSyllablesPerWord": 2.6362997187625554,
+    "complexWordRatio": 0.5145640819606268
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 478,
+    "avgWordsPerSentence": 32.02719665271967,
+    "avgSyllablesPerWord": 2.181135279900712,
+    "longSentences": 232,
+    "shortSentences": 6,
+    "complexWords": 5538,
+    "passiveVoice": 37,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 142,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.0 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (48.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9956,
+    "uniqueWords": 2311,
+    "vocabularyRichness": 0.2321213338690237,
+    "rareWords": 536,
+    "technicalTerms": 2248,
+    "jargonWords": 22,
+    "avgWordLength": 7.989051828043391,
+    "complexityScore": 0.2818400964242668
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 445,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 59,
+    "emphasis": 15,
+    "paragraphs": 375,
+    "avgParagraphLength": 39.63466666666667,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 5,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 28.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 20.828451882845187,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2818400964242668,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

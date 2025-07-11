@@ -1,0 +1,129 @@
+{
+  "bookId": "mastering-wardley-mapping-for-project-success-a-strategic-guide-for-project-managers-35056a3c-4f4f-49",
+  "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
+  "title": "Mastering Wardley Mapping For Project Success A Strategic Guide For Project Managers 35056a3c-4f4f-49",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:57.063Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 7529,
+    "estimatedReadingTime": 38
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 21.2826338825438,
+    "smogIndex": 16.0476295908357,
+    "ariIndex": 19.92897039807282,
+    "cliIndex": 0,
+    "avgSentenceLength": 12.590301003344482,
+    "avgSyllablesPerWord": 2.407623854429539,
+    "complexWordRatio": 0.4061628370301501
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 598,
+    "avgWordsPerSentence": 27.005016722408026,
+    "avgSyllablesPerWord": 2.1283670815530376,
+    "longSentences": 195,
+    "shortSentences": 10,
+    "complexWords": 4815,
+    "passiveVoice": 115,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 173,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7529,
+    "uniqueWords": 1516,
+    "vocabularyRichness": 0.20135476158852436,
+    "rareWords": 307,
+    "technicalTerms": 1370,
+    "jargonWords": 352,
+    "avgWordLength": 7.444547748705007,
+    "complexityScore": 0.26949130030548546
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 19,
+    "bulletPoints": 427,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 168,
+    "links": 185,
+    "emphasis": 15,
+    "paragraphs": 525,
+    "avgParagraphLength": 29.961904761904762,
+    "tableOfContents": true,
+    "summaries": 3,
+    "examples": 8,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 26.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 12.590301003344482,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.26949130030548546,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

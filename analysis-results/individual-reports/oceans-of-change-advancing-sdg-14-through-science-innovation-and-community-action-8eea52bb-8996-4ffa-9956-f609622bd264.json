@@ -1,0 +1,130 @@
+{
+  "bookId": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
+  "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
+  "title": "Oceans Of Change Advancing SDG 14 Through Science Innovation And Community Action 8eea52bb-8996-4ffa-9956-F609622bd264",
+  "category": "Data Science",
+  "generatedAt": "2025-07-11T15:09:57.577Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 4453,
+    "estimatedReadingTime": 23
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 23.581852644311528,
+    "smogIndex": 14.076868442165509,
+    "ariIndex": 20.007634691533582,
+    "cliIndex": 0,
+    "avgSentenceLength": 7.079491255961845,
+    "avgSyllablesPerWord": 2.6923422411857176,
+    "complexWordRatio": 0.5187514035481697
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 629,
+    "avgWordsPerSentence": 30.596184419713833,
+    "avgSyllablesPerWord": 2.293063133281372,
+    "longSentences": 280,
+    "shortSentences": 9,
+    "complexWords": 7375,
+    "passiveVoice": 49,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 176,
+    "readabilityIssues": [
+      "Sentences too long (avg: 30.6 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (44.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 4453,
+    "uniqueWords": 1557,
+    "vocabularyRichness": 0.3496519200538962,
+    "rareWords": 428,
+    "technicalTerms": 1056,
+    "jargonWords": 33,
+    "avgWordLength": 8.046260947675725,
+    "complexityScore": 0.3406692117673479
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 639,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 80,
+    "links": 147,
+    "emphasis": 15,
+    "paragraphs": 506,
+    "avgParagraphLength": 37.39525691699605,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 11,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 30.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 7.079491255961845,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3406692117673479,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

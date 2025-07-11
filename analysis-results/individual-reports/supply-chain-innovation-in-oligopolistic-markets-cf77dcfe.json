@@ -1,0 +1,142 @@
+{
+  "bookId": "supply-chain-innovation-in-oligopolistic-markets-cf77dcfe",
+  "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
+  "title": "Supply Chain Innovation In Oligopolistic Markets Cf77dcfe",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:10:00.874Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9542,
+    "estimatedReadingTime": 48
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 30.79922699233706,
+    "smogIndex": 23.343491365165033,
+    "ariIndex": 29.66684866391745,
+    "cliIndex": 0,
+    "avgSentenceLength": 23.330073349633253,
+    "avgSyllablesPerWord": 2.8064347097044644,
+    "complexWordRatio": 0.536679941312094
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 409,
+    "avgWordsPerSentence": 34.76772616136919,
+    "avgSyllablesPerWord": 2.3458509142053448,
+    "longSentences": 198,
+    "shortSentences": 7,
+    "complexWords": 5485,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 197,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9542,
+    "uniqueWords": 2033,
+    "vocabularyRichness": 0.21305805910710543,
+    "rareWords": 479,
+    "technicalTerms": 2856,
+    "jargonWords": 16,
+    "avgWordLength": 8.371934604904633,
+    "complexityScore": 0.35118423810521904
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 509,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 61,
+    "links": 57,
+    "emphasis": 17,
+    "paragraphs": 353,
+    "avgParagraphLength": 39.77053824362606,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 35.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 23.330073349633253,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.35118423810521904,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

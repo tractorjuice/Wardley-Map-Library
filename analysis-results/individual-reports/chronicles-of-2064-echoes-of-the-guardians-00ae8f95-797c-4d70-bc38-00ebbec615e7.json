@@ -1,0 +1,128 @@
+{
+  "bookId": "chronicles-of-2064-echoes-of-the-guardians-00ae8f95-797c-4d70-bc38-00ebbec615e7",
+  "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
+  "title": "Chronicles Of 2064 Echoes Of The Guardians 00ae8f95-797c-4d70-Bc38-00ebbec615e7",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:51.639Z",
+  "summary": {
+    "overallScore": 24.339401106419665,
+    "readabilityGrade": "Poor",
+    "wordCount": 14057,
+    "estimatedReadingTime": 71
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0.8485027660491653,
+    "fleschGrade": "Graduate",
+    "fogIndex": 20.37433073486231,
+    "smogIndex": 16.192701761915234,
+    "ariIndex": 19.19803293198757,
+    "cliIndex": 0,
+    "avgSentenceLength": 14.25659229208925,
+    "avgSyllablesPerWord": 2.2637831685281355,
+    "complexWordRatio": 0.36679234545066514
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 986,
+    "avgWordsPerSentence": 24.440162271805274,
+    "avgSyllablesPerWord": 1.7877002240849864,
+    "longSentences": 377,
+    "shortSentences": 5,
+    "complexWords": 5517,
+    "passiveVoice": 193,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 284,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.4 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 14057,
+    "uniqueWords": 2433,
+    "vocabularyRichness": 0.17308102724621185,
+    "rareWords": 89,
+    "technicalTerms": 1409,
+    "jargonWords": 12,
+    "avgWordLength": 7.112470655189585,
+    "complexityScore": 0.10741979085153304
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 111,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 394,
+    "avgParagraphLength": 60.121827411167516,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24.339401106419665,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0.8485027660491653,
+      "libraryAverage": 0.5,
+      "comparison": "Above Average"
+    },
+    "sentenceLength": {
+      "bookScore": 14.25659229208925,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.10741979085153304,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

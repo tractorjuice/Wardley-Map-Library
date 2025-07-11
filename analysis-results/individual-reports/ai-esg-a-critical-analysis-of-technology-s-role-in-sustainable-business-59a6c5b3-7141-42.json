@@ -1,0 +1,142 @@
+{
+  "bookId": "ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42",
+  "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
+  "title": "AI ESG A Critical Analysis Of Technology S Role In Sustainable Business 59a6c5b3-7141-42",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:50.165Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 11954,
+    "estimatedReadingTime": 60
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 29.449670102915878,
+    "smogIndex": 21.582503947771137,
+    "ariIndex": 26.685892212884433,
+    "cliIndex": 0,
+    "avgSentenceLength": 19.15705128205128,
+    "avgSyllablesPerWord": 2.753387987284591,
+    "complexWordRatio": 0.5446712397523842
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 624,
+    "avgWordsPerSentence": 31.40705128205128,
+    "avgSyllablesPerWord": 2.287172160424533,
+    "longSentences": 258,
+    "shortSentences": 5,
+    "complexWords": 7524,
+    "passiveVoice": 51,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 235,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (41.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11954,
+    "uniqueWords": 2135,
+    "vocabularyRichness": 0.17860130500250962,
+    "rareWords": 473,
+    "technicalTerms": 3561,
+    "jargonWords": 127,
+    "avgWordLength": 8.182031119290613,
+    "complexityScore": 0.34808432323908317
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 14,
+    "bulletPoints": 554,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 173,
+    "links": 165,
+    "emphasis": 49,
+    "paragraphs": 591,
+    "avgParagraphLength": 32.53130287648054,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 7,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 19.15705128205128,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34808432323908317,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

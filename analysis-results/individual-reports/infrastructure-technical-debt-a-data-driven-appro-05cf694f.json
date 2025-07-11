@@ -1,0 +1,142 @@
+{
+  "bookId": "infrastructure-technical-debt-a-data-driven-appro-05cf694f",
+  "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
+  "title": "Infrastructure Technical Debt A Data-Driven Appro 05cf694f",
+  "category": "Data Science",
+  "generatedAt": "2025-07-11T15:09:55.248Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 10071,
+    "estimatedReadingTime": 51
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 32.410287056240314,
+    "smogIndex": 24.199589902158923,
+    "ariIndex": 30.24663798820825,
+    "cliIndex": 0,
+    "avgSentenceLength": 23.75235849056604,
+    "avgSyllablesPerWord": 2.8182901400059577,
+    "complexWordRatio": 0.5727335915003475
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 424,
+    "avgWordsPerSentence": 34.740566037735846,
+    "avgSyllablesPerWord": 2.3670061099796333,
+    "longSentences": 205,
+    "shortSentences": 5,
+    "complexWords": 6155,
+    "passiveVoice": 27,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 163,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.7 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (48.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10071,
+    "uniqueWords": 2075,
+    "vocabularyRichness": 0.2060371363320425,
+    "rareWords": 488,
+    "technicalTerms": 2882,
+    "jargonWords": 31,
+    "avgWordLength": 8.450203554761195,
+    "complexityScore": 0.33770231357362723
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 547,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 66,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 375,
+    "avgParagraphLength": 38.754666666666665,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 11,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 33.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 23.75235849056604,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.33770231357362723,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

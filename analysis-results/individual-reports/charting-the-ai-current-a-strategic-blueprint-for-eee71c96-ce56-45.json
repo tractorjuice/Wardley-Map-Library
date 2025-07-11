@@ -1,0 +1,141 @@
+{
+  "bookId": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
+  "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
+  "title": "Charting The AI Current A Strategic Blueprint For Eee71c96-Ce56-45",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:51.588Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 112088,
+    "estimatedReadingTime": 561
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 26.1323743278639,
+    "smogIndex": 19.19382159110139,
+    "ariIndex": 22.67252379449193,
+    "cliIndex": 0,
+    "avgSentenceLength": 16.04466075007157,
+    "avgSyllablesPerWord": 2.605238740989223,
+    "complexWordRatio": 0.4928627506958818
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 6986,
+    "avgWordsPerSentence": 24.443744632121387,
+    "avgSyllablesPerWord": 2.150904171839498,
+    "longSentences": 2783,
+    "shortSentences": 228,
+    "complexWords": 57011,
+    "passiveVoice": 994,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1825,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 112088,
+    "uniqueWords": 7794,
+    "vocabularyRichness": 0.0695346513453715,
+    "rareWords": 1470,
+    "technicalTerms": 24204,
+    "jargonWords": 2009,
+    "avgWordLength": 7.660338305617016,
+    "complexityScore": 0.24697559060737992
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 2641,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 111,
+    "links": 376,
+    "emphasis": 2309,
+    "paragraphs": 1930,
+    "avgParagraphLength": 87.4580310880829,
+    "tableOfContents": true,
+    "summaries": 79,
+    "examples": 191,
+    "definitions": 10
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 24.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 16.04466075007157,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24697559060737992,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

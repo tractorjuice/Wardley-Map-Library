@@ -1,0 +1,141 @@
+{
+  "bookId": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
+  "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
+  "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:50.082Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 25438,
+    "estimatedReadingTime": 128
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 27.64703068707691,
+    "smogIndex": 20.647185449779283,
+    "ariIndex": 25.147673884437772,
+    "cliIndex": 0,
+    "avgSentenceLength": 18.62225475841874,
+    "avgSyllablesPerWord": 2.6578740467017847,
+    "complexWordRatio": 0.5049532195927353
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1366,
+    "avgWordsPerSentence": 28.61493411420205,
+    "avgSyllablesPerWord": 2.156441874744167,
+    "longSentences": 539,
+    "shortSentences": 10,
+    "complexWords": 13400,
+    "passiveVoice": 193,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 443,
+    "readabilityIssues": [
+      "Sentences too long (avg: 28.6 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 25438,
+    "uniqueWords": 3522,
+    "vocabularyRichness": 0.13845428099693372,
+    "rareWords": 759,
+    "technicalTerms": 6066,
+    "jargonWords": 83,
+    "avgWordLength": 7.91221794166208,
+    "complexityScore": 0.27156222973504207
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 17,
+    "bulletPoints": 797,
+    "numberedLists": 52,
+    "codeBlocks": 0,
+    "quotes": 36,
+    "links": 74,
+    "emphasis": 15,
+    "paragraphs": 946,
+    "avgParagraphLength": 40.92811839323467,
+    "tableOfContents": true,
+    "summaries": 34,
+    "examples": 38,
+    "definitions": 8
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 28.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 27.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 18.62225475841874,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.27156222973504207,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

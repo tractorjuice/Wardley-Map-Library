@@ -1,0 +1,141 @@
+{
+  "bookId": "building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f",
+  "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
+  "title": "Building IP Futures The LEGO Wardley Mapping Manual For Intellectual Property Horizons 5ccc5f17-F453-4f",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:50.985Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 21530,
+    "estimatedReadingTime": 108
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.171841250364324,
+    "smogIndex": 18.180057006288923,
+    "ariIndex": 21.44574489783696,
+    "cliIndex": 0,
+    "avgSentenceLength": 15.422636103151863,
+    "avgSyllablesPerWord": 2.4982814677194614,
+    "complexWordRatio": 0.4500696702275894
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1396,
+    "avgWordsPerSentence": 26.914756446991404,
+    "avgSyllablesPerWord": 2.0790195086897505,
+    "longSentences": 523,
+    "shortSentences": 14,
+    "complexWords": 11679,
+    "passiveVoice": 221,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 417,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.9 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 21530,
+    "uniqueWords": 2721,
+    "vocabularyRichness": 0.12638179284718998,
+    "rareWords": 542,
+    "technicalTerms": 4537,
+    "jargonWords": 468,
+    "avgWordLength": 7.465908035299582,
+    "complexityScore": 0.2576405016256386
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 23,
+    "bulletPoints": 667,
+    "numberedLists": 51,
+    "codeBlocks": 0,
+    "quotes": 222,
+    "links": 205,
+    "emphasis": 15,
+    "paragraphs": 1057,
+    "avgParagraphLength": 35.01324503311258,
+    "tableOfContents": true,
+    "summaries": 28,
+    "examples": 64,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 15.422636103151863,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2576405016256386,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

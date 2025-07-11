@@ -1,0 +1,141 @@
+{
+  "bookId": "transforming-business-operations-apqc-process-cla-6740a4f7",
+  "directory": "Transforming_Business_Operations__APQC_Process_Cla_6740a4f7",
+  "title": "Transforming Business Operations APQC Process Cla 6740a4f7",
+  "category": "Business Strategy",
+  "generatedAt": "2025-07-11T15:10:02.865Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 13537,
+    "estimatedReadingTime": 68
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 27.42765952859767,
+    "smogIndex": 19.134768876378065,
+    "ariIndex": 23.937168043014204,
+    "cliIndex": 0,
+    "avgSentenceLength": 14.524678111587983,
+    "avgSyllablesPerWord": 2.7487626505134077,
+    "complexWordRatio": 0.5404447070990618
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 932,
+    "avgWordsPerSentence": 22.760729613733904,
+    "avgSyllablesPerWord": 2.2153396502144913,
+    "longSentences": 216,
+    "shortSentences": 7,
+    "complexWords": 7793,
+    "passiveVoice": 153,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 313,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.8 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13537,
+    "uniqueWords": 2162,
+    "vocabularyRichness": 0.15971042328433183,
+    "rareWords": 475,
+    "technicalTerms": 3596,
+    "jargonWords": 296,
+    "avgWordLength": 8.090197237201743,
+    "complexityScore": 0.32259732584767675
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 403,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 38,
+    "links": 70,
+    "emphasis": 15,
+    "paragraphs": 418,
+    "avgParagraphLength": 50.119617224880386,
+    "tableOfContents": true,
+    "summaries": 24,
+    "examples": 56,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 22.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 32.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 14.524678111587983,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32259732584767675,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

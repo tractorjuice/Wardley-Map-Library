@@ -1,0 +1,128 @@
+{
+  "bookId": "data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af",
+  "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
+  "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:52.570Z",
+  "summary": {
+    "overallScore": 24,
+    "readabilityGrade": "Poor",
+    "wordCount": 32386,
+    "estimatedReadingTime": 162
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 23.578006338189603,
+    "smogIndex": 17.129487521942494,
+    "ariIndex": 20.292134304506902,
+    "cliIndex": 0,
+    "avgSentenceLength": 13.101132686084142,
+    "avgSyllablesPerWord": 2.5477057988019514,
+    "complexWordRatio": 0.4584388315938986
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2472,
+    "avgWordsPerSentence": 19.991100323624597,
+    "avgSyllablesPerWord": 2.102594196446639,
+    "longSentences": 452,
+    "shortSentences": 82,
+    "complexWords": 15516,
+    "passiveVoice": 352,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 638,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32386,
+    "uniqueWords": 3702,
+    "vocabularyRichness": 0.11430865188661768,
+    "rareWords": 697,
+    "technicalTerms": 6287,
+    "jargonWords": 170,
+    "avgWordLength": 7.467424195640091,
+    "complexityScore": 0.22089791885382573
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 582,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 59,
+    "links": 100,
+    "emphasis": 112,
+    "paragraphs": 727,
+    "avgParagraphLength": 67.1898211829436,
+    "tableOfContents": true,
+    "summaries": 10,
+    "examples": 46,
+    "definitions": 6
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 22.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 13.101132686084142,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.22089791885382573,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

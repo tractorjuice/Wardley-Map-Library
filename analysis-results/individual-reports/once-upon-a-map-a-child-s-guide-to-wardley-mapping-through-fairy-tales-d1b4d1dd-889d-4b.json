@@ -1,0 +1,116 @@
+{
+  "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
+  "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
+  "title": "Once Upon A Map A Child S Guide To Wardley Mapping Through Fairy Tales D1b4d1dd-889d-4b",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:57.605Z",
+  "summary": {
+    "overallScore": 37.88266758712101,
+    "readabilityGrade": "Below Average",
+    "wordCount": 5718,
+    "estimatedReadingTime": 29
+  },
+  "readabilityMetrics": {
+    "fleschScore": 34.70666896780253,
+    "fleschGrade": "Difficult",
+    "fogIndex": 13.622841486971764,
+    "smogIndex": 12.084365551000104,
+    "ariIndex": 13.103579840526528,
+    "cliIndex": 0,
+    "avgSentenceLength": 10.377495462794919,
+    "avgSyllablesPerWord": 1.9101084295208115,
+    "complexWordRatio": 0.23679608254634488
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 551,
+    "avgWordsPerSentence": 23.976406533575318,
+    "avgSyllablesPerWord": 1.7915373552342744,
+    "longSentences": 144,
+    "shortSentences": 11,
+    "complexWords": 2639,
+    "passiveVoice": 65,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 149,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.0 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 5718,
+    "uniqueWords": 1427,
+    "vocabularyRichness": 0.24956278419027633,
+    "rareWords": 223,
+    "technicalTerms": 528,
+    "jargonWords": 139,
+    "avgWordLength": 6.230325288562434,
+    "complexityScore": 0.15564882826162993
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 20,
+    "bulletPoints": 342,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 132,
+    "links": 160,
+    "emphasis": 15,
+    "paragraphs": 448,
+    "avgParagraphLength": 28.216517857142858,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 9,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 15.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 37.88266758712101,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 95
+    },
+    "fleschScore": {
+      "bookScore": 34.70666896780253,
+      "libraryAverage": 0.5,
+      "comparison": "Above Average"
+    },
+    "sentenceLength": {
+      "bookScore": 10.377495462794919,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.15564882826162993,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "running-to-stand-still-mastering-the-red-queen-ef-17142133",
+  "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
+  "title": "Running To Stand Still Mastering The Red Queen Ef 17142133",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:58.746Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9822,
+    "estimatedReadingTime": 50
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 29.984075927908762,
+    "smogIndex": 22.59646979705129,
+    "ariIndex": 27.631689289849298,
+    "cliIndex": 0,
+    "avgSentenceLength": 21.875278396436524,
+    "avgSyllablesPerWord": 2.742924048055386,
+    "complexWordRatio": 0.5308491142333537
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 449,
+    "avgWordsPerSentence": 33.91759465478842,
+    "avgSyllablesPerWord": 2.2437454855867096,
+    "longSentences": 215,
+    "shortSentences": 5,
+    "complexWords": 5595,
+    "passiveVoice": 32,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 198,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.9 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (47.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9822,
+    "uniqueWords": 2071,
+    "vocabularyRichness": 0.21085318672368153,
+    "rareWords": 482,
+    "technicalTerms": 2844,
+    "jargonWords": 16,
+    "avgWordLength": 8.09427815108939,
+    "complexityScore": 0.34025656689065364
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 519,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 61,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 369,
+    "avgParagraphLength": 40.696476964769644,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 6,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 21.875278396436524,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34025656689065364,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

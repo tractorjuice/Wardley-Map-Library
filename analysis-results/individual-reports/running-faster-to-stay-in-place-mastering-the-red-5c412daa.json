@@ -1,0 +1,141 @@
+{
+  "bookId": "running-faster-to-stay-in-place-mastering-the-red-5c412daa",
+  "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
+  "title": "Running Faster To Stay In Place Mastering The Red 5c412daa",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:58.708Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 9181,
+    "estimatedReadingTime": 46
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 28.145450982473097,
+    "smogIndex": 21.1538132538805,
+    "ariIndex": 25.754029173032002,
+    "cliIndex": 0,
+    "avgSentenceLength": 19.617521367521366,
+    "avgSyllablesPerWord": 2.6999237555821805,
+    "complexWordRatio": 0.5074610608866137
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 468,
+    "avgWordsPerSentence": 31.735042735042736,
+    "avgSyllablesPerWord": 2.4311877188257474,
+    "longSentences": 161,
+    "shortSentences": 14,
+    "complexWords": 5248,
+    "passiveVoice": 57,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 203,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.7 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9181,
+    "uniqueWords": 2180,
+    "vocabularyRichness": 0.23744690120901862,
+    "rareWords": 460,
+    "technicalTerms": 2458,
+    "jargonWords": 200,
+    "avgWordLength": 7.935301165450387,
+    "complexityScore": 0.33961442108702755
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 10,
+    "bulletPoints": 333,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 22,
+    "links": 163,
+    "emphasis": 15,
+    "paragraphs": 459,
+    "avgParagraphLength": 30.714596949891067,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 5,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 19.617521367521366,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.33961442108702755,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

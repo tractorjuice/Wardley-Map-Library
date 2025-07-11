@@ -1,0 +1,142 @@
+{
+  "bookId": "british-airways-2030-transforming-loyalty-in-the-514a98bb",
+  "directory": "British_Airways_2030__Transforming_Loyalty_in_the__514a98bb",
+  "title": "British Airways 2030 Transforming Loyalty In The 514a98bb",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:50.901Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9154,
+    "estimatedReadingTime": 46
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 30.487082193115402,
+    "smogIndex": 23.387369754756065,
+    "ariIndex": 29.964778019960995,
+    "cliIndex": 0,
+    "avgSentenceLength": 24.153034300791557,
+    "avgSyllablesPerWord": 2.7261306532663316,
+    "complexWordRatio": 0.5206467118199695
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 379,
+    "avgWordsPerSentence": 35.894459102902374,
+    "avgSyllablesPerWord": 2.304469273743017,
+    "longSentences": 193,
+    "shortSentences": 5,
+    "complexWords": 5161,
+    "passiveVoice": 35,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 136,
+    "readabilityIssues": [
+      "Sentences too long (avg: 35.9 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9154,
+    "uniqueWords": 1979,
+    "vocabularyRichness": 0.21618964387153158,
+    "rareWords": 480,
+    "technicalTerms": 2384,
+    "jargonWords": 20,
+    "avgWordLength": 8.347826086956522,
+    "complexityScore": 0.31505352851212587
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 512,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 66,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 359,
+    "avgParagraphLength": 37.33983286908078,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 35.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 31.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 24.153034300791557,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31505352851212587,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

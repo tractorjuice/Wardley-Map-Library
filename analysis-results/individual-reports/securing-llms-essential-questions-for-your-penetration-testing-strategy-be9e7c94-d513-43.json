@@ -1,0 +1,141 @@
+{
+  "bookId": "securing-llms-essential-questions-for-your-penetration-testing-strategy-be9e7c94-d513-43",
+  "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
+  "title": "Securing LLMs Essential Questions For Your Penetration Testing Strategy Be9e7c94-D513-43",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:58.966Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 10785,
+    "estimatedReadingTime": 54
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 28.59156395101567,
+    "smogIndex": 21.033542630353352,
+    "ariIndex": 25.909608856247566,
+    "cliIndex": 0,
+    "avgSentenceLength": 18.562822719449226,
+    "avgSyllablesPerWord": 2.736578581363004,
+    "complexWordRatio": 0.5291608715808994
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 581,
+    "avgWordsPerSentence": 30.471600688468158,
+    "avgSyllablesPerWord": 2.285924084952553,
+    "longSentences": 207,
+    "shortSentences": 6,
+    "complexWords": 6615,
+    "passiveVoice": 40,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 206,
+    "readabilityIssues": [
+      "Sentences too long (avg: 30.5 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10785,
+    "uniqueWords": 2025,
+    "vocabularyRichness": 0.18776077885952713,
+    "rareWords": 445,
+    "technicalTerms": 2569,
+    "jargonWords": 315,
+    "avgWordLength": 8.080296708391284,
+    "complexityScore": 0.30866944830783494
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 13,
+    "bulletPoints": 638,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 150,
+    "links": 148,
+    "emphasis": 45,
+    "paragraphs": 522,
+    "avgParagraphLength": 33.28544061302682,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 30.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 30.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 18.562822719449226,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.30866944830783494,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

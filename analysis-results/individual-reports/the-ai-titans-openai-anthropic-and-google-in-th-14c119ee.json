@@ -1,0 +1,141 @@
+{
+  "bookId": "the-ai-titans-openai-anthropic-and-google-in-th-14c119ee",
+  "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee",
+  "title": "The AI Titans OpenAI Anthropic And Google In Th 14c119ee",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:10:01.657Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 21634,
+    "estimatedReadingTime": 109
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 25.121922946548995,
+    "smogIndex": 18.011367043880934,
+    "ariIndex": 20.9824619248429,
+    "cliIndex": 0,
+    "avgSentenceLength": 13.867948717948718,
+    "avgSyllablesPerWord": 2.5409540538041973,
+    "complexWordRatio": 0.48936858648423776
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1560,
+    "avgWordsPerSentence": 22.36025641025641,
+    "avgSyllablesPerWord": 2.0336563270454677,
+    "longSentences": 428,
+    "shortSentences": 17,
+    "complexWords": 11168,
+    "passiveVoice": 301,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 534,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.4 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 21634,
+    "uniqueWords": 3058,
+    "vocabularyRichness": 0.14135157622261255,
+    "rareWords": 612,
+    "technicalTerms": 4429,
+    "jargonWords": 25,
+    "avgWordLength": 7.5325875936026625,
+    "complexityScore": 0.2341684385689193
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 10,
+    "bulletPoints": 466,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 64,
+    "links": 95,
+    "emphasis": 15,
+    "paragraphs": 617,
+    "avgParagraphLength": 55.38735818476499,
+    "tableOfContents": true,
+    "summaries": 43,
+    "examples": 84,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 22.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 23.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 13.867948717948718,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2341684385689193,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

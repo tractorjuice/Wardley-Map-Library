@@ -1,0 +1,128 @@
+{
+  "bookId": "mapping-your-competitive-advantage-a-practical-gu-2f6d09c6",
+  "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
+  "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:56.130Z",
+  "summary": {
+    "overallScore": 24,
+    "readabilityGrade": "Poor",
+    "wordCount": 29059,
+    "estimatedReadingTime": 146
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.81546420139699,
+    "smogIndex": 16.766063712000093,
+    "ariIndex": 21.20701874756508,
+    "cliIndex": 0,
+    "avgSentenceLength": 11.211033950617283,
+    "avgSyllablesPerWord": 2.628927354692178,
+    "complexWordRatio": 0.5082762655287518
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2592,
+    "avgWordsPerSentence": 18.22878086419753,
+    "avgSyllablesPerWord": 2.085758428749815,
+    "longSentences": 364,
+    "shortSentences": 146,
+    "complexWords": 15389,
+    "passiveVoice": 305,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 656,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 29059,
+    "uniqueWords": 3082,
+    "vocabularyRichness": 0.10606008465535634,
+    "rareWords": 583,
+    "technicalTerms": 6615,
+    "jargonWords": 301,
+    "avgWordLength": 7.862314601328332,
+    "complexityScore": 0.2580611858632437
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 578,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 102,
+    "emphasis": 101,
+    "paragraphs": 739,
+    "avgParagraphLength": 62.901217861975645,
+    "tableOfContents": true,
+    "summaries": 9,
+    "examples": 70,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 11.211033950617283,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2580611858632437,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

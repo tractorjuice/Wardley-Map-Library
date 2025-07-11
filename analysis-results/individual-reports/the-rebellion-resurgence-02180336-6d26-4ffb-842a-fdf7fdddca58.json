@@ -1,0 +1,140 @@
+{
+  "bookId": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
+  "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
+  "title": "The Rebellion Resurgence 02180336-6d26-4ffb-842a-Fdf7fdddca58",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:10:02.459Z",
+  "summary": {
+    "overallScore": 27.62597173399414,
+    "readabilityGrade": "Poor",
+    "wordCount": 7437,
+    "estimatedReadingTime": 38
+  },
+  "readabilityMetrics": {
+    "fleschScore": 9.06492933498535,
+    "fleschGrade": "Graduate",
+    "fogIndex": 18.822798034098675,
+    "smogIndex": 15.046771647599627,
+    "ariIndex": 16.97733174996501,
+    "cliIndex": 0,
+    "avgSentenceLength": 12.64795918367347,
+    "avgSyllablesPerWord": 2.1859620814844694,
+    "complexWordRatio": 0.34409035901573215
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 588,
+    "avgWordsPerSentence": 22.877551020408163,
+    "avgSyllablesPerWord": 1.7329021706809395,
+    "longSentences": 169,
+    "shortSentences": 10,
+    "complexWords": 2866,
+    "passiveVoice": 100,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 172,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.9 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7437,
+    "uniqueWords": 2597,
+    "vocabularyRichness": 0.3491999462148716,
+    "rareWords": 569,
+    "technicalTerms": 696,
+    "jargonWords": 22,
+    "avgWordLength": 6.811752050558021,
+    "complexityScore": 0.17305365066559097
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 111,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 232,
+    "avgParagraphLength": 57.125,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 22.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 17.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 9.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 27.62597173399414,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 80
+    },
+    "fleschScore": {
+      "bookScore": 9.06492933498535,
+      "libraryAverage": 0.5,
+      "comparison": "Above Average"
+    },
+    "sentenceLength": {
+      "bookScore": 12.64795918367347,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.17305365066559097,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

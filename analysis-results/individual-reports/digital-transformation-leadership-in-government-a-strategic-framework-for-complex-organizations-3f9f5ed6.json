@@ -1,0 +1,142 @@
+{
+  "bookId": "digital-transformation-leadership-in-government-a-strategic-framework-for-complex-organizations-3f9f5ed6",
+  "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
+  "title": "Digital Transformation Leadership In Government A Strategic Framework For Complex Organizations 3f9f5ed6",
+  "category": "Government",
+  "generatedAt": "2025-07-11T15:09:52.936Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 12190,
+    "estimatedReadingTime": 61
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 33.344753887541856,
+    "smogIndex": 25.420645954512185,
+    "ariIndex": 31.698642113323963,
+    "cliIndex": 0,
+    "avgSentenceLength": 27.02882483370288,
+    "avgSyllablesPerWord": 2.7815422477440523,
+    "complexWordRatio": 0.5633305988515176
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 451,
+    "avgWordsPerSentence": 39.51441241685144,
+    "avgSyllablesPerWord": 2.3347174681555467,
+    "longSentences": 275,
+    "shortSentences": 5,
+    "complexWords": 7274,
+    "passiveVoice": 28,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 257,
+    "readabilityIssues": [
+      "Sentences too long (avg: 39.5 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (61.0%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12190,
+    "uniqueWords": 2071,
+    "vocabularyRichness": 0.16989335520918786,
+    "rareWords": 473,
+    "technicalTerms": 3171,
+    "jargonWords": 40,
+    "avgWordLength": 8.410664479081214,
+    "complexityScore": 0.3022149302707137
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 717,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 80,
+    "links": 67,
+    "emphasis": 15,
+    "paragraphs": 426,
+    "avgParagraphLength": 41.171361502347416,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 39.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 30.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 27.02882483370288,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3022149302707137,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

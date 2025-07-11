@@ -1,0 +1,141 @@
+{
+  "bookId": "modern-military-logistics-mastering-battlefield-storage-and-supply-chain-resilience-in-the-digital-age-d02b97ae",
+  "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
+  "title": "Modern Military Logistics Mastering Battlefield Storage And Supply Chain Resilience In The Digital Age D02b97ae",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:57.363Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 11511,
+    "estimatedReadingTime": 58
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 32.234370895501606,
+    "smogIndex": 23.665786872442133,
+    "ariIndex": 29.560574600177986,
+    "cliIndex": 0,
+    "avgSentenceLength": 22.09404990403071,
+    "avgSyllablesPerWord": 2.899487446790027,
+    "complexWordRatio": 0.5849187733472331
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 521,
+    "avgWordsPerSentence": 31.90978886756238,
+    "avgSyllablesPerWord": 2.426285714285714,
+    "longSentences": 205,
+    "shortSentences": 6,
+    "complexWords": 7122,
+    "passiveVoice": 50,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 149,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.9 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11511,
+    "uniqueWords": 2032,
+    "vocabularyRichness": 0.17652680045174182,
+    "rareWords": 469,
+    "technicalTerms": 2958,
+    "jargonWords": 17,
+    "avgWordLength": 8.480583789418818,
+    "complexityScore": 0.2991920771436018
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 609,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 72,
+    "links": 62,
+    "emphasis": 15,
+    "paragraphs": 419,
+    "avgParagraphLength": 39.22673031026253,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 29.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 22.09404990403071,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2991920771436018,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

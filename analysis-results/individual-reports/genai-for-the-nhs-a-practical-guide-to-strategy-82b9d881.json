@@ -1,0 +1,141 @@
+{
+  "bookId": "genai-for-the-nhs-a-practical-guide-to-strategy-82b9d881",
+  "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
+  "title": "GenAI For The NHS A Practical Guide To Strategy 82b9d881",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:54.502Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 33546,
+    "estimatedReadingTime": 168
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.010076433405413,
+    "smogIndex": 17.38901168560791,
+    "ariIndex": 21.07817713121601,
+    "cliIndex": 0,
+    "avgSentenceLength": 13.348985276561878,
+    "avgSyllablesPerWord": 2.5443570023251656,
+    "complexWordRatio": 0.4667620580695165
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2513,
+    "avgWordsPerSentence": 20.95384003183446,
+    "avgSyllablesPerWord": 2.0726589057485234,
+    "longSentences": 561,
+    "shortSentences": 57,
+    "complexWords": 16329,
+    "passiveVoice": 294,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 666,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 33546,
+    "uniqueWords": 3700,
+    "vocabularyRichness": 0.11029630954510225,
+    "rareWords": 675,
+    "technicalTerms": 6542,
+    "jargonWords": 925,
+    "avgWordLength": 7.608000953914028,
+    "complexityScore": 0.24271150062600608
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 778,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 67,
+    "links": 110,
+    "emphasis": 60,
+    "paragraphs": 832,
+    "avgParagraphLength": 62.453125,
+    "tableOfContents": true,
+    "summaries": 10,
+    "examples": 62,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 21.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 24.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 13.348985276561878,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24271150062600608,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

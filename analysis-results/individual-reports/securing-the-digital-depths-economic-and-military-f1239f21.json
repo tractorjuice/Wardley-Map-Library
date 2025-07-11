@@ -1,0 +1,142 @@
+{
+  "bookId": "securing-the-digital-depths-economic-and-military-f1239f21",
+  "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
+  "title": "Securing The Digital Depths Economic And Military F1239f21",
+  "category": "Technology",
+  "generatedAt": "2025-07-11T15:09:58.989Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 7997,
+    "estimatedReadingTime": 40
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 32.42184998941166,
+    "smogIndex": 24.456917700453488,
+    "ariIndex": 31.038147800007046,
+    "cliIndex": 0,
+    "avgSentenceLength": 24.758513931888544,
+    "avgSyllablesPerWord": 2.831561835688383,
+    "complexWordRatio": 0.5629611104164062
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 323,
+    "avgWordsPerSentence": 37.0061919504644,
+    "avgSyllablesPerWord": 2.376725508240609,
+    "longSentences": 178,
+    "shortSentences": 5,
+    "complexWords": 4888,
+    "passiveVoice": 36,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 125,
+    "readabilityIssues": [
+      "Sentences too long (avg: 37.0 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (55.1%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7997,
+    "uniqueWords": 1816,
+    "vocabularyRichness": 0.2270851569338502,
+    "rareWords": 427,
+    "technicalTerms": 2104,
+    "jargonWords": 12,
+    "avgWordLength": 8.511441790671501,
+    "complexityScore": 0.3179942478429411
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 560,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 72,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 342,
+    "avgParagraphLength": 34.36257309941521,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 37.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 31.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 24.758513931888544,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3179942478429411,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

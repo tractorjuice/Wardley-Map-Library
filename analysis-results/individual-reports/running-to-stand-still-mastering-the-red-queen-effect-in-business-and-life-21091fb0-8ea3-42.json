@@ -1,0 +1,141 @@
+{
+  "bookId": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
+  "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
+  "title": "Running To Stand Still Mastering The Red Queen Effect In Business And Life 21091fb0-8ea3-42",
+  "category": "Business Strategy",
+  "generatedAt": "2025-07-11T15:09:58.851Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 26995,
+    "estimatedReadingTime": 135
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 25.44156556480728,
+    "smogIndex": 19.163789822276865,
+    "ariIndex": 23.374507057879818,
+    "cliIndex": 0,
+    "avgSentenceLength": 16.850811485642947,
+    "avgSyllablesPerWord": 2.5454343396925356,
+    "complexWordRatio": 0.46753102426375254
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1602,
+    "avgWordsPerSentence": 27.070536828963796,
+    "avgSyllablesPerWord": 2.0289159960338505,
+    "longSentences": 609,
+    "shortSentences": 16,
+    "complexWords": 13192,
+    "passiveVoice": 240,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 527,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.1 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 26995,
+    "uniqueWords": 4057,
+    "vocabularyRichness": 0.15028709020188924,
+    "rareWords": 844,
+    "technicalTerms": 5826,
+    "jargonWords": 178,
+    "avgWordLength": 7.723800703834043,
+    "complexityScore": 0.25367660677903314
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 18,
+    "bulletPoints": 930,
+    "numberedLists": 107,
+    "codeBlocks": 0,
+    "quotes": 40,
+    "links": 77,
+    "emphasis": 15,
+    "paragraphs": 1089,
+    "avgParagraphLength": 39.24242424242424,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 76,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 16.850811485642947,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.25367660677903314,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "bookId": "empowering-the-future-achieving-affordable-and-cl-6bb54cc5",
+  "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
+  "title": "Empowering The Future Achieving Affordable And Cl 6bb54cc5",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:53.231Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 9875,
+    "estimatedReadingTime": 50
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 28.179395110638712,
+    "smogIndex": 19.634974501785788,
+    "ariIndex": 22.945853002222435,
+    "cliIndex": 0,
+    "avgSentenceLength": 15.076335877862595,
+    "avgSyllablesPerWord": 2.6721012658227847,
+    "complexWordRatio": 0.5537215189873418
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 655,
+    "avgWordsPerSentence": 24.413740458015265,
+    "avgSyllablesPerWord": 2.1799137014570698,
+    "longSentences": 225,
+    "shortSentences": 15,
+    "complexWords": 5917,
+    "passiveVoice": 108,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 210,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9875,
+    "uniqueWords": 1933,
+    "vocabularyRichness": 0.19574683544303798,
+    "rareWords": 430,
+    "technicalTerms": 2021,
+    "jargonWords": 14,
+    "avgWordLength": 7.821164556962025,
+    "complexityScore": 0.24962025316455697
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 369,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 43,
+    "links": 76,
+    "emphasis": 15,
+    "paragraphs": 403,
+    "avgParagraphLength": 38.98263027295285,
+    "tableOfContents": true,
+    "summaries": 24,
+    "examples": 32,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 15.076335877862595,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24962025316455697,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

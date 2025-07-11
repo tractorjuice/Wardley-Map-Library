@@ -1,0 +1,141 @@
+{
+  "bookId": "functionalism-and-genai-bridging-philosophy-and-t-d45b6cea",
+  "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
+  "title": "Functionalism And GenAI Bridging Philosophy And T D45b6cea",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:53.529Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 7287,
+    "estimatedReadingTime": 37
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 25.805270351110707,
+    "smogIndex": 18.379258356650354,
+    "ariIndex": 23.317647359774888,
+    "cliIndex": 0,
+    "avgSentenceLength": 14.149514563106797,
+    "avgSyllablesPerWord": 2.6784685055578428,
+    "complexWordRatio": 0.5036366131466996
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 515,
+    "avgWordsPerSentence": 24.633009708737863,
+    "avgSyllablesPerWord": 2.130379946397604,
+    "longSentences": 166,
+    "shortSentences": 6,
+    "complexWords": 4097,
+    "passiveVoice": 94,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 223,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7287,
+    "uniqueWords": 1609,
+    "vocabularyRichness": 0.22080417181281733,
+    "rareWords": 375,
+    "technicalTerms": 1904,
+    "jargonWords": 141,
+    "avgWordLength": 7.998490462467408,
+    "complexityScore": 0.3320982571703033
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 10,
+    "bulletPoints": 309,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 37,
+    "links": 71,
+    "emphasis": 15,
+    "paragraphs": 322,
+    "avgParagraphLength": 38.66459627329193,
+    "tableOfContents": true,
+    "summaries": 9,
+    "examples": 24,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 33.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 14.149514563106797,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3320982571703033,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

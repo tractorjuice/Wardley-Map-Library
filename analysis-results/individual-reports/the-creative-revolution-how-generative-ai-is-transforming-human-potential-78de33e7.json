@@ -1,0 +1,142 @@
+{
+  "bookId": "the-creative-revolution-how-generative-ai-is-transforming-human-potential-78de33e7",
+  "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
+  "title": "The Creative Revolution How Generative AI Is Transforming Human Potential 78de33e7",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:10:02.120Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 13056,
+    "estimatedReadingTime": 66
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 29.364343401778925,
+    "smogIndex": 22.345801723409135,
+    "ariIndex": 27.55749650099817,
+    "cliIndex": 0,
+    "avgSentenceLength": 22.016863406408095,
+    "avgSyllablesPerWord": 2.6845894607843137,
+    "complexWordRatio": 0.5139399509803921
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 593,
+    "avgWordsPerSentence": 33.70826306913997,
+    "avgSyllablesPerWord": 2.190004502476362,
+    "longSentences": 299,
+    "shortSentences": 6,
+    "complexWords": 7132,
+    "passiveVoice": 61,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 291,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (50.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13056,
+    "uniqueWords": 2393,
+    "vocabularyRichness": 0.1832873774509804,
+    "rareWords": 536,
+    "technicalTerms": 3483,
+    "jargonWords": 173,
+    "avgWordLength": 8.063495710784315,
+    "complexityScore": 0.32107843137254904
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 563,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 79,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 499,
+    "avgParagraphLength": 39.517034068136276,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 32.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 22.016863406408095,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32107843137254904,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

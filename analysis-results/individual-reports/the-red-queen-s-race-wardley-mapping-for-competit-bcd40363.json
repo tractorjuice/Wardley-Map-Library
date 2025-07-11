@@ -1,0 +1,128 @@
+{
+  "bookId": "the-red-queen-s-race-wardley-mapping-for-competit-bcd40363",
+  "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
+  "title": "The Red Queen S Race Wardley Mapping For Competit Bcd40363",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:10:02.694Z",
+  "summary": {
+    "overallScore": 24,
+    "readabilityGrade": "Poor",
+    "wordCount": 39091,
+    "estimatedReadingTime": 196
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.908878839297966,
+    "smogIndex": 17.1352336655283,
+    "ariIndex": 21.364706668638455,
+    "cliIndex": 0,
+    "avgSentenceLength": 11.943476932477848,
+    "avgSyllablesPerWord": 2.6154101967204726,
+    "complexWordRatio": 0.5032872016576706
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3273,
+    "avgWordsPerSentence": 19.672166208371525,
+    "avgSyllablesPerWord": 2.0498547843508783,
+    "longSentences": 552,
+    "shortSentences": 86,
+    "complexWords": 20366,
+    "passiveVoice": 454,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 948,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 39091,
+    "uniqueWords": 3983,
+    "vocabularyRichness": 0.10189046071985879,
+    "rareWords": 739,
+    "technicalTerms": 8792,
+    "jargonWords": 330,
+    "avgWordLength": 7.818039958046609,
+    "complexityScore": 0.2522575528894119
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 667,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 54,
+    "links": 106,
+    "emphasis": 265,
+    "paragraphs": 958,
+    "avgParagraphLength": 66.40814196242171,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 136,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 11.943476932477848,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2522575528894119,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

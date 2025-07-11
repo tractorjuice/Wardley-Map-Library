@@ -1,0 +1,129 @@
+{
+  "bookId": "ai-supremacy-the-battle-between-openai-anthropic-8cd4825c",
+  "directory": "AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c",
+  "title": "AI Supremacy The Battle Between OpenAI Anthropic 8cd4825c",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:09:50.106Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 1450,
+    "estimatedReadingTime": 8
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 20.45211345939933,
+    "smogIndex": 9.910864200067898,
+    "ariIndex": 15.678272858731923,
+    "cliIndex": 0,
+    "avgSentenceLength": 2.9233870967741935,
+    "avgSyllablesPerWord": 2.5220689655172412,
+    "complexWordRatio": 0.4820689655172414
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 496,
+    "avgWordsPerSentence": 25.715725806451612,
+    "avgSyllablesPerWord": 2.083496667973344,
+    "longSentences": 177,
+    "shortSentences": 8,
+    "complexWords": 4086,
+    "passiveVoice": 80,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 182,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 1450,
+    "uniqueWords": 696,
+    "vocabularyRichness": 0.48,
+    "rareWords": 188,
+    "technicalTerms": 308,
+    "jargonWords": 15,
+    "avgWordLength": 7.568275862068965,
+    "complexityScore": 0.3524137931034483
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 10,
+    "bulletPoints": 349,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 44,
+    "links": 159,
+    "emphasis": 15,
+    "paragraphs": 368,
+    "avgParagraphLength": 33.58423913043478,
+    "tableOfContents": true,
+    "summaries": 10,
+    "examples": 12,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 35.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 2.9233870967741935,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3524137931034483,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

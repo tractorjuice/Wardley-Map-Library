@@ -255,6 +255,13 @@
             padding: 1rem;
             border-radius: 6px;
             border-left: 4px solid #27ae60;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        
+        .book-card:hover {
+            background: #e9ecef;
+            transform: translateY(-2px);
         }
         
         .book-card.poor {
@@ -280,6 +287,22 @@
             font-size: 0.8rem;
             color: #e74c3c;
             font-style: italic;
+        }
+        
+        .book-link {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.25rem 0.5rem;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s;
+        }
+        
+        .book-link:hover {
+            background-color: #2980b9;
         }
         
         .tabs {
@@ -608,6 +631,7 @@
                     <div class="book-issues">
                         ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'No major issues detected'}
                     </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
                 </div>
             `).join('');
             
@@ -622,8 +646,16 @@
                     <div class="book-issues">
                         ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'Multiple readability issues'}
                     </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
                 </div>
             `).join('');
+        }
+
+        function createBookId(directory) {
+            return directory.toLowerCase()
+                .replace(/[^a-z0-9]/g, '-')
+                .replace(/-+/g, '-')
+                .replace(/^-|-$/g, '');
         }
 
         function getScoreClass(score) {

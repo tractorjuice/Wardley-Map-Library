@@ -1,0 +1,128 @@
+{
+  "bookId": "wardley-mapping-mastering-strategy-in-a-dynamic-w-25fc793c",
+  "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
+  "title": "Wardley Mapping Mastering Strategy In A Dynamic W 25fc793c",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:10:04.192Z",
+  "summary": {
+    "overallScore": 24,
+    "readabilityGrade": "Poor",
+    "wordCount": 32861,
+    "estimatedReadingTime": 165
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.69762319716227,
+    "smogIndex": 16.75749795337538,
+    "ariIndex": 20.96025790001633,
+    "cliIndex": 0,
+    "avgSentenceLength": 11.276938915579958,
+    "avgSyllablesPerWord": 2.6098110221843522,
+    "complexWordRatio": 0.5046711907732571
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2914,
+    "avgWordsPerSentence": 18.706932052161978,
+    "avgSyllablesPerWord": 2.0366157910184914,
+    "longSentences": 526,
+    "shortSentences": 190,
+    "complexWords": 17310,
+    "passiveVoice": 430,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 777,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32861,
+    "uniqueWords": 3280,
+    "vocabularyRichness": 0.09981436961747969,
+    "rareWords": 581,
+    "technicalTerms": 7328,
+    "jargonWords": 377,
+    "avgWordLength": 7.802927482425976,
+    "complexityScore": 0.25215300812513314
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 716,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 69,
+    "links": 122,
+    "emphasis": 73,
+    "paragraphs": 847,
+    "avgParagraphLength": 63.18181818181818,
+    "tableOfContents": true,
+    "summaries": 59,
+    "examples": 93,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 25.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 70
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 11.276938915579958,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.25215300812513314,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

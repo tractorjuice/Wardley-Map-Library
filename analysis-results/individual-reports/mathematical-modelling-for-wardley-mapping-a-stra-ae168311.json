@@ -1,0 +1,141 @@
+{
+  "bookId": "mathematical-modelling-for-wardley-mapping-a-stra-ae168311",
+  "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
+  "title": "Mathematical Modelling For Wardley Mapping A Stra Ae168311",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-11T15:09:57.130Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 13182,
+    "estimatedReadingTime": 66
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 24.978318785471743,
+    "smogIndex": 17.59708829009209,
+    "ariIndex": 22.45105581760056,
+    "cliIndex": 0,
+    "avgSentenceLength": 12.96165191740413,
+    "avgSyllablesPerWord": 2.6728114094978,
+    "complexWordRatio": 0.49484145046275224
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1017,
+    "avgWordsPerSentence": 21.23008849557522,
+    "avgSyllablesPerWord": 2.1302394516233614,
+    "longSentences": 231,
+    "shortSentences": 25,
+    "complexWords": 6990,
+    "passiveVoice": 202,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 282,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.2 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13182,
+    "uniqueWords": 2201,
+    "vocabularyRichness": 0.166970110757093,
+    "rareWords": 484,
+    "technicalTerms": 3180,
+    "jargonWords": 329,
+    "avgWordLength": 7.9406008192990445,
+    "complexityScore": 0.30291306326809286
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 361,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 32,
+    "links": 70,
+    "emphasis": 15,
+    "paragraphs": 430,
+    "avgParagraphLength": 49.51627906976744,
+    "tableOfContents": true,
+    "summaries": 25,
+    "examples": 62,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 21.2 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 30.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 12.96165191740413,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.30291306326809286,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

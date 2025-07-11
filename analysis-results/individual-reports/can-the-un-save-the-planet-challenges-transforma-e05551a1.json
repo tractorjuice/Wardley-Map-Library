@@ -1,0 +1,142 @@
+{
+  "bookId": "can-the-un-save-the-planet-challenges-transforma-e05551a1",
+  "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
+  "title": "Can The UN Save The Planet Challenges Transforma E05551a1",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:51.073Z",
+  "summary": {
+    "overallScore": 12,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 12125,
+    "estimatedReadingTime": 61
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 31.13332771785904,
+    "smogIndex": 23.020890670836106,
+    "ariIndex": 29.223845626705234,
+    "cliIndex": 0,
+    "avgSentenceLength": 21.536412078152754,
+    "avgSyllablesPerWord": 2.8522061855670104,
+    "complexWordRatio": 0.5629690721649484
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 563,
+    "avgWordsPerSentence": 32.57015985790409,
+    "avgSyllablesPerWord": 2.335660140699133,
+    "longSentences": 263,
+    "shortSentences": 10,
+    "complexWords": 7251,
+    "passiveVoice": 45,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 187,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.6 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (46.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12125,
+    "uniqueWords": 2557,
+    "vocabularyRichness": 0.21088659793814432,
+    "rareWords": 569,
+    "technicalTerms": 3592,
+    "jargonWords": 14,
+    "avgWordLength": 8.468288659793814,
+    "complexityScore": 0.3443298969072165
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 8,
+    "bulletPoints": 595,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 460,
+    "avgParagraphLength": 39.17173913043478,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 34.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12,
+      "libraryAverage": 16.6,
+      "comparison": "Below Average",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 21.536412078152754,
+      "libraryAverage": 17.1,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3443298969072165,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

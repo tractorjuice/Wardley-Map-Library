@@ -1,0 +1,141 @@
+{
+  "bookId": "bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3",
+  "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
+  "title": "Bridging The Divide Strategies For Reducing Inequ 17a0b4b3",
+  "category": "Other",
+  "generatedAt": "2025-07-11T15:09:50.827Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 9544,
+    "estimatedReadingTime": 48
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 26.12992554318569,
+    "smogIndex": 18.44020265178474,
+    "ariIndex": 22.813771136861412,
+    "cliIndex": 0,
+    "avgSentenceLength": 13.994134897360704,
+    "avgSyllablesPerWord": 2.685037720033529,
+    "complexWordRatio": 0.5133067896060352
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 682,
+    "avgWordsPerSentence": 23.167155425219942,
+    "avgSyllablesPerWord": 2.155253164556962,
+    "longSentences": 159,
+    "shortSentences": 8,
+    "complexWords": 5370,
+    "passiveVoice": 126,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 272,
+    "readabilityIssues": [
+      "Sentences too long (avg: 23.2 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9544,
+    "uniqueWords": 1955,
+    "vocabularyRichness": 0.20484073763621125,
+    "rareWords": 407,
+    "technicalTerms": 1811,
+    "jargonWords": 15,
+    "avgWordLength": 7.9080050293378035,
+    "complexityScore": 0.23396898575020955
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 9,
+    "bulletPoints": 407,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 44,
+    "links": 85,
+    "emphasis": 15,
+    "paragraphs": 415,
+    "avgParagraphLength": 37.28433734939759,
+    "tableOfContents": true,
+    "summaries": 19,
+    "examples": 33,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 23.2 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 23.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 13.994134897360704,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23396898575020955,
+      "libraryAverage": 0.29,
+      "comparison": "Simpler"
+    }
+  }
+}

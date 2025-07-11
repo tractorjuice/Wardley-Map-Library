@@ -1,0 +1,141 @@
+{
+  "bookId": "sustainable-futures-strategies-for-life-on-land-61799596",
+  "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
+  "title": "Sustainable Futures Strategies For Life On Land 61799596",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-11T15:10:00.906Z",
+  "summary": {
+    "overallScore": 18,
+    "readabilityGrade": "Poor",
+    "wordCount": 7923,
+    "estimatedReadingTime": 40
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschGrade": "Graduate",
+    "fogIndex": 28.26693239798329,
+    "smogIndex": 19.954714480152887,
+    "ariIndex": 24.712422281525555,
+    "cliIndex": 0,
+    "avgSentenceLength": 15.81437125748503,
+    "avgSyllablesPerWord": 2.7529976019184654,
+    "complexWordRatio": 0.5485295973747318
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 501,
+    "avgWordsPerSentence": 25.776447105788424,
+    "avgSyllablesPerWord": 2.2436115843270867,
+    "longSentences": 179,
+    "shortSentences": 6,
+    "complexWords": 4778,
+    "passiveVoice": 102,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 182,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.8 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7923,
+    "uniqueWords": 1686,
+    "vocabularyRichness": 0.21279818250662627,
+    "rareWords": 351,
+    "technicalTerms": 2098,
+    "jargonWords": 16,
+    "avgWordLength": 8.117884639656696,
+    "complexityScore": 0.31111952543228577
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 10,
+    "bulletPoints": 352,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 39,
+    "links": 71,
+    "emphasis": 15,
+    "paragraphs": 336,
+    "avgParagraphLength": 37.729166666666664,
+    "tableOfContents": true,
+    "summaries": 11,
+    "examples": 40,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 31.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18,
+      "libraryAverage": 16.6,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 0,
+      "libraryAverage": 0.5,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 15.81437125748503,
+      "libraryAverage": 17.1,
+      "comparison": "Better"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31111952543228577,
+      "libraryAverage": 0.29,
+      "comparison": "More Complex"
+    }
+  }
+}

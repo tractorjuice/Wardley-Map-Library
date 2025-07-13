@@ -81,6 +81,16 @@ The library includes comprehensive readability analysis for all books using **6 
 ### Research Foundation
 Our implementation covers **6 of the 7 major classic readability formulas**, providing comprehensive traditional assessment. See `research/readabiliity_methods.md` for detailed comparison with modern ML-based approaches and future enhancement possibilities.
 
+### Target Readability Scores
+Based on analysis of 182 books, the following targets improve accessibility while maintaining technical accuracy:
+
+- **Overall Composite Score**: Target 50-70 (current: 16.6)
+- **Flesch Reading Ease**: Target 60-70 (current: 0.5) - standard level for general audiences
+- **Grade Level Metrics**: Target 12-16 years (current: 22+ years) - high school to college level
+- **Sentence Length**: Target 12-18 words ✓ (current: 17.1 - already achieved)
+
+**Priority**: Focus on vocabulary simplification and grade level reduction while preserving domain expertise.
+
 ### Access Analysis
 - **Main Dashboard**: Visit `/readability-analysis.html` for library overview
 - **Individual Reports**: Each book has detailed readability metrics and recommendations

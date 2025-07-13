@@ -3,7 +3,7 @@
   "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
   "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:52.570Z",
+  "generatedAt": "2025-07-13T03:56:00.515Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.582370173435844,
     "fogIndex": 23.578006338189603,
     "smogIndex": 17.129487521942494,
     "ariIndex": 20.292134304506902,

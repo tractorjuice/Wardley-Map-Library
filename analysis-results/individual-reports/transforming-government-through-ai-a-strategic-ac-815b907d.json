@@ -3,7 +3,7 @@
   "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
   "title": "Transforming Government Through AI A Strategic Ac 815b907d",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:02.919Z",
+  "generatedAt": "2025-07-13T03:56:11.510Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.19918422225351,
     "fogIndex": 23.319579428025005,
     "smogIndex": 13.441074047097821,
     "ariIndex": 19.65016018733447,

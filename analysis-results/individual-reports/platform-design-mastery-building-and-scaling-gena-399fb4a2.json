@@ -3,7 +3,7 @@
   "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
   "title": "Platform Design Mastery Building And Scaling GenA 399fb4a2",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:57.907Z",
+  "generatedAt": "2025-07-13T03:56:06.331Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.44816587762612,
     "fogIndex": 29.885071732809024,
     "smogIndex": 22.9449494781052,
     "ariIndex": 28.725345444393334,

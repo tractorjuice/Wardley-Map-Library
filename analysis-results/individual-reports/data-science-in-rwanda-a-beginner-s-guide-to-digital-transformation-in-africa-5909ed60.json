@@ -3,7 +3,7 @@
   "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
   "title": "Data Science In Rwanda - A Beginner'S Guide To Digital Transformation In Africa 5909ed60",
   "category": "Data Science",
-  "generatedAt": "2025-07-11T15:09:52.450Z",
+  "generatedAt": "2025-07-13T03:56:00.365Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.070496959462123,
     "fogIndex": 28.950831260245675,
     "smogIndex": 22.58702108746698,
     "ariIndex": 27.798053167470677,

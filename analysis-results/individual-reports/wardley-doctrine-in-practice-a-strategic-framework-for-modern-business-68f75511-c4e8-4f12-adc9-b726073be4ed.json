@@ -3,7 +3,7 @@
   "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
   "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:03.378Z",
+  "generatedAt": "2025-07-13T03:56:11.977Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.64532170492217,
     "fogIndex": 29.64960278135828,
     "smogIndex": 21.65847717164104,
     "ariIndex": 27.410386546125373,

@@ -3,7 +3,7 @@
   "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
   "title": "Starship Vs Blue Origin The New Space Race And Th 8f339d59",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:59.558Z",
+  "generatedAt": "2025-07-13T03:56:07.864Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.464314291858503,
     "fogIndex": 23.672094008321686,
     "smogIndex": 17.444172280857533,
     "ariIndex": 21.330565898605123,

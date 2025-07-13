@@ -3,7 +3,7 @@
   "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
   "title": "Navigating The AI Frontier Wardley Mapping For GenAI Startups Dff595a3-603e-48",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.498Z",
+  "generatedAt": "2025-07-13T03:56:05.742Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.035622108748232,
     "fogIndex": 23.07709207456898,
     "smogIndex": 17.01446512779524,
     "ariIndex": 20.757523677854692,

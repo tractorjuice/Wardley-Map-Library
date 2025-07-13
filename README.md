@@ -2,7 +2,7 @@
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://library.wardleymaps.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Books](https://img.shields.io/badge/Books-174-blue.svg)](https://library.wardleymaps.ai/)
+[![Books](https://img.shields.io/badge/Books-182-blue.svg)](https://library.wardleymaps.ai/)
 
 A comprehensive digital library of Wardley Mapping resources, strategic analysis reports, and business strategy books. Built with Vercel serverless functions and modern web technologies for optimal performance and user experience.
 
@@ -10,9 +10,10 @@ A comprehensive digital library of Wardley Mapping resources, strategic analysis
 
 ## ✨ Features
 
-- **📚 174+ Books**: Comprehensive collection of strategic analysis and Wardley Mapping resources
+- **📚 182+ Books**: Comprehensive collection of strategic analysis and Wardley Mapping resources
 - **🔍 Smart Search**: Real-time search with category filtering and fuzzy matching
 - **📖 Interactive Reading**: Table of contents navigation, responsive design, mobile-optimized
+- **📊 Readability Analysis**: Complete text analysis with 6 industry-standard metrics (Flesch, Flesch-Kincaid, Fog, SMOG, ARI, Coleman-Liau)
 - **🎯 Auto-Categorization**: AI-powered book categorization across multiple domains
 - **🔗 Smart Linking**: Deep linking to book sections, Wardley map reports, share functionality
 - **⚡ High Performance**: Serverless architecture with optimized loading and caching
@@ -45,7 +46,7 @@ npm run test-server
 │   ├── books.js           # Books listing API
 │   ├── books/[id].js      # Individual book details
 │   └── wardley/           # Wardley map integration
-├── books/                 # Book content library (174+ books)
+├── books/                 # Book content library (182+ books)
 ├── docs/                  # Comprehensive documentation
 ├── public/                # Frontend application
 ├── scripts/               # Utility scripts
@@ -64,6 +65,43 @@ The library covers diverse strategic domains:
 - **Healthcare** (4 books): Medical technology and health systems
 - **Gaming** (4 books): AI in gaming and interactive entertainment
 - **Security** (4 books): Cybersecurity and privacy frameworks
+
+## 📊 Readability Analysis
+
+The library includes comprehensive readability analysis for all books using **6 industry-standard classic readability formulas** (1940s-1970s era). These time-tested metrics provide reliable, interpretable assessments that correlate well with human readability judgments.
+
+### Metrics Calculated (Classic Formulas)
+- **Flesch Reading Ease** (1948): 0-100 scale, higher scores indicate easier reading
+- **Flesch-Kincaid Grade Level** (1975): Years of education needed to understand the text
+- **Gunning Fog Index** (1952): Formal education years required for comprehension
+- **SMOG Index** (1969): Simple Measure of Gobbledygook for grade-level estimation
+- **Automated Readability Index** (1967): Character-based readability metric
+- **Coleman-Liau Index** (1975): Alternative character-based assessment
+
+### Research Foundation
+Our implementation covers **6 of the 7 major classic readability formulas**, providing comprehensive traditional assessment. See `research/readabiliity_methods.md` for detailed comparison with modern ML-based approaches and future enhancement possibilities.
+
+### Access Analysis
+- **Main Dashboard**: Visit `/readability-analysis.html` for library overview
+- **Individual Reports**: Each book has detailed readability metrics and recommendations
+- **API Access**: Programmatic access via `/api/readability-analysis.js`
+
+### Library Statistics
+- **182 books analyzed** with complete readability profiles
+- **Average reading level**: Graduate/Professional (22+ years education)
+- **Most readable**: Tutorial and guide books
+- **Most challenging**: Technical strategy and academic content
+
+### Usage
+```bash
+# Generate complete readability analysis
+node scripts/readability-analyzer.js
+
+# Generate individual book reports  
+node scripts/individual-readability-reports.js
+```
+
+Analysis results are saved to `analysis-results/` directory and automatically integrated into the web interface.
 
 ## 🛠️ Development
 

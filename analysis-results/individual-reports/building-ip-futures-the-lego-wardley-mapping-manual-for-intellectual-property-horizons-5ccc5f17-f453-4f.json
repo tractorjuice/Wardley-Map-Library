@@ -3,7 +3,7 @@
   "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
   "title": "Building IP Futures The LEGO Wardley Mapping Manual For Intellectual Property Horizons 5ccc5f17-F453-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:50.985Z",
+  "generatedAt": "2025-07-13T03:55:58.629Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.90454939931887,
     "fogIndex": 24.171841250364324,
     "smogIndex": 18.180057006288923,
     "ariIndex": 21.44574489783696,

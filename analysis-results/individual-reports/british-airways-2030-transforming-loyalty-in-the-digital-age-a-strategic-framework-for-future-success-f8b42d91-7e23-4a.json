@@ -3,7 +3,7 @@
   "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
   "title": "British Airways 2030 Transforming Loyalty In The Digital Age A Strategic Framework For Future Success F8b42d91-7e23-4a",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:50.862Z",
+  "generatedAt": "2025-07-13T03:55:58.506Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.99802508585142,
     "fogIndex": 30.487082193115402,
     "smogIndex": 23.387369754756065,
     "ariIndex": 29.964778019960995,

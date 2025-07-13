@@ -504,9 +504,29 @@
                     <div class="stat-number">${reportData.summary.overallScore.toFixed(1)}</div>
                     <div class="stat-label">Overall Score</div>
                 </div>
-                <div class="stat-card ${getScoreClass(metrics.fleschScore)}">
+                <div class="stat-card ${getScoreClass(metrics.fleschScore)}" title="0-100 scale: 90+ Very Easy, 80-89 Easy, 70-79 Fairly Easy, 60-69 Standard, 50-59 Fairly Difficult, 30-49 Difficult, <30 Graduate">
                     <div class="stat-number">${metrics.fleschScore.toFixed(1)}</div>
                     <div class="stat-label">Flesch Reading Ease</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.fleschKincaidGrade, true)}" title="Years of education needed: 8th grade = 8, High school = 12, College = 16, Graduate = 20+">
+                    <div class="stat-number">${metrics.fleschKincaidGrade.toFixed(1)}</div>
+                    <div class="stat-label">Flesch-Kincaid Grade Level</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.fogIndex, true)}" title="Years of formal education required. Above 12 is considered difficult for general audience">
+                    <div class="stat-number">${metrics.fogIndex.toFixed(1)}</div>
+                    <div class="stat-label">Gunning Fog Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.smogIndex, true)}" title="Simple Measure of Gobbledygook - estimates grade level based on complex words (3+ syllables)">
+                    <div class="stat-number">${metrics.smogIndex.toFixed(1)}</div>
+                    <div class="stat-label">SMOG Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.ariIndex, true)}" title="Character-based metric using average characters per word and sentence length">
+                    <div class="stat-number">${metrics.ariIndex.toFixed(1)}</div>
+                    <div class="stat-label">Automated Readability Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.cliIndex, true)}" title="Character-based assessment using characters per 100 words and sentences per 100 words">
+                    <div class="stat-number">${metrics.cliIndex.toFixed(1)}</div>
+                    <div class="stat-label">Coleman-Liau Index</div>
                 </div>
                 <div class="stat-card ${getSentenceLengthClass(metrics.avgSentenceLength)}">
                     <div class="stat-number">${metrics.avgSentenceLength.toFixed(1)}</div>
@@ -608,12 +628,22 @@
             `;
         }
 
-        function getScoreClass(score) {
-            if (score >= 90) return 'excellent';
-            if (score >= 70) return 'good';
-            if (score >= 50) return 'average';
-            if (score >= 30) return 'poor';
-            return 'very-poor';
+        function getScoreClass(score, isGradeLevel = false) {
+            if (isGradeLevel) {
+                // For grade level metrics, lower is better
+                if (score <= 8) return 'excellent';
+                if (score <= 12) return 'good';
+                if (score <= 16) return 'average';
+                if (score <= 20) return 'poor';
+                return 'very-poor';
+            } else {
+                // For Flesch Reading Ease, higher is better
+                if (score >= 90) return 'excellent';
+                if (score >= 70) return 'good';
+                if (score >= 50) return 'average';
+                if (score >= 30) return 'poor';
+                return 'very-poor';
+            }
         }
 
         function getSentenceLengthClass(length) {

@@ -3,7 +3,7 @@
   "directory": "Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c",
   "title": "Digital Excellence The Strategic Case For A UK Lo 0ab4cf1c",
   "category": "Technology",
-  "generatedAt": "2025-07-11T15:09:52.855Z",
+  "generatedAt": "2025-07-13T03:56:00.782Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.786660861388594,
     "fogIndex": 31.358205151360085,
     "smogIndex": 23.787403671297398,
     "ariIndex": 28.95038246031985,

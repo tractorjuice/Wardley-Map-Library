@@ -3,7 +3,7 @@
   "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
   "title": "Chronicles Of 2064 Echoes Of The Guardians 00ae8f95-797c-4d70-Bc38-00ebbec615e7",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:51.639Z",
+  "generatedAt": "2025-07-13T03:55:59.443Z",
   "summary": {
     "overallScore": 24.339401106419665,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0.8485027660491653,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.682712382546807,
     "fogIndex": 20.37433073486231,
     "smogIndex": 16.192701761915234,
     "ariIndex": 19.19803293198757,

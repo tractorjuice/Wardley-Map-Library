@@ -3,7 +3,7 @@
   "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
   "title": "Mastering Wardley Mapping An Expert S Guide To St",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.039Z",
+  "generatedAt": "2025-07-13T03:56:05.313Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.174862960842116,
     "fogIndex": 24.96727700682515,
     "smogIndex": 18.382282826295633,
     "ariIndex": 21.969032165723696,

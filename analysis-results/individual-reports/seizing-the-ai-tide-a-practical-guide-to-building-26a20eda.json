@@ -3,7 +3,7 @@
   "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
   "title": "Seizing The AI Tide A Practical Guide To Building 26a20eda",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:59.126Z",
+  "generatedAt": "2025-07-13T03:56:07.506Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.736655620375704,
     "fogIndex": 24.435932918753036,
     "smogIndex": 17.40831395515927,
     "ariIndex": 21.29288385789132,

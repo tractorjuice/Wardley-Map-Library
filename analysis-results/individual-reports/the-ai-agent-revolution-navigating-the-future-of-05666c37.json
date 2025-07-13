@@ -3,7 +3,7 @@
   "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
   "title": "The AI Agent Revolution Navigating The Future Of 05666c37",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.318Z",
+  "generatedAt": "2025-07-13T03:56:09.840Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.814411672512495,
     "fogIndex": 29.59753662878094,
     "smogIndex": 22.272982486610626,
     "ariIndex": 27.37290853601494,

@@ -3,7 +3,7 @@
   "directory": "Symbolic_Instructions__Understanding_AI_Training_D_5f31a286",
   "title": "Symbolic Instructions Understanding AI Training D 5f31a286",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:00.939Z",
+  "generatedAt": "2025-07-13T03:56:09.449Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.734061019994822,
     "fogIndex": 29.189766549408382,
     "smogIndex": 22.148981382296004,
     "ariIndex": 27.79720481748823,

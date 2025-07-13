@@ -3,7 +3,7 @@
   "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
   "title": "Windows 11 Security Assurance A Zero Trust Implementation Guide 763497ee",
   "category": "Security",
-  "generatedAt": "2025-07-11T15:10:05.017Z",
+  "generatedAt": "2025-07-13T03:56:13.597Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.449405025671457,
     "fogIndex": 31.403617990541388,
     "smogIndex": 23.4270477905016,
     "ariIndex": 28.600245406120507,

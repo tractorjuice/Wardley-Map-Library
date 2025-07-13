@@ -3,7 +3,7 @@
   "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
   "title": "Revitalising The NHS A Comprehensive Blueprint For Sustainable Healthcare 2c167a18-F2ec-41",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:58.503Z",
+  "generatedAt": "2025-07-13T03:56:06.902Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.883593878275367,
     "fogIndex": 24.15146264789251,
     "smogIndex": 17.669980733467995,
     "ariIndex": 22.43464887488139,

@@ -3,7 +3,7 @@
   "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
   "title": "World War III Geopolitics Technology And The Co 2ce84ecf",
   "category": "Technology",
-  "generatedAt": "2025-07-11T15:10:05.314Z",
+  "generatedAt": "2025-07-13T03:56:13.947Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.571258821306305,
     "fogIndex": 25.021632353681845,
     "smogIndex": 18.023332429092292,
     "ariIndex": 22.15278116955765,

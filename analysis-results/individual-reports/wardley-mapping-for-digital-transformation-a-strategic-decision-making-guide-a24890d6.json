@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_for_Digital_Transformation__A_Strategic_Decision-Making_Guide_a24890d6",
   "title": "Wardley Mapping For Digital Transformation A Strategic Decision-Making Guide A24890d6",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.656Z",
+  "generatedAt": "2025-07-13T03:56:13.254Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.00878511249235,
     "fogIndex": 29.087905036319697,
     "smogIndex": 21.553748996619955,
     "ariIndex": 26.52124200245173,

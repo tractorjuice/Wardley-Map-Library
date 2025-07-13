@@ -3,7 +3,7 @@
   "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
   "title": "Ace Your Foundation In Wardley Mapping Exam A Com E3a63103",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:50.379Z",
+  "generatedAt": "2025-07-13T03:55:57.955Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.428811833560015,
     "fogIndex": 23.137789851348476,
     "smogIndex": 16.149061502270985,
     "ariIndex": 20.00633005705599,

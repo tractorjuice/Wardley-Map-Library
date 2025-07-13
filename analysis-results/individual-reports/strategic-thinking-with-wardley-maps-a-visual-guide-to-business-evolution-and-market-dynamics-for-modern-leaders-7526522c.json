@@ -3,7 +3,7 @@
   "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
   "title": "Strategic Thinking With Wardley Maps A Visual Guide To Business Evolution And Market Dynamics For Modern Leaders 7526522c",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:00.738Z",
+  "generatedAt": "2025-07-13T03:56:09.204Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.279304475421544,
     "fogIndex": 28.33609186521974,
     "smogIndex": 21.089510720697632,
     "ariIndex": 25.74395591620881,

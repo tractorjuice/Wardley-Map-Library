@@ -3,7 +3,7 @@
   "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
   "title": "Co-Pilot PCs In The Enterprise A Strategic Guide 5e79a385",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:51.882Z",
+  "generatedAt": "2025-07-13T03:55:59.712Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.82718732370221,
     "fogIndex": 26.316495613391737,
     "smogIndex": 18.270116829960966,
     "ariIndex": 21.856906600088912,

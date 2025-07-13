@@ -3,7 +3,7 @@
   "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
   "title": "Strategic Mastery Creating Math Models For Wardle 78d38b18",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:10:00.645Z",
+  "generatedAt": "2025-07-13T03:56:09.078Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.27152608237147,
     "fogIndex": 26.179148548892712,
     "smogIndex": 18.08766729970568,
     "ariIndex": 22.945508682085432,

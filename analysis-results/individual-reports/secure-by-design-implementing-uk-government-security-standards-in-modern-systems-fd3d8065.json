@@ -3,7 +3,7 @@
   "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
   "title": "Secure By Design Implementing UK Government Security Standards In Modern Systems Fd3d8065",
   "category": "Government",
-  "generatedAt": "2025-07-11T15:09:58.928Z",
+  "generatedAt": "2025-07-13T03:56:07.322Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 27.08385277983692,
     "fogIndex": 32.329204701895584,
     "smogIndex": 24.074129518268215,
     "ariIndex": 29.686493546542415,

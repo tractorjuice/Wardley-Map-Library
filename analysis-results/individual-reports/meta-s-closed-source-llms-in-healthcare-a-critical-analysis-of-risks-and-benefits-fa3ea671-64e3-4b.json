@@ -3,7 +3,7 @@
   "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
   "title": "Meta S Closed-Source LLMs In Healthcare A Critical Analysis Of Risks And Benefits Fa3ea671-64e3-4b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:57.318Z",
+  "generatedAt": "2025-07-13T03:56:05.567Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.44054511821096,
     "fogIndex": 29.23175859375346,
     "smogIndex": 21.688678719196254,
     "ariIndex": 27.60620180841623,

@@ -3,7 +3,7 @@
   "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
   "title": "Maps To Action Mastering Strategy Development Through Wardley Mapping B13af0f0",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:56.653Z",
+  "generatedAt": "2025-07-13T03:56:04.891Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.234587390615072,
     "fogIndex": 29.38110382779333,
     "smogIndex": 21.676123960172262,
     "ariIndex": 26.80949169809906,

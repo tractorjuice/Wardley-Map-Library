@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c",
   "title": "Wardley Mapping Strategy In A Landscape Of Consta B532244c",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.401Z",
+  "generatedAt": "2025-07-13T03:56:13.015Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.9421903723066,
     "fogIndex": 23.4779413000166,
     "smogIndex": 16.448665957355605,
     "ariIndex": 20.67497284167834,

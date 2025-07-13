@@ -3,7 +3,7 @@
   "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
   "title": "Strategic Synthesis Integrating Jobs-To-Be-Done With Wardley Mapping For Digital Innovation F1b1fc61-765d-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:00.682Z",
+  "generatedAt": "2025-07-13T03:56:09.111Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.045212215482426,
     "fogIndex": 28.107633676350687,
     "smogIndex": 20.935972344261494,
     "ariIndex": 25.554186347957376,

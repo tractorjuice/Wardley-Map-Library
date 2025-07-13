@@ -3,7 +3,7 @@
   "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
   "title": "The AGI Race OpenAI Vs Anthropic In The Battle For Artificial General Intelligence 7db60baa-C7d1-4c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.234Z",
+  "generatedAt": "2025-07-13T03:56:09.757Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.302954060342675,
     "fogIndex": 25.67491064250287,
     "smogIndex": 18.206284415032883,
     "ariIndex": 21.578069462995465,

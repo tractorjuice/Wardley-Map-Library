@@ -3,6 +3,11 @@
   "overallStats": {
     "avgReadabilityScore": 16.580663764163617,
     "avgFleschScore": 0.49012094887058766,
+    "avgFleschKincaidGrade": 22.319454856607376,
+    "avgFogIndex": 27.05500696994106,
+    "avgSmogIndex": 19.77035097750521,
+    "avgAriIndex": 24.404662578796344,
+    "avgCliIndex": 0,
     "avgSentenceLength": 17.089155769359284,
     "avgComplexityScore": 0.2866132818888201
   },
@@ -83,6 +88,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.371228249958175,
           "fogIndex": 29.449670102915878,
           "smogIndex": 21.582503947771137,
           "ariIndex": 26.685892212884433,
@@ -143,6 +149,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.73140062532705,
           "fogIndex": 30.702437578203742,
           "smogIndex": 22.865102239084273,
           "ariIndex": 28.249806290792222,
@@ -203,6 +210,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.90581080929198,
           "fogIndex": 30.93651076751349,
           "smogIndex": 23.176680986631773,
           "ariIndex": 28.851053081155264,
@@ -263,6 +271,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.74675506286177,
           "fogIndex": 32.639226583258115,
           "smogIndex": 23.7406239723204,
           "ariIndex": 29.416815385281588,
@@ -323,6 +332,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.99802508585142,
           "fogIndex": 30.487082193115402,
           "smogIndex": 23.387369754756065,
           "ariIndex": 29.964778019960995,
@@ -383,6 +393,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.99802508585142,
           "fogIndex": 30.487082193115402,
           "smogIndex": 23.387369754756065,
           "ariIndex": 29.964778019960995,
@@ -443,6 +454,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.881799195455034,
           "fogIndex": 32.650086044219265,
           "smogIndex": 24.048073260293517,
           "ariIndex": 30.31217215018733,
@@ -503,6 +515,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.465233700170298,
           "fogIndex": 31.13332771785904,
           "smogIndex": 23.020890670836106,
           "ariIndex": 29.223845626705234,
@@ -563,6 +576,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.070496959462123,
           "fogIndex": 28.950831260245675,
           "smogIndex": 22.58702108746698,
           "ariIndex": 27.798053167470677,
@@ -623,6 +637,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.34208071191669,
           "fogIndex": 32.15663123797272,
           "smogIndex": 23.88733842891674,
           "ariIndex": 30.128058205931005,
@@ -683,6 +698,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.208708732716605,
           "fogIndex": 28.538079639941863,
           "smogIndex": 21.852564242116266,
           "ariIndex": 27.040401123789266,
@@ -743,6 +759,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.786660861388594,
           "fogIndex": 31.358205151360085,
           "smogIndex": 23.787403671297398,
           "ariIndex": 28.95038246031985,
@@ -803,6 +820,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.641432915707778,
           "fogIndex": 28.913944031563144,
           "smogIndex": 21.831320171719305,
           "ariIndex": 26.612660051506964,
@@ -863,6 +881,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.77344020852394,
           "fogIndex": 33.344753887541856,
           "smogIndex": 25.420645954512185,
           "ariIndex": 31.698642113323963,
@@ -923,6 +942,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 28.336195280283082,
           "fogIndex": 33.908862106579406,
           "smogIndex": 25.662841778262475,
           "ariIndex": 32.1336229068561,
@@ -983,6 +1003,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.89480357674299,
           "fogIndex": 32.78632572041435,
           "smogIndex": 24.304676044479496,
           "ariIndex": 30.29030118505481,
@@ -1043,6 +1064,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.64364876888592,
           "fogIndex": 30.800425485800982,
           "smogIndex": 23.024691963631877,
           "ariIndex": 28.360297398034554,
@@ -1103,6 +1125,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.732598514569677,
           "fogIndex": 26.290781906028243,
           "smogIndex": 19.671328904596727,
           "ariIndex": 23.700602967983514,
@@ -1163,6 +1186,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.929243463391064,
           "fogIndex": 32.410287056240314,
           "smogIndex": 24.199589902158923,
           "ariIndex": 30.24663798820825,
@@ -1223,6 +1247,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 17.334369848783613,
           "fogIndex": 21.09100145348536,
           "smogIndex": 11.396520042137222,
           "ariIndex": 18.487653514801295,
@@ -1283,6 +1308,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.70280993838838,
           "fogIndex": 32.2983294208811,
           "smogIndex": 24.70076631854435,
           "ariIndex": 30.654012238758348,
@@ -1343,6 +1369,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.058334066770446,
           "fogIndex": 30.242568311873384,
           "smogIndex": 22.475027627089307,
           "ariIndex": 27.999509231388956,
@@ -1403,6 +1430,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.397959691993112,
           "fogIndex": 26.4838764316727,
           "smogIndex": 21.320798367429177,
           "ariIndex": 25.353710159621073,
@@ -1463,6 +1491,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.825892516747334,
           "fogIndex": 26.738654456434656,
           "smogIndex": 21.646428776041105,
           "ariIndex": 25.823561730083888,
@@ -1523,6 +1552,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.598430449021375,
           "fogIndex": 25.102029511037372,
           "smogIndex": 13.272017086182228,
           "ariIndex": 21.07738100415135,
@@ -1583,6 +1613,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.265323141495994,
           "fogIndex": 31.607471290778843,
           "smogIndex": 23.668084841003438,
           "ariIndex": 29.112148177366564,
@@ -1643,6 +1674,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.440039399491976,
           "fogIndex": 32.27039742894067,
           "smogIndex": 24.42599267298759,
           "ariIndex": 29.217272666504137,
@@ -1703,6 +1735,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.87022996749221,
           "fogIndex": 32.49664082089029,
           "smogIndex": 24.138129907646316,
           "ariIndex": 29.478793921317134,
@@ -1763,6 +1796,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.691200108676274,
           "fogIndex": 31.803667171079578,
           "smogIndex": 24.2398970063405,
           "ariIndex": 29.534069364720573,
@@ -1823,6 +1857,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.44054511821096,
           "fogIndex": 29.23175859375346,
           "smogIndex": 21.688678719196254,
           "ariIndex": 27.60620180841623,
@@ -1883,6 +1918,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.17985471501009,
           "fogIndex": 31.081880334764527,
           "smogIndex": 23.3631769279576,
           "ariIndex": 28.980564962713636,
@@ -1943,6 +1979,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.94064003581659,
           "fogIndex": 23.581852644311528,
           "smogIndex": 14.076868442165509,
           "ariIndex": 20.007634691533582,
@@ -2003,6 +2040,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.999276639623947,
           "fogIndex": 31.565797097408097,
           "smogIndex": 23.98025914348933,
           "ariIndex": 29.05099041886377,
@@ -2063,6 +2101,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.999998341318705,
           "fogIndex": 31.3719653696508,
           "smogIndex": 23.70692591724037,
           "ariIndex": 29.042272160073317,
@@ -2123,6 +2162,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.70096428736566,
           "fogIndex": 22.894865187048918,
           "smogIndex": 17.03476010208287,
           "ariIndex": 20.950290490739555,
@@ -2183,6 +2223,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.44816587762612,
           "fogIndex": 29.885071732809024,
           "smogIndex": 22.9449494781052,
           "ariIndex": 28.725345444393334,
@@ -2243,6 +2284,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.24890728588429,
           "fogIndex": 29.726904685525064,
           "smogIndex": 22.60125509854567,
           "ariIndex": 28.359965111723795,
@@ -2303,6 +2345,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.438404121514946,
           "fogIndex": 27.499548862123806,
           "smogIndex": 20.485103506909176,
           "ariIndex": 25.902936657878293,
@@ -2363,6 +2406,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.307862341663796,
           "fogIndex": 29.984075927908762,
           "smogIndex": 22.59646979705129,
           "ariIndex": 27.631689289849298,
@@ -2423,6 +2467,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.08385277983692,
           "fogIndex": 32.329204701895584,
           "smogIndex": 24.074129518268215,
           "ariIndex": 29.686493546542415,
@@ -2483,6 +2528,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.478250094559453,
           "fogIndex": 32.42184998941166,
           "smogIndex": 24.456917700453488,
           "ariIndex": 31.038147800007046,
@@ -2543,6 +2589,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.998894827301566,
           "fogIndex": 30.66823212068302,
           "smogIndex": 23.11903904958459,
           "ariIndex": 29.03190380060552,
@@ -2603,6 +2650,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 28.58732293545393,
           "fogIndex": 33.93490673404016,
           "smogIndex": 25.29789819133405,
           "ariIndex": 31.367300012501424,
@@ -2663,6 +2711,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.965843128833438,
           "fogIndex": 30.259735543025926,
           "smogIndex": 22.69998938365151,
           "ariIndex": 27.68220518235777,
@@ -2723,6 +2772,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.85109567025903,
           "fogIndex": 29.720136131593875,
           "smogIndex": 22.101155121237017,
           "ariIndex": 27.36648326715825,
@@ -2783,6 +2833,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.045212215482426,
           "fogIndex": 28.107633676350687,
           "smogIndex": 20.935972344261494,
           "ariIndex": 25.554186347957376,
@@ -2843,6 +2894,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.882224621005125,
           "fogIndex": 31.131681465575117,
           "smogIndex": 23.300346240411233,
           "ariIndex": 28.858980876440874,
@@ -2903,6 +2955,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.624658180869655,
           "fogIndex": 30.79922699233706,
           "smogIndex": 23.343491365165033,
           "ariIndex": 29.66684866391745,
@@ -2963,6 +3016,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.734061019994822,
           "fogIndex": 29.189766549408382,
           "smogIndex": 22.148981382296004,
           "ariIndex": 27.79720481748823,
@@ -3023,6 +3077,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.153619800542064,
           "fogIndex": 32.02828359056754,
           "smogIndex": 24.151437078688467,
           "ariIndex": 29.206303349724912,
@@ -3083,6 +3138,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.16816956335457,
           "fogIndex": 32.60569141735902,
           "smogIndex": 24.56670423784181,
           "ariIndex": 30.54707012282205,
@@ -3143,6 +3199,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.947038179926306,
           "fogIndex": 31.190943543921954,
           "smogIndex": 23.353422611902086,
           "ariIndex": 28.910635775244863,
@@ -3203,6 +3260,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.459740604575163,
           "fogIndex": 30.082266981107956,
           "smogIndex": 22.59488112626794,
           "ariIndex": 28.135990921466366,
@@ -3263,6 +3321,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.814411672512495,
           "fogIndex": 29.59753662878094,
           "smogIndex": 22.272982486610626,
           "ariIndex": 27.37290853601494,
@@ -3323,6 +3382,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.764845307024725,
           "fogIndex": 29.5832501379073,
           "smogIndex": 22.581687641926994,
           "ariIndex": 27.36135428802622,
@@ -3383,6 +3443,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.440365110240098,
           "fogIndex": 30.554044851932584,
           "smogIndex": 22.939002070859264,
           "ariIndex": 28.093849980939716,
@@ -3443,6 +3504,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.057059331970766,
           "fogIndex": 29.998536397721637,
           "smogIndex": 22.47673911107852,
           "ariIndex": 27.587693366516973,
@@ -3503,6 +3565,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.1835387944521,
           "fogIndex": 29.996549357214686,
           "smogIndex": 22.169766990060676,
           "ariIndex": 26.587826529020475,
@@ -3563,6 +3626,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.991135641789786,
           "fogIndex": 28.650332309798053,
           "smogIndex": 21.767748953480588,
           "ariIndex": 27.151499468635954,
@@ -3623,6 +3687,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.674732365754057,
           "fogIndex": 29.364343401778925,
           "smogIndex": 22.345801723409135,
           "ariIndex": 27.55749650099817,
@@ -3683,6 +3748,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.832602416247145,
           "fogIndex": 29.505222496478826,
           "smogIndex": 22.186570785742944,
           "ariIndex": 27.224921202359532,
@@ -3743,6 +3809,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.535368421052635,
           "fogIndex": 30.141710207722696,
           "smogIndex": 22.631864280184004,
           "ariIndex": 28.33503800178412,
@@ -3803,6 +3870,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.83674493202958,
           "fogIndex": 31.6526607838461,
           "smogIndex": 23.607522534462948,
           "ariIndex": 29.04244743222832,
@@ -3863,6 +3931,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 28.314765270619166,
           "fogIndex": 33.72502122552912,
           "smogIndex": 25.06820497276468,
           "ariIndex": 31.439779493352226,
@@ -3923,6 +3992,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.19918422225351,
           "fogIndex": 23.319579428025005,
           "smogIndex": 13.441074047097821,
           "ariIndex": 19.65016018733447,
@@ -3983,6 +4053,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.86664710410405,
           "fogIndex": 25.84491616987234,
           "smogIndex": 19.752507799301515,
           "ariIndex": 24.300579342900093,
@@ -4043,6 +4114,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.395345390814295,
           "fogIndex": 30.188674962216023,
           "smogIndex": 22.266044752484508,
           "ariIndex": 27.661839000049163,
@@ -4103,6 +4175,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.449405025671457,
           "fogIndex": 31.403617990541388,
           "smogIndex": 23.4270477905016,
           "ariIndex": 28.600245406120507,
@@ -4162,6 +4235,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.035593106864372,
           "fogIndex": 27.64703068707691,
           "smogIndex": 20.647185449779283,
           "ariIndex": 25.147673884437772,
@@ -4221,6 +4295,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.310534760845385,
           "fogIndex": 20.45211345939933,
           "smogIndex": 9.910864200067898,
           "ariIndex": 15.678272858731923,
@@ -4280,6 +4355,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 16.67262759170654,
           "fogIndex": 20.7384370015949,
           "smogIndex": 12.816540068035017,
           "ariIndex": 17.60774700956938,
@@ -4339,6 +4415,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.371565616228484,
           "fogIndex": 25.88637726179551,
           "smogIndex": 18.16532547412897,
           "ariIndex": 22.620561906272677,
@@ -4398,6 +4475,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.712675021560887,
           "fogIndex": 26.197433759145458,
           "smogIndex": 18.658880125768587,
           "ariIndex": 22.974618304761584,
@@ -4457,6 +4535,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.14699951961106,
           "fogIndex": 25.59727472755953,
           "smogIndex": 18.587726427134417,
           "ariIndex": 22.575941002705015,
@@ -4516,6 +4595,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.55115770636632,
           "fogIndex": 26.12992554318569,
           "smogIndex": 18.44020265178474,
           "ariIndex": 22.813771136861412,
@@ -4575,6 +4655,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.90454939931887,
           "fogIndex": 24.171841250364324,
           "smogIndex": 18.180057006288923,
           "ariIndex": 21.44574489783696,
@@ -4634,6 +4715,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.409234836200742,
           "fogIndex": 26.1323743278639,
           "smogIndex": 19.19382159110139,
           "ariIndex": 22.67252379449193,
@@ -4693,6 +4775,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.92701754058584,
           "fogIndex": 24.976509787302167,
           "smogIndex": 17.95011655464791,
           "ariIndex": 22.019452715453973,
@@ -4752,6 +4835,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.82718732370221,
           "fogIndex": 26.316495613391737,
           "smogIndex": 18.270116829960966,
           "ariIndex": 21.856906600088912,
@@ -4811,6 +4895,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.919062746881774,
           "fogIndex": 25.523678286448934,
           "smogIndex": 18.148356623128876,
           "ariIndex": 22.959812190040203,
@@ -4870,6 +4955,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.13934596433406,
           "fogIndex": 29.27799634848192,
           "smogIndex": 21.567135410135425,
           "ariIndex": 26.467474516426485,
@@ -4929,6 +5015,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.681186886080734,
           "fogIndex": 23.663964931050167,
           "smogIndex": 17.531063153218614,
           "ariIndex": 20.337725359401922,
@@ -4988,6 +5075,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.03724649668492,
           "fogIndex": 24.957117588861234,
           "smogIndex": 17.508173816416676,
           "ariIndex": 20.98683913365047,
@@ -5047,6 +5135,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.71390916415771,
           "fogIndex": 31.47137737471121,
           "smogIndex": 23.06056369894448,
           "ariIndex": 28.734558618724556,
@@ -5106,6 +5195,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.616955181634697,
           "fogIndex": 25.389143313054266,
           "smogIndex": 17.79633949757663,
           "ariIndex": 22.155445424941462,
@@ -5165,6 +5255,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.820565929075276,
           "fogIndex": 28.179395110638712,
           "smogIndex": 19.634974501785788,
           "ariIndex": 22.945853002222435,
@@ -5224,6 +5315,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.548842459540015,
           "fogIndex": 25.339651691435133,
           "smogIndex": 18.756184162459764,
           "ariIndex": 23.16924148271856,
@@ -5283,6 +5375,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.83391885501103,
           "fogIndex": 31.22938947930559,
           "smogIndex": 22.798397814610052,
           "ariIndex": 28.744292072694044,
@@ -5342,6 +5435,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.033352296052424,
           "fogIndex": 27.96570052048969,
           "smogIndex": 20.913471293528964,
           "ariIndex": 24.900744917965135,
@@ -5401,6 +5495,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.534239045194195,
           "fogIndex": 25.805270351110707,
           "smogIndex": 18.379258356650354,
           "ariIndex": 23.317647359774888,
@@ -5460,6 +5555,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.173378672671664,
           "fogIndex": 23.27338841246044,
           "smogIndex": 17.37491192624968,
           "ariIndex": 20.8105055928715,
@@ -5519,6 +5615,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.268191354088994,
           "fogIndex": 23.922259979807134,
           "smogIndex": 17.16626110025604,
           "ariIndex": 20.397702334549457,
@@ -5578,6 +5675,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.111646639997968,
           "fogIndex": 23.400530107097605,
           "smogIndex": 17.147692943753004,
           "ariIndex": 20.30358422470068,
@@ -5637,6 +5735,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.76720938517035,
           "fogIndex": 25.334850741148408,
           "smogIndex": 17.973863302638687,
           "ariIndex": 21.74784250258042,
@@ -5696,6 +5795,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.36815525758499,
           "fogIndex": 25.28071369160913,
           "smogIndex": 17.668926681626594,
           "ariIndex": 21.339796156637412,
@@ -5755,6 +5855,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.639516885296086,
           "fogIndex": 24.010076433405413,
           "smogIndex": 17.38901168560791,
           "ariIndex": 21.07817713121601,
@@ -5814,6 +5915,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.317427234909704,
           "fogIndex": 28.937615623984343,
           "smogIndex": 21.42078581261051,
           "ariIndex": 26.834021054951826,
@@ -5873,6 +5975,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.515093076123303,
           "fogIndex": 24.826984185781825,
           "smogIndex": 17.49168073656152,
           "ariIndex": 21.198903666388055,
@@ -5932,6 +6035,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.81618741768443,
           "fogIndex": 24.301606953473286,
           "smogIndex": 17.68586896050359,
           "ariIndex": 21.072633289272744,
@@ -5991,6 +6095,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.718377668105592,
           "fogIndex": 25.121584646370042,
           "smogIndex": 17.694248362691994,
           "ariIndex": 21.85565394169995,
@@ -6050,6 +6155,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.774009631771538,
           "fogIndex": 25.456702536418177,
           "smogIndex": 18.179496698521667,
           "ariIndex": 21.77944234768698,
@@ -6109,6 +6215,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.06761001773045,
           "fogIndex": 25.93390246585061,
           "smogIndex": 18.85282330303436,
           "ariIndex": 22.27756632217354,
@@ -6168,6 +6275,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.15729227242821,
           "fogIndex": 26.877560116306217,
           "smogIndex": 18.961863047196196,
           "ariIndex": 22.940595697943422,
@@ -6227,6 +6335,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.088329436776018,
           "fogIndex": 26.272180866760603,
           "smogIndex": 18.740517172708916,
           "ariIndex": 23.059824964047763,
@@ -6286,6 +6395,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.5734611485742,
           "fogIndex": 24.48975364770684,
           "smogIndex": 17.95061523064338,
           "ariIndex": 22.139156888405203,
@@ -6345,6 +6455,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.965663930233088,
           "fogIndex": 25.69666113849274,
           "smogIndex": 17.798520086106013,
           "ariIndex": 22.37532462799463,
@@ -6404,6 +6515,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.286945183432483,
           "fogIndex": 28.894549703259816,
           "smogIndex": 21.547534289482307,
           "ariIndex": 26.538172109831372,
@@ -6463,6 +6575,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.54211901456652,
           "fogIndex": 25.837793909246034,
           "smogIndex": 18.331580677828654,
           "ariIndex": 23.380346259796973,
@@ -6522,6 +6635,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.90638223446317,
           "fogIndex": 24.175209588378486,
           "smogIndex": 17.149739905880555,
           "ariIndex": 21.582180719842746,
@@ -6581,6 +6695,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.257728811324622,
           "fogIndex": 23.13890169638938,
           "smogIndex": 17.11543941153042,
           "ariIndex": 21.141016310273386,
@@ -6640,6 +6755,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.234587390615072,
           "fogIndex": 29.38110382779333,
           "smogIndex": 21.676123960172262,
           "ariIndex": 26.80949169809906,
@@ -6699,6 +6815,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.74105384477635,
           "fogIndex": 26.635359195521303,
           "smogIndex": 19.775447493088443,
           "ariIndex": 23.64225264140871,
@@ -6758,6 +6875,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.174862960842116,
           "fogIndex": 24.96727700682515,
           "smogIndex": 18.382282826295633,
           "ariIndex": 21.969032165723696,
@@ -6817,6 +6935,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 17.730178873572914,
           "fogIndex": 21.2826338825438,
           "smogIndex": 16.0476295908357,
           "ariIndex": 19.92897039807282,
@@ -6876,6 +6995,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.00421887986165,
           "fogIndex": 24.978318785471743,
           "smogIndex": 17.59708829009209,
           "ariIndex": 22.45105581760056,
@@ -6935,6 +7055,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.240631334694303,
           "fogIndex": 32.234370895501606,
           "smogIndex": 23.665786872442133,
           "ariIndex": 29.560574600177986,
@@ -6994,6 +7115,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.22056967366262,
           "fogIndex": 26.394538853872024,
           "smogIndex": 18.07801293593289,
           "ariIndex": 22.811933970318563,
@@ -7053,6 +7175,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.035622108748232,
           "fogIndex": 23.07709207456898,
           "smogIndex": 17.01446512779524,
           "ariIndex": 20.757523677854692,
@@ -7112,6 +7235,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 17.813836505686258,
           "fogIndex": 21.664166657980047,
           "smogIndex": 16.253940947489887,
           "ariIndex": 18.993008120250593,
@@ -7171,6 +7295,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.88369729497639,
           "fogIndex": 24.739110747452816,
           "smogIndex": 18.002475329960657,
           "ariIndex": 22.548058658803,
@@ -7230,6 +7355,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.419759308437637,
           "fogIndex": 26.72721573980606,
           "smogIndex": 19.582649538904626,
           "ariIndex": 24.39738238415306,
@@ -7289,6 +7415,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.605735842370418,
           "fogIndex": 27.90653057119842,
           "smogIndex": 18.60915743121039,
           "ariIndex": 23.028608799367532,
@@ -7348,6 +7475,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.123353384385613,
           "fogIndex": 27.297327745628294,
           "smogIndex": 18.622186048407876,
           "ariIndex": 22.967363258549312,
@@ -7407,6 +7535,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.883593878275367,
           "fogIndex": 24.15146264789251,
           "smogIndex": 17.669980733467995,
           "ariIndex": 22.43464887488139,
@@ -7466,6 +7595,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.919933649203063,
           "fogIndex": 28.145450982473097,
           "smogIndex": 21.1538132538805,
           "ariIndex": 25.754029173032002,
@@ -7525,6 +7655,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.017941687772673,
           "fogIndex": 25.44156556480728,
           "smogIndex": 19.163789822276865,
           "ariIndex": 23.374507057879818,
@@ -7584,6 +7715,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.941128120668647,
           "fogIndex": 28.59156395101567,
           "smogIndex": 21.033542630353352,
           "ariIndex": 25.909608856247566,
@@ -7643,6 +7775,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.736655620375704,
           "fogIndex": 24.435932918753036,
           "smogIndex": 17.40831395515927,
           "ariIndex": 21.29288385789132,
@@ -7702,6 +7835,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.831846327041053,
           "fogIndex": 26.95648077532124,
           "smogIndex": 19.275488934078304,
           "ariIndex": 23.89687044850215,
@@ -7761,6 +7895,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.464314291858503,
           "fogIndex": 23.672094008321686,
           "smogIndex": 17.444172280857533,
           "ariIndex": 21.330565898605123,
@@ -7820,6 +7955,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.926934130913093,
           "fogIndex": 29.204629629629633,
           "smogIndex": 21.410136026668,
           "ariIndex": 26.31773349834983,
@@ -7879,6 +8015,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.453576135076705,
           "fogIndex": 28.31855435895491,
           "smogIndex": 21.21227791571682,
           "ariIndex": 26.284246474353758,
@@ -7938,6 +8075,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.260826362717165,
           "fogIndex": 26.54172696194941,
           "smogIndex": 18.484390490463266,
           "ariIndex": 23.297847578777812,
@@ -7997,6 +8135,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.62493118345927,
           "fogIndex": 29.781114921941423,
           "smogIndex": 21.909351956615406,
           "ariIndex": 27.170768515894338,
@@ -8056,6 +8195,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.412506525147027,
           "fogIndex": 29.585613556056416,
           "smogIndex": 21.92100558346905,
           "ariIndex": 26.953912792262386,
@@ -8115,6 +8255,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.91412008281573,
           "fogIndex": 27.802760524499657,
           "smogIndex": 20.604848404699236,
           "ariIndex": 25.49145621118012,
@@ -8174,6 +8315,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.27152608237147,
           "fogIndex": 26.179148548892712,
           "smogIndex": 18.08766729970568,
           "ariIndex": 22.945508682085432,
@@ -8233,6 +8375,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.279304475421544,
           "fogIndex": 28.33609186521974,
           "smogIndex": 21.089510720697632,
           "ariIndex": 25.74395591620881,
@@ -8292,6 +8435,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.05965004770528,
           "fogIndex": 29.193771053605158,
           "smogIndex": 21.635054657525174,
           "ariIndex": 26.6250762383901,
@@ -8351,6 +8495,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.062976493057054,
           "fogIndex": 28.26693239798329,
           "smogIndex": 19.954714480152887,
           "ariIndex": 24.712422281525555,
@@ -8410,6 +8555,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.302954060342675,
           "fogIndex": 25.67491064250287,
           "smogIndex": 18.206284415032883,
           "ariIndex": 21.578069462995465,
@@ -8469,6 +8615,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.315769760717682,
           "fogIndex": 24.40776211728373,
           "smogIndex": 18.01974846220128,
           "ariIndex": 21.72269891148678,
@@ -8528,6 +8675,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.801757834889532,
           "fogIndex": 25.121922946548995,
           "smogIndex": 18.011367043880934,
           "ariIndex": 20.9824619248429,
@@ -8587,6 +8735,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.66619410993356,
           "fogIndex": 23.924734385780837,
           "smogIndex": 17.11371379812328,
           "ariIndex": 20.652919886708894,
@@ -8646,6 +8795,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.50053861663942,
           "fogIndex": 24.068748165133613,
           "smogIndex": 17.083965955551584,
           "ariIndex": 20.381768287689262,
@@ -8705,6 +8855,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.32635874851039,
           "fogIndex": 26.07269649794609,
           "smogIndex": 18.524155116960884,
           "ariIndex": 22.79830698442192,
@@ -8764,6 +8915,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.19263654826967,
           "fogIndex": 23.202993017727934,
           "smogIndex": 14.926298505334113,
           "ariIndex": 19.888135819400794,
@@ -8823,6 +8975,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.932760199763425,
           "fogIndex": 24.71247090029531,
           "smogIndex": 17.341839599723922,
           "ariIndex": 21.11744926855443,
@@ -8882,6 +9035,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.510023739577523,
           "fogIndex": 27.42765952859767,
           "smogIndex": 19.134768876378065,
           "ariIndex": 23.937168043014204,
@@ -8941,6 +9095,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 22.028654931616156,
           "fogIndex": 26.776777460804468,
           "smogIndex": 20.15481197216441,
           "ariIndex": 24.572946268150872,
@@ -9000,6 +9155,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.22117579568864,
           "fogIndex": 24.735969036565372,
           "smogIndex": 17.607687831218133,
           "ariIndex": 20.990286815241213,
@@ -9059,6 +9215,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.38543439036872,
           "fogIndex": 24.48602357207325,
           "smogIndex": 18.08322540397927,
           "ariIndex": 22.38031669417569,
@@ -9118,6 +9275,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.64532170492217,
           "fogIndex": 29.64960278135828,
           "smogIndex": 21.65847717164104,
           "ariIndex": 27.410386546125373,
@@ -9177,6 +9335,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.95751325394183,
           "fogIndex": 26.441923156208873,
           "smogIndex": 19.748991860494925,
           "ariIndex": 23.88289219312434,
@@ -9236,6 +9395,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.120269799745007,
           "fogIndex": 25.0032990104002,
           "smogIndex": 18.015972719971693,
           "ariIndex": 22.544921872965887,
@@ -9295,6 +9455,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.651890734085125,
           "fogIndex": 24.619230726819758,
           "smogIndex": 17.135799940378604,
           "ariIndex": 20.987916888878587,
@@ -9354,6 +9515,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.9171276608831,
           "fogIndex": 23.944864286135015,
           "smogIndex": 16.788634271057802,
           "ariIndex": 20.273522922491104,
@@ -9413,6 +9575,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 23.49663473301401,
           "fogIndex": 28.56649408299438,
           "smogIndex": 21.22940803811435,
           "ariIndex": 25.99583694281675,
@@ -9472,6 +9635,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.00878511249235,
           "fogIndex": 29.087905036319697,
           "smogIndex": 21.553748996619955,
           "ariIndex": 26.52124200245173,
@@ -9531,6 +9695,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.335753789511717,
           "fogIndex": 23.190458917412087,
           "smogIndex": 17.259242487734237,
           "ariIndex": 21.438176819823305,
@@ -9590,6 +9755,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 21.818808139534884,
           "fogIndex": 26.580232558139535,
           "smogIndex": 19.359828563366293,
           "ariIndex": 23.655088662790696,
@@ -9649,6 +9815,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.907721884129057,
           "fogIndex": 25.85108941186833,
           "smogIndex": 17.940857897894634,
           "ariIndex": 22.679270352536186,
@@ -9708,6 +9875,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.571258821306305,
           "fogIndex": 25.021632353681845,
           "smogIndex": 18.023332429092292,
           "ariIndex": 22.15278116955765,
@@ -9766,6 +9934,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.428811833560015,
           "fogIndex": 23.137789851348476,
           "smogIndex": 16.149061502270985,
           "ariIndex": 20.00633005705599,
@@ -9824,6 +9993,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.582370173435844,
           "fogIndex": 23.578006338189603,
           "smogIndex": 17.129487521942494,
           "ariIndex": 20.292134304506902,
@@ -9882,6 +10052,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.73585780640852,
           "fogIndex": 23.075472687926187,
           "smogIndex": 16.52114411650621,
           "ariIndex": 19.97850043962503,
@@ -9940,6 +10111,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.492480597643674,
           "fogIndex": 22.787563672258152,
           "smogIndex": 16.45789465206449,
           "ariIndex": 19.592530879720975,
@@ -9998,6 +10170,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.803646026108442,
           "fogIndex": 24.81546420139699,
           "smogIndex": 16.766063712000093,
           "ariIndex": 21.20701874756508,
@@ -10056,6 +10229,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.181861357833437,
           "fogIndex": 23.731995140247058,
           "smogIndex": 16.835621694696417,
           "ariIndex": 21.34156575862248,
@@ -10114,6 +10288,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 20.120691449890796,
           "fogIndex": 25.075287483783793,
           "smogIndex": 17.38034648534332,
           "ariIndex": 21.454736405913316,
@@ -10172,6 +10347,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.929796324967942,
           "fogIndex": 24.908878839297966,
           "smogIndex": 17.1352336655283,
           "ariIndex": 21.364706668638455,
@@ -10230,6 +10406,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.40570466609805,
           "fogIndex": 23.581102981984102,
           "smogIndex": 16.660301467892253,
           "ariIndex": 19.930534305781045,
@@ -10288,6 +10465,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.373053625487014,
           "fogIndex": 24.203854505556706,
           "smogIndex": 16.781458334089077,
           "ariIndex": 20.94023591022186,
@@ -10346,6 +10524,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.60377623885154,
           "fogIndex": 24.69762319716227,
           "smogIndex": 16.75749795337538,
           "ariIndex": 20.96025790001633,
@@ -10404,6 +10583,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.9421903723066,
           "fogIndex": 23.4779413000166,
           "smogIndex": 16.448665957355605,
           "ariIndex": 20.67497284167834,
@@ -10462,6 +10642,7 @@
         "readabilityMetrics": {
           "fleschScore": 0.8485027660491653,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 16.682712382546807,
           "fogIndex": 20.37433073486231,
           "smogIndex": 16.192701761915234,
           "ariIndex": 19.19803293198757,
@@ -10520,6 +10701,7 @@
         "readabilityMetrics": {
           "fleschScore": 6.985627199476966,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.194412415145866,
           "fogIndex": 18.90805946039499,
           "smogIndex": 14.787063587179368,
           "ariIndex": 17.247926761023827,
@@ -10578,6 +10760,7 @@
         "readabilityMetrics": {
           "fleschScore": 9.06492933498535,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.137056643149393,
           "fogIndex": 18.822798034098675,
           "smogIndex": 15.046771647599627,
           "ariIndex": 16.97733174996501,
@@ -10636,6 +10819,7 @@
         "readabilityMetrics": {
           "fleschScore": 10.24479817696988,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 14.440934462705734,
           "fogIndex": 18.104471594308986,
           "smogIndex": 14.046177116262893,
           "ariIndex": 16.00047645397982,
@@ -10694,6 +10878,7 @@
         "readabilityMetrics": {
           "fleschScore": 11.096713521890337,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 14.792511216432185,
           "fogIndex": 18.449025239099335,
           "smogIndex": 14.811606045943801,
           "ariIndex": 16.781519817071178,
@@ -10752,6 +10937,7 @@
         "readabilityMetrics": {
           "fleschScore": 16.254772727272723,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 13.645773694390716,
           "fogIndex": 17.06963249516441,
           "smogIndex": 13.689734389988523,
           "ariIndex": 15.22284332688588,
@@ -10810,6 +10996,7 @@
         "readabilityMetrics": {
           "fleschScore": 34.70666896780253,
           "fleschGrade": "Difficult",
+          "fleschKincaidGrade": 10.996502698835595,
           "fogIndex": 13.622841486971764,
           "smogIndex": 12.084365551000104,
           "ariIndex": 13.103579840526528,
@@ -10870,6 +11057,7 @@
         "readabilityMetrics": {
           "fleschScore": 34.70666896780253,
           "fleschGrade": "Difficult",
+          "fleschKincaidGrade": 10.996502698835595,
           "fogIndex": 13.622841486971764,
           "smogIndex": 12.084365551000104,
           "ariIndex": 13.103579840526528,
@@ -10928,6 +11116,7 @@
         "readabilityMetrics": {
           "fleschScore": 16.254772727272723,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 13.645773694390716,
           "fogIndex": 17.06963249516441,
           "smogIndex": 13.689734389988523,
           "ariIndex": 15.22284332688588,
@@ -10986,6 +11175,7 @@
         "readabilityMetrics": {
           "fleschScore": 11.096713521890337,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 14.792511216432185,
           "fogIndex": 18.449025239099335,
           "smogIndex": 14.811606045943801,
           "ariIndex": 16.781519817071178,
@@ -11044,6 +11234,7 @@
         "readabilityMetrics": {
           "fleschScore": 10.24479817696988,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 14.440934462705734,
           "fogIndex": 18.104471594308986,
           "smogIndex": 14.046177116262893,
           "ariIndex": 16.00047645397982,
@@ -11102,6 +11293,7 @@
         "readabilityMetrics": {
           "fleschScore": 9.06492933498535,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.137056643149393,
           "fogIndex": 18.822798034098675,
           "smogIndex": 15.046771647599627,
           "ariIndex": 16.97733174996501,
@@ -11160,6 +11352,7 @@
         "readabilityMetrics": {
           "fleschScore": 6.985627199476966,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.194412415145866,
           "fogIndex": 18.90805946039499,
           "smogIndex": 14.787063587179368,
           "ariIndex": 17.247926761023827,
@@ -11218,6 +11411,7 @@
         "readabilityMetrics": {
           "fleschScore": 0.8485027660491653,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 16.682712382546807,
           "fogIndex": 20.37433073486231,
           "smogIndex": 16.192701761915234,
           "ariIndex": 19.19803293198757,
@@ -11276,6 +11470,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.428811833560015,
           "fogIndex": 23.137789851348476,
           "smogIndex": 16.149061502270985,
           "ariIndex": 20.00633005705599,
@@ -11334,6 +11529,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 19.582370173435844,
           "fogIndex": 23.578006338189603,
           "smogIndex": 17.129487521942494,
           "ariIndex": 20.292134304506902,
@@ -11392,6 +11588,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 18.73585780640852,
           "fogIndex": 23.075472687926187,
           "smogIndex": 16.52114411650621,
           "ariIndex": 19.97850043962503,
@@ -11454,6 +11651,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 24.371228249958175,
           "fogIndex": 29.449670102915878,
           "smogIndex": 21.582503947771137,
           "ariIndex": 26.685892212884433,
@@ -11514,6 +11712,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.73140062532705,
           "fogIndex": 30.702437578203742,
           "smogIndex": 22.865102239084273,
           "ariIndex": 28.249806290792222,
@@ -11574,6 +11773,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.90581080929198,
           "fogIndex": 30.93651076751349,
           "smogIndex": 23.176680986631773,
           "ariIndex": 28.851053081155264,
@@ -11634,6 +11834,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.74675506286177,
           "fogIndex": 32.639226583258115,
           "smogIndex": 23.7406239723204,
           "ariIndex": 29.416815385281588,
@@ -11694,6 +11895,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.99802508585142,
           "fogIndex": 30.487082193115402,
           "smogIndex": 23.387369754756065,
           "ariIndex": 29.964778019960995,
@@ -11754,6 +11956,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.99802508585142,
           "fogIndex": 30.487082193115402,
           "smogIndex": 23.387369754756065,
           "ariIndex": 29.964778019960995,
@@ -11814,6 +12017,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.881799195455034,
           "fogIndex": 32.650086044219265,
           "smogIndex": 24.048073260293517,
           "ariIndex": 30.31217215018733,
@@ -11874,6 +12078,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 26.465233700170298,
           "fogIndex": 31.13332771785904,
           "smogIndex": 23.020890670836106,
           "ariIndex": 29.223845626705234,
@@ -11934,6 +12139,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 25.070496959462123,
           "fogIndex": 28.950831260245675,
           "smogIndex": 22.58702108746698,
           "ariIndex": 27.798053167470677,
@@ -11994,6 +12200,7 @@
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 27.34208071191669,
           "fogIndex": 32.15663123797272,
           "smogIndex": 23.88733842891674,
           "ariIndex": 30.128058205931005,

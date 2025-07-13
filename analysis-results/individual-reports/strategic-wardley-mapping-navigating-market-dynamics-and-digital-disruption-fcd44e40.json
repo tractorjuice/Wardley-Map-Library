@@ -3,7 +3,7 @@
   "directory": "Strategic_Wardley_Mapping__Navigating_Market_Dynamics_and_Digital_Disruption_fcd44e40",
   "title": "Strategic Wardley Mapping Navigating Market Dynamics And Digital Disruption Fcd44e40",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:00.839Z",
+  "generatedAt": "2025-07-13T03:56:09.345Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.05965004770528,
     "fogIndex": 29.193771053605158,
     "smogIndex": 21.635054657525174,
     "ariIndex": 26.6250762383901,

@@ -3,7 +3,7 @@
   "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
   "title": "Digital Battlefield Storage A Wardley Mapping Approach To Military Data Strategy 482015f5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:52.740Z",
+  "generatedAt": "2025-07-13T03:56:00.661Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.71390916415771,
     "fogIndex": 31.47137737471121,
     "smogIndex": 23.06056369894448,
     "ariIndex": 28.734558618724556,

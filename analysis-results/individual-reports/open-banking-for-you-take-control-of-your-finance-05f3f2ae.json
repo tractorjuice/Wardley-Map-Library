@@ -3,7 +3,7 @@
   "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
   "title": "Open Banking For You Take Control Of Your Finance 05f3f2ae",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:57.685Z",
+  "generatedAt": "2025-07-13T03:56:06.152Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.813836505686258,
     "fogIndex": 21.664166657980047,
     "smogIndex": 16.253940947489887,
     "ariIndex": 18.993008120250593,

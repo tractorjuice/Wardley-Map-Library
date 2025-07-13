@@ -3,7 +3,7 @@
   "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
   "title": "Charting The AI Current A Strategic Blueprint For Eee71c96-Ce56-45",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:51.588Z",
+  "generatedAt": "2025-07-13T03:55:59.381Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.409234836200742,
     "fogIndex": 26.1323743278639,
     "smogIndex": 19.19382159110139,
     "ariIndex": 22.67252379449193,

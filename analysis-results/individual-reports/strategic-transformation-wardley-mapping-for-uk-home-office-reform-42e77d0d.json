@@ -3,7 +3,7 @@
   "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
   "title": "Strategic Transformation Wardley Mapping For UK Home Office Reform 42e77d0d",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:00.790Z",
+  "generatedAt": "2025-07-13T03:56:09.289Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.882224621005125,
     "fogIndex": 31.131681465575117,
     "smogIndex": 23.300346240411233,
     "ariIndex": 28.858980876440874,

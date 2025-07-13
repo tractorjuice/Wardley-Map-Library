@@ -3,7 +3,7 @@
   "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
   "title": "The AI Success Trinity Mastering DataOps MLOps And FinOps For Transformative AI Implementation Fd9c6f12-26aa-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.524Z",
+  "generatedAt": "2025-07-13T03:56:10.048Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.315769760717682,
     "fogIndex": 24.40776211728373,
     "smogIndex": 18.01974846220128,
     "ariIndex": 21.72269891148678,

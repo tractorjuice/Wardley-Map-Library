@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
   "title": "Wardley Mapping NATO S Warfighting Concept A Strategic Analysis Of The Six Operational Domains 4d6eb348-B1cd-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:03.584Z",
+  "generatedAt": "2025-07-13T03:56:12.202Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.120269799745007,
     "fogIndex": 25.0032990104002,
     "smogIndex": 18.015972719971693,
     "ariIndex": 22.544921872965887,

@@ -3,7 +3,7 @@
   "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
   "title": "The Creative Revolution How Generative AI Is Transforming Human Potential 78de33e7",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:02.120Z",
+  "generatedAt": "2025-07-13T03:56:10.686Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.674732365754057,
     "fogIndex": 29.364343401778925,
     "smogIndex": 22.345801723409135,
     "ariIndex": 27.55749650099817,

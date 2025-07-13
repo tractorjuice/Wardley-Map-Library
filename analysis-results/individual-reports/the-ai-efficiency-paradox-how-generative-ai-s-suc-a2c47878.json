@@ -3,7 +3,7 @@
   "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
   "title": "The AI Efficiency Paradox How Generative AI S Suc A2c47878",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.365Z",
+  "generatedAt": "2025-07-13T03:56:09.887Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.764845307024725,
     "fogIndex": 29.5832501379073,
     "smogIndex": 22.581687641926994,
     "ariIndex": 27.36135428802622,

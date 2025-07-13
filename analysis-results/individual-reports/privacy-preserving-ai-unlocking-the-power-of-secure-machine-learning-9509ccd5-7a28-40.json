@@ -3,7 +3,7 @@
   "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
   "title": "Privacy-Preserving AI Unlocking The Power Of Secure Machine Learning 9509ccd5-7a28-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:58.157Z",
+  "generatedAt": "2025-07-13T03:56:06.551Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.419759308437637,
     "fogIndex": 26.72721573980606,
     "smogIndex": 19.582649538904626,
     "ariIndex": 24.39738238415306,

@@ -3,7 +3,7 @@
   "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee",
   "title": "The AI Titans OpenAI Anthropic And Google In Th 14c119ee",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.657Z",
+  "generatedAt": "2025-07-13T03:56:10.224Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.801757834889532,
     "fogIndex": 25.121922946548995,
     "smogIndex": 18.011367043880934,
     "ariIndex": 20.9824619248429,

@@ -3,7 +3,7 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
   "title": "GenAI For HMRC A Practical Guide To Strategy B54d1707",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:53.903Z",
+  "generatedAt": "2025-07-13T03:56:01.924Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.73585780640852,
     "fogIndex": 23.075472687926187,
     "smogIndex": 16.52114411650621,
     "ariIndex": 19.97850043962503,

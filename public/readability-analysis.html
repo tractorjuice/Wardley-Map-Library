@@ -388,6 +388,104 @@
                 font-size: 0.9rem;
             }
         }
+        
+        /* Research Section Styles */
+        .research-comparison {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .metric-item {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .metric-desc {
+            color: #666;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+        
+        .modern-methods {
+            margin: 1rem 0;
+        }
+        
+        .method-comparison {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .method-era {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .method-desc {
+            color: #666;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+        
+        .method-advantage {
+            color: #27ae60;
+            font-size: 0.85rem;
+            display: block;
+            margin-top: 0.5rem;
+        }
+        
+        .method-limitation {
+            color: #e74c3c;
+            font-size: 0.85rem;
+            display: block;
+        }
+        
+        .advantages-list {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #27ae60;
+        }
+        
+        .advantages-list li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .research-note {
+            background: #3498db;
+            color: white;
+            padding: 1rem;
+            border-radius: 6px;
+            margin-top: 1rem;
+            font-size: 0.95rem;
+        }
+        
+        .research-note code {
+            background: rgba(255,255,255,0.2);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Consolas', monospace;
+        }
+        
+        @media (max-width: 768px) {
+            .metrics-grid, .method-comparison {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
@@ -515,6 +613,84 @@
                     
                 </div>
             </div>
+
+            <!-- Research Context -->
+            <div class="section">
+                <h2 class="section-header">🔬 Research Context & Methodology</h2>
+                <div class="section-content">
+                    <p>Our readability analysis uses <strong>6 classic readability formulas</strong> from the 1940s-1970s era, covering traditional linguistic assessment methods.</p>
+                    
+                    <div class="research-comparison">
+                        <h4>📚 Classic Formulas (Our Implementation):</h4>
+                        <div class="metrics-grid">
+                            <div class="metric-item">
+                                <strong>Flesch Reading Ease (1948)</strong><br>
+                                <span class="metric-desc">0-100 scale based on sentence length and syllables</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Flesch-Kincaid Grade Level (1975)</strong><br>
+                                <span class="metric-desc">U.S. grade level estimation</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Gunning Fog Index (1952)</strong><br>
+                                <span class="metric-desc">Education years needed for comprehension</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>SMOG Index (1969)</strong><br>
+                                <span class="metric-desc">Simple Measure of Gobbledygook</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Automated Readability Index (1967)</strong><br>
+                                <span class="metric-desc">Character-based metric for real-time scoring</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Coleman-Liau Index (1975)</strong><br>
+                                <span class="metric-desc">Alternative character-based assessment</span>
+                            </div>
+                        </div>
+                        
+                        <h4>🤖 Modern Approaches (Research Reference):</h4>
+                        <div class="modern-methods">
+                            <div class="method-comparison">
+                                <div class="method-era">
+                                    <strong>Neural LM Readability (2019-2021)</strong><br>
+                                    <span class="method-desc">Transformer perplexity, BERT classifiers</span><br>
+                                    <span class="method-advantage">+ Higher accuracy, semantic understanding</span><br>
+                                    <span class="method-limitation">- Computationally expensive, less interpretable</span>
+                                </div>
+                                <div class="method-era">
+                                    <strong>ETS TextEvaluator (2013)</strong><br>
+                                    <span class="method-desc">43 linguistic features, syntax analysis</span><br>
+                                    <span class="method-advantage">+ Rich feature set, teacher-aligned</span><br>
+                                    <span class="method-limitation">- Proprietary, complex implementation</span>
+                                </div>
+                                <div class="method-era">
+                                    <strong>CommonLit CLEAR ML (2021)</strong><br>
+                                    <span class="method-desc">Ensemble ML with transformer embeddings</span><br>
+                                    <span class="method-advantage">+ Open dataset, competition benchmarks</span><br>
+                                    <span class="method-limitation">- Requires large training data</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <h4>📖 Why Classic Formulas?</h4>
+                        <ul class="advantages-list">
+                            <li><strong>Proven Reliability:</strong> 50+ years of validation across domains</li>
+                            <li><strong>Fast Processing:</strong> Real-time analysis of large text collections</li>
+                            <li><strong>Interpretable Results:</strong> Clear understanding of score components</li>
+                            <li><strong>Language Agnostic:</strong> Work across different languages and domains</li>
+                            <li><strong>Standard Benchmarks:</strong> Comparable with educational and publishing standards</li>
+                            <li><strong>Low Computational Cost:</strong> Suitable for large-scale analysis</li>
+                        </ul>
+                        
+                        <div class="research-note">
+                            <strong>📊 Research Coverage:</strong> Our implementation covers <strong>6 of 7 major classic formulas</strong> 
+                            (missing Dale-Chall which requires 3,000-word familiar word lists). 
+                            See <code>research/readabiliity_methods.md</code> for detailed comparison with modern approaches.
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -562,9 +738,29 @@
                     <div class="stat-number">${stats.avgReadabilityScore.toFixed(1)}</div>
                     <div class="stat-label">Average Readability Score</div>
                 </div>
-                <div class="stat-card very-poor">
+                <div class="stat-card very-poor" title="0-100 scale: Higher scores = easier reading. 90+ Very Easy, 60-69 Standard, <30 Graduate level">
                     <div class="stat-number">${stats.avgFleschScore.toFixed(1)}</div>
                     <div class="stat-label">Average Flesch Score</div>
+                </div>
+                <div class="stat-card very-poor" title="Years of education needed to understand the text. 12 = High school, 16 = College graduate">
+                    <div class="stat-number">${stats.avgFleschKincaidGrade.toFixed(1)}</div>
+                    <div class="stat-label">Flesch-Kincaid Grade Level</div>
+                </div>
+                <div class="stat-card very-poor" title="Years of formal education required for comprehension. >12 considered difficult for general audience">
+                    <div class="stat-number">${stats.avgFogIndex.toFixed(1)}</div>
+                    <div class="stat-label">Gunning Fog Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Simple Measure of Gobbledygook - estimates reading grade level based on complex words">
+                    <div class="stat-number">${stats.avgSmogIndex.toFixed(1)}</div>
+                    <div class="stat-label">SMOG Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Character-based readability metric that doesn't require syllable counting">
+                    <div class="stat-number">${stats.avgAriIndex.toFixed(1)}</div>
+                    <div class="stat-label">Automated Readability Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Alternative character-based assessment using characters per word and sentences per 100 words">
+                    <div class="stat-number">${stats.avgCliIndex.toFixed(1)}</div>
+                    <div class="stat-label">Coleman-Liau Index</div>
                 </div>
                 <div class="stat-card warning">
                     <div class="stat-number">${stats.avgSentenceLength.toFixed(1)}</div>

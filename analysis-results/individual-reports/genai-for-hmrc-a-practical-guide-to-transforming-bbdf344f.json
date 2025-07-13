@@ -3,7 +3,7 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
   "title": "GenAI For HMRC A Practical Guide To Transforming Bbdf344f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.124Z",
+  "generatedAt": "2025-07-13T03:56:02.134Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.111646639997968,
     "fogIndex": 23.400530107097605,
     "smogIndex": 17.147692943753004,
     "ariIndex": 20.30358422470068,

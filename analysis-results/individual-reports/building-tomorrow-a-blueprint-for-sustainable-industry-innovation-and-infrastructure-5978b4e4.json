@@ -3,7 +3,7 @@
   "directory": "Building_Tomorrow__A_Blueprint_for_Sustainable_Industry__Innovation__and_Infrastructure_5978b4e4",
   "title": "Building Tomorrow A Blueprint For Sustainable Industry Innovation And Infrastructure 5978b4e4",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:51.028Z",
+  "generatedAt": "2025-07-13T03:55:58.687Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.881799195455034,
     "fogIndex": 32.650086044219265,
     "smogIndex": 24.048073260293517,
     "ariIndex": 30.31217215018733,

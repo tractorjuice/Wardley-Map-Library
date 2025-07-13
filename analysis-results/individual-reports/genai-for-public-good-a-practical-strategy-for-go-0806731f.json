@@ -3,7 +3,7 @@
   "directory": "GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f",
   "title": "GenAI For Public Good A Practical Strategy For GO 0806731f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.360Z",
+  "generatedAt": "2025-07-13T03:56:02.376Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.36815525758499,
     "fogIndex": 25.28071369160913,
     "smogIndex": 17.668926681626594,
     "ariIndex": 21.339796156637412,

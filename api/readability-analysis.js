@@ -1,3 +1,25 @@
+/**
+ * Readability Analysis API Endpoint
+ * 
+ * Returns comprehensive readability analysis for the entire library:
+ * - Overall statistics with 6 readability metrics
+ * - Best practices analysis
+ * - Common issues identification
+ * - Book rankings (all/most/least readable)
+ * - Category-based comparisons
+ * 
+ * Metrics included:
+ * - avgFleschScore: Flesch Reading Ease average
+ * - avgFleschKincaidGrade: Flesch-Kincaid Grade Level average
+ * - avgFogIndex: Gunning Fog Index average
+ * - avgSmogIndex: SMOG Index average  
+ * - avgAriIndex: Automated Readability Index average
+ * - avgCliIndex: Coleman-Liau Index average
+ * 
+ * Endpoint: GET /api/readability-analysis
+ * Response: JSON with complete analysis data
+ */
+
 const fs = require('fs');
 const path = require('path');
 

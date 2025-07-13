@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
   "title": "Wardley Mapping Mastering Strategy In A Complex W 04f95a3e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.007Z",
+  "generatedAt": "2025-07-13T03:56:12.678Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.9171276608831,
     "fogIndex": 23.944864286135015,
     "smogIndex": 16.788634271057802,
     "ariIndex": 20.273522922491104,

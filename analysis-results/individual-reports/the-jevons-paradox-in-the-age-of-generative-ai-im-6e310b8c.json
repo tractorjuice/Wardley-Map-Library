@@ -3,7 +3,7 @@
   "directory": "The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c",
   "title": "The Jevons Paradox In The Age Of Generative AI Im 6e310b8c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:02.238Z",
+  "generatedAt": "2025-07-13T03:56:10.818Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.32635874851039,
     "fogIndex": 26.07269649794609,
     "smogIndex": 18.524155116960884,
     "ariIndex": 22.79830698442192,

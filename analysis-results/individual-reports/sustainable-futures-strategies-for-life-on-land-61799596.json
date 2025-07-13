@@ -3,7 +3,7 @@
   "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
   "title": "Sustainable Futures Strategies For Life On Land 61799596",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:00.906Z",
+  "generatedAt": "2025-07-13T03:56:09.409Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.062976493057054,
     "fogIndex": 28.26693239798329,
     "smogIndex": 19.954714480152887,
     "ariIndex": 24.712422281525555,

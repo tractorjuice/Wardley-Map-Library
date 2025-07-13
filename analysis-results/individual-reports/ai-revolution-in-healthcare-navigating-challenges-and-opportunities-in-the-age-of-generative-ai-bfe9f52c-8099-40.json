@@ -3,7 +3,7 @@
   "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
   "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:50.082Z",
+  "generatedAt": "2025-07-13T03:55:57.569Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.035593106864372,
     "fogIndex": 27.64703068707691,
     "smogIndex": 20.647185449779283,
     "ariIndex": 25.147673884437772,

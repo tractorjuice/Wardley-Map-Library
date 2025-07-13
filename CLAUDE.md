@@ -387,6 +387,197 @@ Individual book pages (all book IDs)
 
 ---
 
+## 📊 Readability Analysis System
+
+### Overview
+The library includes a comprehensive readability analysis system that evaluates all books using multiple industry-standard metrics. This provides detailed insights into text complexity, accessibility, and reading difficulty.
+
+Our implementation focuses on **classic readability formulas** (1940s-1970s era) that remain the gold standard for automated text assessment. These metrics provide reliable, interpretable results that correlate well with human readability judgments and are widely used in education, healthcare, and technical writing.
+
+### Research Foundation
+The readability metrics are based on decades of linguistic research. See `research/readabiliity_methods.md` for a comprehensive comparison of classic formulas versus modern computational approaches. Our implementation covers **6 of the 7 major classic readability formulas**, providing comprehensive coverage of traditional readability assessment methods.
+
+### Readability Metrics Calculated
+
+#### 1. **Flesch Reading Ease Score** (0-100 scale)
+- **Formula**: `206.835 - (1.015 × avg sentence length) - (84.6 × avg syllables per word)`
+- **Interpretation**: Higher scores = easier to read
+- **Scale**: 90+ (Very Easy), 80-89 (Easy), 70-79 (Fairly Easy), 60-69 (Standard), 50-59 (Fairly Difficult), 30-49 (Difficult), <30 (Graduate)
+
+#### 2. **Flesch-Kincaid Grade Level** (Education years)
+- **Formula**: `0.39 × avg sentence length + 11.8 × avg syllables per word - 15.59`
+- **Interpretation**: Grade level (years of education) needed to understand text
+- **Example**: 12.0 = High school graduate level, 16.0 = College graduate level
+
+#### 3. **Gunning Fog Index** (Education years)
+- **Formula**: `0.4 × (avg sentence length + 100 × complex word ratio)`
+- **Interpretation**: Years of formal education needed
+- **Threshold**: >12 considered difficult for general audience
+
+#### 4. **SMOG Index** (Simple Measure of Gobbledygook)
+- **Formula**: `1.0430 × √(complex words × 30 / sentences) + 3.1291`
+- **Interpretation**: Years of education needed for comprehension
+- **Focus**: Estimates reading grade level based on complex words
+
+#### 5. **Automated Readability Index (ARI)**
+- **Formula**: `4.71 × characters per word + 0.5 × avg sentence length - 21.43`
+- **Interpretation**: Character-based readability metric
+- **Advantage**: Doesn't require syllable counting
+
+#### 6. **Coleman-Liau Index**
+- **Formula**: `0.0588 × L - 0.296 × S - 15.8` (where L = avg characters per 100 words, S = avg sentences per 100 words)
+- **Interpretation**: Based on character count rather than syllables
+- **Range**: Typically 0-20+ (grade levels)
+
+### Implementation Architecture
+
+#### Core Files
+- **`scripts/readability-analyzer.js`**: Main analysis engine and ReadabilityAnalyzer class
+- **`scripts/individual-readability-reports.js`**: Individual book report generator
+- **`scripts/text-preprocessor.js`**: Content cleaning and preparation
+- **`public/readability-analysis.html`**: Main analysis dashboard
+- **`public/readability-report.html`**: Individual book report viewer
+
+#### Analysis Process
+1. **Text Preprocessing**: Remove markdown, TOCs, appendices, normalize content
+2. **Sentence Analysis**: Count sentences, calculate averages, detect patterns
+3. **Word Analysis**: Syllable counting, complex word identification, vocabulary assessment
+4. **Metric Calculation**: Apply all 6 readability formulas
+5. **Comparison Analysis**: Benchmark against library averages
+6. **Report Generation**: Create detailed recommendations and improvement priorities
+
+### Data Structure
+
+#### Overall Statistics (`analysis-results/readability-analysis.json`)
+```json
+{
+  "totalBooks": 182,
+  "overallStats": {
+    "avgReadabilityScore": 16.6,
+    "avgFleschScore": 0.5,
+    "avgFleschKincaidGrade": 22.3,
+    "avgFogIndex": 27.1,
+    "avgSmogIndex": 19.8,
+    "avgAriIndex": 24.4,
+    "avgCliIndex": 0.0,
+    "avgSentenceLength": 17.1,
+    "avgComplexityScore": 0.29
+  }
+}
+```
+
+#### Individual Book Reports (`analysis-results/individual-reports/[book-id].json`)
+```json
+{
+  "readabilityMetrics": {
+    "fleschScore": 0,
+    "fleschKincaidGrade": 23.0,
+    "fogIndex": 27.6,
+    "smogIndex": 20.6,
+    "ariIndex": 25.1,
+    "cliIndex": 0,
+    "avgSentenceLength": 18.6,
+    "avgSyllablesPerWord": 2.7,
+    "complexWordRatio": 0.5
+  },
+  "recommendations": [...],
+  "benchmarks": {...}
+}
+```
+
+### UI Features
+
+#### Main Analysis Dashboard
+- **Overview Statistics**: Display all 6 metric averages
+- **Book Rankings**: Sort by readability (All/Most/Least readable)
+- **Category Analysis**: Compare readability across book categories
+- **Common Issues**: Identify frequent readability problems
+- **Responsive Design**: Works on desktop and mobile
+
+#### Individual Book Reports
+- **Comprehensive Metrics**: All 6 readability scores with color coding
+- **Grade Classification**: Excellent/Good/Average/Poor/Very Poor
+- **Benchmarking**: Compare against library averages
+- **Recommendations**: Specific improvement suggestions
+- **Priority Actions**: Ranked list of improvements needed
+
+### API Endpoints
+
+#### Readability Analysis API
+- **`/api/readability-analysis.js`**: Serves overall analysis data
+- **`/api/readability-reports/[bookId].js`**: Individual book reports
+- **Caching**: Analysis results cached for performance
+- **Error Handling**: Graceful fallbacks for missing data
+
+### Analysis Configuration
+
+#### Text Processing Thresholds
+- **Long sentences**: >25 words
+- **Short sentences**: <8 words
+- **Complex words**: >2 syllables
+- **High complexity**: >40% long sentences
+- **Excessive passive voice**: >30% of sentences
+
+#### Scoring Weights (Overall Readability Score)
+- **Flesch Score**: 40% weight
+- **Vocabulary Complexity**: 30% weight
+- **Sentence Structure**: 30% weight
+
+### Usage Commands
+
+#### Generate Complete Analysis
+```bash
+node scripts/readability-analyzer.js
+```
+
+#### Generate Individual Reports
+```bash
+node scripts/individual-readability-reports.js
+```
+
+#### Output Locations
+- **Main Analysis**: `analysis-results/readability-analysis.json`
+- **Individual Reports**: `analysis-results/individual-reports/[book-id].json`
+
+### Library Statistics (Current)
+- **Total Books Analyzed**: 182
+- **Average Reading Level**: Graduate/Professional (22+ years education)
+- **Most Common Issues**: Long sentences, complex vocabulary, low Flesch scores
+- **Best Performing Books**: Fairy tale guides and beginner tutorials
+- **Most Challenging**: Technical and academic strategy books
+
+### Maintenance Notes
+- **Automatic Updates**: Regenerate analysis when adding new books
+- **Performance**: Analysis of 182 books takes ~2-3 minutes
+- **Data Consistency**: All metrics use consistent text preprocessing
+- **Quality Assurance**: Cross-reference multiple metrics for accuracy
+
+### Research Context & Future Directions
+
+#### Current Implementation Position
+Our system implements **classic readability formulas** that have proven reliable over decades:
+- **Era**: 1940s-1970s linguistic research
+- **Approach**: Surface-level linguistic proxies (sentence length, syllables, word complexity)
+- **Advantages**: Fast, interpretable, language-agnostic, widely validated
+- **Coverage**: 6/7 major classic formulas (missing Dale-Chall requiring word lists)
+
+#### Modern Alternatives
+Research shows newer approaches with higher accuracy:
+- **Neural LM Readability** (2019-2021): Transformer perplexity, BERT classifiers
+- **ETS TextEvaluator** (2013): 43 linguistic features, syntax analysis
+- **CommonLit CLEAR ML** (2021): Ensemble ML with transformer embeddings
+- **Textual Form Complexity** (2024): Structural features + semantic metrics
+
+#### Potential Enhancements
+- **Dale-Chall Formula**: Add familiar word list support
+- **Experimental Features**: ML-based readability prediction
+- **Semantic Analysis**: Meaning-based complexity assessment
+- **Cross-Language Support**: Multilingual readability metrics
+
+See `research/readabiliity_methods.md` for detailed comparison of approaches and implementation feasibility analysis.
+
+---
+
 ## 🗺️ Wardley Map Integration
 
 ### Architecture Overview

@@ -3,7 +3,7 @@
   "directory": "Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5",
   "title": "Will The Chinese Dragon Bite OpenAI Analyzing The 63e530e5",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:04.919Z",
+  "generatedAt": "2025-07-13T03:56:13.496Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.818808139534884,
     "fogIndex": 26.580232558139535,
     "smogIndex": 19.359828563366293,
     "ariIndex": 23.655088662790696,

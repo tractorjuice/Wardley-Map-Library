@@ -1,5 +1,37 @@
 #!/usr/bin/env node
 
+/**
+ * Comprehensive Readability Analysis System
+ * 
+ * This module provides detailed text analysis using multiple industry-standard readability metrics:
+ * 
+ * READABILITY METRICS:
+ * 1. Flesch Reading Ease (0-100): Higher scores = easier reading
+ * 2. Flesch-Kincaid Grade Level: Years of education needed
+ * 3. Gunning Fog Index: Formal education years required  
+ * 4. SMOG Index: Simple Measure of Gobbledygook
+ * 5. Automated Readability Index (ARI): Character-based metric
+ * 6. Coleman-Liau Index: Alternative character-based assessment
+ * 
+ * ANALYSIS FEATURES:
+ * - Sentence structure analysis (length, complexity, passive voice)
+ * - Vocabulary complexity assessment (technical terms, jargon, rare words)
+ * - Text structure patterns (headers, lists, paragraphs)
+ * - Comprehensive recommendations for improvement
+ * - Library-wide benchmarking and comparison
+ * 
+ * OUTPUTS:
+ * - Overall analysis: analysis-results/readability-analysis.json
+ * - Individual reports: analysis-results/individual-reports/[book-id].json
+ * - Integrated into web UI at /readability-analysis.html
+ * 
+ * USAGE:
+ * node scripts/readability-analyzer.js
+ * 
+ * @author Claude Code
+ * @version 2.0.0 - Added Flesch-Kincaid, Fog, SMOG, ARI, Coleman-Liau metrics
+ */
+
 const fs = require('fs');
 const path = require('path');
 const TextPreprocessor = require('./text-preprocessor');
@@ -177,7 +209,9 @@ class ReadabilityAnalyzer {
         const complexWords = words.filter(word => this.countSyllables(word) > 2).length;
         const complexWordRatio = complexWords / words.length;
 
-        // Flesch Reading Ease
+        // Flesch Reading Ease Score (0-100 scale, higher = easier)
+        // Formula: 206.835 - (1.015 × ASL) - (84.6 × ASW)
+        // Where ASL = Average Sentence Length, ASW = Average Syllables per Word
         const fleschScore = 206.835 - (1.015 * avgSentenceLength) - (84.6 * avgSyllablesPerWord);
         let fleschGrade = 'Graduate';
         if (fleschScore >= 90) fleschGrade = 'Very Easy';
@@ -187,23 +221,37 @@ class ReadabilityAnalyzer {
         else if (fleschScore >= 50) fleschGrade = 'Fairly Difficult';
         else if (fleschScore >= 30) fleschGrade = 'Difficult';
 
-        // Gunning Fog Index
+        // Gunning Fog Index (years of education needed)
+        // Formula: 0.4 × (ASL + 100 × complex word ratio)
+        // Complex words = words with 3+ syllables
         const fogIndex = 0.4 * (avgSentenceLength + 100 * complexWordRatio);
 
-        // SMOG Index
+        // SMOG Index (Simple Measure of Gobbledygook)
+        // Formula: 1.0430 × √(complex words × 30 / sentence count) + 3.1291
+        // Estimates years of education needed for comprehension
         const smogIndex = 1.0430 * Math.sqrt(complexWords * 30 / sentences.length) + 3.1291;
 
-        // Automated Readability Index
+        // Automated Readability Index (ARI)
+        // Formula: 4.71 × (characters/words) + 0.5 × (words/sentences) - 21.43
+        // Character-based metric that doesn't require syllable counting
         const charactersPerWord = words.join('').length / words.length;
         const ariIndex = 4.71 * charactersPerWord + 0.5 * avgSentenceLength - 21.43;
 
         // Coleman-Liau Index
+        // Formula: 0.0588 × L - 0.296 × S - 15.8
+        // Where L = avg characters per 100 words, S = avg sentences per 100 words
         const avgCharsPerWord = words.reduce((sum, word) => sum + word.length, 0) / words.length;
         const cliIndex = 0.0588 * (avgCharsPerWord * 100 / avgSentenceLength) - 0.296 * (sentences.length * 100 / words.length) - 15.8;
+
+        // Flesch-Kincaid Grade Level (years of education needed)
+        // Formula: 0.39 × ASL + 11.8 × ASW - 15.59
+        // Converts Flesch principles to U.S. grade level
+        const fleschKincaidGrade = 0.39 * avgSentenceLength + 11.8 * avgSyllablesPerWord - 15.59;
 
         return {
             fleschScore: Math.max(0, Math.min(100, fleschScore)),
             fleschGrade,
+            fleschKincaidGrade: Math.max(0, fleschKincaidGrade),
             fogIndex: Math.max(0, fogIndex),
             smogIndex: Math.max(0, smogIndex),
             ariIndex: Math.max(0, ariIndex),
@@ -484,6 +532,11 @@ class ReadabilityAnalyzer {
             overallStats: {
                 avgReadabilityScore: analyses.reduce((sum, a) => sum + a.overallScore, 0) / analyses.length,
                 avgFleschScore: analyses.reduce((sum, a) => sum + a.readabilityMetrics.fleschScore, 0) / analyses.length,
+                avgFleschKincaidGrade: analyses.reduce((sum, a) => sum + a.readabilityMetrics.fleschKincaidGrade, 0) / analyses.length,
+                avgFogIndex: analyses.reduce((sum, a) => sum + a.readabilityMetrics.fogIndex, 0) / analyses.length,
+                avgSmogIndex: analyses.reduce((sum, a) => sum + a.readabilityMetrics.smogIndex, 0) / analyses.length,
+                avgAriIndex: analyses.reduce((sum, a) => sum + a.readabilityMetrics.ariIndex, 0) / analyses.length,
+                avgCliIndex: analyses.reduce((sum, a) => sum + a.readabilityMetrics.cliIndex, 0) / analyses.length,
                 avgSentenceLength: analyses.reduce((sum, a) => sum + a.readabilityMetrics.avgSentenceLength, 0) / analyses.length,
                 avgComplexityScore: analyses.reduce((sum, a) => sum + a.vocabularyComplexity.complexityScore, 0) / analyses.length
             },
@@ -558,6 +611,10 @@ if (require.main === module) {
         console.log(`📊 Analyzed ${results.totalBooks} books`);
         console.log(`📈 Average readability score: ${results.overallStats.avgReadabilityScore.toFixed(1)}`);
         console.log(`📝 Average Flesch score: ${results.overallStats.avgFleschScore.toFixed(1)}`);
+        console.log(`🎓 Average Flesch-Kincaid grade level: ${results.overallStats.avgFleschKincaidGrade.toFixed(1)}`);
+        console.log(`🌫️ Average Fog Index: ${results.overallStats.avgFogIndex.toFixed(1)}`);
+        console.log(`📚 Average SMOG Index: ${results.overallStats.avgSmogIndex.toFixed(1)}`);
+        console.log(`🤖 Average ARI: ${results.overallStats.avgAriIndex.toFixed(1)}`);
         console.log(`📏 Average sentence length: ${results.overallStats.avgSentenceLength.toFixed(1)} words`);
         process.exit(0);
     }).catch(error => {

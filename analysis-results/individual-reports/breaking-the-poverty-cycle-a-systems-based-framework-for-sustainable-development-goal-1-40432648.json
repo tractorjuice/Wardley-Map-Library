@@ -3,7 +3,7 @@
   "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
   "title": "Breaking The Poverty Cycle A Systems-Based Framework For Sustainable Development Goal 1 40432648",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:50.800Z",
+  "generatedAt": "2025-07-13T03:55:58.439Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.74675506286177,
     "fogIndex": 32.639226583258115,
     "smogIndex": 23.7406239723204,
     "ariIndex": 29.416815385281588,

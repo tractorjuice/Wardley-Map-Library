@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
   "title": "Wardley Mapping For Data Science Revolutionising Strategy In Technology Labs B1cccb77-E255-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.551Z",
+  "generatedAt": "2025-07-13T03:56:13.160Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.86664710410405,
     "fogIndex": 25.84491616987234,
     "smogIndex": 19.752507799301515,
     "ariIndex": 24.300579342900093,

@@ -3,7 +3,7 @@
   "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
   "title": "Mapping The Red Queen A Guide To Wardley Mapping Bd4a3955-91c5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:56.483Z",
+  "generatedAt": "2025-07-13T03:56:04.720Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.825892516747334,
     "fogIndex": 26.738654456434656,
     "smogIndex": 21.646428776041105,
     "ariIndex": 25.823561730083888,

@@ -3,7 +3,7 @@
   "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
   "title": "Silent Warfare Russia S Strategic Targeting Of Gl 64e36abc",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:59.165Z",
+  "generatedAt": "2025-07-13T03:56:07.545Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.998894827301566,
     "fogIndex": 30.66823212068302,
     "smogIndex": 23.11903904958459,
     "ariIndex": 29.03190380060552,

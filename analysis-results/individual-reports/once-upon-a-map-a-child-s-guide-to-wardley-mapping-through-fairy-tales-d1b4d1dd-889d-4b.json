@@ -3,7 +3,7 @@
   "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
   "title": "Once Upon A Map A Child S Guide To Wardley Mapping Through Fairy Tales D1b4d1dd-889d-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.605Z",
+  "generatedAt": "2025-07-13T03:56:06.002Z",
   "summary": {
     "overallScore": 37.88266758712101,
     "readabilityGrade": "Below Average",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 34.70666896780253,
     "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 10.996502698835595,
     "fogIndex": 13.622841486971764,
     "smogIndex": 12.084365551000104,
     "ariIndex": 13.103579840526528,

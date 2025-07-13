@@ -3,7 +3,7 @@
   "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
   "title": "Open Source As A Competitive Weapon Strategy Communication 0d597dd3-B074",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-11T15:09:57.865Z",
+  "generatedAt": "2025-07-13T03:56:06.285Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.70096428736566,
     "fogIndex": 22.894865187048918,
     "smogIndex": 17.03476010208287,
     "ariIndex": 20.950290490739555,

@@ -1,3 +1,27 @@
+/**
+ * Individual Book Readability Report API Endpoint
+ * 
+ * Returns detailed readability analysis for a specific book:
+ * - Complete readability metrics (all 6 formulas)
+ * - Sentence analysis (length, complexity, passive voice)
+ * - Vocabulary complexity assessment
+ * - Structure patterns (headers, lists, paragraphs)
+ * - Improvement recommendations with priorities
+ * - Library benchmarking and percentile ranking
+ * 
+ * Readability metrics included:
+ * - fleschScore: Flesch Reading Ease (0-100)
+ * - fleschKincaidGrade: Flesch-Kincaid Grade Level
+ * - fogIndex: Gunning Fog Index
+ * - smogIndex: SMOG Index
+ * - ariIndex: Automated Readability Index  
+ * - cliIndex: Coleman-Liau Index
+ * 
+ * Endpoint: GET /api/readability-reports/[bookId]
+ * Parameters: bookId (string) - URL-safe book identifier
+ * Response: JSON with detailed book analysis
+ */
+
 const fs = require('fs');
 const path = require('path');
 

@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
   "title": "Wardley Mapping Mastering Strategy In A Dynamic W 25fc793c",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.192Z",
+  "generatedAt": "2025-07-13T03:56:12.821Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.60377623885154,
     "fogIndex": 24.69762319716227,
     "smogIndex": 16.75749795337538,
     "ariIndex": 20.96025790001633,

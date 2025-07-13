@@ -3,7 +3,7 @@
   "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
   "title": "Mastering Wardley Mapping For Project Success A Strategic Guide For Project Managers 35056a3c-4f4f-49",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.063Z",
+  "generatedAt": "2025-07-13T03:56:05.338Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.730178873572914,
     "fogIndex": 21.2826338825438,
     "smogIndex": 16.0476295908357,
     "ariIndex": 19.92897039807282,

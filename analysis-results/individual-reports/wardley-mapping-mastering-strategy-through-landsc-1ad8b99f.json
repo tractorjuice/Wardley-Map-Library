@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
   "title": "Wardley Mapping Mastering Strategy Through Landsc 1ad8b99f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:03.908Z",
+  "generatedAt": "2025-07-13T03:56:12.570Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.373053625487014,
     "fogIndex": 24.203854505556706,
     "smogIndex": 16.781458334089077,
     "ariIndex": 20.94023591022186,

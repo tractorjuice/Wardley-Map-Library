@@ -3,7 +3,7 @@
   "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
   "title": "Mapping Evolution Mastering Strategy In A Red Queen World 19ec116b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:55.696Z",
+  "generatedAt": "2025-07-13T03:56:03.864Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.286945183432483,
     "fogIndex": 28.894549703259816,
     "smogIndex": 21.547534289482307,
     "ariIndex": 26.538172109831372,

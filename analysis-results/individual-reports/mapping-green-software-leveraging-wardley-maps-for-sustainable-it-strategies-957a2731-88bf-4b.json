@@ -3,7 +3,7 @@
   "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
   "title": "Mapping Green Software Leveraging Wardley Maps For Sustainable IT Strategies 957a2731-88bf-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:55.857Z",
+  "generatedAt": "2025-07-13T03:56:04.058Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.54211901456652,
     "fogIndex": 25.837793909246034,
     "smogIndex": 18.331580677828654,
     "ariIndex": 23.380346259796973,

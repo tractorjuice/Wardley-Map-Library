@@ -3,7 +3,7 @@
   "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
   "title": "Generative AI Engineering From Data To Deployment 6410d8f6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.647Z",
+  "generatedAt": "2025-07-13T03:56:02.651Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.317427234909704,
     "fogIndex": 28.937615623984343,
     "smogIndex": 21.42078581261051,
     "ariIndex": 26.834021054951826,

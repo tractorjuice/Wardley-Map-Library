@@ -3,7 +3,7 @@
   "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
   "title": "Securing The Digital Depths Economic And Military F1239f21",
   "category": "Technology",
-  "generatedAt": "2025-07-11T15:09:58.989Z",
+  "generatedAt": "2025-07-13T03:56:07.386Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 27.478250094559453,
     "fogIndex": 32.42184998941166,
     "smogIndex": 24.456917700453488,
     "ariIndex": 31.038147800007046,

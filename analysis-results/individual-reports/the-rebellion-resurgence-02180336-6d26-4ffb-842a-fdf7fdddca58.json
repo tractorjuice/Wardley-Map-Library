@@ -3,7 +3,7 @@
   "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
   "title": "The Rebellion Resurgence 02180336-6d26-4ffb-842a-Fdf7fdddca58",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:10:02.459Z",
+  "generatedAt": "2025-07-13T03:56:11.044Z",
   "summary": {
     "overallScore": 27.62597173399414,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 9.06492933498535,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 15.137056643149393,
     "fogIndex": 18.822798034098675,
     "smogIndex": 15.046771647599627,
     "ariIndex": 16.97733174996501,

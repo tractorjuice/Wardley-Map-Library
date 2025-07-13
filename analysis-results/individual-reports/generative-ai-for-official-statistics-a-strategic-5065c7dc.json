@@ -3,7 +3,7 @@
   "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
   "title": "Generative AI For Official Statistics A Strategic 5065c7dc",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.741Z",
+  "generatedAt": "2025-07-13T03:56:02.747Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.515093076123303,
     "fogIndex": 24.826984185781825,
     "smogIndex": 17.49168073656152,
     "ariIndex": 21.198903666388055,

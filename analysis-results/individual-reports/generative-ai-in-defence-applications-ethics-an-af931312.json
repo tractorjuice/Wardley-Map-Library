@@ -3,7 +3,7 @@
   "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
   "title": "Generative AI In Defence Applications Ethics An Af931312",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.995Z",
+  "generatedAt": "2025-07-13T03:56:02.996Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.718377668105592,
     "fogIndex": 25.121584646370042,
     "smogIndex": 17.694248362691994,
     "ariIndex": 21.85565394169995,

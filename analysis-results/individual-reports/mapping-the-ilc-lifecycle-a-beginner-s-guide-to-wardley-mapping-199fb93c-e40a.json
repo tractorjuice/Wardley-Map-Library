@@ -3,7 +3,7 @@
   "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
   "title": "Mapping The ILC Lifecycle A Beginner S Guide To Wardley Mapping 199fb93c-E40a",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:56.429Z",
+  "generatedAt": "2025-07-13T03:56:04.665Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.397959691993112,
     "fogIndex": 26.4838764316727,
     "smogIndex": 21.320798367429177,
     "ariIndex": 25.353710159621073,

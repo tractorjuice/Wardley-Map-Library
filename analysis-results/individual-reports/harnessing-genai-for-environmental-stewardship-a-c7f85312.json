@@ -3,7 +3,7 @@
   "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
   "title": "Harnessing GenAI For Environmental Stewardship A C7f85312",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:55.125Z",
+  "generatedAt": "2025-07-13T03:56:03.191Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.774009631771538,
     "fogIndex": 25.456702536418177,
     "smogIndex": 18.179496698521667,
     "ariIndex": 21.77944234768698,

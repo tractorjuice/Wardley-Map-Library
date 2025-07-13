@@ -3,7 +3,7 @@
   "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
   "title": "Empowering The Future Achieving Affordable And Cl 6bb54cc5",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:53.231Z",
+  "generatedAt": "2025-07-13T03:56:01.218Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.820565929075276,
     "fogIndex": 28.179395110638712,
     "smogIndex": 19.634974501785788,
     "ariIndex": 22.945853002222435,

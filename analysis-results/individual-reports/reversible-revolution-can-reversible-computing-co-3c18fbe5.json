@@ -3,7 +3,7 @@
   "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
   "title": "Reversible Revolution Can Reversible Computing Co 3c18fbe5",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:58.270Z",
+  "generatedAt": "2025-07-13T03:56:06.662Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.605735842370418,
     "fogIndex": 27.90653057119842,
     "smogIndex": 18.60915743121039,
     "ariIndex": 23.028608799367532,

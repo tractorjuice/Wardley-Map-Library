@@ -3,7 +3,7 @@
   "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
   "title": "GenAI For The NHS A Practical Guide To Strategy 82b9d881",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.502Z",
+  "generatedAt": "2025-07-13T03:56:02.515Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.639516885296086,
     "fogIndex": 24.010076433405413,
     "smogIndex": 17.38901168560791,
     "ariIndex": 21.07817713121601,

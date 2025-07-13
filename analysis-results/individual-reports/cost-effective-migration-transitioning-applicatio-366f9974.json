@@ -3,7 +3,7 @@
   "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
   "title": "Cost-Effective Migration Transitioning Applicatio 366f9974",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:52.317Z",
+  "generatedAt": "2025-07-13T03:56:00.212Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.13934596433406,
     "fogIndex": 29.27799634848192,
     "smogIndex": 21.567135410135425,
     "ariIndex": 26.467474516426485,

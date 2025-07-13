@@ -3,7 +3,7 @@
   "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
   "title": "Jevons And GenAI Navigating Economic Theories In E75ac76f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:55.359Z",
+  "generatedAt": "2025-07-13T03:56:03.474Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.088329436776018,
     "fogIndex": 26.272180866760603,
     "smogIndex": 18.740517172708916,
     "ariIndex": 23.059824964047763,

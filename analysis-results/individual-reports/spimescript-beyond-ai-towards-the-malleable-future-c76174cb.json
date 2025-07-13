@@ -3,7 +3,7 @@
   "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
   "title": "SpimeScript Beyond AI Towards The Malleable Future C76174cb",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:59.462Z",
+  "generatedAt": "2025-07-13T03:56:07.813Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.831846327041053,
     "fogIndex": 26.95648077532124,
     "smogIndex": 19.275488934078304,
     "ariIndex": 23.89687044850215,

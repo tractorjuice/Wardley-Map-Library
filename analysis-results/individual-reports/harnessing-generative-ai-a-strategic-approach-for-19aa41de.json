@@ -3,7 +3,7 @@
   "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
   "title": "Harnessing Generative AI A Strategic Approach For 19aa41de",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:55.140Z",
+  "generatedAt": "2025-07-13T03:56:03.213Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.06761001773045,
     "fogIndex": 25.93390246585061,
     "smogIndex": 18.85282330303436,
     "ariIndex": 22.27756632217354,

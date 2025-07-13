@@ -3,7 +3,7 @@
   "directory": "Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48",
   "title": "Climbing The Value Ladder Mastering The Art Of Value Propositions And Benefits Communication 465d7194-Fd19-48",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:51.761Z",
+  "generatedAt": "2025-07-13T03:55:59.592Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.92701754058584,
     "fogIndex": 24.976509787302167,
     "smogIndex": 17.95011655464791,
     "ariIndex": 22.019452715453973,

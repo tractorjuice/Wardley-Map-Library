@@ -3,7 +3,7 @@
   "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
   "title": "GenAI For Official Statistics A Strategic Guide F 29969967",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.254Z",
+  "generatedAt": "2025-07-13T03:56:02.272Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.76720938517035,
     "fogIndex": 25.334850741148408,
     "smogIndex": 17.973863302638687,
     "ariIndex": 21.74784250258042,

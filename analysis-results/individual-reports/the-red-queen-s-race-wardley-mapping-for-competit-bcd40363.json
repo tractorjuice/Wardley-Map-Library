@@ -3,7 +3,7 @@
   "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
   "title": "The Red Queen S Race Wardley Mapping For Competit Bcd40363",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:02.694Z",
+  "generatedAt": "2025-07-13T03:56:11.355Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.929796324967942,
     "fogIndex": 24.908878839297966,
     "smogIndex": 17.1352336655283,
     "ariIndex": 21.364706668638455,

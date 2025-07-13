@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
   "title": "Mathematical Models For Infrastructure Technical D 957371a8",
   "category": "Technology",
-  "generatedAt": "2025-07-11T15:09:57.182Z",
+  "generatedAt": "2025-07-13T03:56:05.440Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.265323141495994,
     "fogIndex": 31.607471290778843,
     "smogIndex": 23.668084841003438,
     "ariIndex": 29.112148177366564,

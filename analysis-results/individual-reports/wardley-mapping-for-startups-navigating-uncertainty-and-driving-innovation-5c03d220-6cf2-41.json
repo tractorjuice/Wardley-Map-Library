@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
   "title": "Wardley Mapping For Startups Navigating Uncertainty And Driving Innovation 5c03d220-6cf2-41",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:04.891Z",
+  "generatedAt": "2025-07-13T03:56:13.471Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.335753789511717,
     "fogIndex": 23.190458917412087,
     "smogIndex": 17.259242487734237,
     "ariIndex": 21.438176819823305,

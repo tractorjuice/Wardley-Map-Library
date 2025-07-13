@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
   "title": "Wardley Mapping Mastery Uncovering Hidden Opportunities In Business Strategy 058b2cd6-6fe2-4e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:03.489Z",
+  "generatedAt": "2025-07-13T03:56:12.098Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.95751325394183,
     "fogIndex": 26.441923156208873,
     "smogIndex": 19.748991860494925,
     "ariIndex": 23.88289219312434,

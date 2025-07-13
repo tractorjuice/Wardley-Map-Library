@@ -3,7 +3,7 @@
   "directory": "Mapping_Sustainable_Development__A_Strategic_Approach_to_SDGs_using_Wardley_Mapping_1ec7fcf3",
   "title": "Mapping Sustainable Development A Strategic Approach To SDGs Using Wardley Mapping 1ec7fcf3",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:55.893Z",
+  "generatedAt": "2025-07-13T03:56:04.119Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.058334066770446,
     "fogIndex": 30.242568311873384,
     "smogIndex": 22.475027627089307,
     "ariIndex": 27.999509231388956,

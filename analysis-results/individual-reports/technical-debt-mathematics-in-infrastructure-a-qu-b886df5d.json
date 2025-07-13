@@ -3,7 +3,7 @@
   "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
   "title": "Technical Debt Mathematics In Infrastructure A Qu B886df5d",
   "category": "Technology",
-  "generatedAt": "2025-07-11T15:10:01.106Z",
+  "generatedAt": "2025-07-13T03:56:09.617Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.947038179926306,
     "fogIndex": 31.190943543921954,
     "smogIndex": 23.353422611902086,
     "ariIndex": 28.910635775244863,

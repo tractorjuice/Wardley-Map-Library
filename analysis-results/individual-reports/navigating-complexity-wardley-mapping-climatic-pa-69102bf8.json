@@ -3,7 +3,7 @@
   "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
   "title": "Navigating Complexity Wardley Mapping Climatic Pa 69102bf8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.383Z",
+  "generatedAt": "2025-07-13T03:56:05.637Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.22056967366262,
     "fogIndex": 26.394538853872024,
     "smogIndex": 18.07801293593289,
     "ariIndex": 22.811933970318563,

@@ -3,7 +3,7 @@
   "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
   "title": "Generative AI For Public Sector Transformation A 4749e098",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:54.840Z",
+  "generatedAt": "2025-07-13T03:56:02.852Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.81618741768443,
     "fogIndex": 24.301606953473286,
     "smogIndex": 17.68586896050359,
     "ariIndex": 21.072633289272744,

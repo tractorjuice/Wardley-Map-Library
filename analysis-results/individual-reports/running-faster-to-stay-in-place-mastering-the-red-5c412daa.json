@@ -3,7 +3,7 @@
   "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
   "title": "Running Faster To Stay In Place Mastering The Red 5c412daa",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:58.708Z",
+  "generatedAt": "2025-07-13T03:56:07.087Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.919933649203063,
     "fogIndex": 28.145450982473097,
     "smogIndex": 21.1538132538805,
     "ariIndex": 25.754029173032002,

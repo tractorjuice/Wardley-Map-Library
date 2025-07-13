@@ -3,7 +3,7 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
   "title": "Oceans Of Change Advancing SDG 14 Through Innovation Policy And Action 6ede38b7",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:57.554Z",
+  "generatedAt": "2025-07-13T03:56:05.861Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.17985471501009,
     "fogIndex": 31.081880334764527,
     "smogIndex": 23.3631769279576,
     "ariIndex": 28.980564962713636,

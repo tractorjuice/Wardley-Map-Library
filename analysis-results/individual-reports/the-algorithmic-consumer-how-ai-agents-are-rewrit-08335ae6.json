@@ -3,7 +3,7 @@
   "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
   "title": "The Algorithmic Consumer How AI Agents Are Rewrit 08335ae6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:02.025Z",
+  "generatedAt": "2025-07-13T03:56:10.606Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.50053861663942,
     "fogIndex": 24.068748165133613,
     "smogIndex": 17.083965955551584,
     "ariIndex": 20.381768287689262,

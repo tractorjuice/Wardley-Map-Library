@@ -3,7 +3,7 @@
   "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
   "title": "The Planet Information Platform Mapping Earth With Satellites AI And Big Data 3e65b5a1-5404-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:02.426Z",
+  "generatedAt": "2025-07-13T03:56:10.992Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.19263654826967,
     "fogIndex": 23.202993017727934,
     "smogIndex": 14.926298505334113,
     "ariIndex": 19.888135819400794,

@@ -3,7 +3,7 @@
   "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
   "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:56.130Z",
+  "generatedAt": "2025-07-13T03:56:04.324Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.803646026108442,
     "fogIndex": 24.81546420139699,
     "smogIndex": 16.766063712000093,
     "ariIndex": 21.20701874756508,

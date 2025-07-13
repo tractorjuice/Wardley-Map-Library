@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
   "title": "Mathematical Models For Wardley Mapping Gameplay F929d065",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:57.214Z",
+  "generatedAt": "2025-07-13T03:56:05.471Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.440039399491976,
     "fogIndex": 32.27039742894067,
     "smogIndex": 24.42599267298759,
     "ariIndex": 29.217272666504137,

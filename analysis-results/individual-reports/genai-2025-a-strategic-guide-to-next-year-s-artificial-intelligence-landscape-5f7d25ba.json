@@ -3,7 +3,7 @@
   "directory": "GenAI_2025__A_Strategic_Guide_to_Next_Year_s_Artificial_Intelligence_Landscape_5f7d25ba",
   "title": "GenAI 2025 A Strategic Guide To Next Year S Artificial Intelligence Landscape 5f7d25ba",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:53.747Z",
+  "generatedAt": "2025-07-13T03:56:01.728Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.64364876888592,
     "fogIndex": 30.800425485800982,
     "smogIndex": 23.024691963631877,
     "ariIndex": 28.360297398034554,

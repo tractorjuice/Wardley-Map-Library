@@ -3,7 +3,7 @@
   "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
   "title": "Unlocking National Insights A GenAI Strategy For 487c81b2",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:03.202Z",
+  "generatedAt": "2025-07-13T03:56:11.792Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.40570466609805,
     "fogIndex": 23.581102981984102,
     "smogIndex": 16.660301467892253,
     "ariIndex": 19.930534305781045,

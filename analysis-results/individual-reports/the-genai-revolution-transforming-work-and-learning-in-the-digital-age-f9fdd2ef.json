@@ -3,7 +3,7 @@
   "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
   "title": "The GenAI Revolution Transforming Work And Learning In The Digital Age F9fdd2ef",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:02.194Z",
+  "generatedAt": "2025-07-13T03:56:10.775Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.535368421052635,
     "fogIndex": 30.141710207722696,
     "smogIndex": 22.631864280184004,
     "ariIndex": 28.33503800178412,

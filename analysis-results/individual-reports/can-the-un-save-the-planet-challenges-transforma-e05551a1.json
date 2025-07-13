@@ -3,7 +3,7 @@
   "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
   "title": "Can The UN Save The Planet Challenges Transforma E05551a1",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:51.073Z",
+  "generatedAt": "2025-07-13T03:55:58.780Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.465233700170298,
     "fogIndex": 31.13332771785904,
     "smogIndex": 23.020890670836106,
     "ariIndex": 29.223845626705234,

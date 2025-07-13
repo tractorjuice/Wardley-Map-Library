@@ -3,7 +3,7 @@
   "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
   "title": "The Wardley Map E1797f31-2e24-4a9a-9387-F1b8c291c2a9",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:10:02.752Z",
+  "generatedAt": "2025-07-13T03:56:11.418Z",
   "summary": {
     "overallScore": 26.794250879790788,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 6.985627199476966,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 15.194412415145866,
     "fogIndex": 18.90805946039499,
     "smogIndex": 14.787063587179368,
     "ariIndex": 17.247926761023827,

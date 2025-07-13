@@ -3,7 +3,7 @@
   "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
   "title": "The AI-Climate Paradox Navigating The Battle Betw 51e07659",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.269Z",
+  "generatedAt": "2025-07-13T03:56:09.790Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.459740604575163,
     "fogIndex": 30.082266981107956,
     "smogIndex": 22.59488112626794,
     "ariIndex": 28.135990921466366,

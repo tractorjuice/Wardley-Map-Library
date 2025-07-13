@@ -3,7 +3,7 @@
   "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
   "title": "Ecosystem Advantage Mapping And Orchestrating For 46fa9d88",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:53.185Z",
+  "generatedAt": "2025-07-13T03:56:01.186Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.616955181634697,
     "fogIndex": 25.389143313054266,
     "smogIndex": 17.79633949757663,
     "ariIndex": 22.155445424941462,

@@ -3,7 +3,7 @@
   "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
   "title": "Mapping The Robot Revolution A Wardley Map Approa Ff29f2d8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:56.595Z",
+  "generatedAt": "2025-07-13T03:56:04.832Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.120691449890796,
     "fogIndex": 25.075287483783793,
     "smogIndex": 17.38034648534332,
     "ariIndex": 21.454736405913316,

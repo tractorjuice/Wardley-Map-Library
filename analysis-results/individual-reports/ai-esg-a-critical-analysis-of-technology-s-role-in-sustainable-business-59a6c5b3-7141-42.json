@@ -3,7 +3,7 @@
   "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
   "title": "AI ESG A Critical Analysis Of Technology S Role In Sustainable Business 59a6c5b3-7141-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:09:50.165Z",
+  "generatedAt": "2025-07-13T03:55:57.675Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.371228249958175,
     "fogIndex": 29.449670102915878,
     "smogIndex": 21.582503947771137,
     "ariIndex": 26.685892212884433,

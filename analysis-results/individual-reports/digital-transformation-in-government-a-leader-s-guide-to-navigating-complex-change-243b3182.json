@@ -3,7 +3,7 @@
   "directory": "Digital_Transformation_in_Government__A_Leader_s_Guide_to_Navigating_Complex_Change_243b3182",
   "title": "Digital Transformation In Government A Leader S Guide To Navigating Complex Change 243b3182",
   "category": "Government",
-  "generatedAt": "2025-07-11T15:09:53.038Z",
+  "generatedAt": "2025-07-13T03:56:00.975Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.89480357674299,
     "fogIndex": 32.78632572041435,
     "smogIndex": 24.304676044479496,
     "ariIndex": 30.29030118505481,

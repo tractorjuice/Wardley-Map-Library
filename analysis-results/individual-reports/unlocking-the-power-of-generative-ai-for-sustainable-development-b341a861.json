@@ -3,7 +3,7 @@
   "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
   "title": "Unlocking The Power Of Generative AI For Sustainable Development B341a861",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:03.316Z",
+  "generatedAt": "2025-07-13T03:56:11.912Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.22117579568864,
     "fogIndex": 24.735969036565372,
     "smogIndex": 17.607687831218133,
     "ariIndex": 20.990286815241213,

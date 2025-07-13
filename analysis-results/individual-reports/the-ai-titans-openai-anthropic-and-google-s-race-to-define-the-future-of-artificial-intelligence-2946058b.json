@@ -3,7 +3,7 @@
   "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
   "title": "The AI Titans OpenAI Anthropic And Google S Race To Define The Future Of Artificial Intelligence 2946058b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.702Z",
+  "generatedAt": "2025-07-13T03:56:10.272Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.1835387944521,
     "fogIndex": 29.996549357214686,
     "smogIndex": 22.169766990060676,
     "ariIndex": 26.587826529020475,

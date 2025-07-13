@@ -3,7 +3,7 @@
   "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
   "title": "Strategic Equations A Mathematical Approach To Mo E276a698",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:10:00.427Z",
+  "generatedAt": "2025-07-13T03:56:08.769Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.260826362717165,
     "fogIndex": 26.54172696194941,
     "smogIndex": 18.484390490463266,
     "ariIndex": 23.297847578777812,

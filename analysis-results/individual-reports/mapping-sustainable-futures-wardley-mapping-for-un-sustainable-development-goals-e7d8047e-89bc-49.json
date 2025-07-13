@@ -3,7 +3,7 @@
   "directory": "Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49",
   "title": "Mapping Sustainable Futures Wardley Mapping For UN Sustainable Development Goals E7d8047e-89bc-49",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-11T15:09:55.998Z",
+  "generatedAt": "2025-07-13T03:56:04.212Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.90638223446317,
     "fogIndex": 24.175209588378486,
     "smogIndex": 17.149739905880555,
     "ariIndex": 21.582180719842746,

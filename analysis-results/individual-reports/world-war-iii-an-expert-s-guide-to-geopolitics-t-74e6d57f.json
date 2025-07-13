@@ -3,7 +3,7 @@
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
   "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:10:05.140Z",
+  "generatedAt": "2025-07-13T03:56:13.747Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.907721884129057,
     "fogIndex": 25.85108941186833,
     "smogIndex": 17.940857897894634,
     "ariIndex": 22.679270352536186,

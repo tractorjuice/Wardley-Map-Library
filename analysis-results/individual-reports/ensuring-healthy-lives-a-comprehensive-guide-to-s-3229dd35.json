@@ -3,7 +3,7 @@
   "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
   "title": "Ensuring Healthy Lives A Comprehensive Guide To S 3229dd35",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:09:53.269Z",
+  "generatedAt": "2025-07-13T03:56:01.252Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.548842459540015,
     "fogIndex": 25.339651691435133,
     "smogIndex": 18.756184162459764,
     "ariIndex": 23.16924148271856,

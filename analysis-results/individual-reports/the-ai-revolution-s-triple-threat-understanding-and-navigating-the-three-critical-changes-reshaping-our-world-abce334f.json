@@ -3,7 +3,7 @@
   "directory": "The_AI_Revolution_s_Triple_Threat__Understanding_and_Navigating_the_Three_Critical_Changes_Reshaping_Our_World_abce334f",
   "title": "The AI Revolution S Triple Threat Understanding And Navigating The Three Critical Changes Reshaping Our World Abce334f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-11T15:10:01.411Z",
+  "generatedAt": "2025-07-13T03:56:09.937Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.440365110240098,
     "fogIndex": 30.554044851932584,
     "smogIndex": 22.939002070859264,
     "ariIndex": 28.093849980939716,

@@ -3,7 +3,7 @@
   "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
   "title": "Windows 11 Migration Mastery A Strategic Guide To Enterprise Transformation B74b18f6-96e9-45",
   "category": "Other",
-  "generatedAt": "2025-07-11T15:10:04.979Z",
+  "generatedAt": "2025-07-13T03:56:13.550Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -13,6 +13,7 @@
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.395345390814295,
     "fogIndex": 30.188674962216023,
     "smogIndex": 22.266044752484508,
     "ariIndex": 27.661839000049163,

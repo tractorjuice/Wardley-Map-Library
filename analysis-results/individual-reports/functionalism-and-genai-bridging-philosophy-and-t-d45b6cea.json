@@ -1,14 +1,14 @@
 {
   "bookId": "functionalism-and-genai-bridging-philosophy-and-t-d45b6cea",
   "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
-  "title": "Functionalism And GenAI Bridging Philosophy And T D45b6cea",
+  "title": "Functionalism and GenAI: Bridging Philosophy and Technology",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:43.498Z",
+  "generatedAt": "2025-07-14T18:26:32.707Z",
   "summary": {
     "overallScore": 18.640940672157523,
     "readabilityGrade": "Poor",
-    "wordCount": 7287,
-    "estimatedReadingTime": 37
+    "wordCount": 12686,
+    "estimatedReadingTime": 64
   },
   "readabilityMetrics": {
     "fleschScore": 1.6023516803938094,
@@ -67,32 +67,34 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 24.6 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 33.2%",
+      "issue": "Vocabulary complexity score: 33.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.3% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 1.6",
+      "issue": "Flesch Reading Ease score: 1.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +104,38 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 18.640940672157523,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": 1.6023516803938094,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 24.633009708737863,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3320982571703033,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

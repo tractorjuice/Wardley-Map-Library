@@ -1,14 +1,14 @@
 {
   "bookId": "data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af",
   "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
-  "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
+  "title": "Data in the Age of AI: Will LLMs Redefine Data Storage?",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:42.536Z",
+  "generatedAt": "2025-07-14T18:26:31.644Z",
   "summary": {
     "overallScore": 27.465825660854172,
     "readabilityGrade": "Poor",
-    "wordCount": 32386,
-    "estimatedReadingTime": 162
+    "wordCount": 49418,
+    "estimatedReadingTime": 248
   },
   "readabilityMetrics": {
     "fleschScore": 8.664564152135426,
@@ -65,16 +65,23 @@
   },
   "recommendations": [
     {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 20.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 22.1%",
+      "issue": "Vocabulary complexity score: 22.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 8.7",
+      "issue": "Flesch Reading Ease score: 8.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -89,28 +96,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 27.465825660854172,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 8.664564152135426,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.991100323624597,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22089791885382573,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

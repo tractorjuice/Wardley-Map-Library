@@ -1,14 +1,14 @@
 {
   "bookId": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
   "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
-  "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
+  "title": "AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:38.898Z",
+  "generatedAt": "2025-07-14T18:26:27.983Z",
   "summary": {
     "overallScore": 16.142343708291367,
     "readabilityGrade": "Poor",
-    "wordCount": 25438,
-    "estimatedReadingTime": 128
+    "wordCount": 39088,
+    "estimatedReadingTime": 196
   },
   "readabilityMetrics": {
     "fleschScore": -4.644140729271584,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 27.2%",
+      "issue": "Vocabulary complexity score: 27.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -4.6",
+      "issue": "Flesch Reading Ease score: -4.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 16.142343708291367,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -4.644140729271584,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 28.61493411420205,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27156222973504207,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

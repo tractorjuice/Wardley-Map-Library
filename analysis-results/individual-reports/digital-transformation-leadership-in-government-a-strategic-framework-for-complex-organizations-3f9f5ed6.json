@@ -1,14 +1,14 @@
 {
   "bookId": "digital-transformation-leadership-in-government-a-strategic-framework-for-complex-organizations-3f9f5ed6",
   "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
-  "title": "Digital Transformation Leadership In Government A Strategic Framework For Complex Organizations 3f9f5ed6",
+  "title": "Digital Transformation Leadership in Government: A Strategic Framework for Complex Organizations",
   "category": "Government",
-  "generatedAt": "2025-07-14T17:49:42.864Z",
+  "generatedAt": "2025-07-14T18:26:31.997Z",
   "summary": {
     "overallScore": -0.31569056362536685,
     "readabilityGrade": "Very Poor",
-    "wordCount": 12190,
-    "estimatedReadingTime": 61
+    "wordCount": 17821,
+    "estimatedReadingTime": 90
   },
   "readabilityMetrics": {
     "fleschScore": -30.789226409063417,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 30.2%",
+      "issue": "Vocabulary complexity score: 30.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.8",
+      "issue": "Flesch Reading Ease score: -30.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": -0.31569056362536685,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -30.789226409063417,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 39.51441241685144,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3022149302707137,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

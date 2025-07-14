@@ -1,14 +1,14 @@
 {
   "bookId": "the-genai-revolution-transforming-work-and-learning-in-the-digital-age-f9fdd2ef",
   "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
-  "title": "The GenAI Revolution Transforming Work And Learning In The Digital Age F9fdd2ef",
+  "title": "The GenAI Revolution: Transforming Work and Learning in the Digital Age",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:53.193Z",
+  "generatedAt": "2025-07-14T18:26:42.990Z",
   "summary": {
     "overallScore": 4.390923745143914,
     "readabilityGrade": "Very Poor",
-    "wordCount": 10325,
-    "estimatedReadingTime": 52
+    "wordCount": 15729,
+    "estimatedReadingTime": 79
   },
   "readabilityMetrics": {
     "fleschScore": -19.022690637140215,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 36.4%",
+      "issue": "Vocabulary complexity score: 36.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -19.0",
+      "issue": "Flesch Reading Ease score: -19.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 4.390923745143914,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -19.022690637140215,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.113684210526316,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3639709443099274,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

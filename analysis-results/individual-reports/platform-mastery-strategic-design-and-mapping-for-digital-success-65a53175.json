@@ -1,14 +1,14 @@
 {
   "bookId": "platform-mastery-strategic-design-and-mapping-for-digital-success-65a53175",
   "directory": "Platform_Mastery__Strategic_Design_and_Mapping_for_Digital_Success_65a53175",
-  "title": "Platform Mastery Strategic Design And Mapping For Digital Success 65a53175",
+  "title": "Platform Mastery: Strategic Design and Mapping for Digital Success",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:48.331Z",
+  "generatedAt": "2025-07-14T18:26:37.960Z",
   "summary": {
     "overallScore": 5.022371347063108,
     "readabilityGrade": "Very Poor",
-    "wordCount": 12299,
-    "estimatedReadingTime": 62
+    "wordCount": 18266,
+    "estimatedReadingTime": 92
   },
   "readabilityMetrics": {
     "fleschScore": -17.44407163234223,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 31.1%",
+      "issue": "Vocabulary complexity score: 31.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.4",
+      "issue": "Flesch Reading Ease score: -17.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 5.022371347063108,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -17.44407163234223,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.21090909090909,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3105130498414505,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

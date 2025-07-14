@@ -1,14 +1,14 @@
 {
   "bookId": "the-three-phases-of-wardley-doctrine-in-aircraft-manufacturing-a-strategic-framework-for-industry-evolution-ad4b49a7",
   "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
-  "title": "The Three Phases Of Wardley Doctrine In Aircraft Manufacturing A Strategic Framework For Industry Evolution Ad4b49a7",
+  "title": "The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:53.760Z",
+  "generatedAt": "2025-07-14T18:26:43.701Z",
   "summary": {
     "overallScore": -2.162153182497832,
     "readabilityGrade": "Very Poor",
-    "wordCount": 8273,
-    "estimatedReadingTime": 42
+    "wordCount": 12795,
+    "estimatedReadingTime": 64
   },
   "readabilityMetrics": {
     "fleschScore": -35.40538295624458,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 37.7%",
+      "issue": "Vocabulary complexity score: 37.7%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -35.4",
+      "issue": "Flesch Reading Ease score: -35.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": -2.162153182497832,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -35.40538295624458,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 38.308383233532936,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3766469237277892,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

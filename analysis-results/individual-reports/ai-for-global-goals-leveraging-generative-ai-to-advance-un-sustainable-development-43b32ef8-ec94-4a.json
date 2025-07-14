@@ -1,14 +1,14 @@
 {
   "bookId": "ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a",
   "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
-  "title": "AI For Global Goals Leveraging Generative AI To Advance UN Sustainable Development 43b32ef8-Ec94-4a",
+  "title": "AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:39.452Z",
+  "generatedAt": "2025-07-14T18:26:28.544Z",
   "summary": {
     "overallScore": 1.4366967065213654,
     "readabilityGrade": "Very Poor",
-    "wordCount": 11027,
-    "estimatedReadingTime": 56
+    "wordCount": 17655,
+    "estimatedReadingTime": 89
   },
   "readabilityMetrics": {
     "fleschScore": -26.408258233696586,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 33.5%",
+      "issue": "Vocabulary complexity score: 33.5%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -26.4",
+      "issue": "Flesch Reading Ease score: -26.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 1.4366967065213654,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -26.408258233696586,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 34.68565815324165,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3353586650947674,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

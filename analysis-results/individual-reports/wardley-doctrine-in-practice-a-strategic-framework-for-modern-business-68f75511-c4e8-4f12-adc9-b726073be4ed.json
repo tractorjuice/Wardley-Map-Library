@@ -1,14 +1,14 @@
 {
   "bookId": "wardley-doctrine-in-practice-a-strategic-framework-for-modern-business-68f75511-c4e8-4f12-adc9-b726073be4ed",
   "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
-  "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
+  "title": "Wardley Doctrine in Practice: A Strategic Framework for Modern Business",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:54.470Z",
+  "generatedAt": "2025-07-14T18:26:44.441Z",
   "summary": {
     "overallScore": 10.60519425400414,
     "readabilityGrade": "Very Poor",
-    "wordCount": 10284,
-    "estimatedReadingTime": 52
+    "wordCount": 16569,
+    "estimatedReadingTime": 83
   },
   "readabilityMetrics": {
     "fleschScore": -18.487014364989648,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 35.4%",
+      "issue": "Vocabulary complexity score: 35.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -18.5",
+      "issue": "Flesch Reading Ease score: -18.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 10.60519425400414,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -18.487014364989648,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 31.986486486486488,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.35375340334500194,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

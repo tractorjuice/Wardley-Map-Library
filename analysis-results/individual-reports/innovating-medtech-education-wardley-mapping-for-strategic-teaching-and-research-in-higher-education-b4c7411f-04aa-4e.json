@@ -1,14 +1,14 @@
 {
   "bookId": "innovating-medtech-education-wardley-mapping-for-strategic-teaching-and-research-in-higher-education-b4c7411f-04aa-4e",
   "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
-  "title": "Innovating MedTech Education Wardley Mapping For Strategic Teaching And Research In Higher Education B4c7411f-04aa-4e",
+  "title": "Innovating MedTech Education: Wardley Mapping for Strategic Teaching and Research in Higher Education",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:45.390Z",
+  "generatedAt": "2025-07-14T18:26:34.784Z",
   "summary": {
     "overallScore": 11.047287085372057,
     "readabilityGrade": "Very Poor",
-    "wordCount": 5595,
-    "estimatedReadingTime": 28
+    "wordCount": 36795,
+    "estimatedReadingTime": 184
   },
   "readabilityMetrics": {
     "fleschScore": -2.381782286569859,
@@ -76,14 +76,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 32.0%",
+      "issue": "Vocabulary complexity score: 32.0%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "21.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -2.4",
+      "issue": "Flesch Reading Ease score: -2.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -103,28 +110,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 11.047287085372057,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -2.381782286569859,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 28.45707656612529,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32046470062555854,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

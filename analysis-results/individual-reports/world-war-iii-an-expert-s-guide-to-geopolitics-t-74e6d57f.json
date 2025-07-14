@@ -1,14 +1,14 @@
 {
   "bookId": "world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f",
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
-  "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
+  "title": "World War III: An Expert's Guide to Geopolitics, Technology, and Survival",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:56.357Z",
+  "generatedAt": "2025-07-14T18:26:46.390Z",
   "summary": {
     "overallScore": 20.5210483835069,
     "readabilityGrade": "Poor",
-    "wordCount": 31254,
-    "estimatedReadingTime": 157
+    "wordCount": 49394,
+    "estimatedReadingTime": 247
   },
   "readabilityMetrics": {
     "fleschScore": 6.30262095876725,
@@ -67,32 +67,27 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 20.6 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.7%",
+      "issue": "Vocabulary complexity score: 24.7%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 6.3",
+      "issue": "Flesch Reading Ease score: 6.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +97,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 20.5210483835069,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 6.30262095876725,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 20.589412255106293,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24697638702246114,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

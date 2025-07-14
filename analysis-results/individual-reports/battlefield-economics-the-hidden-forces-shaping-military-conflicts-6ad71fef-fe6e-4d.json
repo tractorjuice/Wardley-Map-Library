@@ -1,14 +1,14 @@
 {
   "bookId": "battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d",
   "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
-  "title": "Battlefield Economics The Hidden Forces Shaping Military Conflicts 6ad71fef-Fe6e-4d",
+  "title": "Battlefield Economics: The Hidden Forces Shaping Military Conflicts",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:40.102Z",
+  "generatedAt": "2025-07-14T18:26:29.261Z",
   "summary": {
     "overallScore": 16.734950104601115,
     "readabilityGrade": "Poor",
-    "wordCount": 26016,
-    "estimatedReadingTime": 131
+    "wordCount": 46198,
+    "estimatedReadingTime": 231
   },
   "readabilityMetrics": {
     "fleschScore": -3.1626247384972146,
@@ -67,32 +67,27 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 24.0 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.5%",
+      "issue": "Vocabulary complexity score: 24.5%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -3.2",
+      "issue": "Flesch Reading Ease score: -3.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +97,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 16.734950104601115,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -3.1626247384972146,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 24.036420395421437,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2445418204182042,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-green-software-leveraging-wardley-maps-for-sustainable-it-strategies-957a2731-88bf-4b",
   "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
-  "title": "Mapping Green Software Leveraging Wardley Maps For Sustainable IT Strategies 957a2731-88bf-4b",
+  "title": "Mapping Green Software: Leveraging Wardley Maps for Sustainable IT Strategies",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.008Z",
+  "generatedAt": "2025-07-14T18:26:35.452Z",
   "summary": {
     "overallScore": 17.173629392061184,
     "readabilityGrade": "Poor",
-    "wordCount": 34080,
-    "estimatedReadingTime": 171
+    "wordCount": 60809,
+    "estimatedReadingTime": 305
   },
   "readabilityMetrics": {
     "fleschScore": -2.0659265198470393,
@@ -67,32 +67,34 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 25.0 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 29.1%",
+      "issue": "Vocabulary complexity score: 29.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.1% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -2.1",
+      "issue": "Flesch Reading Ease score: -2.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +104,38 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 17.173629392061184,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -2.0659265198470393,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 24.972895277207392,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29125586854460095,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

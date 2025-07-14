@@ -1,14 +1,14 @@
 {
   "bookId": "open-source-as-a-competitive-weapon-strategy-communication-0d597dd3-b074",
   "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
-  "title": "Open Source As A Competitive Weapon Strategy Communication 0d597dd3-B074",
+  "title": "Open Source as a Competitive Weapon: Strategy, Community and Business Insight",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T17:49:48.232Z",
+  "generatedAt": "2025-07-14T18:26:37.868Z",
   "summary": {
     "overallScore": 6.123538631964891,
     "readabilityGrade": "Very Poor",
-    "wordCount": 9959,
-    "estimatedReadingTime": 50
+    "wordCount": 27609,
+    "estimatedReadingTime": 139
   },
   "readabilityMetrics": {
     "fleschScore": -14.691153420087772,
@@ -76,14 +76,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 26.8%",
+      "issue": "Vocabulary complexity score: 26.8%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "23.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -14.7",
+      "issue": "Flesch Reading Ease score: -14.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -103,28 +110,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 6.123538631964891,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -14.691153420087772,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 37.61444141689373,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2675971483080631,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

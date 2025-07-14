@@ -1,14 +1,14 @@
 {
   "bookId": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
   "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
-  "title": "A Pattern Language For O1 Models Architecting Robust AI Interactions 8281c31c",
+  "title": "A Pattern Language for O1 Models: Architecting Robust AI Interactions",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:39.495Z",
+  "generatedAt": "2025-07-14T18:26:28.599Z",
   "summary": {
     "overallScore": 3.3991692225647174,
     "readabilityGrade": "Very Poor",
-    "wordCount": 11818,
-    "estimatedReadingTime": 60
+    "wordCount": 17627,
+    "estimatedReadingTime": 89
   },
   "readabilityMetrics": {
     "fleschScore": -21.502076943588207,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 32.4%",
+      "issue": "Vocabulary complexity score: 32.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -21.5",
+      "issue": "Flesch Reading Ease score: -21.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 3.3991692225647174,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -21.502076943588207,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.44781783681214,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32399729226603485,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

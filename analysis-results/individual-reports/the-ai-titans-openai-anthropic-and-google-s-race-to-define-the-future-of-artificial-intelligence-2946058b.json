@@ -1,14 +1,14 @@
 {
   "bookId": "the-ai-titans-openai-anthropic-and-google-s-race-to-define-the-future-of-artificial-intelligence-2946058b",
   "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
-  "title": "The AI Titans OpenAI Anthropic And Google S Race To Define The Future Of Artificial Intelligence 2946058b",
+  "title": "The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:52.388Z",
+  "generatedAt": "2025-07-14T18:26:42.019Z",
   "summary": {
     "overallScore": 7.4052602991855,
     "readabilityGrade": "Very Poor",
-    "wordCount": 10627,
-    "estimatedReadingTime": 54
+    "wordCount": 16472,
+    "estimatedReadingTime": 83
   },
   "readabilityMetrics": {
     "fleschScore": -11.48684925203625,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 30.4%",
+      "issue": "Vocabulary complexity score: 30.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -11.5",
+      "issue": "Flesch Reading Ease score: -11.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 7.4052602991855,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -11.48684925203625,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 31.495219885277248,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3039427872400489,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

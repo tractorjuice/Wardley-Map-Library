@@ -1,14 +1,14 @@
 {
   "bookId": "wardley-mapping-mastering-strategy-through-landsc-1ad8b99f",
   "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
-  "title": "Wardley Mapping Mastering Strategy Through Landsc 1ad8b99f",
+  "title": "Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:55.059Z",
+  "generatedAt": "2025-07-14T18:26:45.058Z",
   "summary": {
     "overallScore": 30.404699746807488,
     "readabilityGrade": "Below Average",
-    "wordCount": 44605,
-    "estimatedReadingTime": 224
+    "wordCount": 74091,
+    "estimatedReadingTime": 371
   },
   "readabilityMetrics": {
     "fleschScore": 16.011749367018723,
@@ -65,16 +65,23 @@
   },
   "recommendations": [
     {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 19.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.4%",
+      "issue": "Vocabulary complexity score: 24.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 16.0",
+      "issue": "Flesch Reading Ease score: 16.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -89,28 +96,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 30.404699746807488,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 16.011749367018723,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.436253934942286,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.243963681201659,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

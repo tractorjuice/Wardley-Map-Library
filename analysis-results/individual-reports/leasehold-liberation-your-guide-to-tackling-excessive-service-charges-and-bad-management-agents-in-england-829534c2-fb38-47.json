@@ -1,14 +1,14 @@
 {
   "bookId": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
   "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
-  "title": "Leasehold Liberation Your Guide To Tackling Excessive Service Charges And Bad Management Agents In England 829534c2-Fb38-47",
+  "title": "Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:45.638Z",
+  "generatedAt": "2025-07-14T18:26:35.071Z",
   "summary": {
     "overallScore": 21.270577637393956,
     "readabilityGrade": "Poor",
-    "wordCount": 30252,
-    "estimatedReadingTime": 152
+    "wordCount": 54807,
+    "estimatedReadingTime": 275
   },
   "readabilityMetrics": {
     "fleschScore": 8.17644409348489,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.0%",
+      "issue": "Vocabulary complexity score: 24.0%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 8.2",
+      "issue": "Flesch Reading Ease score: 8.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 21.270577637393956,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 8.17644409348489,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 26.024216524216524,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24005024461192648,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

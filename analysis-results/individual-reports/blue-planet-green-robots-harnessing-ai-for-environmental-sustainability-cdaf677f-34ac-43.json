@@ -1,14 +1,14 @@
 {
   "bookId": "blue-planet-green-robots-harnessing-ai-for-environmental-sustainability-cdaf677f-34ac-43",
   "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
-  "title": "Blue Planet Green Robots Harnessing AI For Environmental Sustainability Cdaf677f-34ac-43",
+  "title": "Blue Planet, Green Robots: Harnessing AI for Environmental Sustainability",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:40.206Z",
+  "generatedAt": "2025-07-14T18:26:29.370Z",
   "summary": {
     "overallScore": 16.42147867172084,
     "readabilityGrade": "Poor",
-    "wordCount": 23037,
-    "estimatedReadingTime": 116
+    "wordCount": 40756,
+    "estimatedReadingTime": 204
   },
   "readabilityMetrics": {
     "fleschScore": -3.9463033206978935,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 26.7%",
+      "issue": "Vocabulary complexity score: 26.7%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -3.9",
+      "issue": "Flesch Reading Ease score: -3.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 16.42147867172084,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -3.9463033206978935,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 25.632704402515724,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2667448018405174,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

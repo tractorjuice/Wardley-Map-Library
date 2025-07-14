@@ -1,14 +1,14 @@
 {
   "bookId": "strategic-cartography-mastering-wardley-maps-in-the-digital-age-6f12abc5",
   "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
-  "title": "Strategic Cartography Mastering Wardley Maps In The Digital Age 6f12abc5",
+  "title": "Strategic Cartography: Mastering Wardley Maps in the Digital Age",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:50.850Z",
+  "generatedAt": "2025-07-14T18:26:40.467Z",
   "summary": {
     "overallScore": 5.7360929594618595,
     "readabilityGrade": "Very Poor",
-    "wordCount": 12726,
-    "estimatedReadingTime": 64
+    "wordCount": 19256,
+    "estimatedReadingTime": 97
   },
   "readabilityMetrics": {
     "fleschScore": -15.65976760134535,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 32.1%",
+      "issue": "Vocabulary complexity score: 32.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -15.7",
+      "issue": "Flesch Reading Ease score: -15.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 5.7360929594618595,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -15.65976760134535,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 32.97260273972603,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32123212321232125,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -1,14 +1,14 @@
 {
   "bookId": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
   "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
-  "title": "Meta S Closed-Source LLMs In Healthcare A Critical Analysis Of Risks And Benefits Fa3ea671-64e3-4b",
+  "title": "Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:47.649Z",
+  "generatedAt": "2025-07-14T18:26:37.194Z",
   "summary": {
     "overallScore": 4.334633962018586,
     "readabilityGrade": "Very Poor",
-    "wordCount": 13039,
-    "estimatedReadingTime": 66
+    "wordCount": 20924,
+    "estimatedReadingTime": 105
   },
   "readabilityMetrics": {
     "fleschScore": -19.163415094953535,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 33.0%",
+      "issue": "Vocabulary complexity score: 33.0%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -19.2",
+      "issue": "Flesch Reading Ease score: -19.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 4.334633962018586,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -19.163415094953535,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 31.799392097264437,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3301633560855894,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

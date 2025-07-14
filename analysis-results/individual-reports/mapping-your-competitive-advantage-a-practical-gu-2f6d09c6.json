@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-your-competitive-advantage-a-practical-gu-2f6d09c6",
   "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
-  "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
+  "title": "Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.303Z",
+  "generatedAt": "2025-07-14T18:26:35.771Z",
   "summary": {
     "overallScore": 28.75104974024207,
     "readabilityGrade": "Poor",
-    "wordCount": 29059,
-    "estimatedReadingTime": 146
+    "wordCount": 47249,
+    "estimatedReadingTime": 237
   },
   "readabilityMetrics": {
     "fleschScore": 11.877624350605174,
@@ -67,14 +67,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 25.8%",
+      "issue": "Vocabulary complexity score: 25.8%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 11.9",
+      "issue": "Flesch Reading Ease score: 11.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -94,23 +94,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 28.75104974024207,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 11.877624350605174,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 18.22878086419753,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2580611858632437,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

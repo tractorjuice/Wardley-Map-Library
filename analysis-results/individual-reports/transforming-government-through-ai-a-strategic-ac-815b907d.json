@@ -1,14 +1,14 @@
 {
   "bookId": "transforming-government-through-ai-a-strategic-ac-815b907d",
   "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
-  "title": "Transforming Government Through AI A Strategic Ac 815b907d",
+  "title": "Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:53.902Z",
+  "generatedAt": "2025-07-14T18:26:43.853Z",
   "summary": {
     "overallScore": 5.011482429414604,
     "readabilityGrade": "Very Poor",
-    "wordCount": 3951,
-    "estimatedReadingTime": 20
+    "wordCount": 21249,
+    "estimatedReadingTime": 107
   },
   "readabilityMetrics": {
     "fleschScore": -17.47129392646349,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 34.3%",
+      "issue": "Vocabulary complexity score: 34.3%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.5",
+      "issue": "Flesch Reading Ease score: -17.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 5.011482429414604,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -17.47129392646349,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.67511885895404,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34269805112629714,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

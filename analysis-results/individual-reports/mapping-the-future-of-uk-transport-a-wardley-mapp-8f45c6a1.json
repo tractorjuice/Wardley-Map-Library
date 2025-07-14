@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-the-future-of-uk-transport-a-wardley-mapp-8f45c6a1",
   "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
-  "title": "Mapping The Future Of UK Transport A Wardley Mapp 8f45c6a1",
+  "title": "Mapping the Future of UK Transport: A Wardley Mapping Approach",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.616Z",
+  "generatedAt": "2025-07-14T18:26:36.063Z",
   "summary": {
     "overallScore": 29.502738841695134,
     "readabilityGrade": "Poor",
-    "wordCount": 33884,
-    "estimatedReadingTime": 170
+    "wordCount": 54011,
+    "estimatedReadingTime": 271
   },
   "readabilityMetrics": {
     "fleschScore": 13.756847104237835,
@@ -65,16 +65,23 @@
   },
   "recommendations": [
     {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 19.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 23.4%",
+      "issue": "Vocabulary complexity score: 23.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 13.8",
+      "issue": "Flesch Reading Ease score: 13.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -89,28 +96,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 29.502738841695134,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 13.756847104237835,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.477461233321314,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23379766261362295,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

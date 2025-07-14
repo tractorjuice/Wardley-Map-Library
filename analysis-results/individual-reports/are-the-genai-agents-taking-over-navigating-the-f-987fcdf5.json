@@ -1,14 +1,14 @@
 {
   "bookId": "are-the-genai-agents-taking-over-navigating-the-f-987fcdf5",
   "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
-  "title": "Are The GenAI Agents Taking Over Navigating The F 987fcdf5",
+  "title": "Are the GenAI Agents Taking Over? Navigating the Future of Work and Society",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:39.599Z",
+  "generatedAt": "2025-07-14T18:26:28.719Z",
   "summary": {
     "overallScore": 19.9035821460463,
     "readabilityGrade": "Poor",
-    "wordCount": 2640,
-    "estimatedReadingTime": 14
+    "wordCount": 10770,
+    "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
     "fleschScore": 4.758955365115753,
@@ -75,14 +75,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 36.1%",
+      "issue": "Vocabulary complexity score: 36.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.7% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 4.8",
+      "issue": "Flesch Reading Ease score: 4.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -102,28 +109,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 19.9035821460463,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": 4.758955365115753,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 25.76555023923445,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3613636363636364,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -1,14 +1,14 @@
 {
   "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
   "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
-  "title": "Once Upon A Map A Child S Guide To Wardley Mapping Through Fairy Tales D1b4d1dd-889d-4b",
+  "title": "Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:47.996Z",
+  "generatedAt": "2025-07-14T18:26:37.546Z",
   "summary": {
     "overallScore": 36.37395484624058,
     "readabilityGrade": "Below Average",
-    "wordCount": 5718,
-    "estimatedReadingTime": 29
+    "wordCount": 13211,
+    "estimatedReadingTime": 67
   },
   "readabilityMetrics": {
     "fleschScore": 30.93488711560144,
@@ -66,51 +66,63 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 24.0 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 15.6%",
+      "issue": "Vocabulary complexity score: 15.6%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 30.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "Medium - Improving flow enhances readability"
     }
   ],
   "improvementPriorities": [
     {
       "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
+      "score": 9,
+      "item": "Simplify vocabulary"
     },
     {
       "priority": "Critical",
-      "score": 9,
-      "item": "Simplify vocabulary"
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Improve reading flow"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 36.37395484624058,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 30
     },
     "fleschScore": {
       "bookScore": 30.93488711560144,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 23.976406533575318,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.15564882826162993,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

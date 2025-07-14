@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-the-robot-revolution-a-wardley-map-approa-ff29f2d8",
   "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
-  "title": "Mapping The Robot Revolution A Wardley Map Approa Ff29f2d8",
+  "title": "Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.868Z",
+  "generatedAt": "2025-07-14T18:26:36.304Z",
   "summary": {
     "overallScore": 27.75984912057836,
     "readabilityGrade": "Poor",
-    "wordCount": 28642,
-    "estimatedReadingTime": 144
+    "wordCount": 46167,
+    "estimatedReadingTime": 231
   },
   "readabilityMetrics": {
     "fleschScore": 9.3996228014459,
@@ -65,16 +65,30 @@
   },
   "recommendations": [
     {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 19.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 23.6%",
+      "issue": "Vocabulary complexity score: 23.6%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 9.4",
+      "issue": "Flesch Reading Ease score: 9.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -89,28 +103,38 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 27.75984912057836,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 9.3996228014459,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.933937823834196,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23643600307241114,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

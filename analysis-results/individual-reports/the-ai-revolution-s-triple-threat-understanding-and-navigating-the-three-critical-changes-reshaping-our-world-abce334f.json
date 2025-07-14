@@ -1,14 +1,14 @@
 {
   "bookId": "the-ai-revolution-s-triple-threat-understanding-and-navigating-the-three-critical-changes-reshaping-our-world-abce334f",
   "directory": "The_AI_Revolution_s_Triple_Threat__Understanding_and_Navigating_the_Three_Critical_Changes_Reshaping_Our_World_abce334f",
-  "title": "The AI Revolution S Triple Threat Understanding And Navigating The Three Critical Changes Reshaping Our World Abce334f",
+  "title": "The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:52.047Z",
+  "generatedAt": "2025-07-14T18:26:41.702Z",
   "summary": {
     "overallScore": 5.1975306451674435,
     "readabilityGrade": "Very Poor",
-    "wordCount": 11670,
-    "estimatedReadingTime": 59
+    "wordCount": 17946,
+    "estimatedReadingTime": 90
   },
   "readabilityMetrics": {
     "fleschScore": -17.00617338708139,
@@ -76,14 +76,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 33.7%",
+      "issue": "Vocabulary complexity score: 33.7%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.0",
+      "issue": "Flesch Reading Ease score: -17.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -103,28 +110,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 5.1975306451674435,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -17.00617338708139,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 34.11787072243346,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3369323050556984,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

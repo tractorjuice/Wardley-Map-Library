@@ -1,14 +1,14 @@
 {
   "bookId": "strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-modern-leaders-7526522c",
   "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
-  "title": "Strategic Thinking With Wardley Maps A Visual Guide To Business Evolution And Market Dynamics For Modern Leaders 7526522c",
+  "title": "Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:51.209Z",
+  "generatedAt": "2025-07-14T18:26:40.880Z",
   "summary": {
     "overallScore": 15.77818956439055,
     "readabilityGrade": "Poor",
-    "wordCount": 13202,
-    "estimatedReadingTime": 67
+    "wordCount": 20534,
+    "estimatedReadingTime": 103
   },
   "readabilityMetrics": {
     "fleschScore": -5.554526089023625,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 30.9%",
+      "issue": "Vocabulary complexity score: 30.9%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -5.6",
+      "issue": "Flesch Reading Ease score: -5.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 15.77818956439055,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -5.554526089023625,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 29.716353111432706,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3090440842296622,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

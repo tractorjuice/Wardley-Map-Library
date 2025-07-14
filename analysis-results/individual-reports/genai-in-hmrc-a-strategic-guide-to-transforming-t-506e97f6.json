@@ -1,14 +1,14 @@
 {
   "bookId": "genai-in-hmrc-a-strategic-guide-to-transforming-t-506e97f6",
   "directory": "GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6",
-  "title": "GenAI In HMRC A Strategic Guide To Transforming T 506e97f6",
+  "title": "GenAI in HMRC: A Strategic Guide to Transforming Tax Administration",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:44.625Z",
+  "generatedAt": "2025-07-14T18:26:33.963Z",
   "summary": {
     "overallScore": 30.6725160806047,
     "readabilityGrade": "Below Average",
-    "wordCount": 27920,
-    "estimatedReadingTime": 140
+    "wordCount": 44461,
+    "estimatedReadingTime": 223
   },
   "readabilityMetrics": {
     "fleschScore": 16.681290201511757,
@@ -65,16 +65,23 @@
   },
   "recommendations": [
     {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 19.3 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.4%",
+      "issue": "Vocabulary complexity score: 24.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 16.7",
+      "issue": "Flesch Reading Ease score: 16.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -89,28 +96,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 30.6725160806047,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 30
     },
     "fleschScore": {
       "bookScore": 16.681290201511757,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.33927794693345,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2437320916905444,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -1,14 +1,14 @@
 {
   "bookId": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
   "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
-  "title": "Transforming Government With OKRs A Guide To Implementing Objectives And Key Results In The Public Sector D3346850-0768-40",
+  "title": "Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector",
   "category": "Government",
-  "generatedAt": "2025-07-14T17:49:54.086Z",
+  "generatedAt": "2025-07-14T18:26:44.014Z",
   "summary": {
     "overallScore": 18.148873974768243,
     "readabilityGrade": "Poor",
-    "wordCount": 35762,
-    "estimatedReadingTime": 179
+    "wordCount": 54547,
+    "estimatedReadingTime": 273
   },
   "readabilityMetrics": {
     "fleschScore": 0.37218493692060406,
@@ -75,14 +75,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 23.2%",
+      "issue": "Vocabulary complexity score: 23.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.4",
+      "issue": "Flesch Reading Ease score: 0.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -102,28 +109,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 18.148873974768243,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0.37218493692060406,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 27.815910249872513,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23153067501817573,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

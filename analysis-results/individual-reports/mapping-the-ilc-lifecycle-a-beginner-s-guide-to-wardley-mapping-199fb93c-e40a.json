@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a",
   "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
-  "title": "Mapping The ILC Lifecycle A Beginner S Guide To Wardley Mapping 199fb93c-E40a",
+  "title": "Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.656Z",
+  "generatedAt": "2025-07-14T18:26:36.106Z",
   "summary": {
     "overallScore": 8.541500073244686,
     "readabilityGrade": "Very Poor",
-    "wordCount": 9935,
-    "estimatedReadingTime": 50
+    "wordCount": 15157,
+    "estimatedReadingTime": 76
   },
   "readabilityMetrics": {
     "fleschScore": -8.646249816888286,
@@ -76,21 +76,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 23.5%",
+      "issue": "Vocabulary complexity score: 23.5%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Writing Style",
-      "priority": "Medium",
+      "priority": "High",
       "issue": "26.6% passive voice usage",
       "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
-      "impact": "Medium - Active voice improves clarity and engagement"
+      "impact": "High - Active voice improves clarity and engagement"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -8.6",
+      "issue": "Flesch Reading Ease score: -8.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 8.541500073244686,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -8.646249816888286,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 36.699757869249396,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23522898842476095,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

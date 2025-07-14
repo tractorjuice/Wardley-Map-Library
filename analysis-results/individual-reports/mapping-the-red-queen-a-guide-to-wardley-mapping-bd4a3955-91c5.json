@@ -1,14 +1,14 @@
 {
   "bookId": "mapping-the-red-queen-a-guide-to-wardley-mapping-bd4a3955-91c5",
   "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
-  "title": "Mapping The Red Queen A Guide To Wardley Mapping Bd4a3955-91c5",
+  "title": "Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.712Z",
+  "generatedAt": "2025-07-14T18:26:36.175Z",
   "summary": {
     "overallScore": 8.187052096307388,
     "readabilityGrade": "Very Poor",
-    "wordCount": 15062,
-    "estimatedReadingTime": 76
+    "wordCount": 22470,
+    "estimatedReadingTime": 113
   },
   "readabilityMetrics": {
     "fleschScore": -9.532369759231528,
@@ -76,21 +76,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 22.6%",
+      "issue": "Vocabulary complexity score: 22.6%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Writing Style",
-      "priority": "Medium",
+      "priority": "High",
       "issue": "26.0% passive voice usage",
       "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
-      "impact": "Medium - Active voice improves clarity and engagement"
+      "impact": "High - Active voice improves clarity and engagement"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -9.5",
+      "issue": "Flesch Reading Ease score: -9.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 8.187052096307388,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -9.532369759231528,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 37.70134228187919,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2260655955384411,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

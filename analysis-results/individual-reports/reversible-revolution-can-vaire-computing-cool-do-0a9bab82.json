@@ -1,14 +1,14 @@
 {
   "bookId": "reversible-revolution-can-vaire-computing-cool-do-0a9bab82",
   "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
-  "title": "Reversible Revolution Can Vaire Computing Cool Do 0a9bab82",
+  "title": "Reversible Revolution: Can Vaire Computing Cool Down the AI Heatwave?",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:48.722Z",
+  "generatedAt": "2025-07-14T18:26:38.398Z",
   "summary": {
     "overallScore": 19.44728254137715,
     "readabilityGrade": "Poor",
-    "wordCount": 23878,
-    "estimatedReadingTime": 120
+    "wordCount": 37499,
+    "estimatedReadingTime": 188
   },
   "readabilityMetrics": {
     "fleschScore": 3.618206353442872,
@@ -67,32 +67,27 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 21.1 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 27.2%",
+      "issue": "Vocabulary complexity score: 27.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 3.6",
+      "issue": "Flesch Reading Ease score: 3.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +97,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 19.44728254137715,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": 3.618206353442872,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 21.06685393258427,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27209146494681297,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

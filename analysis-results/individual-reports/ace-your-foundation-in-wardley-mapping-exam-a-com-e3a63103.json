@@ -1,14 +1,14 @@
 {
   "bookId": "ace-your-foundation-in-wardley-mapping-exam-a-com-e3a63103",
   "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
-  "title": "Ace Your Foundation In Wardley Mapping Exam A Com E3a63103",
+  "title": "Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:39.580Z",
+  "generatedAt": "2025-07-14T18:26:28.696Z",
   "summary": {
     "overallScore": 31.967516969254632,
     "readabilityGrade": "Below Average",
-    "wordCount": 21565,
-    "estimatedReadingTime": 108
+    "wordCount": 36160,
+    "estimatedReadingTime": 181
   },
   "readabilityMetrics": {
     "fleschScore": 19.91879242313658,
@@ -67,14 +67,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 24.3%",
+      "issue": "Vocabulary complexity score: 24.3%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 19.9",
+      "issue": "Flesch Reading Ease score: 19.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -94,23 +94,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 31.967516969254632,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 30
     },
     "fleschScore": {
       "bookScore": 19.91879242313658,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 18.63917525773196,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2429863204266172,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

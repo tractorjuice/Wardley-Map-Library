@@ -1,14 +1,14 @@
 {
   "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
   "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
-  "title": "Automated Futures Human Taxes The Robot Tax Conu",
+  "title": "Automated Futures, Human Taxes: The Robot Tax Conundrum",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:39.993Z",
+  "generatedAt": "2025-07-14T18:26:29.107Z",
   "summary": {
     "overallScore": 51.45405522710766,
     "readabilityGrade": "Average",
-    "wordCount": 91730,
-    "estimatedReadingTime": 459
+    "wordCount": 154044,
+    "estimatedReadingTime": 771
   },
   "readabilityMetrics": {
     "fleschScore": 45.99041987306731,
@@ -61,28 +61,54 @@
     "examples": 289,
     "definitions": 140
   },
-  "recommendations": [],
-  "improvementPriorities": [],
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 19.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 46.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "Medium - Improving flow enhances readability"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Improve reading flow"
+    }
+  ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 51.45405522710766,
-      "libraryAverage": 50.99,
-      "comparison": "Above Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Above Reference",
       "percentile": 60
     },
     "fleschScore": {
       "bookScore": 45.99041987306731,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 19.822931411658733,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.0898070424070642,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "Simpler"
     }
   }

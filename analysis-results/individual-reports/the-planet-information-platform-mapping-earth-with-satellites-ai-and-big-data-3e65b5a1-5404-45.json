@@ -1,14 +1,14 @@
 {
   "bookId": "the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45",
   "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
-  "title": "The Planet Information Platform Mapping Earth With Satellites AI And Big Data 3e65b5a1-5404-45",
+  "title": "The Planet Information Platform: Mapping Earth with Satellites, AI, and Big Data",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:53.451Z",
+  "generatedAt": "2025-07-14T18:26:43.260Z",
   "summary": {
     "overallScore": 16.990397828498395,
     "readabilityGrade": "Poor",
-    "wordCount": 24428,
-    "estimatedReadingTime": 123
+    "wordCount": 74771,
+    "estimatedReadingTime": 374
   },
   "readabilityMetrics": {
     "fleschScore": -2.524005428754009,
@@ -75,14 +75,21 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 27.5%",
+      "issue": "Vocabulary complexity score: 27.5%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.3% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -2.5",
+      "issue": "Flesch Reading Ease score: -2.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -102,28 +109,33 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 16.990397828498395,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -2.524005428754009,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 26.43953323903819,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27529883739970523,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

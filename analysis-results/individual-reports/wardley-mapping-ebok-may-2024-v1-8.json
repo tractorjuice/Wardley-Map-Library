@@ -3,113 +3,87 @@
   "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
   "title": "Wardley Mapping EBoK May 2024 V1 8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:06:01.104Z",
+  "generatedAt": "2025-07-14T18:28:51.975Z",
   "summary": {
-    "overallScore": 38.3477069964117,
-    "readabilityGrade": "Below Average",
-    "wordCount": 78285,
-    "estimatedReadingTime": 392
+    "overallScore": 50.99100952402176,
+    "readabilityGrade": "Average",
+    "wordCount": 142534,
+    "estimatedReadingTime": 713
   },
   "readabilityMetrics": {
-    "fleschScore": 20.869267491029262,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 12.890395977577985,
-    "fogIndex": 15.855971348667737,
-    "smogIndex": 13.038728180102748,
-    "ariIndex": 14.0831111488544,
-    "cliIndex": 0,
-    "avgSentenceLength": 10.231995817540191,
-    "avgSyllablesPerWord": 2.0754167465031617,
-    "complexWordRatio": 0.29407932554129146
+    "fleschScore": 52.47752381005441,
+    "fleschGrade": "Fairly Difficult",
+    "fleschKincaidGrade": 10.583624769507974,
+    "fogIndex": 14.024964500756449,
+    "smogIndex": 13.122217540046265,
+    "ariIndex": 10.478123413982097,
+    "cliIndex": 10.782631512481228,
+    "avgSentenceLength": 18.692983606557377,
+    "avgSyllablesPerWord": 1.600284844317847,
+    "complexWordRatio": 0.16369427645333745
   },
   "sentenceAnalysis": {
-    "totalSentences": 7646,
-    "avgWordsPerSentence": 18.894193042113525,
-    "avgSyllablesPerWord": 1.6302149309521337,
-    "longSentences": 1698,
-    "shortSentences": 978,
-    "complexWords": 23997,
-    "passiveVoice": 925,
+    "totalSentences": 7625,
+    "avgWordsPerSentence": 18.692983606557377,
+    "avgSyllablesPerWord": 1.600284844317847,
+    "longSentences": 1691,
+    "shortSentences": 966,
+    "complexWords": 23332,
+    "passiveVoice": 923,
     "questions": 0,
     "exclamations": 0,
-    "subordinateClauses": 2870,
+    "subordinateClauses": 2866,
     "readabilityIssues": []
   },
   "vocabularyComplexity": {
-    "totalWords": 78285,
-    "uniqueWords": 8331,
-    "vocabularyRichness": 0.10641885418662579,
-    "rareWords": 1107,
-    "technicalTerms": 7995,
-    "jargonWords": 241,
-    "avgWordLength": 6.453739541419173,
-    "complexityScore": 0.11934597943411893
+    "totalWords": 77306,
+    "uniqueWords": 8329,
+    "vocabularyRichness": 0.10774066695987375,
+    "rareWords": 1346,
+    "technicalTerms": 7685,
+    "jargonWords": 240,
+    "avgWordLength": 6.404625772902492,
+    "complexityScore": 0.11992600833053062
   },
   "structurePatterns": {
-    "headers": 21,
-    "subheaders": 98,
-    "bulletPoints": 417,
+    "headers": 20,
+    "subheaders": 213,
+    "bulletPoints": 184,
     "numberedLists": 25,
     "codeBlocks": 0,
     "quotes": 0,
-    "links": 466,
+    "links": 233,
     "emphasis": 966,
-    "paragraphs": 2477,
-    "avgParagraphLength": 57.33992733144933,
+    "paragraphs": 2475,
+    "avgParagraphLength": 56.81090909090909,
     "tableOfContents": true,
     "summaries": 0,
     "examples": 138,
     "definitions": 19
   },
-  "recommendations": [
-    {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 20.9",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
-    }
-  ],
-  "improvementPriorities": [
-    {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    }
-  ],
+  "recommendations": [],
+  "improvementPriorities": [],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 38.3477069964117,
-      "libraryAverage": 38.35,
-      "comparison": "Below Average",
-      "percentile": 40
+      "bookScore": 50.99100952402176,
+      "referenceBenchmark": 50.99,
+      "comparison": "Above Reference",
+      "percentile": 60
     },
     "fleschScore": {
-      "bookScore": 20.869267491029262,
-      "libraryAverage": 20.87,
-      "comparison": "Below Average"
+      "bookScore": 52.47752381005441,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
-      "bookScore": 10.231995817540191,
-      "libraryAverage": 10.23,
+      "bookScore": 18.692983606557377,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
-      "bookScore": 0.11934597943411893,
-      "libraryAverage": 0.119,
-      "comparison": "More Complex"
+      "bookScore": 0.11992600833053062,
+      "referenceBenchmark": 0.12,
+      "comparison": "Simpler"
     }
   }
 }

@@ -1,14 +1,14 @@
 {
   "bookId": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
   "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
-  "title": "The Rebellion Resurgence 02180336-6d26-4ffb-842a-Fdf7fdddca58",
+  "title": "Table of Contents",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:53.479Z",
+  "generatedAt": "2025-07-14T18:26:43.298Z",
   "summary": {
     "overallScore": 38.8043048298713,
     "readabilityGrade": "Below Average",
-    "wordCount": 7437,
-    "estimatedReadingTime": 38
+    "wordCount": 13452,
+    "estimatedReadingTime": 68
   },
   "readabilityMetrics": {
     "fleschScore": 37.01076207467824,
@@ -66,63 +66,87 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 22.9 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 17.3%",
+      "issue": "Vocabulary complexity score: 17.3%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Structure",
       "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-1000 words.",
+      "issue": "Could benefit from more headers and subheaders",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-800 words.",
       "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 37.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "Medium - Improving flow enhances readability"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
       "item": "Simplify vocabulary"
     },
     {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 38.8043048298713,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 30
     },
     "fleschScore": {
       "bookScore": 37.01076207467824,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 22.877551020408163,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.17305365066559097,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

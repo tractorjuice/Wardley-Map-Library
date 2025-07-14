@@ -1,14 +1,14 @@
 {
   "bookId": "wardley-mapping-nato-s-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains-4d6eb348-b1cd-45",
   "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
-  "title": "Wardley Mapping NATO S Warfighting Concept A Strategic Analysis Of The Six Operational Domains 4d6eb348-B1cd-45",
+  "title": "Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:54.691Z",
+  "generatedAt": "2025-07-14T18:26:44.714Z",
   "summary": {
     "overallScore": 17.368790748205868,
     "readabilityGrade": "Poor",
-    "wordCount": 23280,
-    "estimatedReadingTime": 117
+    "wordCount": 42758,
+    "estimatedReadingTime": 214
   },
   "readabilityMetrics": {
     "fleschScore": -1.5780231294853309,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 29.2%",
+      "issue": "Vocabulary complexity score: 29.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -1.6",
+      "issue": "Flesch Reading Ease score: -1.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 17.368790748205868,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -1.5780231294853309,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 25.711365003006616,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29196735395189005,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

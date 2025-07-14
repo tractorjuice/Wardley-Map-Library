@@ -1,14 +1,14 @@
 {
   "bookId": "the-genai-paradox-understanding-and-navigating-the-future-of-artificial-general-intelligence-4ab175e2",
   "directory": "The_GenAI_Paradox__Understanding_and_Navigating_the_Future_of_Artificial_General_Intelligence_4ab175e2",
-  "title": "The GenAI Paradox Understanding And Navigating The Future Of Artificial General Intelligence 4ab175e2",
+  "title": "The GenAI Paradox: Understanding and Navigating the Future of Artificial General Intelligence",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:53.151Z",
+  "generatedAt": "2025-07-14T18:26:42.938Z",
   "summary": {
     "overallScore": 6.422702201998583,
     "readabilityGrade": "Very Poor",
-    "wordCount": 9540,
-    "estimatedReadingTime": 48
+    "wordCount": 14829,
+    "estimatedReadingTime": 75
   },
   "readabilityMetrics": {
     "fleschScore": -13.94324449500354,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 34.3%",
+      "issue": "Vocabulary complexity score: 34.3%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -13.9",
+      "issue": "Flesch Reading Ease score: -13.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 6.422702201998583,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -13.94324449500354,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 32.88026607538803,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3426624737945493,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

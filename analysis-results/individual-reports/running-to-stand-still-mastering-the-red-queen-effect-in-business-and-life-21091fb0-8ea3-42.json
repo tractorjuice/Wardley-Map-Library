@@ -1,14 +1,14 @@
 {
   "bookId": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
   "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
-  "title": "Running To Stand Still Mastering The Red Queen Effect In Business And Life 21091fb0-8ea3-42",
+  "title": "Running to Stand Still: Mastering the Red Queen Effect in Business and Life",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T17:49:49.194Z",
+  "generatedAt": "2025-07-14T18:26:38.905Z",
   "summary": {
     "overallScore": 21.084844741655207,
     "readabilityGrade": "Poor",
-    "wordCount": 26995,
-    "estimatedReadingTime": 135
+    "wordCount": 43367,
+    "estimatedReadingTime": 217
   },
   "readabilityMetrics": {
     "fleschScore": 7.712111854138016,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 25.4%",
+      "issue": "Vocabulary complexity score: 25.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 7.7",
+      "issue": "Flesch Reading Ease score: 7.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 21.084844741655207,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 7.712111854138016,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 27.070536828963796,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.25367660677903314,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -1,14 +1,14 @@
 {
   "bookId": "maps-to-action-mastering-strategy-development-through-wardley-mapping-b13af0f0",
   "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
-  "title": "Maps To Action Mastering Strategy Development Through Wardley Mapping B13af0f0",
+  "title": "Maps to Action: Mastering Strategy Development Through Wardley Mapping",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:46.921Z",
+  "generatedAt": "2025-07-14T18:26:36.369Z",
   "summary": {
     "overallScore": 13.800113715834595,
     "readabilityGrade": "Very Poor",
-    "wordCount": 15235,
-    "estimatedReadingTime": 77
+    "wordCount": 23365,
+    "estimatedReadingTime": 117
   },
   "readabilityMetrics": {
     "fleschScore": -10.499715710413511,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 32.9%",
+      "issue": "Vocabulary complexity score: 32.9%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -10.5",
+      "issue": "Flesch Reading Ease score: -10.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 13.800113715834595,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -10.499715710413511,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 29.993581514762518,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3291762389235313,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

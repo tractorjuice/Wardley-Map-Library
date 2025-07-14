@@ -1,14 +1,14 @@
 {
   "bookId": "the-red-queen-and-the-ai-race-staying-ahead-with-1889668b",
   "directory": "The_Red_Queen_and_the_AI_Race__Staying_Ahead_with__1889668b",
-  "title": "The Red Queen And The AI Race Staying Ahead With 1889668b",
+  "title": "The Red Queen and the AI Race: Staying Ahead with Generative Intelligence and Wardley Mapping",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:49:53.562Z",
+  "generatedAt": "2025-07-14T18:26:43.443Z",
   "summary": {
     "overallScore": 22.679448301430362,
     "readabilityGrade": "Poor",
-    "wordCount": 20896,
-    "estimatedReadingTime": 105
+    "wordCount": 34482,
+    "estimatedReadingTime": 173
   },
   "readabilityMetrics": {
     "fleschScore": 11.69862075357591,
@@ -67,32 +67,34 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 20.8 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 27.4%",
+      "issue": "Vocabulary complexity score: 27.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 11.7",
+      "issue": "Flesch Reading Ease score: 11.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +104,38 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 22.679448301430362,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 20
     },
     "fleschScore": {
       "bookScore": 11.69862075357591,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 20.759783263094523,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27431087289433387,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

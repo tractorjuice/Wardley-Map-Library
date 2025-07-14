@@ -1,14 +1,14 @@
 {
   "bookId": "strategic-transformation-wardley-mapping-for-uk-home-office-reform-42e77d0d",
   "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
-  "title": "Strategic Transformation Wardley Mapping For UK Home Office Reform 42e77d0d",
+  "title": "Strategic Transformation: Wardley Mapping for UK Home Office Reform",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:51.281Z",
+  "generatedAt": "2025-07-14T18:26:40.958Z",
   "summary": {
     "overallScore": 4.0315278700192145,
     "readabilityGrade": "Very Poor",
-    "wordCount": 14526,
-    "estimatedReadingTime": 73
+    "wordCount": 21931,
+    "estimatedReadingTime": 110
   },
   "readabilityMetrics": {
     "fleschScore": -19.921180324951962,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 31.6%",
+      "issue": "Vocabulary complexity score: 31.6%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -19.9",
+      "issue": "Flesch Reading Ease score: -19.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 4.0315278700192145,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -19.921180324951962,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 34.05434782608695,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.31619165634035523,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

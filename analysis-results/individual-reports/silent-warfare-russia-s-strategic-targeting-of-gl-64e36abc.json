@@ -1,14 +1,14 @@
 {
   "bookId": "silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc",
   "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
-  "title": "Silent Warfare Russia S Strategic Targeting Of Gl 64e36abc",
+  "title": "Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:49.589Z",
+  "generatedAt": "2025-07-14T18:26:39.240Z",
   "summary": {
     "overallScore": 2.4845115889955878,
     "readabilityGrade": "Very Poor",
-    "wordCount": 11883,
-    "estimatedReadingTime": 60
+    "wordCount": 17485,
+    "estimatedReadingTime": 88
   },
   "readabilityMetrics": {
     "fleschScore": -23.78872102751103,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 29.3%",
+      "issue": "Vocabulary complexity score: 29.3%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -23.8",
+      "issue": "Flesch Reading Ease score: -23.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 2.4845115889955878,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -23.78872102751103,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.36832061068702,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2925187242278886,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

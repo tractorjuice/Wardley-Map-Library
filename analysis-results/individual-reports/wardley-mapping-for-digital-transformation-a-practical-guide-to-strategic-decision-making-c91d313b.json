@@ -1,14 +1,14 @@
 {
   "bookId": "wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making-c91d313b",
   "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
-  "title": "Wardley Mapping For Digital Transformation A Practical Guide To Strategic Decision-Making C91d313b",
+  "title": "Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:55.706Z",
+  "generatedAt": "2025-07-14T18:26:45.773Z",
   "summary": {
     "overallScore": 14.803304672774198,
     "readabilityGrade": "Very Poor",
-    "wordCount": 12891,
-    "estimatedReadingTime": 65
+    "wordCount": 19731,
+    "estimatedReadingTime": 99
   },
   "readabilityMetrics": {
     "fleschScore": -7.991738318064506,
@@ -75,14 +75,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 30.5%",
+      "issue": "Vocabulary complexity score: 30.5%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -8.0",
+      "issue": "Flesch Reading Ease score: -8.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,23 +107,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 14.803304672774198,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -7.991738318064506,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 29.449253731343283,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3047087115041502,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

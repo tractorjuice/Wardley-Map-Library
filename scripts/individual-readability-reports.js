@@ -8,10 +8,14 @@ class IndividualReadabilityReports {
     constructor() {
         this.analyzer = new ReadabilityAnalyzer();
         this.outputDir = path.join(__dirname, '..', 'analysis-results', 'individual-reports');
+        this.booksManifest = null;
     }
 
     async generateAllReports() {
         console.log('🚀 Starting individual book readability report generation...\n');
+        
+        // Load books manifest for proper titles
+        await this.loadBooksManifest();
         
         // Ensure output directory exists
         if (!fs.existsSync(this.outputDir)) {
@@ -41,10 +45,13 @@ class IndividualReadabilityReports {
     }
 
     async generateIndividualReport(analysis) {
+        const bookId = this.createBookId(analysis.directory);
+        const properTitle = this.getProperTitle(bookId, analysis.directory);
+        
         const reportData = {
-            bookId: this.createBookId(analysis.directory),
+            bookId: bookId,
             directory: analysis.directory,
-            title: this.createBookTitle(analysis.directory),
+            title: properTitle,
             category: analysis.category,
             generatedAt: new Date().toISOString(),
             
@@ -86,7 +93,31 @@ class IndividualReadabilityReports {
             .replace(/^-|-$/g, '');
     }
 
-    createBookTitle(directory) {
+    async loadBooksManifest() {
+        try {
+            const manifestPath = path.join(__dirname, '..', 'books.json');
+            const manifestContent = fs.readFileSync(manifestPath, 'utf8');
+            this.booksManifest = JSON.parse(manifestContent);
+        } catch (error) {
+            console.warn('Warning: Could not load books manifest. Using directory names for titles.');
+            this.booksManifest = null;
+        }
+    }
+
+    getProperTitle(bookId, directory) {
+        // First try to get title from manifest
+        if (this.booksManifest && this.booksManifest.books) {
+            const book = this.booksManifest.books.find(b => b.id === bookId);
+            if (book && book.title) {
+                return book.title;
+            }
+        }
+        
+        // Fallback to directory name conversion
+        return this.createBookTitleFromDirectory(directory);
+    }
+
+    createBookTitleFromDirectory(directory) {
         return directory
             .replace(/_+/g, ' ')
             .replace(/\s+/g, ' ')
@@ -106,58 +137,62 @@ class IndividualReadabilityReports {
     generateRecommendations(analysis) {
         const recommendations = [];
 
-        // Sentence length recommendations
-        if (analysis.sentenceAnalysis.avgWordsPerSentence > 20) {
+        // Sentence length recommendations - use reference book threshold (18.692983606557377)
+        if (analysis.sentenceAnalysis.avgWordsPerSentence > 18.692983606557377) {
+            const priority = analysis.sentenceAnalysis.avgWordsPerSentence > 25 ? 'High' : 'Medium';
             recommendations.push({
                 category: 'Sentence Structure',
-                priority: 'High',
+                priority: priority,
                 issue: `Average sentence length is ${analysis.sentenceAnalysis.avgWordsPerSentence.toFixed(1)} words`,
                 recommendation: 'Break long sentences into shorter ones. Aim for 12-18 words per sentence.',
-                impact: 'High - Shorter sentences significantly improve readability'
+                impact: priority === 'High' ? 'High - Shorter sentences significantly improve readability' : 'Medium - Shorter sentences improve readability'
             });
         }
 
-        // Vocabulary complexity recommendations
-        if (analysis.vocabularyComplexity.complexityScore > 0.15) {
+        // Vocabulary complexity recommendations - use reference book threshold (0.11992600833053062)
+        if (analysis.vocabularyComplexity.complexityScore > 0.11992600833053062) {
+            const priority = analysis.vocabularyComplexity.complexityScore > 0.15 ? 'High' : 'Medium';
             recommendations.push({
                 category: 'Vocabulary',
-                priority: 'High',
-                issue: `High vocabulary complexity score: ${(analysis.vocabularyComplexity.complexityScore * 100).toFixed(1)}%`,
+                priority: priority,
+                issue: `Vocabulary complexity score: ${(analysis.vocabularyComplexity.complexityScore * 100).toFixed(1)}%`,
                 recommendation: 'Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.',
-                impact: 'High - Simpler vocabulary makes content accessible to wider audience'
+                impact: priority === 'High' ? 'High - Simpler vocabulary makes content accessible to wider audience' : 'Medium - Simpler vocabulary improves accessibility'
             });
         }
 
-        // Structure recommendations - now counting all header levels
-        if (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders < analysis.wordCount / 1000) {
+        // Structure recommendations - more sensitive threshold
+        if (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders < analysis.wordCount / 800) {
             recommendations.push({
                 category: 'Structure',
                 priority: 'Medium',
-                issue: 'Insufficient headers and subheaders for content length',
-                recommendation: 'Add more headings to break up content. Aim for 1 header per 500-1000 words.',
+                issue: 'Could benefit from more headers and subheaders',
+                recommendation: 'Add more headings to break up content. Aim for 1 header per 500-800 words.',
                 impact: 'Medium - Better structure improves navigation and comprehension'
             });
         }
 
-        // Passive voice recommendations
-        if (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences > 0.25) {
+        // Passive voice recommendations - more sensitive threshold
+        if (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences > 0.15) {
+            const priority = (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences) > 0.25 ? 'High' : 'Medium';
             recommendations.push({
                 category: 'Writing Style',
-                priority: 'Medium',
+                priority: priority,
                 issue: `${((analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences) * 100).toFixed(1)}% passive voice usage`,
                 recommendation: 'Convert passive voice to active voice where possible. Active voice is more engaging and clearer.',
-                impact: 'Medium - Active voice improves clarity and engagement'
+                impact: priority === 'High' ? 'High - Active voice improves clarity and engagement' : 'Medium - Active voice improves clarity'
             });
         }
 
-        // Reading flow recommendations
-        if (analysis.readabilityMetrics.fleschScore < 30) {
+        // Reading flow recommendations - use reference book threshold (52.47752381005441)
+        if (analysis.readabilityMetrics.fleschScore < 52.47752381005441) {
+            const priority = analysis.readabilityMetrics.fleschScore < 30 ? 'High' : 'Medium';
             recommendations.push({
                 category: 'Reading Flow',
-                priority: 'High',
-                issue: `Very low Flesch Reading Ease score: ${analysis.readabilityMetrics.fleschScore.toFixed(1)}`,
+                priority: priority,
+                issue: `Flesch Reading Ease score: ${analysis.readabilityMetrics.fleschScore.toFixed(1)}`,
                 recommendation: 'Focus on shorter sentences and simpler words. Consider adding examples and analogies.',
-                impact: 'High - Improving flow makes content much more accessible'
+                impact: priority === 'High' ? 'High - Improving flow makes content much more accessible' : 'Medium - Improving flow enhances readability'
             });
         }
 
@@ -167,12 +202,17 @@ class IndividualReadabilityReports {
     identifyImprovementPriorities(analysis) {
         const priorities = [];
 
-        // Calculate priority scores
-        const sentenceScore = analysis.sentenceAnalysis.avgWordsPerSentence > 20 ? 10 : 0;
-        const vocabularyScore = analysis.vocabularyComplexity.complexityScore > 0.15 ? 9 : 0;
-        const fleschScore = analysis.readabilityMetrics.fleschScore < 30 ? 8 : 0;
-        const structureScore = (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders) < (analysis.wordCount / 500) ? 7 : 0;
-        const passiveScore = (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences) > 0.25 ? 6 : 0;
+        // Calculate priority scores with reference book thresholds
+        const sentenceScore = analysis.sentenceAnalysis.avgWordsPerSentence > 25 ? 10 : 
+                             analysis.sentenceAnalysis.avgWordsPerSentence > 18.692983606557377 ? 7 : 0;
+        const vocabularyScore = analysis.vocabularyComplexity.complexityScore > 0.15 ? 9 : 
+                               analysis.vocabularyComplexity.complexityScore > 0.11992600833053062 ? 6 : 0;
+        const fleschScore = analysis.readabilityMetrics.fleschScore < 30 ? 8 : 
+                           analysis.readabilityMetrics.fleschScore < 52.47752381005441 ? 5 : 0;
+        const structureScore = (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders) < (analysis.wordCount / 1000) ? 7 : 
+                              (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders) < (analysis.wordCount / 800) ? 4 : 0;
+        const passiveScore = (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences) > 0.25 ? 6 : 
+                            (analysis.sentenceAnalysis.passiveVoice / analysis.sentenceAnalysis.totalSentences) > 0.15 ? 3 : 0;
 
         const priorityItems = [
             { priority: 'Critical', score: sentenceScore, item: 'Shorten long sentences' },
@@ -188,10 +228,16 @@ class IndividualReadabilityReports {
     }
 
     generateBenchmarks(analysis) {
-        // Using Wardley Mapping eBook (May 2024 v1.8) as baseline - a well-written, accessible strategic text
-        const libraryAverages = {
+        // Using Wardley Mapping eBook (May 2024 v1.8) as reference benchmark
+        // This is a well-written, accessible strategic text that serves as our quality standard
+        const referenceBenchmark = {
             overallScore: 50.99,
             fleschScore: 52.48,
+            fleschKincaidGrade: 10.58,
+            fogIndex: 14.02,
+            smogIndex: 13.12,
+            ariIndex: 10.48,
+            cliIndex: 10.78,
             sentenceLength: 18.69,
             complexityScore: 0.120
         };
@@ -199,24 +245,24 @@ class IndividualReadabilityReports {
         return {
             overallScore: {
                 bookScore: analysis.overallScore,
-                libraryAverage: libraryAverages.overallScore,
-                comparison: analysis.overallScore > libraryAverages.overallScore ? 'Above Average' : 'Below Average',
-                percentile: this.calculatePercentile(analysis.overallScore, libraryAverages.overallScore)
+                referenceBenchmark: referenceBenchmark.overallScore,
+                comparison: analysis.overallScore > referenceBenchmark.overallScore ? 'Above Reference' : 'Below Reference',
+                percentile: this.calculatePercentile(analysis.overallScore, referenceBenchmark.overallScore)
             },
             fleschScore: {
                 bookScore: analysis.readabilityMetrics.fleschScore,
-                libraryAverage: libraryAverages.fleschScore,
-                comparison: analysis.readabilityMetrics.fleschScore > libraryAverages.fleschScore ? 'Above Average' : 'Below Average'
+                referenceBenchmark: referenceBenchmark.fleschScore,
+                comparison: analysis.readabilityMetrics.fleschScore > referenceBenchmark.fleschScore ? 'Above Reference' : 'Below Reference'
             },
             sentenceLength: {
                 bookScore: analysis.readabilityMetrics.avgSentenceLength,
-                libraryAverage: libraryAverages.sentenceLength,
-                comparison: analysis.readabilityMetrics.avgSentenceLength < libraryAverages.sentenceLength ? 'Better' : 'Worse'
+                referenceBenchmark: referenceBenchmark.sentenceLength,
+                comparison: analysis.readabilityMetrics.avgSentenceLength < referenceBenchmark.sentenceLength ? 'Better' : 'Worse'
             },
             vocabularyComplexity: {
                 bookScore: analysis.vocabularyComplexity.complexityScore,
-                libraryAverage: libraryAverages.complexityScore,
-                comparison: analysis.vocabularyComplexity.complexityScore < libraryAverages.complexityScore ? 'Simpler' : 'More Complex'
+                referenceBenchmark: referenceBenchmark.complexityScore,
+                comparison: analysis.vocabularyComplexity.complexityScore < referenceBenchmark.complexityScore ? 'Simpler' : 'More Complex'
             }
         };
     }

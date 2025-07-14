@@ -1,14 +1,14 @@
 {
   "bookId": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
   "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
-  "title": "The Pirate Wars Wardley Maps In 2087 Dbe88dd9-B867-4521-8f68-18748f19bf4c",
+  "title": "Table of Contents",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:49:53.290Z",
+  "generatedAt": "2025-07-14T18:26:43.096Z",
   "summary": {
     "overallScore": 39.87740324497637,
     "readabilityGrade": "Below Average",
-    "wordCount": 2585,
-    "estimatedReadingTime": 13
+    "wordCount": 5382,
+    "estimatedReadingTime": 27
   },
   "readabilityMetrics": {
     "fleschScore": 39.693508112440924,
@@ -66,56 +66,75 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 22.2 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 18.1%",
+      "issue": "Vocabulary complexity score: 18.1%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Could benefit from more headers and subheaders",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-800 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 39.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "Medium - Improving flow enhances readability"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
       "item": "Simplify vocabulary"
     },
     {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Improve reading flow"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 39.87740324497637,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 30
     },
     "fleschScore": {
       "bookScore": 39.693508112440924,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 22.239669421487605,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.18104448742746615,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

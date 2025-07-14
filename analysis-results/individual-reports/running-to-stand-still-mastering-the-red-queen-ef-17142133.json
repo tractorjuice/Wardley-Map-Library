@@ -1,14 +1,14 @@
 {
   "bookId": "running-to-stand-still-mastering-the-red-queen-ef-17142133",
   "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
-  "title": "Running To Stand Still Mastering The Red Queen Ef 17142133",
+  "title": "Running to Stand Still: Mastering the Red Queen Effect in the AI Revolution",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:49.088Z",
+  "generatedAt": "2025-07-14T18:26:38.788Z",
   "summary": {
     "overallScore": 5.035109337901655,
     "readabilityGrade": "Very Poor",
-    "wordCount": 9822,
-    "estimatedReadingTime": 50
+    "wordCount": 15229,
+    "estimatedReadingTime": 77
   },
   "readabilityMetrics": {
     "fleschScore": -17.41222665524586,
@@ -76,14 +76,14 @@
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 34.0%",
+      "issue": "Vocabulary complexity score: 34.0%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.4",
+      "issue": "Flesch Reading Ease score: -17.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 5.035109337901655,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": -17.41222665524586,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 33.91759465478842,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34025656689065364,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

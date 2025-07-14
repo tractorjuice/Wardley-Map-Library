@@ -1,14 +1,14 @@
 {
   "bookId": "bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3",
   "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
-  "title": "Bridging The Divide Strategies For Reducing Inequ 17a0b4b3",
+  "title": "Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:49:40.592Z",
+  "generatedAt": "2025-07-14T18:26:29.614Z",
   "summary": {
     "overallScore": 18.394367808753124,
     "readabilityGrade": "Poor",
-    "wordCount": 9544,
-    "estimatedReadingTime": 48
+    "wordCount": 15800,
+    "estimatedReadingTime": 79
   },
   "readabilityMetrics": {
     "fleschScore": 0.9859195218828063,
@@ -67,32 +67,34 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Average sentence length is 23.2 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "High - Shorter sentences significantly improve readability"
+      "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 23.4%",
+      "issue": "Vocabulary complexity score: 23.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 1.0",
+      "issue": "Flesch Reading Ease score: 1.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 10,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Critical",
       "score": 9,
@@ -102,28 +104,38 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
+    },
+    {
+      "priority": "Critical",
+      "score": 7,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
       "bookScore": 18.394367808753124,
-      "libraryAverage": 50.99,
-      "comparison": "Below Average",
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
       "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0.9859195218828063,
-      "libraryAverage": 52.48,
-      "comparison": "Below Average"
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
     },
     "sentenceLength": {
       "bookScore": 23.167155425219942,
-      "libraryAverage": 18.69,
+      "referenceBenchmark": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23396898575020955,
-      "libraryAverage": 0.12,
+      "referenceBenchmark": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -409,10 +409,23 @@ class ReadabilityAnalyzer {
             const vocabularyComplexity = this.analyzeVocabularyComplexity(words);
             const structurePatterns = this.analyzeStructurePatterns(cleanContent);
             
+            // Calculate word count the same way as readability metrics (includes all words, not just meaningful words)
+            const sentences = cleanContent
+                .replace(/[^\w\s.!?;:,()-]/g, ' ')
+                .split(/[.!?]+/)
+                .filter(s => s.trim().length > 10)
+                .map(s => s.trim());
+            
+            let totalWords = 0;
+            sentences.forEach(sentence => {
+                const sentenceWords = sentence.split(/\s+/).filter(w => w.length > 0);
+                totalWords += sentenceWords.length;
+            });
+            
             const analysis = {
                 directory: book.directory,
                 category: book.category,
-                wordCount: words.length,
+                wordCount: totalWords, // Use total word count including stop words
                 sentenceAnalysis,
                 readabilityMetrics,
                 vocabularyComplexity,

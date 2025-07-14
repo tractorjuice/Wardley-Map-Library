@@ -1,141 +1,149 @@
 {
   "totalReports": 185,
-  "generatedAt": "2025-07-14T17:49:56.538Z",
+  "generatedAt": "2025-07-14T18:26:46.615Z",
   "reports": [
     {
       "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
       "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
-      "title": "Automated Futures Human Taxes The Robot Tax Conu",
+      "title": "Automated Futures, Human Taxes: The Robot Tax Conundrum",
       "category": "Other",
       "overallScore": 51.45405522710766,
       "readabilityGrade": "Average",
-      "wordCount": 91730,
-      "estimatedReadingTime": 459,
-      "topIssues": []
+      "wordCount": 154044,
+      "estimatedReadingTime": 771,
+      "topIssues": [
+        "Shorten long sentences",
+        "Improve reading flow"
+      ]
     },
     {
       "bookId": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
       "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
-      "title": "The Pirate Wars Wardley Maps In 2087 Dbe88dd9-B867-4521-8f68-18748f19bf4c",
+      "title": "Table of Contents",
       "category": "Strategic Mapping",
       "overallScore": 39.87740324497637,
       "readabilityGrade": "Below Average",
-      "wordCount": 2585,
-      "estimatedReadingTime": 13,
+      "wordCount": 5382,
+      "estimatedReadingTime": 27,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
+        "Shorten long sentences",
         "Add more structure"
       ]
     },
     {
       "bookId": "chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
       "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
-      "title": "Chronos Resistance 61fc8b58-Bd77-4973-B45e-A97d2cc6d84a",
+      "title": "Table of Contents",
       "category": "Other",
       "overallScore": 39.64562282628774,
       "readabilityGrade": "Below Average",
-      "wordCount": 6883,
-      "estimatedReadingTime": 35,
+      "wordCount": 12827,
+      "estimatedReadingTime": 65,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
+        "Shorten long sentences",
         "Add more structure"
       ]
     },
     {
       "bookId": "the-wardley-maps-pirates-of-the-stars-706c795b-b0f8-4064-8c80-67b19be2b053",
       "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
-      "title": "The Wardley Maps Pirates Of The Stars 706c795b-B0f8-4064-8c80-67b19be2b053",
+      "title": "Table of Contents",
       "category": "Strategic Mapping",
       "overallScore": 39.3536847481238,
       "readabilityGrade": "Below Average",
-      "wordCount": 3804,
-      "estimatedReadingTime": 20,
+      "wordCount": 7361,
+      "estimatedReadingTime": 37,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
+        "Shorten long sentences",
         "Add more structure"
       ]
     },
     {
       "bookId": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
       "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
-      "title": "The Rebellion Resurgence 02180336-6d26-4ffb-842a-Fdf7fdddca58",
+      "title": "Table of Contents",
       "category": "Other",
       "overallScore": 38.8043048298713,
       "readabilityGrade": "Below Average",
-      "wordCount": 7437,
-      "estimatedReadingTime": 38,
+      "wordCount": 13452,
+      "estimatedReadingTime": 68,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
+        "Shorten long sentences",
         "Add more structure"
       ]
     },
     {
       "bookId": "the-wardley-map-e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
       "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
-      "title": "The Wardley Map E1797f31-2e24-4a9a-9387-F1b8c291c2a9",
+      "title": "Table of Contents",
       "category": "Strategic Mapping",
       "overallScore": 38.6033648568388,
       "readabilityGrade": "Below Average",
-      "wordCount": 6980,
-      "estimatedReadingTime": 35,
+      "wordCount": 12543,
+      "estimatedReadingTime": 63,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
+        "Shorten long sentences",
         "Add more structure"
       ]
     },
     {
       "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
       "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
-      "title": "Once Upon A Map A Child S Guide To Wardley Mapping Through Fairy Tales D1b4d1dd-889d-4b",
+      "title": "Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales",
       "category": "Strategic Mapping",
       "overallScore": 36.37395484624058,
       "readabilityGrade": "Below Average",
-      "wordCount": 5718,
-      "estimatedReadingTime": 29,
+      "wordCount": 13211,
+      "estimatedReadingTime": 67,
       "topIssues": [
+        "Simplify vocabulary",
         "Shorten long sentences",
-        "Simplify vocabulary"
+        "Improve reading flow"
       ]
     },
     {
       "bookId": "the-automated-levy-navigating-the-future-of-taxat",
       "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
-      "title": "The Automated Levy Navigating The Future Of Taxat",
+      "title": "The Automated Levy: Navigating the Future of Taxation in an AI-Driven World",
       "category": "Other",
       "overallScore": 36.33141848868932,
       "readabilityGrade": "Below Average",
-      "wordCount": 66129,
-      "estimatedReadingTime": 331,
-      "topIssues": []
+      "wordCount": 102056,
+      "estimatedReadingTime": 511,
+      "topIssues": [
+        "Simplify vocabulary",
+        "Improve reading flow"
+      ]
     },
     {
       "bookId": "chronicles-of-2064-echoes-of-the-guardians-00ae8f95-797c-4d70-bc38-00ebbec615e7",
       "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
-      "title": "Chronicles Of 2064 Echoes Of The Guardians 00ae8f95-797c-4d70-Bc38-00ebbec615e7",
+      "title": "Table of Contents",
       "category": "Other",
       "overallScore": 36.31551853461112,
       "readabilityGrade": "Below Average",
-      "wordCount": 14057,
-      "estimatedReadingTime": 71,
+      "wordCount": 24098,
+      "estimatedReadingTime": 121,
       "topIssues": [
         "Shorten long sentences",
-        "Add more structure"
+        "Add more structure",
+        "Improve reading flow"
       ]
     },
     {
       "bookId": "ace-your-foundation-in-wardley-mapping-exam-a-com-e3a63103",
       "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
-      "title": "Ace Your Foundation In Wardley Mapping Exam A Com E3a63103",
+      "title": "Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide",
       "category": "Strategic Mapping",
       "overallScore": 31.967516969254632,
       "readabilityGrade": "Below Average",
-      "wordCount": 21565,
-      "estimatedReadingTime": 108,
+      "wordCount": 36160,
+      "estimatedReadingTime": 181,
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow"
@@ -144,124 +152,132 @@
     {
       "bookId": "genai-in-hmrc-a-strategic-guide-to-transforming-t-506e97f6",
       "directory": "GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6",
-      "title": "GenAI In HMRC A Strategic Guide To Transforming T 506e97f6",
+      "title": "GenAI in HMRC: A Strategic Guide to Transforming Tax Administration",
       "category": "Artificial Intelligence",
       "overallScore": 30.6725160806047,
       "readabilityGrade": "Below Average",
-      "wordCount": 27920,
-      "estimatedReadingTime": 140,
+      "wordCount": 44461,
+      "estimatedReadingTime": 223,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-mastering-strategy-through-landsc-1ad8b99f",
       "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
-      "title": "Wardley Mapping Mastering Strategy Through Landsc 1ad8b99f",
+      "title": "Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay",
       "category": "Strategic Mapping",
       "overallScore": 30.404699746807488,
       "readabilityGrade": "Below Average",
-      "wordCount": 44605,
-      "estimatedReadingTime": 224,
+      "wordCount": 74091,
+      "estimatedReadingTime": 371,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-mastering-strategy-in-a-dynamic-w-25fc793c",
       "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
-      "title": "Wardley Mapping Mastering Strategy In A Dynamic W 25fc793c",
+      "title": "Wardley Mapping: Mastering Strategy in a Dynamic World",
       "category": "Strategic Mapping",
       "overallScore": 30.219907218756497,
       "readabilityGrade": "Below Average",
-      "wordCount": 32861,
-      "estimatedReadingTime": 165,
+      "wordCount": 54512,
+      "estimatedReadingTime": 273,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-hmrc-a-practical-guide-to-strategy-b54d1707",
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
-      "title": "GenAI For HMRC A Practical Guide To Strategy B54d1707",
+      "title": "GenAI for HMRC: A Practical Guide to Strategy, Implementation, and Ethical Governance",
       "category": "Artificial Intelligence",
       "overallScore": 30.09918863550015,
       "readabilityGrade": "Below Average",
-      "wordCount": 34453,
-      "estimatedReadingTime": 173,
+      "wordCount": 54761,
+      "estimatedReadingTime": 274,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-strategy-in-a-landscape-of-consta-b532244c",
       "directory": "Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c",
-      "title": "Wardley Mapping Strategy In A Landscape Of Consta B532244c",
+      "title": "Wardley Mapping: Strategy in a Landscape of Constant Change",
       "category": "Strategic Mapping",
       "overallScore": 29.95280429775181,
       "readabilityGrade": "Poor",
-      "wordCount": 45925,
-      "estimatedReadingTime": 230,
+      "wordCount": 77714,
+      "estimatedReadingTime": 389,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "unlocking-national-insights-a-genai-strategy-for-487c81b2",
       "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
-      "title": "Unlocking National Insights A GenAI Strategy For 487c81b2",
+      "title": "Unlocking National Insights: A GenAI Strategy for the Office of National Statistics",
       "category": "Artificial Intelligence",
       "overallScore": 29.793728954299716,
       "readabilityGrade": "Poor",
-      "wordCount": 34195,
-      "estimatedReadingTime": 171,
+      "wordCount": 55157,
+      "estimatedReadingTime": 276,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mapping-the-future-of-uk-transport-a-wardley-mapp-8f45c6a1",
       "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
-      "title": "Mapping The Future Of UK Transport A Wardley Mapp 8f45c6a1",
+      "title": "Mapping the Future of UK Transport: A Wardley Mapping Approach",
       "category": "Strategic Mapping",
       "overallScore": 29.502738841695134,
       "readabilityGrade": "Poor",
-      "wordCount": 33884,
-      "estimatedReadingTime": 170,
+      "wordCount": 54011,
+      "estimatedReadingTime": 271,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-red-queen-s-race-wardley-mapping-for-competit-bcd40363",
       "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
-      "title": "The Red Queen S Race Wardley Mapping For Competit Bcd40363",
+      "title": "The Red Queen's Race: Wardley Mapping for Competitive Advantage in a Relentlessly Evolving World",
       "category": "Strategic Mapping",
       "overallScore": 29.380014616967458,
       "readabilityGrade": "Poor",
-      "wordCount": 39091,
-      "estimatedReadingTime": 196,
+      "wordCount": 64387,
+      "estimatedReadingTime": 322,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mapping-your-competitive-advantage-a-practical-gu-2f6d09c6",
       "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
-      "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
+      "title": "Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance",
       "category": "Strategic Mapping",
       "overallScore": 28.75104974024207,
       "readabilityGrade": "Poor",
-      "wordCount": 29059,
-      "estimatedReadingTime": 146,
+      "wordCount": 47249,
+      "estimatedReadingTime": 237,
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow"
@@ -270,325 +286,327 @@
     {
       "bookId": "mapping-the-robot-revolution-a-wardley-map-approa-ff29f2d8",
       "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
-      "title": "Mapping The Robot Revolution A Wardley Map Approa Ff29f2d8",
+      "title": "Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption",
       "category": "Strategic Mapping",
       "overallScore": 27.75984912057836,
       "readabilityGrade": "Poor",
-      "wordCount": 28642,
-      "estimatedReadingTime": 144,
+      "wordCount": 46167,
+      "estimatedReadingTime": 231,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af",
       "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
-      "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
+      "title": "Data in the Age of AI: Will LLMs Redefine Data Storage?",
       "category": "Artificial Intelligence",
       "overallScore": 27.465825660854172,
       "readabilityGrade": "Poor",
-      "wordCount": 32386,
-      "estimatedReadingTime": 162,
+      "wordCount": 49418,
+      "estimatedReadingTime": 248,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "open-banking-for-you-take-control-of-your-finance-05f3f2ae",
       "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
-      "title": "Open Banking For You Take Control Of Your Finance 05f3f2ae",
+      "title": "Open Banking for You: Take Control of Your Finances in the UK",
       "category": "Other",
       "overallScore": 26.510748734593164,
       "readabilityGrade": "Poor",
-      "wordCount": 19780,
-      "estimatedReadingTime": 99,
+      "wordCount": 32919,
+      "estimatedReadingTime": 165,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-mastering-strategy-in-a-complex-w-04f95a3e",
       "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
-      "title": "Wardley Mapping Mastering Strategy In A Complex W 04f95a3e",
+      "title": "Wardley Mapping: Mastering Strategy in a Complex World",
       "category": "Strategic Mapping",
       "overallScore": 25.421380905564273,
       "readabilityGrade": "Poor",
-      "wordCount": 27074,
-      "estimatedReadingTime": 136,
+      "wordCount": 45428,
+      "estimatedReadingTime": 228,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e",
       "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
-      "title": "Wardley Mapping A Practical Guide To Strategy In 2abb5f9d-549d-4e",
+      "title": "Wardley Mapping: A Practical Guide to Strategy in a Digital Age",
       "category": "Strategic Mapping",
       "overallScore": 24.470378787665926,
       "readabilityGrade": "Poor",
-      "wordCount": 30744,
-      "estimatedReadingTime": 154,
+      "wordCount": 51698,
+      "estimatedReadingTime": 259,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-algorithmic-consumer-how-ai-agents-are-rewrit-08335ae6",
       "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
-      "title": "The Algorithmic Consumer How AI Agents Are Rewrit 08335ae6",
+      "title": "The Algorithmic Consumer: How AI Agents are Rewriting the Rules of Brand Loyalty and Market Dominance",
       "category": "Artificial Intelligence",
       "overallScore": 23.62381810336176,
       "readabilityGrade": "Poor",
-      "wordCount": 42979,
-      "estimatedReadingTime": 215,
+      "wordCount": 69189,
+      "estimatedReadingTime": 346,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-age-of-agency-navigating-the-genai-revolution-458c1358",
       "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
-      "title": "The Age Of Agency Navigating The GenAI Revolution 458c1358",
+      "title": "The Age of Agency: Navigating the GenAI Revolution",
       "category": "Artificial Intelligence",
       "overallScore": 23.466348303971962,
       "readabilityGrade": "Poor",
-      "wordCount": 40956,
-      "estimatedReadingTime": 205,
+      "wordCount": 66076,
+      "estimatedReadingTime": 331,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-hmrc-a-practical-guide-to-transforming-bbdf344f",
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
-      "title": "GenAI For HMRC A Practical Guide To Transforming Bbdf344f",
+      "title": "GenAI for HMRC: A Practical Guide to Transforming Tax Administration",
       "category": "Artificial Intelligence",
       "overallScore": 23.44645416286096,
       "readabilityGrade": "Poor",
-      "wordCount": 28262,
-      "estimatedReadingTime": 142,
+      "wordCount": 45343,
+      "estimatedReadingTime": 227,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "starship-vs-blue-origin-the-new-space-race-and-th-8f339d59",
       "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
-      "title": "Starship Vs Blue Origin The New Space Race And Th 8f339d59",
+      "title": "Starship vs Blue Origin: The New Space Race and the Future of Space Exploration",
       "category": "Other",
       "overallScore": 23.308712763035963,
       "readabilityGrade": "Poor",
-      "wordCount": 11664,
-      "estimatedReadingTime": 59,
+      "wordCount": 19539,
+      "estimatedReadingTime": 98,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-ai-titans-openai-anthropic-and-google-in-th-14c119ee",
       "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee",
-      "title": "The AI Titans OpenAI Anthropic And Google In Th 14c119ee",
+      "title": "The AI Titans: OpenAI, Anthropic, and Google in the Race for Supremacy",
       "category": "Artificial Intelligence",
       "overallScore": 22.836805790217273,
       "readabilityGrade": "Poor",
-      "wordCount": 21634,
-      "estimatedReadingTime": 109,
+      "wordCount": 34882,
+      "estimatedReadingTime": 175,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-hmrc-a-practical-guide-to-transforming-26ebe7b6",
       "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming__26ebe7b6",
-      "title": "GenAI For HMRC A Practical Guide To Transforming 26ebe7b6",
+      "title": "GenAI for HMRC: A Practical Guide to Transforming Tax and Revenue",
       "category": "Artificial Intelligence",
       "overallScore": 22.807422442164373,
       "readabilityGrade": "Poor",
-      "wordCount": 29028,
-      "estimatedReadingTime": 146,
+      "wordCount": 45446,
+      "estimatedReadingTime": 228,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-red-queen-and-the-ai-race-staying-ahead-with-1889668b",
       "directory": "The_Red_Queen_and_the_AI_Race__Staying_Ahead_with__1889668b",
-      "title": "The Red Queen And The AI Race Staying Ahead With 1889668b",
+      "title": "The Red Queen and the AI Race: Staying Ahead with Generative Intelligence and Wardley Mapping",
       "category": "Artificial Intelligence",
       "overallScore": 22.679448301430362,
       "readabilityGrade": "Poor",
-      "wordCount": 20896,
-      "estimatedReadingTime": 105,
+      "wordCount": 34482,
+      "estimatedReadingTime": 173,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "seizing-the-ai-tide-a-practical-guide-to-building-26a20eda",
       "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
-      "title": "Seizing The AI Tide A Practical Guide To Building 26a20eda",
+      "title": "Seizing the AI Tide: A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth",
       "category": "Artificial Intelligence",
       "overallScore": 22.370459804518077,
       "readabilityGrade": "Poor",
-      "wordCount": 30783,
-      "estimatedReadingTime": 154,
+      "wordCount": 48995,
+      "estimatedReadingTime": 245,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mapping-your-startup-s-future-mastering-wardley-maps-for-strategic-success-67b791b3-7e33-4f",
       "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
-      "title": "Mapping Your Startup S Future Mastering Wardley Maps For Strategic Success 67b791b3-7e33-4f",
+      "title": "Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success",
       "category": "Strategic Mapping",
       "overallScore": 22.242033919207596,
       "readabilityGrade": "Poor",
-      "wordCount": 27141,
-      "estimatedReadingTime": 136,
+      "wordCount": 48227,
+      "estimatedReadingTime": 242,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "game-changer-how-generative-ai-is-revolutionising-the-future-of-gaming-682bb3ec-a92c-40",
       "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
-      "title": "Game Changer How Generative AI Is Revolutionising The Future Of Gaming 682bb3ec-A92c-40",
+      "title": "Game Changer: How Generative AI is Revolutionising the Future of Gaming",
       "category": "Artificial Intelligence",
       "overallScore": 22.214702828138968,
       "readabilityGrade": "Poor",
-      "wordCount": 38165,
-      "estimatedReadingTime": 191,
+      "wordCount": 66442,
+      "estimatedReadingTime": 333,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "unlocking-the-power-of-generative-ai-for-sustainable-development-b341a861",
       "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
-      "title": "Unlocking The Power Of Generative AI For Sustainable Development B341a861",
+      "title": "Unlocking the Power of Generative AI for Sustainable Development: A Practical Guide for the UNSD",
       "category": "Artificial Intelligence",
       "overallScore": 22.116344946188654,
       "readabilityGrade": "Poor",
-      "wordCount": 30075,
-      "estimatedReadingTime": 151,
+      "wordCount": 48941,
+      "estimatedReadingTime": 245,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-the-nhs-a-practical-guide-to-strategy-82b9d881",
       "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
-      "title": "GenAI For The NHS A Practical Guide To Strategy 82b9d881",
+      "title": "GenAI for the NHS: A Practical Guide to Strategy, Implementation, and Ethical Governance",
       "category": "Artificial Intelligence",
       "overallScore": 22.08796357654519,
       "readabilityGrade": "Poor",
-      "wordCount": 33546,
-      "estimatedReadingTime": 168,
+      "wordCount": 52657,
+      "estimatedReadingTime": 264,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-for-startups-navigating-uncertainty-and-driving-innovation-5c03d220-6cf2-41",
       "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
-      "title": "Wardley Mapping For Startups Navigating Uncertainty And Driving Innovation 5c03d220-6cf2-41",
+      "title": "Wardley Mapping for Startups: Navigating Uncertainty and Driving Innovation",
       "category": "Strategic Mapping",
       "overallScore": 21.94360437756893,
       "readabilityGrade": "Poor",
-      "wordCount": 46233,
-      "estimatedReadingTime": 232,
+      "wordCount": 82633,
+      "estimatedReadingTime": 414,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "navigating-the-ai-frontier-wardley-mapping-for-genai-startups-dff595a3-603e-48",
       "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
-      "title": "Navigating The AI Frontier Wardley Mapping For GenAI Startups Dff595a3-603e-48",
+      "title": "Navigating the AI Frontier: Wardley Mapping for GenAI Startups",
       "category": "Strategic Mapping",
       "overallScore": 21.80747855539072,
       "readabilityGrade": "Poor",
-      "wordCount": 24107,
-      "estimatedReadingTime": 121,
+      "wordCount": 43797,
+      "estimatedReadingTime": 219,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "ecosystem-advantage-mapping-and-orchestrating-for-46fa9d88",
       "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
-      "title": "Ecosystem Advantage Mapping And Orchestrating For 46fa9d88",
+      "title": "Ecosystem Advantage: Mapping and Orchestrating for Strategic Dominance",
       "category": "Strategic Mapping",
       "overallScore": 21.50214893202618,
       "readabilityGrade": "Poor",
-      "wordCount": 38812,
-      "estimatedReadingTime": 195,
+      "wordCount": 63769,
+      "estimatedReadingTime": 319,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "deepseek-disruption-china-s-open-source-ai-and-th-3e7ecd8a",
       "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
-      "title": "DeepSeek Disruption China S Open-Source AI And Th 3e7ecd8a",
+      "title": "DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power",
       "category": "Artificial Intelligence",
       "overallScore": 21.485193303500342,
       "readabilityGrade": "Poor",
-      "wordCount": 20898,
-      "estimatedReadingTime": 105,
+      "wordCount": 33328,
+      "estimatedReadingTime": 167,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
       "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
-      "title": "Leasehold Liberation Your Guide To Tackling Excessive Service Charges And Bad Management Agents In England 829534c2-Fb38-47",
+      "title": "Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
       "category": "Other",
       "overallScore": 21.270577637393956,
       "readabilityGrade": "Poor",
-      "wordCount": 30252,
-      "estimatedReadingTime": 152,
+      "wordCount": 54807,
+      "estimatedReadingTime": 275,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -598,27 +616,27 @@
     {
       "bookId": "world-war-iii-geopolitics-technology-and-the-co-2ce84ecf",
       "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
-      "title": "World War III Geopolitics Technology And The Co 2ce84ecf",
+      "title": "World War III: Geopolitics, Technology, and the Coming Global Conflict",
       "category": "Technology",
       "overallScore": 21.156376308832524,
       "readabilityGrade": "Poor",
-      "wordCount": 41817,
-      "estimatedReadingTime": 210,
+      "wordCount": 67280,
+      "estimatedReadingTime": 337,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
       "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
-      "title": "Running To Stand Still Mastering The Red Queen Effect In Business And Life 21091fb0-8ea3-42",
+      "title": "Running to Stand Still: Mastering the Red Queen Effect in Business and Life",
       "category": "Business Strategy",
       "overallScore": 21.084844741655207,
       "readabilityGrade": "Poor",
-      "wordCount": 26995,
-      "estimatedReadingTime": 135,
+      "wordCount": 43367,
+      "estimatedReadingTime": 217,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -628,42 +646,42 @@
     {
       "bookId": "generative-ai-for-public-sector-transformation-a-4749e098",
       "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
-      "title": "Generative AI For Public Sector Transformation A 4749e098",
+      "title": "Generative AI for Public Sector Transformation: A Practical Guide for Advice Cloud",
       "category": "Artificial Intelligence",
       "overallScore": 21.076437194665765,
       "readabilityGrade": "Poor",
-      "wordCount": 26393,
-      "estimatedReadingTime": 132,
+      "wordCount": 41257,
+      "estimatedReadingTime": 207,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-official-statistics-a-strategic-guide-f-29969967",
       "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
-      "title": "GenAI For Official Statistics A Strategic Guide F 29969967",
+      "title": "GenAI for Official Statistics: A Strategic Guide for the Office for National Statistics",
       "category": "Artificial Intelligence",
       "overallScore": 20.951784161042372,
       "readabilityGrade": "Poor",
-      "wordCount": 32819,
-      "estimatedReadingTime": 165,
+      "wordCount": 52727,
+      "estimatedReadingTime": 264,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
       "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
-      "title": "Data-Driven Open Source AI The Imperative For Inclusive Definitions And Practices 190bb682-78fb-43",
+      "title": "Data-Inclusive Open Source AI: Building a Fair and Collaborative Future",
       "category": "Artificial Intelligence",
       "overallScore": 20.916323130305386,
       "readabilityGrade": "Poor",
-      "wordCount": 19679,
-      "estimatedReadingTime": 99,
+      "wordCount": 35974,
+      "estimatedReadingTime": 180,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -673,27 +691,27 @@
     {
       "bookId": "generative-ai-in-defence-applications-ethics-an-af931312",
       "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
-      "title": "Generative AI In Defence Applications Ethics An Af931312",
+      "title": "Generative AI in Defence: Applications, Ethics, and Strategic Foresight for DSTL",
       "category": "Artificial Intelligence",
       "overallScore": 20.896518015623236,
       "readabilityGrade": "Poor",
-      "wordCount": 32833,
-      "estimatedReadingTime": 165,
+      "wordCount": 52044,
+      "estimatedReadingTime": 261,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "revitalising-the-nhs-a-comprehensive-blueprint-for-sustainable-healthcare-2c167a18-f2ec-41",
       "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
-      "title": "Revitalising The NHS A Comprehensive Blueprint For Sustainable Healthcare 2c167a18-F2ec-41",
+      "title": "Revitalising the NHS: A Comprehensive Blueprint for Sustainable Healthcare",
       "category": "Artificial Intelligence",
       "overallScore": 20.601373267604448,
       "readabilityGrade": "Poor",
-      "wordCount": 28247,
-      "estimatedReadingTime": 142,
+      "wordCount": 50639,
+      "estimatedReadingTime": 254,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -703,132 +721,132 @@
     {
       "bookId": "world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f",
       "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
-      "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
+      "title": "World War III: An Expert's Guide to Geopolitics, Technology, and Survival",
       "category": "Other",
       "overallScore": 20.5210483835069,
       "readabilityGrade": "Poor",
-      "wordCount": 31254,
-      "estimatedReadingTime": 157,
+      "wordCount": 49394,
+      "estimatedReadingTime": 247,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "harnessing-genai-for-environmental-stewardship-a-c7f85312",
       "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
-      "title": "Harnessing GenAI For Environmental Stewardship A C7f85312",
+      "title": "Harnessing GenAI for Environmental Stewardship: A Practical Guide for the Environment Agency",
       "category": "Artificial Intelligence",
       "overallScore": 20.517221905796724,
       "readabilityGrade": "Poor",
-      "wordCount": 32309,
-      "estimatedReadingTime": 162,
+      "wordCount": 51080,
+      "estimatedReadingTime": 256,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-agi-race-openai-vs-anthropic-in-the-battle-for-artificial-general-intelligence-7db60baa-c7d1-4c",
       "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
-      "title": "The AGI Race OpenAI Vs Anthropic In The Battle For Artificial General Intelligence 7db60baa-C7d1-4c",
+      "title": "The AGI Race: OpenAI vs Anthropic in the Battle for Artificial General Intelligence",
       "category": "Artificial Intelligence",
       "overallScore": 20.49250640710799,
       "readabilityGrade": "Poor",
-      "wordCount": 32452,
-      "estimatedReadingTime": 163,
+      "wordCount": 58503,
+      "estimatedReadingTime": 293,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "generative-ai-for-official-statistics-a-strategic-5065c7dc",
       "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
-      "title": "Generative AI For Official Statistics A Strategic 5065c7dc",
+      "title": "Generative AI for Official Statistics: A Strategic Roadmap for the UN Statistics Division",
       "category": "Artificial Intelligence",
       "overallScore": 20.422802602922662,
       "readabilityGrade": "Poor",
-      "wordCount": 24332,
-      "estimatedReadingTime": 122,
+      "wordCount": 38244,
+      "estimatedReadingTime": 192,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "genai-for-public-good-a-practical-strategy-for-go-0806731f",
       "directory": "GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f",
-      "title": "GenAI For Public Good A Practical Strategy For GO 0806731f",
+      "title": "GenAI for Public Good: A Practical Strategy for GOSS Interactive",
       "category": "Artificial Intelligence",
       "overallScore": 20.339212307405283,
       "readabilityGrade": "Poor",
-      "wordCount": 26397,
-      "estimatedReadingTime": 132,
+      "wordCount": 41122,
+      "estimatedReadingTime": 206,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mapping-armageddon-a-wardley-map-approach-to-worl-c1f4c8c5",
       "directory": "Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5",
-      "title": "Mapping Armageddon A Wardley Map Approach To Worl C1f4c8c5",
+      "title": "Mapping Armageddon: A Wardley Map Approach to World War III",
       "category": "Strategic Mapping",
       "overallScore": 20.147077762852426,
       "readabilityGrade": "Poor",
-      "wordCount": 29803,
-      "estimatedReadingTime": 150,
+      "wordCount": 47501,
+      "estimatedReadingTime": 238,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mathematical-modelling-for-wardley-mapping-a-stra-ae168311",
       "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
-      "title": "Mathematical Modelling For Wardley Mapping A Stra Ae168311",
+      "title": "Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems",
       "category": "Strategic Mapping",
       "overallScore": 20.02728102786192,
       "readabilityGrade": "Poor",
-      "wordCount": 13182,
-      "estimatedReadingTime": 66,
+      "wordCount": 21591,
+      "estimatedReadingTime": 108,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "climbing-the-value-ladder-mastering-the-art-of-value-propositions-and-benefits-communication-465d7194-fd19-48",
       "directory": "Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48",
-      "title": "Climbing The Value Ladder Mastering The Art Of Value Propositions And Benefits Communication 465d7194-Fd19-48",
+      "title": "Climbing the Value Ladder: Mastering the Art of Value Propositions and Benefits Communication",
       "category": "Other",
       "overallScore": 19.939713108200444,
       "readabilityGrade": "Poor",
-      "wordCount": 24339,
-      "estimatedReadingTime": 122,
+      "wordCount": 43789,
+      "estimatedReadingTime": 219,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "are-the-genai-agents-taking-over-navigating-the-f-987fcdf5",
       "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
-      "title": "Are The GenAI Agents Taking Over Navigating The F 987fcdf5",
+      "title": "Are the GenAI Agents Taking Over? Navigating the Future of Work and Society",
       "category": "Artificial Intelligence",
       "overallScore": 19.9035821460463,
       "readabilityGrade": "Poor",
-      "wordCount": 2640,
-      "estimatedReadingTime": 14,
+      "wordCount": 10770,
+      "estimatedReadingTime": 54,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -838,12 +856,12 @@
     {
       "bookId": "ai-supremacy-the-battle-between-openai-anthropic-8cd4825c",
       "directory": "AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c",
-      "title": "AI Supremacy The Battle Between OpenAI Anthropic 8cd4825c",
+      "title": "AI Supremacy: The Battle Between OpenAI, Anthropic, and Google",
       "category": "Artificial Intelligence",
       "overallScore": 19.7878880783627,
       "readabilityGrade": "Poor",
-      "wordCount": 1450,
-      "estimatedReadingTime": 8,
+      "wordCount": 12755,
+      "estimatedReadingTime": 64,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -853,12 +871,12 @@
     {
       "bookId": "mapping-sustainable-futures-wardley-mapping-for-un-sustainable-development-goals-e7d8047e-89bc-49",
       "directory": "Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49",
-      "title": "Mapping Sustainable Futures Wardley Mapping For UN Sustainable Development Goals E7d8047e-89bc-49",
+      "title": "Mapping Sustainable Futures: Wardley Mapping for UN Sustainable Development Goals",
       "category": "Strategic Mapping",
       "overallScore": 19.633769629215248,
       "readabilityGrade": "Poor",
-      "wordCount": 20393,
-      "estimatedReadingTime": 102,
+      "wordCount": 41710,
+      "estimatedReadingTime": 209,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -868,12 +886,12 @@
     {
       "bookId": "building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f",
       "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
-      "title": "Building IP Futures The LEGO Wardley Mapping Manual For Intellectual Property Horizons 5ccc5f17-F453-4f",
+      "title": "Building IP Futures: The LEGO Wardley Mapping Manual for Intellectual Property Horizons",
       "category": "Strategic Mapping",
       "overallScore": 19.452588708460336,
       "readabilityGrade": "Poor",
-      "wordCount": 21530,
-      "estimatedReadingTime": 108,
+      "wordCount": 37573,
+      "estimatedReadingTime": 188,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -883,42 +901,42 @@
     {
       "bookId": "reversible-revolution-can-vaire-computing-cool-do-0a9bab82",
       "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
-      "title": "Reversible Revolution Can Vaire Computing Cool Do 0a9bab82",
+      "title": "Reversible Revolution: Can Vaire Computing Cool Down the AI Heatwave?",
       "category": "Artificial Intelligence",
       "overallScore": 19.44728254137715,
       "readabilityGrade": "Poor",
-      "wordCount": 23878,
-      "estimatedReadingTime": 120,
+      "wordCount": 37499,
+      "estimatedReadingTime": 188,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "co-pilot-pcs-in-the-enterprise-a-strategic-guide-5e79a385",
       "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
-      "title": "Co-Pilot PCs In The Enterprise A Strategic Guide 5e79a385",
+      "title": "Co-pilot PCs in the Enterprise: A Strategic Guide to Enhanced Productivity and Competitive Advantage",
       "category": "Other",
       "overallScore": 19.36562731163872,
       "readabilityGrade": "Poor",
-      "wordCount": 26191,
-      "estimatedReadingTime": 131,
+      "wordCount": 40908,
+      "estimatedReadingTime": 205,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mastering-ai-strategy-prompt-engineering-and-wardley-mapping-for-business-innovation-15a0ffe5-eefd-4f",
       "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
-      "title": "Mastering AI Strategy Prompt Engineering And Wardley Mapping For Business Innovation 15a0ffe5-Eefd-4f",
+      "title": "Mastering AI Strategy: Prompt Engineering and Wardley Mapping for Business Innovation",
       "category": "Strategic Mapping",
       "overallScore": 19.360844283411257,
       "readabilityGrade": "Poor",
-      "wordCount": 36386,
-      "estimatedReadingTime": 182,
+      "wordCount": 56753,
+      "estimatedReadingTime": 284,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -928,12 +946,12 @@
     {
       "bookId": "the-ai-success-trinity-mastering-dataops-mlops-and-finops-for-transformative-ai-implementation-fd9c6f12-26aa-42",
       "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
-      "title": "The AI Success Trinity Mastering DataOps MLOps And FinOps For Transformative AI Implementation Fd9c6f12-26aa-42",
+      "title": "The AI Success Trinity: Mastering DataOps, MLOps, and FinOps for Transformative AI Implementation",
       "category": "Artificial Intelligence",
       "overallScore": 19.207147752481184,
       "readabilityGrade": "Poor",
-      "wordCount": 25702,
-      "estimatedReadingTime": 129,
+      "wordCount": 44301,
+      "estimatedReadingTime": 222,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -943,57 +961,57 @@
     {
       "bookId": "reversible-revolution-can-reversible-computing-co-3c18fbe5",
       "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
-      "title": "Reversible Revolution Can Reversible Computing Co 3c18fbe5",
+      "title": "Reversible Revolution: Can Reversible Computing Cool Down Our Planet?",
       "category": "Other",
       "overallScore": 19.129390039573355,
       "readabilityGrade": "Poor",
-      "wordCount": 26684,
-      "estimatedReadingTime": 134,
+      "wordCount": 41887,
+      "estimatedReadingTime": 210,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "strategic-mastery-creating-math-models-for-wardle-78d38b18",
       "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
-      "title": "Strategic Mastery Creating Math Models For Wardle 78d38b18",
+      "title": "Strategic Mastery: Creating Math Models for Wardley Mapping Gameplays",
       "category": "Other",
       "overallScore": 19.120181961233108,
       "readabilityGrade": "Poor",
-      "wordCount": 8932,
-      "estimatedReadingTime": 45,
+      "wordCount": 14760,
+      "estimatedReadingTime": 74,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "navigating-complexity-wardley-mapping-climatic-pa-69102bf8",
       "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
-      "title": "Navigating Complexity Wardley Mapping Climatic Pa 69102bf8",
+      "title": "Navigating Complexity: Wardley Mapping Climatic Patterns as a Math Model",
       "category": "Strategic Mapping",
       "overallScore": 18.96566149494845,
       "readabilityGrade": "Poor",
-      "wordCount": 6849,
-      "estimatedReadingTime": 35,
+      "wordCount": 11591,
+      "estimatedReadingTime": 58,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "ensuring-healthy-lives-a-comprehensive-guide-to-s-3229dd35",
       "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
-      "title": "Ensuring Healthy Lives A Comprehensive Guide To S 3229dd35",
+      "title": "Ensuring Healthy Lives: A Comprehensive Guide to SDG 3",
       "category": "Other",
       "overallScore": 18.924687043572874,
       "readabilityGrade": "Poor",
-      "wordCount": 7319,
-      "estimatedReadingTime": 37,
+      "wordCount": 12113,
+      "estimatedReadingTime": 61,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1003,57 +1021,57 @@
     {
       "bookId": "conscious-earth-harnessing-the-planet-s-information-platform-revolution-0b9366d1-db69-4d",
       "directory": "Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d",
-      "title": "Conscious Earth Harnessing The Planet S Information Platform Revolution 0b9366d1-Db69-4d",
+      "title": "Conscious Earth: Harnessing the Planet's Information Platform Revolution",
       "category": "Other",
       "overallScore": 18.89459776349107,
       "readabilityGrade": "Poor",
-      "wordCount": 33966,
-      "estimatedReadingTime": 170,
+      "wordCount": 60765,
+      "estimatedReadingTime": 304,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "pricing-strategies-for-genai-applications-unlocki-e92115bb",
       "directory": "Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb",
-      "title": "Pricing Strategies For GenAI Applications Unlocki E92115bb",
+      "title": "Pricing Strategies for GenAI Applications: Unlocking Value in the AI Revolution",
       "category": "Artificial Intelligence",
       "overallScore": 18.871717532504725,
       "readabilityGrade": "Poor",
-      "wordCount": 7261,
-      "estimatedReadingTime": 37,
+      "wordCount": 12324,
+      "estimatedReadingTime": 62,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "functionalism-and-genai-bridging-philosophy-and-t-d45b6cea",
       "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
-      "title": "Functionalism And GenAI Bridging Philosophy And T D45b6cea",
+      "title": "Functionalism and GenAI: Bridging Philosophy and Technology",
       "category": "Artificial Intelligence",
       "overallScore": 18.640940672157523,
       "readabilityGrade": "Poor",
-      "wordCount": 7287,
-      "estimatedReadingTime": 37,
+      "wordCount": 12686,
+      "estimatedReadingTime": 64,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-mastery-uncovering-hidden-opportunities-in-business-strategy-058b2cd6-6fe2-4e",
       "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
-      "title": "Wardley Mapping Mastery Uncovering Hidden Opportunities In Business Strategy 058b2cd6-6fe2-4e",
+      "title": "Wardley Mapping Mastery: Uncovering Hidden Opportunities in Business Strategy",
       "category": "Strategic Mapping",
       "overallScore": 18.624549294791233,
       "readabilityGrade": "Poor",
-      "wordCount": 28080,
-      "estimatedReadingTime": 141,
+      "wordCount": 43648,
+      "estimatedReadingTime": 219,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1063,12 +1081,12 @@
     {
       "bookId": "using-open-source-as-a-competitive-weapon-6b2baecc",
       "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
-      "title": "Using Open Source As A Competitive Weapon 6b2baecc",
+      "title": "Using Open Source as a Competitive Weapon",
       "category": "Other",
       "overallScore": 18.61933773025123,
       "readabilityGrade": "Poor",
-      "wordCount": 4291,
-      "estimatedReadingTime": 22,
+      "wordCount": 7567,
+      "estimatedReadingTime": 38,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1078,42 +1096,42 @@
     {
       "bookId": "bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3",
       "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
-      "title": "Bridging The Divide Strategies For Reducing Inequ 17a0b4b3",
+      "title": "Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries",
       "category": "Other",
       "overallScore": 18.394367808753124,
       "readabilityGrade": "Poor",
-      "wordCount": 9544,
-      "estimatedReadingTime": 48,
+      "wordCount": 15800,
+      "estimatedReadingTime": 79,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-jevons-paradox-in-the-age-of-generative-ai-im-6e310b8c",
       "directory": "The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c",
-      "title": "The Jevons Paradox In The Age Of Generative AI Im 6e310b8c",
+      "title": "The Jevons Paradox in the Age of Generative AI: Implications for Productivity, Resource Consumption, and the Future of Work",
       "category": "Artificial Intelligence",
       "overallScore": 18.320980687015673,
       "readabilityGrade": "Poor",
-      "wordCount": 11039,
-      "estimatedReadingTime": 56,
+      "wordCount": 17913,
+      "estimatedReadingTime": 90,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
       "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
-      "title": "Transforming Government With OKRs A Guide To Implementing Objectives And Key Results In The Public Sector D3346850-0768-40",
+      "title": "Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector",
       "category": "Government",
       "overallScore": 18.148873974768243,
       "readabilityGrade": "Poor",
-      "wordCount": 35762,
-      "estimatedReadingTime": 179,
+      "wordCount": 54547,
+      "estimatedReadingTime": 273,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1123,27 +1141,27 @@
     {
       "bookId": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
       "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
-      "title": "Charting The AI Current A Strategic Blueprint For Eee71c96-Ce56-45",
+      "title": "Charting the AI Current: A Strategic Blueprint for LLM Adoption at the UK Hydrographic Office",
       "category": "Artificial Intelligence",
       "overallScore": 18.023242504310122,
       "readabilityGrade": "Poor",
-      "wordCount": 112088,
-      "estimatedReadingTime": 561,
+      "wordCount": 170764,
+      "estimatedReadingTime": 854,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "blue-planet-green-robots-scaling-climate-action-with-ai-and-robotics-cc89ef16-06ed-45",
       "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
-      "title": "Blue Planet Green Robots Scaling Climate Action With AI And Robotics Cc89ef16-06ed-45",
+      "title": "Blue Planet, Green Robots: Scaling Climate Action with AI and Robotics",
       "category": "Artificial Intelligence",
       "overallScore": 17.89055172891515,
       "readabilityGrade": "Poor",
-      "wordCount": 32679,
-      "estimatedReadingTime": 164,
+      "wordCount": 56216,
+      "estimatedReadingTime": 282,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1153,12 +1171,12 @@
     {
       "bookId": "harnessing-generative-ai-a-strategic-approach-for-19aa41de",
       "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
-      "title": "Harnessing Generative AI A Strategic Approach For 19aa41de",
+      "title": "Harnessing Generative AI: A Strategic Approach for the UK Home Office",
       "category": "Artificial Intelligence",
       "overallScore": 17.878187197113164,
       "readabilityGrade": "Poor",
-      "wordCount": 5153,
-      "estimatedReadingTime": 26,
+      "wordCount": 8955,
+      "estimatedReadingTime": 45,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1168,12 +1186,12 @@
     {
       "bookId": "mastering-wardley-mapping-for-project-success-a-strategic-guide-for-project-managers-35056a3c-4f4f-49",
       "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
-      "title": "Mastering Wardley Mapping For Project Success A Strategic Guide For Project Managers 35056a3c-4f4f-49",
+      "title": "Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers",
       "category": "Strategic Mapping",
       "overallScore": 17.746021170947564,
       "readabilityGrade": "Poor",
-      "wordCount": 7529,
-      "estimatedReadingTime": 38,
+      "wordCount": 16149,
+      "estimatedReadingTime": 81,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1183,12 +1201,12 @@
     {
       "bookId": "wardley-mapping-nato-s-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains-4d6eb348-b1cd-45",
       "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
-      "title": "Wardley Mapping NATO S Warfighting Concept A Strategic Analysis Of The Six Operational Domains 4d6eb348-B1cd-45",
+      "title": "Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains",
       "category": "Strategic Mapping",
       "overallScore": 17.368790748205868,
       "readabilityGrade": "Poor",
-      "wordCount": 23280,
-      "estimatedReadingTime": 117,
+      "wordCount": 42758,
+      "estimatedReadingTime": 214,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1198,57 +1216,57 @@
     {
       "bookId": "spimescript-beyond-ai-towards-the-malleable-future-c76174cb",
       "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
-      "title": "SpimeScript Beyond AI Towards The Malleable Future C76174cb",
+      "title": "SpimeScript: Beyond AI, Towards the Malleable Future",
       "category": "Artificial Intelligence",
       "overallScore": 17.22309687339731,
       "readabilityGrade": "Poor",
-      "wordCount": 58331,
-      "estimatedReadingTime": 292,
+      "wordCount": 87394,
+      "estimatedReadingTime": 437,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "mapping-green-software-leveraging-wardley-maps-for-sustainable-it-strategies-957a2731-88bf-4b",
       "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
-      "title": "Mapping Green Software Leveraging Wardley Maps For Sustainable IT Strategies 957a2731-88bf-4b",
+      "title": "Mapping Green Software: Leveraging Wardley Maps for Sustainable IT Strategies",
       "category": "Strategic Mapping",
       "overallScore": 17.173629392061184,
       "readabilityGrade": "Poor",
-      "wordCount": 34080,
-      "estimatedReadingTime": 171,
+      "wordCount": 60809,
+      "estimatedReadingTime": 305,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "empowering-the-future-achieving-affordable-and-cl-6bb54cc5",
       "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
-      "title": "Empowering The Future Achieving Affordable And Cl 6bb54cc5",
+      "title": "Empowering the Future: Achieving Affordable and Clean Energy for All",
       "category": "Other",
       "overallScore": 17.05374171673858,
       "readabilityGrade": "Poor",
-      "wordCount": 9875,
-      "estimatedReadingTime": 50,
+      "wordCount": 15991,
+      "estimatedReadingTime": 80,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45",
       "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
-      "title": "The Planet Information Platform Mapping Earth With Satellites AI And Big Data 3e65b5a1-5404-45",
+      "title": "The Planet Information Platform: Mapping Earth with Satellites, AI, and Big Data",
       "category": "Strategic Mapping",
       "overallScore": 16.990397828498395,
       "readabilityGrade": "Poor",
-      "wordCount": 24428,
-      "estimatedReadingTime": 123,
+      "wordCount": 74771,
+      "estimatedReadingTime": 374,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1258,72 +1276,72 @@
     {
       "bookId": "battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d",
       "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
-      "title": "Battlefield Economics The Hidden Forces Shaping Military Conflicts 6ad71fef-Fe6e-4d",
+      "title": "Battlefield Economics: The Hidden Forces Shaping Military Conflicts",
       "category": "Other",
       "overallScore": 16.734950104601115,
       "readabilityGrade": "Poor",
-      "wordCount": 26016,
-      "estimatedReadingTime": 131,
+      "wordCount": 46198,
+      "estimatedReadingTime": 231,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning-9509ccd5-7a28-40",
       "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
-      "title": "Privacy-Preserving AI Unlocking The Power Of Secure Machine Learning 9509ccd5-7a28-40",
+      "title": "Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning",
       "category": "Artificial Intelligence",
       "overallScore": 16.706015254756345,
       "readabilityGrade": "Poor",
-      "wordCount": 34325,
-      "estimatedReadingTime": 172,
+      "wordCount": 51564,
+      "estimatedReadingTime": 258,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "strategic-equations-a-mathematical-approach-to-mo-e276a698",
       "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
-      "title": "Strategic Equations A Mathematical Approach To Mo E276a698",
+      "title": "Strategic Equations: A Mathematical Approach to Modern Warfare",
       "category": "Other",
       "overallScore": 16.631652133909732,
       "readabilityGrade": "Poor",
-      "wordCount": 7084,
-      "estimatedReadingTime": 36,
+      "wordCount": 11846,
+      "estimatedReadingTime": 60,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "transforming-business-operations-apqc-process-cla-6740a4f7",
       "directory": "Transforming_Business_Operations__APQC_Process_Cla_6740a4f7",
-      "title": "Transforming Business Operations APQC Process Cla 6740a4f7",
+      "title": "Transforming Business Operations: APQC Process Classification in the Age of Generative AI",
       "category": "Business Strategy",
       "overallScore": 16.52605001356566,
       "readabilityGrade": "Poor",
-      "wordCount": 13537,
-      "estimatedReadingTime": 68,
+      "wordCount": 21213,
+      "estimatedReadingTime": 107,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "will-the-chinese-dragon-bite-openai-analyzing-the-63e530e5",
       "directory": "Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5",
-      "title": "Will The Chinese Dragon Bite OpenAI Analyzing The 63e530e5",
+      "title": "Will the Chinese Dragon Bite OpenAI? Analyzing the Geopolitical and Technological Rivalry in Artificial Intelligence",
       "category": "Artificial Intelligence",
       "overallScore": 16.521157960006395,
       "readabilityGrade": "Poor",
-      "wordCount": 6880,
-      "estimatedReadingTime": 35,
+      "wordCount": 11503,
+      "estimatedReadingTime": 58,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1333,12 +1351,12 @@
     {
       "bookId": "from-lotus-to-ai-modernising-legacy-systems-for-the-generative-ai-era-88200f01-7a30-42",
       "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
-      "title": "From Lotus To AI Modernising Legacy Systems For The Generative AI Era 88200f01-7a30-42",
+      "title": "From Lotus to AI: Modernising Legacy Systems for the Generative AI Era",
       "category": "Artificial Intelligence",
       "overallScore": 16.49006367876108,
       "readabilityGrade": "Poor",
-      "wordCount": 45943,
-      "estimatedReadingTime": 230,
+      "wordCount": 69576,
+      "estimatedReadingTime": 348,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1348,12 +1366,12 @@
     {
       "bookId": "blue-planet-green-robots-harnessing-ai-for-environmental-sustainability-cdaf677f-34ac-43",
       "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
-      "title": "Blue Planet Green Robots Harnessing AI For Environmental Sustainability Cdaf677f-34ac-43",
+      "title": "Blue Planet, Green Robots: Harnessing AI for Environmental Sustainability",
       "category": "Artificial Intelligence",
       "overallScore": 16.42147867172084,
       "readabilityGrade": "Poor",
-      "wordCount": 23037,
-      "estimatedReadingTime": 116,
+      "wordCount": 40756,
+      "estimatedReadingTime": 204,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1363,27 +1381,27 @@
     {
       "bookId": "jevons-and-genai-navigating-economic-theories-in-e75ac76f",
       "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
-      "title": "Jevons And GenAI Navigating Economic Theories In E75ac76f",
+      "title": "Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence",
       "category": "Artificial Intelligence",
       "overallScore": 16.375888299517282,
       "readabilityGrade": "Poor",
-      "wordCount": 7504,
-      "estimatedReadingTime": 38,
+      "wordCount": 12651,
+      "estimatedReadingTime": 64,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "strategic-mapping-a-leader-s-guide-to-navigating-business-evolution-with-wardley-maps-651fd7e3",
       "directory": "Strategic_Mapping__A_Leader_s_Guide_to_Navigating_Business_Evolution_with_Wardley_Maps_651fd7e3",
-      "title": "Strategic Mapping A Leader S Guide To Navigating Business Evolution With Wardley Maps 651fd7e3",
+      "title": "Strategic Mapping: A Leader's Guide to Navigating Business Evolution with Wardley Maps",
       "category": "Strategic Mapping",
       "overallScore": 16.221175495945204,
       "readabilityGrade": "Poor",
-      "wordCount": 12600,
-      "estimatedReadingTime": 63,
+      "wordCount": 19685,
+      "estimatedReadingTime": 99,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1393,12 +1411,12 @@
     {
       "bookId": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
       "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
-      "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
+      "title": "AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI",
       "category": "Artificial Intelligence",
       "overallScore": 16.142343708291367,
       "readabilityGrade": "Poor",
-      "wordCount": 25438,
-      "estimatedReadingTime": 128,
+      "wordCount": 39088,
+      "estimatedReadingTime": 196,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1408,27 +1426,27 @@
     {
       "bookId": "jevons-and-genai-bridging-economics-and-the-futur-1595067f",
       "directory": "Jevons_and_GenAI__Bridging_Economics_and_the_Futur_1595067f",
-      "title": "Jevons And GenAI Bridging Economics And The Futur 1595067f",
+      "title": "Jevons and GenAI: Bridging Economics and the Future of Technology",
       "category": "Artificial Intelligence",
       "overallScore": 16.008077449776476,
       "readabilityGrade": "Poor",
-      "wordCount": 7420,
-      "estimatedReadingTime": 38,
+      "wordCount": 12433,
+      "estimatedReadingTime": 63,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-modern-leaders-7526522c",
       "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
-      "title": "Strategic Thinking With Wardley Maps A Visual Guide To Business Evolution And Market Dynamics For Modern Leaders 7526522c",
+      "title": "Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders",
       "category": "Strategic Mapping",
       "overallScore": 15.77818956439055,
       "readabilityGrade": "Poor",
-      "wordCount": 13202,
-      "estimatedReadingTime": 67,
+      "wordCount": 20534,
+      "estimatedReadingTime": 103,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1438,12 +1456,12 @@
     {
       "bookId": "strategic-cartography-mastering-wardley-maps-for-business-transformation-30fd6713",
       "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Transformation_30fd6713",
-      "title": "Strategic Cartography Mastering Wardley Maps For Business Transformation 30fd6713",
+      "title": "Strategic Cartography: Mastering Wardley Maps for Business Transformation",
       "category": "Strategic Mapping",
       "overallScore": 15.47195622220803,
       "readabilityGrade": "Poor",
-      "wordCount": 16777,
-      "estimatedReadingTime": 84,
+      "wordCount": 25715,
+      "estimatedReadingTime": 129,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1453,12 +1471,12 @@
     {
       "bookId": "wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making-c91d313b",
       "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
-      "title": "Wardley Mapping For Digital Transformation A Practical Guide To Strategic Decision-Making C91d313b",
+      "title": "Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making",
       "category": "Strategic Mapping",
       "overallScore": 14.803304672774198,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12891,
-      "estimatedReadingTime": 65,
+      "wordCount": 19731,
+      "estimatedReadingTime": 99,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1468,12 +1486,12 @@
     {
       "bookId": "strategic-cartography-mastering-wardley-maps-for-business-advantage-30e647db",
       "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Advantage_30e647db",
-      "title": "Strategic Cartography Mastering Wardley Maps For Business Advantage 30e647db",
+      "title": "Strategic Cartography: Mastering Wardley Maps for Business Advantage",
       "category": "Strategic Mapping",
       "overallScore": 14.421755010391575,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13635,
-      "estimatedReadingTime": 69,
+      "wordCount": 21171,
+      "estimatedReadingTime": 106,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1483,12 +1501,12 @@
     {
       "bookId": "sustainable-futures-strategies-for-life-on-land-61799596",
       "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
-      "title": "Sustainable Futures Strategies For Life On Land 61799596",
+      "title": "Sustainable Futures: Strategies for Life on Land",
       "category": "Artificial Intelligence",
       "overallScore": 14.344946461421296,
       "readabilityGrade": "Very Poor",
-      "wordCount": 7923,
-      "estimatedReadingTime": 40,
+      "wordCount": 12914,
+      "estimatedReadingTime": 65,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1498,27 +1516,27 @@
     {
       "bookId": "ai-and-the-exchequer-should-we-tax-the-robots",
       "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
-      "title": "AI And The Exchequer Should We Tax The Robots",
+      "title": "AI and the Exchequer: Should We Tax the Robots?",
       "category": "Artificial Intelligence",
       "overallScore": 14.066055267139678,
       "readabilityGrade": "Very Poor",
-      "wordCount": 84032,
-      "estimatedReadingTime": 421,
+      "wordCount": 129025,
+      "estimatedReadingTime": 646,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "wardley-mapping-for-digital-transformation-a-strategic-decision-making-guide-a24890d6",
       "directory": "Wardley_Mapping_for_Digital_Transformation__A_Strategic_Decision-Making_Guide_a24890d6",
-      "title": "Wardley Mapping For Digital Transformation A Strategic Decision-Making Guide A24890d6",
+      "title": "Wardley Mapping for Digital Transformation: A Strategic Decision-Making Guide",
       "category": "Strategic Mapping",
       "overallScore": 14.046768607060448,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10862,
-      "estimatedReadingTime": 55,
+      "wordCount": 16966,
+      "estimatedReadingTime": 85,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1528,12 +1546,12 @@
     {
       "bookId": "strategic-wardley-mapping-navigating-market-dynamics-and-digital-disruption-fcd44e40",
       "directory": "Strategic_Wardley_Mapping__Navigating_Market_Dynamics_and_Digital_Disruption_fcd44e40",
-      "title": "Strategic Wardley Mapping Navigating Market Dynamics And Digital Disruption Fcd44e40",
+      "title": "Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption",
       "category": "Strategic Mapping",
       "overallScore": 13.91576237825135,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12720,
-      "estimatedReadingTime": 64,
+      "wordCount": 19728,
+      "estimatedReadingTime": 99,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1543,12 +1561,12 @@
     {
       "bookId": "maps-to-action-mastering-strategy-development-through-wardley-mapping-b13af0f0",
       "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
-      "title": "Maps To Action Mastering Strategy Development Through Wardley Mapping B13af0f0",
+      "title": "Maps to Action: Mastering Strategy Development Through Wardley Mapping",
       "category": "Strategic Mapping",
       "overallScore": 13.800113715834595,
       "readabilityGrade": "Very Poor",
-      "wordCount": 15235,
-      "estimatedReadingTime": 77,
+      "wordCount": 23365,
+      "estimatedReadingTime": 117,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1558,12 +1576,12 @@
     {
       "bookId": "mapping-evolution-mastering-strategy-in-a-red-queen-world-19ec116b",
       "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
-      "title": "Mapping Evolution Mastering Strategy In A Red Queen World 19ec116b",
+      "title": "Mapping Evolution: Mastering Strategy in a Red Queen World",
       "category": "Strategic Mapping",
       "overallScore": 13.544593786941412,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10653,
-      "estimatedReadingTime": 54,
+      "wordCount": 16758,
+      "estimatedReadingTime": 84,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1573,12 +1591,12 @@
     {
       "bookId": "strategic-evolution-mapping-transforming-business-strategy-with-wardley-maps-e782be31",
       "directory": "Strategic_Evolution_Mapping__Transforming_Business_Strategy_with_Wardley_Maps_e782be31",
-      "title": "Strategic Evolution Mapping Transforming Business Strategy With Wardley Maps E782be31",
+      "title": "Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps",
       "category": "Strategic Mapping",
       "overallScore": 12.770932973958486,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13733,
-      "estimatedReadingTime": 69,
+      "wordCount": 20969,
+      "estimatedReadingTime": 105,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1588,12 +1606,12 @@
     {
       "bookId": "strategic-evolution-through-wardley-mapping-a-visual-guide-to-market-position-innovation-and-digital-transformation-57e8b679",
       "directory": "Strategic_Evolution_Through_Wardley_Mapping__A_Visual_Guide_to_Market_Position__Innovation__and_Digital_Transformation_57e8b679",
-      "title": "Strategic Evolution Through Wardley Mapping A Visual Guide To Market Position Innovation And Digital Transformation 57e8b679",
+      "title": "Strategic Evolution Through Wardley Mapping: A Visual Guide to Market Position, Innovation, and Digital Transformation",
       "category": "Strategic Mapping",
       "overallScore": 12.725699122809896,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10523,
-      "estimatedReadingTime": 53,
+      "wordCount": 16289,
+      "estimatedReadingTime": 82,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1603,12 +1621,12 @@
     {
       "bookId": "wardley-mapping-for-data-science-revolutionising-strategy-in-technology-labs-b1cccb77-e255-4f",
       "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
-      "title": "Wardley Mapping For Data Science Revolutionising Strategy In Technology Labs B1cccb77-E255-4f",
+      "title": "Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs",
       "category": "Strategic Mapping",
       "overallScore": 12.685743554959867,
       "readabilityGrade": "Very Poor",
-      "wordCount": 33073,
-      "estimatedReadingTime": 166,
+      "wordCount": 50990,
+      "estimatedReadingTime": 255,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1618,12 +1636,12 @@
     {
       "bookId": "harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48",
       "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
-      "title": "Harnessing The Power Of GenAI A Strategic Guide For Government Leaders To Build Effective AI Teams And Drive Innovation C405fe94-279d-48",
+      "title": "Harnessing the Power of GenAI: A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
       "category": "Artificial Intelligence",
       "overallScore": 12.656616547444504,
       "readabilityGrade": "Very Poor",
-      "wordCount": 18362,
-      "estimatedReadingTime": 92,
+      "wordCount": 29262,
+      "estimatedReadingTime": 147,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1633,12 +1651,12 @@
     {
       "bookId": "cost-effective-migration-transitioning-applicatio-366f9974",
       "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
-      "title": "Cost-Effective Migration Transitioning Applicatio 366f9974",
+      "title": "Cost-Effective Migration: Transitioning Applications from Windows 10 On-Premise to Windows 11 with Intune",
       "category": "Other",
       "overallScore": 12.321153488781738,
       "readabilityGrade": "Very Poor",
-      "wordCount": 63100,
-      "estimatedReadingTime": 316,
+      "wordCount": 90446,
+      "estimatedReadingTime": 453,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1648,27 +1666,27 @@
     {
       "bookId": "mastering-wardley-mapping-an-expert-s-guide-to-st",
       "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
-      "title": "Mastering Wardley Mapping An Expert S Guide To St",
+      "title": "Mastering Wardley Mapping: An Expert's Guide to Strategy, Evolution, and Competitive Survival",
       "category": "Strategic Mapping",
       "overallScore": 11.89273440669507,
       "readabilityGrade": "Very Poor",
-      "wordCount": 65076,
-      "estimatedReadingTime": 326,
+      "wordCount": 93811,
+      "estimatedReadingTime": 470,
       "topIssues": [
-        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Shorten long sentences"
       ]
     },
     {
       "bookId": "generative-ai-engineering-from-data-to-deployment-6410d8f6",
       "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
-      "title": "Generative AI Engineering From Data To Deployment 6410d8f6",
+      "title": "Generative AI Engineering: From Data to Deployment - A Comprehensive Guide to Building Production-Ready AI Systems",
       "category": "Artificial Intelligence",
       "overallScore": 11.875611634041604,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13115,
-      "estimatedReadingTime": 66,
+      "wordCount": 19233,
+      "estimatedReadingTime": 97,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1678,12 +1696,12 @@
     {
       "bookId": "innovating-medtech-education-wardley-mapping-for-strategic-teaching-and-research-in-higher-education-b4c7411f-04aa-4e",
       "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
-      "title": "Innovating MedTech Education Wardley Mapping For Strategic Teaching And Research In Higher Education B4c7411f-04aa-4e",
+      "title": "Innovating MedTech Education: Wardley Mapping for Strategic Teaching and Research in Higher Education",
       "category": "Strategic Mapping",
       "overallScore": 11.047287085372057,
       "readabilityGrade": "Very Poor",
-      "wordCount": 5595,
-      "estimatedReadingTime": 28,
+      "wordCount": 36795,
+      "estimatedReadingTime": 184,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1693,12 +1711,12 @@
     {
       "bookId": "securing-llms-essential-questions-for-your-penetration-testing-strategy-be9e7c94-d513-43",
       "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
-      "title": "Securing LLMs Essential Questions For Your Penetration Testing Strategy Be9e7c94-D513-43",
+      "title": "Securing LLMs: Essential Questions for Your Penetration Testing Strategy",
       "category": "Artificial Intelligence",
       "overallScore": 11.006859085687552,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10785,
-      "estimatedReadingTime": 54,
+      "wordCount": 17704,
+      "estimatedReadingTime": 89,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1708,12 +1726,12 @@
     {
       "bookId": "wardley-doctrine-in-practice-a-strategic-framework-for-modern-business-68f75511-c4e8-4f12-adc9-b726073be4ed",
       "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
-      "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
+      "title": "Wardley Doctrine in Practice: A Strategic Framework for Modern Business",
       "category": "Strategic Mapping",
       "overallScore": 10.60519425400414,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10284,
-      "estimatedReadingTime": 52,
+      "wordCount": 16569,
+      "estimatedReadingTime": 83,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1723,12 +1741,12 @@
     {
       "bookId": "revolutionising-medtech-education-wardley-mapping-for-teaching-and-research-in-higher-education-425f0e30-380b-45",
       "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
-      "title": "Revolutionising MedTech Education Wardley Mapping For Teaching And Research In Higher Education 425f0e30-380b-45",
+      "title": "Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education",
       "category": "Strategic Mapping",
       "overallScore": 9.584106953954915,
       "readabilityGrade": "Very Poor",
-      "wordCount": 32746,
-      "estimatedReadingTime": 164,
+      "wordCount": 50791,
+      "estimatedReadingTime": 254,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1738,12 +1756,12 @@
     {
       "bookId": "first-mover-intelligence-mastering-early-recognition-and-strategic-adaptation-in-a-dynamic-world-0b7ec179",
       "directory": "First-Mover_Intelligence__Mastering_Early_Recognition_and_Strategic_Adaptation_in_a_Dynamic_World_0b7ec179",
-      "title": "First-Mover Intelligence Mastering Early Recognition And Strategic Adaptation In A Dynamic World 0b7ec179",
+      "title": "First-Mover Intelligence: Mastering Early Recognition and Strategic Adaptation in a Dynamic World",
       "category": "Other",
       "overallScore": 9.30685405793049,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9371,
-      "estimatedReadingTime": 47,
+      "wordCount": 14319,
+      "estimatedReadingTime": 72,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1753,12 +1771,12 @@
     {
       "bookId": "mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a",
       "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
-      "title": "Mapping The ILC Lifecycle A Beginner S Guide To Wardley Mapping 199fb93c-E40a",
+      "title": "Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping",
       "category": "Strategic Mapping",
       "overallScore": 8.541500073244686,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9935,
-      "estimatedReadingTime": 50,
+      "wordCount": 15157,
+      "estimatedReadingTime": 76,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1768,12 +1786,12 @@
     {
       "bookId": "mapping-the-red-queen-a-guide-to-wardley-mapping-bd4a3955-91c5",
       "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
-      "title": "Mapping The Red Queen A Guide To Wardley Mapping Bd4a3955-91c5",
+      "title": "Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition",
       "category": "Strategic Mapping",
       "overallScore": 8.187052096307388,
       "readabilityGrade": "Very Poor",
-      "wordCount": 15062,
-      "estimatedReadingTime": 76,
+      "wordCount": 22470,
+      "estimatedReadingTime": 113,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1783,12 +1801,12 @@
     {
       "bookId": "digital-titans-the-epic-battle-between-apple-mic-c2b141ff",
       "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
-      "title": "Digital Titans The Epic Battle Between Apple Mic C2b141ff",
+      "title": "Digital Titans: The Epic Battle Between Apple, Microsoft, and Google for Tech Supremacy",
       "category": "Technology",
       "overallScore": 7.921340287155715,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9956,
-      "estimatedReadingTime": 50,
+      "wordCount": 15309,
+      "estimatedReadingTime": 77,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1798,12 +1816,12 @@
     {
       "bookId": "digital-battlefield-storage-a-wardley-mapping-approach-to-military-data-strategy-482015f5",
       "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
-      "title": "Digital Battlefield Storage A Wardley Mapping Approach To Military Data Strategy 482015f5",
+      "title": "Digital Battlefield Storage: A Wardley Mapping Approach to Military Data Strategy",
       "category": "Strategic Mapping",
       "overallScore": 7.828877310117104,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11027,
-      "estimatedReadingTime": 56,
+      "wordCount": 16711,
+      "estimatedReadingTime": 84,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1813,12 +1831,12 @@
     {
       "bookId": "digital-darwinism-how-genai-challenges-the-surviv-7d84aea4",
       "directory": "Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4",
-      "title": "Digital Darwinism How GenAI Challenges The Surviv 7d84aea4",
+      "title": "Digital Darwinism: How GenAI Challenges the Survival of Time-Tested Knowledge",
       "category": "Artificial Intelligence",
       "overallScore": 7.432916869520454,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10039,
-      "estimatedReadingTime": 51,
+      "wordCount": 15706,
+      "estimatedReadingTime": 79,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1828,12 +1846,12 @@
     {
       "bookId": "the-ai-titans-openai-anthropic-and-google-s-race-to-define-the-future-of-artificial-intelligence-2946058b",
       "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
-      "title": "The AI Titans OpenAI Anthropic And Google S Race To Define The Future Of Artificial Intelligence 2946058b",
+      "title": "The AI Titans: OpenAI, Anthropic, and Google's Race to Define the Future of Artificial Intelligence",
       "category": "Artificial Intelligence",
       "overallScore": 7.4052602991855,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10627,
-      "estimatedReadingTime": 54,
+      "wordCount": 16472,
+      "estimatedReadingTime": 83,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1843,12 +1861,12 @@
     {
       "bookId": "the-bullshit-asymmetry-why-lies-spread-fast-and-t-d95c927f",
       "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
-      "title": "The Bullshit Asymmetry Why Lies Spread Fast And T D95c927f",
+      "title": "The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last",
       "category": "Other",
       "overallScore": 7.059377912541652,
       "readabilityGrade": "Very Poor",
-      "wordCount": 8355,
-      "estimatedReadingTime": 42,
+      "wordCount": 12916,
+      "estimatedReadingTime": 65,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1858,12 +1876,12 @@
     {
       "bookId": "the-creative-revolution-how-generative-ai-is-transforming-human-potential-78de33e7",
       "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
-      "title": "The Creative Revolution How Generative AI Is Transforming Human Potential 78de33e7",
+      "title": "The Creative Revolution: How Generative AI is Transforming Human Potential",
       "category": "Artificial Intelligence",
       "overallScore": 6.938692830129105,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13056,
-      "estimatedReadingTime": 66,
+      "wordCount": 19989,
+      "estimatedReadingTime": 100,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1873,12 +1891,12 @@
     {
       "bookId": "strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b",
       "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
-      "title": "Strategic Synthesis Integrating Jobs-To-Be-Done With Wardley Mapping For Digital Innovation F1b1fc61-765d-4b",
+      "title": "Strategic Synthesis: Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation",
       "category": "Strategic Mapping",
       "overallScore": 6.878911350900659,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9726,
-      "estimatedReadingTime": 49,
+      "wordCount": 16576,
+      "estimatedReadingTime": 83,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1888,12 +1906,12 @@
     {
       "bookId": "the-genai-paradox-understanding-and-navigating-the-future-of-artificial-general-intelligence-4ab175e2",
       "directory": "The_GenAI_Paradox__Understanding_and_Navigating_the_Future_of_Artificial_General_Intelligence_4ab175e2",
-      "title": "The GenAI Paradox Understanding And Navigating The Future Of Artificial General Intelligence 4ab175e2",
+      "title": "The GenAI Paradox: Understanding and Navigating the Future of Artificial General Intelligence",
       "category": "Artificial Intelligence",
       "overallScore": 6.422702201998583,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9540,
-      "estimatedReadingTime": 48,
+      "wordCount": 14829,
+      "estimatedReadingTime": 75,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1903,12 +1921,12 @@
     {
       "bookId": "the-ai-agent-revolution-navigating-the-future-of-05666c37",
       "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
-      "title": "The AI Agent Revolution Navigating The Future Of 05666c37",
+      "title": "The AI Agent Revolution: Navigating the Future of Human-Machine Partnership",
       "category": "Artificial Intelligence",
       "overallScore": 6.3545722397516435,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12898,
-      "estimatedReadingTime": 65,
+      "wordCount": 19605,
+      "estimatedReadingTime": 99,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1918,12 +1936,12 @@
     {
       "bookId": "open-source-as-a-competitive-weapon-strategy-communication-0d597dd3-b074",
       "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
-      "title": "Open Source As A Competitive Weapon Strategy Communication 0d597dd3-B074",
+      "title": "Open Source as a Competitive Weapon: Strategy, Community and Business Insight",
       "category": "Business Strategy",
       "overallScore": 6.123538631964891,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9959,
-      "estimatedReadingTime": 50,
+      "wordCount": 27609,
+      "estimatedReadingTime": 139,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1933,12 +1951,12 @@
     {
       "bookId": "the-ai-efficiency-paradox-how-generative-ai-s-suc-a2c47878",
       "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
-      "title": "The AI Efficiency Paradox How Generative AI S Suc A2c47878",
+      "title": "The AI Efficiency Paradox: How Generative AI's Success Could Drive Unsustainable Resource Consumption",
       "category": "Artificial Intelligence",
       "overallScore": 5.976843054684843,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12249,
-      "estimatedReadingTime": 62,
+      "wordCount": 18436,
+      "estimatedReadingTime": 93,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1948,12 +1966,12 @@
     {
       "bookId": "strategic-home-office-evolution-a-wardley-mapping-guide-for-remote-first-success-6e528aa0",
       "directory": "Strategic_Home_Office_Evolution__A_Wardley_Mapping_Guide_for_Remote-First_Success_6e528aa0",
-      "title": "Strategic Home Office Evolution A Wardley Mapping Guide For Remote-First Success 6e528aa0",
+      "title": "Strategic Home Office Evolution: A Wardley Mapping Guide for Remote-First Success",
       "category": "Strategic Mapping",
       "overallScore": 5.968882117081011,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10578,
-      "estimatedReadingTime": 53,
+      "wordCount": 16356,
+      "estimatedReadingTime": 82,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1963,12 +1981,12 @@
     {
       "bookId": "mapping-sustainable-development-a-strategic-approach-to-sdgs-using-wardley-mapping-1ec7fcf3",
       "directory": "Mapping_Sustainable_Development__A_Strategic_Approach_to_SDGs_using_Wardley_Mapping_1ec7fcf3",
-      "title": "Mapping Sustainable Development A Strategic Approach To SDGs Using Wardley Mapping 1ec7fcf3",
+      "title": "Mapping Sustainable Development: A Strategic Approach to SDGs using Wardley Mapping",
       "category": "Strategic Mapping",
       "overallScore": 5.865501394608497,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10186,
-      "estimatedReadingTime": 51,
+      "wordCount": 15829,
+      "estimatedReadingTime": 80,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1978,12 +1996,12 @@
     {
       "bookId": "strategic-cartography-mastering-wardley-maps-in-the-digital-age-6f12abc5",
       "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
-      "title": "Strategic Cartography Mastering Wardley Maps In The Digital Age 6f12abc5",
+      "title": "Strategic Cartography: Mastering Wardley Maps in the Digital Age",
       "category": "Strategic Mapping",
       "overallScore": 5.7360929594618595,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12726,
-      "estimatedReadingTime": 64,
+      "wordCount": 19256,
+      "estimatedReadingTime": 97,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1993,12 +2011,12 @@
     {
       "bookId": "modern-military-logistics-mastering-battlefield-storage-and-supply-chain-resilience-in-the-digital-age-d02b97ae",
       "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
-      "title": "Modern Military Logistics Mastering Battlefield Storage And Supply Chain Resilience In The Digital Age D02b97ae",
+      "title": "Modern Military Logistics: Mastering Battlefield Storage and Supply Chain Resilience in the Digital Age",
       "category": "Artificial Intelligence",
       "overallScore": 5.673117148341122,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11511,
-      "estimatedReadingTime": 58,
+      "wordCount": 16625,
+      "estimatedReadingTime": 84,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2008,12 +2026,12 @@
     {
       "bookId": "running-faster-to-stay-in-place-mastering-the-red-5c412daa",
       "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
-      "title": "Running Faster To Stay In Place Mastering The Red 5c412daa",
+      "title": "Running Faster to Stay in Place: Mastering the Red Queen Effect in the Age of Generative AI",
       "category": "Other",
       "overallScore": 5.578180244509371,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9181,
-      "estimatedReadingTime": 46,
+      "wordCount": 14852,
+      "estimatedReadingTime": 75,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2023,12 +2041,12 @@
     {
       "bookId": "the-ai-superpower-showdown-inside-the-us-china-ra-78bf7278",
       "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
-      "title": "The AI Superpower Showdown Inside The US-China Ra 78bf7278",
+      "title": "The AI Superpower Showdown: Inside the US-China Race for Technological Supremacy",
       "category": "Artificial Intelligence",
       "overallScore": 5.446127561210801,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12156,
-      "estimatedReadingTime": 61,
+      "wordCount": 18405,
+      "estimatedReadingTime": 93,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2038,12 +2056,12 @@
     {
       "bookId": "symbolic-instructions-understanding-ai-training-d-5f31a286",
       "directory": "Symbolic_Instructions__Understanding_AI_Training_D_5f31a286",
-      "title": "Symbolic Instructions Understanding AI Training D 5f31a286",
+      "title": "Symbolic Instructions: Understanding AI Training Data as Human-Machine Knowledge Transfer",
       "category": "Artificial Intelligence",
       "overallScore": 5.303408760730804,
       "readabilityGrade": "Very Poor",
-      "wordCount": 8904,
-      "estimatedReadingTime": 45,
+      "wordCount": 13860,
+      "estimatedReadingTime": 70,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2053,12 +2071,12 @@
     {
       "bookId": "the-ai-revolution-s-triple-threat-understanding-and-navigating-the-three-critical-changes-reshaping-our-world-abce334f",
       "directory": "The_AI_Revolution_s_Triple_Threat__Understanding_and_Navigating_the_Three_Critical_Changes_Reshaping_Our_World_abce334f",
-      "title": "The AI Revolution S Triple Threat Understanding And Navigating The Three Critical Changes Reshaping Our World Abce334f",
+      "title": "The AI Revolution's Triple Threat: Understanding and Navigating the Three Critical Changes Reshaping Our World",
       "category": "Artificial Intelligence",
       "overallScore": 5.1975306451674435,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11670,
-      "estimatedReadingTime": 59,
+      "wordCount": 17946,
+      "estimatedReadingTime": 90,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2072,8 +2090,8 @@
       "category": "Data Science",
       "overallScore": 5.12472648708549,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11957,
-      "estimatedReadingTime": 60,
+      "wordCount": 17824,
+      "estimatedReadingTime": 90,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2083,12 +2101,12 @@
     {
       "bookId": "running-to-stand-still-mastering-the-red-queen-ef-17142133",
       "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
-      "title": "Running To Stand Still Mastering The Red Queen Ef 17142133",
+      "title": "Running to Stand Still: Mastering the Red Queen Effect in the AI Revolution",
       "category": "Other",
       "overallScore": 5.035109337901655,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9822,
-      "estimatedReadingTime": 50,
+      "wordCount": 15229,
+      "estimatedReadingTime": 77,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2098,12 +2116,12 @@
     {
       "bookId": "platform-mastery-strategic-design-and-mapping-for-digital-success-65a53175",
       "directory": "Platform_Mastery__Strategic_Design_and_Mapping_for_Digital_Success_65a53175",
-      "title": "Platform Mastery Strategic Design And Mapping For Digital Success 65a53175",
+      "title": "Platform Mastery: Strategic Design and Mapping for Digital Success",
       "category": "Strategic Mapping",
       "overallScore": 5.022371347063108,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12299,
-      "estimatedReadingTime": 62,
+      "wordCount": 18266,
+      "estimatedReadingTime": 92,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2113,12 +2131,12 @@
     {
       "bookId": "transforming-government-through-ai-a-strategic-ac-815b907d",
       "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
-      "title": "Transforming Government Through AI A Strategic Ac 815b907d",
+      "title": "Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector",
       "category": "Artificial Intelligence",
       "overallScore": 5.011482429414604,
       "readabilityGrade": "Very Poor",
-      "wordCount": 3951,
-      "estimatedReadingTime": 20,
+      "wordCount": 21249,
+      "estimatedReadingTime": 107,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2128,12 +2146,12 @@
     {
       "bookId": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
       "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
-      "title": "Oceans Of Change Advancing SDG 14 Through Science Innovation And Community Action 8eea52bb-8996-4ffa-9956-F609622bd264",
+      "title": "Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action",
       "category": "Data Science",
       "overallScore": 4.714692695354574,
       "readabilityGrade": "Very Poor",
-      "wordCount": 4453,
-      "estimatedReadingTime": 23,
+      "wordCount": 19245,
+      "estimatedReadingTime": 97,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2143,12 +2161,12 @@
     {
       "bookId": "ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42",
       "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
-      "title": "AI ESG A Critical Analysis Of Technology S Role In Sustainable Business 59a6c5b3-7141-42",
+      "title": "AI & ESG: A Critical Analysis of Technology's Role in Sustainable Business",
       "category": "Artificial Intelligence",
       "overallScore": 4.5848312707209855,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11954,
-      "estimatedReadingTime": 60,
+      "wordCount": 19598,
+      "estimatedReadingTime": 98,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2158,12 +2176,12 @@
     {
       "bookId": "platform-design-mastery-building-and-scaling-gena-399fb4a2",
       "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
-      "title": "Platform Design Mastery Building And Scaling GenA 399fb4a2",
+      "title": "Platform Design Mastery: Building and Scaling GenAI Ecosystems",
       "category": "Other",
       "overallScore": 4.412007791236373,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11768,
-      "estimatedReadingTime": 59,
+      "wordCount": 17393,
+      "estimatedReadingTime": 87,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2173,12 +2191,12 @@
     {
       "bookId": "the-genai-revolution-transforming-work-and-learning-in-the-digital-age-f9fdd2ef",
       "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
-      "title": "The GenAI Revolution Transforming Work And Learning In The Digital Age F9fdd2ef",
+      "title": "The GenAI Revolution: Transforming Work and Learning in the Digital Age",
       "category": "Artificial Intelligence",
       "overallScore": 4.390923745143914,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10325,
-      "estimatedReadingTime": 52,
+      "wordCount": 15729,
+      "estimatedReadingTime": 79,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2188,12 +2206,12 @@
     {
       "bookId": "genai-2025-a-strategic-guide-to-next-year-s-artificial-intelligence-landscape-5f7d25ba",
       "directory": "GenAI_2025__A_Strategic_Guide_to_Next_Year_s_Artificial_Intelligence_Landscape_5f7d25ba",
-      "title": "GenAI 2025 A Strategic Guide To Next Year S Artificial Intelligence Landscape 5f7d25ba",
+      "title": "GenAI 2025: A Strategic Guide to Next Year's Artificial Intelligence Landscape",
       "category": "Artificial Intelligence",
       "overallScore": 4.387167160649085,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11132,
-      "estimatedReadingTime": 56,
+      "wordCount": 16701,
+      "estimatedReadingTime": 84,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2203,12 +2221,12 @@
     {
       "bookId": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
       "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
-      "title": "Meta S Closed-Source LLMs In Healthcare A Critical Analysis Of Risks And Benefits Fa3ea671-64e3-4b",
+      "title": "Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits",
       "category": "Artificial Intelligence",
       "overallScore": 4.334633962018586,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13039,
-      "estimatedReadingTime": 66,
+      "wordCount": 20924,
+      "estimatedReadingTime": 105,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2218,12 +2236,12 @@
     {
       "bookId": "strategic-transformation-wardley-mapping-for-uk-home-office-reform-42e77d0d",
       "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
-      "title": "Strategic Transformation Wardley Mapping For UK Home Office Reform 42e77d0d",
+      "title": "Strategic Transformation: Wardley Mapping for UK Home Office Reform",
       "category": "Strategic Mapping",
       "overallScore": 4.0315278700192145,
       "readabilityGrade": "Very Poor",
-      "wordCount": 14526,
-      "estimatedReadingTime": 73,
+      "wordCount": 21931,
+      "estimatedReadingTime": 110,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2233,12 +2251,12 @@
     {
       "bookId": "the-ai-climate-paradox-navigating-the-battle-betw-51e07659",
       "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
-      "title": "The AI-Climate Paradox Navigating The Battle Betw 51e07659",
+      "title": "The AI-Climate Paradox: Navigating the Battle Between Artificial Intelligence and Environmental Sustainability",
       "category": "Artificial Intelligence",
       "overallScore": 3.681120878467402,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9027,
-      "estimatedReadingTime": 46,
+      "wordCount": 13663,
+      "estimatedReadingTime": 69,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2248,12 +2266,12 @@
     {
       "bookId": "digital-excellence-the-strategic-case-for-a-uk-lo-0ab4cf1c",
       "directory": "Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c",
-      "title": "Digital Excellence The Strategic Case For A UK Lo 0ab4cf1c",
+      "title": "Digital Excellence: The Strategic Case for a UK Local Government Centre for Digital Technology",
       "category": "Technology",
       "overallScore": 3.558849782624293,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10038,
-      "estimatedReadingTime": 51,
+      "wordCount": 15116,
+      "estimatedReadingTime": 76,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2263,12 +2281,12 @@
     {
       "bookId": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
       "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
-      "title": "A Pattern Language For O1 Models Architecting Robust AI Interactions 8281c31c",
+      "title": "A Pattern Language for O1 Models: Architecting Robust AI Interactions",
       "category": "Artificial Intelligence",
       "overallScore": 3.3991692225647174,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11818,
-      "estimatedReadingTime": 60,
+      "wordCount": 17627,
+      "estimatedReadingTime": 89,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2278,12 +2296,12 @@
     {
       "bookId": "technical-debt-mathematics-in-infrastructure-a-qu-b886df5d",
       "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
-      "title": "Technical Debt Mathematics In Infrastructure A Qu B886df5d",
+      "title": "Technical Debt Mathematics in Infrastructure: A Quantitative Model for Asset Management",
       "category": "Technology",
       "overallScore": 3.1568444121089207,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12324,
-      "estimatedReadingTime": 62,
+      "wordCount": 18371,
+      "estimatedReadingTime": 92,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2293,12 +2311,12 @@
     {
       "bookId": "technical-debt-assessment-framework-a-comprehensi-802d9f78",
       "directory": "Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78",
-      "title": "Technical Debt Assessment Framework A Comprehensi 802d9f78",
+      "title": "Technical Debt Assessment Framework: A Comprehensive Guide to Measurement, Management, and Strategic Implementation",
       "category": "Technology",
       "overallScore": 2.8535412023049833,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13395,
-      "estimatedReadingTime": 67,
+      "wordCount": 19557,
+      "estimatedReadingTime": 98,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2308,12 +2326,12 @@
     {
       "bookId": "open-source-ai-as-a-competitive-advantage-strateg-9a0ae605",
       "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
-      "title": "Open Source AI As A Competitive Advantage Strateg 9a0ae605",
+      "title": "Open Source AI as a Competitive Advantage: Strategic Implementation for Business Success",
       "category": "Artificial Intelligence",
       "overallScore": 2.845487153404667,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11549,
-      "estimatedReadingTime": 58,
+      "wordCount": 16983,
+      "estimatedReadingTime": 85,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2323,12 +2341,12 @@
     {
       "bookId": "open-source-advantage-transforming-business-compe-3bca9762",
       "directory": "Open_Source_Advantage__Transforming_Business_Compe_3bca9762",
-      "title": "Open Source Advantage Transforming Business Compe 3bca9762",
+      "title": "Open Source Advantage: Transforming Business Competition Through Strategic Open Source",
       "category": "Business Strategy",
       "overallScore": 2.7107532980634232,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11406,
-      "estimatedReadingTime": 58,
+      "wordCount": 16803,
+      "estimatedReadingTime": 85,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2338,12 +2356,12 @@
     {
       "bookId": "silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc",
       "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
-      "title": "Silent Warfare Russia S Strategic Targeting Of Gl 64e36abc",
+      "title": "Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks",
       "category": "Other",
       "overallScore": 2.4845115889955878,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11883,
-      "estimatedReadingTime": 60,
+      "wordCount": 17485,
+      "estimatedReadingTime": 88,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2353,12 +2371,12 @@
     {
       "bookId": "can-the-un-save-the-planet-challenges-transforma-e05551a1",
       "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
-      "title": "Can The UN Save The Planet Challenges Transforma E05551a1",
+      "title": "Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance",
       "category": "Other",
       "overallScore": 2.471775936432289,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12125,
-      "estimatedReadingTime": 61,
+      "wordCount": 18337,
+      "estimatedReadingTime": 92,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2368,12 +2386,12 @@
     {
       "bookId": "british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success-f8b42d91-7e23-4a",
       "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
-      "title": "British Airways 2030 Transforming Loyalty In The Digital Age A Strategic Framework For Future Success F8b42d91-7e23-4a",
+      "title": "British Airways 2030: Transforming Loyalty in the Digital Age - A Strategic Framework for Future Success",
       "category": "Artificial Intelligence",
       "overallScore": 2.1776093807579624,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9154,
-      "estimatedReadingTime": 46,
+      "wordCount": 13604,
+      "estimatedReadingTime": 69,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2383,12 +2401,12 @@
     {
       "bookId": "british-airways-2030-transforming-loyalty-in-the-514a98bb",
       "directory": "British_Airways_2030__Transforming_Loyalty_in_the__514a98bb",
-      "title": "British Airways 2030 Transforming Loyalty In The 514a98bb",
+      "title": "British Airways 2030: Transforming Loyalty in the Digital Age - A Strategic Framework for Future Success",
       "category": "Artificial Intelligence",
       "overallScore": 2.1776093807579624,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9154,
-      "estimatedReadingTime": 46,
+      "wordCount": 13604,
+      "estimatedReadingTime": 69,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2398,12 +2416,12 @@
     {
       "bookId": "mathematical-models-for-infrastructure-technical-d-957371a8",
       "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
-      "title": "Mathematical Models For Infrastructure Technical D 957371a8",
+      "title": "Mathematical Models for Infrastructure Technical Debt: An AI-Integrated Approach",
       "category": "Technology",
       "overallScore": 2.1696906197881276,
       "readabilityGrade": "Very Poor",
-      "wordCount": 13460,
-      "estimatedReadingTime": 68,
+      "wordCount": 19702,
+      "estimatedReadingTime": 99,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2413,12 +2431,12 @@
     {
       "bookId": "windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation-b74b18f6-96e9-45",
       "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
-      "title": "Windows 11 Migration Mastery A Strategic Guide To Enterprise Transformation B74b18f6-96e9-45",
+      "title": "Windows 11 Migration Mastery: A Strategic Guide to Enterprise Transformation",
       "category": "Other",
       "overallScore": 2.1016766813619014,
       "readabilityGrade": "Very Poor",
-      "wordCount": 14885,
-      "estimatedReadingTime": 75,
+      "wordCount": 23641,
+      "estimatedReadingTime": 119,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2428,12 +2446,12 @@
     {
       "bookId": "oceans-of-change-advancing-sdg-14-through-innovation-policy-and-action-6ede38b7",
       "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
-      "title": "Oceans Of Change Advancing SDG 14 Through Innovation Policy And Action 6ede38b7",
+      "title": "Oceans of Change: Advancing SDG 14 Through Innovation, Policy, and Action",
       "category": "Other",
       "overallScore": 2.0946925813982595,
       "readabilityGrade": "Very Poor",
-      "wordCount": 15195,
-      "estimatedReadingTime": 76,
+      "wordCount": 21675,
+      "estimatedReadingTime": 109,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2443,12 +2461,12 @@
     {
       "bookId": "mastering-modern-bid-and-tender-consultancy-a-digital-era-guide-to-strategic-supply-market-management-cc0fb778",
       "directory": "Mastering_Modern_Bid_and_Tender_Consultancy__A_Digital-Era_Guide_to_Strategic_Supply_Market_Management_cc0fb778",
-      "title": "Mastering Modern Bid And Tender Consultancy A Digital-Era Guide To Strategic Supply Market Management Cc0fb778",
+      "title": "Mastering Modern Bid and Tender Consultancy: A Digital-Era Guide to Strategic Supply Market Management",
       "category": "Technology",
       "overallScore": 1.8825922689545678,
       "readabilityGrade": "Very Poor",
-      "wordCount": 2566,
-      "estimatedReadingTime": 13,
+      "wordCount": 15747,
+      "estimatedReadingTime": 79,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2458,12 +2476,12 @@
     {
       "bookId": "mathematical-models-for-wardley-mapping-gameplay-f929d065",
       "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
-      "title": "Mathematical Models For Wardley Mapping Gameplay F929d065",
+      "title": "Mathematical Models for Wardley Mapping Gameplay: A Quantitative Approach to Strategic Decision Making",
       "category": "Strategic Mapping",
       "overallScore": 1.877607092265679,
       "readabilityGrade": "Very Poor",
-      "wordCount": 7554,
-      "estimatedReadingTime": 38,
+      "wordCount": 11931,
+      "estimatedReadingTime": 60,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2473,12 +2491,12 @@
     {
       "bookId": "windows-11-security-assurance-a-zero-trust-implementation-guide-763497ee",
       "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
-      "title": "Windows 11 Security Assurance A Zero Trust Implementation Guide 763497ee",
+      "title": "Windows 11 Security Assurance: A Zero Trust Implementation Guide",
       "category": "Security",
       "overallScore": 1.8418761412981777,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11419,
-      "estimatedReadingTime": 58,
+      "wordCount": 16791,
+      "estimatedReadingTime": 84,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2488,12 +2506,12 @@
     {
       "bookId": "secure-by-design-implementing-uk-government-security-standards-in-modern-systems-fd3d8065",
       "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
-      "title": "Secure By Design Implementing UK Government Security Standards In Modern Systems Fd3d8065",
+      "title": "Secure by Design: Implementing UK Government Security Standards in Modern Systems",
       "category": "Government",
       "overallScore": 1.8191566598710658,
       "readabilityGrade": "Very Poor",
-      "wordCount": 16625,
-      "estimatedReadingTime": 84,
+      "wordCount": 24498,
+      "estimatedReadingTime": 123,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2503,12 +2521,12 @@
     {
       "bookId": "leading-digital-transformation-in-government-a-practitioner-s-guide-to-complex-project-delivery-2485b672",
       "directory": "Leading_Digital_Transformation_in_Government__A_Practitioner_s_Guide_to_Complex_Project_Delivery_2485b672",
-      "title": "Leading Digital Transformation In Government A Practitioner S Guide To Complex Project Delivery 2485b672",
+      "title": "Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery",
       "category": "Government",
       "overallScore": 1.4386642778390293,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9078,
-      "estimatedReadingTime": 46,
+      "wordCount": 13605,
+      "estimatedReadingTime": 69,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2518,12 +2536,12 @@
     {
       "bookId": "ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a",
       "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
-      "title": "AI For Global Goals Leveraging Generative AI To Advance UN Sustainable Development 43b32ef8-Ec94-4a",
+      "title": "AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development",
       "category": "Artificial Intelligence",
       "overallScore": 1.4366967065213654,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11027,
-      "estimatedReadingTime": 56,
+      "wordCount": 17655,
+      "estimatedReadingTime": 89,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2533,12 +2551,12 @@
     {
       "bookId": "supply-chain-innovation-in-oligopolistic-markets-cf77dcfe",
       "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
-      "title": "Supply Chain Innovation In Oligopolistic Markets Cf77dcfe",
+      "title": "Supply Chain Innovation in Oligopolistic Markets: Building Competitive Advantage Through Network Dynamics",
       "category": "Artificial Intelligence",
       "overallScore": 1.2347082417752624,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9542,
-      "estimatedReadingTime": 48,
+      "wordCount": 14220,
+      "estimatedReadingTime": 72,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2548,12 +2566,12 @@
     {
       "bookId": "mathematical-models-for-wardley-mapping-a-quantit-7db3030c",
       "directory": "Mathematical_Models_for_Wardley_Mapping__A_Quantit_7db3030c",
-      "title": "Mathematical Models For Wardley Mapping A Quantit 7db3030c",
+      "title": "Mathematical Models for Wardley Mapping: A Quantitative Framework for Strategic Evolution",
       "category": "Strategic Mapping",
       "overallScore": 1.1730141822409212,
       "readabilityGrade": "Very Poor",
-      "wordCount": 6193,
-      "estimatedReadingTime": 31,
+      "wordCount": 9917,
+      "estimatedReadingTime": 50,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2563,12 +2581,12 @@
     {
       "bookId": "digital-transformation-in-government-a-leader-s-guide-to-navigating-complex-change-243b3182",
       "directory": "Digital_Transformation_in_Government__A_Leader_s_Guide_to_Navigating_Complex_Change_243b3182",
-      "title": "Digital Transformation In Government A Leader S Guide To Navigating Complex Change 243b3182",
+      "title": "Digital Transformation in Government: A Leader's Guide to Navigating Complex Change",
       "category": "Government",
       "overallScore": 1.1252276527488103,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12103,
-      "estimatedReadingTime": 61,
+      "wordCount": 17913,
+      "estimatedReadingTime": 90,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2578,12 +2596,12 @@
     {
       "bookId": "breaking-the-poverty-cycle-a-systems-based-framework-for-sustainable-development-goal-1-40432648",
       "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
-      "title": "Breaking The Poverty Cycle A Systems-Based Framework For Sustainable Development Goal 1 40432648",
+      "title": "Breaking the Poverty Cycle: A Systems-Based Framework for Sustainable Development Goal 1",
       "category": "Artificial Intelligence",
       "overallScore": 1.0750829532276835,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9897,
-      "estimatedReadingTime": 50,
+      "wordCount": 14726,
+      "estimatedReadingTime": 74,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2593,12 +2611,12 @@
     {
       "bookId": "building-tomorrow-a-blueprint-for-sustainable-industry-innovation-and-infrastructure-5978b4e4",
       "directory": "Building_Tomorrow__A_Blueprint_for_Sustainable_Industry__Innovation__and_Infrastructure_5978b4e4",
-      "title": "Building Tomorrow A Blueprint For Sustainable Industry Innovation And Infrastructure 5978b4e4",
+      "title": "Building Tomorrow: A Blueprint for Sustainable Industry, Innovation, and Infrastructure",
       "category": "Artificial Intelligence",
       "overallScore": 1.0457789424482584,
       "readabilityGrade": "Very Poor",
-      "wordCount": 11874,
-      "estimatedReadingTime": 60,
+      "wordCount": 17370,
+      "estimatedReadingTime": 87,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2608,12 +2626,12 @@
     {
       "bookId": "the-modern-ciso-s-guide-to-identity-and-access-man-17559242",
       "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
-      "title": "The Modern CISO S Guide To Identity And Access Man 17559242",
+      "title": "The Modern CISO's Guide to Identity and Access Management: Architecting Security for the Digital Enterprise",
       "category": "Other",
       "overallScore": 0.8620271904662093,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9584,
-      "estimatedReadingTime": 48,
+      "wordCount": 14293,
+      "estimatedReadingTime": 72,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2623,12 +2641,12 @@
     {
       "bookId": "technical-debt-intelligence-ai-powered-infrastruc-5b615b6c",
       "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
-      "title": "Technical Debt Intelligence AI-Powered Infrastruc 5b615b6c",
+      "title": "Technical Debt Intelligence: AI-Powered Infrastructure Assessment Using Large Language Models",
       "category": "Artificial Intelligence",
       "overallScore": 0.8458864976371832,
       "readabilityGrade": "Very Poor",
-      "wordCount": 17894,
-      "estimatedReadingTime": 90,
+      "wordCount": 25699,
+      "estimatedReadingTime": 129,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2638,12 +2656,12 @@
     {
       "bookId": "mathematical-models-of-strategic-evolution-innova-9a665255",
       "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
-      "title": "Mathematical Models Of Strategic Evolution Innova 9a665255",
+      "title": "Mathematical Models of Strategic Evolution: Innovate, Leverage, Commoditise",
       "category": "Other",
       "overallScore": 0.5722643140250838,
       "readabilityGrade": "Very Poor",
-      "wordCount": 6199,
-      "estimatedReadingTime": 31,
+      "wordCount": 9518,
+      "estimatedReadingTime": 48,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2653,12 +2671,12 @@
     {
       "bookId": "infrastructure-technical-debt-a-data-driven-appro-05cf694f",
       "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
-      "title": "Infrastructure Technical Debt A Data-Driven Appro 05cf694f",
+      "title": "Infrastructure Technical Debt: A Data-Driven Approach to Measurement and Management",
       "category": "Data Science",
       "overallScore": 0.5298434269684655,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10071,
-      "estimatedReadingTime": 51,
+      "wordCount": 14730,
+      "estimatedReadingTime": 74,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2668,12 +2686,12 @@
     {
       "bookId": "digital-bridges-empowering-offline-communities-th-391100c7",
       "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
-      "title": "Digital Bridges Empowering Offline Communities Th 391100c7",
+      "title": "Digital Bridges: Empowering Offline Communities Through AI-Generated Educational Materials",
       "category": "Technology",
       "overallScore": 0.07773445259893919,
       "readabilityGrade": "Very Poor",
-      "wordCount": 9043,
-      "estimatedReadingTime": 46,
+      "wordCount": 13684,
+      "estimatedReadingTime": 69,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2683,12 +2701,12 @@
     {
       "bookId": "digital-transformation-leadership-in-government-a-strategic-framework-for-complex-organizations-3f9f5ed6",
       "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
-      "title": "Digital Transformation Leadership In Government A Strategic Framework For Complex Organizations 3f9f5ed6",
+      "title": "Digital Transformation Leadership in Government: A Strategic Framework for Complex Organizations",
       "category": "Government",
       "overallScore": -0.31569056362536685,
       "readabilityGrade": "Very Poor",
-      "wordCount": 12190,
-      "estimatedReadingTime": 61,
+      "wordCount": 17821,
+      "estimatedReadingTime": 90,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2698,12 +2716,12 @@
     {
       "bookId": "securing-the-digital-depths-economic-and-military-f1239f21",
       "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
-      "title": "Securing The Digital Depths Economic And Military F1239f21",
+      "title": "Securing the Digital Depths: Economic and Military Strategies Against Russian Submarine Cable Operations",
       "category": "Technology",
       "overallScore": -0.7189051307507501,
       "readabilityGrade": "Very Poor",
-      "wordCount": 7997,
-      "estimatedReadingTime": 40,
+      "wordCount": 11953,
+      "estimatedReadingTime": 60,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2713,12 +2731,12 @@
     {
       "bookId": "strategic-ai-advantage-a-comprehensive-framework-cde800e0-3f4d-47",
       "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
-      "title": "Strategic AI Advantage A Comprehensive Framework Cde800e0-3f4d-47",
+      "title": "Strategic AI Advantage: A Comprehensive Framework for Generative AI Implementation in Defence Science and Technology",
       "category": "Artificial Intelligence",
       "overallScore": -1.2096247434468523,
       "readabilityGrade": "Very Poor",
-      "wordCount": 139440,
-      "estimatedReadingTime": 698,
+      "wordCount": 191461,
+      "estimatedReadingTime": 958,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2728,12 +2746,12 @@
     {
       "bookId": "digital-transformation-leadership-in-government-a-strategic-guide-to-modernizing-complex-organizations-bff2aa4f",
       "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Guide_to_Modernizing_Complex_Organizations_bff2aa4f",
-      "title": "Digital Transformation Leadership In Government A Strategic Guide To Modernizing Complex Organizations Bff2aa4f",
+      "title": "Digital Transformation Leadership in Government: A Strategic Guide to Modernizing Complex Organizations",
       "category": "Government",
       "overallScore": -1.6813353114306437,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10050,
-      "estimatedReadingTime": 51,
+      "wordCount": 14857,
+      "estimatedReadingTime": 75,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -2743,12 +2761,12 @@
     {
       "bookId": "the-three-phases-of-wardley-doctrine-in-aircraft-manufacturing-a-strategic-framework-for-industry-evolution-ad4b49a7",
       "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
-      "title": "The Three Phases Of Wardley Doctrine In Aircraft Manufacturing A Strategic Framework For Industry Evolution Ad4b49a7",
+      "title": "The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution",
       "category": "Strategic Mapping",
       "overallScore": -2.162153182497832,
       "readabilityGrade": "Very Poor",
-      "wordCount": 8273,
-      "estimatedReadingTime": 42,
+      "wordCount": 12795,
+      "estimatedReadingTime": 64,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",

@@ -3,24 +3,24 @@
   "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
   "title": "Windows 11 Migration Mastery A Strategic Guide To Enterprise Transformation B74b18f6-96e9-45",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:30.725Z",
+  "generatedAt": "2025-07-14T17:49:56.123Z",
   "summary": {
-    "overallScore": -8.296549090680152,
+    "overallScore": 2.1016766813619014,
     "readabilityGrade": "Very Poor",
     "wordCount": 14885,
     "estimatedReadingTime": 75
   },
   "readabilityMetrics": {
-    "fleschScore": -50.74137272670038,
+    "fleschScore": -24.745808296595243,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.395345390814295,
-    "fogIndex": 30.188674962216023,
-    "smogIndex": 22.266044752484508,
-    "ariIndex": 27.661839000049163,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.3625170998632,
-    "avgSyllablesPerWord": 2.8003359086328516,
-    "complexWordRatio": 0.5510917030567686
+    "fleschKincaidGrade": 24.74518372779882,
+    "fogIndex": 28.65470693607659,
+    "smogIndex": 23.494554384435958,
+    "ariIndex": 27.010817577290858,
+    "cliIndex": 23.57148513176261,
+    "avgSentenceLength": 32.3406292749658,
+    "avgSyllablesPerWord": 2.349350704284929,
+    "complexWordRatio": 0.39296138065225666
   },
   "sentenceAnalysis": {
     "totalSentences": 731,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 13,
+    "subheaders": 54,
     "bulletPoints": 886,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -50.7",
+      "issue": "Very low Flesch Reading Ease score: -24.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.296549090680152,
-      "libraryAverage": 38.35,
+      "bookScore": 2.1016766813619014,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -50.74137272670038,
-      "libraryAverage": 20.87,
+      "bookScore": -24.745808296595243,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.3625170998632,
-      "libraryAverage": 10.23,
+      "bookScore": 32.3406292749658,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32146456163923415,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

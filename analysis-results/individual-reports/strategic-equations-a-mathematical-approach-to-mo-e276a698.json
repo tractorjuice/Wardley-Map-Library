@@ -3,24 +3,24 @@
   "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
   "title": "Strategic Equations A Mathematical Approach To Mo E276a698",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:25.499Z",
+  "generatedAt": "2025-07-14T17:49:50.880Z",
   "summary": {
-    "overallScore": 1.9664000980482328,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.631652133909732,
+    "readabilityGrade": "Poor",
     "wordCount": 7084,
     "estimatedReadingTime": 36
   },
   "readabilityMetrics": {
-    "fleschScore": -40.083999754879414,
+    "fleschScore": -3.4208696652256663,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 22.260826362717165,
-    "fogIndex": 26.54172696194941,
-    "smogIndex": 18.484390490463266,
-    "ariIndex": 23.297847578777812,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.728682170542635,
-    "avgSyllablesPerWord": 2.7539525691699605,
-    "complexWordRatio": 0.5262563523433089
+    "fleschKincaidGrade": 19.439718539080996,
+    "fogIndex": 23.16572473356394,
+    "smogIndex": 19.312609244088204,
+    "ariIndex": 20.006842731069398,
+    "cliIndex": 20.310650008441666,
+    "avgSentenceLength": 22.95736434108527,
+    "avgSyllablesPerWord": 2.209859868309978,
+    "complexWordRatio": 0.3495694749282458
   },
   "sentenceAnalysis": {
     "totalSentences": 516,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 41,
     "bulletPoints": 231,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -40.1",
+      "issue": "Very low Flesch Reading Ease score: -3.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 1.9664000980482328,
-      "libraryAverage": 38.35,
+      "bookScore": 16.631652133909732,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -40.083999754879414,
-      "libraryAverage": 20.87,
+      "bookScore": -3.4208696652256663,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.728682170542635,
-      "libraryAverage": 10.23,
+      "bookScore": 22.95736434108527,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2854319593450028,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

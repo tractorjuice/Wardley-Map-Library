@@ -3,24 +3,24 @@
   "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
   "title": "Game Changer How Generative AI Is Revolutionising The Future Of Gaming 682bb3ec-A92c-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:18.289Z",
+  "generatedAt": "2025-07-14T17:49:43.650Z",
   "summary": {
-    "overallScore": 11.091566833670232,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 22.214702828138968,
+    "readabilityGrade": "Poor",
     "wordCount": 38165,
     "estimatedReadingTime": 191
   },
   "readabilityMetrics": {
-    "fleschScore": -17.271082915824422,
+    "fleschScore": 10.53675707034742,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.173378672671664,
-    "fogIndex": 23.27338841246044,
-    "smogIndex": 17.37491192624968,
-    "ariIndex": 20.8105055928715,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.1090573012939,
-    "avgSyllablesPerWord": 2.4797327394209354,
-    "complexWordRatio": 0.440744137298572
+    "fleschKincaidGrade": 17.89171073649437,
+    "fogIndex": 21.778949286081158,
+    "smogIndex": 18.60682703368909,
+    "ariIndex": 19.17995131968115,
+    "cliIndex": 18.36058517202974,
+    "avgSentenceLength": 24.562661737523104,
+    "avgSyllablesPerWord": 2.0256163270220644,
+    "complexWordRatio": 0.2988471147767978
   },
   "sentenceAnalysis": {
     "totalSentences": 2705,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 25,
+    "subheaders": 91,
     "bulletPoints": 803,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.3",
+      "issue": "Very low Flesch Reading Ease score: 10.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 11.091566833670232,
-      "libraryAverage": 38.35,
+      "bookScore": 22.214702828138968,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -17.271082915824422,
-      "libraryAverage": 20.87,
+      "bookScore": 10.53675707034742,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.1090573012939,
-      "libraryAverage": 10.23,
+      "bookScore": 24.562661737523104,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.21556399842787893,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

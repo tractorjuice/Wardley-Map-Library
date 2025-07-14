@@ -3,24 +3,24 @@
   "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
   "title": "SpimeScript Beyond AI Towards The Malleable Future C76174cb",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:24.517Z",
+  "generatedAt": "2025-07-14T17:49:49.852Z",
   "summary": {
-    "overallScore": 4.351907848196639,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.22309687339731,
+    "readabilityGrade": "Poor",
     "wordCount": 58331,
     "estimatedReadingTime": 292
   },
   "readabilityMetrics": {
-    "fleschScore": -34.1202303795084,
+    "fleschScore": -1.942257816506725,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.831846327041053,
-    "fogIndex": 26.95648077532124,
-    "smogIndex": 19.275488934078304,
-    "ariIndex": 23.89687044850215,
-    "cliIndex": 0,
-    "avgSentenceLength": 15.350263157894737,
-    "avgSyllablesPerWord": 2.664003703005263,
-    "complexWordRatio": 0.5204093878040836
+    "fleschKincaidGrade": 19.243681530708482,
+    "fogIndex": 23.715239075788656,
+    "smogIndex": 19.632958648095475,
+    "ariIndex": 20.709864003671214,
+    "cliIndex": 21.164981119985352,
+    "avgSentenceLength": 22.998421052631578,
+    "avgSyllablesPerWord": 2.191889603405268,
+    "complexWordRatio": 0.36289676636840057
   },
   "sentenceAnalysis": {
     "totalSentences": 3800,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 134,
     "bulletPoints": 1007,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -34.1",
+      "issue": "Very low Flesch Reading Ease score: -1.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 4.351907848196639,
-      "libraryAverage": 38.35,
+      "bookScore": 17.22309687339731,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -34.1202303795084,
-      "libraryAverage": 20.87,
+      "bookScore": -1.942257816506725,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 15.350263157894737,
-      "libraryAverage": 10.23,
+      "bookScore": 22.998421052631578,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24732989319572782,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

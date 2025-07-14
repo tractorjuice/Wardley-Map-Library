@@ -3,24 +3,24 @@
   "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
   "title": "Strategic Synthesis Integrating Jobs-To-Be-Done With Wardley Mapping For Digital Innovation F1b1fc61-765d-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:25.766Z",
+  "generatedAt": "2025-07-14T17:49:51.130Z",
   "summary": {
-    "overallScore": -2.5830005976999253,
+    "overallScore": 6.878911350900659,
     "readabilityGrade": "Very Poor",
     "wordCount": 9726,
     "estimatedReadingTime": 49
   },
   "readabilityMetrics": {
-    "fleschScore": -36.45750149424981,
+    "fleschScore": -12.80272162274835,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.045212215482426,
-    "fogIndex": 28.107633676350687,
-    "smogIndex": 20.935972344261494,
-    "ariIndex": 25.554186347957376,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.92217898832685,
-    "avgSyllablesPerWord": 2.648776475426691,
-    "complexWordRatio": 0.5134690520254986
+    "fleschKincaidGrade": 23.056606626429105,
+    "fogIndex": 27.12258386791461,
+    "smogIndex": 22.474086992783757,
+    "ariIndex": 25.68799576153419,
+    "cliIndex": 21.974642857142857,
+    "avgSentenceLength": 32.249027237354085,
+    "avgSyllablesPerWord": 2.209278474903475,
+    "complexWordRatio": 0.35557432432432434
   },
   "sentenceAnalysis": {
     "totalSentences": 514,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 12,
+    "subheaders": 40,
     "bulletPoints": 509,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -36.5",
+      "issue": "Very low Flesch Reading Ease score: -12.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -2.5830005976999253,
-      "libraryAverage": 38.35,
+      "bookScore": 6.878911350900659,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -36.45750149424981,
-      "libraryAverage": 20.87,
+      "bookScore": -12.80272162274835,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.92217898832685,
-      "libraryAverage": 10.23,
+      "bookScore": 32.249027237354085,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3280896565905819,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

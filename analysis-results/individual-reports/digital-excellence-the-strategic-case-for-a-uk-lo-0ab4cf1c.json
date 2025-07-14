@@ -3,24 +3,24 @@
   "directory": "Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c",
   "title": "Digital Excellence The Strategic Case For A UK Lo 0ab4cf1c",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:17.413Z",
+  "generatedAt": "2025-07-14T17:49:42.779Z",
   "summary": {
-    "overallScore": -6.776016762202893,
+    "overallScore": 3.558849782624293,
     "readabilityGrade": "Very Poor",
     "wordCount": 10038,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": -46.94004190550723,
+    "fleschScore": -21.102875543439268,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.786660861388594,
-    "fogIndex": 31.358205151360085,
-    "smogIndex": 23.787403671297398,
-    "ariIndex": 28.95038246031985,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.071942446043167,
-    "avgSyllablesPerWord": 2.7108985853755727,
-    "complexWordRatio": 0.5432357043235704
+    "fleschKincaidGrade": 25.208115618116782,
+    "fogIndex": 29.95358395474676,
+    "smogIndex": 24.50790036475319,
+    "ariIndex": 27.91325078227971,
+    "cliIndex": 22.356911881450113,
+    "avgSentenceLength": 36.249400479616305,
+    "avgSyllablesPerWord": 2.2593940195819,
+    "complexWordRatio": 0.38634559407250596
   },
   "sentenceAnalysis": {
     "totalSentences": 417,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 52,
     "bulletPoints": 577,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -46.9",
+      "issue": "Very low Flesch Reading Ease score: -21.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.776016762202893,
-      "libraryAverage": 38.35,
+      "bookScore": 3.558849782624293,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -46.94004190550723,
-      "libraryAverage": 20.87,
+      "bookScore": -21.102875543439268,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.071942446043167,
-      "libraryAverage": 10.23,
+      "bookScore": 36.249400479616305,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2917911934648336,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

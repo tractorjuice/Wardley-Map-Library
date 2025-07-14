@@ -3,24 +3,24 @@
   "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
   "title": "Wardley Mapping A Practical Guide To Strategy In 2abb5f9d-549d-4e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:29.258Z",
+  "generatedAt": "2025-07-14T17:49:54.837Z",
   "summary": {
-    "overallScore": 8.341990049852768,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 24.470378787665926,
+    "readabilityGrade": "Poor",
     "wordCount": 30744,
     "estimatedReadingTime": 154
   },
   "readabilityMetrics": {
-    "fleschScore": -24.14502487536808,
+    "fleschScore": 16.175946969164812,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.651890734085125,
-    "fogIndex": 24.619230726819758,
-    "smogIndex": 17.135799940378604,
-    "ariIndex": 20.987916888878587,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.175841584158416,
-    "avgSyllablesPerWord": 2.5841790268019778,
-    "complexWordRatio": 0.4937223523289097
+    "fleschKincaidGrade": 16.089532575211177,
+    "fogIndex": 20.420816260774206,
+    "smogIndex": 17.423064796651794,
+    "ariIndex": 16.65770607783437,
+    "cliIndex": 17.523046152655805,
+    "avgSentenceLength": 20.474455445544553,
+    "avgSyllablesPerWord": 2.008008046732949,
+    "complexWordRatio": 0.3057758520639096
   },
   "sentenceAnalysis": {
     "totalSentences": 2525,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 91,
     "bulletPoints": 524,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -24.1",
+      "issue": "Very low Flesch Reading Ease score: 16.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.341990049852768,
-      "libraryAverage": 38.35,
+      "bookScore": 24.470378787665926,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -24.14502487536808,
-      "libraryAverage": 20.87,
+      "bookScore": 16.175946969164812,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.175841584158416,
-      "libraryAverage": 10.23,
+      "bookScore": 20.474455445544553,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24928441321883946,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
   "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:30.894Z",
+  "generatedAt": "2025-07-14T17:49:56.357Z",
   "summary": {
-    "overallScore": 5.347582974796488,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.5210483835069,
+    "readabilityGrade": "Poor",
     "wordCount": 31254,
     "estimatedReadingTime": 157
   },
   "readabilityMetrics": {
-    "fleschScore": -31.631042563008776,
+    "fleschScore": 6.30262095876725,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.907721884129057,
-    "fogIndex": 25.85108941186833,
-    "smogIndex": 17.940857897894634,
-    "ariIndex": 22.679270352536186,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.027928303459776,
-    "avgSyllablesPerWord": 2.6624432072694697,
-    "complexWordRatio": 0.5159979522621104
+    "fleschKincaidGrade": 17.495221631821696,
+    "fogIndex": 21.81474210575147,
+    "smogIndex": 18.232351156007788,
+    "ariIndex": 18.372626320289108,
+    "cliIndex": 19.60028100579017,
+    "avgSentenceLength": 20.589412255106293,
+    "avgSyllablesPerWord": 2.1233348179940883,
+    "complexWordRatio": 0.3394744300927238
   },
   "sentenceAnalysis": {
     "totalSentences": 2399,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 83,
     "bulletPoints": 767,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -31.6",
+      "issue": "Very low Flesch Reading Ease score: 6.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.347582974796488,
-      "libraryAverage": 38.35,
+      "bookScore": 20.5210483835069,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -31.631042563008776,
-      "libraryAverage": 20.87,
+      "bookScore": 6.30262095876725,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.027928303459776,
-      "libraryAverage": 10.23,
+      "bookScore": 20.589412255106293,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24697638702246114,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

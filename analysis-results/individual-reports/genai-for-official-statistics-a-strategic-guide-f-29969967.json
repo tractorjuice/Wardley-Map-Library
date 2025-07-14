@@ -3,24 +3,24 @@
   "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
   "title": "GenAI For Official Statistics A Strategic Guide F 29969967",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:18.925Z",
+  "generatedAt": "2025-07-14T17:49:44.215Z",
   "summary": {
-    "overallScore": 6.134726607426943,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.951784161042372,
+    "readabilityGrade": "Poor",
     "wordCount": 32819,
     "estimatedReadingTime": 165
   },
   "readabilityMetrics": {
-    "fleschScore": -29.66318348143264,
+    "fleschScore": 7.379460402605929,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.76720938517035,
-    "fogIndex": 25.334850741148408,
-    "smogIndex": 17.973863302638687,
-    "ariIndex": 21.74784250258042,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.56717651922282,
-    "avgSyllablesPerWord": 2.632712757853682,
-    "complexWordRatio": 0.49769950333648194
+    "fleschKincaidGrade": 17.645028504520145,
+    "fogIndex": 21.546393016332,
+    "smogIndex": 18.232890870116076,
+    "ariIndex": 18.27966583942139,
+    "cliIndex": 18.8100813624898,
+    "avgSentenceLength": 21.797023563455973,
+    "avgSyllablesPerWord": 2.096117738540027,
+    "complexWordRatio": 0.32068958977374024
   },
   "sentenceAnalysis": {
     "totalSentences": 2419,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 88,
     "bulletPoints": 871,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -29.7",
+      "issue": "Very low Flesch Reading Ease score: 7.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 6.134726607426943,
-      "libraryAverage": 38.35,
+      "bookScore": 20.951784161042372,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -29.66318348143264,
-      "libraryAverage": 20.87,
+      "bookScore": 7.379460402605929,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.56717651922282,
-      "libraryAverage": 10.23,
+      "bookScore": 21.797023563455973,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2779182790456748,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
   "title": "Digital Battlefield Storage A Wardley Mapping Approach To Military Data Strategy 482015f5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:17.296Z",
+  "generatedAt": "2025-07-14T17:49:42.664Z",
   "summary": {
-    "overallScore": -5.506152488038868,
+    "overallScore": 7.828877310117104,
     "readabilityGrade": "Very Poor",
     "wordCount": 11027,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": -58.76538122009717,
+    "fleschScore": -25.42780672470724,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.71390916415771,
-    "fogIndex": 31.47137737471121,
-    "smogIndex": 23.06056369894448,
-    "ariIndex": 28.734558618724556,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.16506717850288,
-    "avgSyllablesPerWord": 2.8855536410628457,
-    "complexWordRatio": 0.5751337625827514
+    "fleschKincaidGrade": 24.774283319996446,
+    "fogIndex": 29.044411929526575,
+    "smogIndex": 23.728220128238043,
+    "ariIndex": 26.53542754430604,
+    "cliIndex": 23.136317395727357,
+    "avgSentenceLength": 32.07485604606526,
+    "avgSyllablesPerWord": 2.3606008018670335,
+    "complexWordRatio": 0.40536173777751183
   },
   "sentenceAnalysis": {
     "totalSentences": 521,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 52,
     "bulletPoints": 586,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -58.8",
+      "issue": "Very low Flesch Reading Ease score: -25.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -5.506152488038868,
-      "libraryAverage": 38.35,
+      "bookScore": 7.828877310117104,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -58.76538122009717,
-      "libraryAverage": 20.87,
+      "bookScore": -25.42780672470724,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.16506717850288,
-      "libraryAverage": 10.23,
+      "bookScore": 32.07485604606526,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3505033100571325,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
   "title": "Harnessing The Power Of GenAI A Strategic Guide For Government Leaders To Build Effective AI Teams And Drive Innovation C405fe94-279d-48",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:20.138Z",
+  "generatedAt": "2025-07-14T17:49:45.272Z",
   "summary": {
-    "overallScore": 0.04173295834507229,
+    "overallScore": 12.656616547444504,
     "readabilityGrade": "Very Poor",
     "wordCount": 18362,
     "estimatedReadingTime": 92
   },
   "readabilityMetrics": {
-    "fleschScore": -29.895667604137316,
+    "fleschScore": 1.6415413686112572,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.732598514569677,
-    "fogIndex": 26.290781906028243,
-    "smogIndex": 19.671328904596727,
-    "ariIndex": 23.700602967983514,
-    "cliIndex": 0,
-    "avgSentenceLength": 17.32264150943396,
-    "avgSyllablesPerWord": 2.590404095414443,
-    "complexWordRatio": 0.4840431325563664
+    "fleschKincaidGrade": 19.888380330984997,
+    "fogIndex": 23.893060405471456,
+    "smogIndex": 20.142026646667986,
+    "ariIndex": 21.48012155632329,
+    "cliIndex": 19.465521153714715,
+    "avgSentenceLength": 27.60566037735849,
+    "avgSyllablesPerWord": 2.0942519308317955,
+    "complexWordRatio": 0.3212699063632014
   },
   "sentenceAnalysis": {
     "totalSentences": 1060,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 19,
+    "subheaders": 67,
     "bulletPoints": 370,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,13 +81,6 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Writing Style",
       "priority": "Medium",
       "issue": "25.2% passive voice usage",
@@ -97,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -29.9",
+      "issue": "Very low Flesch Reading Ease score: 1.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -120,35 +113,30 @@
     },
     {
       "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    },
-    {
-      "priority": "Medium",
       "score": 6,
       "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.04173295834507229,
-      "libraryAverage": 38.35,
+      "bookScore": 12.656616547444504,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -29.895667604137316,
-      "libraryAverage": 20.87,
+      "bookScore": 1.6415413686112572,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 17.32264150943396,
-      "libraryAverage": 10.23,
+      "bookScore": 27.60566037735849,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2664197799803943,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

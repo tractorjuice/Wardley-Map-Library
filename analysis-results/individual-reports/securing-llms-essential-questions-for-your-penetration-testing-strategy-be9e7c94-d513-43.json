@@ -3,24 +3,24 @@
   "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
   "title": "Securing LLMs Essential Questions For Your Penetration Testing Strategy Be9e7c94-D513-43",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:24.017Z",
+  "generatedAt": "2025-07-14T17:49:49.378Z",
   "summary": {
-    "overallScore": 0.5916747825795596,
+    "overallScore": 11.006859085687552,
     "readabilityGrade": "Very Poor",
     "wordCount": 10785,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": -43.5208130435511,
+    "fleschScore": -17.48285228578112,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.941128120668647,
-    "fogIndex": 28.59156395101567,
-    "smogIndex": 21.033542630353352,
-    "ariIndex": 25.909608856247566,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.562822719449226,
-    "avgSyllablesPerWord": 2.736578581363004,
-    "complexWordRatio": 0.5291608715808994
+    "fleschKincaidGrade": 23.267828470942707,
+    "fogIndex": 27.13441524149662,
+    "smogIndex": 22.40531643060479,
+    "ariIndex": 25.343166476181658,
+    "cliIndex": 22.600092634432894,
+    "avgSentenceLength": 30.471600688468158,
+    "avgSyllablesPerWord": 2.285924084952553,
+    "complexWordRatio": 0.3736443741527338
   },
   "sentenceAnalysis": {
     "totalSentences": 581,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 13,
+    "subheaders": 44,
     "bulletPoints": 638,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -43.5",
+      "issue": "Very low Flesch Reading Ease score: -17.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.5916747825795596,
-      "libraryAverage": 38.35,
+      "bookScore": 11.006859085687552,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -43.5208130435511,
-      "libraryAverage": 20.87,
+      "bookScore": -17.48285228578112,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.562822719449226,
-      "libraryAverage": 10.23,
+      "bookScore": 30.471600688468158,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.30866944830783494,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

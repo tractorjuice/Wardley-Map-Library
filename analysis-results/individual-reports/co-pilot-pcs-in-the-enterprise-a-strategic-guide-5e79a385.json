@@ -3,24 +3,24 @@
   "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
   "title": "Co-Pilot PCs In The Enterprise A Strategic Guide 5e79a385",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.346Z",
+  "generatedAt": "2025-07-14T17:49:41.823Z",
   "summary": {
-    "overallScore": 5.8512064197816915,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.36562731163872,
+    "readabilityGrade": "Poor",
     "wordCount": 26191,
     "estimatedReadingTime": 131
   },
   "readabilityMetrics": {
-    "fleschScore": -30.37198395054577,
+    "fleschScore": 3.4140682790967958,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.82718732370221,
-    "fogIndex": 26.316495613391737,
-    "smogIndex": 18.270116829960966,
-    "ariIndex": 21.856906600088912,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.410650281618024,
-    "avgSyllablesPerWord": 2.642968958802642,
-    "complexWordRatio": 0.5238058875186132
+    "fleschKincaidGrade": 17.986761797518906,
+    "fogIndex": 22.380645792131517,
+    "smogIndex": 18.598209836696647,
+    "ariIndex": 18.674162574084413,
+    "cliIndex": 19.778480492813134,
+    "avgSentenceLength": 20.946236559139784,
+    "avgSyllablesPerWord": 2.1531974185978293,
+    "complexWordRatio": 0.35005377921189007
   },
   "sentenceAnalysis": {
     "totalSentences": 1953,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 81,
     "bulletPoints": 614,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.4",
+      "issue": "Very low Flesch Reading Ease score: 3.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.8512064197816915,
-      "libraryAverage": 38.35,
+      "bookScore": 19.36562731163872,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -30.37198395054577,
-      "libraryAverage": 20.87,
+      "bookScore": 3.4140682790967958,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.410650281618024,
-      "libraryAverage": 10.23,
+      "bookScore": 20.946236559139784,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24023519529609408,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

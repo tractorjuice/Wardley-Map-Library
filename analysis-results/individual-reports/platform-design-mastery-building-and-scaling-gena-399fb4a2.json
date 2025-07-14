@@ -3,24 +3,24 @@
   "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
   "title": "Platform Design Mastery Building And Scaling GenA 399fb4a2",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:22.871Z",
+  "generatedAt": "2025-07-14T17:49:48.281Z",
   "summary": {
-    "overallScore": -6.220578264273616,
+    "overallScore": 4.412007791236373,
     "readabilityGrade": "Very Poor",
     "wordCount": 11768,
     "estimatedReadingTime": 59
   },
   "readabilityMetrics": {
-    "fleschScore": -45.55144566068404,
+    "fleschScore": -18.969980521909065,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.44816587762612,
-    "fogIndex": 29.885071732809024,
-    "smogIndex": 22.9449494781052,
-    "ariIndex": 28.725345444393334,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.489021956087825,
-    "avgSyllablesPerWord": 2.701478585995921,
-    "complexWordRatio": 0.5122365737593474
+    "fleschKincaidGrade": 24.529820992752608,
+    "fogIndex": 28.690283389984245,
+    "smogIndex": 23.60617058981142,
+    "ariIndex": 27.323047993589093,
+    "cliIndex": 22.540845167596157,
+    "avgSentenceLength": 34.71656686626746,
+    "avgSyllablesPerWord": 2.252572874144771,
+    "complexWordRatio": 0.3700914160869315
   },
   "sentenceAnalysis": {
     "totalSentences": 501,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 56,
     "bulletPoints": 668,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -45.6",
+      "issue": "Very low Flesch Reading Ease score: -19.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.220578264273616,
-      "libraryAverage": 38.35,
+      "bookScore": 4.412007791236373,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -45.55144566068404,
-      "libraryAverage": 20.87,
+      "bookScore": -18.969980521909065,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.489021956087825,
-      "libraryAverage": 10.23,
+      "bookScore": 34.71656686626746,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3184908225696805,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

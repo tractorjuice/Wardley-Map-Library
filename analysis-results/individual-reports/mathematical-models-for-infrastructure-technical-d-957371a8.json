@@ -3,24 +3,24 @@
   "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
   "title": "Mathematical Models For Infrastructure Technical D 957371a8",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:22.204Z",
+  "generatedAt": "2025-07-14T17:49:47.513Z",
   "summary": {
-    "overallScore": -8.821832988669485,
+    "overallScore": 2.1696906197881276,
     "readabilityGrade": "Very Poor",
     "wordCount": 13460,
     "estimatedReadingTime": 68
   },
   "readabilityMetrics": {
-    "fleschScore": -52.05458247167371,
+    "fleschScore": -24.57577345052968,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.265323141495994,
-    "fogIndex": 31.607471290778843,
-    "smogIndex": 23.668084841003438,
-    "ariIndex": 29.112148177366564,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.127147766323024,
-    "avgSyllablesPerWord": 2.7826894502228825,
-    "complexWordRatio": 0.5589153046062407
+    "fleschKincaidGrade": 25.096991984695673,
+    "fogIndex": 29.689507824663078,
+    "smogIndex": 24.2482403707632,
+    "ariIndex": 27.575371736467872,
+    "cliIndex": 23.373598619429497,
+    "avgSentenceLength": 33.85223367697594,
+    "avgSyllablesPerWord": 2.3292051568368692,
+    "complexWordRatio": 0.4037153588468176
   },
   "sentenceAnalysis": {
     "totalSentences": 582,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 63,
     "bulletPoints": 649,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -52.1",
+      "issue": "Very low Flesch Reading Ease score: -24.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.821832988669485,
-      "libraryAverage": 38.35,
+      "bookScore": 2.1696906197881276,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -52.05458247167371,
-      "libraryAverage": 20.87,
+      "bookScore": -24.57577345052968,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.127147766323024,
-      "libraryAverage": 10.23,
+      "bookScore": 33.85223367697594,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32682020802377415,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

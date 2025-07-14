@@ -3,24 +3,24 @@
   "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
   "title": "Revolutionising MedTech Education Wardley Mapping For Teaching And Research In Higher Education 425f0e30-380b-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:23.712Z",
+  "generatedAt": "2025-07-14T17:49:49.013Z",
   "summary": {
-    "overallScore": -4.1582387602972055,
+    "overallScore": 9.584106953954915,
     "readabilityGrade": "Very Poor",
     "wordCount": 32746,
     "estimatedReadingTime": 164
   },
   "readabilityMetrics": {
-    "fleschScore": -40.395596900743016,
+    "fleschScore": -6.039732615112712,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.438404121514946,
-    "fogIndex": 27.499548862123806,
-    "smogIndex": 20.485103506909176,
-    "ariIndex": 25.902936657878293,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.29385474860335,
-    "avgSyllablesPerWord": 2.7028644719965795,
-    "complexWordRatio": 0.5045501740670616
+    "fleschKincaidGrade": 21.15085442698741,
+    "fogIndex": 24.90195137945633,
+    "smogIndex": 20.841753176401497,
+    "ariIndex": 23.004326665008726,
+    "cliIndex": 20.917279833041288,
+    "avgSentenceLength": 28.37486033519553,
+    "avgSyllablesPerWord": 2.175818550530606,
+    "complexWordRatio": 0.3388001811344529
   },
   "sentenceAnalysis": {
     "totalSentences": 1790,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 18,
+    "subheaders": 78,
     "bulletPoints": 998,
     "numberedLists": 101,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -40.4",
+      "issue": "Very low Flesch Reading Ease score: -6.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -4.1582387602972055,
-      "libraryAverage": 38.35,
+      "bookScore": 9.584106953954915,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -40.395596900743016,
-      "libraryAverage": 20.87,
+      "bookScore": -6.039732615112712,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.29385474860335,
-      "libraryAverage": 10.23,
+      "bookScore": 28.37486033519553,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2884016368411409,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

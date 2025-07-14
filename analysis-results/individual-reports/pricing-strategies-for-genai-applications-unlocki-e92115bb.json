@@ -3,24 +3,24 @@
   "directory": "Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb",
   "title": "Pricing Strategies For GenAI Applications Unlocki E92115bb",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:22.959Z",
+  "generatedAt": "2025-07-14T17:49:48.360Z",
   "summary": {
-    "overallScore": 6.278054071847725,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.871717532504725,
+    "readabilityGrade": "Poor",
     "wordCount": 7261,
     "estimatedReadingTime": 37
   },
   "readabilityMetrics": {
-    "fleschScore": -29.304864820380686,
+    "fleschScore": 2.179293831261816,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.88369729497639,
-    "fogIndex": 24.739110747452816,
-    "smogIndex": 18.002475329960657,
-    "ariIndex": 22.548058658803,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.237254901960783,
-    "avgSyllablesPerWord": 2.6204379562043796,
-    "complexWordRatio": 0.4761052196667126
+    "fleschKincaidGrade": 18.9585455829849,
+    "fogIndex": 22.272179009870747,
+    "smogIndex": 18.894299045403024,
+    "ariIndex": 19.946917206025546,
+    "cliIndex": 19.546630963972735,
+    "avgSentenceLength": 24.16470588235294,
+    "avgSyllablesPerWord": 2.1291788380395977,
+    "complexWordRatio": 0.3151574164232392
   },
   "sentenceAnalysis": {
     "totalSentences": 510,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 65,
     "bulletPoints": 361,
     "numberedLists": 24,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -29.3",
+      "issue": "Very low Flesch Reading Ease score: 2.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 6.278054071847725,
-      "libraryAverage": 38.35,
+      "bookScore": 18.871717532504725,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -29.304864820380686,
-      "libraryAverage": 20.87,
+      "bookScore": 2.179293831261816,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.237254901960783,
-      "libraryAverage": 10.23,
+      "bookScore": 24.16470588235294,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2976174080705137,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

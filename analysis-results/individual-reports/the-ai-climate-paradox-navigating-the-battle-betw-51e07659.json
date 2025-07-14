@@ -3,24 +3,24 @@
   "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
   "title": "The AI-Climate Paradox Navigating The Battle Betw 51e07659",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.370Z",
+  "generatedAt": "2025-07-14T17:49:51.874Z",
   "summary": {
-    "overallScore": -7.5286867618298885,
+    "overallScore": 3.681120878467402,
     "readabilityGrade": "Very Poor",
     "wordCount": 9027,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": -48.821716904574714,
+    "fleschScore": -20.797197803831494,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.459740604575163,
-    "fogIndex": 30.082266981107956,
-    "smogIndex": 22.59488112626794,
-    "ariIndex": 28.135990921466366,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.69951923076923,
-    "avgSyllablesPerWord": 2.7616040766589123,
-    "complexWordRatio": 0.5350614822200066
+    "fleschKincaidGrade": 24.31942113280392,
+    "fogIndex": 28.38451749249799,
+    "smogIndex": 23.342238801094396,
+    "ariIndex": 26.5667663123033,
+    "cliIndex": 22.717098733806626,
+    "avgSentenceLength": 32.84375,
+    "avgSyllablesPerWord": 2.296640562102027,
+    "complexWordRatio": 0.3811754373124497
   },
   "sentenceAnalysis": {
     "totalSentences": 416,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 462,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -48.8",
+      "issue": "Very low Flesch Reading Ease score: -20.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -7.5286867618298885,
-      "libraryAverage": 38.35,
+      "bookScore": 3.681120878467402,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -48.821716904574714,
-      "libraryAverage": 20.87,
+      "bookScore": -20.797197803831494,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.69951923076923,
-      "libraryAverage": 10.23,
+      "bookScore": 32.84375,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3528303976958015,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

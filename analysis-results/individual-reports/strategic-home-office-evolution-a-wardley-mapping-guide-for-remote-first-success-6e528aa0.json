@@ -3,24 +3,24 @@
   "directory": "Strategic_Home_Office_Evolution__A_Wardley_Mapping_Guide_for_Remote-First_Success_6e528aa0",
   "title": "Strategic Home Office Evolution A Wardley Mapping Guide For Remote-First Success 6e528aa0",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:25.645Z",
+  "generatedAt": "2025-07-14T17:49:51.015Z",
   "summary": {
-    "overallScore": -6.63780317640385,
+    "overallScore": 5.968882117081011,
     "readabilityGrade": "Very Poor",
     "wordCount": 10578,
     "estimatedReadingTime": 53
   },
   "readabilityMetrics": {
-    "fleschScore": -46.594507941009624,
+    "fleschScore": -15.077794707297471,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.85109567025903,
-    "fogIndex": 29.720136131593875,
-    "smogIndex": 22.101155121237017,
-    "ariIndex": 27.36648326715825,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.5,
-    "avgSyllablesPerWord": 2.7496691245982228,
-    "complexWordRatio": 0.5380034032898469
+    "fleschKincaidGrade": 23.236962184419912,
+    "fogIndex": 27.550676517258445,
+    "smogIndex": 22.74045434201083,
+    "ariIndex": 25.345130312750605,
+    "cliIndex": 21.87479823917828,
+    "avgSentenceLength": 31.697674418604652,
+    "avgSyllablesPerWord": 2.2427855221325506,
+    "complexWordRatio": 0.37179016874541454
   },
   "sentenceAnalysis": {
     "totalSentences": 516,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 7,
+    "subheaders": 48,
     "bulletPoints": 584,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -46.6",
+      "issue": "Very low Flesch Reading Ease score: -15.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.63780317640385,
-      "libraryAverage": 38.35,
+      "bookScore": 5.968882117081011,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -46.594507941009624,
-      "libraryAverage": 20.87,
+      "bookScore": -15.077794707297471,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.5,
-      "libraryAverage": 10.23,
+      "bookScore": 31.697674418604652,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32397428625449043,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

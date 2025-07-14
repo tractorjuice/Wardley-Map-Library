@@ -3,24 +3,24 @@
   "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
   "title": "Generative AI In Defence Applications Ethics An Af931312",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:19.900Z",
+  "generatedAt": "2025-07-14T17:49:45.038Z",
   "summary": {
-    "overallScore": 5.920886256976768,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.896518015623236,
+    "readabilityGrade": "Poor",
     "wordCount": 32833,
     "estimatedReadingTime": 165
   },
   "readabilityMetrics": {
-    "fleschScore": -30.197784357558078,
+    "fleschScore": 7.2412950390580875,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.718377668105592,
-    "fogIndex": 25.121584646370042,
-    "smogIndex": 17.694248362691994,
-    "ariIndex": 21.85565394169995,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.070461783439491,
-    "avgSyllablesPerWord": 2.6449913197088297,
-    "complexWordRatio": 0.4973349983248561
+    "fleschKincaidGrade": 17.39627821901802,
+    "fogIndex": 21.30317076143802,
+    "smogIndex": 17.962056351590356,
+    "ariIndex": 17.89117811631217,
+    "cliIndex": 18.927810314349397,
+    "avgSentenceLength": 20.71815286624204,
+    "avgSyllablesPerWord": 2.110694796710476,
+    "complexWordRatio": 0.3253977403735301
   },
   "sentenceAnalysis": {
     "totalSentences": 2512,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 86,
     "bulletPoints": 676,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.2",
+      "issue": "Very low Flesch Reading Ease score: 7.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.920886256976768,
-      "libraryAverage": 38.35,
+      "bookScore": 20.896518015623236,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -30.197784357558078,
-      "libraryAverage": 20.87,
+      "bookScore": 7.2412950390580875,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.070461783439491,
-      "libraryAverage": 10.23,
+      "bookScore": 20.71815286624204,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.26631742454238116,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

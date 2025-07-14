@@ -3,24 +3,24 @@
   "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
   "title": "Technical Debt Intelligence AI-Powered Infrastruc 5b615b6c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.161Z",
+  "generatedAt": "2025-07-14T17:49:51.633Z",
   "summary": {
-    "overallScore": -10.18160388149969,
+    "overallScore": 0.8458864976371832,
     "readabilityGrade": "Very Poor",
     "wordCount": 17894,
     "estimatedReadingTime": 90
   },
   "readabilityMetrics": {
-    "fleschScore": -55.45400970374922,
+    "fleschScore": -27.88528375590704,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 27.16816956335457,
-    "fogIndex": 32.60569141735902,
-    "smogIndex": 24.56670423784181,
-    "ariIndex": 30.54707012282205,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.852777777777778,
-    "avgSyllablesPerWord": 2.802168324578071,
-    "complexWordRatio": 0.5666145076561976
+    "fleschKincaidGrade": 26.01591367530514,
+    "fogIndex": 30.757240899991785,
+    "smogIndex": 25.036238497911285,
+    "ariIndex": 28.906345669524534,
+    "cliIndex": 23.931244017276935,
+    "avgSentenceLength": 35.69305555555555,
+    "avgSyllablesPerWord": 2.3462391532744467,
+    "complexWordRatio": 0.4120004669442391
   },
   "sentenceAnalysis": {
     "totalSentences": 720,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 78,
     "bulletPoints": 943,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -55.5",
+      "issue": "Very low Flesch Reading Ease score: -27.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -10.18160388149969,
-      "libraryAverage": 38.35,
+      "bookScore": 0.8458864976371832,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -55.45400970374922,
-      "libraryAverage": 20.87,
+      "bookScore": -27.88528375590704,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.852777777777778,
-      "libraryAverage": 10.23,
+      "bookScore": 35.69305555555555,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.35084385827651726,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

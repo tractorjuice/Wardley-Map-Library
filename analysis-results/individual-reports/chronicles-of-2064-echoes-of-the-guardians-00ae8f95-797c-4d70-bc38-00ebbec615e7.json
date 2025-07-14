@@ -3,24 +3,24 @@
   "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
   "title": "Chronicles Of 2064 Echoes Of The Guardians 00ae8f95-797c-4d70-Bc38-00ebbec615e7",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.111Z",
+  "generatedAt": "2025-07-14T17:49:41.552Z",
   "summary": {
-    "overallScore": 24.339401106419665,
-    "readabilityGrade": "Poor",
+    "overallScore": 36.31551853461112,
+    "readabilityGrade": "Below Average",
     "wordCount": 14057,
     "estimatedReadingTime": 71
   },
   "readabilityMetrics": {
-    "fleschScore": 0.8485027660491653,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 16.682712382546807,
-    "fogIndex": 20.37433073486231,
-    "smogIndex": 16.192701761915234,
-    "ariIndex": 19.19803293198757,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.25659229208925,
-    "avgSyllablesPerWord": 2.2637831685281355,
-    "complexWordRatio": 0.36679234545066514
+    "fleschScore": 30.78879633652781,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 15.0365259302069,
+    "fogIndex": 18.933671349090606,
+    "smogIndex": 16.642292712005748,
+    "ariIndex": 16.681790406381516,
+    "cliIndex": 15.31228649680471,
+    "avgSentenceLength": 24.440162271805274,
+    "avgSyllablesPerWord": 1.7877002240849864,
+    "complexWordRatio": 0.22894016100921238
   },
   "sentenceAnalysis": {
     "totalSentences": 986,
@@ -75,15 +75,8 @@
       "category": "Structure",
       "priority": "Medium",
       "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-1000 words.",
       "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.8",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
@@ -93,11 +86,6 @@
       "item": "Shorten long sentences"
     },
     {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
@@ -105,24 +93,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24.339401106419665,
-      "libraryAverage": 38.35,
+      "bookScore": 36.31551853461112,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 30
     },
     "fleschScore": {
-      "bookScore": 0.8485027660491653,
-      "libraryAverage": 20.87,
+      "bookScore": 30.78879633652781,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.25659229208925,
-      "libraryAverage": 10.23,
+      "bookScore": 24.440162271805274,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.10741979085153304,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "Simpler"
     }
   }

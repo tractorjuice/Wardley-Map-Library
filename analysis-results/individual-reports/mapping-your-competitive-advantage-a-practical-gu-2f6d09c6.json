@@ -3,24 +3,24 @@
   "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
   "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:21.058Z",
+  "generatedAt": "2025-07-14T17:49:46.303Z",
   "summary": {
-    "overallScore": 13.219418533266094,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 28.75104974024207,
+    "readabilityGrade": "Poor",
     "wordCount": 29059,
     "estimatedReadingTime": 146
   },
   "readabilityMetrics": {
-    "fleschScore": -26.951453666834766,
+    "fleschScore": 11.877624350605174,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.803646026108442,
-    "fogIndex": 24.81546420139699,
-    "smogIndex": 16.766063712000093,
-    "ariIndex": 21.20701874756508,
-    "cliIndex": 0,
-    "avgSentenceLength": 11.211033950617283,
-    "avgSyllablesPerWord": 2.628927354692178,
-    "complexWordRatio": 0.5082762655287518
+    "fleschKincaidGrade": 16.131173996284854,
+    "fogIndex": 20.31951293828415,
+    "smogIndex": 17.048888514201376,
+    "ariIndex": 16.696311742602695,
+    "cliIndex": 18.79489851637071,
+    "avgSentenceLength": 18.22878086419753,
+    "avgSyllablesPerWord": 2.085758428749815,
+    "complexWordRatio": 0.32570001481512834
   },
   "sentenceAnalysis": {
     "totalSentences": 2592,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 93,
     "bulletPoints": 578,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -72,16 +72,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -27.0",
+      "issue": "Very low Flesch Reading Ease score: 11.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -96,33 +89,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 13.219418533266094,
-      "libraryAverage": 38.35,
+      "bookScore": 28.75104974024207,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -26.951453666834766,
-      "libraryAverage": 20.87,
+      "bookScore": 11.877624350605174,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 11.211033950617283,
-      "libraryAverage": 10.23,
-      "comparison": "Worse"
+      "bookScore": 18.22878086419753,
+      "libraryAverage": 18.69,
+      "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2580611858632437,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
   "title": "The Planet Information Platform Mapping Earth With Satellites AI And Big Data 3e65b5a1-5404-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:27.935Z",
+  "generatedAt": "2025-07-14T17:49:53.451Z",
   "summary": {
-    "overallScore": 7.138468882486755,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.990397828498395,
+    "readabilityGrade": "Poor",
     "wordCount": 24428,
     "estimatedReadingTime": 123
   },
   "readabilityMetrics": {
-    "fleschScore": -27.15382779378311,
+    "fleschScore": -2.524005428754009,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.19263654826967,
-    "fogIndex": 23.202993017727934,
-    "smogIndex": 14.926298505334113,
-    "ariIndex": 19.888135819400794,
-    "cliIndex": 0,
-    "avgSentenceLength": 8.637906647807638,
-    "avgSyllablesPerWord": 2.6621909284427705,
-    "complexWordRatio": 0.49369575896512197
+    "fleschKincaidGrade": 20.179691892957013,
+    "fogIndex": 24.031832340432118,
+    "smogIndex": 20.166374811279223,
+    "ariIndex": 21.40693651158955,
+    "cliIndex": 20.05476561768599,
+    "avgSentenceLength": 26.43953323903819,
+    "avgSyllablesPerWord": 2.157480841502722,
+    "complexWordRatio": 0.336400476120421
   },
   "sentenceAnalysis": {
     "totalSentences": 2828,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 28,
+    "subheaders": 107,
     "bulletPoints": 1137,
     "numberedLists": 55,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -27.2",
+      "issue": "Very low Flesch Reading Ease score: -2.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.138468882486755,
-      "libraryAverage": 38.35,
+      "bookScore": 16.990397828498395,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -27.15382779378311,
-      "libraryAverage": 20.87,
+      "bookScore": -2.524005428754009,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 8.637906647807638,
-      "libraryAverage": 10.23,
-      "comparison": "Better"
+      "bookScore": 26.43953323903819,
+      "libraryAverage": 18.69,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27529883739970523,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

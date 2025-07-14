@@ -3,24 +3,24 @@
   "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
   "title": "Sustainable Futures Strategies For Life On Land 61799596",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.011Z",
+  "generatedAt": "2025-07-14T17:49:51.411Z",
   "summary": {
-    "overallScore": 1.1519264205402244,
+    "overallScore": 14.344946461421296,
     "readabilityGrade": "Very Poor",
     "wordCount": 7923,
     "estimatedReadingTime": 40
   },
   "readabilityMetrics": {
-    "fleschScore": -42.12018394864944,
+    "fleschScore": -9.13763384644676,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.062976493057054,
-    "fogIndex": 28.26693239798329,
-    "smogIndex": 19.954714480152887,
-    "ariIndex": 24.712422281525555,
-    "cliIndex": 0,
-    "avgSentenceLength": 15.81437125748503,
-    "avgSyllablesPerWord": 2.7529976019184654,
-    "complexWordRatio": 0.5485295973747318
+    "fleschKincaidGrade": 20.937431066317107,
+    "fogIndex": 25.11002130785664,
+    "smogIndex": 20.771153938972887,
+    "ariIndex": 22.077235477936803,
+    "cliIndex": 21.27667337772959,
+    "avgSentenceLength": 25.776447105788424,
+    "avgSyllablesPerWord": 2.2436115843270867,
+    "complexWordRatio": 0.3699860616385318
   },
   "sentenceAnalysis": {
     "totalSentences": 501,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 62,
     "bulletPoints": 352,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -42.1",
+      "issue": "Very low Flesch Reading Ease score: -9.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 1.1519264205402244,
-      "libraryAverage": 38.35,
+      "bookScore": 14.344946461421296,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -42.12018394864944,
-      "libraryAverage": 20.87,
+      "bookScore": -9.13763384644676,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 15.81437125748503,
-      "libraryAverage": 10.23,
+      "bookScore": 25.776447105788424,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.31111952543228577,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

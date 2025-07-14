@@ -3,24 +3,24 @@
   "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
   "title": "Cost-Effective Migration Transitioning Applicatio 366f9974",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.884Z",
+  "generatedAt": "2025-07-14T17:49:42.224Z",
   "summary": {
-    "overallScore": 0.5797408378281013,
+    "overallScore": 12.321153488781738,
     "readabilityGrade": "Very Poor",
     "wordCount": 63100,
     "estimatedReadingTime": 316
   },
   "readabilityMetrics": {
-    "fleschScore": -43.55064790542974,
+    "fleschScore": -14.197116278045655,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.13934596433406,
-    "fogIndex": 29.27799634848192,
-    "smogIndex": 21.567135410135425,
-    "ariIndex": 26.467474516426485,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.343960760269773,
-    "avgSyllablesPerWord": 2.7275594294770205,
-    "complexWordRatio": 0.5385103011093503
+    "fleschKincaidGrade": 22.127739008135894,
+    "fogIndex": 26.62720662710045,
+    "smogIndex": 21.87654258953921,
+    "ariIndex": 24.03670890081826,
+    "cliIndex": 22.586041615991856,
+    "avgSentenceLength": 27.7271612507664,
+    "avgSyllablesPerWord": 2.2800123830794066,
+    "complexWordRatio": 0.3884085531698472
   },
   "sentenceAnalysis": {
     "totalSentences": 3262,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 14,
-    "subheaders": 33,
+    "subheaders": 216,
     "bulletPoints": 2139,
     "numberedLists": 22,
     "codeBlocks": 6,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -43.6",
+      "issue": "Very low Flesch Reading Ease score: -14.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.5797408378281013,
-      "libraryAverage": 38.35,
+      "bookScore": 12.321153488781738,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -43.55064790542974,
-      "libraryAverage": 20.87,
+      "bookScore": -14.197116278045655,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.343960760269773,
-      "libraryAverage": 10.23,
+      "bookScore": 27.7271612507664,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2630744849445325,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

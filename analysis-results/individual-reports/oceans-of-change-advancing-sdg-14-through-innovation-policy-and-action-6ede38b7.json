@@ -3,24 +3,24 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
   "title": "Oceans Of Change Advancing SDG 14 Through Innovation Policy And Action 6ede38b7",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:22.558Z",
+  "generatedAt": "2025-07-14T17:49:47.912Z",
   "summary": {
-    "overallScore": -8.74992953353393,
+    "overallScore": 2.0946925813982595,
     "readabilityGrade": "Very Poor",
     "wordCount": 15195,
     "estimatedReadingTime": 76
   },
   "readabilityMetrics": {
-    "fleschScore": -51.874823833834824,
+    "fleschScore": -24.76326854650435,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.17985471501009,
-    "fogIndex": 31.081880334764527,
-    "smogIndex": 23.3631769279576,
-    "ariIndex": 28.980564962713636,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.884036144578314,
-    "avgSyllablesPerWord": 2.7834814083580124,
-    "complexWordRatio": 0.54820664692333
+    "fleschKincaidGrade": 24.82275436347466,
+    "fogIndex": 29.215937104820668,
+    "smogIndex": 23.87411592486474,
+    "ariIndex": 27.266565902363773,
+    "cliIndex": 23.710457208765856,
+    "avgSentenceLength": 32.64307228915663,
+    "avgSyllablesPerWord": 2.345928489042676,
+    "complexWordRatio": 0.4039677047289504
   },
   "sentenceAnalysis": {
     "totalSentences": 664,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 64,
     "bulletPoints": 679,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -51.9",
+      "issue": "Very low Flesch Reading Ease score: -24.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.74992953353393,
-      "libraryAverage": 38.35,
+      "bookScore": 2.0946925813982595,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -51.874823833834824,
-      "libraryAverage": 20.87,
+      "bookScore": -24.76326854650435,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.884036144578314,
-      "libraryAverage": 10.23,
+      "bookScore": 32.64307228915663,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3162882527147088,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

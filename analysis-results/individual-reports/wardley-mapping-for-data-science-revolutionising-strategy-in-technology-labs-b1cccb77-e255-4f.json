@@ -3,24 +3,24 @@
   "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
   "title": "Wardley Mapping For Data Science Revolutionising Strategy In Technology Labs B1cccb77-E255-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:30.327Z",
+  "generatedAt": "2025-07-14T17:49:55.654Z",
   "summary": {
-    "overallScore": 0.3339381316034178,
+    "overallScore": 12.685743554959867,
     "readabilityGrade": "Very Poor",
     "wordCount": 33073,
     "estimatedReadingTime": 166
   },
   "readabilityMetrics": {
-    "fleschScore": -29.165154670991456,
+    "fleschScore": 1.7143588873996691,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.86664710410405,
-    "fogIndex": 25.84491616987234,
-    "smogIndex": 19.752507799301515,
-    "ariIndex": 24.300579342900093,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.272375690607735,
-    "avgSyllablesPerWord": 2.5703746258277143,
-    "complexWordRatio": 0.4633991473407311
+    "fleschKincaidGrade": 20.018737137278574,
+    "fogIndex": 23.801161748755852,
+    "smogIndex": 20.101359926940322,
+    "ariIndex": 21.83010878527802,
+    "cliIndex": 19.57091978819376,
+    "avgSentenceLength": 28.171270718232044,
+    "avgSyllablesPerWord": 2.0866052167091587,
+    "complexWordRatio": 0.3133163365365758
   },
   "sentenceAnalysis": {
     "totalSentences": 1810,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 18,
+    "subheaders": 75,
     "bulletPoints": 998,
     "numberedLists": 80,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -29.2",
+      "issue": "Very low Flesch Reading Ease score: 1.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.3339381316034178,
-      "libraryAverage": 38.35,
+      "bookScore": 12.685743554959867,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -29.165154670991456,
-      "libraryAverage": 20.87,
+      "bookScore": 1.7143588873996691,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.272375690607735,
-      "libraryAverage": 10.23,
+      "bookScore": 28.171270718232044,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2712786865418922,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

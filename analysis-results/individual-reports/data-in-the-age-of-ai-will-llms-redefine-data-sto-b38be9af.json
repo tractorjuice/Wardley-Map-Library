@@ -3,24 +3,24 @@
   "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
   "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:17.148Z",
+  "generatedAt": "2025-07-14T17:49:42.536Z",
   "summary": {
-    "overallScore": 15.200575897991813,
+    "overallScore": 27.465825660854172,
     "readabilityGrade": "Poor",
     "wordCount": 32386,
     "estimatedReadingTime": 162
   },
   "readabilityMetrics": {
-    "fleschScore": -21.998560255020465,
+    "fleschScore": 8.664564152135426,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.582370173435844,
-    "fogIndex": 23.578006338189603,
-    "smogIndex": 17.129487521942494,
-    "ariIndex": 20.292134304506902,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.101132686084142,
-    "avgSyllablesPerWord": 2.5477057988019514,
-    "complexWordRatio": 0.4584388315938986
+    "fleschKincaidGrade": 17.01714064428393,
+    "fogIndex": 20.55542673352123,
+    "smogIndex": 17.441438134074307,
+    "ariIndex": 17.325924519333853,
+    "cliIndex": 18.62401230320936,
+    "avgSentenceLength": 19.991100323624597,
+    "avgSyllablesPerWord": 2.102594196446639,
+    "complexWordRatio": 0.3139746651017848
   },
   "sentenceAnalysis": {
     "totalSentences": 2472,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 91,
     "bulletPoints": 582,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -72,16 +72,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -22.0",
+      "issue": "Very low Flesch Reading Ease score: 8.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -96,33 +89,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 15.200575897991813,
-      "libraryAverage": 38.35,
+      "bookScore": 27.465825660854172,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -21.998560255020465,
-      "libraryAverage": 20.87,
+      "bookScore": 8.664564152135426,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.101132686084142,
-      "libraryAverage": 10.23,
+      "bookScore": 19.991100323624597,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22089791885382573,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

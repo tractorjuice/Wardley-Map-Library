@@ -3,24 +3,24 @@
   "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
   "title": "Running To Stand Still Mastering The Red Queen Effect In Business And Life 21091fb0-8ea3-42",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T17:23:23.895Z",
+  "generatedAt": "2025-07-14T17:49:49.194Z",
   "summary": {
-    "overallScore": 7.755072481633567,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.084844741655207,
+    "readabilityGrade": "Poor",
     "wordCount": 26995,
     "estimatedReadingTime": 135
   },
   "readabilityMetrics": {
-    "fleschScore": -25.61231879591608,
+    "fleschScore": 7.712111854138016,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.017941687772673,
-    "fogIndex": 25.44156556480728,
-    "smogIndex": 19.163789822276865,
-    "ariIndex": 23.374507057879818,
-    "cliIndex": 0,
-    "avgSentenceLength": 16.850811485642947,
-    "avgSyllablesPerWord": 2.5454343396925356,
-    "complexWordRatio": 0.46753102426375254
+    "fleschKincaidGrade": 18.90871811649532,
+    "fogIndex": 22.99599207380426,
+    "smogIndex": 19.522498694262996,
+    "ariIndex": 20.368743868167883,
+    "cliIndex": 18.390899070721982,
+    "avgSentenceLength": 27.070536828963796,
+    "avgSyllablesPerWord": 2.0289159960338505,
+    "complexWordRatio": 0.30419443355546844
   },
   "sentenceAnalysis": {
     "totalSentences": 1602,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 18,
+    "subheaders": 63,
     "bulletPoints": 930,
     "numberedLists": 107,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -25.6",
+      "issue": "Very low Flesch Reading Ease score: 7.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.755072481633567,
-      "libraryAverage": 38.35,
+      "bookScore": 21.084844741655207,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -25.61231879591608,
-      "libraryAverage": 20.87,
+      "bookScore": 7.712111854138016,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 16.850811485642947,
-      "libraryAverage": 10.23,
+      "bookScore": 27.070536828963796,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.25367660677903314,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

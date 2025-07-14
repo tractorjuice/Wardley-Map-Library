@@ -3,24 +3,24 @@
   "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
   "title": "Mapping Your Startup S Future Mastering Wardley Maps For Strategic Success 67b791b3-7e33-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:21.175Z",
+  "generatedAt": "2025-07-14T17:49:46.438Z",
   "summary": {
-    "overallScore": 10.432257068426757,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 22.242033919207596,
+    "readabilityGrade": "Poor",
     "wordCount": 27141,
     "estimatedReadingTime": 136
   },
   "readabilityMetrics": {
-    "fleschScore": -18.919357328933103,
+    "fleschScore": 10.605084798018993,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.257728811324622,
-    "fogIndex": 23.13890169638938,
-    "smogIndex": 17.11543941153042,
-    "ariIndex": 21.141016310273386,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.523168908819134,
-    "avgSyllablesPerWord": 2.50624516414281,
-    "complexWordRatio": 0.44324085332154306
+    "fleschKincaidGrade": 17.749702582111762,
+    "fogIndex": 21.503023073626782,
+    "smogIndex": 18.39774128766212,
+    "ariIndex": 19.21884602431726,
+    "cliIndex": 18.715264063698758,
+    "avgSentenceLength": 24.029397110114598,
+    "avgSyllablesPerWord": 2.0312065855226327,
+    "complexWordRatio": 0.2972816057395235
   },
   "sentenceAnalysis": {
     "totalSentences": 2007,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 8,
-    "subheaders": 19,
+    "subheaders": 66,
     "bulletPoints": 747,
     "numberedLists": 58,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -18.9",
+      "issue": "Very low Flesch Reading Ease score: 10.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 10.432257068426757,
-      "libraryAverage": 38.35,
+      "bookScore": 22.242033919207596,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -18.919357328933103,
-      "libraryAverage": 20.87,
+      "bookScore": 10.605084798018993,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.523168908819134,
-      "libraryAverage": 10.23,
+      "bookScore": 24.029397110114598,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.25338049445488375,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

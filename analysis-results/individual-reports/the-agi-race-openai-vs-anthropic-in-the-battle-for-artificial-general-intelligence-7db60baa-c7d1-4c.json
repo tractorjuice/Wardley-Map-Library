@@ -3,24 +3,24 @@
   "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
   "title": "The AGI Race OpenAI Vs Anthropic In The Battle For Artificial General Intelligence 7db60baa-C7d1-4c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.337Z",
+  "generatedAt": "2025-07-14T17:49:51.838Z",
   "summary": {
-    "overallScore": 7.6554337121576275,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.49250640710799,
+    "readabilityGrade": "Poor",
     "wordCount": 32452,
     "estimatedReadingTime": 163
   },
   "readabilityMetrics": {
-    "fleschScore": -25.86141571960593,
+    "fleschScore": 6.231266017769968,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.302954060342675,
-    "fogIndex": 25.67491064250287,
-    "smogIndex": 18.206284415032883,
-    "ariIndex": 21.578069462995465,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.832907075873829,
-    "avgSyllablesPerWord": 2.5845864661654137,
-    "complexWordRatio": 0.5035436953038334
+    "fleschKincaidGrade": 18.58532079190815,
+    "fogIndex": 23.159217209356395,
+    "smogIndex": 19.507377777408838,
+    "ariIndex": 19.629399782895256,
+    "cliIndex": 18.70591046612994,
+    "avgSentenceLength": 24.937340153452684,
+    "avgSyllablesPerWord": 2.07201340102217,
+    "complexWordRatio": 0.32960702869938296
   },
   "sentenceAnalysis": {
     "totalSentences": 2346,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 80,
     "bulletPoints": 787,
     "numberedLists": 37,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -25.9",
+      "issue": "Very low Flesch Reading Ease score: 6.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.6554337121576275,
-      "libraryAverage": 38.35,
+      "bookScore": 20.49250640710799,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -25.86141571960593,
-      "libraryAverage": 20.87,
+      "bookScore": 6.231266017769968,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.832907075873829,
-      "libraryAverage": 10.23,
+      "bookScore": 24.937340153452684,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2492296314556884,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

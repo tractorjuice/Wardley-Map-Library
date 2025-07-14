@@ -3,24 +3,24 @@
   "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
   "title": "Ecosystem Advantage Mapping And Orchestrating For 46fa9d88",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:17.743Z",
+  "generatedAt": "2025-07-14T17:49:43.110Z",
   "summary": {
-    "overallScore": 6.219414775835922,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.50214893202618,
+    "readabilityGrade": "Poor",
     "wordCount": 38812,
     "estimatedReadingTime": 195
   },
   "readabilityMetrics": {
-    "fleschScore": -29.45146306041019,
+    "fleschScore": 8.755372330065455,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.616955181634697,
-    "fogIndex": 25.389143313054266,
-    "smogIndex": 17.79633949757663,
-    "ariIndex": 22.155445424941462,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.081226828446242,
-    "avgSyllablesPerWord": 2.636040399876327,
-    "complexWordRatio": 0.5039163145418942
+    "fleschKincaidGrade": 17.37752729791701,
+    "fogIndex": 21.326797696668297,
+    "smogIndex": 18.069767151917556,
+    "ariIndex": 18.2802658485871,
+    "cliIndex": 18.98153209239599,
+    "avgSentenceLength": 21.492753623188406,
+    "avgSyllablesPerWord": 2.083504524141824,
+    "complexWordRatio": 0.31824240618482336
   },
   "sentenceAnalysis": {
     "totalSentences": 2967,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 123,
     "bulletPoints": 585,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -29.5",
+      "issue": "Very low Flesch Reading Ease score: 8.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 6.219414775835922,
-      "libraryAverage": 38.35,
+      "bookScore": 21.50214893202618,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -29.45146306041019,
-      "libraryAverage": 20.87,
+      "bookScore": 8.755372330065455,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.081226828446242,
-      "libraryAverage": 10.23,
+      "bookScore": 21.492753623188406,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23709162114809854,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

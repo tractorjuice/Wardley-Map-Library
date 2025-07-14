@@ -3,24 +3,24 @@
   "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
   "title": "Harnessing Generative AI A Strategic Approach For 19aa41de",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:20.072Z",
+  "generatedAt": "2025-07-14T17:49:45.192Z",
   "summary": {
-    "overallScore": 6.501219018508424,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.878187197113164,
+    "readabilityGrade": "Poor",
     "wordCount": 5153,
     "estimatedReadingTime": 26
   },
   "readabilityMetrics": {
-    "fleschScore": -28.746952453728937,
+    "fleschScore": -0.30453200721709095,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.06761001773045,
-    "fogIndex": 25.93390246585061,
-    "smogIndex": 18.85282330303436,
-    "ariIndex": 22.27756632217354,
-    "cliIndex": 0,
-    "avgSentenceLength": 15.29080118694362,
-    "avgSyllablesPerWord": 2.6012031826120707,
-    "complexWordRatio": 0.495439549776829
+    "fleschKincaidGrade": 19.90320236195816,
+    "fogIndex": 23.721207421876944,
+    "smogIndex": 19.97669424839217,
+    "ariIndex": 20.798524352723064,
+    "cliIndex": 19.217706309324402,
+    "avgSentenceLength": 26.572700296735906,
+    "avgSyllablesPerWord": 2.1296482412060302,
+    "complexWordRatio": 0.3273031825795645
   },
   "sentenceAnalysis": {
     "totalSentences": 337,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 49,
     "bulletPoints": 260,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -28.7",
+      "issue": "Very low Flesch Reading Ease score: -0.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,24 +106,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 6.501219018508424,
-      "libraryAverage": 38.35,
+      "bookScore": 17.878187197113164,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -28.746952453728937,
-      "libraryAverage": 20.87,
+      "bookScore": -0.30453200721709095,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 15.29080118694362,
-      "libraryAverage": 10.23,
+      "bookScore": 26.572700296735906,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.289928197166699,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
   "title": "Building IP Futures The LEGO Wardley Mapping Manual For Intellectual Property Horizons 5ccc5f17-F453-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:15.397Z",
+  "generatedAt": "2025-07-14T17:49:40.776Z",
   "summary": {
-    "overallScore": 9.93056487449378,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.452588708460336,
+    "readabilityGrade": "Poor",
     "wordCount": 21530,
     "estimatedReadingTime": 108
   },
   "readabilityMetrics": {
-    "fleschScore": -20.17358781376555,
+    "fleschScore": 3.631471771150842,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.90454939931887,
-    "fogIndex": 24.171841250364324,
-    "smogIndex": 18.180057006288923,
-    "ariIndex": 21.44574489783696,
-    "cliIndex": 0,
-    "avgSentenceLength": 15.422636103151863,
-    "avgSyllablesPerWord": 2.4982814677194614,
-    "complexWordRatio": 0.4500696702275894
+    "fleschKincaidGrade": 19.439185216865706,
+    "fogIndex": 23.199298900623404,
+    "smogIndex": 19.652714562256218,
+    "ariIndex": 20.879309131328455,
+    "cliIndex": 19.11920261890187,
+    "avgSentenceLength": 26.914756446991404,
+    "avgSyllablesPerWord": 2.0790195086897505,
+    "complexWordRatio": 0.3108349080456711
   },
   "sentenceAnalysis": {
     "totalSentences": 1396,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 23,
+    "subheaders": 84,
     "bulletPoints": 667,
     "numberedLists": 51,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -20.2",
+      "issue": "Very low Flesch Reading Ease score: 3.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 9.93056487449378,
-      "libraryAverage": 38.35,
+      "bookScore": 19.452588708460336,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -20.17358781376555,
-      "libraryAverage": 20.87,
+      "bookScore": 3.631471771150842,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 15.422636103151863,
-      "libraryAverage": 10.23,
+      "bookScore": 26.914756446991404,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2576405016256386,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
   "title": "Mastering Wardley Mapping For Project Success A Strategic Guide For Project Managers 35056a3c-4f4f-49",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:22.107Z",
+  "generatedAt": "2025-07-14T17:49:47.408Z",
   "summary": {
-    "overallScore": 14.148346558746539,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.746021170947564,
+    "readabilityGrade": "Poor",
     "wordCount": 7529,
     "estimatedReadingTime": 38
   },
   "readabilityMetrics": {
-    "fleschScore": -9.629133603133653,
+    "fleschScore": -0.6349470726310926,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 17.730178873572914,
-    "fogIndex": 21.2826338825438,
-    "smogIndex": 16.0476295908357,
-    "ariIndex": 19.92897039807282,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.590301003344482,
-    "avgSyllablesPerWord": 2.407623854429539,
-    "complexWordRatio": 0.4061628370301501
+    "fleschKincaidGrade": 20.056688084064977,
+    "fogIndex": 22.72844176234237,
+    "smogIndex": 19.339453645155412,
+    "ariIndex": 22.349038177291696,
+    "cliIndex": 20.901358598055605,
+    "avgSentenceLength": 27.005016722408026,
+    "avgSyllablesPerWord": 2.1283670815530376,
+    "complexWordRatio": 0.2981608768344789
   },
   "sentenceAnalysis": {
     "totalSentences": 598,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 8,
-    "subheaders": 19,
+    "subheaders": 67,
     "bulletPoints": 427,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -9.6",
+      "issue": "Very low Flesch Reading Ease score: -0.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,24 +106,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 14.148346558746539,
-      "libraryAverage": 38.35,
+      "bookScore": 17.746021170947564,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -9.629133603133653,
-      "libraryAverage": 20.87,
+      "bookScore": -0.6349470726310926,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.590301003344482,
-      "libraryAverage": 10.23,
+      "bookScore": 27.005016722408026,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.26949130030548546,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
   "title": "Data-Driven Open Source AI The Imperative For Inclusive Definitions And Practices 190bb682-78fb-43",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:16.974Z",
+  "generatedAt": "2025-07-14T17:49:42.322Z",
   "summary": {
-    "overallScore": 9.633675117317546,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.916323130305386,
+    "readabilityGrade": "Poor",
     "wordCount": 19679,
     "estimatedReadingTime": 99
   },
   "readabilityMetrics": {
-    "fleschScore": -20.915812206706136,
+    "fleschScore": 7.290807825763466,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.681186886080734,
-    "fogIndex": 23.663964931050167,
-    "smogIndex": 17.531063153218614,
-    "ariIndex": 20.337725359401922,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.106810035842294,
-    "avgSyllablesPerWord": 2.5228416078052747,
-    "complexWordRatio": 0.4505310229178312
+    "fleschKincaidGrade": 18.648817334622198,
+    "fogIndex": 22.22706184653871,
+    "smogIndex": 18.960283557735334,
+    "ariIndex": 19.413083993557272,
+    "cliIndex": 17.944137432590207,
+    "avgSentenceLength": 25.787813620071685,
+    "avgSyllablesPerWord": 2.049285595152054,
+    "complexWordRatio": 0.29779840996275087
   },
   "sentenceAnalysis": {
     "totalSentences": 1395,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 17,
+    "subheaders": 58,
     "bulletPoints": 468,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -20.9",
+      "issue": "Very low Flesch Reading Ease score: 7.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 9.633675117317546,
-      "libraryAverage": 38.35,
+      "bookScore": 20.916323130305386,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -20.915812206706136,
-      "libraryAverage": 20.87,
+      "bookScore": 7.290807825763466,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.106810035842294,
-      "libraryAverage": 10.23,
+      "bookScore": 25.787813620071685,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23268458763148533,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

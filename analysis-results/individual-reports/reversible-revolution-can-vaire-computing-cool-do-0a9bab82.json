@@ -3,24 +3,24 @@
   "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
   "title": "Reversible Revolution Can Vaire Computing Cool Do 0a9bab82",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:23.433Z",
+  "generatedAt": "2025-07-14T17:49:48.722Z",
   "summary": {
-    "overallScore": 5.004681137919249,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.44728254137715,
+    "readabilityGrade": "Poor",
     "wordCount": 23878,
     "estimatedReadingTime": 120
   },
   "readabilityMetrics": {
-    "fleschScore": -32.48829715520188,
+    "fleschScore": 3.618206353442872,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.123353384385613,
-    "fogIndex": 27.297327745628294,
-    "smogIndex": 18.622186048407876,
-    "ariIndex": 22.967363258549312,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.414606741573033,
-    "avgSyllablesPerWord": 2.6679370131501803,
-    "complexWordRatio": 0.548287126224977
+    "fleschKincaidGrade": 17.988253358516527,
+    "fogIndex": 22.908194411776073,
+    "smogIndex": 18.905970083067093,
+    "ariIndex": 19.00142024611293,
+    "cliIndex": 20.11983252886743,
+    "avgSentenceLength": 21.06685393258427,
+    "avgSyllablesPerWord": 2.149337315661751,
+    "complexWordRatio": 0.36203632096855914
   },
   "sentenceAnalysis": {
     "totalSentences": 1780,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 66,
     "bulletPoints": 432,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -32.5",
+      "issue": "Very low Flesch Reading Ease score: 3.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.004681137919249,
-      "libraryAverage": 38.35,
+      "bookScore": 19.44728254137715,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -32.48829715520188,
-      "libraryAverage": 20.87,
+      "bookScore": 3.618206353442872,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.414606741573033,
-      "libraryAverage": 10.23,
+      "bookScore": 21.06685393258427,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27209146494681297,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

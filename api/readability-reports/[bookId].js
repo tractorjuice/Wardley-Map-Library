@@ -238,12 +238,12 @@ function identifyImprovementPriorities(analysis) {
 }
 
 function generateBenchmarks(analysis) {
-    // Library averages from the main analysis
+    // Using Wardley Mapping eBook (May 2024 v1.8) as baseline - a well-written, accessible strategic text
     const libraryAverages = {
-        overallScore: 16.6,
-        fleschScore: 0.5,
-        sentenceLength: 17.1,
-        complexityScore: 0.29
+        overallScore: 50.99,
+        fleschScore: 52.48,
+        sentenceLength: 18.69,
+        complexityScore: 0.120
     };
 
     return {

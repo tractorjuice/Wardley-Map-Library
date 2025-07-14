@@ -3,24 +3,24 @@
   "directory": "The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c",
   "title": "The Jevons Paradox In The Age Of Generative AI Im 6e310b8c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:27.729Z",
+  "generatedAt": "2025-07-14T17:49:53.239Z",
   "summary": {
-    "overallScore": 5.02641560916395,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.320980687015673,
+    "readabilityGrade": "Poor",
     "wordCount": 11039,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": -32.43396097709012,
+    "fleschScore": 0.802451717539185,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.32635874851039,
-    "fogIndex": 26.07269649794609,
-    "smogIndex": 18.524155116960884,
-    "ariIndex": 22.79830698442192,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.262273901808786,
-    "avgSyllablesPerWord": 2.657124739559743,
-    "complexWordRatio": 0.5091946734305643
+    "fleschKincaidGrade": 18.896869215419745,
+    "fogIndex": 22.742542703168677,
+    "smogIndex": 19.08631035901515,
+    "ariIndex": 19.84575834881514,
+    "cliIndex": 20.0037849606431,
+    "avgSentenceLength": 23.143410852713178,
+    "avgSyllablesPerWord": 2.157706693462848,
+    "complexWordRatio": 0.3371294590520851
   },
   "sentenceAnalysis": {
     "totalSentences": 774,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 293,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -32.4",
+      "issue": "Very low Flesch Reading Ease score: 0.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.02641560916395,
-      "libraryAverage": 38.35,
+      "bookScore": 18.320980687015673,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -32.43396097709012,
-      "libraryAverage": 20.87,
+      "bookScore": 0.802451717539185,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.262273901808786,
-      "libraryAverage": 10.23,
+      "bookScore": 23.143410852713178,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2821813570069753,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

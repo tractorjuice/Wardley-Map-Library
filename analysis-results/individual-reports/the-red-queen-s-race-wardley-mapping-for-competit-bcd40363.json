@@ -3,24 +3,24 @@
   "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
   "title": "The Red Queen S Race Wardley Mapping For Competit Bcd40363",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:28.254Z",
+  "generatedAt": "2025-07-14T17:49:53.729Z",
   "summary": {
-    "overallScore": 13.379467308393203,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 29.380014616967458,
+    "readabilityGrade": "Poor",
     "wordCount": 39091,
     "estimatedReadingTime": 196
   },
   "readabilityMetrics": {
-    "fleschScore": -26.551331729016994,
+    "fleschScore": 13.450036542418644,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.929796324967942,
-    "fogIndex": 24.908878839297966,
-    "smogIndex": 17.1352336655283,
-    "ariIndex": 21.364706668638455,
-    "cliIndex": 0,
-    "avgSentenceLength": 11.943476932477848,
-    "avgSyllablesPerWord": 2.6154101967204726,
-    "complexWordRatio": 0.5032872016576706
+    "fleschKincaidGrade": 16.27043127660526,
+    "fogIndex": 20.5211099486444,
+    "smogIndex": 17.37942610429764,
+    "ariIndex": 16.76476435971871,
+    "cliIndex": 18.098530448693058,
+    "avgSentenceLength": 19.672166208371525,
+    "avgSyllablesPerWord": 2.0498547843508783,
+    "complexWordRatio": 0.31630608663239473
   },
   "sentenceAnalysis": {
     "totalSentences": 3273,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 97,
     "bulletPoints": 667,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -72,16 +72,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -26.6",
+      "issue": "Very low Flesch Reading Ease score: 13.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -96,33 +89,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 13.379467308393203,
-      "libraryAverage": 38.35,
+      "bookScore": 29.380014616967458,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -26.551331729016994,
-      "libraryAverage": 20.87,
+      "bookScore": 13.450036542418644,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 11.943476932477848,
-      "libraryAverage": 10.23,
+      "bookScore": 19.672166208371525,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2522575528894119,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

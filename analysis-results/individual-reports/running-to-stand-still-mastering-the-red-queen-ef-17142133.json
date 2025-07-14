@@ -3,24 +3,24 @@
   "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
   "title": "Running To Stand Still Mastering The Red Queen Ef 17142133",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:23.794Z",
+  "generatedAt": "2025-07-14T17:49:49.088Z",
   "summary": {
-    "overallScore": -6.967912815147475,
+    "overallScore": 5.035109337901655,
     "readabilityGrade": "Very Poor",
     "wordCount": 9822,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": -47.419782037868686,
+    "fleschScore": -17.41222665524586,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.307862341663796,
-    "fogIndex": 29.984075927908762,
-    "smogIndex": 22.59646979705129,
-    "ariIndex": 27.631689289849298,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.875278396436524,
-    "avgSyllablesPerWord": 2.742924048055386,
-    "complexWordRatio": 0.5308491142333537
+    "fleschKincaidGrade": 24.11405864529066,
+    "fogIndex": 28.262684325898558,
+    "smogIndex": 23.295195090588873,
+    "ariIndex": 26.1606529974973,
+    "cliIndex": 21.568339352551053,
+    "avgSentenceLength": 33.91759465478842,
+    "avgSyllablesPerWord": 2.2437454855867096,
+    "complexWordRatio": 0.36739116159957974
   },
   "sentenceAnalysis": {
     "totalSentences": 449,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 519,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -47.4",
+      "issue": "Very low Flesch Reading Ease score: -17.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.967912815147475,
-      "libraryAverage": 38.35,
+      "bookScore": 5.035109337901655,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -47.419782037868686,
-      "libraryAverage": 20.87,
+      "bookScore": -17.41222665524586,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.875278396436524,
-      "libraryAverage": 10.23,
+      "bookScore": 33.91759465478842,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34025656689065364,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

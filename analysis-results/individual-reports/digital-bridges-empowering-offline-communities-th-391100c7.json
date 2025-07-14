@@ -3,24 +3,24 @@
   "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
   "title": "Digital Bridges Empowering Offline Communities Th 391100c7",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:17.334Z",
+  "generatedAt": "2025-07-14T17:49:42.699Z",
   "summary": {
-    "overallScore": -11.993088635327002,
+    "overallScore": 0.07773445259893919,
     "readabilityGrade": "Very Poor",
     "wordCount": 9043,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": -59.9827215883175,
+    "fleschScore": -29.80566386850265,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 27.34208071191669,
-    "fogIndex": 32.15663123797272,
-    "smogIndex": 23.88733842891674,
-    "ariIndex": 30.128058205931005,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.010178117048348,
-    "avgSyllablesPerWord": 2.8778060378193078,
-    "complexWordRatio": 0.5738139997788344
+    "fleschKincaidGrade": 26.06671240273926,
+    "fogIndex": 30.186139344402523,
+    "smogIndex": 24.620472559792844,
+    "ariIndex": 28.526650357059715,
+    "cliIndex": 23.981797719964913,
+    "avgSentenceLength": 34.81933842239186,
+    "avgSyllablesPerWord": 2.379421221864952,
+    "complexWordRatio": 0.4064600993861444
   },
   "sentenceAnalysis": {
     "totalSentences": 393,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 529,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -60.0",
+      "issue": "Very low Flesch Reading Ease score: -29.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -11.993088635327002,
-      "libraryAverage": 38.35,
+      "bookScore": 0.07773445259893919,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -59.9827215883175,
-      "libraryAverage": 20.87,
+      "bookScore": -29.80566386850265,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.010178117048348,
-      "libraryAverage": 10.23,
+      "bookScore": 34.81933842239186,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34722990158133366,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

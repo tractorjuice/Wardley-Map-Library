@@ -3,24 +3,24 @@
   "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
   "title": "The AI Titans OpenAI Anthropic And Google S Race To Define The Future Of Artificial Intelligence 2946058b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.818Z",
+  "generatedAt": "2025-07-14T17:49:52.388Z",
   "summary": {
-    "overallScore": -4.852115551840324,
+    "overallScore": 7.4052602991855,
     "readabilityGrade": "Very Poor",
     "wordCount": 10627,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": -42.13028887960081,
+    "fleschScore": -11.48684925203625,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.1835387944521,
-    "fogIndex": 29.996549357214686,
-    "smogIndex": 22.169766990060676,
-    "ariIndex": 26.587826529020475,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.319311663479922,
-    "avgSyllablesPerWord": 2.6990684106521123,
-    "complexWordRatio": 0.5467206172955679
+    "fleschKincaidGrade": 22.685802098143025,
+    "fogIndex": 27.63451340335811,
+    "smogIndex": 22.78575273221255,
+    "ariIndex": 24.588338451623564,
+    "cliIndex": 21.05038368139873,
+    "avgSentenceLength": 31.495219885277248,
+    "avgSyllablesPerWord": 2.202768334142788,
+    "complexWordRatio": 0.3759106362311802
   },
   "sentenceAnalysis": {
     "totalSentences": 523,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 483,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -42.1",
+      "issue": "Very low Flesch Reading Ease score: -11.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -4.852115551840324,
-      "libraryAverage": 38.35,
+      "bookScore": 7.4052602991855,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -42.13028887960081,
-      "libraryAverage": 20.87,
+      "bookScore": -11.48684925203625,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.319311663479922,
-      "libraryAverage": 10.23,
+      "bookScore": 31.495219885277248,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3039427872400489,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
   "title": "Using Open Source As A Competitive Weapon 6b2baecc",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:28.869Z",
+  "generatedAt": "2025-07-14T17:49:54.426Z",
   "summary": {
-    "overallScore": 8.069210893735077,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.61933773025123,
+    "readabilityGrade": "Poor",
     "wordCount": 4291,
     "estimatedReadingTime": 22
   },
   "readabilityMetrics": {
-    "fleschScore": -24.826972765662305,
+    "fleschScore": 1.5483443256280793,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.38543439036872,
-    "fogIndex": 24.48602357207325,
-    "smogIndex": 18.08322540397927,
-    "ariIndex": 22.38031669417569,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.745704467353951,
-    "avgSyllablesPerWord": 2.5614075972966672,
-    "complexWordRatio": 0.46469354462829177
+    "fleschKincaidGrade": 19.503342320629873,
+    "fogIndex": 22.90831259079826,
+    "smogIndex": 19.418527138326425,
+    "ariIndex": 20.810193170108768,
+    "cliIndex": 19.563224527553853,
+    "avgSentenceLength": 26.00343642611684,
+    "avgSyllablesPerWord": 2.1145764503766356,
+    "complexWordRatio": 0.31267345050878814
   },
   "sentenceAnalysis": {
     "totalSentences": 291,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 277,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -24.8",
+      "issue": "Very low Flesch Reading Ease score: 1.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,24 +106,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.069210893735077,
-      "libraryAverage": 38.35,
+      "bookScore": 18.61933773025123,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -24.826972765662305,
-      "libraryAverage": 20.87,
+      "bookScore": 1.5483443256280793,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.745704467353951,
-      "libraryAverage": 10.23,
+      "bookScore": 26.00343642611684,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29060824982521555,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

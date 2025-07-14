@@ -3,24 +3,24 @@
   "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
   "title": "Secure By Design Implementing UK Government Security Standards In Modern Systems Fd3d8065",
   "category": "Government",
-  "generatedAt": "2025-07-14T17:23:23.973Z",
+  "generatedAt": "2025-07-14T17:49:49.304Z",
   "summary": {
-    "overallScore": -10.963780667160847,
+    "overallScore": 1.8191566598710658,
     "readabilityGrade": "Very Poor",
     "wordCount": 16625,
     "estimatedReadingTime": 84
   },
   "readabilityMetrics": {
-    "fleschScore": -57.40945166790212,
+    "fleschScore": -25.452108350322334,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 27.08385277983692,
-    "fogIndex": 32.329204701895584,
-    "smogIndex": 24.074129518268215,
-    "ariIndex": 29.686493546542415,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.41549295774648,
-    "avgSyllablesPerWord": 2.8425263157894736,
-    "complexWordRatio": 0.5740751879699248
+    "fleschKincaidGrade": 25.381196013701608,
+    "fogIndex": 30.06750775860979,
+    "smogIndex": 24.527880804417176,
+    "ariIndex": 27.582601287371553,
+    "cliIndex": 22.992170789452206,
+    "avgSentenceLength": 34.50422535211268,
+    "avgSyllablesPerWord": 2.331741366642175,
+    "complexWordRatio": 0.4066454404441179
   },
   "sentenceAnalysis": {
     "totalSentences": 710,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 63,
     "bulletPoints": 939,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,13 +81,6 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Writing Style",
       "priority": "Medium",
       "issue": "25.1% passive voice usage",
@@ -97,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -57.4",
+      "issue": "Very low Flesch Reading Ease score: -25.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -120,35 +113,30 @@
     },
     {
       "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    },
-    {
-      "priority": "Medium",
       "score": 6,
       "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -10.963780667160847,
-      "libraryAverage": 38.35,
+      "bookScore": 1.8191566598710658,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -57.40945166790212,
-      "libraryAverage": 20.87,
+      "bookScore": -25.452108350322334,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.41549295774648,
-      "libraryAverage": 10.23,
+      "bookScore": 34.50422535211268,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3021954887218045,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

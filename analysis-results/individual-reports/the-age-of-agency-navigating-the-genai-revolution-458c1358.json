@@ -3,24 +3,24 @@
   "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
   "title": "The Age Of Agency Navigating The GenAI Revolution 458c1358",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:27.045Z",
+  "generatedAt": "2025-07-14T17:49:52.563Z",
   "summary": {
-    "overallScore": 8.693752348212717,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 23.466348303971962,
+    "readabilityGrade": "Poor",
     "wordCount": 40956,
     "estimatedReadingTime": 205
   },
   "readabilityMetrics": {
-    "fleschScore": -23.265619129468206,
+    "fleschScore": 13.665870759929902,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.66619410993356,
-    "fogIndex": 23.924734385780837,
-    "smogIndex": 17.11371379812328,
-    "ariIndex": 20.652919886708894,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.727159726538222,
-    "avgSyllablesPerWord": 2.5671696454731907,
-    "complexWordRatio": 0.4708467623791386
+    "fleschKincaidGrade": 16.454244090773532,
+    "fogIndex": 20.3157276941696,
+    "smogIndex": 17.368117948727676,
+    "ariIndex": 16.90188402596916,
+    "cliIndex": 17.79531932925722,
+    "avgSentenceLength": 20.53325046612803,
+    "avgSyllablesPerWord": 2.036972577032508,
+    "complexWordRatio": 0.30256068769295963
   },
   "sentenceAnalysis": {
     "totalSentences": 3218,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 97,
     "bulletPoints": 703,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -23.3",
+      "issue": "Very low Flesch Reading Ease score: 13.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.693752348212717,
-      "libraryAverage": 38.35,
+      "bookScore": 23.466348303971962,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -23.265619129468206,
-      "libraryAverage": 20.87,
+      "bookScore": 13.665870759929902,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.727159726538222,
-      "libraryAverage": 10.23,
+      "bookScore": 20.53325046612803,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22878210762769802,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "First-Mover_Intelligence__Mastering_Early_Recognition_and_Strategic_Adaptation_in_a_Dynamic_World_0b7ec179",
   "title": "First-Mover Intelligence Mastering Early Recognition And Strategic Adaptation In A Dynamic World 0b7ec179",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:17.868Z",
+  "generatedAt": "2025-07-14T17:49:43.221Z",
   "summary": {
-    "overallScore": -3.3559080079747226,
+    "overallScore": 9.30685405793049,
     "readabilityGrade": "Very Poor",
     "wordCount": 9371,
     "estimatedReadingTime": 47
   },
   "readabilityMetrics": {
-    "fleschScore": -53.389770019936805,
+    "fleschScore": -21.732864855173773,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.83391885501103,
-    "fogIndex": 31.22938947930559,
-    "smogIndex": 22.798397814610052,
-    "ariIndex": 28.744292072694044,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.640969162995596,
-    "avgSyllablesPerWord": 2.828300074698538,
-    "complexWordRatio": 0.5743250453526838
+    "fleschKincaidGrade": 24.12595246357925,
+    "fogIndex": 28.686813706442845,
+    "smogIndex": 23.465037402097458,
+    "ariIndex": 26.465122342914576,
+    "cliIndex": 23.366966966966967,
+    "avgSentenceLength": 31.53964757709251,
+    "avgSyllablesPerWord": 2.32334660241637,
+    "complexWordRatio": 0.40177386689014594
   },
   "sentenceAnalysis": {
     "totalSentences": 454,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 44,
     "bulletPoints": 515,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -53.4",
+      "issue": "Very low Flesch Reading Ease score: -21.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -3.3559080079747226,
-      "libraryAverage": 38.35,
+      "bookScore": 9.30685405793049,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -53.389770019936805,
-      "libraryAverage": 20.87,
+      "bookScore": -21.732864855173773,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.640969162995596,
-      "libraryAverage": 10.23,
+      "bookScore": 31.53964757709251,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3578059972254829,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

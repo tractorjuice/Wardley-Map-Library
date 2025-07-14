@@ -3,24 +3,24 @@
   "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
   "title": "Navigating The AI Frontier Wardley Mapping For GenAI Startups Dff595a3-603e-48",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:22.502Z",
+  "generatedAt": "2025-07-14T17:49:47.845Z",
   "summary": {
-    "overallScore": 10.918362611637326,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.80747855539072,
+    "readabilityGrade": "Poor",
     "wordCount": 24107,
     "estimatedReadingTime": 121
   },
   "readabilityMetrics": {
-    "fleschScore": -17.704093470906685,
+    "fleschScore": 9.518696388476798,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.035622108748232,
-    "fogIndex": 23.07709207456898,
-    "smogIndex": 17.01446512779524,
-    "ariIndex": 20.757523677854692,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.3114301490889,
-    "avgSyllablesPerWord": 2.494420707678268,
-    "complexWordRatio": 0.44381300037333554
+    "fleschKincaidGrade": 17.9396088776986,
+    "fogIndex": 21.48623175844653,
+    "smogIndex": 18.39604492648032,
+    "ariIndex": 19.413941032624457,
+    "cliIndex": 18.87026417334521,
+    "avgSentenceLength": 24.18387631143015,
+    "avgSyllablesPerWord": 2.0421946708678678,
+    "complexWordRatio": 0.2953170308468617
   },
   "sentenceAnalysis": {
     "totalSentences": 1811,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 80,
     "bulletPoints": 738,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.7",
+      "issue": "Very low Flesch Reading Ease score: 9.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 10.918362611637326,
-      "libraryAverage": 38.35,
+      "bookScore": 21.80747855539072,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -17.704093470906685,
-      "libraryAverage": 20.87,
+      "bookScore": 9.518696388476798,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.3114301490889,
-      "libraryAverage": 10.23,
+      "bookScore": 24.18387631143015,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2830713070892272,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

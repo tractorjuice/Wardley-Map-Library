@@ -3,24 +3,24 @@
   "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
   "title": "Strategic AI Advantage A Comprehensive Framework Cde800e0-3f4d-47",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:25.226Z",
+  "generatedAt": "2025-07-14T17:49:50.560Z",
   "summary": {
-    "overallScore": -13.94112281927336,
+    "overallScore": -1.2096247434468523,
     "readabilityGrade": "Very Poor",
     "wordCount": 139440,
     "estimatedReadingTime": 698
   },
   "readabilityMetrics": {
-    "fleschScore": -64.8528070481834,
+    "fleschScore": -33.02406185861713,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 28.58732293545393,
-    "fogIndex": 33.93490673404016,
-    "smogIndex": 25.29789819133405,
-    "ariIndex": 31.367300012501424,
-    "cliIndex": 0,
-    "avgSentenceLength": 25.28835690968444,
-    "avgSyllablesPerWord": 2.9080393000573723,
-    "complexWordRatio": 0.5954890992541595
+    "fleschKincaidGrade": 26.49160802085407,
+    "fogIndex": 31.404921070653828,
+    "smogIndex": 25.405098999982588,
+    "ariIndex": 29.279902493905098,
+    "cliIndex": 24.980116054966803,
+    "avgSentenceLength": 34.72270583968081,
+    "avgSyllablesPerWord": 2.4186231138456398,
+    "complexWordRatio": 0.4378959683695374
   },
   "sentenceAnalysis": {
     "totalSentences": 5514,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 150,
     "bulletPoints": 1302,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -64.9",
+      "issue": "Very low Flesch Reading Ease score: -33.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,24 +112,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -13.94112281927336,
-      "libraryAverage": 38.35,
+      "bookScore": -1.2096247434468523,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -64.8528070481834,
-      "libraryAverage": 20.87,
+      "bookScore": -33.02406185861713,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 25.28835690968444,
-      "libraryAverage": 10.23,
+      "bookScore": 34.72270583968081,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.33421543316121627,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

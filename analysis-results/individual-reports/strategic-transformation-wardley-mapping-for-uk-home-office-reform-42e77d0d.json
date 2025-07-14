@@ -3,24 +3,24 @@
   "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
   "title": "Strategic Transformation Wardley Mapping For UK Home Office Reform 42e77d0d",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:25.874Z",
+  "generatedAt": "2025-07-14T17:49:51.281Z",
   "summary": {
-    "overallScore": -8.130164053660884,
+    "overallScore": 4.0315278700192145,
     "readabilityGrade": "Very Poor",
     "wordCount": 14526,
     "estimatedReadingTime": 73
   },
   "readabilityMetrics": {
-    "fleschScore": -50.32541013415221,
+    "fleschScore": -19.921180324951962,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.882224621005125,
-    "fogIndex": 31.131681465575117,
-    "smogIndex": 23.300346240411233,
-    "ariIndex": 28.858980876440874,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.555900621118013,
-    "avgSyllablesPerWord": 2.769103676166873,
-    "complexWordRatio": 0.5527330304281978
+    "fleschKincaidGrade": 24.497980568502395,
+    "fogIndex": 29.07383889788725,
+    "smogIndex": 23.84934926407058,
+    "ariIndex": 27.047929920521476,
+    "cliIndex": 22.594165336737955,
+    "avgSentenceLength": 34.05434782608695,
+    "avgSyllablesPerWord": 2.2717614335871597,
+    "complexWordRatio": 0.38630249418631163
   },
   "sentenceAnalysis": {
     "totalSentences": 644,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 64,
     "bulletPoints": 779,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -50.3",
+      "issue": "Very low Flesch Reading Ease score: -19.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.130164053660884,
-      "libraryAverage": 38.35,
+      "bookScore": 4.0315278700192145,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -50.32541013415221,
-      "libraryAverage": 20.87,
+      "bookScore": -19.921180324951962,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.555900621118013,
-      "libraryAverage": 10.23,
+      "bookScore": 34.05434782608695,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.31619165634035523,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
   "title": "The Creative Revolution How Generative AI Is Transforming Human Potential 78de33e7",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:27.597Z",
+  "generatedAt": "2025-07-14T17:49:53.107Z",
   "summary": {
-    "overallScore": -5.0513538959428494,
+    "overallScore": 6.938692830129105,
     "readabilityGrade": "Very Poor",
     "wordCount": 13056,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": -42.628384739857125,
+    "fleschScore": -12.653267924677237,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.674732365754057,
-    "fogIndex": 29.364343401778925,
-    "smogIndex": 22.345801723409135,
-    "ariIndex": 27.55749650099817,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.016863406408095,
-    "avgSyllablesPerWord": 2.6845894607843137,
-    "complexWordRatio": 0.5139399509803921
+    "fleschKincaidGrade": 23.398275726185663,
+    "fogIndex": 27.75515474489047,
+    "smogIndex": 22.940869035355895,
+    "ariIndex": 25.85757893063782,
+    "cliIndex": 21.315225373955673,
+    "avgSentenceLength": 33.70826306913997,
+    "avgSyllablesPerWord": 2.190004502476362,
+    "complexWordRatio": 0.35679623793086196
   },
   "sentenceAnalysis": {
     "totalSentences": 593,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 563,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -42.6",
+      "issue": "Very low Flesch Reading Ease score: -12.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -5.0513538959428494,
-      "libraryAverage": 38.35,
+      "bookScore": 6.938692830129105,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -42.628384739857125,
-      "libraryAverage": 20.87,
+      "bookScore": -12.653267924677237,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.016863406408095,
-      "libraryAverage": 10.23,
+      "bookScore": 33.70826306913997,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32107843137254904,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

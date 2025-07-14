@@ -3,24 +3,24 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
   "title": "Oceans Of Change Advancing SDG 14 Through Science Innovation And Community Action 8eea52bb-8996-4ffa-9956-F609622bd264",
   "category": "Data Science",
-  "generatedAt": "2025-07-14T17:23:22.590Z",
+  "generatedAt": "2025-07-14T17:49:47.965Z",
   "summary": {
-    "overallScore": 0.7508651083548212,
+    "overallScore": 4.714692695354574,
     "readabilityGrade": "Very Poor",
     "wordCount": 4453,
     "estimatedReadingTime": 23
   },
   "readabilityMetrics": {
-    "fleschScore": -28.122837229112946,
+    "fleschScore": -18.213268261613564,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 18.94064003581659,
-    "fogIndex": 23.581852644311528,
-    "smogIndex": 14.076868442165509,
-    "ariIndex": 20.007634691533582,
-    "cliIndex": 0,
-    "avgSentenceLength": 7.079491255961845,
-    "avgSyllablesPerWord": 2.6923422411857176,
-    "complexWordRatio": 0.5187514035481697
+    "fleschKincaidGrade": 23.40065689640858,
+    "fogIndex": 27.567130561857994,
+    "smogIndex": 22.690531149912072,
+    "ariIndex": 25.429375140488247,
+    "cliIndex": 22.633905949597295,
+    "avgSentenceLength": 30.596184419713833,
+    "avgSyllablesPerWord": 2.293063133281372,
+    "complexWordRatio": 0.3832164198493115
   },
   "sentenceAnalysis": {
     "totalSentences": 629,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 639,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -83,7 +83,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -28.1",
+      "issue": "Very low Flesch Reading Ease score: -18.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,24 +107,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.7508651083548212,
-      "libraryAverage": 38.35,
+      "bookScore": 4.714692695354574,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -28.122837229112946,
-      "libraryAverage": 20.87,
+      "bookScore": -18.213268261613564,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 7.079491255961845,
-      "libraryAverage": 10.23,
-      "comparison": "Better"
+      "bookScore": 30.596184419713833,
+      "libraryAverage": 18.69,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3406692117673479,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

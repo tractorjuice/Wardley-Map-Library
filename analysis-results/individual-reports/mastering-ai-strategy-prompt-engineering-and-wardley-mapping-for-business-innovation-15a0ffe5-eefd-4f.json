@@ -3,24 +3,24 @@
   "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
   "title": "Mastering AI Strategy Prompt Engineering And Wardley Mapping For Business Innovation 15a0ffe5-Eefd-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:21.773Z",
+  "generatedAt": "2025-07-14T17:49:47.064Z",
   "summary": {
-    "overallScore": 5.921225515759874,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.360844283411257,
+    "readabilityGrade": "Poor",
     "wordCount": 36386,
     "estimatedReadingTime": 182
   },
   "readabilityMetrics": {
-    "fleschScore": -30.196936210600313,
+    "fleschScore": 3.4021107085281415,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.74105384477635,
-    "fogIndex": 26.635359195521303,
-    "smogIndex": 19.775447493088443,
-    "ariIndex": 23.64225264140871,
-    "cliIndex": 0,
-    "avgSentenceLength": 17.187529522909777,
-    "avgSyllablesPerWord": 2.595586214478096,
-    "complexWordRatio": 0.49400868465893477
+    "fleschKincaidGrade": 19.44470964663265,
+    "fogIndex": 23.878539375988574,
+    "smogIndex": 20.09193758756775,
+    "ariIndex": 20.81255830540851,
+    "cliIndex": 19.098000810529843,
+    "avgSentenceLength": 26.80821917808219,
+    "avgSyllablesPerWord": 2.0830088277271686,
+    "complexWordRatio": 0.3288812926188924
   },
   "sentenceAnalysis": {
     "totalSentences": 2117,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 18,
+    "subheaders": 78,
     "bulletPoints": 980,
     "numberedLists": 101,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.2",
+      "issue": "Very low Flesch Reading Ease score: 3.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.921225515759874,
-      "libraryAverage": 38.35,
+      "bookScore": 19.360844283411257,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -30.196936210600313,
-      "libraryAverage": 20.87,
+      "bookScore": 3.4021107085281415,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 17.187529522909777,
-      "libraryAverage": 10.23,
+      "bookScore": 26.80821917808219,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2750233606332106,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

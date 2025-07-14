@@ -3,24 +3,24 @@
   "directory": "AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c",
   "title": "AI Supremacy The Battle Between OpenAI Anthropic 8cd4825c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:13.818Z",
+  "generatedAt": "2025-07-14T17:49:38.929Z",
   "summary": {
-    "overallScore": 14.200291045606253,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.7878880783627,
+    "readabilityGrade": "Poor",
     "wordCount": 1450,
     "estimatedReadingTime": 8
   },
   "readabilityMetrics": {
-    "fleschScore": -9.49927238598437,
+    "fleschScore": 4.469720195906746,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 15.310534760845385,
-    "fogIndex": 20.45211345939933,
-    "smogIndex": 9.910864200067898,
-    "ariIndex": 15.678272858731923,
-    "cliIndex": 0,
-    "avgSentenceLength": 2.9233870967741935,
-    "avgSyllablesPerWord": 2.5220689655172412,
-    "complexWordRatio": 0.4820689655172414
+    "fleschKincaidGrade": 19.024393746601593,
+    "fogIndex": 23.100088832968726,
+    "smogIndex": 19.525680240669384,
+    "ariIndex": 19.883943655871825,
+    "cliIndex": 18.57374206193649,
+    "avgSentenceLength": 25.715725806451612,
+    "avgSyllablesPerWord": 2.083496667973344,
+    "complexWordRatio": 0.3203449627597021
   },
   "sentenceAnalysis": {
     "totalSentences": 496,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 66,
     "bulletPoints": 349,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -9.5",
+      "issue": "Very low Flesch Reading Ease score: 4.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,24 +106,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 14.200291045606253,
-      "libraryAverage": 38.35,
+      "bookScore": 19.7878880783627,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -9.49927238598437,
-      "libraryAverage": 20.87,
+      "bookScore": 4.469720195906746,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 2.9233870967741935,
-      "libraryAverage": 10.23,
-      "comparison": "Better"
+      "bookScore": 25.715725806451612,
+      "libraryAverage": 18.69,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3524137931034483,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

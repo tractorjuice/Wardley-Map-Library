@@ -3,24 +3,24 @@
   "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
   "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:13.798Z",
+  "generatedAt": "2025-07-14T17:49:38.898Z",
   "summary": {
-    "overallScore": 3.2309068276936035,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.142343708291367,
+    "readabilityGrade": "Poor",
     "wordCount": 25438,
     "estimatedReadingTime": 128
   },
   "readabilityMetrics": {
-    "fleschScore": -36.92273293076599,
+    "fleschScore": -4.644140729271584,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.035593106864372,
-    "fogIndex": 27.64703068707691,
-    "smogIndex": 20.647185449779283,
-    "ariIndex": 25.147673884437772,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.62225475841874,
-    "avgSyllablesPerWord": 2.6578740467017847,
-    "complexWordRatio": 0.5049532195927353
+    "fleschKincaidGrade": 21.015838426519974,
+    "fogIndex": 25.15862202881631,
+    "smogIndex": 21.021639526781076,
+    "ariIndex": 22.630549588824316,
+    "cliIndex": 20.309550757265658,
+    "avgSentenceLength": 28.61493411420205,
+    "avgSyllablesPerWord": 2.156441874744167,
+    "complexWordRatio": 0.3428162095783872
   },
   "sentenceAnalysis": {
     "totalSentences": 1366,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 17,
+    "subheaders": 60,
     "bulletPoints": 797,
     "numberedLists": 52,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -36.9",
+      "issue": "Very low Flesch Reading Ease score: -4.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 3.2309068276936035,
-      "libraryAverage": 38.35,
+      "bookScore": 16.142343708291367,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -36.92273293076599,
-      "libraryAverage": 20.87,
+      "bookScore": -4.644140729271584,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.62225475841874,
-      "libraryAverage": 10.23,
+      "bookScore": 28.61493411420205,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27156222973504207,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

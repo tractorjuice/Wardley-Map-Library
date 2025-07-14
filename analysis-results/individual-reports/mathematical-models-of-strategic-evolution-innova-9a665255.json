@@ -3,24 +3,24 @@
   "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
   "title": "Mathematical Models Of Strategic Evolution Innova 9a665255",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:22.284Z",
+  "generatedAt": "2025-07-14T17:49:47.595Z",
   "summary": {
-    "overallScore": -8.639640391260684,
+    "overallScore": 0.5722643140250838,
     "readabilityGrade": "Very Poor",
     "wordCount": 6199,
     "estimatedReadingTime": 31
   },
   "readabilityMetrics": {
-    "fleschScore": -51.59910097815171,
+    "fleschScore": -28.569339214937287,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.691200108676274,
-    "fogIndex": 31.803667171079578,
-    "smogIndex": 24.2398970063405,
-    "ariIndex": 29.534069364720573,
-    "cliIndex": 0,
-    "avgSentenceLength": 25.097165991902834,
-    "avgSyllablesPerWord": 2.753669946765607,
-    "complexWordRatio": 0.544120019357961
+    "fleschKincaidGrade": 26.817198106634525,
+    "fogIndex": 31.089327275062885,
+    "smogIndex": 25.328992684935933,
+    "ariIndex": 29.528014420577925,
+    "cliIndex": 22.994902290397146,
+    "avgSentenceLength": 38.534412955465584,
+    "avgSyllablesPerWord": 2.3202353435595713,
+    "complexWordRatio": 0.39188905232191634
   },
   "sentenceAnalysis": {
     "totalSentences": 247,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 450,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -51.6",
+      "issue": "Very low Flesch Reading Ease score: -28.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.639640391260684,
-      "libraryAverage": 38.35,
+      "bookScore": 0.5722643140250838,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -51.59910097815171,
-      "libraryAverage": 20.87,
+      "bookScore": -28.569339214937287,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 25.097165991902834,
-      "libraryAverage": 10.23,
+      "bookScore": 38.534412955465584,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3616712372963381,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

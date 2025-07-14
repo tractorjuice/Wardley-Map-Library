@@ -3,24 +3,24 @@
   "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
   "title": "The GenAI Revolution Transforming Work And Learning In The Digital Age F9fdd2ef",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:27.670Z",
+  "generatedAt": "2025-07-14T17:49:53.193Z",
   "summary": {
-    "overallScore": -7.718981623550395,
+    "overallScore": 4.390923745143914,
     "readabilityGrade": "Very Poor",
     "wordCount": 10325,
     "estimatedReadingTime": 52
   },
   "readabilityMetrics": {
-    "fleschScore": -49.297454058875985,
+    "fleschScore": -19.022690637140215,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.535368421052635,
-    "fogIndex": 30.141710207722696,
-    "smogIndex": 22.631864280184004,
-    "ariIndex": 28.33503800178412,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.736842105263158,
-    "avgSyllablesPerWord": 2.7667796610169493,
-    "complexWordRatio": 0.5361743341404358
+    "fleschKincaidGrade": 24.138972228970292,
+    "fogIndex": 28.27757998467464,
+    "smogIndex": 23.281585189307627,
+    "ariIndex": 26.52384763644759,
+    "cliIndex": 22.502371415856064,
+    "avgSentenceLength": 33.113684210526316,
+    "avgSyllablesPerWord": 2.272426727700426,
+    "complexWordRatio": 0.37580265751160274
   },
   "sentenceAnalysis": {
     "totalSentences": 475,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 475,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -49.3",
+      "issue": "Very low Flesch Reading Ease score: -19.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -7.718981623550395,
-      "libraryAverage": 38.35,
+      "bookScore": 4.390923745143914,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -49.297454058875985,
-      "libraryAverage": 20.87,
+      "bookScore": -19.022690637140215,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.736842105263158,
-      "libraryAverage": 10.23,
+      "bookScore": 33.113684210526316,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3639709443099274,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

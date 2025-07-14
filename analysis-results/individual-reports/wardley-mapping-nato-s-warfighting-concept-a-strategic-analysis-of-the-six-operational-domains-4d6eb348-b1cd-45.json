@@ -3,24 +3,24 @@
   "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
   "title": "Wardley Mapping NATO S Warfighting Concept A Strategic Analysis Of The Six Operational Domains 4d6eb348-B1cd-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:29.119Z",
+  "generatedAt": "2025-07-14T17:49:54.691Z",
   "summary": {
-    "overallScore": 5.4297253876053215,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.368790748205868,
+    "readabilityGrade": "Poor",
     "wordCount": 23280,
     "estimatedReadingTime": 117
   },
   "readabilityMetrics": {
-    "fleschScore": -31.425686530986695,
+    "fleschScore": -1.5780231294853309,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.120269799745007,
-    "fogIndex": 25.0032990104002,
-    "smogIndex": 18.015972719971693,
-    "ariIndex": 22.544921872965887,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.998797354179194,
-    "avgSyllablesPerWord": 2.6483676975945016,
-    "complexWordRatio": 0.48509450171821306
+    "fleschKincaidGrade": 19.86684906851203,
+    "fogIndex": 23.28515407454565,
+    "smogIndex": 19.643368445530378,
+    "ariIndex": 21.182466261267564,
+    "cliIndex": 20.197354413209222,
+    "avgSentenceLength": 25.711365003006616,
+    "avgSyllablesPerWord": 2.1550353150287664,
+    "complexWordRatio": 0.325015201833575
   },
   "sentenceAnalysis": {
     "totalSentences": 1663,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 19,
+    "subheaders": 71,
     "bulletPoints": 573,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -31.4",
+      "issue": "Very low Flesch Reading Ease score: -1.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.4297253876053215,
-      "libraryAverage": 38.35,
+      "bookScore": 17.368790748205868,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -31.425686530986695,
-      "libraryAverage": 20.87,
+      "bookScore": -1.5780231294853309,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.998797354179194,
-      "libraryAverage": 10.23,
+      "bookScore": 25.711365003006616,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29196735395189005,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

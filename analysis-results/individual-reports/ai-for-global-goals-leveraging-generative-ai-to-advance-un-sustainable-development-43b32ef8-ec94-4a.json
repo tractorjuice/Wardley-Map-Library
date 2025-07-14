@@ -3,24 +3,24 @@
   "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
   "title": "AI For Global Goals Leveraging Generative AI To Advance UN Sustainable Development 43b32ef8-Ec94-4a",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:14.306Z",
+  "generatedAt": "2025-07-14T17:49:39.452Z",
   "summary": {
-    "overallScore": -8.333024200823004,
+    "overallScore": 1.4366967065213654,
     "readabilityGrade": "Very Poor",
     "wordCount": 11027,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": -50.832560502057504,
+    "fleschScore": -26.408258233696586,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.73140062532705,
-    "fogIndex": 30.702437578203742,
-    "smogIndex": 22.865102239084273,
-    "ariIndex": 28.249806290792222,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.664047151277014,
-    "avgSyllablesPerWord": 2.7857984946041534,
-    "complexWordRatio": 0.5509204679423234
+    "fleschKincaidGrade": 25.55963267806501,
+    "fogIndex": 29.64543290162518,
+    "smogIndex": 24.255323086621456,
+    "ariIndex": 28.372479034139943,
+    "cliIndex": 23.869496459926363,
+    "avgSentenceLength": 34.68565815324165,
+    "avgSyllablesPerWord": 2.3408666100254885,
+    "complexWordRatio": 0.394279241008213
   },
   "sentenceAnalysis": {
     "totalSentences": 509,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 6,
-    "subheaders": 13,
+    "subheaders": 44,
     "bulletPoints": 557,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -50.8",
+      "issue": "Very low Flesch Reading Ease score: -26.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.333024200823004,
-      "libraryAverage": 38.35,
+      "bookScore": 1.4366967065213654,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -50.832560502057504,
-      "libraryAverage": 20.87,
+      "bookScore": -26.408258233696586,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.664047151277014,
-      "libraryAverage": 10.23,
+      "bookScore": 34.68565815324165,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3353586650947674,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

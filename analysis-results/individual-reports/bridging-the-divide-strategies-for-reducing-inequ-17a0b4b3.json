@@ -3,24 +3,24 @@
   "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
   "title": "Bridging The Divide Strategies For Reducing Inequ 17a0b4b3",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:15.247Z",
+  "generatedAt": "2025-07-14T17:49:40.592Z",
   "summary": {
-    "overallScore": 4.190704785736932,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.394367808753124,
+    "readabilityGrade": "Poor",
     "wordCount": 9544,
     "estimatedReadingTime": 48
   },
   "readabilityMetrics": {
-    "fleschScore": -34.52323803565767,
+    "fleschScore": 0.9859195218828063,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.55115770636632,
-    "fogIndex": 26.12992554318569,
-    "smogIndex": 18.44020265178474,
-    "ariIndex": 22.813771136861412,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.994134897360704,
-    "avgSyllablesPerWord": 2.685037720033529,
-    "complexWordRatio": 0.5133067896060352
+    "fleschKincaidGrade": 18.87717795760793,
+    "fogIndex": 22.861798878948736,
+    "smogIndex": 19.159335082603096,
+    "ariIndex": 19.487636573369464,
+    "cliIndex": 19.543192405063284,
+    "avgSentenceLength": 23.167155425219942,
+    "avgSyllablesPerWord": 2.155253164556962,
+    "complexWordRatio": 0.33987341772151897
   },
   "sentenceAnalysis": {
     "totalSentences": 682,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 76,
     "bulletPoints": 407,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -34.5",
+      "issue": "Very low Flesch Reading Ease score: 1.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 4.190704785736932,
-      "libraryAverage": 38.35,
+      "bookScore": 18.394367808753124,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -34.52323803565767,
-      "libraryAverage": 20.87,
+      "bookScore": 0.9859195218828063,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.994134897360704,
-      "libraryAverage": 10.23,
+      "bookScore": 23.167155425219942,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23396898575020955,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

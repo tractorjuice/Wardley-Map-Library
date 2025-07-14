@@ -3,24 +3,24 @@
   "directory": "Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4",
   "title": "Digital Darwinism How GenAI Challenges The Surviv 7d84aea4",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:17.370Z",
+  "generatedAt": "2025-07-14T17:49:42.743Z",
   "summary": {
-    "overallScore": -4.019544001191047,
+    "overallScore": 7.432916869520454,
     "readabilityGrade": "Very Poor",
     "wordCount": 10039,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": -40.04886000297762,
+    "fleschScore": -11.417707826198864,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.208708732716605,
-    "fogIndex": 28.538079639941863,
-    "smogIndex": 21.852564242116266,
-    "ariIndex": 27.040401123789266,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.589247311827958,
-    "avgSyllablesPerWord": 2.6592290068731947,
-    "complexWordRatio": 0.497559517880267
+    "fleschKincaidGrade": 23.24285314426786,
+    "fogIndex": 27.21994805080998,
+    "smogIndex": 22.566163310310852,
+    "ariIndex": 25.656931115976498,
+    "cliIndex": 21.02400865911117,
+    "avgSentenceLength": 33.7763440860215,
+    "avgSyllablesPerWord": 2.174582961925379,
+    "complexWordRatio": 0.3427352604100344
   },
   "sentenceAnalysis": {
     "totalSentences": 465,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 52,
     "bulletPoints": 490,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -40.0",
+      "issue": "Very low Flesch Reading Ease score: -11.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -4.019544001191047,
-      "libraryAverage": 38.35,
+      "bookScore": 7.432916869520454,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -40.04886000297762,
-      "libraryAverage": 20.87,
+      "bookScore": -11.417707826198864,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.589247311827958,
-      "libraryAverage": 10.23,
+      "bookScore": 33.7763440860215,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.33409702161569876,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

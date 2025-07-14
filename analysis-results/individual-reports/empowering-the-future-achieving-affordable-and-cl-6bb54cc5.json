@@ -3,24 +3,24 @@
   "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
   "title": "Empowering The Future Achieving Affordable And Cl 6bb54cc5",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:17.779Z",
+  "generatedAt": "2025-07-14T17:49:43.145Z",
   "summary": {
-    "overallScore": 4.189100798144761,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.05374171673858,
+    "readabilityGrade": "Poor",
     "wordCount": 9875,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": -34.527248004638096,
+    "fleschScore": -2.3656457081535507,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.820565929075276,
-    "fogIndex": 28.179395110638712,
-    "smogIndex": 19.634974501785788,
-    "ariIndex": 22.945853002222435,
-    "cliIndex": 0,
-    "avgSentenceLength": 15.076335877862595,
-    "avgSyllablesPerWord": 2.6721012658227847,
-    "complexWordRatio": 0.5537215189873418
+    "fleschKincaidGrade": 19.654340455819376,
+    "fogIndex": 24.56632164752979,
+    "smogIndex": 20.299288793104157,
+    "ariIndex": 20.357590634235578,
+    "cliIndex": 19.916365455568762,
+    "avgSentenceLength": 24.413740458015265,
+    "avgSyllablesPerWord": 2.1799137014570698,
+    "complexWordRatio": 0.37002063660809204
   },
   "sentenceAnalysis": {
     "totalSentences": 655,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 67,
     "bulletPoints": 369,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -34.5",
+      "issue": "Very low Flesch Reading Ease score: -2.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 4.189100798144761,
-      "libraryAverage": 38.35,
+      "bookScore": 17.05374171673858,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -34.527248004638096,
-      "libraryAverage": 20.87,
+      "bookScore": -2.3656457081535507,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 15.076335877862595,
-      "libraryAverage": 10.23,
+      "bookScore": 24.413740458015265,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24962025316455697,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

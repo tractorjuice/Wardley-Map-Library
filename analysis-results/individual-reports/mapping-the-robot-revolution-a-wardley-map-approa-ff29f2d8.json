@@ -3,24 +3,24 @@
   "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
   "title": "Mapping The Robot Revolution A Wardley Map Approa Ff29f2d8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:21.533Z",
+  "generatedAt": "2025-07-14T17:49:46.868Z",
   "summary": {
-    "overallScore": 13.133762590873777,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 27.75984912057836,
+    "readabilityGrade": "Poor",
     "wordCount": 28642,
     "estimatedReadingTime": 144
   },
   "readabilityMetrics": {
-    "fleschScore": -27.165593522815556,
+    "fleschScore": 9.3996228014459,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.120691449890796,
-    "fogIndex": 25.075287483783793,
-    "smogIndex": 17.38034648534332,
-    "ariIndex": 21.454736405913316,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.367012089810018,
-    "avgSyllablesPerWord": 2.617589553802109,
-    "complexWordRatio": 0.5032120661964946
+    "fleschKincaidGrade": 16.900413973835246,
+    "fogIndex": 21.02705488780257,
+    "smogIndex": 17.699606192287277,
+    "ariIndex": 17.53253977422134,
+    "cliIndex": 18.9133874845669,
+    "avgSentenceLength": 19.933937823834196,
+    "avgSyllablesPerWord": 2.0945913747915177,
+    "complexWordRatio": 0.32633699395672233
   },
   "sentenceAnalysis": {
     "totalSentences": 2316,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 96,
     "bulletPoints": 566,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -72,16 +72,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -27.2",
+      "issue": "Very low Flesch Reading Ease score: 9.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -96,33 +89,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 13.133762590873777,
-      "libraryAverage": 38.35,
+      "bookScore": 27.75984912057836,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -27.165593522815556,
-      "libraryAverage": 20.87,
+      "bookScore": 9.3996228014459,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.367012089810018,
-      "libraryAverage": 10.23,
+      "bookScore": 19.933937823834196,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23643600307241114,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

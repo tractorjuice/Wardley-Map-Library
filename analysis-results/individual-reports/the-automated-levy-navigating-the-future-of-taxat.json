@@ -3,24 +3,24 @@
   "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
   "title": "The Automated Levy Navigating The Future Of Taxat",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:27.520Z",
+  "generatedAt": "2025-07-14T17:49:53.008Z",
   "summary": {
-    "overallScore": 25.28089465284819,
-    "readabilityGrade": "Poor",
+    "overallScore": 36.33141848868932,
+    "readabilityGrade": "Below Average",
     "wordCount": 66129,
     "estimatedReadingTime": 331
   },
   "readabilityMetrics": {
-    "fleschScore": 3.2022366321204743,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 14.1900818092635,
-    "fogIndex": 18.152101777214554,
-    "smogIndex": 11.61918311963936,
-    "ariIndex": 14.05611642443975,
-    "cliIndex": 0,
-    "avgSentenceLength": 5.544478913389788,
-    "avgSyllablesPerWord": 2.340486019749278,
-    "complexWordRatio": 0.398357755296466
+    "fleschScore": 30.828546221723315,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 11.085448003340627,
+    "fogIndex": 14.17853367009094,
+    "smogIndex": 11.795040619176568,
+    "ariIndex": 10.196531221030618,
+    "cliIndex": 14.882080818374224,
+    "avgSentenceLength": 8.558155136268343,
+    "avgSyllablesPerWord": 1.9777769067962687,
+    "complexWordRatio": 0.26888179038959004
   },
   "sentenceAnalysis": {
     "totalSentences": 11925,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 17,
+    "subheaders": 762,
     "bulletPoints": 1300,
     "numberedLists": 0,
     "codeBlocks": 0,
@@ -63,54 +63,28 @@
     "examples": 168,
     "definitions": 193
   },
-  "recommendations": [
-    {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 3.2",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
-    }
-  ],
-  "improvementPriorities": [
-    {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    }
-  ],
+  "recommendations": [],
+  "improvementPriorities": [],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 25.28089465284819,
-      "libraryAverage": 38.35,
+      "bookScore": 36.33141848868932,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 30
     },
     "fleschScore": {
-      "bookScore": 3.2022366321204743,
-      "libraryAverage": 20.87,
+      "bookScore": 30.828546221723315,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 5.544478913389788,
-      "libraryAverage": 10.23,
+      "bookScore": 8.558155136268343,
+      "libraryAverage": 18.69,
       "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.14285714285714285,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

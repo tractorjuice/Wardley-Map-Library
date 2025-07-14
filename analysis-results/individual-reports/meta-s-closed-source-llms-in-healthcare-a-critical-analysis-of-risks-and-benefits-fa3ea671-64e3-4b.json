@@ -3,24 +3,24 @@
   "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
   "title": "Meta S Closed-Source LLMs In Healthcare A Critical Analysis Of Risks And Benefits Fa3ea671-64e3-4b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:22.331Z",
+  "generatedAt": "2025-07-14T17:49:47.649Z",
   "summary": {
-    "overallScore": -5.947659161631304,
+    "overallScore": 4.334633962018586,
     "readabilityGrade": "Very Poor",
     "wordCount": 13039,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": -44.86914790407826,
+    "fleschScore": -19.163415094953535,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.44054511821096,
-    "fogIndex": 29.23175859375346,
-    "smogIndex": 21.688678719196254,
-    "ariIndex": 27.60620180841623,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.816109422492403,
-    "avgSyllablesPerWord": 2.7374798680880437,
-    "complexWordRatio": 0.5326328706189125
+    "fleschKincaidGrade": 23.832093638636632,
+    "fogIndex": 27.950114323134414,
+    "smogIndex": 23.007407183695538,
+    "ariIndex": 26.675930516229236,
+    "cliIndex": 23.47567386732938,
+    "avgSentenceLength": 31.799392097264437,
+    "avgSyllablesPerWord": 2.2898585356528387,
+    "complexWordRatio": 0.3807589371057159
   },
   "sentenceAnalysis": {
     "totalSentences": 658,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 15,
+    "subheaders": 52,
     "bulletPoints": 726,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -44.9",
+      "issue": "Very low Flesch Reading Ease score: -19.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -5.947659161631304,
-      "libraryAverage": 38.35,
+      "bookScore": 4.334633962018586,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -44.86914790407826,
-      "libraryAverage": 20.87,
+      "bookScore": -19.163415094953535,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.816109422492403,
-      "libraryAverage": 10.23,
+      "bookScore": 31.799392097264437,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3301633560855894,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

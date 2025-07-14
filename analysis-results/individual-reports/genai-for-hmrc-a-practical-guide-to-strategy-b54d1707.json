@@ -3,24 +3,24 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
   "title": "GenAI For HMRC A Practical Guide To Strategy B54d1707",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:18.471Z",
+  "generatedAt": "2025-07-14T17:49:43.864Z",
   "summary": {
-    "overallScore": 16.870842962154903,
-    "readabilityGrade": "Poor",
+    "overallScore": 30.09918863550015,
+    "readabilityGrade": "Below Average",
     "wordCount": 34453,
     "estimatedReadingTime": 173
   },
   "readabilityMetrics": {
-    "fleschScore": -17.82289259461274,
+    "fleschScore": 15.247971588750374,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 18.73585780640852,
-    "fogIndex": 23.075472687926187,
-    "smogIndex": 16.52114411650621,
-    "ariIndex": 19.97850043962503,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.038085255066386,
-    "avgSyllablesPerWord": 2.5111020810959856,
-    "complexWordRatio": 0.45650596464749077
+    "fleschKincaidGrade": 15.885915872009026,
+    "fogIndex": 19.618978864653087,
+    "smogIndex": 16.796324436002617,
+    "ariIndex": 16.481287175345308,
+    "cliIndex": 18.038336772520584,
+    "avgSentenceLength": 19.13382250174703,
+    "avgSyllablesPerWord": 2.035061448841329,
+    "complexWordRatio": 0.29913624659885685
   },
   "sentenceAnalysis": {
     "totalSentences": 2862,
@@ -49,7 +49,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 99,
     "bulletPoints": 907,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -72,16 +72,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -17.8",
+      "issue": "Very low Flesch Reading Ease score: 15.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -96,33 +89,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 16.870842962154903,
-      "libraryAverage": 38.35,
+      "bookScore": 30.09918863550015,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -17.82289259461274,
-      "libraryAverage": 20.87,
+      "bookScore": 15.247971588750374,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.038085255066386,
-      "libraryAverage": 10.23,
+      "bookScore": 19.13382250174703,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23733782254085276,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

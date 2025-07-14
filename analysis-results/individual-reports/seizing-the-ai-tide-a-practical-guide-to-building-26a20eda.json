@@ -3,24 +3,24 @@
   "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
   "title": "Seizing The AI Tide A Practical Guide To Building 26a20eda",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:24.167Z",
+  "generatedAt": "2025-07-14T17:49:49.556Z",
   "summary": {
-    "overallScore": 8.677949164033906,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 22.370459804518077,
+    "readabilityGrade": "Poor",
     "wordCount": 30783,
     "estimatedReadingTime": 154
   },
   "readabilityMetrics": {
-    "fleschScore": -23.30512708991523,
+    "fleschScore": 10.926149511295193,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.736655620375704,
-    "fogIndex": 24.435932918753036,
-    "smogIndex": 17.40831395515927,
-    "ariIndex": 21.29288385789132,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.98860759493671,
-    "avgSyllablesPerWord": 2.5644998863008803,
-    "complexWordRatio": 0.48101224701945877
+    "fleschKincaidGrade": 16.87109678590298,
+    "fogIndex": 20.841909813409877,
+    "smogIndex": 17.691438541507278,
+    "ariIndex": 17.679459621084213,
+    "cliIndex": 18.68856577201755,
+    "avgSentenceLength": 20.672995780590718,
+    "avgSyllablesPerWord": 2.0676803755485254,
+    "complexWordRatio": 0.31431778752933975
   },
   "sentenceAnalysis": {
     "totalSentences": 2370,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 78,
     "bulletPoints": 685,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -23.3",
+      "issue": "Very low Flesch Reading Ease score: 10.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.677949164033906,
-      "libraryAverage": 38.35,
+      "bookScore": 22.370459804518077,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -23.30512708991523,
-      "libraryAverage": 20.87,
+      "bookScore": 10.926149511295193,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.98860759493671,
-      "libraryAverage": 10.23,
+      "bookScore": 20.672995780590718,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23636422700841372,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

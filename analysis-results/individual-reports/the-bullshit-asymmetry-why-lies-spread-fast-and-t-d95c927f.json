@@ -3,24 +3,24 @@
   "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
   "title": "The Bullshit Asymmetry Why Lies Spread Fast And T D95c927f",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:27.554Z",
+  "generatedAt": "2025-07-14T17:49:53.055Z",
   "summary": {
-    "overallScore": -3.7830902866652316,
+    "overallScore": 7.059377912541652,
     "readabilityGrade": "Very Poor",
     "wordCount": 8355,
     "estimatedReadingTime": 42
   },
   "readabilityMetrics": {
-    "fleschScore": -39.45772571666308,
+    "fleschScore": -12.35155521864587,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.991135641789786,
-    "fogIndex": 28.650332309798053,
-    "smogIndex": 21.767748953480588,
-    "ariIndex": 27.151499468635954,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.045340050377835,
-    "avgSyllablesPerWord": 2.6587672052663076,
-    "complexWordRatio": 0.505804907241173
+    "fleschKincaidGrade": 23.064474414410338,
+    "fogIndex": 27.26259551155188,
+    "smogIndex": 22.577138206995475,
+    "ariIndex": 25.621571270827268,
+    "cliIndex": 21.721873645091367,
+    "avgSentenceLength": 32.53400503778337,
+    "avgSyllablesPerWord": 2.200526478786002,
+    "complexWordRatio": 0.35622483741096317
   },
   "sentenceAnalysis": {
     "totalSentences": 397,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 44,
     "bulletPoints": 471,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -39.5",
+      "issue": "Very low Flesch Reading Ease score: -12.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -3.7830902866652316,
-      "libraryAverage": 38.35,
+      "bookScore": 7.059377912541652,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -39.45772571666308,
-      "libraryAverage": 20.87,
+      "bookScore": -12.35155521864587,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.045340050377835,
-      "libraryAverage": 10.23,
+      "bookScore": 32.53400503778337,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.30544584081388393,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

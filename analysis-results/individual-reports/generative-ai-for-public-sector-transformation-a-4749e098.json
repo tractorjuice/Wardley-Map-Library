@@ -3,24 +3,24 @@
   "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
   "title": "Generative AI For Public Sector Transformation A 4749e098",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:19.744Z",
+  "generatedAt": "2025-07-14T17:49:44.909Z",
   "summary": {
-    "overallScore": 9.056479558675948,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.076437194665765,
+    "readabilityGrade": "Poor",
     "wordCount": 26393,
     "estimatedReadingTime": 132
   },
   "readabilityMetrics": {
-    "fleschScore": -22.358801103310128,
+    "fleschScore": 7.691092986664415,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.81618741768443,
-    "fogIndex": 24.301606953473286,
-    "smogIndex": 17.68586896050359,
-    "ariIndex": 21.072633289272744,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.840062926061877,
-    "avgSyllablesPerWord": 2.543098548857652,
-    "complexWordRatio": 0.4691395445762134
+    "fleschKincaidGrade": 17.561187741556157,
+    "fogIndex": 21.231546165676495,
+    "smogIndex": 18.029221105957753,
+    "ariIndex": 18.441023709834546,
+    "cliIndex": 19.1027655912936,
+    "avgSentenceLength": 21.634504457262715,
+    "avgSyllablesPerWord": 2.094383983324042,
+    "complexWordRatio": 0.3144436095692852
   },
   "sentenceAnalysis": {
     "totalSentences": 1907,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 78,
     "bulletPoints": 692,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -22.4",
+      "issue": "Very low Flesch Reading Ease score: 7.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 9.056479558675948,
-      "libraryAverage": 38.35,
+      "bookScore": 21.076437194665765,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -22.358801103310128,
-      "libraryAverage": 20.87,
+      "bookScore": 7.691092986664415,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.840062926061877,
-      "libraryAverage": 10.23,
+      "bookScore": 21.634504457262715,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2539309665441594,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

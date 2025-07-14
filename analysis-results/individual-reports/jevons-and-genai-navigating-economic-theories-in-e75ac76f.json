@@ -3,24 +3,24 @@
   "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
   "title": "Jevons And GenAI Navigating Economic Theories In E75ac76f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:20.286Z",
+  "generatedAt": "2025-07-14T17:49:45.447Z",
   "summary": {
-    "overallScore": 3.1015690428392872,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.375888299517282,
+    "readabilityGrade": "Poor",
     "wordCount": 7504,
     "estimatedReadingTime": 38
   },
   "readabilityMetrics": {
-    "fleschScore": -37.24607739290178,
+    "fleschScore": -4.060279251206794,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 22.088329436776018,
-    "fogIndex": 26.272180866760603,
-    "smogIndex": 18.740517172708916,
-    "ariIndex": 23.059824964047763,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.627680311890838,
-    "avgSyllablesPerWord": 2.7096215351812365,
-    "complexWordRatio": 0.5105277185501066
+    "fleschKincaidGrade": 19.952088913295814,
+    "fogIndex": 23.33678025591209,
+    "smogIndex": 19.593352591351145,
+    "ariIndex": 20.480966624925287,
+    "cliIndex": 19.928309224567226,
+    "avgSentenceLength": 24.660818713450293,
+    "avgSyllablesPerWord": 2.1969804758517113,
+    "complexWordRatio": 0.3368113192632993
   },
   "sentenceAnalysis": {
     "totalSentences": 513,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 62,
     "bulletPoints": 332,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -37.2",
+      "issue": "Very low Flesch Reading Ease score: -4.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 3.1015690428392872,
-      "libraryAverage": 38.35,
+      "bookScore": 16.375888299517282,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -37.24607739290178,
-      "libraryAverage": 20.87,
+      "bookScore": -4.060279251206794,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.627680311890838,
-      "libraryAverage": 10.23,
+      "bookScore": 24.660818713450293,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3041044776119403,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

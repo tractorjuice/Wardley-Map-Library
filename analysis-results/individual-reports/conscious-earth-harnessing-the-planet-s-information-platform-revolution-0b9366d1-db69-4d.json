@@ -3,24 +3,24 @@
   "directory": "Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d",
   "title": "Conscious Earth Harnessing The Planet S Information Platform Revolution 0b9366d1-Db69-4d",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.499Z",
+  "generatedAt": "2025-07-14T17:49:41.964Z",
   "summary": {
-    "overallScore": 5.886348951077922,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.89459776349107,
+    "readabilityGrade": "Poor",
     "wordCount": 33966,
     "estimatedReadingTime": 170
   },
   "readabilityMetrics": {
-    "fleschScore": -30.284127622305192,
+    "fleschScore": 2.2364944087276797,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.919062746881774,
-    "fogIndex": 25.523678286448934,
-    "smogIndex": 18.148356623128876,
-    "ariIndex": 22.959812190040203,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.829804560260586,
-    "avgSyllablesPerWord": 2.636901607489843,
-    "complexWordRatio": 0.49979391155861747
+    "fleschKincaidGrade": 19.09384645813382,
+    "fogIndex": 23.237812422020973,
+    "smogIndex": 19.539738859870386,
+    "ariIndex": 20.503231791000253,
+    "cliIndex": 19.90968682629804,
+    "avgSentenceLength": 24.741449511400653,
+    "avgSyllablesPerWord": 2.1215831481938614,
+    "complexWordRatio": 0.33353081543651775
   },
   "sentenceAnalysis": {
     "totalSentences": 2456,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 81,
     "bulletPoints": 748,
     "numberedLists": 51,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.3",
+      "issue": "Very low Flesch Reading Ease score: 2.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.886348951077922,
-      "libraryAverage": 38.35,
+      "bookScore": 18.89459776349107,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -30.284127622305192,
-      "libraryAverage": 20.87,
+      "bookScore": 2.2364944087276797,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.829804560260586,
-      "libraryAverage": 10.23,
+      "bookScore": 24.741449511400653,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2549019607843137,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

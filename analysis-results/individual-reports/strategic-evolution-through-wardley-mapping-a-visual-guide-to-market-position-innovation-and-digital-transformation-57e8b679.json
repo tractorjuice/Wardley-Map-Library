@@ -3,24 +3,24 @@
   "directory": "Strategic_Evolution_Through_Wardley_Mapping__A_Visual_Guide_to_Market_Position__Innovation__and_Digital_Transformation_57e8b679",
   "title": "Strategic Evolution Through Wardley Mapping A Visual Guide To Market Position Innovation And Digital Transformation 57e8b679",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:25.601Z",
+  "generatedAt": "2025-07-14T17:49:50.975Z",
   "summary": {
-    "overallScore": 0.32222459164331596,
+    "overallScore": 12.725699122809896,
     "readabilityGrade": "Very Poor",
     "wordCount": 10523,
     "estimatedReadingTime": 53
   },
   "readabilityMetrics": {
-    "fleschScore": -44.19443852089171,
+    "fleschScore": -13.185752192975258,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.412506525147027,
-    "fogIndex": 29.585613556056416,
-    "smogIndex": 21.92100558346905,
-    "ariIndex": 26.953912792262386,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.08206106870229,
-    "avgSyllablesPerWord": 2.726313788843486,
-    "complexWordRatio": 0.5388197282143875
+    "fleschKincaidGrade": 22.82107294226095,
+    "fogIndex": 27.33274883673195,
+    "smogIndex": 22.56775848465902,
+    "ariIndex": 24.86629825353971,
+    "cliIndex": 21.64052796365645,
+    "avgSentenceLength": 31.08587786259542,
+    "avgSyllablesPerWord": 2.2277610657498927,
+    "complexWordRatio": 0.3724599422923445
   },
   "sentenceAnalysis": {
     "totalSentences": 524,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 599,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -44.2",
+      "issue": "Very low Flesch Reading Ease score: -13.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.32222459164331596,
-      "libraryAverage": 38.35,
+      "bookScore": 12.725699122809896,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -44.19443852089171,
-      "libraryAverage": 20.87,
+      "bookScore": -13.185752192975258,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.08206106870229,
-      "libraryAverage": 10.23,
+      "bookScore": 31.08587786259542,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3299439323386867,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

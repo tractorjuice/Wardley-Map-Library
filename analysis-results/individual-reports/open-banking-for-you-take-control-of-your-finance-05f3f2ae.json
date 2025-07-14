@@ -3,24 +3,24 @@
   "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
   "title": "Open Banking For You Take Control Of Your Finance 05f3f2ae",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:22.688Z",
+  "generatedAt": "2025-07-14T17:49:48.081Z",
   "summary": {
-    "overallScore": 14.018537171776142,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 26.510748734593164,
+    "readabilityGrade": "Poor",
     "wordCount": 19780,
     "estimatedReadingTime": 99
   },
   "readabilityMetrics": {
-    "fleschScore": -9.953657070559643,
+    "fleschScore": 21.27687183648291,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 17.813836505686258,
-    "fogIndex": 21.664166657980047,
-    "smogIndex": 16.253940947489887,
-    "ariIndex": 18.993008120250593,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.744845360824742,
-    "avgSyllablesPerWord": 2.4096056622851365,
-    "complexWordRatio": 0.4141557128412538
+    "fleschKincaidGrade": 15.56095871822058,
+    "fogIndex": 19.077552751317434,
+    "smogIndex": 16.66875223488966,
+    "ariIndex": 16.307031160599443,
+    "cliIndex": 16.67587836811568,
+    "avgSentenceLength": 21.21069587628866,
+    "avgSyllablesPerWord": 1.9388802819040676,
+    "complexWordRatio": 0.2648318600200492
   },
   "sentenceAnalysis": {
     "totalSentences": 1552,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 63,
     "bulletPoints": 427,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -10.0",
+      "issue": "Very low Flesch Reading Ease score: 21.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 14.018537171776142,
-      "libraryAverage": 38.35,
+      "bookScore": 26.510748734593164,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -9.953657070559643,
-      "libraryAverage": 20.87,
+      "bookScore": 21.27687183648291,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.744845360824742,
-      "libraryAverage": 10.23,
+      "bookScore": 21.21069587628866,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.17997977755308392,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

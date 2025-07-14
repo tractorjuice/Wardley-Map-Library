@@ -3,24 +3,24 @@
   "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
   "title": "The Wardley Maps Pirates Of The Stars 706c795b-B0f8-4064-8c80-67b19be2b053",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:28.320Z",
+  "generatedAt": "2025-07-14T17:49:53.800Z",
   "summary": {
-    "overallScore": 28.09791927078795,
-    "readabilityGrade": "Poor",
+    "overallScore": 39.3536847481238,
+    "readabilityGrade": "Below Average",
     "wordCount": 3804,
     "estimatedReadingTime": 20
   },
   "readabilityMetrics": {
-    "fleschScore": 10.24479817696988,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 14.440934462705734,
-    "fogIndex": 18.104471594308986,
-    "smogIndex": 14.046177116262893,
-    "ariIndex": 16.00047645397982,
-    "cliIndex": 0,
-    "avgSentenceLength": 10.508287292817679,
-    "avgSyllablesPerWord": 2.1976866456361726,
-    "complexWordRatio": 0.34752891692954785
+    "fleschScore": 38.384211870309485,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 12.957095972427481,
+    "fogIndex": 16.88251296027068,
+    "smogIndex": 15.176784573857343,
+    "ariIndex": 13.770959431556932,
+    "cliIndex": 13.996755875560382,
+    "avgSentenceLength": 20.334254143646408,
+    "avgSyllablesPerWord": 1.7471810895258797,
+    "complexWordRatio": 0.21872028257030296
   },
   "sentenceAnalysis": {
     "totalSentences": 362,
@@ -77,20 +77,6 @@
       "issue": "High vocabulary complexity score: 16.2%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
-    },
-    {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 10.2",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
@@ -105,11 +91,6 @@
       "item": "Simplify vocabulary"
     },
     {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
@@ -117,24 +98,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 28.09791927078795,
-      "libraryAverage": 38.35,
+      "bookScore": 39.3536847481238,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 30
     },
     "fleschScore": {
-      "bookScore": 10.24479817696988,
-      "libraryAverage": 20.87,
+      "bookScore": 38.384211870309485,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 10.508287292817679,
-      "libraryAverage": 10.23,
+      "bookScore": 20.334254143646408,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1619348054679285,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

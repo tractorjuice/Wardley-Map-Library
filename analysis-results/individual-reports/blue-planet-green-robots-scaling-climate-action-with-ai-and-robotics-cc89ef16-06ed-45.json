@@ -3,24 +3,24 @@
   "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
   "title": "Blue Planet Green Robots Scaling Climate Action With AI And Robotics Cc89ef16-06ed-45",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:15.162Z",
+  "generatedAt": "2025-07-14T17:49:40.484Z",
   "summary": {
-    "overallScore": 6.010738549703296,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.89055172891515,
+    "readabilityGrade": "Poor",
     "wordCount": 32679,
     "estimatedReadingTime": 164
   },
   "readabilityMetrics": {
-    "fleschScore": -29.97315362574176,
+    "fleschScore": -0.27362067771213106,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.14699951961106,
-    "fogIndex": 25.59727472755953,
-    "smogIndex": 18.587726427134417,
-    "ariIndex": 22.575941002705015,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.921917808219177,
-    "avgSyllablesPerWord": 2.620123014780134,
-    "complexWordRatio": 0.4907126901067964
+    "fleschKincaidGrade": 19.674487448608208,
+    "fogIndex": 23.64331400150626,
+    "smogIndex": 19.866141809129473,
+    "ariIndex": 20.896160076950416,
+    "cliIndex": 19.864236516294287,
+    "avgSentenceLength": 25.669406392694064,
+    "avgSyllablesPerWord": 2.140120250462502,
+    "complexWordRatio": 0.3343887861107158
   },
   "sentenceAnalysis": {
     "totalSentences": 2190,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 8,
-    "subheaders": 20,
+    "subheaders": 72,
     "bulletPoints": 883,
     "numberedLists": 75,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.0",
+      "issue": "Very low Flesch Reading Ease score: -0.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 6.010738549703296,
-      "libraryAverage": 38.35,
+      "bookScore": 17.89055172891515,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -29.97315362574176,
-      "libraryAverage": 20.87,
+      "bookScore": -0.27362067771213106,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.921917808219177,
-      "libraryAverage": 10.23,
+      "bookScore": 25.669406392694064,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23538051959974296,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

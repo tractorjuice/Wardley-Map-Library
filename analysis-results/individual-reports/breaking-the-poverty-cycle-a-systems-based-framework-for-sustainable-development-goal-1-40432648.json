@@ -3,24 +3,24 @@
   "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
   "title": "Breaking The Poverty Cycle A Systems-Based Framework For Sustainable Development Goal 1 40432648",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:15.202Z",
+  "generatedAt": "2025-07-14T17:49:40.555Z",
   "summary": {
-    "overallScore": -11.182443556322426,
+    "overallScore": 1.0750829532276835,
     "readabilityGrade": "Very Poor",
     "wordCount": 9897,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": -57.956108890806064,
+    "fleschScore": -27.31229261693079,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.74675506286177,
-    "fogIndex": 32.639226583258115,
-    "smogIndex": 23.7406239723204,
-    "ariIndex": 29.416815385281588,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.751648351648353,
-    "avgSyllablesPerWord": 2.868950186925331,
-    "complexWordRatio": 0.5984641810649692
+    "fleschKincaidGrade": 25.10917013639627,
+    "fogIndex": 30.03136120161246,
+    "smogIndex": 24.369591411090642,
+    "ariIndex": 27.366752771878403,
+    "cliIndex": 24.001412467744128,
+    "avgSentenceLength": 32.36483516483516,
+    "avgSyllablesPerWord": 2.379396984924623,
+    "complexWordRatio": 0.4271356783919598
   },
   "sentenceAnalysis": {
     "totalSentences": 455,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 44,
     "bulletPoints": 491,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -58.0",
+      "issue": "Very low Flesch Reading Ease score: -27.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -11.182443556322426,
-      "libraryAverage": 38.35,
+      "bookScore": 1.0750829532276835,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -57.956108890806064,
-      "libraryAverage": 20.87,
+      "bookScore": -27.31229261693079,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.751648351648353,
-      "libraryAverage": 10.23,
+      "bookScore": 32.36483516483516,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3394968172173386,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

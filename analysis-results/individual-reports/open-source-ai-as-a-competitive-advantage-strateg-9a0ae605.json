@@ -3,24 +3,24 @@
   "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
   "title": "Open Source AI As A Competitive Advantage Strateg 9a0ae605",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:22.731Z",
+  "generatedAt": "2025-07-14T17:49:48.122Z",
   "summary": {
-    "overallScore": -7.103431079585711,
+    "overallScore": 2.845487153404667,
     "readabilityGrade": "Very Poor",
     "wordCount": 11549,
     "estimatedReadingTime": 58
   },
   "readabilityMetrics": {
-    "fleschScore": -47.758577698964274,
+    "fleschScore": -22.88628211648833,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.999276639623947,
-    "fogIndex": 31.565797097408097,
-    "smogIndex": 23.98025914348933,
-    "ariIndex": 29.05099041886377,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.468220338983052,
-    "avgSyllablesPerWord": 2.715819551476318,
-    "complexWordRatio": 0.5444627240453719
+    "fleschKincaidGrade": 25.390169989281407,
+    "fogIndex": 30.142240395929335,
+    "smogIndex": 24.63163177298676,
+    "ariIndex": 28.113000989523925,
+    "cliIndex": 22.76776776776777,
+    "avgSentenceLength": 35.980932203389834,
+    "avgSyllablesPerWord": 2.283695460166048,
+    "complexWordRatio": 0.3937466878643349
   },
   "sentenceAnalysis": {
     "totalSentences": 472,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 56,
     "bulletPoints": 627,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -47.8",
+      "issue": "Very low Flesch Reading Ease score: -22.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -7.103431079585711,
-      "libraryAverage": 38.35,
+      "bookScore": 2.845487153404667,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -47.758577698964274,
-      "libraryAverage": 20.87,
+      "bookScore": -22.88628211648833,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.468220338983052,
-      "libraryAverage": 10.23,
+      "bookScore": 35.980932203389834,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3218460472768205,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

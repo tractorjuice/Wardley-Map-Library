@@ -3,24 +3,24 @@
   "directory": "Digital_Transformation_in_Government__A_Leader_s_Guide_to_Navigating_Complex_Change_243b3182",
   "title": "Digital Transformation In Government A Leader S Guide To Navigating Complex Change 243b3182",
   "category": "Government",
-  "generatedAt": "2025-07-14T17:23:17.584Z",
+  "generatedAt": "2025-07-14T17:49:42.945Z",
   "summary": {
-    "overallScore": -10.360728058918223,
+    "overallScore": 1.1252276527488103,
     "readabilityGrade": "Very Poor",
     "wordCount": 12103,
     "estimatedReadingTime": 61
   },
   "readabilityMetrics": {
-    "fleschScore": -55.90182014729555,
+    "fleschScore": -27.186930868127973,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.89480357674299,
-    "fogIndex": 32.78632572041435,
-    "smogIndex": 24.304676044479496,
-    "ariIndex": 30.29030118505481,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.500970873786407,
-    "avgSyllablesPerWord": 2.823680079319177,
-    "complexWordRatio": 0.5846484342724945
+    "fleschKincaidGrade": 25.692306109518558,
+    "fogIndex": 30.62936096201761,
+    "smogIndex": 24.909519121913462,
+    "ariIndex": 28.545532777355923,
+    "cliIndex": 24.027450454976833,
+    "avgSentenceLength": 34.78252427184466,
+    "avgSyllablesPerWord": 2.348908613855859,
+    "complexWordRatio": 0.41790878133199355
   },
   "sentenceAnalysis": {
     "totalSentences": 515,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 734,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -55.9",
+      "issue": "Very low Flesch Reading Ease score: -27.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -10.360728058918223,
-      "libraryAverage": 38.35,
+      "bookScore": 1.1252276527488103,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -55.90182014729555,
-      "libraryAverage": 20.87,
+      "bookScore": -27.186930868127973,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.500970873786407,
-      "libraryAverage": 10.23,
+      "bookScore": 34.78252427184466,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3323143022391143,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
   "title": "Battlefield Economics The Hidden Forces Shaping Military Conflicts 6ad71fef-Fe6e-4d",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:14.913Z",
+  "generatedAt": "2025-07-14T17:49:40.102Z",
   "summary": {
-    "overallScore": 4.3792732662394425,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.734950104601115,
+    "readabilityGrade": "Poor",
     "wordCount": 26016,
     "estimatedReadingTime": 131
   },
   "readabilityMetrics": {
-    "fleschScore": -34.05181683440139,
+    "fleschScore": -3.1626247384972146,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.371565616228484,
-    "fogIndex": 25.88637726179551,
-    "smogIndex": 18.16532547412897,
-    "ariIndex": 22.620561906272677,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.535900104058273,
-    "avgSyllablesPerWord": 2.684963099630996,
-    "complexWordRatio": 0.511800430504305
+    "fleschKincaidGrade": 19.671766186345625,
+    "fogIndex": 23.483566816119136,
+    "smogIndex": 19.621064405053907,
+    "ariIndex": 20.716387175069052,
+    "cliIndex": 20.58078185202822,
+    "avgSentenceLength": 24.036420395421437,
+    "avgSyllablesPerWord": 2.193861206112819,
+    "complexWordRatio": 0.346724966448764
   },
   "sentenceAnalysis": {
     "totalSentences": 1922,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 78,
     "bulletPoints": 597,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -34.1",
+      "issue": "Very low Flesch Reading Ease score: -3.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 4.3792732662394425,
-      "libraryAverage": 38.35,
+      "bookScore": 16.734950104601115,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -34.05181683440139,
-      "libraryAverage": 20.87,
+      "bookScore": -3.1626247384972146,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.535900104058273,
-      "libraryAverage": 10.23,
+      "bookScore": 24.036420395421437,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2445418204182042,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

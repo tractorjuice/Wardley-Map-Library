@@ -3,24 +3,24 @@
   "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
   "title": "Leasehold Liberation Your Guide To Tackling Excessive Service Charges And Bad Management Agents In England 829534c2-Fb38-47",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:20.442Z",
+  "generatedAt": "2025-07-14T17:49:45.638Z",
   "summary": {
-    "overallScore": 10.126322234540407,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.270577637393956,
+    "readabilityGrade": "Poor",
     "wordCount": 30252,
     "estimatedReadingTime": 152
   },
   "readabilityMetrics": {
-    "fleschScore": -19.68419441364898,
+    "fleschScore": 8.17644409348489,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.5734611485742,
-    "fogIndex": 24.48975364770684,
-    "smogIndex": 17.95061523064338,
-    "ariIndex": 22.139156888405203,
-    "cliIndex": 0,
-    "avgSentenceLength": 14.364672364672364,
-    "avgSyllablesPerWord": 2.505189739521354,
-    "complexWordRatio": 0.46859711754594735
+    "fleschKincaidGrade": 18.584017947829043,
+    "fogIndex": 22.850433229643915,
+    "smogIndex": 19.381855214156218,
+    "ariIndex": 20.375009351385174,
+    "cliIndex": 19.00787563632382,
+    "avgSentenceLength": 26.024216524216524,
+    "avgSyllablesPerWord": 2.0359808053715764,
+    "complexWordRatio": 0.31101866549893264
   },
   "sentenceAnalysis": {
     "totalSentences": 2106,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 80,
     "bulletPoints": 1308,
     "numberedLists": 201,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -19.7",
+      "issue": "Very low Flesch Reading Ease score: 8.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 10.126322234540407,
-      "libraryAverage": 38.35,
+      "bookScore": 21.270577637393956,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -19.68419441364898,
-      "libraryAverage": 20.87,
+      "bookScore": 8.17644409348489,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 14.364672364672364,
-      "libraryAverage": 10.23,
+      "bookScore": 26.024216524216524,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24005024461192648,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

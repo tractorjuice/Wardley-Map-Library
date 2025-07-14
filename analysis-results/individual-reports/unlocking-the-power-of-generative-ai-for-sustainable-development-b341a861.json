@@ -3,24 +3,24 @@
   "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
   "title": "Unlocking The Power Of Generative AI For Sustainable Development B341a861",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:28.848Z",
+  "generatedAt": "2025-07-14T17:49:54.398Z",
   "summary": {
-    "overallScore": 7.444868069615165,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 22.116344946188654,
+    "readabilityGrade": "Poor",
     "wordCount": 30075,
     "estimatedReadingTime": 151
   },
   "readabilityMetrics": {
-    "fleschScore": -26.387829825962086,
+    "fleschScore": 10.29086236547164,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.22117579568864,
-    "fogIndex": 24.735969036565372,
-    "smogIndex": 17.607687831218133,
-    "ariIndex": 20.990286815241213,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.208168642951252,
-    "avgSyllablesPerWord": 2.598304239401496,
-    "complexWordRatio": 0.48631753948462175
+    "fleschKincaidGrade": 17.16357549929914,
+    "fogIndex": 21.05898810679314,
+    "smogIndex": 17.911863216448083,
+    "ariIndex": 17.64014080562726,
+    "cliIndex": 18.181903107823704,
+    "avgSentenceLength": 21.493631971892842,
+    "avgSyllablesPerWord": 2.065343985615333,
+    "complexWordRatio": 0.3115383829509001
   },
   "sentenceAnalysis": {
     "totalSentences": 2277,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 88,
     "bulletPoints": 706,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -26.4",
+      "issue": "Very low Flesch Reading Ease score: 10.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.444868069615165,
-      "libraryAverage": 38.35,
+      "bookScore": 22.116344946188654,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -26.387829825962086,
-      "libraryAverage": 20.87,
+      "bookScore": 10.29086236547164,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.208168642951252,
-      "libraryAverage": 10.23,
+      "bookScore": 21.493631971892842,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.26935993349958437,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

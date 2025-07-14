@@ -3,24 +3,24 @@
   "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
   "title": "Running Faster To Stay In Place Mastering The Red 5c412daa",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:23.755Z",
+  "generatedAt": "2025-07-14T17:49:49.054Z",
   "summary": {
-    "overallScore": 1.4038664358853552,
+    "overallScore": 5.578180244509371,
     "readabilityGrade": "Very Poor",
     "wordCount": 9181,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": -41.49033391028661,
+    "fleschScore": -31.05454938872657,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.919933649203063,
-    "fogIndex": 28.145450982473097,
-    "smogIndex": 21.1538132538805,
-    "ariIndex": 25.754029173032002,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.617521367521366,
-    "avgSyllablesPerWord": 2.6999237555821805,
-    "complexWordRatio": 0.5074610608866137
+    "fleschKincaidGrade": 25.474681748810486,
+    "fogIndex": 26.828140444407616,
+    "smogIndex": 22.259274098152925,
+    "ariIndex": 27.672324087693738,
+    "cliIndex": 24.757858874225686,
+    "avgSentenceLength": 31.735042735042736,
+    "avgSyllablesPerWord": 2.4311877188257474,
+    "complexWordRatio": 0.353353083759763
   },
   "sentenceAnalysis": {
     "totalSentences": 468,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 10,
+    "subheaders": 154,
     "bulletPoints": 333,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -41.5",
+      "issue": "Very low Flesch Reading Ease score: -31.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 1.4038664358853552,
-      "libraryAverage": 38.35,
+      "bookScore": 5.578180244509371,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -41.49033391028661,
-      "libraryAverage": 20.87,
+      "bookScore": -31.05454938872657,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.617521367521366,
-      "libraryAverage": 10.23,
+      "bookScore": 31.735042735042736,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.33961442108702755,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

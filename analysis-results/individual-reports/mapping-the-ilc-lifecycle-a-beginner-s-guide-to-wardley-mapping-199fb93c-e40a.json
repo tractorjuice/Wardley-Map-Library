@@ -3,24 +3,24 @@
   "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
   "title": "Mapping The ILC Lifecycle A Beginner S Guide To Wardley Mapping 199fb93c-E40a",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:21.360Z",
+  "generatedAt": "2025-07-14T17:49:46.656Z",
   "summary": {
-    "overallScore": 2.9305101123403805,
+    "overallScore": 8.541500073244686,
     "readabilityGrade": "Very Poor",
     "wordCount": 9935,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": -22.67372471914905,
+    "fleschScore": -8.646249816888286,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 22.397959691993112,
-    "fogIndex": 26.4838764316727,
-    "smogIndex": 21.320798367429177,
-    "ariIndex": 25.353710159621073,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.055690072639226,
-    "avgSyllablesPerWord": 2.424257674886764,
-    "complexWordRatio": 0.42154001006542524
+    "fleschKincaidGrade": 23.582547978455043,
+    "fogIndex": 27.157306327748582,
+    "smogIndex": 22.458066968459452,
+    "ariIndex": 26.184214885010654,
+    "cliIndex": 19.927275846143697,
+    "avgSentenceLength": 36.699757869249396,
+    "avgSyllablesPerWord": 2.1067493567328626,
+    "complexWordRatio": 0.31193507950122057
   },
   "sentenceAnalysis": {
     "totalSentences": 413,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 78,
     "bulletPoints": 672,
     "numberedLists": 19,
     "codeBlocks": 64,
@@ -81,13 +81,6 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Writing Style",
       "priority": "Medium",
       "issue": "26.6% passive voice usage",
@@ -97,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -22.7",
+      "issue": "Very low Flesch Reading Ease score: -8.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -120,35 +113,30 @@
     },
     {
       "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    },
-    {
-      "priority": "Medium",
       "score": 6,
       "item": "Reduce passive voice"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 2.9305101123403805,
-      "libraryAverage": 38.35,
+      "bookScore": 8.541500073244686,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -22.67372471914905,
-      "libraryAverage": 20.87,
+      "bookScore": -8.646249816888286,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.055690072639226,
-      "libraryAverage": 10.23,
+      "bookScore": 36.699757869249396,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23522898842476095,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

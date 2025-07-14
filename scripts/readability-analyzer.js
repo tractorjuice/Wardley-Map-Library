@@ -190,10 +190,14 @@ class ReadabilityAnalyzer {
     /**
      * Calculate multiple readability metrics
      */
-    calculateReadabilityMetrics(text, words) {
-        const sentences = text.split(/[.!?]+/).filter(s => s.trim().length > 10);
+    calculateReadabilityMetrics(text) {
+        const sentences = text
+            .replace(/[^\w\s.!?;:,()-]/g, ' ')
+            .split(/[.!?]+/)
+            .filter(s => s.trim().length > 10)
+            .map(s => s.trim());
         
-        if (sentences.length === 0 || words.length === 0) {
+        if (sentences.length === 0) {
             return {
                 fleschScore: 0,
                 fleschGrade: 'N/A',
@@ -204,10 +208,25 @@ class ReadabilityAnalyzer {
             };
         }
 
-        const avgSentenceLength = words.length / sentences.length;
-        const avgSyllablesPerWord = words.reduce((sum, word) => sum + this.countSyllables(word), 0) / words.length;
-        const complexWords = words.filter(word => this.countSyllables(word) > 2).length;
-        const complexWordRatio = complexWords / words.length;
+        // Count words the same way as analyzeSentenceStructure for consistency
+        let totalWords = 0;
+        let totalSyllables = 0;
+        let complexWords = 0;
+        
+        sentences.forEach(sentence => {
+            const sentenceWords = sentence.split(/\s+/).filter(w => w.length > 0);
+            totalWords += sentenceWords.length;
+            
+            sentenceWords.forEach(word => {
+                const syllables = this.countSyllables(word);
+                totalSyllables += syllables;
+                if (syllables > 2) complexWords++;
+            });
+        });
+
+        const avgSentenceLength = totalWords / sentences.length;
+        const avgSyllablesPerWord = totalSyllables / totalWords;
+        const complexWordRatio = complexWords / totalWords;
 
         // Flesch Reading Ease Score (0-100 scale, higher = easier)
         // Formula: 206.835 - (1.015 × ASL) - (84.6 × ASW)
@@ -234,14 +253,23 @@ class ReadabilityAnalyzer {
         // Automated Readability Index (ARI)
         // Formula: 4.71 × (characters/words) + 0.5 × (words/sentences) - 21.43
         // Character-based metric that doesn't require syllable counting
-        const charactersPerWord = words.join('').length / words.length;
+        let totalCharacters = 0;
+        sentences.forEach(sentence => {
+            const sentenceWords = sentence.split(/\s+/).filter(w => w.length > 0);
+            sentenceWords.forEach(word => {
+                totalCharacters += word.length;
+            });
+        });
+        const charactersPerWord = totalCharacters / totalWords;
         const ariIndex = 4.71 * charactersPerWord + 0.5 * avgSentenceLength - 21.43;
 
         // Coleman-Liau Index
         // Formula: 0.0588 × L - 0.296 × S - 15.8
         // Where L = avg characters per 100 words, S = avg sentences per 100 words
-        const avgCharsPerWord = words.reduce((sum, word) => sum + word.length, 0) / words.length;
-        const cliIndex = 0.0588 * (avgCharsPerWord * 100 / avgSentenceLength) - 0.296 * (sentences.length * 100 / words.length) - 15.8;
+        const avgCharsPerWord = charactersPerWord;
+        const L = avgCharsPerWord * 100; // Characters per 100 words
+        const S = (sentences.length * 100) / totalWords; // Sentences per 100 words
+        const cliIndex = 0.0588 * L - 0.296 * S - 15.8;
 
         // Flesch-Kincaid Grade Level (years of education needed)
         // Formula: 0.39 × ASL + 11.8 × ASW - 15.59
@@ -324,9 +352,13 @@ class ReadabilityAnalyzer {
         lines.forEach(line => {
             const trimmed = line.trim();
             
-            // Count structural elements
-            if (trimmed.startsWith('# ')) patterns.headers++;
-            if (trimmed.startsWith('## ')) patterns.subheaders++;
+            // Count structural elements - all header levels
+            if (trimmed.match(/^#+\s/)) {
+                const headerLevel = trimmed.match(/^#+/)[0].length;
+                if (headerLevel === 1) patterns.headers++;
+                else if (headerLevel === 2) patterns.subheaders++;
+                else patterns.subheaders++; // Count all deeper levels as subheaders
+            }
             if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) patterns.bulletPoints++;
             if (/^\d+\.\s/.test(trimmed)) patterns.numberedLists++;
             if (trimmed.startsWith('```')) patterns.codeBlocks++;
@@ -373,7 +405,7 @@ class ReadabilityAnalyzer {
             const words = this.preprocessor.extractWords(cleanContent);
             
             const sentenceAnalysis = this.analyzeSentenceStructure(cleanContent);
-            const readabilityMetrics = this.calculateReadabilityMetrics(cleanContent, words);
+            const readabilityMetrics = this.calculateReadabilityMetrics(cleanContent);
             const vocabularyComplexity = this.analyzeVocabularyComplexity(words);
             const structurePatterns = this.analyzeStructurePatterns(cleanContent);
             

@@ -3,24 +3,24 @@
   "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
   "title": "The Algorithmic Consumer How AI Agents Are Rewrit 08335ae6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:27.229Z",
+  "generatedAt": "2025-07-14T17:49:52.745Z",
   "summary": {
-    "overallScore": 9.023380201956387,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 23.62381810336176,
+    "readabilityGrade": "Poor",
     "wordCount": 42979,
     "estimatedReadingTime": 215
   },
   "readabilityMetrics": {
-    "fleschScore": -22.44154949510903,
+    "fleschScore": 14.059545258404398,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.50053861663942,
-    "fogIndex": 24.068748165133613,
-    "smogIndex": 17.083965955551584,
-    "ariIndex": 20.381768287689262,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.523018648018647,
-    "avgSyllablesPerWord": 2.5598780799925547,
-    "complexWordRatio": 0.47648851764815375
+    "fleschKincaidGrade": 16.306599894688993,
+    "fogIndex": 20.332988312039173,
+    "smogIndex": 17.334859284025065,
+    "ariIndex": 16.705418930785207,
+    "cliIndex": 17.756364740059833,
+    "avgSentenceLength": 20.159965034965033,
+    "avgSyllablesPerWord": 2.0367977568688667,
+    "complexWordRatio": 0.30672505745132894
   },
   "sentenceAnalysis": {
     "totalSentences": 3432,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 99,
     "bulletPoints": 688,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -22.4",
+      "issue": "Very low Flesch Reading Ease score: 14.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 9.023380201956387,
-      "libraryAverage": 38.35,
+      "bookScore": 23.62381810336176,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -22.44154949510903,
-      "libraryAverage": 20.87,
+      "bookScore": 14.059545258404398,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.523018648018647,
-      "libraryAverage": 10.23,
+      "bookScore": 20.159965034965033,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.20872984480792944,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

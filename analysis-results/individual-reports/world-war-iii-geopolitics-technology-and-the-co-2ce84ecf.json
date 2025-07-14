@@ -3,24 +3,24 @@
   "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
   "title": "World War III Geopolitics Technology And The Co 2ce84ecf",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:31.071Z",
+  "generatedAt": "2025-07-14T17:49:56.537Z",
   "summary": {
-    "overallScore": 7.004795510535859,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.156376308832524,
+    "readabilityGrade": "Poor",
     "wordCount": 41817,
     "estimatedReadingTime": 210
   },
   "readabilityMetrics": {
-    "fleschScore": -27.48801122366035,
+    "fleschScore": 7.890940772081308,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.571258821306305,
-    "fogIndex": 25.021632353681845,
-    "smogIndex": 18.023332429092292,
-    "ariIndex": 22.15278116955765,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.999665215935721,
-    "avgSyllablesPerWord": 2.601812659922998,
-    "complexWordRatio": 0.48554415668268885
+    "fleschKincaidGrade": 17.75435603130808,
+    "fogIndex": 21.557865693868838,
+    "smogIndex": 18.31464179314618,
+    "ariIndex": 18.523162527561965,
+    "cliIndex": 18.703958977407847,
+    "avgSentenceLength": 22.524271844660195,
+    "avgSyllablesPerWord": 2.08134661117717,
+    "complexWordRatio": 0.3137039239001189
   },
   "sentenceAnalysis": {
     "totalSentences": 2987,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 119,
     "bulletPoints": 1178,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -27.5",
+      "issue": "Very low Flesch Reading Ease score: 7.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.004795510535859,
-      "libraryAverage": 38.35,
+      "bookScore": 21.156376308832524,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -27.48801122366035,
-      "libraryAverage": 20.87,
+      "bookScore": 7.890940772081308,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.999665215935721,
-      "libraryAverage": 10.23,
+      "bookScore": 22.524271844660195,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22648683549752494,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

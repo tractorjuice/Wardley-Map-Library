@@ -3,24 +3,24 @@
   "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
   "title": "Silent Warfare Russia S Strategic Targeting Of Gl 64e36abc",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:24.222Z",
+  "generatedAt": "2025-07-14T17:49:49.589Z",
   "summary": {
-    "overallScore": -8.378131728050779,
+    "overallScore": 2.4845115889955878,
     "readabilityGrade": "Very Poor",
     "wordCount": 11883,
     "estimatedReadingTime": 60
   },
   "readabilityMetrics": {
-    "fleschScore": -50.945329320126945,
+    "fleschScore": -23.78872102751103,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.998894827301566,
-    "fogIndex": 30.66823212068302,
-    "smogIndex": 23.11903904958459,
-    "ariIndex": 29.03190380060552,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.677480916030536,
-    "avgSyllablesPerWord": 2.774972650004208,
-    "complexWordRatio": 0.5399309938567701
+    "fleschKincaidGrade": 24.86699648226288,
+    "fogIndex": 28.997313946305123,
+    "smogIndex": 23.770497033816135,
+    "ariIndex": 27.284584669083863,
+    "cliIndex": 23.299957678009715,
+    "avgSentenceLength": 33.36832061068702,
+    "avgSyllablesPerWord": 2.3257077494995713,
+    "complexWordRatio": 0.3912496425507578
   },
   "sentenceAnalysis": {
     "totalSentences": 524,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 64,
     "bulletPoints": 576,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -50.9",
+      "issue": "Very low Flesch Reading Ease score: -23.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.378131728050779,
-      "libraryAverage": 38.35,
+      "bookScore": 2.4845115889955878,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -50.945329320126945,
-      "libraryAverage": 20.87,
+      "bookScore": -23.78872102751103,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.677480916030536,
-      "libraryAverage": 10.23,
+      "bookScore": 33.36832061068702,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2925187242278886,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

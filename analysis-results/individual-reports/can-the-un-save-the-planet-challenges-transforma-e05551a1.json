@@ -3,24 +3,24 @@
   "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
   "title": "Can The UN Save The Planet Challenges Transforma E05551a1",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:15.535Z",
+  "generatedAt": "2025-07-14T17:49:40.883Z",
   "summary": {
-    "overallScore": -10.528440623317636,
+    "overallScore": 2.471775936432289,
     "readabilityGrade": "Very Poor",
     "wordCount": 12125,
     "estimatedReadingTime": 61
   },
   "readabilityMetrics": {
-    "fleschScore": -56.32110155829409,
+    "fleschScore": -23.820560158919278,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.465233700170298,
-    "fogIndex": 31.13332771785904,
-    "smogIndex": 23.020890670836106,
-    "ariIndex": 29.223845626705234,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.536412078152754,
-    "avgSyllablesPerWord": 2.8522061855670104,
-    "complexWordRatio": 0.5629690721649484
+    "fleschKincaidGrade": 24.673152004832364,
+    "fogIndex": 28.845264139486005,
+    "smogIndex": 23.630791346854902,
+    "ariIndex": 26.883182672039787,
+    "cliIndex": 23.27532093581284,
+    "avgSentenceLength": 32.57015985790409,
+    "avgSyllablesPerWord": 2.335660140699133,
+    "complexWordRatio": 0.3954300049081093
   },
   "sentenceAnalysis": {
     "totalSentences": 563,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 64,
     "bulletPoints": 595,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -56.3",
+      "issue": "Very low Flesch Reading Ease score: -23.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -10.528440623317636,
-      "libraryAverage": 38.35,
+      "bookScore": 2.471775936432289,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -56.32110155829409,
-      "libraryAverage": 20.87,
+      "bookScore": -23.820560158919278,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.536412078152754,
-      "libraryAverage": 10.23,
+      "bookScore": 32.57015985790409,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3443298969072165,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

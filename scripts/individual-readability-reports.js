@@ -128,13 +128,13 @@ class IndividualReadabilityReports {
             });
         }
 
-        // Structure recommendations
-        if (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders < analysis.wordCount / 500) {
+        // Structure recommendations - now counting all header levels
+        if (analysis.structurePatterns.headers + analysis.structurePatterns.subheaders < analysis.wordCount / 1000) {
             recommendations.push({
                 category: 'Structure',
                 priority: 'Medium',
                 issue: 'Insufficient headers and subheaders for content length',
-                recommendation: 'Add more headings to break up content. Aim for 1 header per 200-400 words.',
+                recommendation: 'Add more headings to break up content. Aim for 1 header per 500-1000 words.',
                 impact: 'Medium - Better structure improves navigation and comprehension'
             });
         }
@@ -190,10 +190,10 @@ class IndividualReadabilityReports {
     generateBenchmarks(analysis) {
         // Using Wardley Mapping eBook (May 2024 v1.8) as baseline - a well-written, accessible strategic text
         const libraryAverages = {
-            overallScore: 38.35,
-            fleschScore: 20.87,
-            sentenceLength: 10.23,
-            complexityScore: 0.119
+            overallScore: 50.99,
+            fleschScore: 52.48,
+            sentenceLength: 18.69,
+            complexityScore: 0.120
         };
 
         return {

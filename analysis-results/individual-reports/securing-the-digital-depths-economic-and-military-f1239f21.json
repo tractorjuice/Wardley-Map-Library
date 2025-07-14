@@ -3,24 +3,24 @@
   "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
   "title": "Securing The Digital Depths Economic And Military F1239f21",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:24.047Z",
+  "generatedAt": "2025-07-14T17:49:49.404Z",
   "summary": {
-    "overallScore": -11.138009176041624,
+    "overallScore": -0.7189051307507501,
     "readabilityGrade": "Very Poor",
     "wordCount": 7997,
     "estimatedReadingTime": 40
   },
   "readabilityMetrics": {
-    "fleschScore": -57.84502294010406,
+    "fleschScore": -31.797262826876874,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 27.478250094559453,
-    "fogIndex": 32.42184998941166,
-    "smogIndex": 24.456917700453488,
-    "ariIndex": 31.038147800007046,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.758513931888544,
-    "avgSyllablesPerWord": 2.831561835688383,
-    "complexWordRatio": 0.5629611104164062
+    "fleschKincaidGrade": 26.887775857920307,
+    "fogIndex": 31.159876596131554,
+    "smogIndex": 25.35243706023646,
+    "ariIndex": 29.73337791282109,
+    "cliIndex": 24.17347946122312,
+    "avgSentenceLength": 37.0061919504644,
+    "avgSyllablesPerWord": 2.376725508240609,
+    "complexWordRatio": 0.4089349953986447
   },
   "sentenceAnalysis": {
     "totalSentences": 323,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 56,
     "bulletPoints": 560,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -57.8",
+      "issue": "Very low Flesch Reading Ease score: -31.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -11.138009176041624,
-      "libraryAverage": 38.35,
+      "bookScore": -0.7189051307507501,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -57.84502294010406,
-      "libraryAverage": 20.87,
+      "bookScore": -31.797262826876874,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.758513931888544,
-      "libraryAverage": 10.23,
+      "bookScore": 37.0061919504644,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3179942478429411,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

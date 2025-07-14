@@ -3,24 +3,24 @@
   "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
   "title": "DeepSeek Disruption China S Open-Source AI And Th 3e7ecd8a",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:17.234Z",
+  "generatedAt": "2025-07-14T17:49:42.620Z",
   "summary": {
-    "overallScore": 7.657346204296971,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 21.485193303500342,
+    "readabilityGrade": "Poor",
     "wordCount": 20898,
     "estimatedReadingTime": 105
   },
   "readabilityMetrics": {
-    "fleschScore": -25.856634489257573,
+    "fleschScore": 8.712983258750853,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.03724649668492,
-    "fogIndex": 24.957117588861234,
-    "smogIndex": 17.508173816416676,
-    "ariIndex": 20.98683913365047,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.766035430665852,
-    "avgSyllablesPerWord": 2.5973298880275624,
-    "complexWordRatio": 0.49626758541487226
+    "fleschKincaidGrade": 17.10183180170159,
+    "fogIndex": 21.193365408838048,
+    "smogIndex": 17.852065353579007,
+    "ariIndex": 17.55693929825351,
+    "cliIndex": 18.709417906865095,
+    "avgSentenceLength": 20.359193646915088,
+    "avgSyllablesPerWord": 2.097605616898704,
+    "complexWordRatio": 0.32624219875180027
   },
   "sentenceAnalysis": {
     "totalSentences": 1637,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 61,
     "bulletPoints": 358,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -25.9",
+      "issue": "Very low Flesch Reading Ease score: 8.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 7.657346204296971,
-      "libraryAverage": 38.35,
+      "bookScore": 21.485193303500342,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -25.856634489257573,
-      "libraryAverage": 20.87,
+      "bookScore": 8.712983258750853,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.766035430665852,
-      "libraryAverage": 10.23,
+      "bookScore": 20.359193646915088,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2444731553258685,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

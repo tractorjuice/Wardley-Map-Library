@@ -3,24 +3,24 @@
   "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
   "title": "Transforming Government Through AI A Strategic Ac 815b907d",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:28.405Z",
+  "generatedAt": "2025-07-14T17:49:53.902Z",
   "summary": {
-    "overallScore": 2.294431993184343,
+    "overallScore": 5.011482429414604,
     "readabilityGrade": "Very Poor",
     "wordCount": 3951,
     "estimatedReadingTime": 20
   },
   "readabilityMetrics": {
-    "fleschScore": -24.26392001703914,
+    "fleschScore": -17.47129392646349,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 18.19918422225351,
-    "fogIndex": 23.319579428025005,
-    "smogIndex": 13.441074047097821,
-    "ariIndex": 19.65016018733447,
-    "cliIndex": 0,
-    "avgSentenceLength": 6.261489698890649,
-    "avgSyllablesPerWord": 2.65654264743103,
-    "complexWordRatio": 0.5203745887117186
+    "fleschKincaidGrade": 24.06205959090906,
+    "fogIndex": 28.785591804488014,
+    "smogIndex": 23.642409193616228,
+    "ariIndex": 26.501893751092155,
+    "cliIndex": 22.139417384347492,
+    "avgSentenceLength": 33.67511885895404,
+    "avgSyllablesPerWord": 2.2473528166031342,
+    "complexWordRatio": 0.3828886065226599
   },
   "sentenceAnalysis": {
     "totalSentences": 631,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 69,
     "bulletPoints": 780,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -83,7 +83,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -24.3",
+      "issue": "Very low Flesch Reading Ease score: -17.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,24 +107,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 2.294431993184343,
-      "libraryAverage": 38.35,
+      "bookScore": 5.011482429414604,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -24.26392001703914,
-      "libraryAverage": 20.87,
+      "bookScore": -17.47129392646349,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 6.261489698890649,
-      "libraryAverage": 10.23,
-      "comparison": "Better"
+      "bookScore": 33.67511885895404,
+      "libraryAverage": 18.69,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34269805112629714,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

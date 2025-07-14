@@ -3,24 +3,24 @@
   "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
   "title": "From Lotus To AI Modernising Legacy Systems For The Generative AI Era 88200f01-7a30-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:18.117Z",
+  "generatedAt": "2025-07-14T17:49:43.474Z",
   "summary": {
-    "overallScore": 3.54605054745989,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.49006367876108,
+    "readabilityGrade": "Poor",
     "wordCount": 45943,
     "estimatedReadingTime": 230
   },
   "readabilityMetrics": {
-    "fleschScore": -36.134873631350274,
+    "fleschScore": -3.7748408030973053,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.033352296052424,
-    "fogIndex": 27.96570052048969,
-    "smogIndex": 20.913471293528964,
-    "ariIndex": 24.900744917965135,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.05557859809208,
-    "avgSyllablesPerWord": 2.6433624273556364,
-    "complexWordRatio": 0.5085867270313215
+    "fleschKincaidGrade": 20.954907162502625,
+    "fogIndex": 25.37717486929302,
+    "smogIndex": 21.176773107856494,
+    "ariIndex": 22.31959250865836,
+    "cliIndex": 19.77849545820398,
+    "avgSentenceLength": 28.857735379510576,
+    "avgSyllablesPerWord": 2.1432534207197884,
+    "complexWordRatio": 0.34585201793721976
   },
   "sentenceAnalysis": {
     "totalSentences": 2411,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 22,
+    "subheaders": 98,
     "bulletPoints": 1894,
     "numberedLists": 98,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -36.1",
+      "issue": "Very low Flesch Reading Ease score: -3.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 3.54605054745989,
-      "libraryAverage": 38.35,
+      "bookScore": 16.49006367876108,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -36.134873631350274,
-      "libraryAverage": 20.87,
+      "bookScore": -3.7748408030973053,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.05557859809208,
-      "libraryAverage": 10.23,
+      "bookScore": 28.857735379510576,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24558692292623469,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

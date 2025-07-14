@@ -3,24 +3,24 @@
   "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
   "title": "The AI Superpower Showdown Inside The US-China Ra 78bf7278",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.664Z",
+  "generatedAt": "2025-07-14T17:49:52.210Z",
   "summary": {
-    "overallScore": -6.586265019534778,
+    "overallScore": 5.446127561210801,
     "readabilityGrade": "Very Poor",
     "wordCount": 12156,
     "estimatedReadingTime": 61
   },
   "readabilityMetrics": {
-    "fleschScore": -46.465662548836946,
+    "fleschScore": -16.384681096972997,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.057059331970766,
-    "fogIndex": 29.998536397721637,
-    "smogIndex": 22.47673911107852,
-    "ariIndex": 27.587693366516973,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.401408450704224,
-    "avgSyllablesPerWord": 2.737331358999671,
-    "complexWordRatio": 0.5359493254359987
+    "fleschKincaidGrade": 23.59451111245031,
+    "fogIndex": 28.005005720276564,
+    "smogIndex": 23.071919816122037,
+    "ariIndex": 25.644412542902074,
+    "cliIndex": 21.82838359141537,
+    "avgSentenceLength": 32.403169014084504,
+    "avgSyllablesPerWord": 2.249769084487911,
+    "complexWordRatio": 0.376093452866069
   },
   "sentenceAnalysis": {
     "totalSentences": 568,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 592,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -46.5",
+      "issue": "Very low Flesch Reading Ease score: -16.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.586265019534778,
-      "libraryAverage": 38.35,
+      "bookScore": 5.446127561210801,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -46.465662548836946,
-      "libraryAverage": 20.87,
+      "bookScore": -16.384681096972997,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.401408450704224,
-      "libraryAverage": 10.23,
+      "bookScore": 32.403169014084504,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32288581770319186,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
   "title": "Generative AI Engineering From Data To Deployment 6410d8f6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:19.462Z",
+  "generatedAt": "2025-07-14T17:49:44.677Z",
   "summary": {
-    "overallScore": 0.06882414470584308,
+    "overallScore": 11.875611634041604,
     "readabilityGrade": "Very Poor",
     "wordCount": 13115,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": -44.82793963823539,
+    "fleschScore": -15.31097091489599,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.317427234909704,
-    "fogIndex": 28.937615623984343,
-    "smogIndex": 21.42078581261051,
-    "ariIndex": 26.834021054951826,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.343657817109143,
-    "avgSyllablesPerWord": 2.742661075104842,
-    "complexWordRatio": 0.530003812428517
+    "fleschKincaidGrade": 22.442116897625713,
+    "fogIndex": 26.705921008738212,
+    "smogIndex": 21.983179703347414,
+    "ariIndex": 24.358847473162136,
+    "cliIndex": 22.61274060209016,
+    "avgSentenceLength": 28.36725663716814,
+    "avgSyllablesPerWord": 2.285498882129673,
+    "complexWordRatio": 0.38397545884677375
   },
   "sentenceAnalysis": {
     "totalSentences": 678,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 724,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -44.8",
+      "issue": "Very low Flesch Reading Ease score: -15.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.06882414470584308,
-      "libraryAverage": 38.35,
+      "bookScore": 11.875611634041604,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -44.82793963823539,
-      "libraryAverage": 20.87,
+      "bookScore": -15.31097091489599,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.343657817109143,
-      "libraryAverage": 10.23,
+      "bookScore": 28.36725663716814,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.31338162409454823,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

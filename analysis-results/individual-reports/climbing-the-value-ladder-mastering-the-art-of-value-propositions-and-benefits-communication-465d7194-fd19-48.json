@@ -3,24 +3,24 @@
   "directory": "Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48",
   "title": "Climbing The Value Ladder Mastering The Art Of Value Propositions And Benefits Communication 465d7194-Fd19-48",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.240Z",
+  "generatedAt": "2025-07-14T17:49:41.690Z",
   "summary": {
-    "overallScore": 8.747565849507192,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.939713108200444,
+    "readabilityGrade": "Poor",
     "wordCount": 24339,
     "estimatedReadingTime": 122
   },
   "readabilityMetrics": {
-    "fleschScore": -23.131085376232022,
+    "fleschScore": 4.849282770501105,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.92701754058584,
-    "fogIndex": 24.976509787302167,
-    "smogIndex": 17.95011655464791,
-    "ariIndex": 22.019452715453973,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.852589641434262,
-    "avgSyllablesPerWord": 2.552076913595464,
-    "complexWordRatio": 0.4858868482682115
+    "fleschKincaidGrade": 18.777942552713572,
+    "fogIndex": 22.951490251111522,
+    "smogIndex": 19.377798683132024,
+    "ariIndex": 20.449729801032298,
+    "cliIndex": 19.730335015643195,
+    "avgSentenceLength": 24.936788154897496,
+    "avgSyllablesPerWord": 2.088355523076572,
+    "complexWordRatio": 0.32441937472881316
   },
   "sentenceAnalysis": {
     "totalSentences": 1756,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 8,
-    "subheaders": 19,
+    "subheaders": 71,
     "bulletPoints": 710,
     "numberedLists": 44,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -23.1",
+      "issue": "Very low Flesch Reading Ease score: 4.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.747565849507192,
-      "libraryAverage": 38.35,
+      "bookScore": 19.939713108200444,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -23.131085376232022,
-      "libraryAverage": 20.87,
+      "bookScore": 4.849282770501105,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.852589641434262,
-      "libraryAverage": 10.23,
+      "bookScore": 24.936788154897496,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22141419121574427,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

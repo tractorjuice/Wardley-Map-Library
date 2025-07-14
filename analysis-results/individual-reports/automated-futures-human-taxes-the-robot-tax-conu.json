@@ -3,24 +3,24 @@
   "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
   "title": "Automated Futures Human Taxes The Robot Tax Conu",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:14.802Z",
+  "generatedAt": "2025-07-14T17:49:39.993Z",
   "summary": {
-    "overallScore": 43.4406547687812,
-    "readabilityGrade": "Below Average",
+    "overallScore": 51.45405522710766,
+    "readabilityGrade": "Average",
     "wordCount": 91730,
     "estimatedReadingTime": 459
   },
   "readabilityMetrics": {
-    "fleschScore": 25.95691872725115,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 12.570958919469799,
-    "fogIndex": 15.337860126658947,
-    "smogIndex": 13.240266633781115,
-    "ariIndex": 13.393218105015059,
-    "cliIndex": 0,
-    "avgSentenceLength": 11.802624806999486,
-    "avgSyllablesPerWord": 1.9964351902322033,
-    "complexWordRatio": 0.2654202550964788
+    "fleschScore": 45.99041987306731,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 11.76915596899099,
+    "fogIndex": 14.56441963692856,
+    "smogIndex": 13.488328884152065,
+    "ariIndex": 12.030395557040713,
+    "cliIndex": 12.105443899145698,
+    "avgSentenceLength": 19.822931411658733,
+    "avgSyllablesPerWord": 1.663407857495261,
+    "complexWordRatio": 0.16588117680662667
   },
   "sentenceAnalysis": {
     "totalSentences": 7771,
@@ -47,7 +47,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 20,
+    "subheaders": 634,
     "bulletPoints": 2147,
     "numberedLists": 0,
     "codeBlocks": 0,
@@ -61,54 +61,28 @@
     "examples": 289,
     "definitions": 140
   },
-  "recommendations": [
-    {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 26.0",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
-    }
-  ],
-  "improvementPriorities": [
-    {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
-    }
-  ],
+  "recommendations": [],
+  "improvementPriorities": [],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 43.4406547687812,
-      "libraryAverage": 38.35,
+      "bookScore": 51.45405522710766,
+      "libraryAverage": 50.99,
       "comparison": "Above Average",
       "percentile": 60
     },
     "fleschScore": {
-      "bookScore": 25.95691872725115,
-      "libraryAverage": 20.87,
-      "comparison": "Above Average"
+      "bookScore": 45.99041987306731,
+      "libraryAverage": 52.48,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 11.802624806999486,
-      "libraryAverage": 10.23,
+      "bookScore": 19.822931411658733,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.0898070424070642,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "Simpler"
     }
   }

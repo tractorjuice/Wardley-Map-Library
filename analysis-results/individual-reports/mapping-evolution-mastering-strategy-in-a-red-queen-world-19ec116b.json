@@ -3,24 +3,24 @@
   "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
   "title": "Mapping Evolution Mastering Strategy In A Red Queen World 19ec116b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:20.623Z",
+  "generatedAt": "2025-07-14T17:49:45.825Z",
   "summary": {
-    "overallScore": 0.5084219882982097,
+    "overallScore": 13.544593786941412,
     "readabilityGrade": "Very Poor",
     "wordCount": 10653,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": -43.728945029254476,
+    "fleschScore": -11.138515532646466,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.286945183432483,
-    "fogIndex": 28.894549703259816,
-    "smogIndex": 21.547534289482307,
-    "ariIndex": 26.538172109831372,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.837988826815643,
-    "avgSyllablesPerWord": 2.723739791607998,
-    "complexWordRatio": 0.5239838543133389
+    "fleschKincaidGrade": 22.565541127359506,
+    "fogIndex": 26.732592054757806,
+    "smogIndex": 22.176905970518042,
+    "ariIndex": 24.3839069141329,
+    "cliIndex": 20.96657357679914,
+    "avgSentenceLength": 31.206703910614525,
+    "avgSyllablesPerWord": 2.2021124239169354,
+    "complexWordRatio": 0.35624776226279986
   },
   "sentenceAnalysis": {
     "totalSentences": 537,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 573,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -43.7",
+      "issue": "Very low Flesch Reading Ease score: -11.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 0.5084219882982097,
-      "libraryAverage": 38.35,
+      "bookScore": 13.544593786941412,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -43.728945029254476,
-      "libraryAverage": 20.87,
+      "bookScore": -11.138515532646466,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.837988826815643,
-      "libraryAverage": 10.23,
+      "bookScore": 31.206703910614525,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.31897118182671547,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

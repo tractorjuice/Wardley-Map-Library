@@ -3,24 +3,24 @@
   "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
   "title": "Mapping Green Software Leveraging Wardley Maps For Sustainable IT Strategies 957a2731-88bf-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:20.804Z",
+  "generatedAt": "2025-07-14T17:49:46.008Z",
   "summary": {
-    "overallScore": 4.217878618735005,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 17.173629392061184,
+    "readabilityGrade": "Poor",
     "wordCount": 34080,
     "estimatedReadingTime": 171
   },
   "readabilityMetrics": {
-    "fleschScore": -34.455303453162486,
+    "fleschScore": -2.0659265198470393,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.54211901456652,
-    "fogIndex": 25.837793909246034,
-    "smogIndex": 18.331580677828654,
-    "ariIndex": 23.380346259796973,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.995893223819301,
-    "avgSyllablesPerWord": 2.684213615023474,
-    "complexWordRatio": 0.5059859154929578
+    "fleschKincaidGrade": 19.75144530703621,
+    "fogIndex": 23.515445338102612,
+    "smogIndex": 19.730269766681403,
+    "ariIndex": 21.227743006065744,
+    "cliIndex": 20.680790672433357,
+    "avgSentenceLength": 24.972895277207392,
+    "avgSyllablesPerWord": 2.169662385502146,
+    "complexWordRatio": 0.3381571806804914
   },
   "sentenceAnalysis": {
     "totalSentences": 2435,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 23,
+    "subheaders": 85,
     "bulletPoints": 925,
     "numberedLists": 67,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -34.5",
+      "issue": "Very low Flesch Reading Ease score: -2.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 4.217878618735005,
-      "libraryAverage": 38.35,
+      "bookScore": 17.173629392061184,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -34.455303453162486,
-      "libraryAverage": 20.87,
+      "bookScore": -2.0659265198470393,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.995893223819301,
-      "libraryAverage": 10.23,
+      "bookScore": 24.972895277207392,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29125586854460095,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

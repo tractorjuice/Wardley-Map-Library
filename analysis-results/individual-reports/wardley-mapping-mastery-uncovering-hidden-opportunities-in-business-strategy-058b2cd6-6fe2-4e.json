@@ -3,24 +3,24 @@
   "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
   "title": "Wardley Mapping Mastery Uncovering Hidden Opportunities In Business Strategy 058b2cd6-6fe2-4e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:29.022Z",
+  "generatedAt": "2025-07-14T17:49:54.583Z",
   "summary": {
-    "overallScore": 5.427251415251419,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.624549294791233,
+    "readabilityGrade": "Poor",
     "wordCount": 28080,
     "estimatedReadingTime": 141
   },
   "readabilityMetrics": {
-    "fleschScore": -31.431871461871452,
+    "fleschScore": 1.5613732369780848,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 21.95751325394183,
-    "fogIndex": 26.441923156208873,
-    "smogIndex": 19.748991860494925,
-    "ariIndex": 23.88289219312434,
-    "cliIndex": 0,
-    "avgSentenceLength": 17.365491651205936,
-    "avgSyllablesPerWord": 2.6080484330484333,
-    "complexWordRatio": 0.4873931623931624
+    "fleschKincaidGrade": 19.747409255491053,
+    "fogIndex": 23.903950465816827,
+    "smogIndex": 20.1189018073945,
+    "ariIndex": 21.106886625159596,
+    "cliIndex": 19.357544904692087,
+    "avgSentenceLength": 26.993197278911566,
+    "avgSyllablesPerWord": 2.1025476539589443,
+    "complexWordRatio": 0.32766678885630496
   },
   "sentenceAnalysis": {
     "totalSentences": 1617,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 20,
+    "subheaders": 73,
     "bulletPoints": 922,
     "numberedLists": 86,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -31.4",
+      "issue": "Very low Flesch Reading Ease score: 1.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.427251415251419,
-      "libraryAverage": 38.35,
+      "bookScore": 18.624549294791233,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -31.431871461871452,
-      "libraryAverage": 20.87,
+      "bookScore": 1.5613732369780848,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 17.365491651205936,
-      "libraryAverage": 10.23,
+      "bookScore": 26.993197278911566,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.26826923076923076,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

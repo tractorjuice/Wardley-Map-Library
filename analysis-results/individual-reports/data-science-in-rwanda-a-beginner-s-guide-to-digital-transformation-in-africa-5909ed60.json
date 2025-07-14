@@ -3,24 +3,24 @@
   "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
   "title": "Data Science In Rwanda - A Beginner'S Guide To Digital Transformation In Africa 5909ed60",
   "category": "Data Science",
-  "generatedAt": "2025-07-14T17:23:17.020Z",
+  "generatedAt": "2025-07-14T17:49:42.380Z",
   "summary": {
-    "overallScore": -4.800586076728166,
+    "overallScore": 5.12472648708549,
     "readabilityGrade": "Very Poor",
     "wordCount": 11957,
     "estimatedReadingTime": 60
   },
   "readabilityMetrics": {
-    "fleschScore": -42.001465191820415,
+    "fleschScore": -17.188183782286274,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.070496959462123,
-    "fogIndex": 28.950831260245675,
-    "smogIndex": 22.58702108746698,
-    "ariIndex": 27.798053167470677,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.96192384769539,
-    "avgSyllablesPerWord": 2.653842937191603,
-    "complexWordRatio": 0.48415154302918795
+    "fleschKincaidGrade": 24.530437535753737,
+    "fogIndex": 28.21506459957617,
+    "smogIndex": 23.275643626144916,
+    "ariIndex": 26.858951373348127,
+    "cliIndex": 21.3594052962298,
+    "avgSentenceLength": 35.71943887775551,
+    "avgSyllablesPerWord": 2.219479353680431,
+    "complexWordRatio": 0.3481822262118492
   },
   "sentenceAnalysis": {
     "totalSentences": 499,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 58,
     "bulletPoints": 656,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -42.0",
+      "issue": "Very low Flesch Reading Ease score: -17.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -4.800586076728166,
-      "libraryAverage": 38.35,
+      "bookScore": 5.12472648708549,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -42.001465191820415,
-      "libraryAverage": 20.87,
+      "bookScore": -17.188183782286274,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.96192384769539,
-      "libraryAverage": 10.23,
+      "bookScore": 35.71943887775551,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27381450196537593,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

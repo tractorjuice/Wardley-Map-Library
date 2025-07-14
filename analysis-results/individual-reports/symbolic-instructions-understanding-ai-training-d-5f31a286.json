@@ -3,24 +3,24 @@
   "directory": "Symbolic_Instructions__Understanding_AI_Training_D_5f31a286",
   "title": "Symbolic Instructions Understanding AI Training D 5f31a286",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:26.047Z",
+  "generatedAt": "2025-07-14T17:49:51.448Z",
   "summary": {
-    "overallScore": -5.54746749508886,
+    "overallScore": 5.303408760730804,
     "readabilityGrade": "Very Poor",
     "wordCount": 8904,
     "estimatedReadingTime": 45
   },
   "readabilityMetrics": {
-    "fleschScore": -43.868668737722146,
+    "fleschScore": -16.74147809817299,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.734061019994822,
-    "fogIndex": 29.189766549408382,
-    "smogIndex": 22.148981382296004,
-    "ariIndex": 27.79720481748823,
-    "cliIndex": 0,
-    "avgSentenceLength": 21.559322033898304,
-    "avgSyllablesPerWord": 2.70473944294699,
-    "complexWordRatio": 0.5141509433962265
+    "fleschKincaidGrade": 23.93149778658253,
+    "fogIndex": 27.847971237801744,
+    "smogIndex": 23.002310645387226,
+    "ariIndex": 26.505325519113654,
+    "cliIndex": 22.212949494949495,
+    "avgSentenceLength": 33.559322033898304,
+    "avgSyllablesPerWord": 2.24011544011544,
+    "complexWordRatio": 0.3606060606060606
   },
   "sentenceAnalysis": {
     "totalSentences": 413,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 466,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -43.9",
+      "issue": "Very low Flesch Reading Ease score: -16.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -5.54746749508886,
-      "libraryAverage": 38.35,
+      "bookScore": 5.303408760730804,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -43.868668737722146,
-      "libraryAverage": 20.87,
+      "bookScore": -16.74147809817299,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 21.559322033898304,
-      "libraryAverage": 10.23,
+      "bookScore": 33.559322033898304,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.305256064690027,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

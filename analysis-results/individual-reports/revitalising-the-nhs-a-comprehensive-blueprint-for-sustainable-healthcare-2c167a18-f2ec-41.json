@@ -3,24 +3,24 @@
   "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
   "title": "Revitalising The NHS A Comprehensive Blueprint For Sustainable Healthcare 2c167a18-F2ec-41",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:23.568Z",
+  "generatedAt": "2025-07-14T17:49:48.843Z",
   "summary": {
-    "overallScore": 8.94578953884502,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 20.601373267604448,
+    "readabilityGrade": "Poor",
     "wordCount": 28247,
     "estimatedReadingTime": 142
   },
   "readabilityMetrics": {
-    "fleschScore": -22.63552615288745,
+    "fleschScore": 6.503433169011117,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 19.883593878275367,
-    "fogIndex": 24.15146264789251,
-    "smogIndex": 17.669980733467995,
-    "ariIndex": 22.43464887488139,
-    "cliIndex": 0,
-    "avgSentenceLength": 13.95602766798419,
-    "avgSyllablesPerWord": 2.544978227776401,
-    "complexWordRatio": 0.46422628951747086
+    "fleschKincaidGrade": 18.56771229838787,
+    "fogIndex": 22.398157558263108,
+    "smogIndex": 19.032712561301913,
+    "ariIndex": 20.415682295090875,
+    "cliIndex": 19.640258298939553,
+    "avgSentenceLength": 25.01926877470356,
+    "avgSyllablesPerWord": 2.0678133454452103,
+    "complexWordRatio": 0.30976125120954207
   },
   "sentenceAnalysis": {
     "totalSentences": 2024,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 22,
+    "subheaders": 80,
     "bulletPoints": 720,
     "numberedLists": 31,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -22.6",
+      "issue": "Very low Flesch Reading Ease score: 6.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 8.94578953884502,
-      "libraryAverage": 38.35,
+      "bookScore": 20.601373267604448,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
-      "percentile": 10
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": -22.63552615288745,
-      "libraryAverage": 20.87,
+      "bookScore": 6.503433169011117,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 13.95602766798419,
-      "libraryAverage": 10.23,
+      "bookScore": 25.01926877470356,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23184762983679683,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

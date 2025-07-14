@@ -3,24 +3,24 @@
   "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
   "title": "Chronos Resistance 61fc8b58-Bd77-4973-B45e-A97d2cc6d84a",
   "category": "Other",
-  "generatedAt": "2025-07-14T17:23:16.138Z",
+  "generatedAt": "2025-07-14T17:49:41.582Z",
   "summary": {
-    "overallScore": 28.438685408756136,
-    "readabilityGrade": "Poor",
+    "overallScore": 39.64562282628774,
+    "readabilityGrade": "Below Average",
     "wordCount": 6883,
     "estimatedReadingTime": 35
   },
   "readabilityMetrics": {
-    "fleschScore": 11.096713521890337,
-    "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 14.792511216432185,
-    "fogIndex": 18.449025239099335,
-    "smogIndex": 14.811606045943801,
-    "ariIndex": 16.781519817071178,
-    "cliIndex": 0,
-    "avgSentenceLength": 12.401801801801803,
-    "avgSyllablesPerWord": 2.164899026587244,
-    "complexWordRatio": 0.33720761295946533
+    "fleschScore": 39.11405706571935,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 13.545295173399023,
+    "fogIndex": 17.443016328872726,
+    "smogIndex": 15.562609693457325,
+    "ariIndex": 14.806813991039455,
+    "cliIndex": 13.731160832618695,
+    "avgSentenceLength": 23.111711711711713,
+    "avgSyllablesPerWord": 1.7052311530365636,
+    "complexWordRatio": 0.204958291104701
   },
   "sentenceAnalysis": {
     "totalSentences": 555,
@@ -82,15 +82,8 @@
       "category": "Structure",
       "priority": "Medium",
       "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-1000 words.",
       "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
-      "category": "Reading Flow",
-      "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 11.1",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
@@ -105,11 +98,6 @@
       "item": "Simplify vocabulary"
     },
     {
-      "priority": "High",
-      "score": 8,
-      "item": "Improve reading flow"
-    },
-    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
@@ -117,24 +105,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 28.438685408756136,
-      "libraryAverage": 38.35,
+      "bookScore": 39.64562282628774,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 30
     },
     "fleschScore": {
-      "bookScore": 11.096713521890337,
-      "libraryAverage": 20.87,
+      "bookScore": 39.11405706571935,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 12.401801801801803,
-      "libraryAverage": 10.23,
+      "bookScore": 23.111711711711713,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1688217347087026,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
   "title": "Technical Debt Mathematics In Infrastructure A Qu B886df5d",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:26.204Z",
+  "generatedAt": "2025-07-14T17:49:51.685Z",
   "summary": {
-    "overallScore": -8.245852812303088,
+    "overallScore": 3.1568444121089207,
     "readabilityGrade": "Very Poor",
     "wordCount": 12324,
     "estimatedReadingTime": 62
   },
   "readabilityMetrics": {
-    "fleschScore": -50.61463203075772,
+    "fleschScore": -22.107888969727696,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 25.947038179926306,
-    "fogIndex": 31.190943543921954,
-    "smogIndex": 23.353422611902086,
-    "ariIndex": 28.910635775244863,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.654411764705884,
-    "avgSyllablesPerWord": 2.7713404738721192,
-    "complexWordRatio": 0.55322947095099
+    "fleschKincaidGrade": 24.73239735160435,
+    "fogIndex": 29.326497684970242,
+    "smogIndex": 24.005869454330448,
+    "ariIndex": 27.23857281657152,
+    "cliIndex": 23.002205650209564,
+    "avgSentenceLength": 33.7702205882353,
+    "avgSyllablesPerWord": 2.3010179086603886,
+    "complexWordRatio": 0.395460236241903
   },
   "sentenceAnalysis": {
     "totalSentences": 544,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 64,
     "bulletPoints": 625,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -50.6",
+      "issue": "Very low Flesch Reading Ease score: -22.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -8.245852812303088,
-      "libraryAverage": 38.35,
+      "bookScore": 3.1568444121089207,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -50.61463203075772,
-      "libraryAverage": 20.87,
+      "bookScore": -22.107888969727696,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.654411764705884,
-      "libraryAverage": 10.23,
+      "bookScore": 33.7702205882353,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34866926322622527,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

@@ -3,24 +3,24 @@
   "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
   "title": "Transforming Government With OKRs A Guide To Implementing Objectives And Key Results In The Public Sector D3346850-0768-40",
   "category": "Government",
-  "generatedAt": "2025-07-14T17:23:28.574Z",
+  "generatedAt": "2025-07-14T17:49:54.086Z",
   "summary": {
-    "overallScore": 5.843854530323016,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 18.148873974768243,
+    "readabilityGrade": "Poor",
     "wordCount": 35762,
     "estimatedReadingTime": 179
   },
   "readabilityMetrics": {
-    "fleschScore": -30.390363674192457,
+    "fleschScore": 0.37218493692060406,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 22.028654931616156,
-    "fogIndex": 26.776777460804468,
-    "smogIndex": 20.15481197216441,
-    "ariIndex": 24.572946268150872,
-    "cliIndex": 0,
-    "avgSentenceLength": 18.23661397246303,
-    "avgSyllablesPerWord": 2.5852860578267434,
-    "complexWordRatio": 0.48705329679548126
+    "fleschKincaidGrade": 20.11766197950246,
+    "fogIndex": 24.37878861458776,
+    "smogIndex": 20.471501955288268,
+    "ariIndex": 21.864963393035325,
+    "cliIndex": 19.822826553247662,
+    "avgSentenceLength": 27.815910249872513,
+    "avgSyllablesPerWord": 2.1067336425467946,
+    "complexWordRatio": 0.3313106128659688
   },
   "sentenceAnalysis": {
     "totalSentences": 1961,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 18,
+    "subheaders": 78,
     "bulletPoints": 1391,
     "numberedLists": 147,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -30.4",
+      "issue": "Very low Flesch Reading Ease score: 0.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 5.843854530323016,
-      "libraryAverage": 38.35,
+      "bookScore": 18.148873974768243,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -30.390363674192457,
-      "libraryAverage": 20.87,
+      "bookScore": 0.37218493692060406,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 18.23661397246303,
-      "libraryAverage": 10.23,
+      "bookScore": 27.815910249872513,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23153067501817573,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

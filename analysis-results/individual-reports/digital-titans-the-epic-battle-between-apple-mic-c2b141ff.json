@@ -3,24 +3,24 @@
   "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
   "title": "Digital Titans The Epic Battle Between Apple Mic C2b141ff",
   "category": "Technology",
-  "generatedAt": "2025-07-14T17:23:17.447Z",
+  "generatedAt": "2025-07-14T17:49:42.817Z",
   "summary": {
-    "overallScore": -2.9347339473600194,
+    "overallScore": 7.921340287155715,
     "readabilityGrade": "Very Poor",
     "wordCount": 9956,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": -37.33683486840005,
+    "fleschScore": -10.196649282110712,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 23.641432915707778,
-    "fogIndex": 28.913944031563144,
-    "smogIndex": 21.831320171719305,
-    "ariIndex": 26.612660051506964,
-    "cliIndex": 0,
-    "avgSentenceLength": 20.828451882845187,
-    "avgSyllablesPerWord": 2.6362997187625554,
-    "complexWordRatio": 0.5145640819606268
+    "fleschKincaidGrade": 22.638002997389076,
+    "fogIndex": 27.280798316192705,
+    "smogIndex": 22.57407831614839,
+    "ariIndex": 25.01507784820972,
+    "cliIndex": 21.266677118035144,
+    "avgSentenceLength": 32.02719665271967,
+    "avgSyllablesPerWord": 2.181135279900712,
+    "complexWordRatio": 0.361747991377621
   },
   "sentenceAnalysis": {
     "totalSentences": 478,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 50,
     "bulletPoints": 445,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -37.3",
+      "issue": "Very low Flesch Reading Ease score: -10.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -2.9347339473600194,
-      "libraryAverage": 38.35,
+      "bookScore": 7.921340287155715,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -37.33683486840005,
-      "libraryAverage": 20.87,
+      "bookScore": -10.196649282110712,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 20.828451882845187,
-      "libraryAverage": 10.23,
+      "bookScore": 32.02719665271967,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2818400964242668,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

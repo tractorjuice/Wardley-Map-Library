@@ -3,24 +3,24 @@
   "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
   "title": "Are The GenAI Agents Taking Over Navigating The F 987fcdf5",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:14.451Z",
+  "generatedAt": "2025-07-14T17:49:39.599Z",
   "summary": {
-    "overallScore": 12.710971291866041,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 19.9035821460463,
+    "readabilityGrade": "Poor",
     "wordCount": 2640,
     "estimatedReadingTime": 14
   },
   "readabilityMetrics": {
-    "fleschScore": -13.222571770334895,
+    "fleschScore": 4.758955365115753,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 16.67262759170654,
-    "fogIndex": 20.7384370015949,
-    "smogIndex": 12.816540068035017,
-    "ariIndex": 17.60774700956938,
-    "cliIndex": 0,
-    "avgSentenceLength": 6.315789473684211,
-    "avgSyllablesPerWord": 2.525378787878788,
-    "complexWordRatio": 0.4553030303030303
+    "fleschKincaidGrade": 18.996429031555852,
+    "fogIndex": 22.32107617740223,
+    "smogIndex": 19.021662842667446,
+    "ariIndex": 20.226195732430597,
+    "cliIndex": 18.972137418755803,
+    "avgSentenceLength": 25.76555023923445,
+    "avgSyllablesPerWord": 2.0794800371402045,
+    "complexWordRatio": 0.30037140204271123
   },
   "sentenceAnalysis": {
     "totalSentences": 418,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 9,
+    "subheaders": 53,
     "bulletPoints": 308,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -13.2",
+      "issue": "Very low Flesch Reading Ease score: 4.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,24 +106,24 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12.710971291866041,
-      "libraryAverage": 38.35,
+      "bookScore": 19.9035821460463,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -13.222571770334895,
-      "libraryAverage": 20.87,
+      "bookScore": 4.758955365115753,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 6.315789473684211,
-      "libraryAverage": 10.23,
-      "comparison": "Better"
+      "bookScore": 25.76555023923445,
+      "libraryAverage": 18.69,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3613636363636364,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

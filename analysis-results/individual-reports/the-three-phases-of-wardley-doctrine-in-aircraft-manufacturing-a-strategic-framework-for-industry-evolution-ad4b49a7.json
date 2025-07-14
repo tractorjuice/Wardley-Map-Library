@@ -3,24 +3,24 @@
   "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
   "title": "The Three Phases Of Wardley Doctrine In Aircraft Manufacturing A Strategic Framework For Industry Evolution Ad4b49a7",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T17:23:28.286Z",
+  "generatedAt": "2025-07-14T17:49:53.760Z",
   "summary": {
-    "overallScore": -13.529165370214471,
+    "overallScore": -2.162153182497832,
     "readabilityGrade": "Very Poor",
     "wordCount": 8273,
     "estimatedReadingTime": 42
   },
   "readabilityMetrics": {
-    "fleschScore": -63.82291342553617,
+    "fleschScore": -35.40538295624458,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 28.314765270619166,
-    "fogIndex": 33.72502122552912,
-    "smogIndex": 25.06820497276468,
-    "ariIndex": 31.439779493352226,
-    "cliIndex": 0,
-    "avgSentenceLength": 24.769461077844312,
-    "avgSyllablesPerWord": 2.902091139852532,
-    "complexWordRatio": 0.5954309198597848
+    "fleschKincaidGrade": 27.714536752988753,
+    "fogIndex": 31.986112183604657,
+    "smogIndex": 25.95013341585706,
+    "ariIndex": 30.54510603646166,
+    "cliIndex": 24.401203595154353,
+    "avgSentenceLength": 38.308383233532936,
+    "avgSyllablesPerWord": 2.4037514654161782,
+    "complexWordRatio": 0.416568972254787
   },
   "sentenceAnalysis": {
     "totalSentences": 334,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 60,
     "bulletPoints": 552,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -63.8",
+      "issue": "Very low Flesch Reading Ease score: -35.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -13.529165370214471,
-      "libraryAverage": 38.35,
+      "bookScore": -2.162153182497832,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -63.82291342553617,
-      "libraryAverage": 20.87,
+      "bookScore": -35.40538295624458,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 24.769461077844312,
-      "libraryAverage": 10.23,
+      "bookScore": 38.308383233532936,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3766469237277892,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

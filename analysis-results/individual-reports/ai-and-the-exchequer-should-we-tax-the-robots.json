@@ -3,24 +3,24 @@
   "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
   "title": "AI And The Exchequer Should We Tax The Robots",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:14.273Z",
+  "generatedAt": "2025-07-14T17:49:39.418Z",
   "summary": {
-    "overallScore": 2.443956765167661,
+    "overallScore": 14.066055267139678,
     "readabilityGrade": "Very Poor",
     "wordCount": 84032,
     "estimatedReadingTime": 421
   },
   "readabilityMetrics": {
-    "fleschScore": -23.890108087080847,
+    "fleschScore": 5.165138167849193,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 20.634881153434588,
-    "fogIndex": 25.379801749338657,
-    "smogIndex": 18.95856270886556,
-    "ariIndex": 21.70310567106022,
-    "cliIndex": 0,
-    "avgSentenceLength": 16.275808638388533,
-    "avgSyllablesPerWord": 2.5319759139375475,
-    "complexWordRatio": 0.4717369573495811
+    "fleschKincaidGrade": 18.74838750025243,
+    "fogIndex": 22.68428636644713,
+    "smogIndex": 19.213655173332675,
+    "ariIndex": 19.609977682918434,
+    "cliIndex": 18.648319937996508,
+    "avgSentenceLength": 24.99515691592406,
+    "avgSyllablesPerWord": 2.0839217205967837,
+    "complexWordRatio": 0.3171555900019376
   },
   "sentenceAnalysis": {
     "totalSentences": 5162,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 9,
-    "subheaders": 18,
+    "subheaders": 580,
     "bulletPoints": 1597,
     "numberedLists": 0,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -23.9",
+      "issue": "Very low Flesch Reading Ease score: 5.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 2.443956765167661,
-      "libraryAverage": 38.35,
+      "bookScore": 14.066055267139678,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -23.890108087080847,
-      "libraryAverage": 20.87,
+      "bookScore": 5.165138167849193,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 16.275808638388533,
-      "libraryAverage": 10.23,
+      "bookScore": 24.99515691592406,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1890232292460015,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

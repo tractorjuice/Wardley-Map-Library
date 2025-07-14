@@ -3,24 +3,24 @@
   "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
   "title": "Privacy-Preserving AI Unlocking The Power Of Secure Machine Learning 9509ccd5-7a28-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:23.185Z",
+  "generatedAt": "2025-07-14T17:49:48.502Z",
   "summary": {
-    "overallScore": 3.4697921202366953,
-    "readabilityGrade": "Very Poor",
+    "overallScore": 16.706015254756345,
+    "readabilityGrade": "Poor",
     "wordCount": 34325,
     "estimatedReadingTime": 172
   },
   "readabilityMetrics": {
-    "fleschScore": -36.32551969940826,
+    "fleschScore": -3.2349618631091346,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 22.419759308437637,
-    "fogIndex": 26.72721573980606,
-    "smogIndex": 19.582649538904626,
-    "ariIndex": 24.39738238415306,
-    "cliIndex": 0,
-    "avgSentenceLength": 16.478636581853095,
-    "avgSyllablesPerWord": 2.676533139111435,
-    "complexWordRatio": 0.5033940276766206
+    "fleschKincaidGrade": 19.860291670032343,
+    "fogIndex": 23.855793640038026,
+    "smogIndex": 19.916820896669226,
+    "ariIndex": 21.201993039109674,
+    "cliIndex": 20.77440617485067,
+    "avgSentenceLength": 24.754680748919828,
+    "avgSyllablesPerWord": 2.1860988286401364,
+    "complexWordRatio": 0.34884803351175236
   },
   "sentenceAnalysis": {
     "totalSentences": 2083,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 23,
+    "subheaders": 84,
     "bulletPoints": 915,
     "numberedLists": 79,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -36.3",
+      "issue": "Very low Flesch Reading Ease score: -3.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 3.4697921202366953,
-      "libraryAverage": 38.35,
+      "bookScore": 16.706015254756345,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -36.32551969940826,
-      "libraryAverage": 20.87,
+      "bookScore": -3.2349618631091346,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 16.478636581853095,
-      "libraryAverage": 10.23,
+      "bookScore": 24.754680748919828,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2526147123088128,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

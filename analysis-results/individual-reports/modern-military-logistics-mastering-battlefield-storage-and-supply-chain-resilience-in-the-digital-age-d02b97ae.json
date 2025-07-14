@@ -3,24 +3,24 @@
   "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
   "title": "Modern Military Logistics Mastering Battlefield Storage And Supply Chain Resilience In The Digital Age D02b97ae",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:22.376Z",
+  "generatedAt": "2025-07-14T17:49:47.694Z",
   "summary": {
-    "overallScore": -6.354839460410972,
+    "overallScore": 5.673117148341122,
     "readabilityGrade": "Very Poor",
     "wordCount": 11511,
     "estimatedReadingTime": 58
   },
   "readabilityMetrics": {
-    "fleschScore": -60.88709865102743,
+    "fleschScore": -30.817207129147192,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 27.240631334694303,
-    "fogIndex": 32.234370895501606,
-    "smogIndex": 23.665786872442133,
-    "ariIndex": 29.560574600177986,
-    "cliIndex": 0,
-    "avgSentenceLength": 22.09404990403071,
-    "avgSyllablesPerWord": 2.899487446790027,
-    "complexWordRatio": 0.5849187733472331
+    "fleschKincaidGrade": 25.48498908692076,
+    "fogIndex": 29.899554644769314,
+    "smogIndex": 24.250711919926218,
+    "ariIndex": 27.42746706536014,
+    "cliIndex": 24.348208120300743,
+    "avgSentenceLength": 31.90978886756238,
+    "avgSyllablesPerWord": 2.426285714285714,
+    "complexWordRatio": 0.42839097744360904
   },
   "sentenceAnalysis": {
     "totalSentences": 521,
@@ -50,7 +50,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 53,
     "bulletPoints": 609,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -80,16 +80,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -60.9",
+      "issue": "Very low Flesch Reading Ease score: -30.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -109,33 +102,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.354839460410972,
-      "libraryAverage": 38.35,
+      "bookScore": 5.673117148341122,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -60.88709865102743,
-      "libraryAverage": 20.87,
+      "bookScore": -30.817207129147192,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 22.09404990403071,
-      "libraryAverage": 10.23,
+      "bookScore": 31.90978886756238,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2991920771436018,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

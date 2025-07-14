@@ -3,24 +3,24 @@
   "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
   "title": "Supply Chain Innovation In Oligopolistic Markets Cf77dcfe",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:25.971Z",
+  "generatedAt": "2025-07-14T17:49:51.381Z",
   "summary": {
-    "overallScore": -9.707760356350164,
+    "overallScore": 1.2347082417752624,
     "readabilityGrade": "Very Poor",
     "wordCount": 9542,
     "estimatedReadingTime": 48
   },
   "readabilityMetrics": {
-    "fleschScore": -54.2694008908754,
+    "fleschScore": -26.913229395561842,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 26.624658180869655,
-    "fogIndex": 30.79922699233706,
-    "smogIndex": 23.343491365165033,
-    "ariIndex": 29.66684866391745,
-    "cliIndex": 0,
-    "avgSentenceLength": 23.330073349633253,
-    "avgSyllablesPerWord": 2.8064347097044644,
-    "complexWordRatio": 0.536679941312094
+    "fleschKincaidGrade": 25.650453990557057,
+    "fogIndex": 29.33606374162222,
+    "smogIndex": 24.049577734287208,
+    "ariIndex": 28.275658439334386,
+    "cliIndex": 23.69941209563994,
+    "avgSentenceLength": 34.76772616136919,
+    "avgSyllablesPerWord": 2.3458509142053448,
+    "complexWordRatio": 0.38572433192686356
   },
   "sentenceAnalysis": {
     "totalSentences": 409,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 2,
-    "subheaders": 8,
+    "subheaders": 48,
     "bulletPoints": 509,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -54.3",
+      "issue": "Very low Flesch Reading Ease score: -26.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -9.707760356350164,
-      "libraryAverage": 38.35,
+      "bookScore": 1.2347082417752624,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -54.2694008908754,
-      "libraryAverage": 20.87,
+      "bookScore": -26.913229395561842,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 23.330073349633253,
-      "libraryAverage": 10.23,
+      "bookScore": 34.76772616136919,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.35118423810521904,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

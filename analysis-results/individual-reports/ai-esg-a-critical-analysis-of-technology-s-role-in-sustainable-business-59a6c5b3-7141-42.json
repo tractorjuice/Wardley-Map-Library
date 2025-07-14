@@ -3,24 +3,24 @@
   "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
   "title": "AI ESG A Critical Analysis Of Technology S Role In Sustainable Business 59a6c5b3-7141-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T17:23:13.884Z",
+  "generatedAt": "2025-07-14T17:49:38.992Z",
   "summary": {
-    "overallScore": -6.218412310223368,
+    "overallScore": 4.5848312707209855,
     "readabilityGrade": "Very Poor",
     "wordCount": 11954,
     "estimatedReadingTime": 60
   },
   "readabilityMetrics": {
-    "fleschScore": -45.54603077555842,
+    "fleschScore": -18.537921823197536,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.371228249958175,
-    "fogIndex": 29.449670102915878,
-    "smogIndex": 21.582503947771137,
-    "ariIndex": 26.685892212884433,
-    "cliIndex": 0,
-    "avgSentenceLength": 19.15705128205128,
-    "avgSyllablesPerWord": 2.753387987284591,
-    "complexWordRatio": 0.5446712397523842
+    "fleschKincaidGrade": 23.647381493009494,
+    "fogIndex": 27.919489560682543,
+    "smogIndex": 22.966147551914652,
+    "ariIndex": 26.078883330585796,
+    "cliIndex": 22.963588121236857,
+    "avgSentenceLength": 31.40705128205128,
+    "avgSyllablesPerWord": 2.287172160424533,
+    "complexWordRatio": 0.38391672619655065
   },
   "sentenceAnalysis": {
     "totalSentences": 624,
@@ -51,7 +51,7 @@
   },
   "structurePatterns": {
     "headers": 7,
-    "subheaders": 14,
+    "subheaders": 49,
     "bulletPoints": 554,
     "numberedLists": 19,
     "codeBlocks": 0,
@@ -81,16 +81,9 @@
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
     {
-      "category": "Structure",
-      "priority": "Medium",
-      "issue": "Insufficient headers and subheaders for content length",
-      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
-      "impact": "Medium - Better structure improves navigation and comprehension"
-    },
-    {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: -45.5",
+      "issue": "Very low Flesch Reading Ease score: -18.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -110,33 +103,28 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Medium",
-      "score": 7,
-      "item": "Add more structure"
     }
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": -6.218412310223368,
-      "libraryAverage": 38.35,
+      "bookScore": 4.5848312707209855,
+      "libraryAverage": 50.99,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": -45.54603077555842,
-      "libraryAverage": 20.87,
+      "bookScore": -18.537921823197536,
+      "libraryAverage": 52.48,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.15705128205128,
-      "libraryAverage": 10.23,
+      "bookScore": 31.40705128205128,
+      "libraryAverage": 18.69,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34808432323908317,
-      "libraryAverage": 0.119,
+      "libraryAverage": 0.12,
       "comparison": "More Complex"
     }
   }

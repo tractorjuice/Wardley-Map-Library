@@ -1,7 +1,21 @@
 {
-  "totalReports": 182,
-  "generatedAt": "2025-07-14T14:36:04.764Z",
+  "totalReports": 185,
+  "generatedAt": "2025-07-14T17:23:31.071Z",
   "reports": [
+    {
+      "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
+      "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
+      "title": "Automated Futures Human Taxes The Robot Tax Conu",
+      "category": "Other",
+      "overallScore": 43.4406547687812,
+      "readabilityGrade": "Below Average",
+      "wordCount": 91730,
+      "estimatedReadingTime": 459,
+      "topIssues": [
+        "Improve reading flow",
+        "Add more structure"
+      ]
+    },
     {
       "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
       "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
@@ -89,6 +103,20 @@
         "Shorten long sentences",
         "Simplify vocabulary",
         "Improve reading flow"
+      ]
+    },
+    {
+      "bookId": "the-automated-levy-navigating-the-future-of-taxat",
+      "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
+      "title": "The Automated Levy Navigating The Future Of Taxat",
+      "category": "Other",
+      "overallScore": 25.28089465284819,
+      "readabilityGrade": "Poor",
+      "wordCount": 66129,
+      "estimatedReadingTime": 331,
+      "topIssues": [
+        "Improve reading flow",
+        "Add more structure"
       ]
     },
     {
@@ -662,21 +690,6 @@
       ]
     },
     {
-      "bookId": "mastering-wardley-mapping-an-expert-s-guide-to-st",
-      "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
-      "title": "Mastering Wardley Mapping An Expert S Guide To St",
-      "category": "Strategic Mapping",
-      "overallScore": 8.258097400265376,
-      "readabilityGrade": "Very Poor",
-      "wordCount": 63093,
-      "estimatedReadingTime": 316,
-      "topIssues": [
-        "Shorten long sentences",
-        "Simplify vocabulary",
-        "Improve reading flow"
-      ]
-    },
-    {
       "bookId": "the-ai-success-trinity-mastering-dataops-mlops-and-finops-for-transformative-ai-implementation-fd9c6f12-26aa-42",
       "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
       "title": "The AI Success Trinity Mastering DataOps MLOps And FinOps For Transformative AI Implementation Fd9c6f12-26aa-42",
@@ -700,6 +713,21 @@
       "readabilityGrade": "Very Poor",
       "wordCount": 4291,
       "estimatedReadingTime": 22,
+      "topIssues": [
+        "Shorten long sentences",
+        "Simplify vocabulary",
+        "Improve reading flow"
+      ]
+    },
+    {
+      "bookId": "mastering-wardley-mapping-an-expert-s-guide-to-st",
+      "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
+      "title": "Mastering Wardley Mapping An Expert S Guide To St",
+      "category": "Strategic Mapping",
+      "overallScore": 7.955059007929195,
+      "readabilityGrade": "Very Poor",
+      "wordCount": 65076,
+      "estimatedReadingTime": 326,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1487,6 +1515,21 @@
       ]
     },
     {
+      "bookId": "ai-and-the-exchequer-should-we-tax-the-robots",
+      "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
+      "title": "AI And The Exchequer Should We Tax The Robots",
+      "category": "Artificial Intelligence",
+      "overallScore": 2.443956765167661,
+      "readabilityGrade": "Very Poor",
+      "wordCount": 84032,
+      "estimatedReadingTime": 421,
+      "topIssues": [
+        "Shorten long sentences",
+        "Simplify vocabulary",
+        "Improve reading flow"
+      ]
+    },
+    {
       "bookId": "wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making-c91d313b",
       "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
       "title": "Wardley Mapping For Digital Transformation A Practical Guide To Strategic Decision-Making C91d313b",
@@ -1776,10 +1819,10 @@
       "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
       "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
       "category": "Strategic Mapping",
-      "overallScore": -1.2069709383810867,
+      "overallScore": -1.288042700810493,
       "readabilityGrade": "Very Poor",
-      "wordCount": 10138,
-      "estimatedReadingTime": 51,
+      "wordCount": 10284,
+      "estimatedReadingTime": 52,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",

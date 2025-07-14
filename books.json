@@ -1,7 +1,7 @@
 {
-  "generated": "2025-07-14T13:07:10.422Z",
+  "generated": "2025-07-14T17:21:35.241Z",
   "version": "1.0.0",
-  "totalBooks": 182,
+  "totalBooks": 185,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -42,6 +42,23 @@
       ],
       "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
       "path": "/workspaces/GenAI-Books/books/AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
+    },
+    {
+      "id": "ai-and-the-exchequer-should-we-tax-the-robots",
+      "title": "AI and the Exchequer: Should We Tax the Robots?",
+      "category": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
+      "path": "/workspaces/GenAI-Books/books/AI_and_the_Exchequer__Should_We_Tax_the_Robots_/full_book.md",
       "additionalFiles": [
         "markdown/"
       ]
@@ -101,6 +118,19 @@
       "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
       "path": "/workspaces/GenAI-Books/books/Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5/full_book.md",
       "additionalFiles": []
+    },
+    {
+      "id": "automated-futures-human-taxes-the-robot-tax-conu",
+      "title": "Automated Futures, Human Taxes: The Robot Tax Conundrum",
+      "category": "HM Revenue & Customs",
+      "categories": [
+        "HM Revenue & Customs"
+      ],
+      "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
+      "path": "/workspaces/GenAI-Books/books/Automated_Futures__Human_Taxes__The_Robot_Tax_Conu/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
     },
     {
       "id": "battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d",
@@ -2064,6 +2094,23 @@
       "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
       "path": "/workspaces/GenAI-Books/books/The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6/full_book.md",
       "additionalFiles": []
+    },
+    {
+      "id": "the-automated-levy-navigating-the-future-of-taxat",
+      "title": "The Automated Levy: Navigating the Future of Taxation in an AI-Driven World",
+      "category": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "HM Revenue & Customs"
+      ],
+      "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
+      "path": "/workspaces/GenAI-Books/books/The_Automated_Levy__Navigating_the_Future_of_Taxat/full_book.md",
+      "additionalFiles": [
+        "markdown/"
+      ]
     },
     {
       "id": "the-bullshit-asymmetry-why-lies-spread-fast-and-t-d95c927f",

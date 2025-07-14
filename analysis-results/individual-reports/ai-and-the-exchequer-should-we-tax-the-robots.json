@@ -1,0 +1,143 @@
+{
+  "bookId": "ai-and-the-exchequer-should-we-tax-the-robots",
+  "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
+  "title": "AI And The Exchequer Should We Tax The Robots",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T17:23:14.273Z",
+  "summary": {
+    "overallScore": 2.443956765167661,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 84032,
+    "estimatedReadingTime": 421
+  },
+  "readabilityMetrics": {
+    "fleschScore": -23.890108087080847,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.634881153434588,
+    "fogIndex": 25.379801749338657,
+    "smogIndex": 18.95856270886556,
+    "ariIndex": 21.70310567106022,
+    "cliIndex": 0,
+    "avgSentenceLength": 16.275808638388533,
+    "avgSyllablesPerWord": 2.5319759139375475,
+    "complexWordRatio": 0.4717369573495811
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 5162,
+    "avgWordsPerSentence": 24.99515691592406,
+    "avgSyllablesPerWord": 2.0839217205967837,
+    "longSentences": 2101,
+    "shortSentences": 118,
+    "complexWords": 40921,
+    "passiveVoice": 842,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1760,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)",
+      "Too many long sentences (40.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 84032,
+    "uniqueWords": 5988,
+    "vocabularyRichness": 0.07125856816450876,
+    "rareWords": 945,
+    "technicalTerms": 14829,
+    "jargonWords": 110,
+    "avgWordLength": 7.429979055597867,
+    "complexityScore": 0.1890232292460015
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 18,
+    "bulletPoints": 1597,
+    "numberedLists": 0,
+    "codeBlocks": 0,
+    "quotes": 3,
+    "links": 588,
+    "emphasis": 29,
+    "paragraphs": 1818,
+    "avgParagraphLength": 70.20847084708471,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 159,
+    "definitions": 271
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "High vocabulary complexity score: 18.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: -23.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.443956765167661,
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -23.890108087080847,
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
+    },
+    "sentenceLength": {
+      "bookScore": 16.275808638388533,
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.1890232292460015,
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
+    }
+  }
+}

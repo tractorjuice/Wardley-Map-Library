@@ -65,6 +65,13 @@
   </url>
 
   <url>
+    <loc>https://library.wardleymaps.ai/?category=hm-revenue-customs</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://library.wardleymaps.ai/?category=united-nations</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,13 +149,6 @@
   </url>
 
   <url>
-    <loc>https://library.wardleymaps.ai/?category=hm-revenue-customs</loc>
-    <lastmod>2025-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://library.wardleymaps.ai/?category=uk-statistics-authority</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -213,6 +213,13 @@
   </url>
 
   <url>
+    <loc>https://library.wardleymaps.ai/?book=ai-and-the-exchequer-should-we-tax-the-robots</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://library.wardleymaps.ai/?book=ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -235,6 +242,13 @@
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=are-the-genai-agents-taking-over-navigating-the-f-987fcdf5</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://library.wardleymaps.ai/?book=automated-futures-human-taxes-the-robot-tax-conu</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1229,6 +1243,13 @@
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-algorithmic-consumer-how-ai-agents-are-rewrit-08335ae6</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://library.wardleymaps.ai/?book=the-automated-levy-navigating-the-future-of-taxat</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

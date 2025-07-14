@@ -1,0 +1,115 @@
+{
+  "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
+  "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
+  "title": "Automated Futures Human Taxes The Robot Tax Conu",
+  "category": "Other",
+  "generatedAt": "2025-07-14T17:23:14.802Z",
+  "summary": {
+    "overallScore": 43.4406547687812,
+    "readabilityGrade": "Below Average",
+    "wordCount": 91730,
+    "estimatedReadingTime": 459
+  },
+  "readabilityMetrics": {
+    "fleschScore": 25.95691872725115,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 12.570958919469799,
+    "fogIndex": 15.337860126658947,
+    "smogIndex": 13.240266633781115,
+    "ariIndex": 13.393218105015059,
+    "cliIndex": 0,
+    "avgSentenceLength": 11.802624806999486,
+    "avgSyllablesPerWord": 1.9964351902322033,
+    "complexWordRatio": 0.2654202550964788
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 7771,
+    "avgWordsPerSentence": 19.822931411658733,
+    "avgSyllablesPerWord": 1.663407857495261,
+    "longSentences": 1873,
+    "shortSentences": 555,
+    "complexWords": 25553,
+    "passiveVoice": 930,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 3164,
+    "readabilityIssues": []
+  },
+  "vocabularyComplexity": {
+    "totalWords": 91730,
+    "uniqueWords": 4849,
+    "vocabularyRichness": 0.05286165921726807,
+    "rareWords": 681,
+    "technicalTerms": 7326,
+    "jargonWords": 231,
+    "avgWordLength": 6.140531996075439,
+    "complexityScore": 0.0898070424070642
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 20,
+    "bulletPoints": 2147,
+    "numberedLists": 0,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 642,
+    "emphasis": 397,
+    "paragraphs": 2131,
+    "avgParagraphLength": 70.62505865790709,
+    "tableOfContents": true,
+    "summaries": 68,
+    "examples": 289,
+    "definitions": 140
+  },
+  "recommendations": [
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Insufficient headers and subheaders for content length",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 200-400 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Very low Flesch Reading Ease score: 26.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 43.4406547687812,
+      "libraryAverage": 38.35,
+      "comparison": "Above Average",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 25.95691872725115,
+      "libraryAverage": 20.87,
+      "comparison": "Above Average"
+    },
+    "sentenceLength": {
+      "bookScore": 11.802624806999486,
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.0898070424070642,
+      "libraryAverage": 0.119,
+      "comparison": "Simpler"
+    }
+  }
+}

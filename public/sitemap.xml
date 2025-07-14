@@ -12,22 +12,6 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- API Health Check -->
-  <url>
-    <loc>https://library.wardleymaps.ai/api/health</loc>
-    <lastmod>2025-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
-  <!-- Books API -->
-  <url>
-    <loc>https://library.wardleymaps.ai/api/books</loc>
-    <lastmod>2025-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
   <!-- Category Collection Pages -->
   <url>
     <loc>https://library.wardleymaps.ai/?category=artificial-intelligence</loc>

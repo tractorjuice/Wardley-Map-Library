@@ -407,22 +407,6 @@ class ManifestGenerator {
     <priority>1.0</priority>
   </url>
 
-  <!-- API Health Check -->
-  <url>
-    <loc>https://library.wardleymaps.ai/api/health</loc>
-    <lastmod>${currentDate}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
-  <!-- Books API -->
-  <url>
-    <loc>https://library.wardleymaps.ai/api/books</loc>
-    <lastmod>${currentDate}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
   <!-- Category Collection Pages -->
 ${categoryUrls}
 
@@ -434,7 +418,7 @@ ${bookUrls}
         try {
             await fs.writeFile(sitemapPath, sitemapContent);
             console.log(`✅ Generated sitemap file: ${sitemapPath}`);
-            console.log(`🗺️  Total URLs: ${3 + categories.size + this.books.length}`);
+            console.log(`🗺️  Total URLs: ${1 + categories.size + this.books.length}`);
         } catch (error) {
             console.error('❌ Error writing sitemap file:', error);
             throw error;

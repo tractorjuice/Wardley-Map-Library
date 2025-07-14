@@ -234,7 +234,7 @@ function generateIndividualReport(bookData, bookId) {
         improvementPriorities: identifyImprovementPriorities(bookData),
         
         // Comparison with library average
-        benchmarks: generateBenchmarks(bookData)
+        benchmarks: generateBenchmarks(bookData, bookId)
     };
 
     return reportData;
@@ -265,7 +265,7 @@ function identifyImprovementPriorities(analysis) {
         .sort((a, b) => b.score - a.score);
 }
 
-function generateBenchmarks(analysis) {
+function generateBenchmarks(analysis, bookId) {
     // Using Wardley Mapping eBook (May 2024 v1.8) as reference benchmark
     // This is a well-written, accessible strategic text that serves as our quality standard
     const referenceBenchmark = {
@@ -280,26 +280,47 @@ function generateBenchmarks(analysis) {
         complexityScore: 0.120
     };
 
+    // Check if this is the reference book itself
+    const isReferenceBook = bookId === 'wardley-mapping-ebok-may-2024-v1-8';
+    
+    // Helper function to determine if a score is within 3% of reference (considered "good")
+    function getComparison(bookScore, referenceScore, higherIsBetter = true) {
+        if (isReferenceBook) return 'Reference Standard';
+        
+        const tolerance = 0.03; // 3% tolerance
+        const diff = Math.abs(bookScore - referenceScore) / referenceScore;
+        
+        if (diff <= tolerance) {
+            return 'Good'; // Within 3% of reference
+        }
+        
+        if (higherIsBetter) {
+            return bookScore > referenceScore ? 'Above Reference' : 'Below Reference';
+        } else {
+            return bookScore < referenceScore ? 'Better' : 'Worse';
+        }
+    }
+
     return {
         overallScore: {
             bookScore: analysis.overallScore || 0,
             referenceBenchmark: referenceBenchmark.overallScore,
-            comparison: (analysis.overallScore || 0) > referenceBenchmark.overallScore ? 'Above Reference' : 'Below Reference'
+            comparison: getComparison(analysis.overallScore || 0, referenceBenchmark.overallScore, true)
         },
         fleschScore: {
             bookScore: analysis.readabilityMetrics?.fleschScore || 0,
             referenceBenchmark: referenceBenchmark.fleschScore,
-            comparison: (analysis.readabilityMetrics?.fleschScore || 0) > referenceBenchmark.fleschScore ? 'Above Reference' : 'Below Reference'
+            comparison: getComparison(analysis.readabilityMetrics?.fleschScore || 0, referenceBenchmark.fleschScore, true)
         },
         sentenceLength: {
             bookScore: analysis.readabilityMetrics?.avgSentenceLength || 0,
             referenceBenchmark: referenceBenchmark.sentenceLength,
-            comparison: (analysis.readabilityMetrics?.avgSentenceLength || 0) < referenceBenchmark.sentenceLength ? 'Better' : 'Worse'
+            comparison: getComparison(analysis.readabilityMetrics?.avgSentenceLength || 0, referenceBenchmark.sentenceLength, false)
         },
         vocabularyComplexity: {
             bookScore: analysis.vocabularyComplexity?.complexityScore || 0,
             referenceBenchmark: referenceBenchmark.complexityScore,
-            comparison: (analysis.vocabularyComplexity?.complexityScore || 0) < referenceBenchmark.complexityScore ? 'Simpler' : 'More Complex'
+            comparison: getComparison(analysis.vocabularyComplexity?.complexityScore || 0, referenceBenchmark.complexityScore, false)
         }
     };
 }

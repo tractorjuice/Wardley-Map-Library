@@ -76,7 +76,7 @@ class IndividualReadabilityReports {
             improvementPriorities: this.identifyImprovementPriorities(analysis),
             
             // Comparison with library average
-            benchmarks: this.generateBenchmarks(analysis)
+            benchmarks: this.generateBenchmarks(analysis, bookId)
         };
 
         // Save individual report
@@ -227,7 +227,7 @@ class IndividualReadabilityReports {
             .sort((a, b) => b.score - a.score);
     }
 
-    generateBenchmarks(analysis) {
+    generateBenchmarks(analysis, bookId) {
         // Using Wardley Mapping eBook (May 2024 v1.8) as reference benchmark
         // This is a well-written, accessible strategic text that serves as our quality standard
         const referenceBenchmark = {
@@ -242,27 +242,48 @@ class IndividualReadabilityReports {
             complexityScore: 0.120
         };
 
+        // Check if this is the reference book itself
+        const isReferenceBook = bookId === 'wardley-mapping-ebok-may-2024-v1-8';
+        
+        // Helper function to determine if a score is within 3% of reference (considered "good")
+        function getComparison(bookScore, referenceScore, higherIsBetter = true) {
+            if (isReferenceBook) return 'Reference Standard';
+            
+            const tolerance = 0.03; // 3% tolerance
+            const diff = Math.abs(bookScore - referenceScore) / referenceScore;
+            
+            if (diff <= tolerance) {
+                return 'Good'; // Within 3% of reference
+            }
+            
+            if (higherIsBetter) {
+                return bookScore > referenceScore ? 'Above Reference' : 'Below Reference';
+            } else {
+                return bookScore < referenceScore ? 'Better' : 'Worse';
+            }
+        }
+
         return {
             overallScore: {
                 bookScore: analysis.overallScore,
                 referenceBenchmark: referenceBenchmark.overallScore,
-                comparison: analysis.overallScore > referenceBenchmark.overallScore ? 'Above Reference' : 'Below Reference',
+                comparison: getComparison(analysis.overallScore, referenceBenchmark.overallScore, true),
                 percentile: this.calculatePercentile(analysis.overallScore, referenceBenchmark.overallScore)
             },
             fleschScore: {
                 bookScore: analysis.readabilityMetrics.fleschScore,
                 referenceBenchmark: referenceBenchmark.fleschScore,
-                comparison: analysis.readabilityMetrics.fleschScore > referenceBenchmark.fleschScore ? 'Above Reference' : 'Below Reference'
+                comparison: getComparison(analysis.readabilityMetrics.fleschScore, referenceBenchmark.fleschScore, true)
             },
             sentenceLength: {
                 bookScore: analysis.readabilityMetrics.avgSentenceLength,
                 referenceBenchmark: referenceBenchmark.sentenceLength,
-                comparison: analysis.readabilityMetrics.avgSentenceLength < referenceBenchmark.sentenceLength ? 'Better' : 'Worse'
+                comparison: getComparison(analysis.readabilityMetrics.avgSentenceLength, referenceBenchmark.sentenceLength, false)
             },
             vocabularyComplexity: {
                 bookScore: analysis.vocabularyComplexity.complexityScore,
                 referenceBenchmark: referenceBenchmark.complexityScore,
-                comparison: analysis.vocabularyComplexity.complexityScore < referenceBenchmark.complexityScore ? 'Simpler' : 'More Complex'
+                comparison: getComparison(analysis.vocabularyComplexity.complexityScore, referenceBenchmark.complexityScore, false)
             }
         };
     }

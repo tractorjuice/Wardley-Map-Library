@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
   "title": "Wardley Mapping EBoK May 2024 V1 8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:28:51.975Z",
+  "generatedAt": "2025-07-14T18:36:18.920Z",
   "summary": {
     "overallScore": 50.99100952402176,
     "readabilityGrade": "Average",
@@ -67,23 +67,23 @@
     "overallScore": {
       "bookScore": 50.99100952402176,
       "referenceBenchmark": 50.99,
-      "comparison": "Above Reference",
+      "comparison": "Reference Standard",
       "percentile": 60
     },
     "fleschScore": {
       "bookScore": 52.47752381005441,
       "referenceBenchmark": 52.48,
-      "comparison": "Below Reference"
+      "comparison": "Reference Standard"
     },
     "sentenceLength": {
       "bookScore": 18.692983606557377,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Reference Standard"
     },
     "vocabularyComplexity": {
       "bookScore": 0.11992600833053062,
       "referenceBenchmark": 0.12,
-      "comparison": "Simpler"
+      "comparison": "Reference Standard"
     }
   }
 }

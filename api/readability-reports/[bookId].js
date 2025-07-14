@@ -281,7 +281,7 @@ function generateBenchmarks(analysis, bookId) {
     };
 
     // Check if this is the reference book itself
-    const isReferenceBook = bookId === 'wardley-mapping-ebok-may-2024-v1-8';
+    const isReferenceBook = bookId === 'wardley-mapping-the-knowledge-part-one-topographical-intelligence-in-business';
     
     // Helper function to determine if a score is within 3% of reference (considered "good")
     function getComparison(bookScore, referenceScore, higherIsBetter = true) {

@@ -3,15 +3,15 @@
   "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
   "title": "Open Source As A Competitive Weapon Strategy Communication 0d597dd3-B074",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T13:05:53.321Z",
+  "generatedAt": "2025-07-14T14:35:57.007Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": 6.0609693911248765,
     "readabilityGrade": "Very Poor",
     "wordCount": 9959,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -14.847576522187808,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 18.70096428736566,
     "fogIndex": 22.894865187048918,
@@ -83,7 +83,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -14.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,13 +107,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": 6.0609693911248765,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -14.847576522187808,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

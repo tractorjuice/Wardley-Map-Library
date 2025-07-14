@@ -3,15 +3,15 @@
   "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
   "title": "AI Revolution In Healthcare Navigating Challenges And Opportunities In The Age Of Generative AI Bfe9f52c-8099-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:44.686Z",
+  "generatedAt": "2025-07-14T14:35:48.706Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 3.2309068276936035,
+    "readabilityGrade": "Very Poor",
     "wordCount": 25438,
     "estimatedReadingTime": 128
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -36.92273293076599,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.035593106864372,
     "fogIndex": 27.64703068707691,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -36.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 3.2309068276936035,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -36.92273293076599,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

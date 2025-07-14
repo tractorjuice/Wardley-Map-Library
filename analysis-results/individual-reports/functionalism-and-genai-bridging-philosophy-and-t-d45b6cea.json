@@ -3,15 +3,15 @@
   "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
   "title": "Functionalism And GenAI Bridging Philosophy And T D45b6cea",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:48.648Z",
+  "generatedAt": "2025-07-14T14:35:52.245Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 4.34992285930125,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7287,
     "estimatedReadingTime": 37
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -34.125192851746874,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.534239045194195,
     "fogIndex": 25.805270351110707,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -34.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 4.34992285930125,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -34.125192851746874,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

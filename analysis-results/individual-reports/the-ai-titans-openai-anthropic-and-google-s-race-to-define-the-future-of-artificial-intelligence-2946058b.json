@@ -3,15 +3,15 @@
   "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
   "title": "The AI Titans OpenAI Anthropic And Google S Race To Define The Future Of Artificial Intelligence 2946058b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.306Z",
+  "generatedAt": "2025-07-14T14:36:00.853Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -4.852115551840324,
     "readabilityGrade": "Very Poor",
     "wordCount": 10627,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -42.13028887960081,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.1835387944521,
     "fogIndex": 29.996549357214686,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -42.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -4.852115551840324,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -42.13028887960081,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

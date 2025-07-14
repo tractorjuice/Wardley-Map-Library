@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
   "title": "Wardley Mapping Mastery Uncovering Hidden Opportunities In Business Strategy 058b2cd6-6fe2-4e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:59.474Z",
+  "generatedAt": "2025-07-14T14:36:02.768Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.427251415251419,
+    "readabilityGrade": "Very Poor",
     "wordCount": 28080,
     "estimatedReadingTime": 141
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -31.431871461871452,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.95751325394183,
     "fogIndex": 26.441923156208873,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -31.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.427251415251419,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -31.431871461871452,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

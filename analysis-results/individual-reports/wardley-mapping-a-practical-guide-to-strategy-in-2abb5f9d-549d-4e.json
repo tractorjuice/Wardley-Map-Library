@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
   "title": "Wardley Mapping A Practical Guide To Strategy In 2abb5f9d-549d-4e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:59.855Z",
+  "generatedAt": "2025-07-14T14:36:03.023Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.341990049852768,
+    "readabilityGrade": "Very Poor",
     "wordCount": 30744,
     "estimatedReadingTime": 154
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -24.14502487536808,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.651890734085125,
     "fogIndex": 24.619230726819758,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -24.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.341990049852768,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -24.14502487536808,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

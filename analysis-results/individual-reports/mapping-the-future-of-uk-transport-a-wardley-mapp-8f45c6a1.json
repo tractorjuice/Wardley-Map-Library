@@ -3,15 +3,15 @@
   "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
   "title": "Mapping The Future Of UK Transport A Wardley Mapp 8f45c6a1",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:51.581Z",
+  "generatedAt": "2025-07-14T14:35:55.370Z",
   "summary": {
-    "overallScore": 24,
+    "overallScore": 15.720869697139857,
     "readabilityGrade": "Poor",
     "wordCount": 33884,
     "estimatedReadingTime": 170
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -20.697825757150355,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.181861357833437,
     "fogIndex": 23.731995140247058,
@@ -81,7 +81,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -20.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -105,13 +105,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24,
+      "bookScore": 15.720869697139857,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -20.697825757150355,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

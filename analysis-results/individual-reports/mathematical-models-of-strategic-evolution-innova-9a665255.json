@@ -3,15 +3,15 @@
   "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
   "title": "Mathematical Models Of Strategic Evolution Innova 9a665255",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:52.748Z",
+  "generatedAt": "2025-07-14T14:35:56.403Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.639640391260684,
     "readabilityGrade": "Very Poor",
     "wordCount": 6199,
     "estimatedReadingTime": 31
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -51.59910097815171,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.691200108676274,
     "fogIndex": 31.803667171079578,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -51.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.639640391260684,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -51.59910097815171,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

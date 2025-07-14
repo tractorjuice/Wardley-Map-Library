@@ -3,15 +3,15 @@
   "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
   "title": "Maps To Action Mastering Strategy Development Through Wardley Mapping B13af0f0",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:51.866Z",
+  "generatedAt": "2025-07-14T14:35:55.702Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.4584743309039929,
+    "readabilityGrade": "Very Poor",
     "wordCount": 15235,
     "estimatedReadingTime": 77
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -43.853814172740016,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.234587390615072,
     "fogIndex": 29.38110382779333,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -43.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.4584743309039929,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -43.853814172740016,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

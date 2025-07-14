@@ -3,15 +3,15 @@
   "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
   "title": "AI For Global Goals Leveraging Generative AI To Advance UN Sustainable Development 43b32ef8-Ec94-4a",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:44.847Z",
+  "generatedAt": "2025-07-14T14:35:48.828Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.333024200823004,
     "readabilityGrade": "Very Poor",
     "wordCount": 11027,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.832560502057504,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.73140062532705,
     "fogIndex": 30.702437578203742,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.333024200823004,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.832560502057504,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

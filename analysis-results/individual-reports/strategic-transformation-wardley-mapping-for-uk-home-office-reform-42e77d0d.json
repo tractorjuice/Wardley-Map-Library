@@ -3,15 +3,15 @@
   "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
   "title": "Strategic Transformation Wardley Mapping For UK Home Office Reform 42e77d0d",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:56.181Z",
+  "generatedAt": "2025-07-14T14:35:59.883Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.130164053660884,
     "readabilityGrade": "Very Poor",
     "wordCount": 14526,
     "estimatedReadingTime": 73
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.32541013415221,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.882224621005125,
     "fogIndex": 31.131681465575117,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.130164053660884,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.32541013415221,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

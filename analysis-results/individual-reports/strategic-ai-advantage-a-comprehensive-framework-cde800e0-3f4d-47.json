@@ -3,15 +3,15 @@
   "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
   "title": "Strategic AI Advantage A Comprehensive Framework Cde800e0-3f4d-47",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:55.573Z",
+  "generatedAt": "2025-07-14T14:35:59.300Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -13.94112281927336,
     "readabilityGrade": "Very Poor",
     "wordCount": 139440,
     "estimatedReadingTime": 698
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -64.8528070481834,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 28.58732293545393,
     "fogIndex": 33.93490673404016,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -64.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -13.94112281927336,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -64.8528070481834,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

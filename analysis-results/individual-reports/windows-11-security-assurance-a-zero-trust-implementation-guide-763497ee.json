@@ -3,15 +3,15 @@
   "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
   "title": "Windows 11 Security Assurance A Zero Trust Implementation Guide 763497ee",
   "category": "Security",
-  "generatedAt": "2025-07-14T13:06:01.674Z",
+  "generatedAt": "2025-07-14T14:36:04.407Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -9.74867646391995,
     "readabilityGrade": "Very Poor",
     "wordCount": 11419,
     "estimatedReadingTime": 58
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -54.371691159799866,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.449405025671457,
     "fogIndex": 31.403617990541388,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -54.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -9.74867646391995,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -54.371691159799866,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

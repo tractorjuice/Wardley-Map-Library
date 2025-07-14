@@ -3,15 +3,15 @@
   "directory": "GenAI_2025__A_Strategic_Guide_to_Next_Year_s_Artificial_Intelligence_Landscape_5f7d25ba",
   "title": "GenAI 2025 A Strategic Guide To Next Year S Artificial Intelligence Landscape 5f7d25ba",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:48.880Z",
+  "generatedAt": "2025-07-14T14:35:52.475Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -7.779826047031566,
     "readabilityGrade": "Very Poor",
     "wordCount": 11132,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -49.44956511757891,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.64364876888592,
     "fogIndex": 30.800425485800982,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -49.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -7.779826047031566,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -49.44956511757891,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

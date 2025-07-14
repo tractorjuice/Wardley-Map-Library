@@ -3,15 +3,15 @@
   "directory": "Strategic_Mapping__A_Leader_s_Guide_to_Navigating_Business_Evolution_with_Wardley_Maps_651fd7e3",
   "title": "Strategic Mapping A Leader S Guide To Navigating Business Evolution With Wardley Maps 651fd7e3",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:56.002Z",
+  "generatedAt": "2025-07-14T14:35:59.712Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 3.32180124223604,
+    "readabilityGrade": "Very Poor",
     "wordCount": 12600,
     "estimatedReadingTime": 63
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -36.6954968944099,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.91412008281573,
     "fogIndex": 27.802760524499657,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -36.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 3.32180124223604,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -36.6954968944099,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

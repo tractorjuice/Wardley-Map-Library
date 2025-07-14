@@ -3,15 +3,15 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
   "title": "Oceans Of Change Advancing SDG 14 Through Science Innovation And Community Action 8eea52bb-8996-4ffa-9956-F609622bd264",
   "category": "Data Science",
-  "generatedAt": "2025-07-14T13:05:53.065Z",
+  "generatedAt": "2025-07-14T14:35:56.757Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": 0.7508651083548212,
     "readabilityGrade": "Very Poor",
     "wordCount": 4453,
     "estimatedReadingTime": 23
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -28.122837229112946,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 18.94064003581659,
     "fogIndex": 23.581852644311528,
@@ -83,7 +83,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -28.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,13 +107,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": 0.7508651083548212,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -28.122837229112946,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

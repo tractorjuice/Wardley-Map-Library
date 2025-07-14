@@ -3,15 +3,15 @@
   "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
   "title": "The Age Of Agency Navigating The GenAI Revolution 458c1358",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.487Z",
+  "generatedAt": "2025-07-14T14:36:01.041Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.693752348212717,
+    "readabilityGrade": "Very Poor",
     "wordCount": 40956,
     "estimatedReadingTime": 205
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -23.265619129468206,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.66619410993356,
     "fogIndex": 23.924734385780837,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -23.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.693752348212717,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -23.265619129468206,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

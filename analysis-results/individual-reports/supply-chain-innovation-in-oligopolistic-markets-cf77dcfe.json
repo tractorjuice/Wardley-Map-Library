@@ -3,15 +3,15 @@
   "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
   "title": "Supply Chain Innovation In Oligopolistic Markets Cf77dcfe",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.279Z",
+  "generatedAt": "2025-07-14T14:35:59.966Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -9.707760356350164,
     "readabilityGrade": "Very Poor",
     "wordCount": 9542,
     "estimatedReadingTime": 48
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -54.2694008908754,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.624658180869655,
     "fogIndex": 30.79922699233706,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -54.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -9.707760356350164,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -54.2694008908754,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

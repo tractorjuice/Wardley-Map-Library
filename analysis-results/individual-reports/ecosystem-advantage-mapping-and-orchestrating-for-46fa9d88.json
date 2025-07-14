@@ -3,15 +3,15 @@
   "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
   "title": "Ecosystem Advantage Mapping And Orchestrating For 46fa9d88",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:48.357Z",
+  "generatedAt": "2025-07-14T14:35:51.942Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 6.219414775835922,
+    "readabilityGrade": "Very Poor",
     "wordCount": 38812,
     "estimatedReadingTime": 195
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -29.45146306041019,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.616955181634697,
     "fogIndex": 25.389143313054266,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -29.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 6.219414775835922,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -29.45146306041019,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
   "title": "The Planet Information Platform Mapping Earth With Satellites AI And Big Data 3e65b5a1-5404-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:58.318Z",
+  "generatedAt": "2025-07-14T14:36:01.684Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 7.138468882486755,
+    "readabilityGrade": "Very Poor",
     "wordCount": 24428,
     "estimatedReadingTime": 123
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -27.15382779378311,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.19263654826967,
     "fogIndex": 23.202993017727934,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -27.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 7.138468882486755,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -27.15382779378311,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

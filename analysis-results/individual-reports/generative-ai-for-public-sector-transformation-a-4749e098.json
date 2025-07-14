@@ -3,15 +3,15 @@
   "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
   "title": "Generative AI For Public Sector Transformation A 4749e098",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:49.976Z",
+  "generatedAt": "2025-07-14T14:35:53.753Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 9.056479558675948,
+    "readabilityGrade": "Very Poor",
     "wordCount": 26393,
     "estimatedReadingTime": 132
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.358801103310128,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.81618741768443,
     "fogIndex": 24.301606953473286,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 9.056479558675948,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.358801103310128,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

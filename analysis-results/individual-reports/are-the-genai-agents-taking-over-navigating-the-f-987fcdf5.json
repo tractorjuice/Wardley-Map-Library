@@ -3,15 +3,15 @@
   "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
   "title": "Are The GenAI Agents Taking Over Navigating The F 987fcdf5",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:45.039Z",
+  "generatedAt": "2025-07-14T14:35:49.030Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 12.710971291866041,
+    "readabilityGrade": "Very Poor",
     "wordCount": 2640,
     "estimatedReadingTime": 14
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -13.222571770334895,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 16.67262759170654,
     "fogIndex": 20.7384370015949,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -13.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,13 +106,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 12.710971291866041,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -13.222571770334895,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

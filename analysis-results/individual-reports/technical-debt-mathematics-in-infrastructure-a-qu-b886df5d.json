@@ -3,15 +3,15 @@
   "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
   "title": "Technical Debt Mathematics In Infrastructure A Qu B886df5d",
   "category": "Technology",
-  "generatedAt": "2025-07-14T13:05:56.530Z",
+  "generatedAt": "2025-07-14T14:36:00.226Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.245852812303088,
     "readabilityGrade": "Very Poor",
     "wordCount": 12324,
     "estimatedReadingTime": 62
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.61463203075772,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.947038179926306,
     "fogIndex": 31.190943543921954,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.245852812303088,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.61463203075772,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

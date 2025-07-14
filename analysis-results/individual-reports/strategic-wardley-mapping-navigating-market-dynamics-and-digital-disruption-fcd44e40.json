@@ -3,15 +3,15 @@
   "directory": "Strategic_Wardley_Mapping__Navigating_Market_Dynamics_and_Digital_Disruption_fcd44e40",
   "title": "Strategic Wardley Mapping Navigating Market Dynamics And Digital Disruption Fcd44e40",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:56.242Z",
+  "generatedAt": "2025-07-14T14:35:59.929Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 1.0551116887668748,
+    "readabilityGrade": "Very Poor",
     "wordCount": 12720,
     "estimatedReadingTime": 64
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -42.362220778082815,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.05965004770528,
     "fogIndex": 29.193771053605158,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -42.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 1.0551116887668748,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -42.362220778082815,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

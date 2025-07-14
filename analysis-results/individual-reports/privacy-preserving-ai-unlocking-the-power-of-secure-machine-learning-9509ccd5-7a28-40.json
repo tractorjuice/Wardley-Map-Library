@@ -3,15 +3,15 @@
   "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
   "title": "Privacy-Preserving AI Unlocking The Power Of Secure Machine Learning 9509ccd5-7a28-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:53.583Z",
+  "generatedAt": "2025-07-14T14:35:57.279Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 3.4697921202366953,
+    "readabilityGrade": "Very Poor",
     "wordCount": 34325,
     "estimatedReadingTime": 172
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -36.32551969940826,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.419759308437637,
     "fogIndex": 26.72721573980606,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -36.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 3.4697921202366953,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -36.32551969940826,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

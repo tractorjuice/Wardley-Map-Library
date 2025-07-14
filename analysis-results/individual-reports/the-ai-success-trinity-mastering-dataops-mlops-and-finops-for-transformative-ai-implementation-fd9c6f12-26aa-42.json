@@ -3,15 +3,15 @@
   "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
   "title": "The AI Success Trinity Mastering DataOps MLOps And FinOps For Transformative AI Implementation Fd9c6f12-26aa-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.000Z",
+  "generatedAt": "2025-07-14T14:36:00.677Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.203207592113346,
+    "readabilityGrade": "Very Poor",
     "wordCount": 25702,
     "estimatedReadingTime": 129
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -24.491981019716633,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.315769760717682,
     "fogIndex": 24.40776211728373,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -24.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.203207592113346,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -24.491981019716633,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

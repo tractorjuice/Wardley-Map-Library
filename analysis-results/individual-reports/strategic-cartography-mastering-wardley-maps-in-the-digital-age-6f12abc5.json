@@ -3,15 +3,15 @@
   "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
   "title": "Strategic Cartography Mastering Wardley Maps In The Digital Age 6f12abc5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:55.775Z",
+  "generatedAt": "2025-07-14T14:35:59.473Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -6.047046317645449,
     "readabilityGrade": "Very Poor",
     "wordCount": 12726,
     "estimatedReadingTime": 64
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -45.11761579411362,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.965843128833438,
     "fogIndex": 30.259735543025926,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -45.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -6.047046317645449,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -45.11761579411362,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

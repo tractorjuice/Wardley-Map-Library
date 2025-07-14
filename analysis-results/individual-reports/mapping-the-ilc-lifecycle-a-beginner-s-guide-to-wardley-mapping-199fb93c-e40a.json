@@ -3,15 +3,15 @@
   "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
   "title": "Mapping The ILC Lifecycle A Beginner S Guide To Wardley Mapping 199fb93c-E40a",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:51.638Z",
+  "generatedAt": "2025-07-14T14:35:55.414Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": 2.9305101123403805,
     "readabilityGrade": "Very Poor",
     "wordCount": 9935,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.67372471914905,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.397959691993112,
     "fogIndex": 26.4838764316727,
@@ -97,7 +97,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -131,13 +131,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": 2.9305101123403805,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.67372471914905,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
   "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:06:01.818Z",
+  "generatedAt": "2025-07-14T14:36:04.568Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.347582974796488,
+    "readabilityGrade": "Very Poor",
     "wordCount": 31254,
     "estimatedReadingTime": 157
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -31.631042563008776,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.907721884129057,
     "fogIndex": 25.85108941186833,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -31.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.347582974796488,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -31.631042563008776,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

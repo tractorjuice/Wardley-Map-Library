@@ -3,15 +3,15 @@
   "directory": "Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d",
   "title": "Conscious Earth Harnessing The Planet S Information Platform Revolution 0b9366d1-Db69-4d",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:46.899Z",
+  "generatedAt": "2025-07-14T14:35:50.755Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.886348951077922,
+    "readabilityGrade": "Very Poor",
     "wordCount": 33966,
     "estimatedReadingTime": 170
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -30.284127622305192,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.919062746881774,
     "fogIndex": 25.523678286448934,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -30.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.886348951077922,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -30.284127622305192,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

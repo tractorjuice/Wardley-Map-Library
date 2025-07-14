@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
   "title": "Wardley Mapping Mastering Strategy Through Landsc 1ad8b99f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:06:00.073Z",
+  "generatedAt": "2025-07-14T14:36:03.270Z",
   "summary": {
-    "overallScore": 24,
-    "readabilityGrade": "Poor",
+    "overallScore": 14.803488977162612,
+    "readabilityGrade": "Very Poor",
     "wordCount": 44605,
     "estimatedReadingTime": 224
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.99127755709347,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.373053625487014,
     "fogIndex": 24.203854505556706,
@@ -81,7 +81,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -23.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -105,13 +105,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24,
+      "bookScore": 14.803488977162612,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.99127755709347,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

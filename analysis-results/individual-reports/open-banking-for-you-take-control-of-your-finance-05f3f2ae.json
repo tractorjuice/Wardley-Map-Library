@@ -3,15 +3,15 @@
   "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
   "title": "Open Banking For You Take Control Of Your Finance 05f3f2ae",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:53.181Z",
+  "generatedAt": "2025-07-14T14:35:56.865Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 14.018537171776142,
+    "readabilityGrade": "Very Poor",
     "wordCount": 19780,
     "estimatedReadingTime": 99
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -9.953657070559643,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 17.813836505686258,
     "fogIndex": 21.664166657980047,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -10.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 14.018537171776142,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -9.953657070559643,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

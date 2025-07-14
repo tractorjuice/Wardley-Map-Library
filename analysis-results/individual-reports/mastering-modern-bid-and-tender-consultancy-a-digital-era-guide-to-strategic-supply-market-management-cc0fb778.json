@@ -3,15 +3,15 @@
   "directory": "Mastering_Modern_Bid_and_Tender_Consultancy__A_Digital-Era_Guide_to_Strategic_Supply_Market_Management_cc0fb778",
   "title": "Mastering Modern Bid And Tender Consultancy A Digital-Era Guide To Strategic Supply Market Management Cc0fb778",
   "category": "Technology",
-  "generatedAt": "2025-07-14T13:05:52.061Z",
+  "generatedAt": "2025-07-14T14:35:55.894Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -2.256251302105092,
     "readabilityGrade": "Very Poor",
     "wordCount": 2566,
     "estimatedReadingTime": 13
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -35.640628255262726,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.598430449021375,
     "fogIndex": 25.102029511037372,
@@ -83,7 +83,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -35.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -107,13 +107,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -2.256251302105092,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -35.640628255262726,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
   "title": "The Creative Revolution How Generative AI Is Transforming Human Potential 78de33e7",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.799Z",
+  "generatedAt": "2025-07-14T14:36:01.364Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -5.0513538959428494,
     "readabilityGrade": "Very Poor",
     "wordCount": 13056,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -42.628384739857125,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.674732365754057,
     "fogIndex": 29.364343401778925,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -42.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -5.0513538959428494,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -42.628384739857125,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

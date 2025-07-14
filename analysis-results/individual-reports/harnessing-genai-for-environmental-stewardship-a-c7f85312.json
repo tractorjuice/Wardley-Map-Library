@@ -3,15 +3,15 @@
   "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
   "title": "Harnessing GenAI For Environmental Stewardship A C7f85312",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:50.275Z",
+  "generatedAt": "2025-07-14T14:35:54.037Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 6.405405141512539,
+    "readabilityGrade": "Very Poor",
     "wordCount": 32309,
     "estimatedReadingTime": 162
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -28.98648714621865,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.774009631771538,
     "fogIndex": 25.456702536418177,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -29.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 6.405405141512539,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -28.98648714621865,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

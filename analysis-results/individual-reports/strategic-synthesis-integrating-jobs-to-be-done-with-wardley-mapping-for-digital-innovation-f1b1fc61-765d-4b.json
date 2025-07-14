@@ -3,15 +3,15 @@
   "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
   "title": "Strategic Synthesis Integrating Jobs-To-Be-Done With Wardley Mapping For Digital Innovation F1b1fc61-765d-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:56.062Z",
+  "generatedAt": "2025-07-14T14:35:59.776Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -2.5830005976999253,
     "readabilityGrade": "Very Poor",
     "wordCount": 9726,
     "estimatedReadingTime": 49
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -36.45750149424981,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.045212215482426,
     "fogIndex": 28.107633676350687,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -36.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -2.5830005976999253,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -36.45750149424981,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

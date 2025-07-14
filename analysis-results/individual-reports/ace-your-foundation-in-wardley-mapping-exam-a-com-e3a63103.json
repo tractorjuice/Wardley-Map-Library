@@ -3,15 +3,15 @@
   "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
   "title": "Ace Your Foundation In Wardley Mapping Exam A Com E3a63103",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:45.008Z",
+  "generatedAt": "2025-07-14T14:35:49.007Z",
   "summary": {
-    "overallScore": 24,
+    "overallScore": 17.094442628495493,
     "readabilityGrade": "Poor",
     "wordCount": 21565,
     "estimatedReadingTime": 108
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -17.263893428761264,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 18.428811833560015,
     "fogIndex": 23.137789851348476,
@@ -81,7 +81,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -17.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -105,13 +105,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24,
+      "bookScore": 17.094442628495493,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 20
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -17.263893428761264,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

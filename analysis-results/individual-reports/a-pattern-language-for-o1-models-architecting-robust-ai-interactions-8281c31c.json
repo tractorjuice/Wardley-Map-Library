@@ -3,15 +3,15 @@
   "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
   "title": "A Pattern Language For O1 Models Architecting Robust AI Interactions 8281c31c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:44.905Z",
+  "generatedAt": "2025-07-14T14:35:48.897Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.291029574736115,
     "readabilityGrade": "Very Poor",
     "wordCount": 11818,
     "estimatedReadingTime": 60
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.72757393684029,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.90581080929198,
     "fogIndex": 30.93651076751349,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.291029574736115,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.72757393684029,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

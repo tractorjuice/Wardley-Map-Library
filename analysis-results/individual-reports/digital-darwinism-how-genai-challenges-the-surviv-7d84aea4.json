@@ -3,15 +3,15 @@
   "directory": "Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4",
   "title": "Digital Darwinism How GenAI Challenges The Surviv 7d84aea4",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:47.784Z",
+  "generatedAt": "2025-07-14T14:35:51.537Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -4.019544001191047,
     "readabilityGrade": "Very Poor",
     "wordCount": 10039,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -40.04886000297762,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.208708732716605,
     "fogIndex": 28.538079639941863,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -40.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -4.019544001191047,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -40.04886000297762,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

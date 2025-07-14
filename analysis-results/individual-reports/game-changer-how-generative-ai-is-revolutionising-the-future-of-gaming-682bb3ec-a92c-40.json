@@ -3,15 +3,15 @@
   "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
   "title": "Game Changer How Generative AI Is Revolutionising The Future Of Gaming 682bb3ec-A92c-40",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:48.841Z",
+  "generatedAt": "2025-07-14T14:35:52.431Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 11.091566833670232,
+    "readabilityGrade": "Very Poor",
     "wordCount": 38165,
     "estimatedReadingTime": 191
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -17.271082915824422,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.173378672671664,
     "fogIndex": 23.27338841246044,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -17.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 11.091566833670232,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -17.271082915824422,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

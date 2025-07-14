@@ -3,15 +3,15 @@
   "directory": "Mapping_Sustainable_Development__A_Strategic_Approach_to_SDGs_using_Wardley_Mapping_1ec7fcf3",
   "title": "Mapping Sustainable Development A Strategic Approach To SDGs Using Wardley Mapping 1ec7fcf3",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:51.051Z",
+  "generatedAt": "2025-07-14T14:35:54.867Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -6.874431458581718,
     "readabilityGrade": "Very Poor",
     "wordCount": 10186,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -47.18607864645429,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.058334066770446,
     "fogIndex": 30.242568311873384,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -47.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -6.874431458581718,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -47.18607864645429,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

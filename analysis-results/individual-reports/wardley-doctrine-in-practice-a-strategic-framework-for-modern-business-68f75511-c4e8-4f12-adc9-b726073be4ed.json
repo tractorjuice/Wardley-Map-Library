@@ -3,15 +3,15 @@
   "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
   "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:59.367Z",
+  "generatedAt": "2025-07-14T14:36:02.663Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": -1.2069709383810867,
+    "readabilityGrade": "Very Poor",
     "wordCount": 10138,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -48.01742734595271,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.828285715157907,
     "fogIndex": 29.81254387708806,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -48.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": -1.2069709383810867,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -48.01742734595271,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

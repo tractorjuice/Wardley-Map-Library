@@ -3,15 +3,15 @@
   "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
   "title": "The AI Agent Revolution Navigating The Future Of 05666c37",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.752Z",
+  "generatedAt": "2025-07-14T14:36:00.453Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -5.949106128825132,
     "readabilityGrade": "Very Poor",
     "wordCount": 12898,
     "estimatedReadingTime": 65
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -44.87276532206283,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.814411672512495,
     "fogIndex": 29.59753662878094,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -44.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -5.949106128825132,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -44.87276532206283,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
   "title": "Secure By Design Implementing UK Government Security Standards In Modern Systems Fd3d8065",
   "category": "Government",
-  "generatedAt": "2025-07-14T13:05:54.353Z",
+  "generatedAt": "2025-07-14T14:35:58.046Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -10.963780667160847,
     "readabilityGrade": "Very Poor",
     "wordCount": 16625,
     "estimatedReadingTime": 84
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -57.40945166790212,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 27.08385277983692,
     "fogIndex": 32.329204701895584,
@@ -97,7 +97,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -57.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -131,13 +131,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -10.963780667160847,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -57.40945166790212,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

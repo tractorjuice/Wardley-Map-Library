@@ -3,15 +3,15 @@
   "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
   "title": "Mapping Evolution Mastering Strategy In A Red Queen World 19ec116b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:50.859Z",
+  "generatedAt": "2025-07-14T14:35:54.682Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.5084219882982097,
+    "readabilityGrade": "Very Poor",
     "wordCount": 10653,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -43.728945029254476,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.286945183432483,
     "fogIndex": 28.894549703259816,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -43.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.5084219882982097,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -43.728945029254476,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

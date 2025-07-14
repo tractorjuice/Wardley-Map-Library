@@ -3,15 +3,15 @@
   "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
   "title": "The Algorithmic Consumer How AI Agents Are Rewrit 08335ae6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.698Z",
+  "generatedAt": "2025-07-14T14:36:01.253Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 9.023380201956387,
+    "readabilityGrade": "Very Poor",
     "wordCount": 42979,
     "estimatedReadingTime": 215
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.44154949510903,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.50053861663942,
     "fogIndex": 24.068748165133613,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 9.023380201956387,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.44154949510903,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

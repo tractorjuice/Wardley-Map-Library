@@ -3,15 +3,15 @@
   "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
   "title": "British Airways 2030 Transforming Loyalty In The Digital Age A Strategic Framework For Future Success F8b42d91-7e23-4a",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:45.568Z",
+  "generatedAt": "2025-07-14T14:35:49.491Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -7.324393232654032,
     "readabilityGrade": "Very Poor",
     "wordCount": 9154,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -48.31098308163507,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.99802508585142,
     "fogIndex": 30.487082193115402,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -48.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -7.324393232654032,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -48.31098308163507,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

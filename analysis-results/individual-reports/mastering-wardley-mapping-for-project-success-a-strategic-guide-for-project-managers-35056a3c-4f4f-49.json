@@ -3,15 +3,15 @@
   "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
   "title": "Mastering Wardley Mapping For Project Success A Strategic Guide For Project Managers 35056a3c-4f4f-49",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.520Z",
+  "generatedAt": "2025-07-14T14:35:56.175Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 14.148346558746539,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7529,
     "estimatedReadingTime": 38
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -9.629133603133653,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 17.730178873572914,
     "fogIndex": 21.2826338825438,
@@ -82,7 +82,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -9.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -106,13 +106,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 14.148346558746539,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -9.629133603133653,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

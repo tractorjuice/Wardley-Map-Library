@@ -249,7 +249,7 @@ class ReadabilityAnalyzer {
         const fleschKincaidGrade = 0.39 * avgSentenceLength + 11.8 * avgSyllablesPerWord - 15.59;
 
         return {
-            fleschScore: Math.max(0, Math.min(100, fleschScore)),
+            fleschScore: Math.min(100, fleschScore), // Allow negative scores to show true readability
             fleschGrade,
             fleschKincaidGrade: Math.max(0, fleschKincaidGrade),
             fogIndex: Math.max(0, fogIndex),

@@ -3,15 +3,15 @@
   "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Advantage_30e647db",
   "title": "Strategic Cartography Mastering Wardley Maps For Business Advantage 30e647db",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:55.633Z",
+  "generatedAt": "2025-07-14T14:35:59.350Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.8993155940594058,
+    "readabilityGrade": "Very Poor",
     "wordCount": 13635,
     "estimatedReadingTime": 69
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -42.75171101485148,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.926934130913093,
     "fogIndex": 29.204629629629633,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -42.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.8993155940594058,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -42.75171101485148,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

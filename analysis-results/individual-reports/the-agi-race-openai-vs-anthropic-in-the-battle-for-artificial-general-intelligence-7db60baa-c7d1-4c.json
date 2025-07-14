@@ -3,15 +3,15 @@
   "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
   "title": "The AGI Race OpenAI Vs Anthropic In The Battle For Artificial General Intelligence 7db60baa-C7d1-4c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.668Z",
+  "generatedAt": "2025-07-14T14:36:00.371Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 7.6554337121576275,
+    "readabilityGrade": "Very Poor",
     "wordCount": 32452,
     "estimatedReadingTime": 163
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -25.86141571960593,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.302954060342675,
     "fogIndex": 25.67491064250287,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -25.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 7.6554337121576275,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -25.86141571960593,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

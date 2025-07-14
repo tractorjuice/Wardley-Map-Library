@@ -3,15 +3,15 @@
   "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
   "title": "Reversible Revolution Can Vaire Computing Cool Do 0a9bab82",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:53.821Z",
+  "generatedAt": "2025-07-14T14:35:57.505Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.004681137919249,
+    "readabilityGrade": "Very Poor",
     "wordCount": 23878,
     "estimatedReadingTime": 120
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -32.48829715520188,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.123353384385613,
     "fogIndex": 27.297327745628294,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -32.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.004681137919249,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -32.48829715520188,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

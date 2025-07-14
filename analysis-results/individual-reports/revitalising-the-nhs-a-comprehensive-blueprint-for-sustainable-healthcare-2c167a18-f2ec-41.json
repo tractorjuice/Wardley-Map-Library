@@ -3,15 +3,15 @@
   "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
   "title": "Revitalising The NHS A Comprehensive Blueprint For Sustainable Healthcare 2c167a18-F2ec-41",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:53.935Z",
+  "generatedAt": "2025-07-14T14:35:57.667Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.94578953884502,
+    "readabilityGrade": "Very Poor",
     "wordCount": 28247,
     "estimatedReadingTime": 142
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.63552615288745,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.883593878275367,
     "fogIndex": 24.15146264789251,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.94578953884502,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.63552615288745,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

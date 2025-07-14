@@ -3,15 +3,15 @@
   "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
   "title": "GenAI For Official Statistics A Strategic Guide F 29969967",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:49.357Z",
+  "generatedAt": "2025-07-14T14:35:53.068Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 6.134726607426943,
+    "readabilityGrade": "Very Poor",
     "wordCount": 32819,
     "estimatedReadingTime": 165
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -29.66318348143264,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.76720938517035,
     "fogIndex": 25.334850741148408,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -29.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 6.134726607426943,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -29.66318348143264,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

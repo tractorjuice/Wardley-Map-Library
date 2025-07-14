@@ -3,15 +3,15 @@
   "directory": "The_AI_Revolution_s_Triple_Threat__Understanding_and_Navigating_the_Three_Critical_Changes_Reshaping_Our_World_abce334f",
   "title": "The AI Revolution S Triple Threat Understanding And Navigating The Three Critical Changes Reshaping Our World Abce334f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.846Z",
+  "generatedAt": "2025-07-14T14:36:00.562Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -7.126310966014046,
     "readabilityGrade": "Very Poor",
     "wordCount": 11670,
     "estimatedReadingTime": 59
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -47.815777415035114,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.440365110240098,
     "fogIndex": 30.554044851932584,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -47.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -7.126310966014046,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -47.815777415035114,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
   "title": "Strategic Mastery Creating Math Models For Wardle 78d38b18",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:56.027Z",
+  "generatedAt": "2025-07-14T14:35:59.747Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 4.3533151409213815,
+    "readabilityGrade": "Very Poor",
     "wordCount": 8932,
     "estimatedReadingTime": 45
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -34.116712147696546,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.27152608237147,
     "fogIndex": 26.179148548892712,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -34.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 4.3533151409213815,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -34.116712147696546,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

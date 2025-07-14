@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
   "title": "Wardley Mapping For Startups Navigating Uncertainty And Driving Innovation 5c03d220-6cf2-41",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:06:01.531Z",
+  "generatedAt": "2025-07-14T14:36:04.271Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 10.45651088106671,
+    "readabilityGrade": "Very Poor",
     "wordCount": 46233,
     "estimatedReadingTime": 232
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -18.85872279733323,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.335753789511717,
     "fogIndex": 23.190458917412087,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -18.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 10.45651088106671,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -18.85872279733323,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

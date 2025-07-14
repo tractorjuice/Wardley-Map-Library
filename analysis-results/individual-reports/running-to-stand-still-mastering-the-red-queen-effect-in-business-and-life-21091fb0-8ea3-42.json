@@ -3,15 +3,15 @@
   "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
   "title": "Running To Stand Still Mastering The Red Queen Effect In Business And Life 21091fb0-8ea3-42",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T13:05:54.286Z",
+  "generatedAt": "2025-07-14T14:35:57.983Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 7.755072481633567,
+    "readabilityGrade": "Very Poor",
     "wordCount": 26995,
     "estimatedReadingTime": 135
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -25.61231879591608,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.017941687772673,
     "fogIndex": 25.44156556480728,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -25.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 7.755072481633567,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -25.61231879591608,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

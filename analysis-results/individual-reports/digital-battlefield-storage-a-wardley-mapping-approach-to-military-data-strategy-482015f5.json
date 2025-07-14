@@ -3,15 +3,15 @@
   "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
   "title": "Digital Battlefield Storage A Wardley Mapping Approach To Military Data Strategy 482015f5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:47.685Z",
+  "generatedAt": "2025-07-14T14:35:51.462Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": -5.506152488038868,
+    "readabilityGrade": "Very Poor",
     "wordCount": 11027,
     "estimatedReadingTime": 56
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -58.76538122009717,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.71390916415771,
     "fogIndex": 31.47137737471121,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -58.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": -5.506152488038868,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -58.76538122009717,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

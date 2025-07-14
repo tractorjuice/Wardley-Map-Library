@@ -3,15 +3,15 @@
   "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
   "title": "Mastering Wardley Mapping An Expert S Guide To St",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.475Z",
+  "generatedAt": "2025-07-14T14:35:56.147Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.258097400265376,
+    "readabilityGrade": "Very Poor",
     "wordCount": 63093,
     "estimatedReadingTime": 316
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -24.35475649933656,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.63552345563119,
     "fogIndex": 25.473464306229896,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -24.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.258097400265376,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -24.35475649933656,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

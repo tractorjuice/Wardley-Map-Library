@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
   "title": "Wardley Mapping For Data Science Revolutionising Strategy In Technology Labs B1cccb77-E255-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:06:01.250Z",
+  "generatedAt": "2025-07-14T14:36:03.947Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": 0.3339381316034178,
     "readabilityGrade": "Very Poor",
     "wordCount": 33073,
     "estimatedReadingTime": 166
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -29.165154670991456,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.86664710410405,
     "fogIndex": 25.84491616987234,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -29.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": 0.3339381316034178,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -29.165154670991456,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

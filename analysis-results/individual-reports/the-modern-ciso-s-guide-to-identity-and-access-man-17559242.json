@@ -3,15 +3,15 @@
   "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
   "title": "The Modern CISO S Guide To Identity And Access Man 17559242",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:58.017Z",
+  "generatedAt": "2025-07-14T14:36:01.519Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -10.680057540345015,
     "readabilityGrade": "Very Poor",
     "wordCount": 9584,
     "estimatedReadingTime": 48
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -56.70014385086253,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.83674493202958,
     "fogIndex": 31.6526607838461,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -56.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -10.680057540345015,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -56.70014385086253,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

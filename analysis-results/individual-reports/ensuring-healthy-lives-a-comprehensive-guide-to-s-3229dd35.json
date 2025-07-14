@@ -3,15 +3,15 @@
   "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
   "title": "Ensuring Healthy Lives A Comprehensive Guide To S 3229dd35",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:48.415Z",
+  "generatedAt": "2025-07-14T14:35:51.997Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 8.284749502588078,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7319,
     "estimatedReadingTime": 37
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -24.288126243529803,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.548842459540015,
     "fogIndex": 25.339651691435133,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -24.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 8.284749502588078,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -24.288126243529803,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

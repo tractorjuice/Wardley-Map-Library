@@ -3,15 +3,15 @@
   "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
   "title": "From Lotus To AI Modernising Legacy Systems For The Generative AI Era 88200f01-7a30-42",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:48.625Z",
+  "generatedAt": "2025-07-14T14:35:52.224Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 3.54605054745989,
+    "readabilityGrade": "Very Poor",
     "wordCount": 45943,
     "estimatedReadingTime": 230
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -36.134873631350274,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.033352296052424,
     "fogIndex": 27.96570052048969,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -36.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 3.54605054745989,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -36.134873631350274,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

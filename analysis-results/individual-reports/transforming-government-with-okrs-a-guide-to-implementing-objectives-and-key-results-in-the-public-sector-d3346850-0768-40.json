@@ -3,15 +3,15 @@
   "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
   "title": "Transforming Government With OKRs A Guide To Implementing Objectives And Key Results In The Public Sector D3346850-0768-40",
   "category": "Government",
-  "generatedAt": "2025-07-14T13:05:59.009Z",
+  "generatedAt": "2025-07-14T14:36:02.305Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.843854530323016,
+    "readabilityGrade": "Very Poor",
     "wordCount": 35762,
     "estimatedReadingTime": 179
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -30.390363674192457,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.028654931616156,
     "fogIndex": 26.776777460804468,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -30.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.843854530323016,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -30.390363674192457,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

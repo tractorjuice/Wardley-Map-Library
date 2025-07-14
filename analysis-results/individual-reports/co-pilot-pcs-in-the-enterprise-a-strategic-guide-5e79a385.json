@@ -3,15 +3,15 @@
   "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
   "title": "Co-Pilot PCs In The Enterprise A Strategic Guide 5e79a385",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:46.731Z",
+  "generatedAt": "2025-07-14T14:35:50.608Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.8512064197816915,
+    "readabilityGrade": "Very Poor",
     "wordCount": 26191,
     "estimatedReadingTime": 131
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -30.37198395054577,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.82718732370221,
     "fogIndex": 26.316495613391737,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -30.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.8512064197816915,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -30.37198395054577,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

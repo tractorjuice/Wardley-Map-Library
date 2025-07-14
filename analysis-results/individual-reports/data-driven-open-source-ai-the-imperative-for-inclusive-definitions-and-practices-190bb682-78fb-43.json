@@ -3,15 +3,15 @@
   "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
   "title": "Data-Driven Open Source AI The Imperative For Inclusive Definitions And Practices 190bb682-78fb-43",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:47.330Z",
+  "generatedAt": "2025-07-14T14:35:51.153Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 9.633675117317546,
+    "readabilityGrade": "Very Poor",
     "wordCount": 19679,
     "estimatedReadingTime": 99
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -20.915812206706136,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.681186886080734,
     "fogIndex": 23.663964931050167,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -20.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 9.633675117317546,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -20.915812206706136,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

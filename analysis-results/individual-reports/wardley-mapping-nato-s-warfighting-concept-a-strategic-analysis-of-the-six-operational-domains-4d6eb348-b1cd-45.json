@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
   "title": "Wardley Mapping NATO S Warfighting Concept A Strategic Analysis Of The Six Operational Domains 4d6eb348-B1cd-45",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:59.572Z",
+  "generatedAt": "2025-07-14T14:36:02.868Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.4297253876053215,
+    "readabilityGrade": "Very Poor",
     "wordCount": 23280,
     "estimatedReadingTime": 117
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -31.425686530986695,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.120269799745007,
     "fogIndex": 25.0032990104002,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -31.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.4297253876053215,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -31.425686530986695,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5",
   "title": "Mapping Armageddon A Wardley Map Approach To Worl C1f4c8c5",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:50.810Z",
+  "generatedAt": "2025-07-14T14:35:54.628Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.036137510010519,
+    "readabilityGrade": "Very Poor",
     "wordCount": 29803,
     "estimatedReadingTime": 150
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -32.4096562249737,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.965663930233088,
     "fogIndex": 25.69666113849274,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -32.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.036137510010519,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -32.4096562249737,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

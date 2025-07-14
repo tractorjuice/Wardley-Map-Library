@@ -3,15 +3,15 @@
   "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
   "title": "Unlocking The Power Of Generative AI For Sustainable Development B341a861",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:59.304Z",
+  "generatedAt": "2025-07-14T14:36:02.592Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 7.444868069615165,
+    "readabilityGrade": "Very Poor",
     "wordCount": 30075,
     "estimatedReadingTime": 151
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -26.387829825962086,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 20.22117579568864,
     "fogIndex": 24.735969036565372,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -26.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 7.444868069615165,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -26.387829825962086,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

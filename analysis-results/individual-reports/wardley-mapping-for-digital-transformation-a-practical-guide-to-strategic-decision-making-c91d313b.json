@@ -3,15 +3,15 @@
   "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
   "title": "Wardley Mapping For Digital Transformation A Practical Guide To Strategic Decision-Making C91d313b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:06:01.297Z",
+  "generatedAt": "2025-07-14T14:36:04.020Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 2.349052722656232,
+    "readabilityGrade": "Very Poor",
     "wordCount": 12891,
     "estimatedReadingTime": 65
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -39.127368193359416,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.49663473301401,
     "fogIndex": 28.56649408299438,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -39.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 2.349052722656232,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -39.127368193359416,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

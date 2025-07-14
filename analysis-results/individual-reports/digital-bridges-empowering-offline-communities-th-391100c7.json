@@ -3,15 +3,15 @@
   "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
   "title": "Digital Bridges Empowering Offline Communities Th 391100c7",
   "category": "Technology",
-  "generatedAt": "2025-07-14T13:05:47.730Z",
+  "generatedAt": "2025-07-14T14:35:51.495Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -11.993088635327002,
     "readabilityGrade": "Very Poor",
     "wordCount": 9043,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -59.9827215883175,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 27.34208071191669,
     "fogIndex": 32.15663123797272,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -60.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -11.993088635327002,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -59.9827215883175,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

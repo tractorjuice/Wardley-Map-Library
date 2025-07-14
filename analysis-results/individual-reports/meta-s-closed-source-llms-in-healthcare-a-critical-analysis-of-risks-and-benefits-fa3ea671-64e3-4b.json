@@ -3,15 +3,15 @@
   "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
   "title": "Meta S Closed-Source LLMs In Healthcare A Critical Analysis Of Risks And Benefits Fa3ea671-64e3-4b",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:52.805Z",
+  "generatedAt": "2025-07-14T14:35:56.482Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -5.947659161631304,
     "readabilityGrade": "Very Poor",
     "wordCount": 13039,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -44.86914790407826,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.44054511821096,
     "fogIndex": 29.23175859375346,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -44.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -5.947659161631304,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -44.86914790407826,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

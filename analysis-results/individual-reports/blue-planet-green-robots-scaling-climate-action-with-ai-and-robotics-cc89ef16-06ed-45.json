@@ -3,15 +3,15 @@
   "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
   "title": "Blue Planet Green Robots Scaling Climate Action With AI And Robotics Cc89ef16-06ed-45",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:45.453Z",
+  "generatedAt": "2025-07-14T14:35:49.385Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 6.010738549703296,
+    "readabilityGrade": "Very Poor",
     "wordCount": 32679,
     "estimatedReadingTime": 164
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -29.97315362574176,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.14699951961106,
     "fogIndex": 25.59727472755953,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -30.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 6.010738549703296,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -29.97315362574176,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

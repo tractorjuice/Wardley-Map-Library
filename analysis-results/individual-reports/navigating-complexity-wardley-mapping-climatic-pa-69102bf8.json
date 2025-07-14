@@ -3,15 +3,15 @@
   "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
   "title": "Navigating Complexity Wardley Mapping Climatic Pa 69102bf8",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.866Z",
+  "generatedAt": "2025-07-14T14:35:56.550Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 4.358050290652363,
+    "readabilityGrade": "Very Poor",
     "wordCount": 6849,
     "estimatedReadingTime": 35
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -34.10487427336909,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.22056967366262,
     "fogIndex": 26.394538853872024,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -34.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 4.358050290652363,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -34.10487427336909,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

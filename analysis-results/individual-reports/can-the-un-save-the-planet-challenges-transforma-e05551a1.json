@@ -3,15 +3,15 @@
   "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
   "title": "Can The UN Save The Planet Challenges Transforma E05551a1",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:45.801Z",
+  "generatedAt": "2025-07-14T14:35:49.709Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -10.528440623317636,
     "readabilityGrade": "Very Poor",
     "wordCount": 12125,
     "estimatedReadingTime": 61
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -56.32110155829409,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.465233700170298,
     "fogIndex": 31.13332771785904,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -56.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -10.528440623317636,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -56.32110155829409,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
   "title": "Digital Transformation Leadership In Government A Strategic Framework For Complex Organizations 3f9f5ed6",
   "category": "Government",
-  "generatedAt": "2025-07-14T13:05:48.062Z",
+  "generatedAt": "2025-07-14T14:35:51.691Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -10.36709254614209,
     "readabilityGrade": "Very Poor",
     "wordCount": 12190,
     "estimatedReadingTime": 61
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -55.91773136535522,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 27.77344020852394,
     "fogIndex": 33.344753887541856,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -55.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -10.36709254614209,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -55.91773136535522,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
   "title": "Mapping Your Startup S Future Mastering Wardley Maps For Strategic Success 67b791b3-7e33-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:51.420Z",
+  "generatedAt": "2025-07-14T14:35:55.237Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 10.432257068426757,
+    "readabilityGrade": "Very Poor",
     "wordCount": 27141,
     "estimatedReadingTime": 136
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -18.919357328933103,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.257728811324622,
     "fogIndex": 23.13890169638938,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -18.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 10.432257068426757,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -18.919357328933103,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

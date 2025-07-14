@@ -3,15 +3,15 @@
   "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
   "title": "Sustainable Futures Strategies For Life On Land 61799596",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.315Z",
+  "generatedAt": "2025-07-14T14:36:00.009Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 1.1519264205402244,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7923,
     "estimatedReadingTime": 40
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -42.12018394864944,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.062976493057054,
     "fogIndex": 28.26693239798329,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -42.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 1.1519264205402244,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -42.12018394864944,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

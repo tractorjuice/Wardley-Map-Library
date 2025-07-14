@@ -3,15 +3,15 @@
   "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
   "title": "SpimeScript Beyond AI Towards The Malleable Future C76174cb",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:54.840Z",
+  "generatedAt": "2025-07-14T14:35:58.613Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 4.351907848196639,
+    "readabilityGrade": "Very Poor",
     "wordCount": 58331,
     "estimatedReadingTime": 292
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -34.1202303795084,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.831846327041053,
     "fogIndex": 26.95648077532124,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -34.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 4.351907848196639,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -34.1202303795084,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

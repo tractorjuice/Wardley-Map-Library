@@ -3,15 +3,15 @@
   "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
   "title": "Charting The AI Current A Strategic Blueprint For Eee71c96-Ce56-45",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:46.375Z",
+  "generatedAt": "2025-07-14T14:35:50.281Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 6.058588740395656,
+    "readabilityGrade": "Very Poor",
     "wordCount": 112088,
     "estimatedReadingTime": 561
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -29.853528149010856,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.409234836200742,
     "fogIndex": 26.1323743278639,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -29.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 6.058588740395656,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -29.853528149010856,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

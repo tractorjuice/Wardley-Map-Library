@@ -3,15 +3,15 @@
   "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
   "title": "Cost-Effective Migration Transitioning Applicatio 366f9974",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:47.237Z",
+  "generatedAt": "2025-07-14T14:35:51.071Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.5797408378281013,
+    "readabilityGrade": "Very Poor",
     "wordCount": 63100,
     "estimatedReadingTime": 316
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -43.55064790542974,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.13934596433406,
     "fogIndex": 29.27799634848192,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -43.6",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.5797408378281013,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -43.55064790542974,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

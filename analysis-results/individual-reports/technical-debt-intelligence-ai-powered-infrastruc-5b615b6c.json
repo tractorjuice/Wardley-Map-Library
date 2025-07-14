@@ -3,15 +3,15 @@
   "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
   "title": "Technical Debt Intelligence AI-Powered Infrastruc 5b615b6c",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:56.486Z",
+  "generatedAt": "2025-07-14T14:36:00.173Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -10.18160388149969,
     "readabilityGrade": "Very Poor",
     "wordCount": 17894,
     "estimatedReadingTime": 90
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -55.45400970374922,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 27.16816956335457,
     "fogIndex": 32.60569141735902,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -55.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -10.18160388149969,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -55.45400970374922,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

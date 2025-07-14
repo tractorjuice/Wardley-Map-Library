@@ -3,15 +3,15 @@
   "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
   "title": "Unlocking National Insights A GenAI Strategy For 487c81b2",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:59.182Z",
+  "generatedAt": "2025-07-14T14:36:02.440Z",
   "summary": {
-    "overallScore": 24,
-    "readabilityGrade": "Poor",
+    "overallScore": 14.873753948940475,
+    "readabilityGrade": "Very Poor",
     "wordCount": 34195,
     "estimatedReadingTime": 171
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -22.81561512764881,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.40570466609805,
     "fogIndex": 23.581102981984102,
@@ -81,7 +81,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -105,13 +105,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24,
+      "bookScore": 14.873753948940475,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -22.81561512764881,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

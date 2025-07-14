@@ -3,15 +3,15 @@
   "directory": "Jevons_and_GenAI__Bridging_Economics_and_the_Futur_1595067f",
   "title": "Jevons And GenAI Bridging Economics And The Futur 1595067f",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:50.502Z",
+  "generatedAt": "2025-07-14T14:35:54.261Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 2.888564891652708,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7420,
     "estimatedReadingTime": 38
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -37.77858777086823,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.15729227242821,
     "fogIndex": 26.877560116306217,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -37.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 2.888564891652708,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -37.77858777086823,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

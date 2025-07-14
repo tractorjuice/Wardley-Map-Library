@@ -3,15 +3,15 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming__26ebe7b6",
   "title": "GenAI For HMRC A Practical Guide To Transforming 26ebe7b6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:49.104Z",
+  "generatedAt": "2025-07-14T14:35:52.755Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 9.93072477834337,
+    "readabilityGrade": "Very Poor",
     "wordCount": 29028,
     "estimatedReadingTime": 146
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -20.173188054141576,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.268191354088994,
     "fogIndex": 23.922259979807134,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -20.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 9.93072477834337,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -20.173188054141576,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

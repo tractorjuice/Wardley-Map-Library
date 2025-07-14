@@ -3,15 +3,15 @@
   "directory": "Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5",
   "title": "Will The Chinese Dragon Bite OpenAI Analyzing The 63e530e5",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:06:01.560Z",
+  "generatedAt": "2025-07-14T14:36:04.298Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 4.852197674418607,
+    "readabilityGrade": "Very Poor",
     "wordCount": 6880,
     "estimatedReadingTime": 35
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -32.86950581395348,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.818808139534884,
     "fogIndex": 26.580232558139535,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -32.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 4.852197674418607,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -32.86950581395348,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

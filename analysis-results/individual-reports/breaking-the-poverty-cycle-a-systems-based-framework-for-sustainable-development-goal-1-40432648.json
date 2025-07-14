@@ -3,15 +3,15 @@
   "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
   "title": "Breaking The Poverty Cycle A Systems-Based Framework For Sustainable Development Goal 1 40432648",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:45.503Z",
+  "generatedAt": "2025-07-14T14:35:49.428Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -11.182443556322426,
     "readabilityGrade": "Very Poor",
     "wordCount": 9897,
     "estimatedReadingTime": 50
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -57.956108890806064,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.74675506286177,
     "fogIndex": 32.639226583258115,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -58.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -11.182443556322426,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -57.956108890806064,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

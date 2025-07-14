@@ -3,15 +3,15 @@
   "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
   "title": "Mathematical Modelling For Wardley Mapping A Stra Ae168311",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.606Z",
+  "generatedAt": "2025-07-14T14:35:56.233Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 5.023631224128382,
+    "readabilityGrade": "Very Poor",
     "wordCount": 13182,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -32.44092193967904,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 21.00421887986165,
     "fogIndex": 24.978318785471743,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -32.4",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 5.023631224128382,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -32.44092193967904,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

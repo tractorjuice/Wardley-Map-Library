@@ -3,15 +3,15 @@
   "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
   "title": "Windows 11 Migration Mastery A Strategic Guide To Enterprise Transformation B74b18f6-96e9-45",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:06:01.627Z",
+  "generatedAt": "2025-07-14T14:36:04.358Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.296549090680152,
     "readabilityGrade": "Very Poor",
     "wordCount": 14885,
     "estimatedReadingTime": 75
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.74137272670038,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.395345390814295,
     "fogIndex": 30.188674962216023,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.296549090680152,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.74137272670038,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

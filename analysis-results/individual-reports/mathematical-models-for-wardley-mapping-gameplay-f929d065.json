@@ -3,15 +3,15 @@
   "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
   "title": "Mathematical Models For Wardley Mapping Gameplay F929d065",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.693Z",
+  "generatedAt": "2025-07-14T14:35:56.351Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.037964642691431,
     "readabilityGrade": "Very Poor",
     "wordCount": 7554,
     "estimatedReadingTime": 38
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -50.09491160672857,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.440039399491976,
     "fogIndex": 32.27039742894067,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -50.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.037964642691431,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -50.09491160672857,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

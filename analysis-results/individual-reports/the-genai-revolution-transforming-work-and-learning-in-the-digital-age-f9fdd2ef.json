@@ -3,15 +3,15 @@
   "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
   "title": "The GenAI Revolution Transforming Work And Learning In The Digital Age F9fdd2ef",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:57.908Z",
+  "generatedAt": "2025-07-14T14:36:01.442Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -7.718981623550395,
     "readabilityGrade": "Very Poor",
     "wordCount": 10325,
     "estimatedReadingTime": 52
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -49.297454058875985,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 25.535368421052635,
     "fogIndex": 30.141710207722696,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -49.3",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -7.718981623550395,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -49.297454058875985,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

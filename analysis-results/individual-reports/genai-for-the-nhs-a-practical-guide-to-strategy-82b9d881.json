@@ -3,15 +3,15 @@
   "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
   "title": "GenAI For The NHS A Practical Guide To Strategy 82b9d881",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:49.608Z",
+  "generatedAt": "2025-07-14T14:35:53.394Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 9.213271019032288,
+    "readabilityGrade": "Very Poor",
     "wordCount": 33546,
     "estimatedReadingTime": 168
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -21.96682245241928,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.639516885296086,
     "fogIndex": 24.010076433405413,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 9.213271019032288,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -21.96682245241928,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

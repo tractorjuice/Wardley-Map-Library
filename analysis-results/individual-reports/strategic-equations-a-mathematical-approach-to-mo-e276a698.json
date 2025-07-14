@@ -3,15 +3,15 @@
   "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
   "title": "Strategic Equations A Mathematical Approach To Mo E276a698",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:55.810Z",
+  "generatedAt": "2025-07-14T14:35:59.506Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 1.9664000980482328,
+    "readabilityGrade": "Very Poor",
     "wordCount": 7084,
     "estimatedReadingTime": 36
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -40.083999754879414,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 22.260826362717165,
     "fogIndex": 26.54172696194941,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -40.1",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 1.9664000980482328,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -40.083999754879414,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

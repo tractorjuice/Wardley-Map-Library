@@ -3,15 +3,15 @@
   "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
   "title": "Data In The Age Of AI Will LLMs Redefine Data Sto B38be9af",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:47.527Z",
+  "generatedAt": "2025-07-14T14:35:51.340Z",
   "summary": {
-    "overallScore": 24,
+    "overallScore": 15.200575897991813,
     "readabilityGrade": "Poor",
     "wordCount": 32386,
     "estimatedReadingTime": 162
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -21.998560255020465,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.582370173435844,
     "fogIndex": 23.578006338189603,
@@ -81,7 +81,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -22.0",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -105,13 +105,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 24,
+      "bookScore": 15.200575897991813,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -21.998560255020465,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

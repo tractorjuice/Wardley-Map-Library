@@ -3,15 +3,15 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
   "title": "Oceans Of Change Advancing SDG 14 Through Innovation Policy And Action 6ede38b7",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:53.036Z",
+  "generatedAt": "2025-07-14T14:35:56.733Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -8.74992953353393,
     "readabilityGrade": "Very Poor",
     "wordCount": 15195,
     "estimatedReadingTime": 76
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -51.874823833834824,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.17985471501009,
     "fogIndex": 31.081880334764527,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -51.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -8.74992953353393,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -51.874823833834824,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

@@ -3,15 +3,15 @@
   "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
   "title": "Navigating The AI Frontier Wardley Mapping For GenAI Startups Dff595a3-603e-48",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T13:05:52.971Z",
+  "generatedAt": "2025-07-14T14:35:56.669Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 10.918362611637326,
+    "readabilityGrade": "Very Poor",
     "wordCount": 24107,
     "estimatedReadingTime": 121
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -17.704093470906685,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 19.035622108748232,
     "fogIndex": 23.07709207456898,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -17.7",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 10.918362611637326,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -17.704093470906685,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

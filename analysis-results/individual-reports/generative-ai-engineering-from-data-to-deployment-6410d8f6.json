@@ -3,15 +3,15 @@
   "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
   "title": "Generative AI Engineering From Data To Deployment 6410d8f6",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:49.749Z",
+  "generatedAt": "2025-07-14T14:35:53.541Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.06882414470584308,
+    "readabilityGrade": "Very Poor",
     "wordCount": 13115,
     "estimatedReadingTime": 66
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -44.82793963823539,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 24.317427234909704,
     "fogIndex": 28.937615623984343,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -44.8",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.06882414470584308,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -44.82793963823539,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

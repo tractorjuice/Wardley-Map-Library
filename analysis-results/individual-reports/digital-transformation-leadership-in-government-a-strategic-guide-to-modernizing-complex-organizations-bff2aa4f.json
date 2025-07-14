@@ -3,15 +3,15 @@
   "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Guide_to_Modernizing_Complex_Organizations_bff2aa4f",
   "title": "Digital Transformation Leadership In Government A Strategic Guide To Modernizing Complex Organizations Bff2aa4f",
   "category": "Government",
-  "generatedAt": "2025-07-14T13:05:48.112Z",
+  "generatedAt": "2025-07-14T14:35:51.734Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -12.092931854098481,
     "readabilityGrade": "Very Poor",
     "wordCount": 10050,
     "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -60.2323296352462,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 28.336195280283082,
     "fogIndex": 33.908862106579406,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -60.2",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -12.092931854098481,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -60.2323296352462,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

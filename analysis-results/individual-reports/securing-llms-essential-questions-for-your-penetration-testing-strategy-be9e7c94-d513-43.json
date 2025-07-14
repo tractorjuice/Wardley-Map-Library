@@ -3,15 +3,15 @@
   "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
   "title": "Securing LLMs Essential Questions For Your Penetration Testing Strategy Be9e7c94-D513-43",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T13:05:54.414Z",
+  "generatedAt": "2025-07-14T14:35:58.090Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 0.5916747825795596,
+    "readabilityGrade": "Very Poor",
     "wordCount": 10785,
     "estimatedReadingTime": 54
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -43.5208130435511,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.941128120668647,
     "fogIndex": 28.59156395101567,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -43.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 0.5916747825795596,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -43.5208130435511,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

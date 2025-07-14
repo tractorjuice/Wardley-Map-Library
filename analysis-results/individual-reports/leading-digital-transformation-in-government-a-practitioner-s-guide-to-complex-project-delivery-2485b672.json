@@ -3,15 +3,15 @@
   "directory": "Leading_Digital_Transformation_in_Government__A_Practitioner_s_Guide_to_Complex_Project_Delivery_2485b672",
   "title": "Leading Digital Transformation In Government A Practitioner S Guide To Complex Project Delivery 2485b672",
   "category": "Government",
-  "generatedAt": "2025-07-14T13:05:50.564Z",
+  "generatedAt": "2025-07-14T14:35:54.327Z",
   "summary": {
-    "overallScore": 12,
+    "overallScore": -7.96830204890945,
     "readabilityGrade": "Very Poor",
     "wordCount": 9078,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -49.92075512227362,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 26.70280993838838,
     "fogIndex": 32.2983294208811,
@@ -90,7 +90,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -49.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -119,13 +119,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 12,
+      "bookScore": -7.96830204890945,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
       "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -49.92075512227362,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

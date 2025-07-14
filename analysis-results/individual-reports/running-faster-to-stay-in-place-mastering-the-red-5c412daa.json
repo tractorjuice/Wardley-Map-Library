@@ -3,15 +3,15 @@
   "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
   "title": "Running Faster To Stay In Place Mastering The Red 5c412daa",
   "category": "Other",
-  "generatedAt": "2025-07-14T13:05:54.132Z",
+  "generatedAt": "2025-07-14T14:35:57.847Z",
   "summary": {
-    "overallScore": 18,
-    "readabilityGrade": "Poor",
+    "overallScore": 1.4038664358853552,
+    "readabilityGrade": "Very Poor",
     "wordCount": 9181,
     "estimatedReadingTime": 46
   },
   "readabilityMetrics": {
-    "fleschScore": 0,
+    "fleschScore": -41.49033391028661,
     "fleschGrade": "Graduate",
     "fleschKincaidGrade": 23.919933649203063,
     "fogIndex": 28.145450982473097,
@@ -89,7 +89,7 @@
     {
       "category": "Reading Flow",
       "priority": "High",
-      "issue": "Very low Flesch Reading Ease score: 0.0",
+      "issue": "Very low Flesch Reading Ease score: -41.5",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
       "impact": "High - Improving flow makes content much more accessible"
     }
@@ -118,13 +118,13 @@
   ],
   "benchmarks": {
     "overallScore": {
-      "bookScore": 18,
+      "bookScore": 1.4038664358853552,
       "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 20
+      "percentile": 10
     },
     "fleschScore": {
-      "bookScore": 0,
+      "bookScore": -41.49033391028661,
       "libraryAverage": 20.87,
       "comparison": "Below Average"
     },

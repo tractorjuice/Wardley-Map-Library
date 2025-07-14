@@ -1,15 +1,15 @@
 {
-  "totalBooks": 186,
+  "totalBooks": 185,
   "overallStats": {
-    "avgReadabilityScore": 14.900855779684637,
-    "avgFleschScore": -4.159928928179304,
-    "avgFleschKincaidGrade": 20.720187210392446,
-    "avgFogIndex": 24.814701761936313,
-    "avgSmogIndex": 20.69007017231779,
-    "avgAriIndex": 22.347764271140623,
-    "avgCliIndex": 20.437869857721328,
-    "avgSentenceLength": 27.696706316157606,
-    "avgComplexityScore": 0.28338842893565513
+    "avgReadabilityScore": 14.705773867553086,
+    "avgFleschScore": -4.466077321358945,
+    "avgFleschKincaidGrade": 20.774979439802635,
+    "avgFogIndex": 24.8730246660508,
+    "avgSmogIndex": 20.73097748384358,
+    "avgAriIndex": 22.41192449199013,
+    "avgCliIndex": 20.490060335263166,
+    "avgSentenceLength": 27.74537508756085,
+    "avgComplexityScore": 0.28427200958757476
   },
   "bestPractices": {
     "avgSentenceLength": 0,
@@ -22,16 +22,16 @@
   },
   "commonIssues": [
     [
-      "Long average word length",
-      186
-    ],
-    [
       "Low Flesch Score (difficult to read)",
       185
     ],
     [
-      "High vocabulary complexity",
+      "Long average word length",
       185
+    ],
+    [
+      "High vocabulary complexity",
+      184
     ],
     [
       "High Fog Index (complex text)",
@@ -58,8 +58,8 @@
       12
     ],
     [
-      "Too many long sentences (48.3%)",
-      5
+      "Insufficient headers/structure",
+      7
     ]
   ],
   "bookRankings": {
@@ -67,7 +67,7 @@
       {
         "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
         "category": "Strategic Mapping",
-        "wordCount": 8273,
+        "wordCount": 12795,
         "sentenceAnalysis": {
           "totalSentences": 334,
           "avgWordsPerSentence": 38.308383233532936,
@@ -128,7 +128,7 @@
       {
         "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Guide_to_Modernizing_Complex_Organizations_bff2aa4f",
         "category": "Government",
-        "wordCount": 10050,
+        "wordCount": 14857,
         "sentenceAnalysis": {
           "totalSentences": 374,
           "avgWordsPerSentence": 39.724598930481285,
@@ -189,7 +189,7 @@
       {
         "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
         "category": "Artificial Intelligence",
-        "wordCount": 139440,
+        "wordCount": 191461,
         "sentenceAnalysis": {
           "totalSentences": 5514,
           "avgWordsPerSentence": 34.72270583968081,
@@ -250,7 +250,7 @@
       {
         "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
         "category": "Technology",
-        "wordCount": 7997,
+        "wordCount": 11953,
         "sentenceAnalysis": {
           "totalSentences": 323,
           "avgWordsPerSentence": 37.0061919504644,
@@ -311,7 +311,7 @@
       {
         "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
         "category": "Government",
-        "wordCount": 12190,
+        "wordCount": 17821,
         "sentenceAnalysis": {
           "totalSentences": 451,
           "avgWordsPerSentence": 39.51441241685144,
@@ -372,7 +372,7 @@
       {
         "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
         "category": "Technology",
-        "wordCount": 9043,
+        "wordCount": 13684,
         "sentenceAnalysis": {
           "totalSentences": 393,
           "avgWordsPerSentence": 34.81933842239186,
@@ -433,7 +433,7 @@
       {
         "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
         "category": "Data Science",
-        "wordCount": 10071,
+        "wordCount": 14730,
         "sentenceAnalysis": {
           "totalSentences": 424,
           "avgWordsPerSentence": 34.740566037735846,
@@ -494,7 +494,7 @@
       {
         "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
         "category": "Other",
-        "wordCount": 6199,
+        "wordCount": 9518,
         "sentenceAnalysis": {
           "totalSentences": 247,
           "avgWordsPerSentence": 38.534412955465584,
@@ -555,7 +555,7 @@
       {
         "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
         "category": "Artificial Intelligence",
-        "wordCount": 17894,
+        "wordCount": 25699,
         "sentenceAnalysis": {
           "totalSentences": 720,
           "avgWordsPerSentence": 35.69305555555555,
@@ -616,7 +616,7 @@
       {
         "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
         "category": "Other",
-        "wordCount": 9584,
+        "wordCount": 14293,
         "sentenceAnalysis": {
           "totalSentences": 420,
           "avgWordsPerSentence": 34.03095238095238,
@@ -677,7 +677,7 @@
       {
         "directory": "Building_Tomorrow__A_Blueprint_for_Sustainable_Industry__Innovation__and_Infrastructure_5978b4e4",
         "category": "Artificial Intelligence",
-        "wordCount": 11874,
+        "wordCount": 17370,
         "sentenceAnalysis": {
           "totalSentences": 521,
           "avgWordsPerSentence": 33.339731285988485,
@@ -738,7 +738,7 @@
       {
         "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
         "category": "Artificial Intelligence",
-        "wordCount": 9897,
+        "wordCount": 14726,
         "sentenceAnalysis": {
           "totalSentences": 455,
           "avgWordsPerSentence": 32.36483516483516,
@@ -799,7 +799,7 @@
       {
         "directory": "Digital_Transformation_in_Government__A_Leader_s_Guide_to_Navigating_Complex_Change_243b3182",
         "category": "Government",
-        "wordCount": 12103,
+        "wordCount": 17913,
         "sentenceAnalysis": {
           "totalSentences": 515,
           "avgWordsPerSentence": 34.78252427184466,
@@ -860,7 +860,7 @@
       {
         "directory": "Mathematical_Models_for_Wardley_Mapping__A_Quantit_7db3030c",
         "category": "Strategic Mapping",
-        "wordCount": 6193,
+        "wordCount": 9917,
         "sentenceAnalysis": {
           "totalSentences": 265,
           "avgWordsPerSentence": 37.422641509433966,
@@ -921,7 +921,7 @@
       {
         "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
         "category": "Artificial Intelligence",
-        "wordCount": 9542,
+        "wordCount": 14220,
         "sentenceAnalysis": {
           "totalSentences": 409,
           "avgWordsPerSentence": 34.76772616136919,
@@ -982,7 +982,7 @@
       {
         "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
         "category": "Artificial Intelligence",
-        "wordCount": 11027,
+        "wordCount": 17655,
         "sentenceAnalysis": {
           "totalSentences": 509,
           "avgWordsPerSentence": 34.68565815324165,
@@ -1043,7 +1043,7 @@
       {
         "directory": "Leading_Digital_Transformation_in_Government__A_Practitioner_s_Guide_to_Complex_Project_Delivery_2485b672",
         "category": "Government",
-        "wordCount": 9078,
+        "wordCount": 13605,
         "sentenceAnalysis": {
           "totalSentences": 348,
           "avgWordsPerSentence": 39.0948275862069,
@@ -1104,7 +1104,7 @@
       {
         "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
         "category": "Government",
-        "wordCount": 16625,
+        "wordCount": 24498,
         "sentenceAnalysis": {
           "totalSentences": 710,
           "avgWordsPerSentence": 34.50422535211268,
@@ -1165,7 +1165,7 @@
       {
         "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
         "category": "Security",
-        "wordCount": 11419,
+        "wordCount": 16791,
         "sentenceAnalysis": {
           "totalSentences": 506,
           "avgWordsPerSentence": 33.183794466403164,
@@ -1226,7 +1226,7 @@
       {
         "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
         "category": "Strategic Mapping",
-        "wordCount": 7554,
+        "wordCount": 11931,
         "sentenceAnalysis": {
           "totalSentences": 303,
           "avgWordsPerSentence": 39.37623762376238,
@@ -1287,7 +1287,7 @@
       {
         "directory": "Mastering_Modern_Bid_and_Tender_Consultancy__A_Digital-Era_Guide_to_Strategic_Supply_Market_Management_cc0fb778",
         "category": "Technology",
-        "wordCount": 2566,
+        "wordCount": 15747,
         "sentenceAnalysis": {
           "totalSentences": 466,
           "avgWordsPerSentence": 33.791845493562235,
@@ -1348,7 +1348,7 @@
       {
         "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
         "category": "Other",
-        "wordCount": 15195,
+        "wordCount": 21675,
         "sentenceAnalysis": {
           "totalSentences": 664,
           "avgWordsPerSentence": 32.64307228915663,
@@ -1409,7 +1409,7 @@
       {
         "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
         "category": "Other",
-        "wordCount": 14885,
+        "wordCount": 23641,
         "sentenceAnalysis": {
           "totalSentences": 731,
           "avgWordsPerSentence": 32.3406292749658,
@@ -1470,7 +1470,7 @@
       {
         "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
         "category": "Technology",
-        "wordCount": 13460,
+        "wordCount": 19702,
         "sentenceAnalysis": {
           "totalSentences": 582,
           "avgWordsPerSentence": 33.85223367697594,
@@ -1531,7 +1531,7 @@
       {
         "directory": "British_Airways_2030__Transforming_Loyalty_in_the_Digital_Age_A_Strategic_Framework_for_Future_Success_f8b42d91-7e23-4a",
         "category": "Artificial Intelligence",
-        "wordCount": 9154,
+        "wordCount": 13604,
         "sentenceAnalysis": {
           "totalSentences": 379,
           "avgWordsPerSentence": 35.894459102902374,
@@ -1592,7 +1592,7 @@
       {
         "directory": "British_Airways_2030__Transforming_Loyalty_in_the__514a98bb",
         "category": "Artificial Intelligence",
-        "wordCount": 9154,
+        "wordCount": 13604,
         "sentenceAnalysis": {
           "totalSentences": 379,
           "avgWordsPerSentence": 35.894459102902374,
@@ -1653,7 +1653,7 @@
       {
         "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
         "category": "Other",
-        "wordCount": 12125,
+        "wordCount": 18337,
         "sentenceAnalysis": {
           "totalSentences": 563,
           "avgWordsPerSentence": 32.57015985790409,
@@ -1714,7 +1714,7 @@
       {
         "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
         "category": "Other",
-        "wordCount": 11883,
+        "wordCount": 17485,
         "sentenceAnalysis": {
           "totalSentences": 524,
           "avgWordsPerSentence": 33.36832061068702,
@@ -1775,7 +1775,7 @@
       {
         "directory": "Open_Source_Advantage__Transforming_Business_Compe_3bca9762",
         "category": "Business Strategy",
-        "wordCount": 11406,
+        "wordCount": 16803,
         "sentenceAnalysis": {
           "totalSentences": 481,
           "avgWordsPerSentence": 34.933471933471935,
@@ -1836,7 +1836,7 @@
       {
         "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
         "category": "Artificial Intelligence",
-        "wordCount": 11549,
+        "wordCount": 16983,
         "sentenceAnalysis": {
           "totalSentences": 472,
           "avgWordsPerSentence": 35.980932203389834,
@@ -1897,7 +1897,7 @@
       {
         "directory": "Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78",
         "category": "Technology",
-        "wordCount": 13395,
+        "wordCount": 19557,
         "sentenceAnalysis": {
           "totalSentences": 552,
           "avgWordsPerSentence": 35.42934782608695,
@@ -1958,7 +1958,7 @@
       {
         "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
         "category": "Technology",
-        "wordCount": 12324,
+        "wordCount": 18371,
         "sentenceAnalysis": {
           "totalSentences": 544,
           "avgWordsPerSentence": 33.7702205882353,
@@ -2019,7 +2019,7 @@
       {
         "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
         "category": "Artificial Intelligence",
-        "wordCount": 11818,
+        "wordCount": 17627,
         "sentenceAnalysis": {
           "totalSentences": 527,
           "avgWordsPerSentence": 33.44781783681214,
@@ -2080,7 +2080,7 @@
       {
         "directory": "Digital_Excellence__The_Strategic_Case_for_a_UK_Lo_0ab4cf1c",
         "category": "Technology",
-        "wordCount": 10038,
+        "wordCount": 15116,
         "sentenceAnalysis": {
           "totalSentences": 417,
           "avgWordsPerSentence": 36.249400479616305,
@@ -2141,7 +2141,7 @@
       {
         "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
         "category": "Artificial Intelligence",
-        "wordCount": 9027,
+        "wordCount": 13663,
         "sentenceAnalysis": {
           "totalSentences": 416,
           "avgWordsPerSentence": 32.84375,
@@ -2202,7 +2202,7 @@
       {
         "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
         "category": "Strategic Mapping",
-        "wordCount": 14526,
+        "wordCount": 21931,
         "sentenceAnalysis": {
           "totalSentences": 644,
           "avgWordsPerSentence": 34.05434782608695,
@@ -2263,7 +2263,7 @@
       {
         "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
         "category": "Artificial Intelligence",
-        "wordCount": 13039,
+        "wordCount": 20924,
         "sentenceAnalysis": {
           "totalSentences": 658,
           "avgWordsPerSentence": 31.799392097264437,
@@ -2324,7 +2324,7 @@
       {
         "directory": "GenAI_2025__A_Strategic_Guide_to_Next_Year_s_Artificial_Intelligence_Landscape_5f7d25ba",
         "category": "Artificial Intelligence",
-        "wordCount": 11132,
+        "wordCount": 16701,
         "sentenceAnalysis": {
           "totalSentences": 504,
           "avgWordsPerSentence": 33.13690476190476,
@@ -2385,7 +2385,7 @@
       {
         "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
         "category": "Artificial Intelligence",
-        "wordCount": 10325,
+        "wordCount": 15729,
         "sentenceAnalysis": {
           "totalSentences": 475,
           "avgWordsPerSentence": 33.113684210526316,
@@ -2446,7 +2446,7 @@
       {
         "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
         "category": "Other",
-        "wordCount": 11768,
+        "wordCount": 17393,
         "sentenceAnalysis": {
           "totalSentences": 501,
           "avgWordsPerSentence": 34.71656686626746,
@@ -2507,7 +2507,7 @@
       {
         "directory": "AI___ESG__A_Critical_Analysis_of_Technology_s_Role_in_Sustainable_Business_59a6c5b3-7141-42",
         "category": "Artificial Intelligence",
-        "wordCount": 11954,
+        "wordCount": 19598,
         "sentenceAnalysis": {
           "totalSentences": 624,
           "avgWordsPerSentence": 31.40705128205128,
@@ -2568,7 +2568,7 @@
       {
         "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
         "category": "Data Science",
-        "wordCount": 4453,
+        "wordCount": 19245,
         "sentenceAnalysis": {
           "totalSentences": 629,
           "avgWordsPerSentence": 30.596184419713833,
@@ -2629,7 +2629,7 @@
       {
         "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
         "category": "Artificial Intelligence",
-        "wordCount": 3951,
+        "wordCount": 21249,
         "sentenceAnalysis": {
           "totalSentences": 631,
           "avgWordsPerSentence": 33.67511885895404,
@@ -2690,7 +2690,7 @@
       {
         "directory": "Platform_Mastery__Strategic_Design_and_Mapping_for_Digital_Success_65a53175",
         "category": "Strategic Mapping",
-        "wordCount": 12299,
+        "wordCount": 18266,
         "sentenceAnalysis": {
           "totalSentences": 550,
           "avgWordsPerSentence": 33.21090909090909,
@@ -2751,7 +2751,7 @@
       {
         "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
         "category": "Other",
-        "wordCount": 9822,
+        "wordCount": 15229,
         "sentenceAnalysis": {
           "totalSentences": 449,
           "avgWordsPerSentence": 33.91759465478842,
@@ -2812,7 +2812,7 @@
       {
         "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
         "category": "Data Science",
-        "wordCount": 11957,
+        "wordCount": 17824,
         "sentenceAnalysis": {
           "totalSentences": 499,
           "avgWordsPerSentence": 35.71943887775551,
@@ -2873,7 +2873,7 @@
       {
         "directory": "The_AI_Revolution_s_Triple_Threat__Understanding_and_Navigating_the_Three_Critical_Changes_Reshaping_Our_World_abce334f",
         "category": "Artificial Intelligence",
-        "wordCount": 11670,
+        "wordCount": 17946,
         "sentenceAnalysis": {
           "totalSentences": 526,
           "avgWordsPerSentence": 34.11787072243346,
@@ -2934,7 +2934,7 @@
       {
         "directory": "Symbolic_Instructions__Understanding_AI_Training_D_5f31a286",
         "category": "Artificial Intelligence",
-        "wordCount": 8904,
+        "wordCount": 13860,
         "sentenceAnalysis": {
           "totalSentences": 413,
           "avgWordsPerSentence": 33.559322033898304,
@@ -2995,7 +2995,7 @@
       {
         "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
         "category": "Artificial Intelligence",
-        "wordCount": 12156,
+        "wordCount": 18405,
         "sentenceAnalysis": {
           "totalSentences": 568,
           "avgWordsPerSentence": 32.403169014084504,
@@ -3056,7 +3056,7 @@
       {
         "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
         "category": "Other",
-        "wordCount": 9181,
+        "wordCount": 14852,
         "sentenceAnalysis": {
           "totalSentences": 468,
           "avgWordsPerSentence": 31.735042735042736,
@@ -3116,7 +3116,7 @@
       {
         "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
         "category": "Artificial Intelligence",
-        "wordCount": 11511,
+        "wordCount": 16625,
         "sentenceAnalysis": {
           "totalSentences": 521,
           "avgWordsPerSentence": 31.90978886756238,
@@ -3176,7 +3176,7 @@
       {
         "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
         "category": "Strategic Mapping",
-        "wordCount": 12726,
+        "wordCount": 19256,
         "sentenceAnalysis": {
           "totalSentences": 584,
           "avgWordsPerSentence": 32.97260273972603,
@@ -3237,7 +3237,7 @@
       {
         "directory": "Mapping_Sustainable_Development__A_Strategic_Approach_to_SDGs_using_Wardley_Mapping_1ec7fcf3",
         "category": "Strategic Mapping",
-        "wordCount": 10186,
+        "wordCount": 15829,
         "sentenceAnalysis": {
           "totalSentences": 485,
           "avgWordsPerSentence": 32.63711340206186,
@@ -3298,7 +3298,7 @@
       {
         "directory": "Strategic_Home_Office_Evolution__A_Wardley_Mapping_Guide_for_Remote-First_Success_6e528aa0",
         "category": "Strategic Mapping",
-        "wordCount": 10578,
+        "wordCount": 16356,
         "sentenceAnalysis": {
           "totalSentences": 516,
           "avgWordsPerSentence": 31.697674418604652,
@@ -3359,7 +3359,7 @@
       {
         "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
         "category": "Artificial Intelligence",
-        "wordCount": 12249,
+        "wordCount": 18436,
         "sentenceAnalysis": {
           "totalSentences": 543,
           "avgWordsPerSentence": 33.952117863720076,
@@ -3420,7 +3420,7 @@
       {
         "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
         "category": "Business Strategy",
-        "wordCount": 9959,
+        "wordCount": 27609,
         "sentenceAnalysis": {
           "totalSentences": 734,
           "avgWordsPerSentence": 37.61444141689373,
@@ -3481,7 +3481,7 @@
       {
         "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
         "category": "Artificial Intelligence",
-        "wordCount": 12898,
+        "wordCount": 19605,
         "sentenceAnalysis": {
           "totalSentences": 605,
           "avgWordsPerSentence": 32.40495867768595,
@@ -3542,7 +3542,7 @@
       {
         "directory": "The_GenAI_Paradox__Understanding_and_Navigating_the_Future_of_Artificial_General_Intelligence_4ab175e2",
         "category": "Artificial Intelligence",
-        "wordCount": 9540,
+        "wordCount": 14829,
         "sentenceAnalysis": {
           "totalSentences": 451,
           "avgWordsPerSentence": 32.88026607538803,
@@ -3603,7 +3603,7 @@
       {
         "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
         "category": "Strategic Mapping",
-        "wordCount": 9726,
+        "wordCount": 16576,
         "sentenceAnalysis": {
           "totalSentences": 514,
           "avgWordsPerSentence": 32.249027237354085,
@@ -3664,7 +3664,7 @@
       {
         "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
         "category": "Artificial Intelligence",
-        "wordCount": 13056,
+        "wordCount": 19989,
         "sentenceAnalysis": {
           "totalSentences": 593,
           "avgWordsPerSentence": 33.70826306913997,
@@ -3725,7 +3725,7 @@
       {
         "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
         "category": "Other",
-        "wordCount": 8355,
+        "wordCount": 12916,
         "sentenceAnalysis": {
           "totalSentences": 397,
           "avgWordsPerSentence": 32.53400503778337,
@@ -3786,7 +3786,7 @@
       {
         "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_s_Race_to_Define_the_Future_of_Artificial_Intelligence_2946058b",
         "category": "Artificial Intelligence",
-        "wordCount": 10627,
+        "wordCount": 16472,
         "sentenceAnalysis": {
           "totalSentences": 523,
           "avgWordsPerSentence": 31.495219885277248,
@@ -3847,7 +3847,7 @@
       {
         "directory": "Digital_Darwinism__How_GenAI_Challenges_the_Surviv_7d84aea4",
         "category": "Artificial Intelligence",
-        "wordCount": 10039,
+        "wordCount": 15706,
         "sentenceAnalysis": {
           "totalSentences": 465,
           "avgWordsPerSentence": 33.7763440860215,
@@ -3908,7 +3908,7 @@
       {
         "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
         "category": "Strategic Mapping",
-        "wordCount": 11027,
+        "wordCount": 16711,
         "sentenceAnalysis": {
           "totalSentences": 521,
           "avgWordsPerSentence": 32.07485604606526,
@@ -3968,7 +3968,7 @@
       {
         "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
         "category": "Technology",
-        "wordCount": 9956,
+        "wordCount": 15309,
         "sentenceAnalysis": {
           "totalSentences": 478,
           "avgWordsPerSentence": 32.02719665271967,
@@ -4029,7 +4029,7 @@
       {
         "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
         "category": "Strategic Mapping",
-        "wordCount": 15062,
+        "wordCount": 22470,
         "sentenceAnalysis": {
           "totalSentences": 596,
           "avgWordsPerSentence": 37.70134228187919,
@@ -4090,7 +4090,7 @@
       {
         "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
         "category": "Strategic Mapping",
-        "wordCount": 9935,
+        "wordCount": 15157,
         "sentenceAnalysis": {
           "totalSentences": 413,
           "avgWordsPerSentence": 36.699757869249396,
@@ -4151,7 +4151,7 @@
       {
         "directory": "First-Mover_Intelligence__Mastering_Early_Recognition_and_Strategic_Adaptation_in_a_Dynamic_World_0b7ec179",
         "category": "Other",
-        "wordCount": 9371,
+        "wordCount": 14319,
         "sentenceAnalysis": {
           "totalSentences": 454,
           "avgWordsPerSentence": 31.53964757709251,
@@ -4211,7 +4211,7 @@
       {
         "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
         "category": "Strategic Mapping",
-        "wordCount": 32746,
+        "wordCount": 50791,
         "sentenceAnalysis": {
           "totalSentences": 1790,
           "avgWordsPerSentence": 28.37486033519553,
@@ -4272,7 +4272,7 @@
       {
         "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
         "category": "Strategic Mapping",
-        "wordCount": 10284,
+        "wordCount": 16569,
         "sentenceAnalysis": {
           "totalSentences": 518,
           "avgWordsPerSentence": 31.986486486486488,
@@ -4332,7 +4332,7 @@
       {
         "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
         "category": "Artificial Intelligence",
-        "wordCount": 10785,
+        "wordCount": 17704,
         "sentenceAnalysis": {
           "totalSentences": 581,
           "avgWordsPerSentence": 30.471600688468158,
@@ -4392,7 +4392,7 @@
       {
         "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
         "category": "Strategic Mapping",
-        "wordCount": 5595,
+        "wordCount": 36795,
         "sentenceAnalysis": {
           "totalSentences": 1293,
           "avgWordsPerSentence": 28.45707656612529,
@@ -4453,7 +4453,7 @@
       {
         "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
         "category": "Artificial Intelligence",
-        "wordCount": 13115,
+        "wordCount": 19233,
         "sentenceAnalysis": {
           "totalSentences": 678,
           "avgWordsPerSentence": 28.36725663716814,
@@ -4513,7 +4513,7 @@
       {
         "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
         "category": "Strategic Mapping",
-        "wordCount": 65076,
+        "wordCount": 93811,
         "sentenceAnalysis": {
           "totalSentences": 3944,
           "avgWordsPerSentence": 23.78575050709939,
@@ -4573,7 +4573,7 @@
       {
         "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
         "category": "Other",
-        "wordCount": 63100,
+        "wordCount": 90446,
         "sentenceAnalysis": {
           "totalSentences": 3262,
           "avgWordsPerSentence": 27.7271612507664,
@@ -4633,7 +4633,7 @@
       {
         "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
         "category": "Artificial Intelligence",
-        "wordCount": 18362,
+        "wordCount": 29262,
         "sentenceAnalysis": {
           "totalSentences": 1060,
           "avgWordsPerSentence": 27.60566037735849,
@@ -4694,7 +4694,7 @@
       {
         "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
         "category": "Strategic Mapping",
-        "wordCount": 33073,
+        "wordCount": 50990,
         "sentenceAnalysis": {
           "totalSentences": 1810,
           "avgWordsPerSentence": 28.171270718232044,
@@ -4755,7 +4755,7 @@
       {
         "directory": "Strategic_Evolution_Through_Wardley_Mapping__A_Visual_Guide_to_Market_Position__Innovation__and_Digital_Transformation_57e8b679",
         "category": "Strategic Mapping",
-        "wordCount": 10523,
+        "wordCount": 16289,
         "sentenceAnalysis": {
           "totalSentences": 524,
           "avgWordsPerSentence": 31.08587786259542,
@@ -4815,7 +4815,7 @@
       {
         "directory": "Strategic_Evolution_Mapping__Transforming_Business_Strategy_with_Wardley_Maps_e782be31",
         "category": "Strategic Mapping",
-        "wordCount": 13733,
+        "wordCount": 20969,
         "sentenceAnalysis": {
           "totalSentences": 695,
           "avgWordsPerSentence": 30.171223021582733,
@@ -4875,7 +4875,7 @@
       {
         "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
         "category": "Strategic Mapping",
-        "wordCount": 10653,
+        "wordCount": 16758,
         "sentenceAnalysis": {
           "totalSentences": 537,
           "avgWordsPerSentence": 31.206703910614525,
@@ -4935,7 +4935,7 @@
       {
         "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
         "category": "Strategic Mapping",
-        "wordCount": 15235,
+        "wordCount": 23365,
         "sentenceAnalysis": {
           "totalSentences": 779,
           "avgWordsPerSentence": 29.993581514762518,
@@ -4995,7 +4995,7 @@
       {
         "directory": "Strategic_Wardley_Mapping__Navigating_Market_Dynamics_and_Digital_Disruption_fcd44e40",
         "category": "Strategic Mapping",
-        "wordCount": 12720,
+        "wordCount": 19728,
         "sentenceAnalysis": {
           "totalSentences": 646,
           "avgWordsPerSentence": 30.538699690402478,
@@ -5055,7 +5055,7 @@
       {
         "directory": "Wardley_Mapping_for_Digital_Transformation__A_Strategic_Decision-Making_Guide_a24890d6",
         "category": "Strategic Mapping",
-        "wordCount": 10862,
+        "wordCount": 16966,
         "sentenceAnalysis": {
           "totalSentences": 555,
           "avgWordsPerSentence": 30.56936936936937,
@@ -5115,7 +5115,7 @@
       {
         "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
         "category": "Artificial Intelligence",
-        "wordCount": 84032,
+        "wordCount": 129025,
         "sentenceAnalysis": {
           "totalSentences": 5162,
           "avgWordsPerSentence": 24.99515691592406,
@@ -5176,7 +5176,7 @@
       {
         "directory": "Sustainable_Futures__Strategies_for_Life_on_Land_61799596",
         "category": "Artificial Intelligence",
-        "wordCount": 7923,
+        "wordCount": 12914,
         "sentenceAnalysis": {
           "totalSentences": 501,
           "avgWordsPerSentence": 25.776447105788424,
@@ -5236,7 +5236,7 @@
       {
         "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Advantage_30e647db",
         "category": "Strategic Mapping",
-        "wordCount": 13635,
+        "wordCount": 21171,
         "sentenceAnalysis": {
           "totalSentences": 720,
           "avgWordsPerSentence": 29.404166666666665,
@@ -5296,7 +5296,7 @@
       {
         "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
         "category": "Strategic Mapping",
-        "wordCount": 12891,
+        "wordCount": 19731,
         "sentenceAnalysis": {
           "totalSentences": 670,
           "avgWordsPerSentence": 29.449253731343283,
@@ -5356,7 +5356,7 @@
       {
         "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Transformation_30fd6713",
         "category": "Strategic Mapping",
-        "wordCount": 16777,
+        "wordCount": 25715,
         "sentenceAnalysis": {
           "totalSentences": 858,
           "avgWordsPerSentence": 29.97086247086247,
@@ -5416,7 +5416,7 @@
       {
         "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
         "category": "Strategic Mapping",
-        "wordCount": 13202,
+        "wordCount": 20534,
         "sentenceAnalysis": {
           "totalSentences": 691,
           "avgWordsPerSentence": 29.716353111432706,
@@ -5476,7 +5476,7 @@
       {
         "directory": "Jevons_and_GenAI__Bridging_Economics_and_the_Futur_1595067f",
         "category": "Artificial Intelligence",
-        "wordCount": 7420,
+        "wordCount": 12433,
         "sentenceAnalysis": {
           "totalSentences": 508,
           "avgWordsPerSentence": 24.474409448818896,
@@ -5536,7 +5536,7 @@
       {
         "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
         "category": "Artificial Intelligence",
-        "wordCount": 25438,
+        "wordCount": 39088,
         "sentenceAnalysis": {
           "totalSentences": 1366,
           "avgWordsPerSentence": 28.61493411420205,
@@ -5596,7 +5596,7 @@
       {
         "directory": "Strategic_Mapping__A_Leader_s_Guide_to_Navigating_Business_Evolution_with_Wardley_Maps_651fd7e3",
         "category": "Strategic Mapping",
-        "wordCount": 12600,
+        "wordCount": 19685,
         "sentenceAnalysis": {
           "totalSentences": 690,
           "avgWordsPerSentence": 28.528985507246375,
@@ -5656,7 +5656,7 @@
       {
         "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
         "category": "Artificial Intelligence",
-        "wordCount": 7504,
+        "wordCount": 12651,
         "sentenceAnalysis": {
           "totalSentences": 513,
           "avgWordsPerSentence": 24.660818713450293,
@@ -5716,7 +5716,7 @@
       {
         "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
         "category": "Artificial Intelligence",
-        "wordCount": 23037,
+        "wordCount": 40756,
         "sentenceAnalysis": {
           "totalSentences": 1590,
           "avgWordsPerSentence": 25.632704402515724,
@@ -5776,7 +5776,7 @@
       {
         "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
         "category": "Artificial Intelligence",
-        "wordCount": 45943,
+        "wordCount": 69576,
         "sentenceAnalysis": {
           "totalSentences": 2411,
           "avgWordsPerSentence": 28.857735379510576,
@@ -5836,7 +5836,7 @@
       {
         "directory": "Will_the_Chinese_Dragon_Bite_OpenAI__Analyzing_the_63e530e5",
         "category": "Artificial Intelligence",
-        "wordCount": 6880,
+        "wordCount": 11503,
         "sentenceAnalysis": {
           "totalSentences": 430,
           "avgWordsPerSentence": 26.751162790697673,
@@ -5896,7 +5896,7 @@
       {
         "directory": "Transforming_Business_Operations__APQC_Process_Cla_6740a4f7",
         "category": "Business Strategy",
-        "wordCount": 13537,
+        "wordCount": 21213,
         "sentenceAnalysis": {
           "totalSentences": 932,
           "avgWordsPerSentence": 22.760729613733904,
@@ -5956,7 +5956,7 @@
       {
         "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
         "category": "Other",
-        "wordCount": 7084,
+        "wordCount": 11846,
         "sentenceAnalysis": {
           "totalSentences": 516,
           "avgWordsPerSentence": 22.95736434108527,
@@ -6016,7 +6016,7 @@
       {
         "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
         "category": "Artificial Intelligence",
-        "wordCount": 34325,
+        "wordCount": 51564,
         "sentenceAnalysis": {
           "totalSentences": 2083,
           "avgWordsPerSentence": 24.754680748919828,
@@ -6076,7 +6076,7 @@
       {
         "directory": "Battlefield_Economics__The_Hidden_Forces_Shaping_Military_Conflicts_6ad71fef-fe6e-4d",
         "category": "Other",
-        "wordCount": 26016,
+        "wordCount": 46198,
         "sentenceAnalysis": {
           "totalSentences": 1922,
           "avgWordsPerSentence": 24.036420395421437,
@@ -6136,7 +6136,7 @@
       {
         "directory": "The_Planet_Information_Platform__Mapping_Earth_with_Satellites__AI__and_Big_Data_3e65b5a1-5404-45",
         "category": "Strategic Mapping",
-        "wordCount": 24428,
+        "wordCount": 74771,
         "sentenceAnalysis": {
           "totalSentences": 2828,
           "avgWordsPerSentence": 26.43953323903819,
@@ -6196,7 +6196,7 @@
       {
         "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
         "category": "Other",
-        "wordCount": 9875,
+        "wordCount": 15991,
         "sentenceAnalysis": {
           "totalSentences": 655,
           "avgWordsPerSentence": 24.413740458015265,
@@ -6256,7 +6256,7 @@
       {
         "directory": "Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b",
         "category": "Strategic Mapping",
-        "wordCount": 34080,
+        "wordCount": 60809,
         "sentenceAnalysis": {
           "totalSentences": 2435,
           "avgWordsPerSentence": 24.972895277207392,
@@ -6316,7 +6316,7 @@
       {
         "directory": "SpimeScript__Beyond_AI__Towards_the_Malleable_Future_c76174cb",
         "category": "Artificial Intelligence",
-        "wordCount": 58331,
+        "wordCount": 87394,
         "sentenceAnalysis": {
           "totalSentences": 3800,
           "avgWordsPerSentence": 22.998421052631578,
@@ -6376,7 +6376,7 @@
       {
         "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
         "category": "Strategic Mapping",
-        "wordCount": 23280,
+        "wordCount": 42758,
         "sentenceAnalysis": {
           "totalSentences": 1663,
           "avgWordsPerSentence": 25.711365003006616,
@@ -6436,7 +6436,7 @@
       {
         "directory": "Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49",
         "category": "Strategic Mapping",
-        "wordCount": 7529,
+        "wordCount": 16149,
         "sentenceAnalysis": {
           "totalSentences": 598,
           "avgWordsPerSentence": 27.005016722408026,
@@ -6496,7 +6496,7 @@
       {
         "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
         "category": "Artificial Intelligence",
-        "wordCount": 5153,
+        "wordCount": 8955,
         "sentenceAnalysis": {
           "totalSentences": 337,
           "avgWordsPerSentence": 26.572700296735906,
@@ -6556,7 +6556,7 @@
       {
         "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
         "category": "Artificial Intelligence",
-        "wordCount": 32679,
+        "wordCount": 56216,
         "sentenceAnalysis": {
           "totalSentences": 2190,
           "avgWordsPerSentence": 25.669406392694064,
@@ -6616,7 +6616,7 @@
       {
         "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
         "category": "Artificial Intelligence",
-        "wordCount": 112088,
+        "wordCount": 170764,
         "sentenceAnalysis": {
           "totalSentences": 6986,
           "avgWordsPerSentence": 24.443744632121387,
@@ -6676,7 +6676,7 @@
       {
         "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
         "category": "Government",
-        "wordCount": 35762,
+        "wordCount": 54547,
         "sentenceAnalysis": {
           "totalSentences": 1961,
           "avgWordsPerSentence": 27.815910249872513,
@@ -6736,7 +6736,7 @@
       {
         "directory": "The_Jevons_Paradox_in_the_Age_of_Generative_AI__Im_6e310b8c",
         "category": "Artificial Intelligence",
-        "wordCount": 11039,
+        "wordCount": 17913,
         "sentenceAnalysis": {
           "totalSentences": 774,
           "avgWordsPerSentence": 23.143410852713178,
@@ -6796,7 +6796,7 @@
       {
         "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
         "category": "Other",
-        "wordCount": 9544,
+        "wordCount": 15800,
         "sentenceAnalysis": {
           "totalSentences": 682,
           "avgWordsPerSentence": 23.167155425219942,
@@ -6856,7 +6856,7 @@
       {
         "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
         "category": "Other",
-        "wordCount": 4291,
+        "wordCount": 7567,
         "sentenceAnalysis": {
           "totalSentences": 291,
           "avgWordsPerSentence": 26.00343642611684,
@@ -6916,7 +6916,7 @@
       {
         "directory": "Wardley_Mapping_Mastery__Uncovering_Hidden_Opportunities_in_Business_Strategy_058b2cd6-6fe2-4e",
         "category": "Strategic Mapping",
-        "wordCount": 28080,
+        "wordCount": 43648,
         "sentenceAnalysis": {
           "totalSentences": 1617,
           "avgWordsPerSentence": 26.993197278911566,
@@ -6976,7 +6976,7 @@
       {
         "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
         "category": "Artificial Intelligence",
-        "wordCount": 7287,
+        "wordCount": 12686,
         "sentenceAnalysis": {
           "totalSentences": 515,
           "avgWordsPerSentence": 24.633009708737863,
@@ -7036,7 +7036,7 @@
       {
         "directory": "Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb",
         "category": "Artificial Intelligence",
-        "wordCount": 7261,
+        "wordCount": 12324,
         "sentenceAnalysis": {
           "totalSentences": 510,
           "avgWordsPerSentence": 24.16470588235294,
@@ -7096,7 +7096,7 @@
       {
         "directory": "Conscious_Earth__Harnessing_the_Planet_s_Information_Platform_Revolution_0b9366d1-db69-4d",
         "category": "Other",
-        "wordCount": 33966,
+        "wordCount": 60765,
         "sentenceAnalysis": {
           "totalSentences": 2456,
           "avgWordsPerSentence": 24.741449511400653,
@@ -7156,7 +7156,7 @@
       {
         "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
         "category": "Other",
-        "wordCount": 7319,
+        "wordCount": 12113,
         "sentenceAnalysis": {
           "totalSentences": 466,
           "avgWordsPerSentence": 25.993562231759658,
@@ -7216,7 +7216,7 @@
       {
         "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
         "category": "Strategic Mapping",
-        "wordCount": 6849,
+        "wordCount": 11591,
         "sentenceAnalysis": {
           "totalSentences": 531,
           "avgWordsPerSentence": 21.828625235404896,
@@ -7276,7 +7276,7 @@
       {
         "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
         "category": "Other",
-        "wordCount": 8932,
+        "wordCount": 14760,
         "sentenceAnalysis": {
           "totalSentences": 682,
           "avgWordsPerSentence": 21.64222873900293,
@@ -7336,7 +7336,7 @@
       {
         "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
         "category": "Other",
-        "wordCount": 26684,
+        "wordCount": 41887,
         "sentenceAnalysis": {
           "totalSentences": 2066,
           "avgWordsPerSentence": 20.274443368828653,
@@ -7396,7 +7396,7 @@
       {
         "directory": "The_AI_Success_Trinity__Mastering_DataOps__MLOps__and_FinOps_for_Transformative_AI_Implementation_fd9c6f12-26aa-42",
         "category": "Artificial Intelligence",
-        "wordCount": 25702,
+        "wordCount": 44301,
         "sentenceAnalysis": {
           "totalSentences": 1754,
           "avgWordsPerSentence": 25.257126567844924,
@@ -7456,7 +7456,7 @@
       {
         "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
         "category": "Strategic Mapping",
-        "wordCount": 36386,
+        "wordCount": 56753,
         "sentenceAnalysis": {
           "totalSentences": 2117,
           "avgWordsPerSentence": 26.80821917808219,
@@ -7516,7 +7516,7 @@
       {
         "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
         "category": "Other",
-        "wordCount": 26191,
+        "wordCount": 40908,
         "sentenceAnalysis": {
           "totalSentences": 1953,
           "avgWordsPerSentence": 20.946236559139784,
@@ -7576,7 +7576,7 @@
       {
         "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
         "category": "Artificial Intelligence",
-        "wordCount": 23878,
+        "wordCount": 37499,
         "sentenceAnalysis": {
           "totalSentences": 1780,
           "avgWordsPerSentence": 21.06685393258427,
@@ -7636,7 +7636,7 @@
       {
         "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
         "category": "Strategic Mapping",
-        "wordCount": 21530,
+        "wordCount": 37573,
         "sentenceAnalysis": {
           "totalSentences": 1396,
           "avgWordsPerSentence": 26.914756446991404,
@@ -7696,7 +7696,7 @@
       {
         "directory": "Mapping_Sustainable_Futures__Wardley_Mapping_for_UN_Sustainable_Development_Goals_e7d8047e-89bc-49",
         "category": "Strategic Mapping",
-        "wordCount": 20393,
+        "wordCount": 41710,
         "sentenceAnalysis": {
           "totalSentences": 1620,
           "avgWordsPerSentence": 25.746913580246915,
@@ -7756,7 +7756,7 @@
       {
         "directory": "AI_Supremacy__The_Battle_Between_OpenAI__Anthropic_8cd4825c",
         "category": "Artificial Intelligence",
-        "wordCount": 1450,
+        "wordCount": 12755,
         "sentenceAnalysis": {
           "totalSentences": 496,
           "avgWordsPerSentence": 25.715725806451612,
@@ -7816,7 +7816,7 @@
       {
         "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
         "category": "Artificial Intelligence",
-        "wordCount": 2640,
+        "wordCount": 10770,
         "sentenceAnalysis": {
           "totalSentences": 418,
           "avgWordsPerSentence": 25.76555023923445,
@@ -7876,7 +7876,7 @@
       {
         "directory": "Climbing_the_Value_Ladder__Mastering_the_Art_of_Value_Propositions_and_Benefits_Communication_465d7194-fd19-48",
         "category": "Other",
-        "wordCount": 24339,
+        "wordCount": 43789,
         "sentenceAnalysis": {
           "totalSentences": 1756,
           "avgWordsPerSentence": 24.936788154897496,
@@ -7936,7 +7936,7 @@
       {
         "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
         "category": "Strategic Mapping",
-        "wordCount": 13182,
+        "wordCount": 21591,
         "sentenceAnalysis": {
           "totalSentences": 1017,
           "avgWordsPerSentence": 21.23008849557522,
@@ -7996,7 +7996,7 @@
       {
         "directory": "Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5",
         "category": "Strategic Mapping",
-        "wordCount": 29803,
+        "wordCount": 47501,
         "sentenceAnalysis": {
           "totalSentences": 2324,
           "avgWordsPerSentence": 20.439328743545612,
@@ -8056,7 +8056,7 @@
       {
         "directory": "GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f",
         "category": "Artificial Intelligence",
-        "wordCount": 26397,
+        "wordCount": 41122,
         "sentenceAnalysis": {
           "totalSentences": 2051,
           "avgWordsPerSentence": 20.04973183812774,
@@ -8116,7 +8116,7 @@
       {
         "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
         "category": "Artificial Intelligence",
-        "wordCount": 24332,
+        "wordCount": 38244,
         "sentenceAnalysis": {
           "totalSentences": 1895,
           "avgWordsPerSentence": 20.181530343007914,
@@ -8176,7 +8176,7 @@
       {
         "directory": "The_AGI_Race__OpenAI_vs_Anthropic_in_the_Battle_for_Artificial_General_Intelligence_7db60baa-c7d1-4c",
         "category": "Artificial Intelligence",
-        "wordCount": 32452,
+        "wordCount": 58503,
         "sentenceAnalysis": {
           "totalSentences": 2346,
           "avgWordsPerSentence": 24.937340153452684,
@@ -8236,7 +8236,7 @@
       {
         "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
         "category": "Artificial Intelligence",
-        "wordCount": 32309,
+        "wordCount": 51080,
         "sentenceAnalysis": {
           "totalSentences": 2312,
           "avgWordsPerSentence": 22.093425605536332,
@@ -8296,7 +8296,7 @@
       {
         "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
         "category": "Other",
-        "wordCount": 31254,
+        "wordCount": 49394,
         "sentenceAnalysis": {
           "totalSentences": 2399,
           "avgWordsPerSentence": 20.589412255106293,
@@ -8356,7 +8356,7 @@
       {
         "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
         "category": "Artificial Intelligence",
-        "wordCount": 28247,
+        "wordCount": 50639,
         "sentenceAnalysis": {
           "totalSentences": 2024,
           "avgWordsPerSentence": 25.01926877470356,
@@ -8416,7 +8416,7 @@
       {
         "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
         "category": "Artificial Intelligence",
-        "wordCount": 32833,
+        "wordCount": 52044,
         "sentenceAnalysis": {
           "totalSentences": 2512,
           "avgWordsPerSentence": 20.71815286624204,
@@ -8476,7 +8476,7 @@
       {
         "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
         "category": "Artificial Intelligence",
-        "wordCount": 19679,
+        "wordCount": 35974,
         "sentenceAnalysis": {
           "totalSentences": 1395,
           "avgWordsPerSentence": 25.787813620071685,
@@ -8536,7 +8536,7 @@
       {
         "directory": "GenAI_for_Official_Statistics__A_Strategic_Guide_f_29969967",
         "category": "Artificial Intelligence",
-        "wordCount": 32819,
+        "wordCount": 52727,
         "sentenceAnalysis": {
           "totalSentences": 2419,
           "avgWordsPerSentence": 21.797023563455973,
@@ -8596,7 +8596,7 @@
       {
         "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
         "category": "Artificial Intelligence",
-        "wordCount": 26393,
+        "wordCount": 41257,
         "sentenceAnalysis": {
           "totalSentences": 1907,
           "avgWordsPerSentence": 21.634504457262715,
@@ -8656,7 +8656,7 @@
       {
         "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
         "category": "Business Strategy",
-        "wordCount": 26995,
+        "wordCount": 43367,
         "sentenceAnalysis": {
           "totalSentences": 1602,
           "avgWordsPerSentence": 27.070536828963796,
@@ -8716,7 +8716,7 @@
       {
         "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
         "category": "Technology",
-        "wordCount": 41817,
+        "wordCount": 67280,
         "sentenceAnalysis": {
           "totalSentences": 2987,
           "avgWordsPerSentence": 22.524271844660195,
@@ -8776,7 +8776,7 @@
       {
         "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
         "category": "Other",
-        "wordCount": 30252,
+        "wordCount": 54807,
         "sentenceAnalysis": {
           "totalSentences": 2106,
           "avgWordsPerSentence": 26.024216524216524,
@@ -8836,7 +8836,7 @@
       {
         "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
         "category": "Artificial Intelligence",
-        "wordCount": 20898,
+        "wordCount": 33328,
         "sentenceAnalysis": {
           "totalSentences": 1637,
           "avgWordsPerSentence": 20.359193646915088,
@@ -8896,7 +8896,7 @@
       {
         "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
         "category": "Strategic Mapping",
-        "wordCount": 38812,
+        "wordCount": 63769,
         "sentenceAnalysis": {
           "totalSentences": 2967,
           "avgWordsPerSentence": 21.492753623188406,
@@ -8956,7 +8956,7 @@
       {
         "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
         "category": "Strategic Mapping",
-        "wordCount": 24107,
+        "wordCount": 43797,
         "sentenceAnalysis": {
           "totalSentences": 1811,
           "avgWordsPerSentence": 24.18387631143015,
@@ -9016,7 +9016,7 @@
       {
         "directory": "Wardley_Mapping_for_Startups__Navigating_Uncertainty_and_Driving_Innovation_5c03d220-6cf2-41",
         "category": "Strategic Mapping",
-        "wordCount": 46233,
+        "wordCount": 82633,
         "sentenceAnalysis": {
           "totalSentences": 3333,
           "avgWordsPerSentence": 24.792379237923793,
@@ -9076,7 +9076,7 @@
       {
         "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
         "category": "Artificial Intelligence",
-        "wordCount": 33546,
+        "wordCount": 52657,
         "sentenceAnalysis": {
           "totalSentences": 2513,
           "avgWordsPerSentence": 20.95384003183446,
@@ -9136,7 +9136,7 @@
       {
         "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
         "category": "Artificial Intelligence",
-        "wordCount": 30075,
+        "wordCount": 48941,
         "sentenceAnalysis": {
           "totalSentences": 2277,
           "avgWordsPerSentence": 21.493631971892842,
@@ -9196,7 +9196,7 @@
       {
         "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
         "category": "Artificial Intelligence",
-        "wordCount": 38165,
+        "wordCount": 66442,
         "sentenceAnalysis": {
           "totalSentences": 2705,
           "avgWordsPerSentence": 24.562661737523104,
@@ -9256,7 +9256,7 @@
       {
         "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
         "category": "Strategic Mapping",
-        "wordCount": 27141,
+        "wordCount": 48227,
         "sentenceAnalysis": {
           "totalSentences": 2007,
           "avgWordsPerSentence": 24.029397110114598,
@@ -9316,7 +9316,7 @@
       {
         "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
         "category": "Artificial Intelligence",
-        "wordCount": 30783,
+        "wordCount": 48995,
         "sentenceAnalysis": {
           "totalSentences": 2370,
           "avgWordsPerSentence": 20.672995780590718,
@@ -9376,7 +9376,7 @@
       {
         "directory": "The_Red_Queen_and_the_AI_Race__Staying_Ahead_with__1889668b",
         "category": "Artificial Intelligence",
-        "wordCount": 20896,
+        "wordCount": 34482,
         "sentenceAnalysis": {
           "totalSentences": 1661,
           "avgWordsPerSentence": 20.759783263094523,
@@ -9436,7 +9436,7 @@
       {
         "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming__26ebe7b6",
         "category": "Artificial Intelligence",
-        "wordCount": 29028,
+        "wordCount": 45446,
         "sentenceAnalysis": {
           "totalSentences": 2257,
           "avgWordsPerSentence": 20.135578201151972,
@@ -9496,7 +9496,7 @@
       {
         "directory": "The_AI_Titans__OpenAI__Anthropic__and_Google_in_th_14c119ee",
         "category": "Artificial Intelligence",
-        "wordCount": 21634,
+        "wordCount": 34882,
         "sentenceAnalysis": {
           "totalSentences": 1560,
           "avgWordsPerSentence": 22.36025641025641,
@@ -9556,7 +9556,7 @@
       {
         "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
         "category": "Other",
-        "wordCount": 11664,
+        "wordCount": 19539,
         "sentenceAnalysis": {
           "totalSentences": 842,
           "avgWordsPerSentence": 23.205463182897862,
@@ -9616,7 +9616,7 @@
       {
         "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
         "category": "Artificial Intelligence",
-        "wordCount": 28262,
+        "wordCount": 45343,
         "sentenceAnalysis": {
           "totalSentences": 2120,
           "avgWordsPerSentence": 21.388207547169813,
@@ -9676,7 +9676,7 @@
       {
         "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
         "category": "Artificial Intelligence",
-        "wordCount": 40956,
+        "wordCount": 66076,
         "sentenceAnalysis": {
           "totalSentences": 3218,
           "avgWordsPerSentence": 20.53325046612803,
@@ -9736,7 +9736,7 @@
       {
         "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
         "category": "Artificial Intelligence",
-        "wordCount": 42979,
+        "wordCount": 69189,
         "sentenceAnalysis": {
           "totalSentences": 3432,
           "avgWordsPerSentence": 20.159965034965033,
@@ -9796,7 +9796,7 @@
       {
         "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
         "category": "Strategic Mapping",
-        "wordCount": 30744,
+        "wordCount": 51698,
         "sentenceAnalysis": {
           "totalSentences": 2525,
           "avgWordsPerSentence": 20.474455445544553,
@@ -9856,7 +9856,7 @@
       {
         "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
         "category": "Strategic Mapping",
-        "wordCount": 27074,
+        "wordCount": 45428,
         "sentenceAnalysis": {
           "totalSentences": 2270,
           "avgWordsPerSentence": 20.012334801762115,
@@ -9916,7 +9916,7 @@
       {
         "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
         "category": "Other",
-        "wordCount": 19780,
+        "wordCount": 32919,
         "sentenceAnalysis": {
           "totalSentences": 1552,
           "avgWordsPerSentence": 21.21069587628866,
@@ -9976,7 +9976,7 @@
       {
         "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
         "category": "Artificial Intelligence",
-        "wordCount": 32386,
+        "wordCount": 49418,
         "sentenceAnalysis": {
           "totalSentences": 2472,
           "avgWordsPerSentence": 19.991100323624597,
@@ -10035,7 +10035,7 @@
       {
         "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
         "category": "Strategic Mapping",
-        "wordCount": 28642,
+        "wordCount": 46167,
         "sentenceAnalysis": {
           "totalSentences": 2316,
           "avgWordsPerSentence": 19.933937823834196,
@@ -10094,7 +10094,7 @@
       {
         "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
         "category": "Strategic Mapping",
-        "wordCount": 29059,
+        "wordCount": 47249,
         "sentenceAnalysis": {
           "totalSentences": 2592,
           "avgWordsPerSentence": 18.22878086419753,
@@ -10153,7 +10153,7 @@
       {
         "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
         "category": "Strategic Mapping",
-        "wordCount": 39091,
+        "wordCount": 64387,
         "sentenceAnalysis": {
           "totalSentences": 3273,
           "avgWordsPerSentence": 19.672166208371525,
@@ -10212,7 +10212,7 @@
       {
         "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
         "category": "Strategic Mapping",
-        "wordCount": 33884,
+        "wordCount": 54011,
         "sentenceAnalysis": {
           "totalSentences": 2773,
           "avgWordsPerSentence": 19.477461233321314,
@@ -10271,7 +10271,7 @@
       {
         "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
         "category": "Artificial Intelligence",
-        "wordCount": 34195,
+        "wordCount": 55157,
         "sentenceAnalysis": {
           "totalSentences": 2866,
           "avgWordsPerSentence": 19.24528960223308,
@@ -10330,7 +10330,7 @@
       {
         "directory": "Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c",
         "category": "Strategic Mapping",
-        "wordCount": 45925,
+        "wordCount": 77714,
         "sentenceAnalysis": {
           "totalSentences": 3985,
           "avgWordsPerSentence": 19.501631116687577,
@@ -10389,7 +10389,7 @@
       {
         "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
         "category": "Artificial Intelligence",
-        "wordCount": 34453,
+        "wordCount": 54761,
         "sentenceAnalysis": {
           "totalSentences": 2862,
           "avgWordsPerSentence": 19.13382250174703,
@@ -10448,7 +10448,7 @@
       {
         "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
         "category": "Strategic Mapping",
-        "wordCount": 32861,
+        "wordCount": 54512,
         "sentenceAnalysis": {
           "totalSentences": 2914,
           "avgWordsPerSentence": 18.706932052161978,
@@ -10507,7 +10507,7 @@
       {
         "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
         "category": "Strategic Mapping",
-        "wordCount": 44605,
+        "wordCount": 74091,
         "sentenceAnalysis": {
           "totalSentences": 3812,
           "avgWordsPerSentence": 19.436253934942286,
@@ -10566,7 +10566,7 @@
       {
         "directory": "GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6",
         "category": "Artificial Intelligence",
-        "wordCount": 27920,
+        "wordCount": 44461,
         "sentenceAnalysis": {
           "totalSentences": 2299,
           "avgWordsPerSentence": 19.33927794693345,
@@ -10625,7 +10625,7 @@
       {
         "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
         "category": "Strategic Mapping",
-        "wordCount": 21565,
+        "wordCount": 36160,
         "sentenceAnalysis": {
           "totalSentences": 1940,
           "avgWordsPerSentence": 18.63917525773196,
@@ -10684,7 +10684,7 @@
       {
         "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
         "category": "Other",
-        "wordCount": 14057,
+        "wordCount": 24098,
         "sentenceAnalysis": {
           "totalSentences": 986,
           "avgWordsPerSentence": 24.440162271805274,
@@ -10743,7 +10743,7 @@
       {
         "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
         "category": "Other",
-        "wordCount": 66129,
+        "wordCount": 102056,
         "sentenceAnalysis": {
           "totalSentences": 11925,
           "avgWordsPerSentence": 8.558155136268343,
@@ -10802,7 +10802,7 @@
       {
         "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
         "category": "Strategic Mapping",
-        "wordCount": 5718,
+        "wordCount": 13211,
         "sentenceAnalysis": {
           "totalSentences": 551,
           "avgWordsPerSentence": 23.976406533575318,
@@ -10861,7 +10861,7 @@
       {
         "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
         "category": "Strategic Mapping",
-        "wordCount": 6980,
+        "wordCount": 12543,
         "sentenceAnalysis": {
           "totalSentences": 596,
           "avgWordsPerSentence": 21.04530201342282,
@@ -10920,7 +10920,7 @@
       {
         "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
         "category": "Other",
-        "wordCount": 7437,
+        "wordCount": 13452,
         "sentenceAnalysis": {
           "totalSentences": 588,
           "avgWordsPerSentence": 22.877551020408163,
@@ -10979,7 +10979,7 @@
       {
         "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
         "category": "Strategic Mapping",
-        "wordCount": 3804,
+        "wordCount": 7361,
         "sentenceAnalysis": {
           "totalSentences": 362,
           "avgWordsPerSentence": 20.334254143646408,
@@ -11038,7 +11038,7 @@
       {
         "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
         "category": "Other",
-        "wordCount": 6883,
+        "wordCount": 12827,
         "sentenceAnalysis": {
           "totalSentences": 555,
           "avgWordsPerSentence": 23.111711711711713,
@@ -11097,7 +11097,7 @@
       {
         "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
         "category": "Strategic Mapping",
-        "wordCount": 2585,
+        "wordCount": 5382,
         "sentenceAnalysis": {
           "totalSentences": 242,
           "avgWordsPerSentence": 22.239669421487605,
@@ -11154,66 +11154,9 @@
         "overallScore": 39.87740324497637
       },
       {
-        "directory": "Wardley Mapping, The Knowledge: Part One, Topographical intelligence in business",
-        "category": "Strategic Mapping",
-        "wordCount": 77306,
-        "sentenceAnalysis": {
-          "totalSentences": 7625,
-          "avgWordsPerSentence": 18.692983606557377,
-          "avgSyllablesPerWord": 1.600284844317847,
-          "longSentences": 1691,
-          "shortSentences": 966,
-          "complexWords": 23332,
-          "passiveVoice": 923,
-          "questions": 0,
-          "exclamations": 0,
-          "subordinateClauses": 2866,
-          "readabilityIssues": []
-        },
-        "readabilityMetrics": {
-          "fleschScore": 52.47752381005441,
-          "fleschGrade": "Fairly Difficult",
-          "fleschKincaidGrade": 10.583624769507974,
-          "fogIndex": 14.024964500756449,
-          "smogIndex": 13.122217540046265,
-          "ariIndex": 10.478123413982097,
-          "cliIndex": 10.782631512481228,
-          "avgSentenceLength": 18.692983606557377,
-          "avgSyllablesPerWord": 1.600284844317847,
-          "complexWordRatio": 0.16369427645333745
-        },
-        "vocabularyComplexity": {
-          "totalWords": 77306,
-          "uniqueWords": 8329,
-          "vocabularyRichness": 0.10774066695987375,
-          "rareWords": 1346,
-          "technicalTerms": 7685,
-          "jargonWords": 240,
-          "avgWordLength": 6.404625772902492,
-          "complexityScore": 0.11992600833053062
-        },
-        "structurePatterns": {
-          "headers": 20,
-          "subheaders": 213,
-          "bulletPoints": 184,
-          "numberedLists": 25,
-          "codeBlocks": 0,
-          "quotes": 0,
-          "links": 233,
-          "emphasis": 966,
-          "paragraphs": 2475,
-          "avgParagraphLength": 56.81090909090909,
-          "tableOfContents": true,
-          "summaries": 0,
-          "examples": 138,
-          "definitions": 19
-        },
-        "overallScore": 50.99100952402176
-      },
-      {
         "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
         "category": "Other",
-        "wordCount": 91730,
+        "wordCount": 154044,
         "sentenceAnalysis": {
           "totalSentences": 7771,
           "avgWordsPerSentence": 19.822931411658733,
@@ -11272,7 +11215,7 @@
       {
         "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
         "category": "Other",
-        "wordCount": 91730,
+        "wordCount": 154044,
         "sentenceAnalysis": {
           "totalSentences": 7771,
           "avgWordsPerSentence": 19.822931411658733,
@@ -11327,66 +11270,9 @@
         "overallScore": 51.45405522710766
       },
       {
-        "directory": "Wardley Mapping, The Knowledge: Part One, Topographical intelligence in business",
-        "category": "Strategic Mapping",
-        "wordCount": 77306,
-        "sentenceAnalysis": {
-          "totalSentences": 7625,
-          "avgWordsPerSentence": 18.692983606557377,
-          "avgSyllablesPerWord": 1.600284844317847,
-          "longSentences": 1691,
-          "shortSentences": 966,
-          "complexWords": 23332,
-          "passiveVoice": 923,
-          "questions": 0,
-          "exclamations": 0,
-          "subordinateClauses": 2866,
-          "readabilityIssues": []
-        },
-        "readabilityMetrics": {
-          "fleschScore": 52.47752381005441,
-          "fleschGrade": "Fairly Difficult",
-          "fleschKincaidGrade": 10.583624769507974,
-          "fogIndex": 14.024964500756449,
-          "smogIndex": 13.122217540046265,
-          "ariIndex": 10.478123413982097,
-          "cliIndex": 10.782631512481228,
-          "avgSentenceLength": 18.692983606557377,
-          "avgSyllablesPerWord": 1.600284844317847,
-          "complexWordRatio": 0.16369427645333745
-        },
-        "vocabularyComplexity": {
-          "totalWords": 77306,
-          "uniqueWords": 8329,
-          "vocabularyRichness": 0.10774066695987375,
-          "rareWords": 1346,
-          "technicalTerms": 7685,
-          "jargonWords": 240,
-          "avgWordLength": 6.404625772902492,
-          "complexityScore": 0.11992600833053062
-        },
-        "structurePatterns": {
-          "headers": 20,
-          "subheaders": 213,
-          "bulletPoints": 184,
-          "numberedLists": 25,
-          "codeBlocks": 0,
-          "quotes": 0,
-          "links": 233,
-          "emphasis": 966,
-          "paragraphs": 2475,
-          "avgParagraphLength": 56.81090909090909,
-          "tableOfContents": true,
-          "summaries": 0,
-          "examples": 138,
-          "definitions": 19
-        },
-        "overallScore": 50.99100952402176
-      },
-      {
         "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
         "category": "Strategic Mapping",
-        "wordCount": 2585,
+        "wordCount": 5382,
         "sentenceAnalysis": {
           "totalSentences": 242,
           "avgWordsPerSentence": 22.239669421487605,
@@ -11445,7 +11331,7 @@
       {
         "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
         "category": "Other",
-        "wordCount": 6883,
+        "wordCount": 12827,
         "sentenceAnalysis": {
           "totalSentences": 555,
           "avgWordsPerSentence": 23.111711711711713,
@@ -11504,7 +11390,7 @@
       {
         "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
         "category": "Strategic Mapping",
-        "wordCount": 3804,
+        "wordCount": 7361,
         "sentenceAnalysis": {
           "totalSentences": 362,
           "avgWordsPerSentence": 20.334254143646408,
@@ -11563,7 +11449,7 @@
       {
         "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
         "category": "Other",
-        "wordCount": 7437,
+        "wordCount": 13452,
         "sentenceAnalysis": {
           "totalSentences": 588,
           "avgWordsPerSentence": 22.877551020408163,
@@ -11622,7 +11508,7 @@
       {
         "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
         "category": "Strategic Mapping",
-        "wordCount": 6980,
+        "wordCount": 12543,
         "sentenceAnalysis": {
           "totalSentences": 596,
           "avgWordsPerSentence": 21.04530201342282,
@@ -11681,7 +11567,7 @@
       {
         "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
         "category": "Strategic Mapping",
-        "wordCount": 5718,
+        "wordCount": 13211,
         "sentenceAnalysis": {
           "totalSentences": 551,
           "avgWordsPerSentence": 23.976406533575318,
@@ -11740,7 +11626,7 @@
       {
         "directory": "The_Automated_Levy__Navigating_the_Future_of_Taxat",
         "category": "Other",
-        "wordCount": 66129,
+        "wordCount": 102056,
         "sentenceAnalysis": {
           "totalSentences": 11925,
           "avgWordsPerSentence": 8.558155136268343,
@@ -11799,7 +11685,7 @@
       {
         "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
         "category": "Other",
-        "wordCount": 14057,
+        "wordCount": 24098,
         "sentenceAnalysis": {
           "totalSentences": 986,
           "avgWordsPerSentence": 24.440162271805274,
@@ -11854,13 +11740,72 @@
           "definitions": 0
         },
         "overallScore": 36.31551853461112
+      },
+      {
+        "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
+        "category": "Strategic Mapping",
+        "wordCount": 36160,
+        "sentenceAnalysis": {
+          "totalSentences": 1940,
+          "avgWordsPerSentence": 18.63917525773196,
+          "avgSyllablesPerWord": 1.9857853982300886,
+          "longSentences": 291,
+          "shortSentences": 83,
+          "complexWords": 10633,
+          "passiveVoice": 250,
+          "questions": 0,
+          "exclamations": 0,
+          "subordinateClauses": 549,
+          "readabilityIssues": [
+            "Complex vocabulary (avg: 2.0 syllables/word)"
+          ]
+        },
+        "readabilityMetrics": {
+          "fleschScore": 19.91879242313658,
+          "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 15.111546049630512,
+          "fogIndex": 19.21783824468571,
+          "smogIndex": 16.50342824230771,
+          "ariIndex": 15.621015173113769,
+          "cliIndex": 17.232073008849557,
+          "avgSentenceLength": 18.63917525773196,
+          "avgSyllablesPerWord": 1.9857853982300886,
+          "complexWordRatio": 0.29405420353982303
+        },
+        "vocabularyComplexity": {
+          "totalWords": 21565,
+          "uniqueWords": 2741,
+          "vocabularyRichness": 0.12710410387201485,
+          "rareWords": 470,
+          "technicalTerms": 4318,
+          "jargonWords": 452,
+          "avgWordLength": 7.617482031068862,
+          "complexityScore": 0.2429863204266172
+        },
+        "structurePatterns": {
+          "headers": 2,
+          "subheaders": 71,
+          "bulletPoints": 558,
+          "numberedLists": 19,
+          "codeBlocks": 0,
+          "quotes": 46,
+          "links": 80,
+          "emphasis": 162,
+          "paragraphs": 608,
+          "avgParagraphLength": 58.65625,
+          "tableOfContents": true,
+          "summaries": 6,
+          "examples": 65,
+          "definitions": 11
+        },
+        "overallScore": 31.967516969254632
       }
     ],
     "leastReadable": [
       {
         "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
         "category": "Strategic Mapping",
-        "wordCount": 8273,
+        "wordCount": 12795,
         "sentenceAnalysis": {
           "totalSentences": 334,
           "avgWordsPerSentence": 38.308383233532936,
@@ -11921,7 +11866,7 @@
       {
         "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Guide_to_Modernizing_Complex_Organizations_bff2aa4f",
         "category": "Government",
-        "wordCount": 10050,
+        "wordCount": 14857,
         "sentenceAnalysis": {
           "totalSentences": 374,
           "avgWordsPerSentence": 39.724598930481285,
@@ -11982,7 +11927,7 @@
       {
         "directory": "Strategic_AI_Advantage__A_Comprehensive_Framework_cde800e0-3f4d-47",
         "category": "Artificial Intelligence",
-        "wordCount": 139440,
+        "wordCount": 191461,
         "sentenceAnalysis": {
           "totalSentences": 5514,
           "avgWordsPerSentence": 34.72270583968081,
@@ -12043,7 +11988,7 @@
       {
         "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
         "category": "Technology",
-        "wordCount": 7997,
+        "wordCount": 11953,
         "sentenceAnalysis": {
           "totalSentences": 323,
           "avgWordsPerSentence": 37.0061919504644,
@@ -12104,7 +12049,7 @@
       {
         "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
         "category": "Government",
-        "wordCount": 12190,
+        "wordCount": 17821,
         "sentenceAnalysis": {
           "totalSentences": 451,
           "avgWordsPerSentence": 39.51441241685144,
@@ -12165,7 +12110,7 @@
       {
         "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
         "category": "Technology",
-        "wordCount": 9043,
+        "wordCount": 13684,
         "sentenceAnalysis": {
           "totalSentences": 393,
           "avgWordsPerSentence": 34.81933842239186,
@@ -12226,7 +12171,7 @@
       {
         "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
         "category": "Data Science",
-        "wordCount": 10071,
+        "wordCount": 14730,
         "sentenceAnalysis": {
           "totalSentences": 424,
           "avgWordsPerSentence": 34.740566037735846,
@@ -12287,7 +12232,7 @@
       {
         "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
         "category": "Other",
-        "wordCount": 6199,
+        "wordCount": 9518,
         "sentenceAnalysis": {
           "totalSentences": 247,
           "avgWordsPerSentence": 38.534412955465584,
@@ -12348,7 +12293,7 @@
       {
         "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
         "category": "Artificial Intelligence",
-        "wordCount": 17894,
+        "wordCount": 25699,
         "sentenceAnalysis": {
           "totalSentences": 720,
           "avgWordsPerSentence": 35.69305555555555,
@@ -12409,7 +12354,7 @@
       {
         "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
         "category": "Other",
-        "wordCount": 9584,
+        "wordCount": 14293,
         "sentenceAnalysis": {
           "totalSentences": 420,
           "avgWordsPerSentence": 34.03095238095238,
@@ -12471,11 +12416,11 @@
   },
   "categoryAnalysis": {
     "Strategic Mapping": {
-      "count": 58,
-      "avgReadabilityScore": 18.246209258746486,
-      "avgFleschScore": 0.6155231468662192,
-      "avgSentenceLength": 26.875439736017285,
-      "avgComplexityScore": 0.27940380791767117
+      "count": 57,
+      "avgReadabilityScore": 17.67173907865394,
+      "avgFleschScore": -0.29433651389146825,
+      "avgSentenceLength": 27.01899159793763,
+      "avgComplexityScore": 0.28220166405077884
     },
     "Government": {
       "count": 6,

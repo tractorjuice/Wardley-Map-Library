@@ -3,7 +3,7 @@
   "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
   "title": "Starship vs Blue Origin: The New Space Race and the Future of Space Exploration",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:39.593Z",
+  "generatedAt": "2025-07-14T19:18:58.176Z",
   "summary": {
     "overallScore": 23.308712763035963,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 23.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.28489368998628256,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

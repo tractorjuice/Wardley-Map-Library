@@ -3,7 +3,7 @@
   "directory": "Chronos_Resistance_61fc8b58-bd77-4973-b45e-a97d2cc6d84a",
   "title": "Table of Contents",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:30.662Z",
+  "generatedAt": "2025-07-14T19:18:49.479Z",
   "summary": {
     "overallScore": 39.64562282628774,
     "readabilityGrade": "Below Average",
@@ -68,7 +68,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 23.1 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -96,7 +96,7 @@
       "category": "Reading Flow",
       "priority": "Medium",
       "issue": "Flesch Reading Ease score: 39.1",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "recommendation": "Consider adding more examples and shorter explanations to improve flow.",
       "impact": "Medium - Improving flow enhances readability"
     }
   ],
@@ -107,18 +107,18 @@
       "item": "Simplify vocabulary"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 7,
       "item": "Add more structure"
     },
     {
       "priority": "High",
-      "score": 5,
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 4,
       "item": "Improve reading flow"
     },
     {
@@ -147,7 +147,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.1688217347087026,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

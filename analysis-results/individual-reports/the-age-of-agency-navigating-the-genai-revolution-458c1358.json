@@ -3,7 +3,7 @@
   "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
   "title": "The Age of Agency: Navigating the GenAI Revolution",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:42.202Z",
+  "generatedAt": "2025-07-14T19:19:00.760Z",
   "summary": {
     "overallScore": 23.466348303971962,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.5 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 22.9%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -131,12 +119,12 @@
     "sentenceLength": {
       "bookScore": 20.53325046612803,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.22878210762769802,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

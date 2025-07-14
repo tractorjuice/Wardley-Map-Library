@@ -3,7 +3,7 @@
   "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
   "title": "Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:39.240Z",
+  "generatedAt": "2025-07-14T19:18:57.776Z",
   "summary": {
     "overallScore": 2.4845115889955878,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2925187242278886,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

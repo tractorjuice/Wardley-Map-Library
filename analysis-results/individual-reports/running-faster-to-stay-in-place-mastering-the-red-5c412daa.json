@@ -3,7 +3,7 @@
   "directory": "Running_Faster_to_Stay_in_Place__Mastering_the_Red_5c412daa",
   "title": "Running Faster to Stay in Place: Mastering the Red Queen Effect in the Age of Generative AI",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:38.748Z",
+  "generatedAt": "2025-07-14T19:18:57.313Z",
   "summary": {
     "overallScore": 5.578180244509371,
     "readabilityGrade": "Very Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.33961442108702755,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

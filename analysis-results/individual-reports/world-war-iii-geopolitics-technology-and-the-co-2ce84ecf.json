@@ -3,7 +3,7 @@
   "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
   "title": "World War III: Geopolitics, Technology, and the Coming Global Conflict",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:46.614Z",
+  "generatedAt": "2025-07-14T19:19:05.131Z",
   "summary": {
     "overallScore": 21.156376308832524,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 22.5 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -99,8 +99,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     }
   ],
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.22648683549752494,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

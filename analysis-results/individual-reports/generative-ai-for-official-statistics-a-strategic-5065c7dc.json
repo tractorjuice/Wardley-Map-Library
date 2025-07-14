@@ -3,7 +3,7 @@
   "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
   "title": "Generative AI for Official Statistics: A Strategic Roadmap for the UN Statistics Division",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:34.126Z",
+  "generatedAt": "2025-07-14T19:18:52.849Z",
   "summary": {
     "overallScore": 20.422802602922662,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 28.5%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -119,12 +107,12 @@
     "sentenceLength": {
       "bookScore": 20.181530343007914,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.28530330429064604,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

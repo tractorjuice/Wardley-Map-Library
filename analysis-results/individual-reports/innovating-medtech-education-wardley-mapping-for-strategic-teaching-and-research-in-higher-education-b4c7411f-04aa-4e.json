@@ -3,7 +3,7 @@
   "directory": "Innovating_MedTech_Education__Wardley_Mapping_for_Strategic_Teaching_and_Research_in_Higher_Education_b4c7411f-04aa-4e",
   "title": "Innovating MedTech Education: Wardley Mapping for Strategic Teaching and Research in Higher Education",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:34.784Z",
+  "generatedAt": "2025-07-14T19:18:53.522Z",
   "summary": {
     "overallScore": 11.047287085372057,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.32046470062555854,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

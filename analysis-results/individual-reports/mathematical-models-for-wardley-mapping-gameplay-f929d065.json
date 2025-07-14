@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
   "title": "Mathematical Models for Wardley Mapping Gameplay: A Quantitative Approach to Strategic Decision Making",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:37.052Z",
+  "generatedAt": "2025-07-14T19:18:55.680Z",
   "summary": {
     "overallScore": 1.877607092265679,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.37159120995499073,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

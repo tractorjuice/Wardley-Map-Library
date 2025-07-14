@@ -3,7 +3,7 @@
   "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
   "title": "Seizing the AI Tide: A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:39.200Z",
+  "generatedAt": "2025-07-14T19:18:57.740Z",
   "summary": {
     "overallScore": 22.370459804518077,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.7 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 23.6%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -124,7 +112,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.23636422700841372,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

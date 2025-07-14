@@ -3,7 +3,7 @@
   "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
   "title": "Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:35.893Z",
+  "generatedAt": "2025-07-14T19:18:54.548Z",
   "summary": {
     "overallScore": 22.242033919207596,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 24.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.25338049445488375,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

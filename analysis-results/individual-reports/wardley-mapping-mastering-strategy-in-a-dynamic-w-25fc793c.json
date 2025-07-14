@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Dynamic_W_25fc793c",
   "title": "Wardley Mapping: Mastering Strategy in a Dynamic World",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:45.356Z",
+  "generatedAt": "2025-07-14T19:19:03.907Z",
   "summary": {
     "overallScore": 30.219907218756497,
     "readabilityGrade": "Below Average",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 18.7 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 25.2%",
@@ -96,11 +89,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -118,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 18.706932052161978,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.25215300812513314,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

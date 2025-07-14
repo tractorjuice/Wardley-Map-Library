@@ -3,7 +3,7 @@
   "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
   "title": "Supply Chain Innovation in Oligopolistic Markets: Building Competitive Advantage Through Network Dynamics",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:41.054Z",
+  "generatedAt": "2025-07-14T19:18:59.594Z",
   "summary": {
     "overallScore": 1.2347082417752624,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.35118423810521904,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
   "title": "Digital Bridges: Empowering Offline Communities Through AI-Generated Educational Materials",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:31.825Z",
+  "generatedAt": "2025-07-14T19:18:50.741Z",
   "summary": {
     "overallScore": 0.07773445259893919,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.34722990158133366,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

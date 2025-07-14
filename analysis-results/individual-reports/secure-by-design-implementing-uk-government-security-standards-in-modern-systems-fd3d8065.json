@@ -3,7 +3,7 @@
   "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
   "title": "Secure by Design: Implementing UK Government Security Standards in Modern Systems",
   "category": "Government",
-  "generatedAt": "2025-07-14T18:26:38.982Z",
+  "generatedAt": "2025-07-14T19:18:57.536Z",
   "summary": {
     "overallScore": 1.8191566598710658,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3021954887218045,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

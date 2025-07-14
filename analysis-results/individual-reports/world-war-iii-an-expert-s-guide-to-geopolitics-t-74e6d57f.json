@@ -3,7 +3,7 @@
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
   "title": "World War III: An Expert's Guide to Geopolitics, Technology, and Survival",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:46.390Z",
+  "generatedAt": "2025-07-14T19:19:04.920Z",
   "summary": {
     "overallScore": 20.5210483835069,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.6 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.7%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -124,7 +112,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24697638702246114,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

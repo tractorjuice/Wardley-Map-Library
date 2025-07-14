@@ -3,7 +3,7 @@
   "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
   "title": "Navigating Complexity: Wardley Mapping Climatic Patterns as a Math Model",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:37.270Z",
+  "generatedAt": "2025-07-14T19:18:55.885Z",
   "summary": {
     "overallScore": 18.96566149494845,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 21.8 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.31011826544021026,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

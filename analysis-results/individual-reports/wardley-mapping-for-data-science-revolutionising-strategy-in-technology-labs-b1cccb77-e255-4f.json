@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
   "title": "Wardley Mapping for Data Science: Revolutionising Strategy in Technology Labs",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:45.721Z",
+  "generatedAt": "2025-07-14T19:19:04.275Z",
   "summary": {
     "overallScore": 12.685743554959867,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2712786865418922,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

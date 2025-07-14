@@ -3,7 +3,7 @@
   "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
   "title": "Ecosystem Advantage: Mapping and Orchestrating for Strategic Dominance",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:32.275Z",
+  "generatedAt": "2025-07-14T19:18:51.196Z",
   "summary": {
     "overallScore": 21.50214893202618,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 21.5 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 23.7%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -136,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.23709162114809854,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

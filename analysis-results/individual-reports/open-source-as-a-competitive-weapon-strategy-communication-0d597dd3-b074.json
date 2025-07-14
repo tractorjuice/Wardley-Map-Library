@@ -3,7 +3,7 @@
   "directory": "Open_Source_as_a_Competitive_Weapon__Strategy__Communication_0d597dd3-b074",
   "title": "Open Source as a Competitive Weapon: Strategy, Community and Business Insight",
   "category": "Business Strategy",
-  "generatedAt": "2025-07-14T18:26:37.868Z",
+  "generatedAt": "2025-07-14T19:18:56.400Z",
   "summary": {
     "overallScore": 6.123538631964891,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2675971483080631,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

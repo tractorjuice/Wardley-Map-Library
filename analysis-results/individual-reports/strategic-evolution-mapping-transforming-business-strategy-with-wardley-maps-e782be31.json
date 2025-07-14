@@ -3,7 +3,7 @@
   "directory": "Strategic_Evolution_Mapping__Transforming_Business_Strategy_with_Wardley_Maps_e782be31",
   "title": "Strategic Evolution Mapping: Transforming Business Strategy with Wardley Maps",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:40.576Z",
+  "generatedAt": "2025-07-14T19:18:59.146Z",
   "summary": {
     "overallScore": 12.770932973958486,
     "readabilityGrade": "Very Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.33823636496031456,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

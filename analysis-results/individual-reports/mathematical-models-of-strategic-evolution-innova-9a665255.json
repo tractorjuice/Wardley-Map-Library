@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
   "title": "Mathematical Models of Strategic Evolution: Innovate, Leverage, Commoditise",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:37.125Z",
+  "generatedAt": "2025-07-14T19:18:55.734Z",
   "summary": {
     "overallScore": 0.5722643140250838,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3616712372963381,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

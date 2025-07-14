@@ -3,7 +3,7 @@
   "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
   "title": "Mathematical Modelling for Wardley Mapping: A Strategic Framework for Complex Systems",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:36.960Z",
+  "generatedAt": "2025-07-14T19:18:55.588Z",
   "summary": {
     "overallScore": 20.02728102786192,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 21.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 30.3%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -136,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.30291306326809286,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Securing_the_Digital_Depths__Economic_and_Military_f1239f21",
   "title": "Securing the Digital Depths: Economic and Military Strategies Against Russian Submarine Cable Operations",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:39.063Z",
+  "generatedAt": "2025-07-14T19:18:57.608Z",
   "summary": {
     "overallScore": -0.7189051307507501,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3179942478429411,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

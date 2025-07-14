@@ -3,7 +3,7 @@
   "directory": "Are_the_GenAI_Agents_Taking_Over__Navigating_the_F_987fcdf5",
   "title": "Are the GenAI Agents Taking Over? Navigating the Future of Work and Society",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:28.719Z",
+  "generatedAt": "2025-07-14T19:18:47.534Z",
   "summary": {
     "overallScore": 19.9035821460463,
     "readabilityGrade": "Poor",
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3613636363636364,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

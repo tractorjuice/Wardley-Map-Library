@@ -3,7 +3,7 @@
   "directory": "Leading_Digital_Transformation_in_Government__A_Practitioner_s_Guide_to_Complex_Project_Delivery_2485b672",
   "title": "Leading Digital Transformation in Government: A Practitioner's Guide to Complex Project Delivery",
   "category": "Government",
-  "generatedAt": "2025-07-14T18:26:34.890Z",
+  "generatedAt": "2025-07-14T19:18:53.629Z",
   "summary": {
     "overallScore": 1.4386642778390293,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.29048248512888303,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

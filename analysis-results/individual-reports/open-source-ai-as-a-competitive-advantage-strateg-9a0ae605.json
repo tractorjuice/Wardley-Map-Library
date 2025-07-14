@@ -3,7 +3,7 @@
   "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
   "title": "Open Source AI as a Competitive Advantage: Strategic Implementation for Business Success",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:37.747Z",
+  "generatedAt": "2025-07-14T19:18:56.276Z",
   "summary": {
     "overallScore": 2.845487153404667,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3218460472768205,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

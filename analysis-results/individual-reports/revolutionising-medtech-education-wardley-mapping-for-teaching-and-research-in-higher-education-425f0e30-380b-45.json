@@ -3,7 +3,7 @@
   "directory": "Revolutionising_MedTech_Education__Wardley_Mapping_for_Teaching_and_Research_in_Higher_Education_425f0e30-380b-45",
   "title": "Revolutionising MedTech Education: Wardley Mapping for Teaching and Research in Higher Education",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:38.702Z",
+  "generatedAt": "2025-07-14T19:18:57.242Z",
   "summary": {
     "overallScore": 9.584106953954915,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2884016368411409,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

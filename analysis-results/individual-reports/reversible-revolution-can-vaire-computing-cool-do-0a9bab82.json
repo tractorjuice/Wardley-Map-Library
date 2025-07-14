@@ -3,7 +3,7 @@
   "directory": "Reversible_Revolution__Can_Vaire_Computing_Cool_Do_0a9bab82",
   "title": "Reversible Revolution: Can Vaire Computing Cool Down the AI Heatwave?",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:38.398Z",
+  "generatedAt": "2025-07-14T19:18:56.924Z",
   "summary": {
     "overallScore": 19.44728254137715,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 21.1 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 27.2%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -124,7 +112,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.27209146494681297,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

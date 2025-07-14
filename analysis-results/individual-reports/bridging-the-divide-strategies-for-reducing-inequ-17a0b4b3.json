@@ -3,7 +3,7 @@
   "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
   "title": "Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:29.614Z",
+  "generatedAt": "2025-07-14T19:18:48.558Z",
   "summary": {
     "overallScore": 18.394367808753124,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 23.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.23396898575020955,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

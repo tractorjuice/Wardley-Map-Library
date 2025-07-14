@@ -3,7 +3,7 @@
   "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
   "title": "Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:40.880Z",
+  "generatedAt": "2025-07-14T19:18:59.442Z",
   "summary": {
     "overallScore": 15.77818956439055,
     "readabilityGrade": "Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3090440842296622,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
   "title": "GenAI for the NHS: A Practical Guide to Strategy, Implementation, and Ethical Governance",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:33.861Z",
+  "generatedAt": "2025-07-14T19:18:52.594Z",
   "summary": {
     "overallScore": 22.08796357654519,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 21.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.3%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -124,7 +112,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24271150062600608,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

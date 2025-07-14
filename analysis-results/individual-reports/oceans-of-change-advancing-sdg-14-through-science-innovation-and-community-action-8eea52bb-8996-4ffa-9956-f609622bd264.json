@@ -3,7 +3,7 @@
   "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
   "title": "Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action",
   "category": "Data Science",
-  "generatedAt": "2025-07-14T18:26:37.507Z",
+  "generatedAt": "2025-07-14T19:18:56.093Z",
   "summary": {
     "overallScore": 4.714692695354574,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3406692117673479,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

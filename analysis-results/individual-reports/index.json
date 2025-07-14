@@ -1,6 +1,6 @@
 {
   "totalReports": 185,
-  "generatedAt": "2025-07-14T18:26:46.615Z",
+  "generatedAt": "2025-07-14T19:19:05.132Z",
   "reports": [
     {
       "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
@@ -11,10 +11,7 @@
       "readabilityGrade": "Average",
       "wordCount": 154044,
       "estimatedReadingTime": 771,
-      "topIssues": [
-        "Shorten long sentences",
-        "Improve reading flow"
-      ]
+      "topIssues": []
     },
     {
       "bookId": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
@@ -27,8 +24,8 @@
       "estimatedReadingTime": 27,
       "topIssues": [
         "Simplify vocabulary",
-        "Shorten long sentences",
-        "Add more structure"
+        "Add more structure",
+        "Shorten long sentences"
       ]
     },
     {
@@ -42,8 +39,8 @@
       "estimatedReadingTime": 65,
       "topIssues": [
         "Simplify vocabulary",
-        "Shorten long sentences",
-        "Add more structure"
+        "Add more structure",
+        "Shorten long sentences"
       ]
     },
     {
@@ -56,9 +53,9 @@
       "wordCount": 7361,
       "estimatedReadingTime": 37,
       "topIssues": [
+        "Add more structure",
         "Simplify vocabulary",
-        "Shorten long sentences",
-        "Add more structure"
+        "Improve reading flow"
       ]
     },
     {
@@ -72,8 +69,8 @@
       "estimatedReadingTime": 68,
       "topIssues": [
         "Simplify vocabulary",
-        "Shorten long sentences",
-        "Add more structure"
+        "Add more structure",
+        "Shorten long sentences"
       ]
     },
     {
@@ -86,9 +83,9 @@
       "wordCount": 12543,
       "estimatedReadingTime": 63,
       "topIssues": [
+        "Add more structure",
         "Simplify vocabulary",
-        "Shorten long sentences",
-        "Add more structure"
+        "Improve reading flow"
       ]
     },
     {
@@ -101,9 +98,9 @@
       "wordCount": 13211,
       "estimatedReadingTime": 67,
       "topIssues": [
-        "Simplify vocabulary",
+        "Improve reading flow",
         "Shorten long sentences",
-        "Improve reading flow"
+        "Simplify vocabulary"
       ]
     },
     {
@@ -116,7 +113,6 @@
       "wordCount": 102056,
       "estimatedReadingTime": 511,
       "topIssues": [
-        "Simplify vocabulary",
         "Improve reading flow"
       ]
     },
@@ -131,8 +127,8 @@
       "estimatedReadingTime": 121,
       "topIssues": [
         "Shorten long sentences",
-        "Add more structure",
-        "Improve reading flow"
+        "Improve reading flow",
+        "Add more structure"
       ]
     },
     {
@@ -160,8 +156,7 @@
       "estimatedReadingTime": 223,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -175,8 +170,7 @@
       "estimatedReadingTime": 371,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -190,8 +184,7 @@
       "estimatedReadingTime": 273,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -205,8 +198,7 @@
       "estimatedReadingTime": 274,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -220,8 +212,7 @@
       "estimatedReadingTime": 389,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -235,8 +226,7 @@
       "estimatedReadingTime": 276,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -250,8 +240,7 @@
       "estimatedReadingTime": 271,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -265,8 +254,7 @@
       "estimatedReadingTime": 322,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -295,7 +283,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -309,8 +297,7 @@
       "estimatedReadingTime": 248,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -324,8 +311,7 @@
       "estimatedReadingTime": 165,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -339,8 +325,7 @@
       "estimatedReadingTime": 228,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -355,7 +340,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -370,7 +355,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -385,7 +370,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -400,7 +385,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -444,8 +429,7 @@
       "estimatedReadingTime": 228,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -460,7 +444,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -474,8 +458,7 @@
       "estimatedReadingTime": 245,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -503,9 +486,9 @@
       "wordCount": 66442,
       "estimatedReadingTime": 333,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -520,7 +503,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -534,8 +517,7 @@
       "estimatedReadingTime": 264,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -548,9 +530,9 @@
       "wordCount": 82633,
       "estimatedReadingTime": 414,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -580,7 +562,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -595,7 +577,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -700,7 +682,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -729,8 +711,7 @@
       "estimatedReadingTime": 247,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -758,9 +739,9 @@
       "wordCount": 58503,
       "estimatedReadingTime": 293,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -774,8 +755,7 @@
       "estimatedReadingTime": 192,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -789,8 +769,7 @@
       "estimatedReadingTime": 206,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -804,8 +783,7 @@
       "estimatedReadingTime": 238,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -820,7 +798,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -833,9 +811,9 @@
       "wordCount": 43789,
       "estimatedReadingTime": 219,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -909,8 +887,7 @@
       "estimatedReadingTime": 188,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -924,8 +901,7 @@
       "estimatedReadingTime": 205,
       "topIssues": [
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -970,7 +946,7 @@
       "topIssues": [
         "Simplify vocabulary",
         "Improve reading flow",
-        "Shorten long sentences"
+        "Reduce passive voice"
       ]
     },
     {
@@ -1028,9 +1004,9 @@
       "wordCount": 60765,
       "estimatedReadingTime": 304,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1058,9 +1034,9 @@
       "wordCount": 12686,
       "estimatedReadingTime": 64,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1148,9 +1124,9 @@
       "wordCount": 170764,
       "estimatedReadingTime": 854,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1238,9 +1214,9 @@
       "wordCount": 60809,
       "estimatedReadingTime": 305,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1253,9 +1229,9 @@
       "wordCount": 15991,
       "estimatedReadingTime": 80,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1298,9 +1274,9 @@
       "wordCount": 51564,
       "estimatedReadingTime": 258,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1388,9 +1364,9 @@
       "wordCount": 12651,
       "estimatedReadingTime": 64,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1433,9 +1409,9 @@
       "wordCount": 12433,
       "estimatedReadingTime": 63,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {
@@ -1523,9 +1499,9 @@
       "wordCount": 129025,
       "estimatedReadingTime": 646,
       "topIssues": [
+        "Shorten long sentences",
         "Simplify vocabulary",
-        "Improve reading flow",
-        "Shorten long sentences"
+        "Improve reading flow"
       ]
     },
     {

@@ -3,7 +3,7 @@
   "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
   "title": "Harnessing GenAI for Environmental Stewardship: A Practical Guide for the Environment Agency",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:34.558Z",
+  "generatedAt": "2025-07-14T19:18:53.311Z",
   "summary": {
     "overallScore": 20.517221905796724,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 22.1 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -99,8 +99,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     }
   ],
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.28032436782320713,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

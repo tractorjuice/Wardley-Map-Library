@@ -3,7 +3,7 @@
   "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
   "title": "Using Open Source as a Competitive Weapon",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:44.375Z",
+  "generatedAt": "2025-07-14T19:19:02.982Z",
   "summary": {
     "overallScore": 18.61933773025123,
     "readabilityGrade": "Poor",
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.29060824982521555,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

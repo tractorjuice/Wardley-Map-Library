@@ -3,7 +3,7 @@
   "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
   "title": "Digital Titans: The Epic Battle Between Apple, Microsoft, and Google for Tech Supremacy",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:31.949Z",
+  "generatedAt": "2025-07-14T19:18:50.887Z",
   "summary": {
     "overallScore": 7.921340287155715,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2818400964242668,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

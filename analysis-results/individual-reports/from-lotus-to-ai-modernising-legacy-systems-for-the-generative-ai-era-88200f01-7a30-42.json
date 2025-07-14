@@ -3,7 +3,7 @@
   "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
   "title": "From Lotus to AI: Modernising Legacy Systems for the Generative AI Era",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:32.683Z",
+  "generatedAt": "2025-07-14T19:18:51.475Z",
   "summary": {
     "overallScore": 16.49006367876108,
     "readabilityGrade": "Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24558692292623469,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
   "title": "GenAI for HMRC: A Practical Guide to Strategy, Implementation, and Ethical Governance",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:33.087Z",
+  "generatedAt": "2025-07-14T19:18:51.929Z",
   "summary": {
     "overallScore": 30.09918863550015,
     "readabilityGrade": "Below Average",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 19.1 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 23.7%",
@@ -96,11 +89,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -118,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 19.13382250174703,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23733782254085276,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

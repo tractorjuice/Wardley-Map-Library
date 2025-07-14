@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
   "title": "Wardley Mapping: Mastering Strategy in a Complex World",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:45.173Z",
+  "generatedAt": "2025-07-14T19:19:03.764Z",
   "summary": {
     "overallScore": 25.421380905564273,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 23.9%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -119,12 +107,12 @@
     "sentenceLength": {
       "bookScore": 20.012334801762115,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23915934106522863,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

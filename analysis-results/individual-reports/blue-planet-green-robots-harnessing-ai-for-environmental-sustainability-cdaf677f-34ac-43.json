@@ -3,7 +3,7 @@
   "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
   "title": "Blue Planet, Green Robots: Harnessing AI for Environmental Sustainability",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:29.370Z",
+  "generatedAt": "2025-07-14T19:18:48.311Z",
   "summary": {
     "overallScore": 16.42147867172084,
     "readabilityGrade": "Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2667448018405174,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

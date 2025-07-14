@@ -3,7 +3,7 @@
   "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
   "title": "Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:37.546Z",
+  "generatedAt": "2025-07-14T19:18:56.124Z",
   "summary": {
     "overallScore": 36.37395484624058,
     "readabilityGrade": "Below Average",
@@ -68,39 +68,39 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 24.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
       "category": "Vocabulary",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Vocabulary complexity score: 15.6%",
-      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
-      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+      "recommendation": "Consider simplifying some technical terms where context allows.",
+      "impact": "Medium - Simpler vocabulary improves accessibility"
     },
     {
       "category": "Reading Flow",
-      "priority": "Medium",
+      "priority": "High",
       "issue": "Flesch Reading Ease score: 30.9",
       "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
-      "impact": "Medium - Improving flow enhances readability"
+      "impact": "High - Improving flow makes content much more accessible"
     }
   ],
   "improvementPriorities": [
     {
-      "priority": "Critical",
-      "score": 9,
-      "item": "Simplify vocabulary"
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
       "priority": "High",
       "score": 5,
-      "item": "Improve reading flow"
+      "item": "Simplify vocabulary"
     }
   ],
   "benchmarks": {
@@ -123,7 +123,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.15564882826162993,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

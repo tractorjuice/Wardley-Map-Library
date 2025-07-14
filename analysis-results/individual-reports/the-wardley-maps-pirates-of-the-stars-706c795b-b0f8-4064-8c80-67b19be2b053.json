@@ -3,7 +3,7 @@
   "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
   "title": "Table of Contents",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:43.741Z",
+  "generatedAt": "2025-07-14T19:19:02.352Z",
   "summary": {
     "overallScore": 39.3536847481238,
     "readabilityGrade": "Below Average",
@@ -65,18 +65,11 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.3 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
-      "priority": "High",
+      "priority": "Medium",
       "issue": "Vocabulary complexity score: 16.2%",
-      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
-      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+      "recommendation": "Consider simplifying some technical terms where context allows.",
+      "impact": "Medium - Simpler vocabulary improves accessibility"
     },
     {
       "category": "Structure",
@@ -96,21 +89,11 @@
       "category": "Reading Flow",
       "priority": "Medium",
       "issue": "Flesch Reading Ease score: 38.4",
-      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "recommendation": "Consider adding more examples and shorter explanations to improve flow.",
       "impact": "Medium - Improving flow enhances readability"
     }
   ],
   "improvementPriorities": [
-    {
-      "priority": "Critical",
-      "score": 9,
-      "item": "Simplify vocabulary"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
     {
       "priority": "Medium",
       "score": 7,
@@ -119,6 +102,11 @@
     {
       "priority": "High",
       "score": 5,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "Medium",
+      "score": 4,
       "item": "Improve reading flow"
     },
     {
@@ -142,12 +130,12 @@
     "sentenceLength": {
       "bookScore": 20.334254143646408,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1619348054679285,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

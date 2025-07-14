@@ -3,7 +3,7 @@
   "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
   "title": "Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:43.853Z",
+  "generatedAt": "2025-07-14T19:19:02.479Z",
   "summary": {
     "overallScore": 5.011482429414604,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.34269805112629714,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Empowering_the_Future__Achieving_Affordable_and_Cl_6bb54cc5",
   "title": "Empowering the Future: Achieving Affordable and Clean Energy for All",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:32.318Z",
+  "generatedAt": "2025-07-14T19:18:51.224Z",
   "summary": {
     "overallScore": 17.05374171673858,
     "readabilityGrade": "Poor",
@@ -67,10 +67,10 @@
   "recommendations": [
     {
       "category": "Sentence Structure",
-      "priority": "Medium",
+      "priority": "High",
       "issue": "Average sentence length is 24.4 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
+      "impact": "High - Shorter sentences significantly improve readability"
     },
     {
       "category": "Vocabulary",
@@ -97,6 +97,11 @@
   "improvementPriorities": [
     {
       "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
       "score": 9,
       "item": "Simplify vocabulary"
     },
@@ -104,11 +109,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     },
     {
       "priority": "Medium",
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24962025316455697,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

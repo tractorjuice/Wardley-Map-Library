@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
   "title": "Mathematical Models for Infrastructure Technical Debt: An AI-Integrated Approach",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:37.020Z",
+  "generatedAt": "2025-07-14T19:18:55.647Z",
   "summary": {
     "overallScore": 2.1696906197881276,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.32682020802377415,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

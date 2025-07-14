@@ -3,7 +3,7 @@
   "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
   "title": "Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:36.175Z",
+  "generatedAt": "2025-07-14T19:18:54.812Z",
   "summary": {
     "overallScore": 8.187052096307388,
     "readabilityGrade": "Very Poor",
@@ -137,7 +137,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2260655955384411,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

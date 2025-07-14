@@ -3,7 +3,7 @@
   "directory": "Securing_LLMs__Essential_Questions_for_Your_Penetration_Testing_Strategy_be9e7c94-d513-43",
   "title": "Securing LLMs: Essential Questions for Your Penetration Testing Strategy",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:39.033Z",
+  "generatedAt": "2025-07-14T19:18:57.583Z",
   "summary": {
     "overallScore": 11.006859085687552,
     "readabilityGrade": "Very Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.30866944830783494,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

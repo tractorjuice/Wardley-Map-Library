@@ -3,7 +3,7 @@
   "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
   "title": "Co-pilot PCs in the Enterprise: A Strategic Guide to Enhanced Productivity and Competitive Advantage",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:30.897Z",
+  "generatedAt": "2025-07-14T19:18:49.723Z",
   "summary": {
     "overallScore": 19.36562731163872,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.9 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.0%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -124,7 +112,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24023519529609408,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

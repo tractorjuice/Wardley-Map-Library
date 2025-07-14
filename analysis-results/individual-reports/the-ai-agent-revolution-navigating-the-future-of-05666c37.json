@@ -3,7 +3,7 @@
   "directory": "The_AI_Agent_Revolution__Navigating_the_Future_of__05666c37",
   "title": "The AI Agent Revolution: Navigating the Future of Human-Machine Partnership",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:41.600Z",
+  "generatedAt": "2025-07-14T19:19:00.129Z",
   "summary": {
     "overallScore": 6.3545722397516435,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3163281128857187,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
   "title": "Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:36.304Z",
+  "generatedAt": "2025-07-14T19:18:54.952Z",
   "summary": {
     "overallScore": 27.75984912057836,
     "readabilityGrade": "Poor",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 19.9 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 23.6%",
@@ -105,11 +98,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -130,12 +118,12 @@
     "sentenceLength": {
       "bookScore": 19.933937823834196,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23643600307241114,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

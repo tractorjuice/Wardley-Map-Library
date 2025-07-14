@@ -3,7 +3,7 @@
   "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
   "title": "Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:35.771Z",
+  "generatedAt": "2025-07-14T19:18:54.406Z",
   "summary": {
     "overallScore": 28.75104974024207,
     "readabilityGrade": "Poor",
@@ -106,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 18.22878086419753,
       "referenceBenchmark": 18.69,
-      "comparison": "Better"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2580611858632437,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

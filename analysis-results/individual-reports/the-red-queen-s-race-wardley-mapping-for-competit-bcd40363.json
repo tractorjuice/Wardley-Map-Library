@@ -3,7 +3,7 @@
   "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
   "title": "The Red Queen's Race: Wardley Mapping for Competitive Advantage in a Relentlessly Evolving World",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:43.664Z",
+  "generatedAt": "2025-07-14T19:19:02.274Z",
   "summary": {
     "overallScore": 29.380014616967458,
     "readabilityGrade": "Poor",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 19.7 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 25.2%",
@@ -96,11 +89,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -118,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 19.672166208371525,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2522575528894119,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

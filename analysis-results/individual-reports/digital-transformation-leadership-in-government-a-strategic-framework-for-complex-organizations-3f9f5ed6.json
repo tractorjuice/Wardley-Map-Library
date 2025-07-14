@@ -3,7 +3,7 @@
   "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Framework_for_Complex_Organizations_3f9f5ed6",
   "title": "Digital Transformation Leadership in Government: A Strategic Framework for Complex Organizations",
   "category": "Government",
-  "generatedAt": "2025-07-14T18:26:31.997Z",
+  "generatedAt": "2025-07-14T19:18:50.935Z",
   "summary": {
     "overallScore": -0.31569056362536685,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3022149302707137,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

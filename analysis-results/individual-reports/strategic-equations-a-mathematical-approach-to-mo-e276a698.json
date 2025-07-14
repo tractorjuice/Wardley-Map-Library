@@ -3,7 +3,7 @@
   "directory": "Strategic_Equations__A_Mathematical_Approach_to_Mo_e276a698",
   "title": "Strategic Equations: A Mathematical Approach to Modern Warfare",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:40.505Z",
+  "generatedAt": "2025-07-14T19:18:59.089Z",
   "summary": {
     "overallScore": 16.631652133909732,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 23.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2854319593450028,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

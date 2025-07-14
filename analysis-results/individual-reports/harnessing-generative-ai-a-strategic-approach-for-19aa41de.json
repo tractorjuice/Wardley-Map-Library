@@ -3,7 +3,7 @@
   "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
   "title": "Harnessing Generative AI: A Strategic Approach for the UK Home Office",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:34.577Z",
+  "generatedAt": "2025-07-14T19:18:53.328Z",
   "summary": {
     "overallScore": 17.878187197113164,
     "readabilityGrade": "Poor",
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.289928197166699,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

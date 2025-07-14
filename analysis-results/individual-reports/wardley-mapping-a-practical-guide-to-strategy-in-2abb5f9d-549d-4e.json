@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
   "title": "Wardley Mapping: A Practical Guide to Strategy in a Digital Age",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:44.851Z",
+  "generatedAt": "2025-07-14T19:19:03.440Z",
   "summary": {
     "overallScore": 24.470378787665926,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.5 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.9%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -131,12 +119,12 @@
     "sentenceLength": {
       "bookScore": 20.474455445544553,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24928441321883946,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

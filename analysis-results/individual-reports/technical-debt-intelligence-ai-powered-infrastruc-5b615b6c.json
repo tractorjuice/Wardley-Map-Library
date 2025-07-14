@@ -3,7 +3,7 @@
   "directory": "Technical_Debt_Intelligence__AI-Powered_Infrastruc_5b615b6c",
   "title": "Technical Debt Intelligence: AI-Powered Infrastructure Assessment Using Large Language Models",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:41.288Z",
+  "generatedAt": "2025-07-14T19:18:59.839Z",
   "summary": {
     "overallScore": 0.8458864976371832,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.35084385827651726,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Strategic_Home_Office_Evolution__A_Wardley_Mapping_Guide_for_Remote-First_Success_6e528aa0",
   "title": "Strategic Home Office Evolution: A Wardley Mapping Guide for Remote-First Success",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:40.691Z",
+  "generatedAt": "2025-07-14T19:18:59.236Z",
   "summary": {
     "overallScore": 5.968882117081011,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.32397428625449043,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

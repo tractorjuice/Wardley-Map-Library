@@ -3,7 +3,7 @@
   "directory": "GenAI_for_Public_Good__A_Practical_Strategy_for_GO_0806731f",
   "title": "GenAI for Public Good: A Practical Strategy for GOSS Interactive",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:33.689Z",
+  "generatedAt": "2025-07-14T19:18:52.429Z",
   "summary": {
     "overallScore": 20.339212307405283,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.0 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 27.0%",
@@ -97,11 +90,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -119,12 +107,12 @@
     "sentenceLength": {
       "bookScore": 20.04973183812774,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2702201007690268,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

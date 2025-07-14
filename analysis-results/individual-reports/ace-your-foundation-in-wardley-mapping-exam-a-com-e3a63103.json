@@ -3,7 +3,7 @@
   "directory": "Ace_Your_Foundation_in_Wardley_Mapping_Exam__A_Com_e3a63103",
   "title": "Ace Your Foundation in Wardley Mapping Exam: A Comprehensive Study Guide",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:28.696Z",
+  "generatedAt": "2025-07-14T19:18:47.512Z",
   "summary": {
     "overallScore": 31.967516969254632,
     "readabilityGrade": "Below Average",
@@ -106,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 18.63917525773196,
       "referenceBenchmark": 18.69,
-      "comparison": "Better"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2429863204266172,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

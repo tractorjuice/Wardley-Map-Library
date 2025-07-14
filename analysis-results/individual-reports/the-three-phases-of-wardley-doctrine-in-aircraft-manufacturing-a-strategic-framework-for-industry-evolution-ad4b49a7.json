@@ -3,7 +3,7 @@
   "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
   "title": "The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:43.701Z",
+  "generatedAt": "2025-07-14T19:19:02.308Z",
   "summary": {
     "overallScore": -2.162153182497832,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3766469237277892,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

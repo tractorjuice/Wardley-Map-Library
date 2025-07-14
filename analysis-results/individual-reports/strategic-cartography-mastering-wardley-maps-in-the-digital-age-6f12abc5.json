@@ -3,7 +3,7 @@
   "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
   "title": "Strategic Cartography: Mastering Wardley Maps in the Digital Age",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:40.467Z",
+  "generatedAt": "2025-07-14T19:18:59.056Z",
   "summary": {
     "overallScore": 5.7360929594618595,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.32123212321232125,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

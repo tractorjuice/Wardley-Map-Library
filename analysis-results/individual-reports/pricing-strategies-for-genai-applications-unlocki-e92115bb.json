@@ -3,7 +3,7 @@
   "directory": "Pricing_Strategies_for_GenAI_Applications__Unlocki_e92115bb",
   "title": "Pricing Strategies for GenAI Applications: Unlocking Value in the AI Revolution",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:37.997Z",
+  "generatedAt": "2025-07-14T19:18:56.559Z",
   "summary": {
     "overallScore": 18.871717532504725,
     "readabilityGrade": "Poor",
@@ -69,7 +69,7 @@
       "category": "Sentence Structure",
       "priority": "Medium",
       "issue": "Average sentence length is 24.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
       "impact": "Medium - Shorter sentences improve readability"
     },
     {
@@ -106,8 +106,8 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
+      "priority": "High",
+      "score": 6,
       "item": "Shorten long sentences"
     },
     {
@@ -136,7 +136,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2976174080705137,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

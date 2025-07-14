@@ -3,7 +3,7 @@
   "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
   "title": "DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:31.734Z",
+  "generatedAt": "2025-07-14T19:18:50.636Z",
   "summary": {
     "overallScore": 21.485193303500342,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 20.4 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.4%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -131,12 +119,12 @@
     "sentenceLength": {
       "bookScore": 20.359193646915088,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2444731553258685,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

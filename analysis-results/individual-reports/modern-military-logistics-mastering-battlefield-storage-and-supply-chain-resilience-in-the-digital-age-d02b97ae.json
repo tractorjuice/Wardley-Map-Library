@@ -3,7 +3,7 @@
   "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
   "title": "Modern Military Logistics: Mastering Battlefield Storage and Supply Chain Resilience in the Digital Age",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:37.237Z",
+  "generatedAt": "2025-07-14T19:18:55.860Z",
   "summary": {
     "overallScore": 5.673117148341122,
     "readabilityGrade": "Very Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.2991920771436018,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

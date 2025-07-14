@@ -3,7 +3,7 @@
   "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
   "title": "AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:28.544Z",
+  "generatedAt": "2025-07-14T19:18:47.373Z",
   "summary": {
     "overallScore": 1.4366967065213654,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3353586650947674,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

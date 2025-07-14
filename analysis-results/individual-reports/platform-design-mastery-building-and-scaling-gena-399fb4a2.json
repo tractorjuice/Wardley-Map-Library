@@ -3,7 +3,7 @@
   "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
   "title": "Platform Design Mastery: Building and Scaling GenAI Ecosystems",
   "category": "Other",
-  "generatedAt": "2025-07-14T18:26:37.912Z",
+  "generatedAt": "2025-07-14T19:18:56.455Z",
   "summary": {
     "overallScore": 4.412007791236373,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.3184908225696805,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

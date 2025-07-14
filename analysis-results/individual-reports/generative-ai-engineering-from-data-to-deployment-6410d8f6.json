@@ -3,7 +3,7 @@
   "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
   "title": "Generative AI Engineering: From Data to Deployment - A Comprehensive Guide to Building Production-Ready AI Systems",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:34.016Z",
+  "generatedAt": "2025-07-14T19:18:52.737Z",
   "summary": {
     "overallScore": 11.875611634041604,
     "readabilityGrade": "Very Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.31338162409454823,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

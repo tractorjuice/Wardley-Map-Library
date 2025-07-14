@@ -3,7 +3,7 @@
   "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
   "title": "Unlocking National Insights: A GenAI Strategy for the Office of National Statistics",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:44.159Z",
+  "generatedAt": "2025-07-14T19:19:02.805Z",
   "summary": {
     "overallScore": 29.793728954299716,
     "readabilityGrade": "Poor",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 19.2 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 25.0%",
@@ -96,11 +89,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -118,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 19.24528960223308,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.249539406345957,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

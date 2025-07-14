@@ -3,7 +3,7 @@
   "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Transforming_bbdf344f",
   "title": "GenAI for HMRC: A Practical Guide to Transforming Tax Administration",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:33.403Z",
+  "generatedAt": "2025-07-14T19:18:52.169Z",
   "summary": {
     "overallScore": 23.44645416286096,
     "readabilityGrade": "Poor",
@@ -66,13 +66,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 21.4 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.4%",
@@ -106,11 +99,6 @@
       "item": "Improve reading flow"
     },
     {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
-    },
-    {
       "priority": "Medium",
       "score": 3,
       "item": "Reduce passive voice"
@@ -136,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.24414408039063054,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

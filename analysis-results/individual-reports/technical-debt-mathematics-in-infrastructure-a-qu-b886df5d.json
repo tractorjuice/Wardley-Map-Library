@@ -3,7 +3,7 @@
   "directory": "Technical_Debt_Mathematics_in_Infrastructure__A_Qu_b886df5d",
   "title": "Technical Debt Mathematics in Infrastructure: A Quantitative Model for Asset Management",
   "category": "Technology",
-  "generatedAt": "2025-07-14T18:26:41.342Z",
+  "generatedAt": "2025-07-14T19:18:59.893Z",
   "summary": {
     "overallScore": 3.1568444121089207,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.34866926322622527,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

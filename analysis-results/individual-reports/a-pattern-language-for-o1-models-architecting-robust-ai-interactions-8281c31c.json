@@ -3,7 +3,7 @@
   "directory": "A_Pattern_Language_for_O1_Models__Architecting_Robust_AI_Interactions_8281c31c",
   "title": "A Pattern Language for O1 Models: Architecting Robust AI Interactions",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:28.599Z",
+  "generatedAt": "2025-07-14T19:18:47.420Z",
   "summary": {
     "overallScore": 3.3991692225647174,
     "readabilityGrade": "Very Poor",
@@ -125,7 +125,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.32399729226603485,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

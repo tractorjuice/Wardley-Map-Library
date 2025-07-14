@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
   "title": "Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-14T18:26:45.058Z",
+  "generatedAt": "2025-07-14T19:19:03.636Z",
   "summary": {
     "overallScore": 30.404699746807488,
     "readabilityGrade": "Below Average",
@@ -65,13 +65,6 @@
   },
   "recommendations": [
     {
-      "category": "Sentence Structure",
-      "priority": "Medium",
-      "issue": "Average sentence length is 19.4 words",
-      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
-      "impact": "Medium - Shorter sentences improve readability"
-    },
-    {
       "category": "Vocabulary",
       "priority": "High",
       "issue": "Vocabulary complexity score: 24.4%",
@@ -96,11 +89,6 @@
       "priority": "High",
       "score": 8,
       "item": "Improve reading flow"
-    },
-    {
-      "priority": "Critical",
-      "score": 7,
-      "item": "Shorten long sentences"
     }
   ],
   "benchmarks": {
@@ -118,12 +106,12 @@
     "sentenceLength": {
       "bookScore": 19.436253934942286,
       "referenceBenchmark": 18.69,
-      "comparison": "Worse"
+      "comparison": "Good"
     },
     "vocabularyComplexity": {
       "bookScore": 0.243963681201659,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

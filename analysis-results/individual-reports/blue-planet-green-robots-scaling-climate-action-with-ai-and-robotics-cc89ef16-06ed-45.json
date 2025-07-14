@@ -3,7 +3,7 @@
   "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
   "title": "Blue Planet, Green Robots: Scaling Climate Action with AI and Robotics",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-14T18:26:29.519Z",
+  "generatedAt": "2025-07-14T19:18:48.481Z",
   "summary": {
     "overallScore": 17.89055172891515,
     "readabilityGrade": "Poor",
@@ -124,7 +124,7 @@
     "vocabularyComplexity": {
       "bookScore": 0.23538051959974296,
       "referenceBenchmark": 0.12,
-      "comparison": "More Complex"
+      "comparison": "Worse"
     }
   }
 }

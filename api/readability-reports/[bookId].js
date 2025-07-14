@@ -159,7 +159,20 @@ function createBookTitleFromDirectory(directory) {
         .replace(/\b\w/g, l => l.toUpperCase());
 }
 
-function getReadabilityGrade(score) {
+function getReadabilityGrade(score, hasRecommendations = false) {
+    const referenceScore = 50.99; // Reference book score
+    
+    // If the book has no recommendations and is close to or better than reference, it's Good
+    if (!hasRecommendations && score >= referenceScore * 0.9) {
+        return 'Good';
+    }
+    
+    // If score is within 10% of reference, it's Good
+    if (Math.abs(score - referenceScore) / referenceScore <= 0.1) {
+        return 'Good';
+    }
+    
+    // Otherwise use traditional grading
     if (score >= 90) return 'Excellent';
     if (score >= 70) return 'Good';
     if (score >= 50) return 'Average';
@@ -242,6 +255,11 @@ function generateRecommendations(analysis) {
 }
 
 function generateIndividualReport(bookData, bookId) {
+    // Generate recommendations first to check if there are any
+    const recommendations = generateRecommendations(bookData);
+    const improvementPriorities = identifyImprovementPriorities(bookData);
+    const hasRecommendations = recommendations.length > 0 || improvementPriorities.length > 0;
+    
     const reportData = {
         bookId: bookId,
         directory: bookData.directory,
@@ -252,7 +270,7 @@ function generateIndividualReport(bookData, bookId) {
         // Summary metrics
         summary: {
             overallScore: bookData.overallScore || 0,
-            readabilityGrade: getReadabilityGrade(bookData.overallScore || 0),
+            readabilityGrade: getReadabilityGrade(bookData.overallScore || 0, hasRecommendations),
             wordCount: bookData.wordCount || 0,
             estimatedReadingTime: Math.ceil((bookData.wordCount || 0) / 200) // 200 words per minute
         },
@@ -264,10 +282,10 @@ function generateIndividualReport(bookData, bookId) {
         structurePatterns: bookData.structurePatterns || {},
 
         // Specific recommendations
-        recommendations: generateRecommendations(bookData),
+        recommendations: recommendations,
         
         // Improvement priorities
-        improvementPriorities: identifyImprovementPriorities(bookData),
+        improvementPriorities: improvementPriorities,
         
         // Comparison with library average
         benchmarks: generateBenchmarks(bookData, bookId)

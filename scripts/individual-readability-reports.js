@@ -48,6 +48,11 @@ class IndividualReadabilityReports {
         const bookId = this.createBookId(analysis.directory);
         const properTitle = this.getProperTitle(bookId, analysis.directory);
         
+        // Generate recommendations first to check if there are any
+        const recommendations = this.generateRecommendations(analysis);
+        const improvementPriorities = this.identifyImprovementPriorities(analysis);
+        const hasRecommendations = recommendations.length > 0 || improvementPriorities.length > 0;
+        
         const reportData = {
             bookId: bookId,
             directory: analysis.directory,
@@ -58,7 +63,7 @@ class IndividualReadabilityReports {
             // Summary metrics
             summary: {
                 overallScore: analysis.overallScore,
-                readabilityGrade: this.getReadabilityGrade(analysis.overallScore),
+                readabilityGrade: this.getReadabilityGrade(analysis.overallScore, hasRecommendations),
                 wordCount: analysis.wordCount,
                 estimatedReadingTime: Math.ceil(analysis.wordCount / 200) // 200 words per minute
             },
@@ -70,10 +75,10 @@ class IndividualReadabilityReports {
             structurePatterns: analysis.structurePatterns,
 
             // Specific recommendations
-            recommendations: this.generateRecommendations(analysis),
+            recommendations: recommendations,
             
             // Improvement priorities
-            improvementPriorities: this.identifyImprovementPriorities(analysis),
+            improvementPriorities: improvementPriorities,
             
             // Comparison with library average
             benchmarks: this.generateBenchmarks(analysis, bookId)
@@ -125,7 +130,20 @@ class IndividualReadabilityReports {
             .replace(/\b\w/g, l => l.toUpperCase());
     }
 
-    getReadabilityGrade(score) {
+    getReadabilityGrade(score, hasRecommendations = false) {
+        const referenceScore = 50.99; // Reference book score
+        
+        // If the book has no recommendations and is close to or better than reference, it's Good
+        if (!hasRecommendations && score >= referenceScore * 0.9) {
+            return 'Good';
+        }
+        
+        // If score is within 10% of reference, it's Good
+        if (Math.abs(score - referenceScore) / referenceScore <= 0.1) {
+            return 'Good';
+        }
+        
+        // Otherwise use traditional grading
         if (score >= 90) return 'Excellent';
         if (score >= 70) return 'Good';
         if (score >= 50) return 'Average';

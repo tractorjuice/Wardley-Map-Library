@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping_for_Data_Science__Revolutionising_Strategy_in_Technology_Labs_b1cccb77-e255-4f",
   "title": "Wardley Mapping For Data Science Revolutionising Strategy In Technology Labs B1cccb77-E255-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:13.160Z",
+  "generatedAt": "2025-07-14T13:06:01.250Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,24 +120,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 18.272375690607735,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2712786865418922,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

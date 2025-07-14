@@ -3,7 +3,7 @@
   "directory": "Mathematical_Modelling_for_Wardley_Mapping__A_Stra_ae168311",
   "title": "Mathematical Modelling For Wardley Mapping A Stra Ae168311",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:05.393Z",
+  "generatedAt": "2025-07-14T13:05:52.606Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 12.96165191740413,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.30291306326809286,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

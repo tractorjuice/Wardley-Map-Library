@@ -3,7 +3,7 @@
   "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
   "title": "The Rebellion Resurgence 02180336-6d26-4ffb-842a-Fdf7fdddca58",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:11.044Z",
+  "generatedAt": "2025-07-14T13:05:58.364Z",
   "summary": {
     "overallScore": 27.62597173399414,
     "readabilityGrade": "Poor",
@@ -118,24 +118,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 27.62597173399414,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 80
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 9.06492933498535,
-      "libraryAverage": 0.5,
-      "comparison": "Above Average"
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 12.64795918367347,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.17305365066559097,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

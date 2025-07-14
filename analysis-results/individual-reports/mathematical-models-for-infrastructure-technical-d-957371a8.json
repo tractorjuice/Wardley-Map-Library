@@ -3,7 +3,7 @@
   "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
   "title": "Mathematical Models For Infrastructure Technical D 957371a8",
   "category": "Technology",
-  "generatedAt": "2025-07-13T03:56:05.440Z",
+  "generatedAt": "2025-07-14T13:05:52.655Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 23.127147766323024,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32682020802377415,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

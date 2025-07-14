@@ -3,7 +3,7 @@
   "directory": "First-Mover_Intelligence__Mastering_Early_Recognition_and_Strategic_Adaptation_in_a_Dynamic_World_0b7ec179",
   "title": "First-Mover Intelligence Mastering Early Recognition And Strategic Adaptation In A Dynamic World 0b7ec179",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:01.291Z",
+  "generatedAt": "2025-07-14T13:05:48.452Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 20.640969162995596,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3578059972254829,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

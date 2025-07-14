@@ -3,7 +3,7 @@
   "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
   "title": "World War III An Expert S Guide To Geopolitics T 74e6d57f",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:13.747Z",
+  "generatedAt": "2025-07-14T13:06:01.818Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 13.027928303459776,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.24697638702246114,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Strategy_in_a_Landscape_of_Consta_b532244c",
   "title": "Wardley Mapping Strategy In A Landscape Of Consta B532244c",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:13.015Z",
+  "generatedAt": "2025-07-14T13:06:00.768Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -106,24 +106,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.524466750313676,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2302449646162221,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

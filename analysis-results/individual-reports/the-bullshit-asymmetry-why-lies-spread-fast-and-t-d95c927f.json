@@ -3,7 +3,7 @@
   "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
   "title": "The Bullshit Asymmetry Why Lies Spread Fast And T D95c927f",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:10.635Z",
+  "generatedAt": "2025-07-14T13:05:57.746Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 21.045340050377835,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.30544584081388393,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

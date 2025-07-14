@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
   "title": "Wardley Mapping Mastering Strategy Through Landsc 1ad8b99f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:12.570Z",
+  "generatedAt": "2025-07-14T13:06:00.073Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -106,24 +106,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.701206715634838,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.243963681201659,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

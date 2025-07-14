@@ -3,7 +3,7 @@
   "directory": "Maps_to_Action__Mastering_Strategy_Development_Through_Wardley_Mapping_b13af0f0",
   "title": "Maps To Action Mastering Strategy Development Through Wardley Mapping B13af0f0",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:04.891Z",
+  "generatedAt": "2025-07-14T13:05:51.866Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 19.55712451861361,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3291762389235313,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

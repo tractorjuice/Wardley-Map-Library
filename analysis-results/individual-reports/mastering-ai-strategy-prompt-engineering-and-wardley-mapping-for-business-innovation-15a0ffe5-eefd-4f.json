@@ -3,7 +3,7 @@
   "directory": "Mastering_AI_Strategy__Prompt_Engineering_and_Wardley_Mapping_for_Business_Innovation_15a0ffe5-eefd-4f",
   "title": "Mastering AI Strategy Prompt Engineering And Wardley Mapping For Business Innovation 15a0ffe5-Eefd-4f",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:05.043Z",
+  "generatedAt": "2025-07-14T13:05:52.033Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 17.187529522909777,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2750233606332106,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

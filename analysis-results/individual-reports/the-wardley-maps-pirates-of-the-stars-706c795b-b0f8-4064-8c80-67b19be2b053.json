@@ -3,7 +3,7 @@
   "directory": "The_Wardley_Maps__Pirates_of_the_Stars_706c795b-b0f8-4064-8c80-67b19be2b053",
   "title": "The Wardley Maps Pirates Of The Stars 706c795b-B0f8-4064-8c80-67b19be2b053",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:11.428Z",
+  "generatedAt": "2025-07-14T13:05:58.775Z",
   "summary": {
     "overallScore": 28.09791927078795,
     "readabilityGrade": "Poor",
@@ -118,24 +118,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 28.09791927078795,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 80
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 10.24479817696988,
-      "libraryAverage": 0.5,
-      "comparison": "Above Average"
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 10.508287292817679,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1619348054679285,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

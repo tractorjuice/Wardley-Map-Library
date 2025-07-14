@@ -3,7 +3,7 @@
   "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
   "title": "Mapping Your Competitive Advantage A Practical Gu 2f6d09c6",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:04.324Z",
+  "generatedAt": "2025-07-14T13:05:51.299Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -106,24 +106,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.211033950617283,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2580611858632437,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

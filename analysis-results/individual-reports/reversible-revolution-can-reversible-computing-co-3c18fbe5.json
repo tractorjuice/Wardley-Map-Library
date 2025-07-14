@@ -3,7 +3,7 @@
   "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
   "title": "Reversible Revolution Can Reversible Computing Co 3c18fbe5",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:06.662Z",
+  "generatedAt": "2025-07-14T13:05:53.717Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 12.915779283639884,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.27229800629590767,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

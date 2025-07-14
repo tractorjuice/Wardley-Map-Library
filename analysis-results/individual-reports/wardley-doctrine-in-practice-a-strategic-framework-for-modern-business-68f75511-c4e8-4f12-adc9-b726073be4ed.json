@@ -3,62 +3,62 @@
   "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
   "title": "Wardley Doctrine In Practice A Strategic Framework For Modern Business 68f75511-C4e8-4f12-Adc9-B726073be4ed",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:11.977Z",
+  "generatedAt": "2025-07-14T13:05:59.367Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
-    "wordCount": 9852,
-    "estimatedReadingTime": 50
+    "wordCount": 10138,
+    "estimatedReadingTime": 51
   },
   "readabilityMetrics": {
     "fleschScore": 0,
     "fleschGrade": "Graduate",
-    "fleschKincaidGrade": 24.64532170492217,
-    "fogIndex": 29.64960278135828,
-    "smogIndex": 21.65847717164104,
-    "ariIndex": 27.410386546125373,
+    "fleschKincaidGrade": 24.828285715157907,
+    "fogIndex": 29.81254387708806,
+    "smogIndex": 21.876855350360813,
+    "ariIndex": 27.717405038705706,
     "cliIndex": 0,
-    "avgSentenceLength": 19.13009708737864,
-    "avgSyllablesPerWord": 2.7775071051563134,
-    "complexWordRatio": 0.5499390986601705
+    "avgSentenceLength": 19.60928433268859,
+    "avgSyllablesPerWord": 2.7771749852041823,
+    "complexWordRatio": 0.5492207536003156
   },
   "sentenceAnalysis": {
-    "totalSentences": 515,
-    "avgWordsPerSentence": 30.233009708737864,
-    "avgSyllablesPerWord": 2.235709698137444,
-    "longSentences": 178,
+    "totalSentences": 517,
+    "avgWordsPerSentence": 31.392649903288202,
+    "avgSyllablesPerWord": 2.265742452248922,
+    "longSentences": 180,
     "shortSentences": 6,
-    "complexWords": 5825,
+    "complexWords": 6082,
     "passiveVoice": 29,
     "questions": 0,
     "exclamations": 0,
     "subordinateClauses": 209,
     "readabilityIssues": [
-      "Sentences too long (avg: 30.2 words)",
-      "Complex vocabulary (avg: 2.2 syllables/word)"
+      "Sentences too long (avg: 31.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)"
     ]
   },
   "vocabularyComplexity": {
-    "totalWords": 9852,
+    "totalWords": 10138,
     "uniqueWords": 1970,
-    "vocabularyRichness": 0.19995939910678034,
+    "vocabularyRichness": 0.19431840599723813,
     "rareWords": 442,
-    "technicalTerms": 2923,
-    "jargonWords": 111,
-    "avgWordLength": 8.338712951684936,
-    "complexityScore": 0.35282176207876575
+    "technicalTerms": 3023,
+    "jargonWords": 119,
+    "avgWordLength": 8.353028210692445,
+    "complexityScore": 0.3535214046162951
   },
   "structurePatterns": {
-    "headers": 3,
+    "headers": 5,
     "subheaders": 7,
-    "bulletPoints": 627,
+    "bulletPoints": 730,
     "numberedLists": 19,
     "codeBlocks": 0,
     "quotes": 64,
-    "links": 111,
+    "links": 214,
     "emphasis": 15,
-    "paragraphs": 402,
-    "avgParagraphLength": 38.17164179104478,
+    "paragraphs": 406,
+    "avgParagraphLength": 38.90394088669951,
     "tableOfContents": true,
     "summaries": 0,
     "examples": 6,
@@ -68,14 +68,14 @@
     {
       "category": "Sentence Structure",
       "priority": "High",
-      "issue": "Average sentence length is 30.2 words",
+      "issue": "Average sentence length is 31.4 words",
       "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
       "impact": "High - Shorter sentences significantly improve readability"
     },
     {
       "category": "Vocabulary",
       "priority": "High",
-      "issue": "High vocabulary complexity score: 35.3%",
+      "issue": "High vocabulary complexity score: 35.4%",
       "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
       "impact": "High - Simpler vocabulary makes content accessible to wider audience"
     },
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
-      "bookScore": 19.13009708737864,
-      "libraryAverage": 17.1,
+      "bookScore": 19.60928433268859,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
-      "bookScore": 0.35282176207876575,
-      "libraryAverage": 0.29,
+      "bookScore": 0.3535214046162951,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

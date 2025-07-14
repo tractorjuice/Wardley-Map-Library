@@ -3,7 +3,7 @@
   "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
   "title": "Starship Vs Blue Origin The New Space Race And Th 8f339d59",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:56:07.864Z",
+  "generatedAt": "2025-07-14T13:05:54.917Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 13.852731591448931,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.28489368998628256,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

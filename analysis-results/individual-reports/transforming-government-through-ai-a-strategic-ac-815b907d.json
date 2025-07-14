@@ -3,7 +3,7 @@
   "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
   "title": "Transforming Government Through AI A Strategic Ac 815b907d",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:11.510Z",
+  "generatedAt": "2025-07-14T13:05:58.867Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 6.261489698890649,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.34269805112629714,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

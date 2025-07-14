@@ -188,12 +188,12 @@ class IndividualReadabilityReports {
     }
 
     generateBenchmarks(analysis) {
-        // These would ideally come from the overall analysis, but for now we'll use typical values
+        // Using Wardley Mapping eBook (May 2024 v1.8) as baseline - a well-written, accessible strategic text
         const libraryAverages = {
-            overallScore: 16.6,
-            fleschScore: 0.5,
-            sentenceLength: 17.1,
-            complexityScore: 0.29
+            overallScore: 38.35,
+            fleschScore: 20.87,
+            sentenceLength: 10.23,
+            complexityScore: 0.119
         };
 
         return {

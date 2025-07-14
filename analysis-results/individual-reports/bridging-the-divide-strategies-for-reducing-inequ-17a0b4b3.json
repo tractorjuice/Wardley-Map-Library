@@ -3,7 +3,7 @@
   "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
   "title": "Bridging The Divide Strategies For Reducing Inequ 17a0b4b3",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:55:58.469Z",
+  "generatedAt": "2025-07-14T13:05:45.534Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 13.994134897360704,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23396898575020955,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

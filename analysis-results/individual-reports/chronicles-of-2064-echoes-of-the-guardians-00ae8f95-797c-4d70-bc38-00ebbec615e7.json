@@ -3,7 +3,7 @@
   "directory": "Chronicles_of_2064__Echoes_of_the_Guardians_00ae8f95-797c-4d70-bc38-00ebbec615e7",
   "title": "Chronicles Of 2064 Echoes Of The Guardians 00ae8f95-797c-4d70-Bc38-00ebbec615e7",
   "category": "Other",
-  "generatedAt": "2025-07-13T03:55:59.443Z",
+  "generatedAt": "2025-07-14T13:05:46.433Z",
   "summary": {
     "overallScore": 24.339401106419665,
     "readabilityGrade": "Poor",
@@ -106,23 +106,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24.339401106419665,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0.8485027660491653,
-      "libraryAverage": 0.5,
-      "comparison": "Above Average"
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 14.25659229208925,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.10741979085153304,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "Simpler"
     }
   }

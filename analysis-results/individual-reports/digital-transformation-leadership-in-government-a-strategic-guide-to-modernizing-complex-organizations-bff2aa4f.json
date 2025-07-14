@@ -3,7 +3,7 @@
   "directory": "Digital_Transformation_Leadership_in_Government__A_Strategic_Guide_to_Modernizing_Complex_Organizations_bff2aa4f",
   "title": "Digital Transformation Leadership In Government A Strategic Guide To Modernizing Complex Organizations Bff2aa4f",
   "category": "Government",
-  "generatedAt": "2025-07-13T03:56:00.924Z",
+  "generatedAt": "2025-07-14T13:05:48.112Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 26.871657754010695,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3407960199004975,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

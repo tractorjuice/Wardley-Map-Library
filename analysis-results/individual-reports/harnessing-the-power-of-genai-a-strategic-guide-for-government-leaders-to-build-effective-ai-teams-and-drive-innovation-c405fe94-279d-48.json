@@ -3,7 +3,7 @@
   "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
   "title": "Harnessing The Power Of GenAI A Strategic Guide For Government Leaders To Build Effective AI Teams And Drive Innovation C405fe94-279d-48",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:03.316Z",
+  "generatedAt": "2025-07-14T13:05:50.378Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -132,24 +132,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 17.32264150943396,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2664197799803943,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

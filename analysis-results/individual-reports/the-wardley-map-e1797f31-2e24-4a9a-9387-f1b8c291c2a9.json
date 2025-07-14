@@ -3,7 +3,7 @@
   "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
   "title": "The Wardley Map E1797f31-2e24-4a9a-9387-F1b8c291c2a9",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:11.418Z",
+  "generatedAt": "2025-07-14T13:05:58.765Z",
   "summary": {
     "overallScore": 26.794250879790788,
     "readabilityGrade": "Poor",
@@ -118,24 +118,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 26.794250879790788,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 80
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 6.985627199476966,
-      "libraryAverage": 0.5,
-      "comparison": "Above Average"
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.711409395973154,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.1636103151862464,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

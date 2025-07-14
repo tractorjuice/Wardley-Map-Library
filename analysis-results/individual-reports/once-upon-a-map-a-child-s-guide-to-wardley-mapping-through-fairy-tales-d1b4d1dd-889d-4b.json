@@ -3,7 +3,7 @@
   "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
   "title": "Once Upon A Map A Child S Guide To Wardley Mapping Through Fairy Tales D1b4d1dd-889d-4b",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:06.002Z",
+  "generatedAt": "2025-07-14T13:05:53.088Z",
   "summary": {
     "overallScore": 37.88266758712101,
     "readabilityGrade": "Below Average",
@@ -94,24 +94,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 37.88266758712101,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 95
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 40
     },
     "fleschScore": {
       "bookScore": 34.70666896780253,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Above Average"
     },
     "sentenceLength": {
       "bookScore": 10.377495462794919,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.15564882826162993,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

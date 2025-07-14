@@ -3,7 +3,7 @@
   "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
   "title": "The Pirate Wars Wardley Maps In 2087 Dbe88dd9-B867-4521-8f68-18748f19bf4c",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:10.860Z",
+  "generatedAt": "2025-07-14T13:05:58.031Z",
   "summary": {
     "overallScore": 30.501909090909088,
     "readabilityGrade": "Below Average",
@@ -118,24 +118,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 30.501909090909088,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 80
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 16.254772727272723,
-      "libraryAverage": 0.5,
-      "comparison": "Above Average"
+      "libraryAverage": 20.87,
+      "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 10.681818181818182,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.18104448742746615,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

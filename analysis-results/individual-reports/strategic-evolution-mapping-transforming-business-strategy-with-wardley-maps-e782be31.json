@@ -3,7 +3,7 @@
   "directory": "Strategic_Evolution_Mapping__Transforming_Business_Strategy_with_Wardley_Maps_e782be31",
   "title": "Strategic Evolution Mapping Transforming Business Strategy With Wardley Maps E782be31",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:08.845Z",
+  "generatedAt": "2025-07-14T13:05:55.865Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 19.75971223021583,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.33823636496031456,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

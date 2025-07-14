@@ -3,7 +3,7 @@
   "directory": "Infrastructure_Technical_Debt__A_Data-Driven_Appro_05cf694f",
   "title": "Infrastructure Technical Debt A Data-Driven Appro 05cf694f",
   "category": "Data Science",
-  "generatedAt": "2025-07-13T03:56:03.351Z",
+  "generatedAt": "2025-07-14T13:05:50.415Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 23.75235849056604,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.33770231357362723,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

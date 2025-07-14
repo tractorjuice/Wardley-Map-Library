@@ -3,7 +3,7 @@
   "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
   "title": "The AI Superpower Showdown Inside The US-China Ra 78bf7278",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:10.097Z",
+  "generatedAt": "2025-07-14T13:05:57.077Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 21.401408450704224,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.32288581770319186,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

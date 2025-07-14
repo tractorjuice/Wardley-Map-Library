@@ -3,7 +3,7 @@
   "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
   "title": "Digital Titans The Epic Battle Between Apple Mic C2b141ff",
   "category": "Technology",
-  "generatedAt": "2025-07-13T03:56:00.827Z",
+  "generatedAt": "2025-07-14T13:05:47.964Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,24 +120,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 20.828451882845187,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.2818400964242668,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

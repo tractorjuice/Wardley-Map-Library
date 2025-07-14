@@ -3,7 +3,7 @@
   "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
   "title": "The AI Efficiency Paradox How Generative AI S Suc A2c47878",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:09.887Z",
+  "generatedAt": "2025-07-14T13:05:56.800Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 22.558011049723756,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.29651400114295046,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

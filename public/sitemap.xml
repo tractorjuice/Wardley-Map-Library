@@ -7,7 +7,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://library.wardleymaps.ai/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- API Health Check -->
   <url>
     <loc>https://library.wardleymaps.ai/api/health</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -23,7 +23,7 @@
   <!-- Books API -->
   <url>
     <loc>https://library.wardleymaps.ai/api/books</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,161 +31,161 @@
   <!-- Category Collection Pages -->
   <url>
     <loc>https://library.wardleymaps.ai/?category=artificial-intelligence</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=strategic-mapping</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=business-strategy</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=department-for-business-trade</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=sustainability</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=united-nations</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=healthcare</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=military</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=technology</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=consumer</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=uk-hydrographic-office</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=data-science</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=department-for-education</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=education</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=government</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=gaming</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=hm-revenue-customs</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=uk-statistics-authority</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=department-of-health-social-care</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=home-office</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=department-for-transport</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=hm-treasury</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?category=security</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,1288 +193,1274 @@
   <!-- Individual Book Pages -->
   <url>
     <loc>https://library.wardleymaps.ai/?book=a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ace-your-foundation-in-wardley-mapping-exam-a-com-e3a63103</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ai-esg-a-critical-analysis-of-technology-s-role-in-sustainable-business-59a6c5b3-7141-42</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ai-supremacy-the-battle-between-openai-anthropic-8cd4825c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=are-the-genai-agents-taking-over-navigating-the-f-987fcdf5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=battlefield-economics-the-hidden-forces-shaping-military-conflicts-6ad71fef-fe6e-4d</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=blue-planet-green-robots-harnessing-ai-for-environmental-sustainability-cdaf677f-34ac-43</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=blue-planet-green-robots-scaling-climate-action-with-ai-and-robotics-cc89ef16-06ed-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=breaking-the-poverty-cycle-a-systems-based-framework-for-sustainable-development-goal-1-40432648</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=british-airways-2030-transforming-loyalty-in-the-digital-age-a-strategic-framework-for-future-success-f8b42d91-7e23-4a</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=british-airways-2030-transforming-loyalty-in-the-514a98bb</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=building-tomorrow-a-blueprint-for-sustainable-industry-innovation-and-infrastructure-5978b4e4</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=can-the-un-save-the-planet-challenges-transforma-e05551a1</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=climbing-the-value-ladder-mastering-the-art-of-value-propositions-and-benefits-communication-465d7194-fd19-48</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=co-pilot-pcs-in-the-enterprise-a-strategic-guide-5e79a385</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=conscious-earth-harnessing-the-planet-s-information-platform-revolution-0b9366d1-db69-4d</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=cost-effective-migration-transitioning-applicatio-366f9974</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=data-science-in-rwanda-a-beginners-guide-to-digital-transformation-in-africa-5909ed60</loc>
-    <lastmod>2025-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://library.wardleymaps.ai/?book=data-under-duress-national-statistic-offices-navigating-the-transition-to-war-7a6cf999</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=deepseek-disruption-china-s-open-source-ai-and-th-3e7ecd8a</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-battlefield-storage-a-wardley-mapping-approach-to-military-data-strategy-482015f5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-bridges-empowering-offline-communities-th-391100c7</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-darwinism-how-genai-challenges-the-surviv-7d84aea4</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-excellence-the-strategic-case-for-a-uk-lo-0ab4cf1c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-titans-the-epic-battle-between-apple-mic-c2b141ff</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-transformation-in-government-a-leader-s-guide-to-navigating-complex-change-243b3182</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-transformation-leadership-in-government-a-strategic-framework-for-complex-organizations-3f9f5ed6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=digital-transformation-leadership-in-government-a-strategic-guide-to-modernizing-complex-organizations-bff2aa4f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ecosystem-advantage-mapping-and-orchestrating-for-46fa9d88</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=empowering-the-future-achieving-affordable-and-cl-6bb54cc5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=ensuring-healthy-lives-a-comprehensive-guide-to-s-3229dd35</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=first-mover-intelligence-mastering-early-recognition-and-strategic-adaptation-in-a-dynamic-world-0b7ec179</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=from-lotus-to-ai-modernising-legacy-systems-for-the-generative-ai-era-88200f01-7a30-42</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=functionalism-and-genai-bridging-philosophy-and-t-d45b6cea</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=game-changer-how-generative-ai-is-revolutionising-the-future-of-gaming-682bb3ec-a92c-40</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-2025-a-strategic-guide-to-next-year-s-artificial-intelligence-landscape-5f7d25ba</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-hmrc-a-practical-guide-to-strategy-b54d1707</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-hmrc-a-practical-guide-to-transforming-bbdf344f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-hmrc-a-practical-guide-to-transforming-26ebe7b6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-official-statistics-a-strategic-guide-f-29969967</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-public-good-a-practical-strategy-for-go-0806731f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-for-the-nhs-a-practical-guide-to-strategy-82b9d881</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=genai-in-hmrc-a-strategic-guide-to-transforming-t-506e97f6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=generative-ai-engineering-from-data-to-deployment-6410d8f6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=generative-ai-for-official-statistics-a-strategic-5065c7dc</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=generative-ai-for-public-sector-transformation-a-4749e098</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=generative-ai-in-defence-applications-ethics-an-af931312</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=harnessing-genai-for-environmental-stewardship-a-c7f85312</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=harnessing-generative-ai-a-strategic-approach-for-19aa41de</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=infrastructure-technical-debt-a-data-driven-appro-05cf694f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=innovating-medtech-education-wardley-mapping-for-strategic-teaching-and-research-in-higher-education-b4c7411f-04aa-4e</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=jevons-and-genai-bridging-economics-and-the-futur-1595067f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=jevons-and-genai-navigating-economic-theories-in-e75ac76f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=leading-digital-transformation-in-government-a-practitioner-s-guide-to-complex-project-delivery-2485b672</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-armageddon-a-wardley-map-approach-to-worl-c1f4c8c5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-evolution-mastering-strategy-in-a-red-queen-world-19ec116b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-green-software-leveraging-wardley-maps-for-sustainable-it-strategies-957a2731-88bf-4b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-sustainable-development-a-strategic-approach-to-sdgs-using-wardley-mapping-1ec7fcf3</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-sustainable-futures-wardley-mapping-for-un-sustainable-development-goals-e7d8047e-89bc-49</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-the-future-of-uk-transport-a-wardley-mapp-8f45c6a1</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-the-red-queen-a-guide-to-wardley-mapping-bd4a3955-91c5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-the-robot-revolution-a-wardley-map-approa-ff29f2d8</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-your-competitive-advantage-a-practical-gu-2f6d09c6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mapping-your-startup-s-future-mastering-wardley-maps-for-strategic-success-67b791b3-7e33-4f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=maps-to-action-mastering-strategy-development-through-wardley-mapping-b13af0f0</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mastering-ai-strategy-prompt-engineering-and-wardley-mapping-for-business-innovation-15a0ffe5-eefd-4f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mastering-modern-bid-and-tender-consultancy-a-digital-era-guide-to-strategic-supply-market-management-cc0fb778</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mastering-wardley-mapping-for-project-success-a-strategic-guide-for-project-managers-35056a3c-4f4f-49</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mastering-wardley-mapping-an-expert-s-guide-to-st</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mathematical-modelling-for-wardley-mapping-a-stra-ae168311</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mathematical-models-for-infrastructure-technical-d-957371a8</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mathematical-models-for-wardley-mapping-gameplay-f929d065</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mathematical-models-for-wardley-mapping-a-quantit-7db3030c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=mathematical-models-of-strategic-evolution-innova-9a665255</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=modern-military-logistics-mastering-battlefield-storage-and-supply-chain-resilience-in-the-digital-age-d02b97ae</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=navigating-complexity-wardley-mapping-climatic-pa-69102bf8</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=navigating-the-ai-frontier-wardley-mapping-for-genai-startups-dff595a3-603e-48</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=oceans-of-change-advancing-sdg-14-through-innovation-policy-and-action-6ede38b7</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=open-banking-for-you-take-control-of-your-finance-05f3f2ae</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=open-source-advantage-transforming-business-compe-3bca9762</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=open-source-ai-as-a-competitive-advantage-strateg-9a0ae605</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=open-source-as-a-competitive-weapon-strategy-communication-0d597dd3-b074</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=platform-design-mastery-building-and-scaling-gena-399fb4a2</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=platform-mastery-strategic-design-and-mapping-for-digital-success-65a53175</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=pricing-strategies-for-genai-applications-unlocki-e92115bb</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning-9509ccd5-7a28-40</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=reversible-revolution-can-reversible-computing-co-3c18fbe5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=reversible-revolution-can-vaire-computing-cool-do-0a9bab82</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=revitalising-the-nhs-a-comprehensive-blueprint-for-sustainable-healthcare-2c167a18-f2ec-41</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=revolutionising-medtech-education-wardley-mapping-for-teaching-and-research-in-higher-education-425f0e30-380b-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=running-faster-to-stay-in-place-mastering-the-red-5c412daa</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=running-to-stand-still-mastering-the-red-queen-ef-17142133</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=secure-by-design-implementing-uk-government-security-standards-in-modern-systems-fd3d8065</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=securing-llms-essential-questions-for-your-penetration-testing-strategy-be9e7c94-d513-43</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=securing-the-digital-depths-economic-and-military-f1239f21</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=seizing-the-ai-tide-a-practical-guide-to-building-26a20eda</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=spimescript-beyond-ai-towards-the-malleable-future-c76174cb</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=starship-vs-blue-origin-the-new-space-race-and-th-8f339d59</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-ai-advantage-a-comprehensive-framework-cde800e0-3f4d-47</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-cartography-mastering-wardley-maps-for-business-advantage-30e647db</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-cartography-mastering-wardley-maps-for-business-transformation-30fd6713</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-cartography-mastering-wardley-maps-in-the-digital-age-6f12abc5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-equations-a-mathematical-approach-to-mo-e276a698</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-evolution-mapping-transforming-business-strategy-with-wardley-maps-e782be31</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-evolution-through-wardley-mapping-a-visual-guide-to-market-position-innovation-and-digital-transformation-57e8b679</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-home-office-evolution-a-wardley-mapping-guide-for-remote-first-success-6e528aa0</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-mapping-a-leader-s-guide-to-navigating-business-evolution-with-wardley-maps-651fd7e3</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-mastery-creating-math-models-for-wardle-78d38b18</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-modern-leaders-7526522c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-transformation-wardley-mapping-for-uk-home-office-reform-42e77d0d</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=strategic-wardley-mapping-navigating-market-dynamics-and-digital-disruption-fcd44e40</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=supply-chain-innovation-in-oligopolistic-markets-cf77dcfe</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=sustainable-futures-strategies-for-life-on-land-61799596</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=symbolic-instructions-understanding-ai-training-d-5f31a286</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=chronicles-of-2064-echoes-of-the-guardians-00ae8f95-797c-4d70-bc38-00ebbec615e7</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=chronos-resistance-61fc8b58-bd77-4973-b45e-a97d2cc6d84a</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-wardley-map-e1797f31-2e24-4a9a-9387-f1b8c291c2a9</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-wardley-maps-pirates-of-the-stars-706c795b-b0f8-4064-8c80-67b19be2b053</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=technical-debt-assessment-framework-a-comprehensi-802d9f78</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=technical-debt-intelligence-ai-powered-infrastruc-5b615b6c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=technical-debt-mathematics-in-infrastructure-a-qu-b886df5d</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-age-of-agency-navigating-the-genai-revolution-458c1358</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-agi-race-openai-vs-anthropic-in-the-battle-for-artificial-general-intelligence-7db60baa-c7d1-4c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-agent-revolution-navigating-the-future-of-05666c37</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-efficiency-paradox-how-generative-ai-s-suc-a2c47878</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-revolution-s-triple-threat-understanding-and-navigating-the-three-critical-changes-reshaping-our-world-abce334f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-success-trinity-mastering-dataops-mlops-and-finops-for-transformative-ai-implementation-fd9c6f12-26aa-42</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-superpower-showdown-inside-the-us-china-ra-78bf7278</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-titans-openai-anthropic-and-google-in-th-14c119ee</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-titans-openai-anthropic-and-google-s-race-to-define-the-future-of-artificial-intelligence-2946058b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-ai-climate-paradox-navigating-the-battle-betw-51e07659</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-algorithmic-consumer-how-ai-agents-are-rewrit-08335ae6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-bullshit-asymmetry-why-lies-spread-fast-and-t-d95c927f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-creative-revolution-how-generative-ai-is-transforming-human-potential-78de33e7</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-genai-paradox-understanding-and-navigating-the-future-of-artificial-general-intelligence-4ab175e2</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-genai-revolution-transforming-work-and-learning-in-the-digital-age-f9fdd2ef</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-jevons-paradox-in-the-age-of-generative-ai-im-6e310b8c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-modern-ciso-s-guide-to-identity-and-access-man-17559242</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-planet-information-platform-mapping-earth-with-satellites-ai-and-big-data-3e65b5a1-5404-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-red-queen-and-the-ai-race-staying-ahead-with-1889668b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-red-queen-s-race-wardley-mapping-for-competit-bcd40363</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=the-three-phases-of-wardley-doctrine-in-aircraft-manufacturing-a-strategic-framework-for-industry-evolution-ad4b49a7</loc>
-    <lastmod>2025-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://library.wardleymaps.ai/?book=the-value-chasm-how-corporate-greed-and-government-neglect-broke-the-digital-commons</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=transforming-business-operations-apqc-process-cla-6740a4f7</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=transforming-government-through-ai-a-strategic-ac-815b907d</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=unlocking-national-insights-a-genai-strategy-for-487c81b2</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=unlocking-the-power-of-generative-ai-for-sustainable-development-b341a861</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=using-open-source-as-a-competitive-weapon-6b2baecc</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-doctrine-in-practice-a-strategic-framework-for-modern-business-68f75511-c4e8-4f12-adc9-b726073be4ed</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-for-data-science-revolutionising-strategy-in-technology-labs-b1cccb77-e255-4f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making-c91d313b</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-for-digital-transformation-a-strategic-decision-making-guide-a24890d6</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-for-startups-navigating-uncertainty-and-driving-innovation-5c03d220-6cf2-41</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-mastery-uncovering-hidden-opportunities-in-business-strategy-058b2cd6-6fe2-4e</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-nato-s-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains-4d6eb348-b1cd-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-mastering-strategy-in-a-complex-w-04f95a3e</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-mastering-strategy-in-a-dynamic-w-25fc793c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-mastering-strategy-through-landsc-1ad8b99f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=wardley-mapping-strategy-in-a-landscape-of-consta-b532244c</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=will-the-chinese-dragon-bite-openai-analyzing-the-63e530e5</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation-b74b18f6-96e9-45</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=windows-11-security-assurance-a-zero-trust-implementation-guide-763497ee</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://library.wardleymaps.ai/?book=world-war-iii-geopolitics-technology-and-the-co-2ce84ecf</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

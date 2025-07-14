@@ -1,15 +1,15 @@
 {
-  "totalBooks": 182,
+  "totalBooks": 183,
   "overallStats": {
-    "avgReadabilityScore": 16.580663764163617,
-    "avgFleschScore": 0.49012094887058766,
-    "avgFleschKincaidGrade": 22.319454856607376,
-    "avgFogIndex": 27.05500696994106,
-    "avgSmogIndex": 19.77035097750521,
-    "avgAriIndex": 24.404662578796344,
+    "avgReadabilityScore": 16.699609355596667,
+    "avgFleschScore": 0.6014824053851159,
+    "avgFleschKincaidGrade": 22.271447018498062,
+    "avgFogIndex": 26.997466493295498,
+    "avgSmogIndex": 19.737666168903623,
+    "avgAriIndex": 24.35346702483893,
     "avgCliIndex": 0,
-    "avgSentenceLength": 17.089155769359284,
-    "avgComplexityScore": 0.2866132818888201
+    "avgSentenceLength": 17.05958828262378,
+    "avgComplexityScore": 0.2857184627781245
   },
   "bestPractices": {
     "avgSentenceLength": 0,
@@ -23,15 +23,15 @@
   "commonIssues": [
     [
       "Low Flesch Score (difficult to read)",
-      182
+      183
     ],
     [
       "High vocabulary complexity",
-      182
+      183
     ],
     [
       "Long average word length",
-      182
+      183
     ],
     [
       "High Fog Index (complex text)",
@@ -43,7 +43,7 @@
     ],
     [
       "Complex vocabulary (avg: 2.2 syllables/word)",
-      55
+      53
     ],
     [
       "Complex vocabulary (avg: 2.1 syllables/word)",
@@ -51,7 +51,7 @@
     ],
     [
       "Complex vocabulary (avg: 2.3 syllables/word)",
-      38
+      40
     ],
     [
       "Complex vocabulary (avg: 2.0 syllables/word)",
@@ -6855,59 +6855,59 @@
       {
         "directory": "Mastering_Wardley_Mapping__An_Expert_s_Guide_to_St",
         "category": "Strategic Mapping",
-        "wordCount": 59133,
+        "wordCount": 63093,
         "sentenceAnalysis": {
-          "totalSentences": 3929,
-          "avgWordsPerSentence": 20.919317892593536,
-          "avgSyllablesPerWord": 2.1896413276231264,
-          "longSentences": 972,
+          "totalSentences": 3939,
+          "avgWordsPerSentence": 22.829144452906828,
+          "avgSyllablesPerWord": 2.293937102442062,
+          "longSentences": 981,
           "shortSentences": 141,
-          "complexWords": 28858,
-          "passiveVoice": 780,
+          "complexWords": 31775,
+          "passiveVoice": 782,
           "questions": 0,
           "exclamations": 0,
           "subordinateClauses": 992,
           "readabilityIssues": [
-            "Sentences too long (avg: 20.9 words)",
-            "Complex vocabulary (avg: 2.2 syllables/word)"
+            "Sentences too long (avg: 22.8 words)",
+            "Complex vocabulary (avg: 2.3 syllables/word)"
           ]
         },
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
-          "fleschKincaidGrade": 20.174862960842116,
-          "fogIndex": 24.96727700682515,
-          "smogIndex": 18.382282826295633,
-          "ariIndex": 21.969032165723696,
+          "fleschKincaidGrade": 20.63552345563119,
+          "fogIndex": 25.473464306229896,
+          "smogIndex": 18.91420747088784,
+          "ariIndex": 22.614778728879642,
           "cliIndex": 0,
-          "avgSentenceLength": 15.050394502417918,
-          "avgSyllablesPerWord": 2.5334922970253495,
-          "complexWordRatio": 0.4736779801464495
+          "avgSentenceLength": 16.01751713632902,
+          "avgSyllablesPerWord": 2.5405670993612604,
+          "complexWordRatio": 0.47666143629245716
         },
         "vocabularyComplexity": {
-          "totalWords": 59133,
+          "totalWords": 63093,
           "uniqueWords": 4333,
-          "vocabularyRichness": 0.07327549760708911,
+          "vocabularyRichness": 0.0686763983326201,
           "rareWords": 682,
-          "technicalTerms": 10976,
-          "jargonWords": 562,
-          "avgWordLength": 7.616525459557269,
-          "complexityScore": 0.2066527996211929
+          "technicalTerms": 11930,
+          "jargonWords": 604,
+          "avgWordLength": 7.650959694419349,
+          "complexityScore": 0.20946856228107713
         },
         "structurePatterns": {
-          "headers": 7,
+          "headers": 9,
           "subheaders": 16,
-          "bulletPoints": 1157,
+          "bulletPoints": 1944,
           "numberedLists": 0,
           "codeBlocks": 0,
           "quotes": 151,
-          "links": 392,
+          "links": 1179,
           "emphasis": 6,
-          "paragraphs": 1715,
-          "avgParagraphLength": 47.244314868804665,
+          "paragraphs": 1719,
+          "avgParagraphLength": 50.616637579988364,
           "tableOfContents": true,
-          "summaries": 39,
-          "examples": 159,
+          "summaries": 43,
+          "examples": 181,
           "definitions": 5
         },
         "overallScore": 18
@@ -9255,56 +9255,56 @@
       {
         "directory": "Wardley_Doctrine_in_Practice__A_Strategic_Framework_for_Modern_Business_68f75511-c4e8-4f12-adc9-b726073be4ed",
         "category": "Strategic Mapping",
-        "wordCount": 9852,
+        "wordCount": 10138,
         "sentenceAnalysis": {
-          "totalSentences": 515,
-          "avgWordsPerSentence": 30.233009708737864,
-          "avgSyllablesPerWord": 2.235709698137444,
-          "longSentences": 178,
+          "totalSentences": 517,
+          "avgWordsPerSentence": 31.392649903288202,
+          "avgSyllablesPerWord": 2.265742452248922,
+          "longSentences": 180,
           "shortSentences": 6,
-          "complexWords": 5825,
+          "complexWords": 6082,
           "passiveVoice": 29,
           "questions": 0,
           "exclamations": 0,
           "subordinateClauses": 209,
           "readabilityIssues": [
-            "Sentences too long (avg: 30.2 words)",
-            "Complex vocabulary (avg: 2.2 syllables/word)"
+            "Sentences too long (avg: 31.4 words)",
+            "Complex vocabulary (avg: 2.3 syllables/word)"
           ]
         },
         "readabilityMetrics": {
           "fleschScore": 0,
           "fleschGrade": "Graduate",
-          "fleschKincaidGrade": 24.64532170492217,
-          "fogIndex": 29.64960278135828,
-          "smogIndex": 21.65847717164104,
-          "ariIndex": 27.410386546125373,
+          "fleschKincaidGrade": 24.828285715157907,
+          "fogIndex": 29.81254387708806,
+          "smogIndex": 21.876855350360813,
+          "ariIndex": 27.717405038705706,
           "cliIndex": 0,
-          "avgSentenceLength": 19.13009708737864,
-          "avgSyllablesPerWord": 2.7775071051563134,
-          "complexWordRatio": 0.5499390986601705
+          "avgSentenceLength": 19.60928433268859,
+          "avgSyllablesPerWord": 2.7771749852041823,
+          "complexWordRatio": 0.5492207536003156
         },
         "vocabularyComplexity": {
-          "totalWords": 9852,
+          "totalWords": 10138,
           "uniqueWords": 1970,
-          "vocabularyRichness": 0.19995939910678034,
+          "vocabularyRichness": 0.19431840599723813,
           "rareWords": 442,
-          "technicalTerms": 2923,
-          "jargonWords": 111,
-          "avgWordLength": 8.338712951684936,
-          "complexityScore": 0.35282176207876575
+          "technicalTerms": 3023,
+          "jargonWords": 119,
+          "avgWordLength": 8.353028210692445,
+          "complexityScore": 0.3535214046162951
         },
         "structurePatterns": {
-          "headers": 3,
+          "headers": 5,
           "subheaders": 7,
-          "bulletPoints": 627,
+          "bulletPoints": 730,
           "numberedLists": 19,
           "codeBlocks": 0,
           "quotes": 64,
-          "links": 111,
+          "links": 214,
           "emphasis": 15,
-          "paragraphs": 402,
-          "avgParagraphLength": 38.17164179104478,
+          "paragraphs": 406,
+          "avgParagraphLength": 38.90394088669951,
           "tableOfContents": true,
           "summaries": 0,
           "examples": 6,
@@ -11032,9 +11032,123 @@
           "definitions": 0
         },
         "overallScore": 37.88266758712101
+      },
+      {
+        "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
+        "category": "Strategic Mapping",
+        "wordCount": 78285,
+        "sentenceAnalysis": {
+          "totalSentences": 7646,
+          "avgWordsPerSentence": 18.894193042113525,
+          "avgSyllablesPerWord": 1.6302149309521337,
+          "longSentences": 1698,
+          "shortSentences": 978,
+          "complexWords": 23997,
+          "passiveVoice": 925,
+          "questions": 0,
+          "exclamations": 0,
+          "subordinateClauses": 2870,
+          "readabilityIssues": []
+        },
+        "readabilityMetrics": {
+          "fleschScore": 20.869267491029262,
+          "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 12.890395977577985,
+          "fogIndex": 15.855971348667737,
+          "smogIndex": 13.038728180102748,
+          "ariIndex": 14.0831111488544,
+          "cliIndex": 0,
+          "avgSentenceLength": 10.231995817540191,
+          "avgSyllablesPerWord": 2.0754167465031617,
+          "complexWordRatio": 0.29407932554129146
+        },
+        "vocabularyComplexity": {
+          "totalWords": 78285,
+          "uniqueWords": 8331,
+          "vocabularyRichness": 0.10641885418662579,
+          "rareWords": 1107,
+          "technicalTerms": 7995,
+          "jargonWords": 241,
+          "avgWordLength": 6.453739541419173,
+          "complexityScore": 0.11934597943411893
+        },
+        "structurePatterns": {
+          "headers": 21,
+          "subheaders": 98,
+          "bulletPoints": 417,
+          "numberedLists": 25,
+          "codeBlocks": 0,
+          "quotes": 0,
+          "links": 466,
+          "emphasis": 966,
+          "paragraphs": 2477,
+          "avgParagraphLength": 57.33992733144933,
+          "tableOfContents": true,
+          "summaries": 0,
+          "examples": 138,
+          "definitions": 19
+        },
+        "overallScore": 38.3477069964117
       }
     ],
     "mostReadable": [
+      {
+        "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
+        "category": "Strategic Mapping",
+        "wordCount": 78285,
+        "sentenceAnalysis": {
+          "totalSentences": 7646,
+          "avgWordsPerSentence": 18.894193042113525,
+          "avgSyllablesPerWord": 1.6302149309521337,
+          "longSentences": 1698,
+          "shortSentences": 978,
+          "complexWords": 23997,
+          "passiveVoice": 925,
+          "questions": 0,
+          "exclamations": 0,
+          "subordinateClauses": 2870,
+          "readabilityIssues": []
+        },
+        "readabilityMetrics": {
+          "fleschScore": 20.869267491029262,
+          "fleschGrade": "Graduate",
+          "fleschKincaidGrade": 12.890395977577985,
+          "fogIndex": 15.855971348667737,
+          "smogIndex": 13.038728180102748,
+          "ariIndex": 14.0831111488544,
+          "cliIndex": 0,
+          "avgSentenceLength": 10.231995817540191,
+          "avgSyllablesPerWord": 2.0754167465031617,
+          "complexWordRatio": 0.29407932554129146
+        },
+        "vocabularyComplexity": {
+          "totalWords": 78285,
+          "uniqueWords": 8331,
+          "vocabularyRichness": 0.10641885418662579,
+          "rareWords": 1107,
+          "technicalTerms": 7995,
+          "jargonWords": 241,
+          "avgWordLength": 6.453739541419173,
+          "complexityScore": 0.11934597943411893
+        },
+        "structurePatterns": {
+          "headers": 21,
+          "subheaders": 98,
+          "bulletPoints": 417,
+          "numberedLists": 25,
+          "codeBlocks": 0,
+          "quotes": 0,
+          "links": 466,
+          "emphasis": 966,
+          "paragraphs": 2477,
+          "avgParagraphLength": 57.33992733144933,
+          "tableOfContents": true,
+          "summaries": 0,
+          "examples": 138,
+          "definitions": 19
+        },
+        "overallScore": 38.3477069964117
+      },
       {
         "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
         "category": "Strategic Mapping",
@@ -11563,65 +11677,6 @@
           "summaries": 10,
           "examples": 46,
           "definitions": 6
-        },
-        "overallScore": 24
-      },
-      {
-        "directory": "GenAI_for_HMRC__A_Practical_Guide_to_Strategy_b54d1707",
-        "category": "Artificial Intelligence",
-        "wordCount": 34453,
-        "sentenceAnalysis": {
-          "totalSentences": 2862,
-          "avgWordsPerSentence": 19.13382250174703,
-          "avgSyllablesPerWord": 2.035061448841329,
-          "longSentences": 506,
-          "shortSentences": 122,
-          "complexWords": 16381,
-          "passiveVoice": 363,
-          "questions": 0,
-          "exclamations": 0,
-          "subordinateClauses": 747,
-          "readabilityIssues": [
-            "Complex vocabulary (avg: 2.0 syllables/word)"
-          ]
-        },
-        "readabilityMetrics": {
-          "fleschScore": 0,
-          "fleschGrade": "Graduate",
-          "fleschKincaidGrade": 18.73585780640852,
-          "fogIndex": 23.075472687926187,
-          "smogIndex": 16.52114411650621,
-          "ariIndex": 19.97850043962503,
-          "cliIndex": 0,
-          "avgSentenceLength": 12.038085255066386,
-          "avgSyllablesPerWord": 2.5111020810959856,
-          "complexWordRatio": 0.45650596464749077
-        },
-        "vocabularyComplexity": {
-          "totalWords": 34453,
-          "uniqueWords": 3808,
-          "vocabularyRichness": 0.1105273851333701,
-          "rareWords": 725,
-          "technicalTerms": 6541,
-          "jargonWords": 911,
-          "avgWordLength": 7.513685310422895,
-          "complexityScore": 0.23733782254085276
-        },
-        "structurePatterns": {
-          "headers": 2,
-          "subheaders": 9,
-          "bulletPoints": 907,
-          "numberedLists": 19,
-          "codeBlocks": 0,
-          "quotes": 59,
-          "links": 114,
-          "emphasis": 451,
-          "paragraphs": 886,
-          "avgParagraphLength": 60.627539503386004,
-          "tableOfContents": true,
-          "summaries": 72,
-          "examples": 48,
-          "definitions": 11
         },
         "overallScore": 24
       }
@@ -12276,11 +12331,11 @@
       "avgComplexityScore": 0.2999223168798648
     },
     "Strategic Mapping": {
-      "count": 57,
-      "avgReadabilityScore": 18.268013102256294,
-      "avgFleschScore": 1.1963485451144227,
-      "avgSentenceLength": 16.216927147866933,
-      "avgComplexityScore": 0.2821136455345358
+      "count": 58,
+      "avgReadabilityScore": 18.614214721121044,
+      "avgFleschScore": 1.5355368028026097,
+      "avgSentenceLength": 16.138675053882356,
+      "avgComplexityScore": 0.2793679168982771
     },
     "Business Strategy": {
       "count": 4,

@@ -3,7 +3,7 @@
   "directory": "The_GenAI_Paradox__Understanding_and_Navigating_the_Future_of_Artificial_General_Intelligence_4ab175e2",
   "title": "The GenAI Paradox Understanding And Navigating The Future Of Artificial General Intelligence 4ab175e2",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:10.728Z",
+  "generatedAt": "2025-07-14T13:05:57.846Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 21.1529933481153,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3426624737945493,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

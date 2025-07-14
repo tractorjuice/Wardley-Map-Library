@@ -3,7 +3,7 @@
   "directory": "Functionalism_and_GenAI__Bridging_Philosophy_and_T_d45b6cea",
   "title": "Functionalism And GenAI Bridging Philosophy And T D45b6cea",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:01.510Z",
+  "generatedAt": "2025-07-14T13:05:48.648Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,23 +119,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 14.149514563106797,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.3320982571703033,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

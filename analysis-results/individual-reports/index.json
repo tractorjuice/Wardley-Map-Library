@@ -1,7 +1,21 @@
 {
-  "totalReports": 182,
-  "generatedAt": "2025-07-13T03:56:13.947Z",
+  "totalReports": 183,
+  "generatedAt": "2025-07-14T13:06:01.995Z",
   "reports": [
+    {
+      "bookId": "wardley-mapping-ebok-may-2024-v1-8",
+      "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
+      "title": "Wardley Mapping EBoK May 2024 V1 8",
+      "category": "Strategic Mapping",
+      "overallScore": 38.3477069964117,
+      "readabilityGrade": "Below Average",
+      "wordCount": 78285,
+      "estimatedReadingTime": 392,
+      "topIssues": [
+        "Improve reading flow",
+        "Add more structure"
+      ]
+    },
     {
       "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
       "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
@@ -953,8 +967,8 @@
       "category": "Strategic Mapping",
       "overallScore": 18,
       "readabilityGrade": "Poor",
-      "wordCount": 59133,
-      "estimatedReadingTime": 296,
+      "wordCount": 63093,
+      "estimatedReadingTime": 316,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",
@@ -1553,8 +1567,8 @@
       "category": "Strategic Mapping",
       "overallScore": 18,
       "readabilityGrade": "Poor",
-      "wordCount": 9852,
-      "estimatedReadingTime": 50,
+      "wordCount": 10138,
+      "estimatedReadingTime": 51,
       "topIssues": [
         "Shorten long sentences",
         "Simplify vocabulary",

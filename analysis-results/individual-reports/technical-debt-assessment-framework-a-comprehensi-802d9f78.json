@@ -3,7 +3,7 @@
   "directory": "Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78",
   "title": "Technical Debt Assessment Framework A Comprehensi 802d9f78",
   "category": "Technology",
-  "generatedAt": "2025-07-13T03:56:09.500Z",
+  "generatedAt": "2025-07-14T13:05:56.401Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -120,23 +120,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 24.266304347826086,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.30078387458006717,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

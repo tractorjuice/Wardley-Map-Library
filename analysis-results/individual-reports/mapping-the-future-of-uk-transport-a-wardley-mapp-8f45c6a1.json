@@ -3,7 +3,7 @@
   "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
   "title": "Mapping The Future Of UK Transport A Wardley Mapp 8f45c6a1",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:04.621Z",
+  "generatedAt": "2025-07-14T13:05:51.581Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -106,24 +106,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 12.219257122250271,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23379766261362295,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

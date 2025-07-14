@@ -1,7 +1,7 @@
 {
-  "generated": "2025-07-11T13:53:55.834Z",
+  "generated": "2025-07-14T13:07:10.422Z",
   "version": "1.0.0",
-  "totalBooks": 184,
+  "totalBooks": 182,
   "books": [
     {
       "id": "a-pattern-language-for-o1-models-architecting-robust-ai-interactions-8281c31c",
@@ -345,19 +345,6 @@
       "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
       "path": "/workspaces/GenAI-Books/books/Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60/full_book.md",
       "additionalFiles": []
-    },
-    {
-      "id": "data-under-duress-national-statistic-offices-navigating-the-transition-to-war-7a6cf999",
-      "title": "Data Under Duress: National Statistic Offices Navigating the Transition to War",
-      "category": "Data Science",
-      "categories": [
-        "Data Science"
-      ],
-      "directory": "Data_Under_Duress__National_Statistic_Offices_Navigating_the_Transition_to_War_7a6cf999",
-      "path": "/workspaces/GenAI-Books/books/Data_Under_Duress__National_Statistic_Offices_Navigating_the_Transition_to_War_7a6cf999/full_book.md",
-      "additionalFiles": [
-        "markdown/"
-      ]
     },
     {
       "id": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
@@ -2207,19 +2194,6 @@
       "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
       "path": "/workspaces/GenAI-Books/books/The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7/full_book.md",
       "additionalFiles": []
-    },
-    {
-      "id": "the-value-chasm-how-corporate-greed-and-government-neglect-broke-the-digital-commons",
-      "title": "The Value Chasm: How Corporate Greed and Government Neglect Broke the Digital Commons",
-      "category": "Government",
-      "categories": [
-        "Government"
-      ],
-      "directory": "The_Value_Chasm_How_Corporate_Greed_and_Government_Neglect_Broke_the_Digital_Commons",
-      "path": "/workspaces/GenAI-Books/books/The_Value_Chasm_How_Corporate_Greed_and_Government_Neglect_Broke_the_Digital_Commons/full_book.md",
-      "additionalFiles": [
-        "markdown/"
-      ]
     },
     {
       "id": "transforming-business-operations-apqc-process-cla-6740a4f7",

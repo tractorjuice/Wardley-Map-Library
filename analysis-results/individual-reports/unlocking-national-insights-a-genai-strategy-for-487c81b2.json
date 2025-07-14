@@ -3,7 +3,7 @@
   "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
   "title": "Unlocking National Insights A GenAI Strategy For 487c81b2",
   "category": "Artificial Intelligence",
-  "generatedAt": "2025-07-13T03:56:11.792Z",
+  "generatedAt": "2025-07-14T13:05:59.182Z",
   "summary": {
     "overallScore": 24,
     "readabilityGrade": "Poor",
@@ -106,24 +106,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 24,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 70
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 30
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.93126308443824,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.249539406345957,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

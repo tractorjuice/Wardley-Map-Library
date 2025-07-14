@@ -3,7 +3,7 @@
   "directory": "Wardley_Mapping__Mastering_Strategy_in_a_Complex_W_04f95a3e",
   "title": "Wardley Mapping Mastering Strategy In A Complex W 04f95a3e",
   "category": "Strategic Mapping",
-  "generatedAt": "2025-07-13T03:56:12.678Z",
+  "generatedAt": "2025-07-14T13:06:00.190Z",
   "summary": {
     "overallScore": 18,
     "readabilityGrade": "Poor",
@@ -119,24 +119,24 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 18,
-      "libraryAverage": 16.6,
-      "comparison": "Above Average",
-      "percentile": 60
+      "libraryAverage": 38.35,
+      "comparison": "Below Average",
+      "percentile": 20
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 11.926872246696036,
-      "libraryAverage": 17.1,
-      "comparison": "Better"
+      "libraryAverage": 10.23,
+      "comparison": "Worse"
     },
     "vocabularyComplexity": {
       "bookScore": 0.23915934106522863,
-      "libraryAverage": 0.29,
-      "comparison": "Simpler"
+      "libraryAverage": 0.119,
+      "comparison": "More Complex"
     }
   }
 }

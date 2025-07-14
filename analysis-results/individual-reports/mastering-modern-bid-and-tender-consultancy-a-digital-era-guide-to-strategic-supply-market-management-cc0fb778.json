@@ -3,7 +3,7 @@
   "directory": "Mastering_Modern_Bid_and_Tender_Consultancy__A_Digital-Era_Guide_to_Strategic_Supply_Market_Management_cc0fb778",
   "title": "Mastering Modern Bid And Tender Consultancy A Digital-Era Guide To Strategic Supply Market Management Cc0fb778",
   "category": "Technology",
-  "generatedAt": "2025-07-13T03:56:05.068Z",
+  "generatedAt": "2025-07-14T13:05:52.061Z",
   "summary": {
     "overallScore": 12,
     "readabilityGrade": "Very Poor",
@@ -108,23 +108,23 @@
   "benchmarks": {
     "overallScore": {
       "bookScore": 12,
-      "libraryAverage": 16.6,
+      "libraryAverage": 38.35,
       "comparison": "Below Average",
-      "percentile": 30
+      "percentile": 10
     },
     "fleschScore": {
       "bookScore": 0,
-      "libraryAverage": 0.5,
+      "libraryAverage": 20.87,
       "comparison": "Below Average"
     },
     "sentenceLength": {
       "bookScore": 5.506437768240343,
-      "libraryAverage": 17.1,
+      "libraryAverage": 10.23,
       "comparison": "Better"
     },
     "vocabularyComplexity": {
       "bookScore": 0.4450506625097428,
-      "libraryAverage": 0.29,
+      "libraryAverage": 0.119,
       "comparison": "More Complex"
     }
   }

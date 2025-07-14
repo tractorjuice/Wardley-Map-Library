@@ -126,6 +126,11 @@ function createBookId(directory) {
 }
 
 function getProperTitle(bookId, directory) {
+    // Special case for reference book
+    if (bookId === 'wardley-mapping-the-knowledge-part-one-topographical-intelligence-in-business') {
+        return 'Wardley Mapping, The Knowledge: Part One, Topographical intelligence in business';
+    }
+    
     // Try to get title from manifest first
     try {
         const manifestPath = path.join(process.cwd(), 'books.json');

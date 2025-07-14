@@ -1,0 +1,130 @@
+{
+  "bookId": "strategic-cartography-mastering-wardley-maps-for-business-advantage-30e647db",
+  "directory": "Strategic_Cartography__Mastering_Wardley_Maps_for_Business_Advantage_30e647db",
+  "title": "Strategic Cartography: Mastering Wardley Maps for Business Advantage",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:58.924Z",
+  "summary": {
+    "overallScore": 14.421755010391575,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 21171,
+    "estimatedReadingTime": 106
+  },
+  "readabilityMetrics": {
+    "fleschScore": -8.945612474021061,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.81187468116764,
+    "fogIndex": 26.461019555051724,
+    "smogIndex": 21.9079280828881,
+    "ariIndex": 23.635798793160454,
+    "cliIndex": 21.09963440555477,
+    "avgSentenceLength": 29.404166666666665,
+    "avgSyllablesPerWord": 2.1978177695904777,
+    "complexWordRatio": 0.3674838222096264
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 720,
+    "avgWordsPerSentence": 29.404166666666665,
+    "avgSyllablesPerWord": 2.1978177695904777,
+    "longSentences": 256,
+    "shortSentences": 11,
+    "complexWords": 7780,
+    "passiveVoice": 52,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 320,
+    "readabilityIssues": [
+      "Sentences too long (avg: 29.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13635,
+    "uniqueWords": 2302,
+    "vocabularyRichness": 0.16883021635496884,
+    "rareWords": 461,
+    "technicalTerms": 3762,
+    "jargonWords": 145,
+    "avgWordLength": 8.127172717271726,
+    "complexityScore": 0.32035203520352035
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 58,
+    "bulletPoints": 739,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 67,
+    "emphasis": 15,
+    "paragraphs": 517,
+    "avgParagraphLength": 40.40232108317215,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 10,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 29.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -8.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 14.421755010391575,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -8.945612474021061,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 29.404166666666665,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32035203520352035,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

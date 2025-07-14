@@ -1,0 +1,141 @@
+{
+  "bookId": "the-pirate-wars-wardley-maps-in-2087-dbe88dd9-b867-4521-8f68-18748f19bf4c",
+  "directory": "The_Pirate_Wars__Wardley_Maps_in_2087_dbe88dd9-b867-4521-8f68-18748f19bf4c",
+  "title": "Table of Contents",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:01.813Z",
+  "summary": {
+    "overallScore": 39.87740324497637,
+    "readabilityGrade": "Below Average",
+    "wordCount": 5382,
+    "estimatedReadingTime": 27
+  },
+  "readabilityMetrics": {
+    "fleschScore": 39.693508112440924,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 13.247833764829817,
+    "fogIndex": 17.071267248342348,
+    "smogIndex": 15.308715981407026,
+    "ariIndex": 14.249745524567658,
+    "cliIndex": 13.529825343738384,
+    "avgSentenceLength": 22.239669421487605,
+    "avgSyllablesPerWord": 1.7088442958008176,
+    "complexWordRatio": 0.20438498699368265
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 242,
+    "avgWordsPerSentence": 22.239669421487605,
+    "avgSyllablesPerWord": 1.7088442958008176,
+    "longSentences": 46,
+    "shortSentences": 5,
+    "complexWords": 1100,
+    "passiveVoice": 27,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 77,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.2 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 2585,
+    "uniqueWords": 1080,
+    "vocabularyRichness": 0.41779497098646035,
+    "rareWords": 176,
+    "technicalTerms": 271,
+    "jargonWords": 21,
+    "avgWordLength": 6.647969052224371,
+    "complexityScore": 0.18104448742746615
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 114,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 95,
+    "avgParagraphLength": 56.01052631578948,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 22.2 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 18.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Could benefit from more headers and subheaders",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-800 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 39.7",
+      "recommendation": "Consider adding more examples and shorter explanations to improve flow.",
+      "impact": "Medium - Improving flow enhances readability"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 4,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 39.87740324497637,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 39.693508112440924,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 22.239669421487605,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.18104448742746615,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

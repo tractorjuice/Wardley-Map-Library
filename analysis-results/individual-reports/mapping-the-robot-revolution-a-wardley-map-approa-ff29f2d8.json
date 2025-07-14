@@ -1,0 +1,129 @@
+{
+  "bookId": "mapping-the-robot-revolution-a-wardley-map-approa-ff29f2d8",
+  "directory": "Mapping_the_Robot_Revolution__A_Wardley_Map_Approa_ff29f2d8",
+  "title": "Mapping the Robot Revolution: A Wardley Map Approach to Automation and Disruption",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.952Z",
+  "summary": {
+    "overallScore": 27.75984912057836,
+    "readabilityGrade": "Poor",
+    "wordCount": 46167,
+    "estimatedReadingTime": 231
+  },
+  "readabilityMetrics": {
+    "fleschScore": 9.3996228014459,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.900413973835246,
+    "fogIndex": 21.02705488780257,
+    "smogIndex": 17.699606192287277,
+    "ariIndex": 17.53253977422134,
+    "cliIndex": 18.9133874845669,
+    "avgSentenceLength": 19.933937823834196,
+    "avgSyllablesPerWord": 2.0945913747915177,
+    "complexWordRatio": 0.32633699395672233
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2316,
+    "avgWordsPerSentence": 19.933937823834196,
+    "avgSyllablesPerWord": 2.0945913747915177,
+    "longSentences": 423,
+    "shortSentences": 69,
+    "complexWords": 15066,
+    "passiveVoice": 359,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 595,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 28642,
+    "uniqueWords": 3343,
+    "vocabularyRichness": 0.11671670972697437,
+    "rareWords": 604,
+    "technicalTerms": 5894,
+    "jargonWords": 274,
+    "avgWordLength": 7.792193282591998,
+    "complexityScore": 0.23643600307241114
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 96,
+    "bulletPoints": 566,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 56,
+    "links": 105,
+    "emphasis": 101,
+    "paragraphs": 731,
+    "avgParagraphLength": 62.31737346101231,
+    "tableOfContents": true,
+    "summaries": 12,
+    "examples": 111,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 9.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 27.75984912057836,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 9.3996228014459,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.933937823834196,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23643600307241114,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

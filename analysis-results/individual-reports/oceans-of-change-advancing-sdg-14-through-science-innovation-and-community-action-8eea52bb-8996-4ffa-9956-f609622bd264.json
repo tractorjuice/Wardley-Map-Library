@@ -1,0 +1,131 @@
+{
+  "bookId": "oceans-of-change-advancing-sdg-14-through-science-innovation-and-community-action-8eea52bb-8996-4ffa-9956-f609622bd264",
+  "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Science__Innovation__and_Community_Action_8eea52bb-8996-4ffa-9956-f609622bd264",
+  "title": "Oceans of Change: Advancing SDG 14 Through Science, Innovation, and Community Action",
+  "category": "Data Science",
+  "generatedAt": "2025-07-14T19:18:56.093Z",
+  "summary": {
+    "overallScore": 4.714692695354574,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19245,
+    "estimatedReadingTime": 97
+  },
+  "readabilityMetrics": {
+    "fleschScore": -18.213268261613564,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.40065689640858,
+    "fogIndex": 27.567130561857994,
+    "smogIndex": 22.690531149912072,
+    "ariIndex": 25.429375140488247,
+    "cliIndex": 22.633905949597295,
+    "avgSentenceLength": 30.596184419713833,
+    "avgSyllablesPerWord": 2.293063133281372,
+    "complexWordRatio": 0.3832164198493115
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 629,
+    "avgWordsPerSentence": 30.596184419713833,
+    "avgSyllablesPerWord": 2.293063133281372,
+    "longSentences": 280,
+    "shortSentences": 9,
+    "complexWords": 7375,
+    "passiveVoice": 49,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 176,
+    "readabilityIssues": [
+      "Sentences too long (avg: 30.6 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (44.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 4453,
+    "uniqueWords": 1557,
+    "vocabularyRichness": 0.3496519200538962,
+    "rareWords": 428,
+    "technicalTerms": 1056,
+    "jargonWords": 33,
+    "avgWordLength": 8.046260947675725,
+    "complexityScore": 0.3406692117673479
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 639,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 80,
+    "links": 147,
+    "emphasis": 15,
+    "paragraphs": 506,
+    "avgParagraphLength": 37.39525691699605,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 11,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 30.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -18.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 4.714692695354574,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -18.213268261613564,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 30.596184419713833,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3406692117673479,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

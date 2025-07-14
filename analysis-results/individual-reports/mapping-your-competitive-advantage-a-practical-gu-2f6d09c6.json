@@ -1,0 +1,117 @@
+{
+  "bookId": "mapping-your-competitive-advantage-a-practical-gu-2f6d09c6",
+  "directory": "Mapping_Your_Competitive_Advantage__A_Practical_Gu_2f6d09c6",
+  "title": "Mapping Your Competitive Advantage: A Practical Guide to Wardley Mapping for Strategic Dominance",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.406Z",
+  "summary": {
+    "overallScore": 28.75104974024207,
+    "readabilityGrade": "Poor",
+    "wordCount": 47249,
+    "estimatedReadingTime": 237
+  },
+  "readabilityMetrics": {
+    "fleschScore": 11.877624350605174,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.131173996284854,
+    "fogIndex": 20.31951293828415,
+    "smogIndex": 17.048888514201376,
+    "ariIndex": 16.696311742602695,
+    "cliIndex": 18.79489851637071,
+    "avgSentenceLength": 18.22878086419753,
+    "avgSyllablesPerWord": 2.085758428749815,
+    "complexWordRatio": 0.32570001481512834
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2592,
+    "avgWordsPerSentence": 18.22878086419753,
+    "avgSyllablesPerWord": 2.085758428749815,
+    "longSentences": 364,
+    "shortSentences": 146,
+    "complexWords": 15389,
+    "passiveVoice": 305,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 656,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 29059,
+    "uniqueWords": 3082,
+    "vocabularyRichness": 0.10606008465535634,
+    "rareWords": 583,
+    "technicalTerms": 6615,
+    "jargonWords": 301,
+    "avgWordLength": 7.862314601328332,
+    "complexityScore": 0.2580611858632437
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 93,
+    "bulletPoints": 578,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 102,
+    "emphasis": 101,
+    "paragraphs": 739,
+    "avgParagraphLength": 62.901217861975645,
+    "tableOfContents": true,
+    "summaries": 9,
+    "examples": 70,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 11.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 28.75104974024207,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 11.877624350605174,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 18.22878086419753,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2580611858632437,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "bookId": "co-pilot-pcs-in-the-enterprise-a-strategic-guide-5e79a385",
+  "directory": "Co-pilot_PCs_in_the_Enterprise__A_Strategic_Guide__5e79a385",
+  "title": "Co-pilot PCs in the Enterprise: A Strategic Guide to Enhanced Productivity and Competitive Advantage",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:49.723Z",
+  "summary": {
+    "overallScore": 19.36562731163872,
+    "readabilityGrade": "Poor",
+    "wordCount": 40908,
+    "estimatedReadingTime": 205
+  },
+  "readabilityMetrics": {
+    "fleschScore": 3.4140682790967958,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.986761797518906,
+    "fogIndex": 22.380645792131517,
+    "smogIndex": 18.598209836696647,
+    "ariIndex": 18.674162574084413,
+    "cliIndex": 19.778480492813134,
+    "avgSentenceLength": 20.946236559139784,
+    "avgSyllablesPerWord": 2.1531974185978293,
+    "complexWordRatio": 0.35005377921189007
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1953,
+    "avgWordsPerSentence": 20.946236559139784,
+    "avgSyllablesPerWord": 2.1531974185978293,
+    "longSentences": 411,
+    "shortSentences": 39,
+    "complexWords": 14320,
+    "passiveVoice": 289,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 504,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.9 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 26191,
+    "uniqueWords": 3084,
+    "vocabularyRichness": 0.11775037226528197,
+    "rareWords": 535,
+    "technicalTerms": 5601,
+    "jargonWords": 156,
+    "avgWordLength": 7.76679011874308,
+    "complexityScore": 0.24023519529609408
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 81,
+    "bulletPoints": 614,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 30,
+    "links": 90,
+    "emphasis": 138,
+    "paragraphs": 590,
+    "avgParagraphLength": 68.54237288135593,
+    "tableOfContents": true,
+    "summaries": 55,
+    "examples": 67,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 3.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 19.36562731163872,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 3.4140682790967958,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.946236559139784,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24023519529609408,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "bookId": "mastering-modern-bid-and-tender-consultancy-a-digital-era-guide-to-strategic-supply-market-management-cc0fb778",
+  "directory": "Mastering_Modern_Bid_and_Tender_Consultancy__A_Digital-Era_Guide_to_Strategic_Supply_Market_Management_cc0fb778",
+  "title": "Mastering Modern Bid and Tender Consultancy: A Digital-Era Guide to Strategic Supply Market Management",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:18:55.238Z",
+  "summary": {
+    "overallScore": 1.8825922689545678,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 15747,
+    "estimatedReadingTime": 79
+  },
+  "readabilityMetrics": {
+    "fleschScore": -25.29351932761358,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.1821010024118,
+    "fogIndex": 29.55534872641455,
+    "smogIndex": 24.157404937411684,
+    "ariIndex": 27.765330252972774,
+    "cliIndex": 23.646876230393087,
+    "avgSentenceLength": 33.791845493562235,
+    "avgSyllablesPerWord": 2.3384136660951294,
+    "complexWordRatio": 0.40096526322474124
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 466,
+    "avgWordsPerSentence": 33.791845493562235,
+    "avgSyllablesPerWord": 2.3384136660951294,
+    "longSentences": 233,
+    "shortSentences": 5,
+    "complexWords": 6314,
+    "passiveVoice": 32,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 165,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.0%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 2566,
+    "uniqueWords": 982,
+    "vocabularyRichness": 0.38269680436477005,
+    "rareWords": 285,
+    "technicalTerms": 837,
+    "jargonWords": 20,
+    "avgWordLength": 8.44037412314887,
+    "complexityScore": 0.4450506625097428
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 52,
+    "bulletPoints": 618,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 66,
+    "links": 127,
+    "emphasis": 15,
+    "paragraphs": 427,
+    "avgParagraphLength": 36.2248243559719,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 8,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 44.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -25.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.8825922689545678,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -25.29351932761358,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.791845493562235,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.4450506625097428,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "bookId": "unlocking-national-insights-a-genai-strategy-for-487c81b2",
+  "directory": "Unlocking_National_Insights__A_GenAI_Strategy_for__487c81b2",
+  "title": "Unlocking National Insights: A GenAI Strategy for the Office of National Statistics",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:02.805Z",
+  "summary": {
+    "overallScore": 29.793728954299716,
+    "readabilityGrade": "Poor",
+    "wordCount": 55157,
+    "estimatedReadingTime": 276
+  },
+  "readabilityMetrics": {
+    "fleschScore": 14.484322385749294,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.02012112787578,
+    "fogIndex": 19.808999318964922,
+    "smogIndex": 16.91912578805315,
+    "ariIndex": 16.112782227009895,
+    "cliIndex": 17.517674275250645,
+    "avgSentenceLength": 19.24528960223308,
+    "avgSyllablesPerWord": 2.0427506934749897,
+    "complexWordRatio": 0.30277208695179214
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2866,
+    "avgWordsPerSentence": 19.24528960223308,
+    "avgSyllablesPerWord": 2.0427506934749897,
+    "longSentences": 500,
+    "shortSentences": 111,
+    "complexWords": 16700,
+    "passiveVoice": 373,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 766,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 34195,
+    "uniqueWords": 3774,
+    "vocabularyRichness": 0.11036701272115806,
+    "rareWords": 688,
+    "technicalTerms": 6645,
+    "jargonWords": 1200,
+    "avgWordLength": 7.514841351074718,
+    "complexityScore": 0.249539406345957
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 83,
+    "bulletPoints": 687,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 24,
+    "links": 92,
+    "emphasis": 335,
+    "paragraphs": 755,
+    "avgParagraphLength": 71.9046357615894,
+    "tableOfContents": true,
+    "summaries": 45,
+    "examples": 119,
+    "definitions": 7
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 14.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 29.793728954299716,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 14.484322385749294,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.24528960223308,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.249539406345957,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

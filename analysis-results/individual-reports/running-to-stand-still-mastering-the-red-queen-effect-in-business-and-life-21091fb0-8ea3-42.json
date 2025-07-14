@@ -1,0 +1,130 @@
+{
+  "bookId": "running-to-stand-still-mastering-the-red-queen-effect-in-business-and-life-21091fb0-8ea3-42",
+  "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Effect_in_Business_and_Life_21091fb0-8ea3-42",
+  "title": "Running to Stand Still: Mastering the Red Queen Effect in Business and Life",
+  "category": "Business Strategy",
+  "generatedAt": "2025-07-14T19:18:57.470Z",
+  "summary": {
+    "overallScore": 21.084844741655207,
+    "readabilityGrade": "Poor",
+    "wordCount": 43367,
+    "estimatedReadingTime": 217
+  },
+  "readabilityMetrics": {
+    "fleschScore": 7.712111854138016,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.90871811649532,
+    "fogIndex": 22.99599207380426,
+    "smogIndex": 19.522498694262996,
+    "ariIndex": 20.368743868167883,
+    "cliIndex": 18.390899070721982,
+    "avgSentenceLength": 27.070536828963796,
+    "avgSyllablesPerWord": 2.0289159960338505,
+    "complexWordRatio": 0.30419443355546844
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1602,
+    "avgWordsPerSentence": 27.070536828963796,
+    "avgSyllablesPerWord": 2.0289159960338505,
+    "longSentences": 609,
+    "shortSentences": 16,
+    "complexWords": 13192,
+    "passiveVoice": 240,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 527,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.1 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 26995,
+    "uniqueWords": 4057,
+    "vocabularyRichness": 0.15028709020188924,
+    "rareWords": 844,
+    "technicalTerms": 5826,
+    "jargonWords": 178,
+    "avgWordLength": 7.723800703834043,
+    "complexityScore": 0.25367660677903314
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 63,
+    "bulletPoints": 930,
+    "numberedLists": 107,
+    "codeBlocks": 0,
+    "quotes": 40,
+    "links": 77,
+    "emphasis": 15,
+    "paragraphs": 1089,
+    "avgParagraphLength": 39.24242424242424,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 76,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 7.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.084844741655207,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 7.712111854138016,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 27.070536828963796,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.25367660677903314,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "bookId": "silent-warfare-russia-s-strategic-targeting-of-gl-64e36abc",
+  "directory": "Silent_Warfare__Russia_s_Strategic_Targeting_of_Gl_64e36abc",
+  "title": "Silent Warfare: Russia's Strategic Targeting of Global Submarine Cable Networks",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:57.776Z",
+  "summary": {
+    "overallScore": 2.4845115889955878,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17485,
+    "estimatedReadingTime": 88
+  },
+  "readabilityMetrics": {
+    "fleschScore": -23.78872102751103,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.86699648226288,
+    "fogIndex": 28.997313946305123,
+    "smogIndex": 23.770497033816135,
+    "ariIndex": 27.284584669083863,
+    "cliIndex": 23.299957678009715,
+    "avgSentenceLength": 33.36832061068702,
+    "avgSyllablesPerWord": 2.3257077494995713,
+    "complexWordRatio": 0.3912496425507578
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 524,
+    "avgWordsPerSentence": 33.36832061068702,
+    "avgSyllablesPerWord": 2.3257077494995713,
+    "longSentences": 253,
+    "shortSentences": 7,
+    "complexWords": 6841,
+    "passiveVoice": 64,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 185,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11883,
+    "uniqueWords": 2498,
+    "vocabularyRichness": 0.21021627535134224,
+    "rareWords": 557,
+    "technicalTerms": 2907,
+    "jargonWords": 12,
+    "avgWordLength": 8.30640410670706,
+    "complexityScore": 0.2925187242278886
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 64,
+    "bulletPoints": 576,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 84,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 434,
+    "avgParagraphLength": 39.64055299539171,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -23.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.4845115889955878,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -23.78872102751103,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.36832061068702,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2925187242278886,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

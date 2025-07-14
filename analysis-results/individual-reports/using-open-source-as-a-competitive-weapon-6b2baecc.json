@@ -1,0 +1,142 @@
+{
+  "bookId": "using-open-source-as-a-competitive-weapon-6b2baecc",
+  "directory": "Using_Open_Source_as_a_Competitive_Weapon_6b2baecc",
+  "title": "Using Open Source as a Competitive Weapon",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:02.982Z",
+  "summary": {
+    "overallScore": 18.61933773025123,
+    "readabilityGrade": "Poor",
+    "wordCount": 7567,
+    "estimatedReadingTime": 38
+  },
+  "readabilityMetrics": {
+    "fleschScore": 1.5483443256280793,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.503342320629873,
+    "fogIndex": 22.90831259079826,
+    "smogIndex": 19.418527138326425,
+    "ariIndex": 20.810193170108768,
+    "cliIndex": 19.563224527553853,
+    "avgSentenceLength": 26.00343642611684,
+    "avgSyllablesPerWord": 2.1145764503766356,
+    "complexWordRatio": 0.31267345050878814
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 291,
+    "avgWordsPerSentence": 26.00343642611684,
+    "avgSyllablesPerWord": 2.1145764503766356,
+    "longSentences": 85,
+    "shortSentences": 5,
+    "complexWords": 2366,
+    "passiveVoice": 53,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 105,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 4291,
+    "uniqueWords": 1190,
+    "vocabularyRichness": 0.27732463295269166,
+    "rareWords": 257,
+    "technicalTerms": 944,
+    "jargonWords": 46,
+    "avgWordLength": 7.736192029829876,
+    "complexityScore": 0.29060824982521555
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 277,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 30,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 228,
+    "avgParagraphLength": 32.328947368421055,
+    "tableOfContents": true,
+    "summaries": 7,
+    "examples": 7,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 1.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.61933773025123,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 1.5483443256280793,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 26.00343642611684,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.29060824982521555,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

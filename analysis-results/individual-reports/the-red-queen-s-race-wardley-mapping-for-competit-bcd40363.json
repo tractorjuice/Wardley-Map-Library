@@ -1,0 +1,117 @@
+{
+  "bookId": "the-red-queen-s-race-wardley-mapping-for-competit-bcd40363",
+  "directory": "The_Red_Queen_s_Race__Wardley_Mapping_for_Competit_bcd40363",
+  "title": "The Red Queen's Race: Wardley Mapping for Competitive Advantage in a Relentlessly Evolving World",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:02.274Z",
+  "summary": {
+    "overallScore": 29.380014616967458,
+    "readabilityGrade": "Poor",
+    "wordCount": 64387,
+    "estimatedReadingTime": 322
+  },
+  "readabilityMetrics": {
+    "fleschScore": 13.450036542418644,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.27043127660526,
+    "fogIndex": 20.5211099486444,
+    "smogIndex": 17.37942610429764,
+    "ariIndex": 16.76476435971871,
+    "cliIndex": 18.098530448693058,
+    "avgSentenceLength": 19.672166208371525,
+    "avgSyllablesPerWord": 2.0498547843508783,
+    "complexWordRatio": 0.31630608663239473
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3273,
+    "avgWordsPerSentence": 19.672166208371525,
+    "avgSyllablesPerWord": 2.0498547843508783,
+    "longSentences": 552,
+    "shortSentences": 86,
+    "complexWords": 20366,
+    "passiveVoice": 454,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 948,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 39091,
+    "uniqueWords": 3983,
+    "vocabularyRichness": 0.10189046071985879,
+    "rareWords": 739,
+    "technicalTerms": 8792,
+    "jargonWords": 330,
+    "avgWordLength": 7.818039958046609,
+    "complexityScore": 0.2522575528894119
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 97,
+    "bulletPoints": 667,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 54,
+    "links": 106,
+    "emphasis": 265,
+    "paragraphs": 958,
+    "avgParagraphLength": 66.40814196242171,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 136,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 13.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 29.380014616967458,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 13.450036542418644,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.672166208371525,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2522575528894119,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

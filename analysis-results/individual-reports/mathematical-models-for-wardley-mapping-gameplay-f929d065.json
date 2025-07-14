@@ -1,0 +1,131 @@
+{
+  "bookId": "mathematical-models-for-wardley-mapping-gameplay-f929d065",
+  "directory": "Mathematical_Models_for_Wardley_Mapping_Gameplay___f929d065",
+  "title": "Mathematical Models for Wardley Mapping Gameplay: A Quantitative Approach to Strategic Decision Making",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:55.680Z",
+  "summary": {
+    "overallScore": 1.877607092265679,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 11931,
+    "estimatedReadingTime": 60
+  },
+  "readabilityMetrics": {
+    "fleschScore": -25.3059822693358,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.571158119583647,
+    "fogIndex": 31.199325826472514,
+    "smogIndex": 25.4072876007066,
+    "ariIndex": 29.246373777936007,
+    "cliIndex": 22.134251948705046,
+    "avgSentenceLength": 39.37623762376238,
+    "avgSyllablesPerWord": 2.271561478501383,
+    "complexWordRatio": 0.3862207694241891
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 303,
+    "avgWordsPerSentence": 39.37623762376238,
+    "avgSyllablesPerWord": 2.271561478501383,
+    "longSentences": 154,
+    "shortSentences": 10,
+    "complexWords": 4608,
+    "passiveVoice": 36,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 105,
+    "readabilityIssues": [
+      "Sentences too long (avg: 39.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.8%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7554,
+    "uniqueWords": 1788,
+    "vocabularyRichness": 0.23669579030976967,
+    "rareWords": 431,
+    "technicalTerms": 2279,
+    "jargonWords": 97,
+    "avgWordLength": 8.106566057717766,
+    "complexityScore": 0.37159120995499073
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 58,
+    "bulletPoints": 558,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 40,
+    "links": 67,
+    "emphasis": 22,
+    "paragraphs": 343,
+    "avgParagraphLength": 34.32069970845481,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 11,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 39.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 37.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -25.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.877607092265679,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -25.3059822693358,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 39.37623762376238,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.37159120995499073,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

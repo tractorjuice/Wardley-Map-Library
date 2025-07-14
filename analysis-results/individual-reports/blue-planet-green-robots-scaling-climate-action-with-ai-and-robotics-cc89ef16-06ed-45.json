@@ -1,0 +1,130 @@
+{
+  "bookId": "blue-planet-green-robots-scaling-climate-action-with-ai-and-robotics-cc89ef16-06ed-45",
+  "directory": "Blue_Planet__Green_Robots__Scaling_Climate_Action_with_AI_and_Robotics_cc89ef16-06ed-45",
+  "title": "Blue Planet, Green Robots: Scaling Climate Action with AI and Robotics",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:48.481Z",
+  "summary": {
+    "overallScore": 17.89055172891515,
+    "readabilityGrade": "Poor",
+    "wordCount": 56216,
+    "estimatedReadingTime": 282
+  },
+  "readabilityMetrics": {
+    "fleschScore": -0.27362067771213106,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.674487448608208,
+    "fogIndex": 23.64331400150626,
+    "smogIndex": 19.866141809129473,
+    "ariIndex": 20.896160076950416,
+    "cliIndex": 19.864236516294287,
+    "avgSentenceLength": 25.669406392694064,
+    "avgSyllablesPerWord": 2.140120250462502,
+    "complexWordRatio": 0.3343887861107158
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2190,
+    "avgWordsPerSentence": 25.669406392694064,
+    "avgSyllablesPerWord": 2.140120250462502,
+    "longSentences": 793,
+    "shortSentences": 59,
+    "complexWords": 18798,
+    "passiveVoice": 305,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 608,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32679,
+    "uniqueWords": 4086,
+    "vocabularyRichness": 0.1250344257780226,
+    "rareWords": 838,
+    "technicalTerms": 6683,
+    "jargonWords": 171,
+    "avgWordLength": 7.759019553841917,
+    "complexityScore": 0.23538051959974296
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 72,
+    "bulletPoints": 883,
+    "numberedLists": 75,
+    "codeBlocks": 0,
+    "quotes": 330,
+    "links": 237,
+    "emphasis": 15,
+    "paragraphs": 1464,
+    "avgParagraphLength": 38.10450819672131,
+    "tableOfContents": true,
+    "summaries": 47,
+    "examples": 56,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -0.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 17.89055172891515,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -0.27362067771213106,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.669406392694064,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23538051959974296,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

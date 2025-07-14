@@ -1,0 +1,130 @@
+{
+  "bookId": "the-age-of-agency-navigating-the-genai-revolution-458c1358",
+  "directory": "The_Age_of_Agency__Navigating_the_GenAI_Revolution_458c1358",
+  "title": "The Age of Agency: Navigating the GenAI Revolution",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:00.760Z",
+  "summary": {
+    "overallScore": 23.466348303971962,
+    "readabilityGrade": "Poor",
+    "wordCount": 66076,
+    "estimatedReadingTime": 331
+  },
+  "readabilityMetrics": {
+    "fleschScore": 13.665870759929902,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.454244090773532,
+    "fogIndex": 20.3157276941696,
+    "smogIndex": 17.368117948727676,
+    "ariIndex": 16.90188402596916,
+    "cliIndex": 17.79531932925722,
+    "avgSentenceLength": 20.53325046612803,
+    "avgSyllablesPerWord": 2.036972577032508,
+    "complexWordRatio": 0.30256068769295963
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3218,
+    "avgWordsPerSentence": 20.53325046612803,
+    "avgSyllablesPerWord": 2.036972577032508,
+    "longSentences": 666,
+    "shortSentences": 47,
+    "complexWords": 19992,
+    "passiveVoice": 524,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1075,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.5 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 40956,
+    "uniqueWords": 4251,
+    "vocabularyRichness": 0.10379431585115734,
+    "rareWords": 813,
+    "technicalTerms": 7900,
+    "jargonWords": 657,
+    "avgWordLength": 7.583723996484031,
+    "complexityScore": 0.22878210762769802
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 97,
+    "bulletPoints": 703,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 50,
+    "links": 106,
+    "emphasis": 273,
+    "paragraphs": 970,
+    "avgParagraphLength": 67.45979381443298,
+    "tableOfContents": true,
+    "summaries": 69,
+    "examples": 136,
+    "definitions": 10
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 22.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.3% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 13.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 23.466348303971962,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 13.665870759929902,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.53325046612803,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.22878210762769802,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

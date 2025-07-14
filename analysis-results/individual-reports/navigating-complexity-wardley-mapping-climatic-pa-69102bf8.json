@@ -1,0 +1,142 @@
+{
+  "bookId": "navigating-complexity-wardley-mapping-climatic-pa-69102bf8",
+  "directory": "Navigating_Complexity__Wardley_Mapping_Climatic_Pa_69102bf8",
+  "title": "Navigating Complexity: Wardley Mapping Climatic Patterns as a Math Model",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:55.885Z",
+  "summary": {
+    "overallScore": 18.96566149494845,
+    "readabilityGrade": "Poor",
+    "wordCount": 11591,
+    "estimatedReadingTime": 58
+  },
+  "readabilityMetrics": {
+    "fleschScore": 2.414153737371123,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.34543974552631,
+    "fogIndex": 22.65949771731786,
+    "smogIndex": 18.878835113905634,
+    "ariIndex": 19.089330303838246,
+    "cliIndex": 19.803112759899914,
+    "avgSentenceLength": 21.828625235404896,
+    "avgSyllablesPerWord": 2.1544301613320678,
+    "complexWordRatio": 0.3482011905788974
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 531,
+    "avgWordsPerSentence": 21.828625235404896,
+    "avgSyllablesPerWord": 2.1544301613320678,
+    "longSentences": 103,
+    "shortSentences": 6,
+    "complexWords": 4036,
+    "passiveVoice": 118,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 153,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.8 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 6849,
+    "uniqueWords": 1636,
+    "vocabularyRichness": 0.23886698788144253,
+    "rareWords": 317,
+    "technicalTerms": 1719,
+    "jargonWords": 88,
+    "avgWordLength": 8.023945101474668,
+    "complexityScore": 0.31011826544021026
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 54,
+    "bulletPoints": 307,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 32,
+    "links": 63,
+    "emphasis": 15,
+    "paragraphs": 279,
+    "avgParagraphLength": 40.659498207885306,
+    "tableOfContents": true,
+    "summaries": 13,
+    "examples": 8,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 21.8 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "22.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 2.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.96566149494845,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 2.414153737371123,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.828625235404896,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31011826544021026,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

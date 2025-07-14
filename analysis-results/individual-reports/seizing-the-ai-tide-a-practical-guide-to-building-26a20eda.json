@@ -1,0 +1,118 @@
+{
+  "bookId": "seizing-the-ai-tide-a-practical-guide-to-building-26a20eda",
+  "directory": "Seizing_the_AI_Tide__A_Practical_Guide_to_Building_26a20eda",
+  "title": "Seizing the AI Tide: A Practical Guide to Building a Marine & Maritime AI Hub in Plymouth",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:57.740Z",
+  "summary": {
+    "overallScore": 22.370459804518077,
+    "readabilityGrade": "Poor",
+    "wordCount": 48995,
+    "estimatedReadingTime": 245
+  },
+  "readabilityMetrics": {
+    "fleschScore": 10.926149511295193,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.87109678590298,
+    "fogIndex": 20.841909813409877,
+    "smogIndex": 17.691438541507278,
+    "ariIndex": 17.679459621084213,
+    "cliIndex": 18.68856577201755,
+    "avgSentenceLength": 20.672995780590718,
+    "avgSyllablesPerWord": 2.0676803755485254,
+    "complexWordRatio": 0.31431778752933975
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2370,
+    "avgWordsPerSentence": 20.672995780590718,
+    "avgSyllablesPerWord": 2.0676803755485254,
+    "longSentences": 507,
+    "shortSentences": 54,
+    "complexWords": 15400,
+    "passiveVoice": 286,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 585,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 30783,
+    "uniqueWords": 3563,
+    "vocabularyRichness": 0.1157457037975506,
+    "rareWords": 663,
+    "technicalTerms": 6559,
+    "jargonWords": 54,
+    "avgWordLength": 7.691842900302115,
+    "complexityScore": 0.23636422700841372
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 78,
+    "bulletPoints": 685,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 39,
+    "links": 87,
+    "emphasis": 152,
+    "paragraphs": 762,
+    "avgParagraphLength": 63.4238845144357,
+    "tableOfContents": true,
+    "summaries": 19,
+    "examples": 97,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 10.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 22.370459804518077,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 10.926149511295193,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.672995780590718,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23636422700841372,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

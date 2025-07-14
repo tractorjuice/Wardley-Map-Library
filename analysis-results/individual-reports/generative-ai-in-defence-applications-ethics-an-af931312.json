@@ -1,0 +1,130 @@
+{
+  "bookId": "generative-ai-in-defence-applications-ethics-an-af931312",
+  "directory": "Generative_AI_in_Defence__Applications__Ethics__an_af931312",
+  "title": "Generative AI in Defence: Applications, Ethics, and Strategic Foresight for DSTL",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:53.181Z",
+  "summary": {
+    "overallScore": 20.896518015623236,
+    "readabilityGrade": "Poor",
+    "wordCount": 52044,
+    "estimatedReadingTime": 261
+  },
+  "readabilityMetrics": {
+    "fleschScore": 7.2412950390580875,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.39627821901802,
+    "fogIndex": 21.30317076143802,
+    "smogIndex": 17.962056351590356,
+    "ariIndex": 17.89117811631217,
+    "cliIndex": 18.927810314349397,
+    "avgSentenceLength": 20.71815286624204,
+    "avgSyllablesPerWord": 2.110694796710476,
+    "complexWordRatio": 0.3253977403735301
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2512,
+    "avgWordsPerSentence": 20.71815286624204,
+    "avgSyllablesPerWord": 2.110694796710476,
+    "longSentences": 506,
+    "shortSentences": 36,
+    "complexWords": 16935,
+    "passiveVoice": 390,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 664,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32833,
+    "uniqueWords": 3755,
+    "vocabularyRichness": 0.1143666433161758,
+    "rareWords": 709,
+    "technicalTerms": 7188,
+    "jargonWords": 847,
+    "avgWordLength": 7.802637590229343,
+    "complexityScore": 0.26631742454238116
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 86,
+    "bulletPoints": 676,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 37,
+    "links": 95,
+    "emphasis": 201,
+    "paragraphs": 790,
+    "avgParagraphLength": 65.18481012658228,
+    "tableOfContents": true,
+    "summaries": 56,
+    "examples": 62,
+    "definitions": 8
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 26.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 7.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.896518015623236,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 7.2412950390580875,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.71815286624204,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.26631742454238116,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

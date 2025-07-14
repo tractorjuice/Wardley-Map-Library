@@ -1,0 +1,153 @@
+{
+  "bookId": "the-rebellion-resurgence-02180336-6d26-4ffb-842a-fdf7fdddca58",
+  "directory": "The_Rebellion_Resurgence_02180336-6d26-4ffb-842a-fdf7fdddca58",
+  "title": "Table of Contents",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:02.018Z",
+  "summary": {
+    "overallScore": 38.8043048298713,
+    "readabilityGrade": "Below Average",
+    "wordCount": 13452,
+    "estimatedReadingTime": 68
+  },
+  "readabilityMetrics": {
+    "fleschScore": 37.01076207467824,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 13.78049051199427,
+    "fogIndex": 17.673173247889704,
+    "smogIndex": 15.741402129270455,
+    "ariIndex": 14.936201915199625,
+    "cliIndex": 14.025744870651206,
+    "avgSentenceLength": 22.877551020408163,
+    "avgSyllablesPerWord": 1.7329021706809395,
+    "complexWordRatio": 0.21305382099316086
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 588,
+    "avgWordsPerSentence": 22.877551020408163,
+    "avgSyllablesPerWord": 1.7329021706809395,
+    "longSentences": 169,
+    "shortSentences": 10,
+    "complexWords": 2866,
+    "passiveVoice": 100,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 172,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.9 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7437,
+    "uniqueWords": 2597,
+    "vocabularyRichness": 0.3491999462148716,
+    "rareWords": 569,
+    "technicalTerms": 696,
+    "jargonWords": 22,
+    "avgWordLength": 6.811752050558021,
+    "complexityScore": 0.17305365066559097
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 111,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 232,
+    "avgParagraphLength": 57.125,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 22.9 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 17.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Could benefit from more headers and subheaders",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-800 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 37.0",
+      "recommendation": "Consider adding more examples and shorter explanations to improve flow.",
+      "impact": "Medium - Improving flow enhances readability"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 4,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 38.8043048298713,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 37.01076207467824,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 22.877551020408163,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.17305365066559097,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "bookId": "strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-modern-leaders-7526522c",
+  "directory": "Strategic_Thinking_with_Wardley_Maps__A_Visual_Guide_to_Business_Evolution_and_Market_Dynamics_for_Modern_Leaders_7526522c",
+  "title": "Strategic Thinking with Wardley Maps: A Visual Guide to Business Evolution and Market Dynamics for Modern Leaders",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.442Z",
+  "summary": {
+    "overallScore": 15.77818956439055,
+    "readabilityGrade": "Poor",
+    "wordCount": 20534,
+    "estimatedReadingTime": 103
+  },
+  "readabilityMetrics": {
+    "fleschScore": -5.554526089023625,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.41644209448535,
+    "fogIndex": 25.988031455929857,
+    "smogIndex": 21.61945291669905,
+    "ariIndex": 23.32591883681112,
+    "cliIndex": 20.528485438784447,
+    "avgSentenceLength": 29.716353111432706,
+    "avgSyllablesPerWord": 2.15398850686666,
+    "complexWordRatio": 0.3525372552839193
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 691,
+    "avgWordsPerSentence": 29.716353111432706,
+    "avgSyllablesPerWord": 2.15398850686666,
+    "longSentences": 238,
+    "shortSentences": 9,
+    "complexWords": 7239,
+    "passiveVoice": 57,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 317,
+    "readabilityIssues": [
+      "Sentences too long (avg: 29.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13202,
+    "uniqueWords": 2275,
+    "vocabularyRichness": 0.172322375397667,
+    "rareWords": 478,
+    "technicalTerms": 3462,
+    "jargonWords": 140,
+    "avgWordLength": 7.987501893652477,
+    "complexityScore": 0.3090440842296622
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 56,
+    "bulletPoints": 684,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 88,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 500,
+    "avgParagraphLength": 40.458,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 19,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 29.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -5.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 15.77818956439055,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -5.554526089023625,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 29.716353111432706,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3090440842296622,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

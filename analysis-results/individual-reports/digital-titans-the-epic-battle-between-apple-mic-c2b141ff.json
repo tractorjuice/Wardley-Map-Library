@@ -1,0 +1,131 @@
+{
+  "bookId": "digital-titans-the-epic-battle-between-apple-mic-c2b141ff",
+  "directory": "Digital_Titans__The_Epic_Battle_Between_Apple__Mic_c2b141ff",
+  "title": "Digital Titans: The Epic Battle Between Apple, Microsoft, and Google for Tech Supremacy",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:18:50.887Z",
+  "summary": {
+    "overallScore": 7.921340287155715,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 15309,
+    "estimatedReadingTime": 77
+  },
+  "readabilityMetrics": {
+    "fleschScore": -10.196649282110712,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.638002997389076,
+    "fogIndex": 27.280798316192705,
+    "smogIndex": 22.57407831614839,
+    "ariIndex": 25.01507784820972,
+    "cliIndex": 21.266677118035144,
+    "avgSentenceLength": 32.02719665271967,
+    "avgSyllablesPerWord": 2.181135279900712,
+    "complexWordRatio": 0.361747991377621
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 478,
+    "avgWordsPerSentence": 32.02719665271967,
+    "avgSyllablesPerWord": 2.181135279900712,
+    "longSentences": 232,
+    "shortSentences": 6,
+    "complexWords": 5538,
+    "passiveVoice": 37,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 142,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.0 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (48.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9956,
+    "uniqueWords": 2311,
+    "vocabularyRichness": 0.2321213338690237,
+    "rareWords": 536,
+    "technicalTerms": 2248,
+    "jargonWords": 22,
+    "avgWordLength": 7.989051828043391,
+    "complexityScore": 0.2818400964242668
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 50,
+    "bulletPoints": 445,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 59,
+    "emphasis": 15,
+    "paragraphs": 375,
+    "avgParagraphLength": 39.63466666666667,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 5,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 28.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -10.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 7.921340287155715,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -10.196649282110712,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.02719665271967,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2818400964242668,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

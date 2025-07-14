@@ -1,0 +1,143 @@
+{
+  "bookId": "mapping-the-red-queen-a-guide-to-wardley-mapping-bd4a3955-91c5",
+  "directory": "Mapping_the_Red_Queen__A_Guide_to_Wardley_Mapping_bd4a3955-91c5",
+  "title": "Mapping the Red Queen: A Guide to Wardley Mapping and Staying Ahead of the Competition",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.812Z",
+  "summary": {
+    "overallScore": 8.187052096307388,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 22470,
+    "estimatedReadingTime": 113
+  },
+  "readabilityMetrics": {
+    "fleschScore": -9.532369759231528,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.954965412496303,
+    "fogIndex": 27.295935221607934,
+    "smogIndex": 22.513267895475934,
+    "ariIndex": 26.704839365238662,
+    "cliIndex": 19.973461504227867,
+    "avgSentenceLength": 37.70134228187919,
+    "avgSyllablesPerWord": 2.10520694259012,
+    "complexWordRatio": 0.30538495772140634
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 596,
+    "avgWordsPerSentence": 37.70134228187919,
+    "avgSyllablesPerWord": 2.10520694259012,
+    "longSentences": 294,
+    "shortSentences": 12,
+    "complexWords": 6862,
+    "passiveVoice": 155,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 219,
+    "readabilityIssues": [
+      "Sentences too long (avg: 37.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)",
+      "Too many long sentences (49.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 15062,
+    "uniqueWords": 3199,
+    "vocabularyRichness": 0.2123887929889789,
+    "rareWords": 658,
+    "technicalTerms": 2578,
+    "jargonWords": 169,
+    "avgWordLength": 7.349820740937458,
+    "complexityScore": 0.2260655955384411
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 110,
+    "bulletPoints": 853,
+    "numberedLists": 23,
+    "codeBlocks": 70,
+    "quotes": 69,
+    "links": 119,
+    "emphasis": 105,
+    "paragraphs": 580,
+    "avgParagraphLength": 37.81206896551724,
+    "tableOfContents": true,
+    "summaries": 3,
+    "examples": 15,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 37.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 22.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "High",
+      "issue": "26.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "High - Active voice improves clarity and engagement"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -9.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 6,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 8.187052096307388,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -9.532369759231528,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 37.70134228187919,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2260655955384411,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

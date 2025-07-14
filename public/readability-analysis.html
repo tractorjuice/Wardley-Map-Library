@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readability Analysis - Wardley Map Library</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .nav-link.active {
+            background-color: #e74c3c;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .page-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        
+        .page-header h1 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .page-header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+        
+        .error {
+            background-color: #e74c3c;
+            color: white;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-bottom: 1rem;
+        }
+        
+        .alert {
+            background-color: #f39c12;
+            color: white;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-bottom: 1rem;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .stat-card.good {
+            border-left-color: #27ae60;
+        }
+        
+        .stat-card.warning {
+            border-left-color: #f39c12;
+        }
+        
+        .stat-card.bad {
+            border-left-color: #e74c3c;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .section {
+            background: white;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .section-header {
+            background-color: #34495e;
+            color: white;
+            padding: 1rem 1.5rem;
+            margin: 0;
+            font-size: 1.2rem;
+        }
+        
+        .section-content {
+            padding: 1.5rem;
+        }
+        
+        .issue-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .issue-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+            border-bottom: 1px solid #eee;
+            background: #f8f9fa;
+            margin-bottom: 0.5rem;
+            border-radius: 4px;
+        }
+        
+        .issue-item:last-child {
+            border-bottom: none;
+        }
+        
+        .issue-name {
+            font-weight: 500;
+            color: #e74c3c;
+        }
+        
+        .issue-count {
+            background-color: #e74c3c;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+        
+        .category-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .category-table th,
+        .category-table td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .category-table th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .category-table tr:hover {
+            background-color: #f8f9fa;
+        }
+        
+        .readability-score {
+            font-weight: bold;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            color: white;
+        }
+        
+        .score-excellent {
+            background-color: #27ae60;
+        }
+        
+        .score-good {
+            background-color: #2ecc71;
+        }
+        
+        .score-fair {
+            background-color: #f39c12;
+        }
+        
+        .score-poor {
+            background-color: #e67e22;
+        }
+        
+        .score-very-poor {
+            background-color: #e74c3c;
+        }
+        
+        .book-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1rem;
+        }
+        
+        .book-card {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #27ae60;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        
+        .book-card:hover {
+            background: #e9ecef;
+            transform: translateY(-2px);
+        }
+        
+        .book-card.poor {
+            border-left-color: #e74c3c;
+        }
+        
+        .book-title {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+        
+        .book-stats {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+        
+        .book-issues {
+            font-size: 0.8rem;
+            color: #e74c3c;
+            font-style: italic;
+        }
+        
+        .book-link {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.25rem 0.5rem;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s;
+        }
+        
+        .book-link:hover {
+            background-color: #2980b9;
+        }
+        
+        .tabs {
+            display: flex;
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+        
+        .tab {
+            flex: 1;
+            padding: 0.75rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+            background: none;
+            font-size: 0.9rem;
+        }
+        
+        .tab.active {
+            background-color: #e74c3c;
+            color: white;
+        }
+        
+        .tab:hover:not(.active) {
+            background-color: #e0e0e0;
+        }
+        
+        .tab-content {
+            display: none;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .improvement-tips {
+            background: #e8f5e8;
+            border: 1px solid #27ae60;
+            border-radius: 6px;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .improvement-tips h4 {
+            color: #27ae60;
+            margin-top: 0;
+        }
+        
+        .improvement-tips ul {
+            margin: 0;
+            padding-left: 1.5rem;
+        }
+        
+        .improvement-tips li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .nav {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .stats-grid {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            }
+            
+            .book-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .category-table {
+                font-size: 0.9rem;
+            }
+        }
+        
+        /* Research Section Styles */
+        .research-comparison {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .metric-item {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .metric-desc {
+            color: #666;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+        
+        .modern-methods {
+            margin: 1rem 0;
+        }
+        
+        .method-comparison {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .method-era {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .method-desc {
+            color: #666;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+        
+        .method-advantage {
+            color: #27ae60;
+            font-size: 0.85rem;
+            display: block;
+            margin-top: 0.5rem;
+        }
+        
+        .method-limitation {
+            color: #e74c3c;
+            font-size: 0.85rem;
+            display: block;
+        }
+        
+        .advantages-list {
+            background: white;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #27ae60;
+        }
+        
+        .advantages-list li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .research-note {
+            background: #3498db;
+            color: white;
+            padding: 1rem;
+            border-radius: 6px;
+            margin-top: 1rem;
+            font-size: 0.95rem;
+        }
+        
+        .research-note code {
+            background: rgba(255,255,255,0.2);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Consolas', monospace;
+        }
+        
+        @media (max-width: 768px) {
+            .metrics-grid, .method-comparison {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header role="banner">
+        <div class="header-content">
+            <div class="header-text">
+                <h1>Wardley Map Library</h1>
+                <p>Comprehensive digital library of Wardley Mapping resources and strategic analysis reports</p>
+            </div>
+            <nav class="header-nav">
+                <a href="/" class="nav-link" title="Return to main library">
+                    📚 Library
+                </a>
+                <a href="/word-analysis.html" class="nav-link" title="View comprehensive word analysis across all books">
+                    📊 Word Analysis
+                </a>
+                <a href="/readability-analysis.html" class="nav-link active" title="View comprehensive readability analysis across all books">
+                    📖 Readability
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>📖 Readability Analysis Report</h1>
+            <p>Comprehensive readability assessment across the entire Wardley Map Library</p>
+        </div>
+
+        <div id="loading" class="loading">
+            <p>Loading readability analysis data...</p>
+        </div>
+
+        <div id="error" class="error" style="display: none;">
+            <p>Error loading analysis data. Please try again later.</p>
+        </div>
+
+        <div id="content" style="display: none;">
+            <!-- Critical Alert -->
+            <div class="alert">
+                <strong>⚠️ Critical Readability Issues Detected:</strong> Analysis reveals significant readability challenges across the library. Average readability score is extremely low at 16.6/100.
+            </div>
+
+            <!-- Overview Stats -->
+            <div class="stats-grid" id="statsGrid">
+                <!-- Stats will be populated by JavaScript -->
+            </div>
+
+            <!-- Common Issues -->
+            <div class="section">
+                <h2 class="section-header">🚨 Most Common Readability Issues</h2>
+                <div class="section-content">
+                    <ul class="issue-list" id="issuesList">
+                        <!-- Issues will be populated by JavaScript -->
+                    </ul>
+                    <div class="improvement-tips">
+                        <h4>💡 Quick Improvement Tips:</h4>
+                        <ul>
+                            <li><strong>Shorten sentences:</strong> Aim for 12-18 words per sentence</li>
+                            <li><strong>Simplify vocabulary:</strong> Replace complex words with simpler alternatives</li>
+                            <li><strong>Add structure:</strong> Use more headers, bullet points, and examples</li>
+                            <li><strong>Use active voice:</strong> Avoid passive constructions</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Category Analysis -->
+            <div class="section">
+                <h2 class="section-header">📂 Readability by Category</h2>
+                <div class="section-content">
+                    <table class="category-table" id="categoryTable">
+                        <!-- Categories will be populated by JavaScript -->
+                    </table>
+                </div>
+            </div>
+
+            <!-- Book Rankings -->
+            <div class="section">
+                <h2 class="section-header">📚 Book Rankings</h2>
+                <div class="section-content">
+                    <div class="tabs">
+                        <button class="tab active" onclick="showTab('allRanked')">All Books Ranked</button>
+                        <button class="tab" onclick="showTab('mostReadable')">Most Readable</button>
+                        <button class="tab" onclick="showTab('leastReadable')">Least Readable</button>
+                    </div>
+                    
+                    <div id="allRanked" class="tab-content active">
+                        <div class="book-grid" id="allRankedBooks">
+                            <!-- All books will be populated by JavaScript -->
+                        </div>
+                    </div>
+                    
+                    <div id="mostReadable" class="tab-content">
+                        <div class="book-grid" id="mostReadableBooks">
+                            <!-- Books will be populated by JavaScript -->
+                        </div>
+                    </div>
+                    
+                    <div id="leastReadable" class="tab-content">
+                        <div class="book-grid" id="leastReadableBooks">
+                            <!-- Books will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Target Readability Scores -->
+            <div class="section">
+                <h2 class="section-header">🎯 Target Readability Scores</h2>
+                <div class="section-content">
+                    <p>Based on analysis of 182 books and content type considerations for strategic business documentation:</p>
+                    
+                    <div class="metrics-grid">
+                        <div class="metric-item">
+                            <strong>Overall Composite Score</strong><br>
+                            <span style="color: #e74c3c;">Current: 16.6</span> → <span style="color: #27ae60;">Target: 50-70</span><br>
+                            <span class="metric-desc">Weighted average of all metrics for overall readability</span>
+                        </div>
+                        <div class="metric-item">
+                            <strong>Flesch Reading Ease</strong><br>
+                            <span style="color: #e74c3c;">Current: 0.5</span> → <span style="color: #27ae60;">Target: 60-70</span><br>
+                            <span class="metric-desc">Standard level for general audiences (13th-15th grade education)</span>
+                        </div>
+                        <div class="metric-item">
+                            <strong>Grade Level Metrics</strong><br>
+                            <span style="color: #e74c3c;">Current: 22+ years</span> → <span style="color: #27ae60;">Target: 12-16 years</span><br>
+                            <span class="metric-desc">High school to college level (F-K, Fog, SMOG, ARI, CLI)</span>
+                        </div>
+                        <div class="metric-item">
+                            <strong>Sentence Length</strong><br>
+                            <span style="color: #f39c12;">Current: 17.1 words</span> → <span style="color: #27ae60;">Target: 12-18 words</span><br>
+                            <span class="metric-desc">Already within acceptable range (near optimal)</span>
+                        </div>
+                    </div>
+                    
+                    <div class="research-note">
+                        <strong>🎯 Strategy Priority:</strong> Focus on reducing grade level complexity from graduate/professional level (22+ years) to high school/college level (12-16 years) while maintaining technical accuracy. The current sentence length is already within target range.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Improvement Guide -->
+            <div class="section">
+                <h2 class="section-header">🛠️ Readability Improvement Guide</h2>
+                <div class="section-content">
+                    <p>Based on analysis of 182 books, here are the most critical improvements needed:</p>
+                    
+                    <h4>📏 Sentence Structure Issues:</h4>
+                    <ul>
+                        <li>Current average: 17.1 words per sentence</li>
+                        <li>Target: 12-18 words per sentence ✓ (Already achieved)</li>
+                        <li>Action: Maintain current sentence length; focus on other metrics</li>
+                    </ul>
+                    
+                    <h4>🔤 Vocabulary Complexity (Priority #1):</h4>
+                    <ul>
+                        <li>Current average: 2.2+ syllables per word</li>
+                        <li>Target: 1.3-1.7 syllables per word</li>
+                        <li>Action: Replace technical jargon with plain language alternatives</li>
+                    </ul>
+                    
+                    <h4>🎓 Grade Level Reduction (Priority #2):</h4>
+                    <ul>
+                        <li>Current average: 22+ years education required</li>
+                        <li>Target: 12-16 years (high school to college level)</li>
+                        <li>Action: Simplify complex sentences and reduce academic language</li>
+                    </ul>
+                    
+                    <h4>🏗️ Structure Problems:</h4>
+                    <ul>
+                        <li>63% of books lack sufficient headers</li>
+                        <li>Target: 1 header per 200-400 words</li>
+                        <li>Action: Add more subheadings and bullet points</li>
+                    </ul>
+                    
+                </div>
+            </div>
+
+            <!-- Research Context -->
+            <div class="section">
+                <h2 class="section-header">🔬 Research Context & Methodology</h2>
+                <div class="section-content">
+                    <p>Our readability analysis uses <strong>6 classic readability formulas</strong> from the 1940s-1970s era, covering traditional linguistic assessment methods.</p>
+                    
+                    <div class="research-comparison">
+                        <h4>📚 Classic Formulas (Our Implementation):</h4>
+                        <div class="metrics-grid">
+                            <div class="metric-item">
+                                <strong>Flesch Reading Ease (1948)</strong><br>
+                                <span class="metric-desc">0-100 scale based on sentence length and syllables</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Flesch-Kincaid Grade Level (1975)</strong><br>
+                                <span class="metric-desc">U.S. grade level estimation</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Gunning Fog Index (1952)</strong><br>
+                                <span class="metric-desc">Education years needed for comprehension</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>SMOG Index (1969)</strong><br>
+                                <span class="metric-desc">Simple Measure of Gobbledygook</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Automated Readability Index (1967)</strong><br>
+                                <span class="metric-desc">Character-based metric for real-time scoring</span>
+                            </div>
+                            <div class="metric-item">
+                                <strong>Coleman-Liau Index (1975)</strong><br>
+                                <span class="metric-desc">Alternative character-based assessment</span>
+                            </div>
+                        </div>
+                        
+                        <h4>🤖 Modern Approaches (Research Reference):</h4>
+                        <div class="modern-methods">
+                            <div class="method-comparison">
+                                <div class="method-era">
+                                    <strong>Neural LM Readability (2019-2021)</strong><br>
+                                    <span class="method-desc">Transformer perplexity, BERT classifiers</span><br>
+                                    <span class="method-advantage">+ Higher accuracy, semantic understanding</span><br>
+                                    <span class="method-limitation">- Computationally expensive, less interpretable</span>
+                                </div>
+                                <div class="method-era">
+                                    <strong>ETS TextEvaluator (2013)</strong><br>
+                                    <span class="method-desc">43 linguistic features, syntax analysis</span><br>
+                                    <span class="method-advantage">+ Rich feature set, teacher-aligned</span><br>
+                                    <span class="method-limitation">- Proprietary, complex implementation</span>
+                                </div>
+                                <div class="method-era">
+                                    <strong>CommonLit CLEAR ML (2021)</strong><br>
+                                    <span class="method-desc">Ensemble ML with transformer embeddings</span><br>
+                                    <span class="method-advantage">+ Open dataset, competition benchmarks</span><br>
+                                    <span class="method-limitation">- Requires large training data</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <h4>📖 Why Classic Formulas?</h4>
+                        <ul class="advantages-list">
+                            <li><strong>Proven Reliability:</strong> 50+ years of validation across domains</li>
+                            <li><strong>Fast Processing:</strong> Real-time analysis of large text collections</li>
+                            <li><strong>Interpretable Results:</strong> Clear understanding of score components</li>
+                            <li><strong>Language Agnostic:</strong> Work across different languages and domains</li>
+                            <li><strong>Standard Benchmarks:</strong> Comparable with educational and publishing standards</li>
+                            <li><strong>Low Computational Cost:</strong> Suitable for large-scale analysis</li>
+                        </ul>
+                        
+                        <div class="research-note">
+                            <strong>📊 Research Coverage:</strong> Our implementation covers <strong>6 of 7 major classic formulas</strong> 
+                            (missing Dale-Chall which requires 3,000-word familiar word lists). 
+                            See <code>research/readabiliity_methods.md</code> for detailed comparison with modern approaches.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="footer">
+            <p>Analysis based on Flesch Reading Ease, Fog Index, and other readability metrics across 182 books</p>
+        </div>
+    </div>
+
+    <script>
+        let analysisData = null;
+
+        async function loadAnalysisData() {
+            try {
+                const response = await fetch('/api/readability-analysis');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                analysisData = await response.json();
+                displayAnalysisData();
+                
+            } catch (error) {
+                console.error('Error loading analysis data:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        function displayAnalysisData() {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+            
+            populateStats();
+            populateIssues();
+            populateCategories();
+            populateBooks();
+        }
+
+        function populateStats() {
+            const statsGrid = document.getElementById('statsGrid');
+            const stats = analysisData.overallStats;
+            
+            statsGrid.innerHTML = `
+                <div class="stat-card very-poor">
+                    <div class="stat-number">${stats.avgReadabilityScore.toFixed(1)}</div>
+                    <div class="stat-label">Average Readability Score</div>
+                </div>
+                <div class="stat-card very-poor" title="0-100 scale: Higher scores = easier reading. 90+ Very Easy, 60-69 Standard, <30 Graduate level">
+                    <div class="stat-number">${stats.avgFleschScore.toFixed(1)}</div>
+                    <div class="stat-label">Average Flesch Score</div>
+                </div>
+                <div class="stat-card very-poor" title="Years of education needed to understand the text. 12 = High school, 16 = College graduate">
+                    <div class="stat-number">${stats.avgFleschKincaidGrade.toFixed(1)}</div>
+                    <div class="stat-label">Flesch-Kincaid Grade Level</div>
+                </div>
+                <div class="stat-card very-poor" title="Years of formal education required for comprehension. >12 considered difficult for general audience">
+                    <div class="stat-number">${stats.avgFogIndex.toFixed(1)}</div>
+                    <div class="stat-label">Gunning Fog Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Simple Measure of Gobbledygook - estimates reading grade level based on complex words">
+                    <div class="stat-number">${stats.avgSmogIndex.toFixed(1)}</div>
+                    <div class="stat-label">SMOG Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Character-based readability metric that doesn't require syllable counting">
+                    <div class="stat-number">${stats.avgAriIndex.toFixed(1)}</div>
+                    <div class="stat-label">Automated Readability Index</div>
+                </div>
+                <div class="stat-card very-poor" title="Alternative character-based assessment using characters per word and sentences per 100 words">
+                    <div class="stat-number">${stats.avgCliIndex.toFixed(1)}</div>
+                    <div class="stat-label">Coleman-Liau Index</div>
+                </div>
+                <div class="stat-card warning">
+                    <div class="stat-number">${stats.avgSentenceLength.toFixed(1)}</div>
+                    <div class="stat-label">Average Sentence Length</div>
+                </div>
+                <div class="stat-card bad">
+                    <div class="stat-number">${(stats.avgComplexityScore * 100).toFixed(1)}%</div>
+                    <div class="stat-label">Vocabulary Complexity</div>
+                </div>
+                <div class="stat-card good">
+                    <div class="stat-number">${analysisData.totalBooks}</div>
+                    <div class="stat-label">Books Analyzed</div>
+                </div>
+            `;
+        }
+
+        function populateIssues() {
+            const issuesList = document.getElementById('issuesList');
+            const issues = analysisData.commonIssues;
+            
+            issuesList.innerHTML = issues.map(([issue, count]) => `
+                <li class="issue-item">
+                    <span class="issue-name">${issue}</span>
+                    <span class="issue-count">${count} books</span>
+                </li>
+            `).join('');
+        }
+
+        function populateCategories() {
+            const categoryTable = document.getElementById('categoryTable');
+            const categories = Object.entries(analysisData.categoryAnalysis);
+            
+            categoryTable.innerHTML = `
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Books</th>
+                        <th>Readability Score</th>
+                        <th>Flesch Score</th>
+                        <th>Avg Sentence Length</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    ${categories.map(([category, stats]) => `
+                        <tr>
+                            <td><strong>${category}</strong></td>
+                            <td>${stats.count}</td>
+                            <td><span class="readability-score ${getScoreClass(stats.avgReadabilityScore)}">${stats.avgReadabilityScore.toFixed(1)}</span></td>
+                            <td>${stats.avgFleschScore.toFixed(1)}</td>
+                            <td>${stats.avgSentenceLength.toFixed(1)} words</td>
+                        </tr>
+                    `).join('')}
+                </tbody>
+            `;
+        }
+
+        function populateBooks() {
+            const allRankedBooks = document.getElementById('allRankedBooks');
+            const mostReadableBooks = document.getElementById('mostReadableBooks');
+            const leastReadableBooks = document.getElementById('leastReadableBooks');
+            
+            const rankings = analysisData.bookRankings;
+            
+            // Use the complete allBooks array if available, otherwise fall back to combining limited arrays
+            const allBooks = rankings.allBooks || [...rankings.mostReadable, ...rankings.leastReadable]
+                .sort((a, b) => b.overallScore - a.overallScore);
+            
+            // Remove duplicates (in case some books appear in both lists when using fallback)
+            const uniqueBooks = rankings.allBooks || allBooks.filter((book, index, self) => 
+                index === self.findIndex(b => b.directory === book.directory)
+            );
+            
+            // Populate all books ranked
+            allRankedBooks.innerHTML = uniqueBooks.map((book, index) => `
+                <div class="book-card ${book.overallScore < 30 ? 'poor' : ''}">
+                    <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
+                    <div class="book-stats">
+                        <span>Score: ${book.overallScore.toFixed(1)}</span>
+                        <span>Category: ${book.category}</span>
+                        <span>Words: ${book.wordCount.toLocaleString()}</span>
+                    </div>
+                    <div class="book-issues">
+                        ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'No major issues detected'}
+                    </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
+                </div>
+            `).join('');
+            
+            // Populate most readable (show all instead of top 10)
+            mostReadableBooks.innerHTML = rankings.mostReadable.map((book, index) => `
+                <div class="book-card">
+                    <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
+                    <div class="book-stats">
+                        <span>Score: ${book.overallScore.toFixed(1)}</span>
+                        <span>Category: ${book.category}</span>
+                        <span>Words: ${book.wordCount.toLocaleString()}</span>
+                    </div>
+                    <div class="book-issues">
+                        ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'No major issues detected'}
+                    </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
+                </div>
+            `).join('');
+            
+            // Populate least readable (show all instead of top 10)
+            leastReadableBooks.innerHTML = rankings.leastReadable.map((book, index) => `
+                <div class="book-card poor">
+                    <div class="book-title">${index + 1}. ${book.directory.replace(/_/g, ' ')}</div>
+                    <div class="book-stats">
+                        <span>Score: ${book.overallScore.toFixed(1)}</span>
+                        <span>Category: ${book.category}</span>
+                        <span>Words: ${book.wordCount.toLocaleString()}</span>
+                    </div>
+                    <div class="book-issues">
+                        ${book.sentenceAnalysis.readabilityIssues.join(', ') || 'Multiple readability issues'}
+                    </div>
+                    <a href="/readability-report.html?book=${createBookId(book.directory)}" class="book-link">View Full Report</a>
+                </div>
+            `).join('');
+        }
+
+        function createBookId(directory) {
+            return directory.toLowerCase()
+                .replace(/[^a-z0-9]/g, '-')
+                .replace(/-+/g, '-')
+                .replace(/^-|-$/g, '');
+        }
+
+        function getScoreClass(score) {
+            if (score >= 70) return 'score-excellent';
+            if (score >= 50) return 'score-good';
+            if (score >= 30) return 'score-fair';
+            if (score >= 15) return 'score-poor';
+            return 'score-very-poor';
+        }
+
+        function showTab(tabName) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            // Remove active class from all tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to clicked tab
+            event.target.classList.add('active');
+        }
+
+        // Load data when page loads
+        document.addEventListener('DOMContentLoaded', loadAnalysisData);
+    </script>
+</body>
+</html>

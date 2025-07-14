@@ -1,0 +1,131 @@
+{
+  "bookId": "strategic-home-office-evolution-a-wardley-mapping-guide-for-remote-first-success-6e528aa0",
+  "directory": "Strategic_Home_Office_Evolution__A_Wardley_Mapping_Guide_for_Remote-First_Success_6e528aa0",
+  "title": "Strategic Home Office Evolution: A Wardley Mapping Guide for Remote-First Success",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.236Z",
+  "summary": {
+    "overallScore": 5.968882117081011,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16356,
+    "estimatedReadingTime": 82
+  },
+  "readabilityMetrics": {
+    "fleschScore": -15.077794707297471,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.236962184419912,
+    "fogIndex": 27.550676517258445,
+    "smogIndex": 22.74045434201083,
+    "ariIndex": 25.345130312750605,
+    "cliIndex": 21.87479823917828,
+    "avgSentenceLength": 31.697674418604652,
+    "avgSyllablesPerWord": 2.2427855221325506,
+    "complexWordRatio": 0.37179016874541454
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 516,
+    "avgWordsPerSentence": 31.697674418604652,
+    "avgSyllablesPerWord": 2.2427855221325506,
+    "longSentences": 221,
+    "shortSentences": 6,
+    "complexWords": 6081,
+    "passiveVoice": 28,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 237,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (42.8%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10578,
+    "uniqueWords": 1937,
+    "vocabularyRichness": 0.18311590092645114,
+    "rareWords": 419,
+    "technicalTerms": 2923,
+    "jargonWords": 85,
+    "avgWordLength": 8.183966723388163,
+    "complexityScore": 0.32397428625449043
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 584,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 415,
+    "avgParagraphLength": 38.840963855421684,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 15,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -15.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.968882117081011,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -15.077794707297471,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.697674418604652,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32397428625449043,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

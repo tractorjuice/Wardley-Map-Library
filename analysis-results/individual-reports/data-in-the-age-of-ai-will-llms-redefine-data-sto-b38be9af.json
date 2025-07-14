@@ -1,0 +1,117 @@
+{
+  "bookId": "data-in-the-age-of-ai-will-llms-redefine-data-sto-b38be9af",
+  "directory": "Data_in_the_Age_of_AI__Will_LLMs_Redefine_Data_Sto_b38be9af",
+  "title": "Data in the Age of AI: Will LLMs Redefine Data Storage?",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:50.546Z",
+  "summary": {
+    "overallScore": 27.465825660854172,
+    "readabilityGrade": "Poor",
+    "wordCount": 49418,
+    "estimatedReadingTime": 248
+  },
+  "readabilityMetrics": {
+    "fleschScore": 8.664564152135426,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.01714064428393,
+    "fogIndex": 20.55542673352123,
+    "smogIndex": 17.441438134074307,
+    "ariIndex": 17.325924519333853,
+    "cliIndex": 18.62401230320936,
+    "avgSentenceLength": 19.991100323624597,
+    "avgSyllablesPerWord": 2.102594196446639,
+    "complexWordRatio": 0.3139746651017848
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2472,
+    "avgWordsPerSentence": 19.991100323624597,
+    "avgSyllablesPerWord": 2.102594196446639,
+    "longSentences": 452,
+    "shortSentences": 82,
+    "complexWords": 15516,
+    "passiveVoice": 352,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 638,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32386,
+    "uniqueWords": 3702,
+    "vocabularyRichness": 0.11430865188661768,
+    "rareWords": 697,
+    "technicalTerms": 6287,
+    "jargonWords": 170,
+    "avgWordLength": 7.467424195640091,
+    "complexityScore": 0.22089791885382573
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 91,
+    "bulletPoints": 582,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 59,
+    "links": 100,
+    "emphasis": 112,
+    "paragraphs": 727,
+    "avgParagraphLength": 67.1898211829436,
+    "tableOfContents": true,
+    "summaries": 10,
+    "examples": 46,
+    "definitions": 6
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 22.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 8.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 27.465825660854172,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 8.664564152135426,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.991100323624597,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.22089791885382573,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

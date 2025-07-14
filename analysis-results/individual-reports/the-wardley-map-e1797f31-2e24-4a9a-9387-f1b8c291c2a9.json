@@ -1,0 +1,141 @@
+{
+  "bookId": "the-wardley-map-e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
+  "directory": "The_Wardley_Map_e1797f31-2e24-4a9a-9387-f1b8c291c2a9",
+  "title": "Table of Contents",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:02.335Z",
+  "summary": {
+    "overallScore": 38.6033648568388,
+    "readabilityGrade": "Below Average",
+    "wordCount": 12543,
+    "estimatedReadingTime": 63
+  },
+  "readabilityMetrics": {
+    "fleschScore": 36.508412142097,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 13.395376467368362,
+    "fogIndex": 17.318702803296258,
+    "smogIndex": 15.491469615085936,
+    "ariIndex": 14.481514914867354,
+    "cliIndex": 14.489162082436415,
+    "avgSentenceLength": 21.04530201342282,
+    "avgSyllablesPerWord": 1.760822769672327,
+    "complexWordRatio": 0.22251454994817826
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 596,
+    "avgWordsPerSentence": 21.04530201342282,
+    "avgSyllablesPerWord": 1.760822769672327,
+    "longSentences": 109,
+    "shortSentences": 12,
+    "complexWords": 2791,
+    "passiveVoice": 107,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 163,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.0 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 6980,
+    "uniqueWords": 2411,
+    "vocabularyRichness": 0.3454154727793696,
+    "rareWords": 490,
+    "technicalTerms": 627,
+    "jargonWords": 25,
+    "avgWordLength": 6.968624641833811,
+    "complexityScore": 0.1636103151862464
+  },
+  "structurePatterns": {
+    "headers": 1,
+    "subheaders": 3,
+    "bulletPoints": 111,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 11,
+    "emphasis": 15,
+    "paragraphs": 231,
+    "avgParagraphLength": 53.74458874458875,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "Medium",
+      "issue": "Vocabulary complexity score: 16.4%",
+      "recommendation": "Consider simplifying some technical terms where context allows.",
+      "impact": "Medium - Simpler vocabulary improves accessibility"
+    },
+    {
+      "category": "Structure",
+      "priority": "Medium",
+      "issue": "Could benefit from more headers and subheaders",
+      "recommendation": "Add more headings to break up content. Aim for 1 header per 500-800 words.",
+      "impact": "Medium - Better structure improves navigation and comprehension"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "Medium",
+      "issue": "Flesch Reading Ease score: 36.5",
+      "recommendation": "Consider adding more examples and shorter explanations to improve flow.",
+      "impact": "Medium - Improving flow enhances readability"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Medium",
+      "score": 7,
+      "item": "Add more structure"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "Medium",
+      "score": 4,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 38.6033648568388,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 36.508412142097,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.04530201342282,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.1636103151862464,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

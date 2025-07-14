@@ -1,0 +1,118 @@
+{
+  "bookId": "generative-ai-for-official-statistics-a-strategic-5065c7dc",
+  "directory": "Generative_AI_for_Official_Statistics__A_Strategic_5065c7dc",
+  "title": "Generative AI for Official Statistics: A Strategic Roadmap for the UN Statistics Division",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:52.849Z",
+  "summary": {
+    "overallScore": 20.422802602922662,
+    "readabilityGrade": "Poor",
+    "wordCount": 38244,
+    "estimatedReadingTime": 192
+  },
+  "readabilityMetrics": {
+    "fleschScore": 6.057006507306653,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.42815066705413,
+    "fogIndex": 21.125640063152332,
+    "smogIndex": 17.789560809079795,
+    "ariIndex": 17.912791371692215,
+    "cliIndex": 19.251765505700238,
+    "avgSentenceLength": 20.181530343007914,
+    "avgSyllablesPerWord": 2.131131680786529,
+    "complexWordRatio": 0.3263256981487292
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1895,
+    "avgWordsPerSentence": 20.181530343007914,
+    "avgSyllablesPerWord": 2.131131680786529,
+    "longSentences": 421,
+    "shortSentences": 75,
+    "complexWords": 12480,
+    "passiveVoice": 238,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 413,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.2 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 24332,
+    "uniqueWords": 2973,
+    "vocabularyRichness": 0.1221847772480684,
+    "rareWords": 570,
+    "technicalTerms": 5506,
+    "jargonWords": 866,
+    "avgWordLength": 7.687654118033865,
+    "complexityScore": 0.28530330429064604
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 68,
+    "bulletPoints": 485,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 30,
+    "links": 82,
+    "emphasis": 201,
+    "paragraphs": 547,
+    "avgParagraphLength": 68.97074954296161,
+    "tableOfContents": true,
+    "summaries": 49,
+    "examples": 40,
+    "definitions": 6
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 28.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 6.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.422802602922662,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 6.057006507306653,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.181530343007914,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.28530330429064604,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

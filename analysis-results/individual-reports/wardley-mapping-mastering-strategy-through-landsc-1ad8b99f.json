@@ -1,0 +1,117 @@
+{
+  "bookId": "wardley-mapping-mastering-strategy-through-landsc-1ad8b99f",
+  "directory": "Wardley_Mapping__Mastering_Strategy_Through_Landsc_1ad8b99f",
+  "title": "Wardley Mapping: Mastering Strategy Through Landscape, Doctrine, and Gameplay",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:03.636Z",
+  "summary": {
+    "overallScore": 30.404699746807488,
+    "readabilityGrade": "Below Average",
+    "wordCount": 74091,
+    "estimatedReadingTime": 371
+  },
+  "readabilityMetrics": {
+    "fleschScore": 16.011749367018723,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 15.854516624348246,
+    "fogIndex": 20.025922124381147,
+    "smogIndex": 17.06754887189226,
+    "ariIndex": 16.382462311844954,
+    "cliIndex": 17.75025576655734,
+    "avgSentenceLength": 19.436253934942286,
+    "avgSyllablesPerWord": 2.0224048804848094,
+    "complexWordRatio": 0.3062855137601058
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3812,
+    "avgWordsPerSentence": 19.436253934942286,
+    "avgSyllablesPerWord": 2.0224048804848094,
+    "longSentences": 601,
+    "shortSentences": 152,
+    "complexWords": 22693,
+    "passiveVoice": 462,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1097,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 44605,
+    "uniqueWords": 4647,
+    "vocabularyRichness": 0.10418114561147854,
+    "rareWords": 859,
+    "technicalTerms": 9775,
+    "jargonWords": 248,
+    "avgWordLength": 7.75363748458693,
+    "complexityScore": 0.243963681201659
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 116,
+    "bulletPoints": 1112,
+    "numberedLists": 22,
+    "codeBlocks": 0,
+    "quotes": 10,
+    "links": 125,
+    "emphasis": 526,
+    "paragraphs": 1259,
+    "avgParagraphLength": 58.11834789515488,
+    "tableOfContents": true,
+    "summaries": 34,
+    "examples": 134,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 16.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 30.404699746807488,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 16.011749367018723,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.436253934942286,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.243963681201659,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

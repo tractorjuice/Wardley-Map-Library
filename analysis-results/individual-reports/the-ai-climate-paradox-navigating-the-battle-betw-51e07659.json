@@ -1,0 +1,131 @@
+{
+  "bookId": "the-ai-climate-paradox-navigating-the-battle-betw-51e07659",
+  "directory": "The_AI-Climate_Paradox__Navigating_the_Battle_Betw_51e07659",
+  "title": "The AI-Climate Paradox: Navigating the Battle Between Artificial Intelligence and Environmental Sustainability",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:00.074Z",
+  "summary": {
+    "overallScore": 3.681120878467402,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 13663,
+    "estimatedReadingTime": 69
+  },
+  "readabilityMetrics": {
+    "fleschScore": -20.797197803831494,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.31942113280392,
+    "fogIndex": 28.38451749249799,
+    "smogIndex": 23.342238801094396,
+    "ariIndex": 26.5667663123033,
+    "cliIndex": 22.717098733806626,
+    "avgSentenceLength": 32.84375,
+    "avgSyllablesPerWord": 2.296640562102027,
+    "complexWordRatio": 0.3811754373124497
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 416,
+    "avgWordsPerSentence": 32.84375,
+    "avgSyllablesPerWord": 2.296640562102027,
+    "longSentences": 185,
+    "shortSentences": 7,
+    "complexWords": 5208,
+    "passiveVoice": 47,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 153,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (44.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9027,
+    "uniqueWords": 2151,
+    "vocabularyRichness": 0.2382851445663011,
+    "rareWords": 495,
+    "technicalTerms": 2664,
+    "jargonWords": 26,
+    "avgWordLength": 8.220006646726487,
+    "complexityScore": 0.3528303976958015
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 462,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 60,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 339,
+    "avgParagraphLength": 39.67846607669617,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 35.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -20.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 3.681120878467402,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -20.797197803831494,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.84375,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3528303976958015,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

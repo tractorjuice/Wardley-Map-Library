@@ -1,0 +1,131 @@
+{
+  "bookId": "british-airways-2030-transforming-loyalty-in-the-514a98bb",
+  "directory": "British_Airways_2030__Transforming_Loyalty_in_the__514a98bb",
+  "title": "British Airways 2030: Transforming Loyalty in the Digital Age - A Strategic Framework for Future Success",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:48.630Z",
+  "summary": {
+    "overallScore": 2.1776093807579624,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 13604,
+    "estimatedReadingTime": 69
+  },
+  "readabilityMetrics": {
+    "fleschScore": -24.555976548105093,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.601576480299524,
+    "fogIndex": 29.53273218570667,
+    "smogIndex": 24.21015106888329,
+    "ariIndex": 28.93431349734945,
+    "cliIndex": 23.84509556012937,
+    "avgSentenceLength": 35.894459102902374,
+    "avgSyllablesPerWord": 2.304469273743017,
+    "complexWordRatio": 0.379373713613643
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 379,
+    "avgWordsPerSentence": 35.894459102902374,
+    "avgSyllablesPerWord": 2.304469273743017,
+    "longSentences": 193,
+    "shortSentences": 5,
+    "complexWords": 5161,
+    "passiveVoice": 35,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 136,
+    "readabilityIssues": [
+      "Sentences too long (avg: 35.9 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9154,
+    "uniqueWords": 1979,
+    "vocabularyRichness": 0.21618964387153158,
+    "rareWords": 480,
+    "technicalTerms": 2384,
+    "jargonWords": 20,
+    "avgWordLength": 8.347826086956522,
+    "complexityScore": 0.31505352851212587
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 52,
+    "bulletPoints": 512,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 66,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 359,
+    "avgParagraphLength": 37.33983286908078,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 35.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -24.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.1776093807579624,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -24.555976548105093,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 35.894459102902374,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31505352851212587,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

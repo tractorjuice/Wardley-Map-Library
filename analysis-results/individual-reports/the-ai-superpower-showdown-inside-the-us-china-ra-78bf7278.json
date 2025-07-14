@@ -1,0 +1,131 @@
+{
+  "bookId": "the-ai-superpower-showdown-inside-the-us-china-ra-78bf7278",
+  "directory": "The_AI_Superpower_Showdown__Inside_the_US-China_Ra_78bf7278",
+  "title": "The AI Superpower Showdown: Inside the US-China Race for Technological Supremacy",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:00.391Z",
+  "summary": {
+    "overallScore": 5.446127561210801,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 18405,
+    "estimatedReadingTime": 93
+  },
+  "readabilityMetrics": {
+    "fleschScore": -16.384681096972997,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.59451111245031,
+    "fogIndex": 28.005005720276564,
+    "smogIndex": 23.071919816122037,
+    "ariIndex": 25.644412542902074,
+    "cliIndex": 21.82838359141537,
+    "avgSentenceLength": 32.403169014084504,
+    "avgSyllablesPerWord": 2.249769084487911,
+    "complexWordRatio": 0.376093452866069
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 568,
+    "avgWordsPerSentence": 32.403169014084504,
+    "avgSyllablesPerWord": 2.249769084487911,
+    "longSentences": 269,
+    "shortSentences": 8,
+    "complexWords": 6922,
+    "passiveVoice": 38,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 193,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (47.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12156,
+    "uniqueWords": 2478,
+    "vocabularyRichness": 0.20384995064165845,
+    "rareWords": 555,
+    "technicalTerms": 3356,
+    "jargonWords": 14,
+    "avgWordLength": 8.135241855873643,
+    "complexityScore": 0.32288581770319186
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 592,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 84,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 444,
+    "avgParagraphLength": 40.833333333333336,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -16.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.446127561210801,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -16.384681096972997,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.403169014084504,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32288581770319186,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

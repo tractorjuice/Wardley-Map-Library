@@ -1,0 +1,130 @@
+{
+  "bookId": "wardley-mapping-for-digital-transformation-a-practical-guide-to-strategic-decision-making-c91d313b",
+  "directory": "Wardley_Mapping_for_Digital_Transformation__A_Practical_Guide_to_Strategic_Decision-Making_c91d313b",
+  "title": "Wardley Mapping for Digital Transformation: A Practical Guide to Strategic Decision-Making",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:04.329Z",
+  "summary": {
+    "overallScore": 14.803304672774198,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19731,
+    "estimatedReadingTime": 99
+  },
+  "readabilityMetrics": {
+    "fleschScore": -7.991738318064506,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.69002928870926,
+    "fogIndex": 26.264522332839377,
+    "smogIndex": 21.784675500069834,
+    "ariIndex": 23.64095801969323,
+    "cliIndex": 21.07947291064821,
+    "avgSentenceLength": 29.449253731343283,
+    "avgSyllablesPerWord": 2.186001723176727,
+    "complexWordRatio": 0.36212052100755154
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 670,
+    "avgWordsPerSentence": 29.449253731343283,
+    "avgSyllablesPerWord": 2.186001723176727,
+    "longSentences": 231,
+    "shortSentences": 9,
+    "complexWords": 7145,
+    "passiveVoice": 51,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 290,
+    "readabilityIssues": [
+      "Sentences too long (avg: 29.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12891,
+    "uniqueWords": 2413,
+    "vocabularyRichness": 0.18718485765262585,
+    "rareWords": 522,
+    "technicalTerms": 3271,
+    "jargonWords": 135,
+    "avgWordLength": 8.02668528430688,
+    "complexityScore": 0.3047087115041502
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 56,
+    "bulletPoints": 723,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 79,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 494,
+    "avgParagraphLength": 39.31578947368421,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 16,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 29.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -8.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 14.803304672774198,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -7.991738318064506,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 29.449253731343283,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3047087115041502,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

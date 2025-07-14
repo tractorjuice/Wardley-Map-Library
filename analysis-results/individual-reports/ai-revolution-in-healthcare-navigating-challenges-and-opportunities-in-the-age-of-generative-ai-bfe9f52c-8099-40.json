@@ -1,0 +1,130 @@
+{
+  "bookId": "ai-revolution-in-healthcare-navigating-challenges-and-opportunities-in-the-age-of-generative-ai-bfe9f52c-8099-40",
+  "directory": "AI_Revolution_in_Healthcare__Navigating_Challenges_and_Opportunities_in_the_Age_of_Generative_AI_bfe9f52c-8099-40",
+  "title": "AI Revolution in Healthcare: Navigating Challenges and Opportunities in the Age of Generative AI",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:46.791Z",
+  "summary": {
+    "overallScore": 16.142343708291367,
+    "readabilityGrade": "Poor",
+    "wordCount": 39088,
+    "estimatedReadingTime": 196
+  },
+  "readabilityMetrics": {
+    "fleschScore": -4.644140729271584,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 21.015838426519974,
+    "fogIndex": 25.15862202881631,
+    "smogIndex": 21.021639526781076,
+    "ariIndex": 22.630549588824316,
+    "cliIndex": 20.309550757265658,
+    "avgSentenceLength": 28.61493411420205,
+    "avgSyllablesPerWord": 2.156441874744167,
+    "complexWordRatio": 0.3428162095783872
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1366,
+    "avgWordsPerSentence": 28.61493411420205,
+    "avgSyllablesPerWord": 2.156441874744167,
+    "longSentences": 539,
+    "shortSentences": 10,
+    "complexWords": 13400,
+    "passiveVoice": 193,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 443,
+    "readabilityIssues": [
+      "Sentences too long (avg: 28.6 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 25438,
+    "uniqueWords": 3522,
+    "vocabularyRichness": 0.13845428099693372,
+    "rareWords": 759,
+    "technicalTerms": 6066,
+    "jargonWords": 83,
+    "avgWordLength": 7.91221794166208,
+    "complexityScore": 0.27156222973504207
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 60,
+    "bulletPoints": 797,
+    "numberedLists": 52,
+    "codeBlocks": 0,
+    "quotes": 36,
+    "links": 74,
+    "emphasis": 15,
+    "paragraphs": 946,
+    "avgParagraphLength": 40.92811839323467,
+    "tableOfContents": true,
+    "summaries": 34,
+    "examples": 38,
+    "definitions": 8
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 28.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 27.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -4.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 16.142343708291367,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -4.644140729271584,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 28.61493411420205,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.27156222973504207,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

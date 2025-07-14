@@ -1,0 +1,131 @@
+{
+  "bookId": "oceans-of-change-advancing-sdg-14-through-innovation-policy-and-action-6ede38b7",
+  "directory": "Oceans_of_Change__Advancing_SDG_14_Through_Innovation__Policy__and_Action_6ede38b7",
+  "title": "Oceans of Change: Advancing SDG 14 Through Innovation, Policy, and Action",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:56.065Z",
+  "summary": {
+    "overallScore": 2.0946925813982595,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 21675,
+    "estimatedReadingTime": 109
+  },
+  "readabilityMetrics": {
+    "fleschScore": -24.76326854650435,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.82275436347466,
+    "fogIndex": 29.215937104820668,
+    "smogIndex": 23.87411592486474,
+    "ariIndex": 27.266565902363773,
+    "cliIndex": 23.710457208765856,
+    "avgSentenceLength": 32.64307228915663,
+    "avgSyllablesPerWord": 2.345928489042676,
+    "complexWordRatio": 0.4039677047289504
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 664,
+    "avgWordsPerSentence": 32.64307228915663,
+    "avgSyllablesPerWord": 2.345928489042676,
+    "longSentences": 314,
+    "shortSentences": 10,
+    "complexWords": 8756,
+    "passiveVoice": 51,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 210,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.6 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (47.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 15195,
+    "uniqueWords": 2779,
+    "vocabularyRichness": 0.18288910825929583,
+    "rareWords": 645,
+    "technicalTerms": 4102,
+    "jargonWords": 59,
+    "avgWordLength": 8.273576834485027,
+    "complexityScore": 0.3162882527147088
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 64,
+    "bulletPoints": 679,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 84,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 533,
+    "avgParagraphLength": 40.21388367729831,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 17,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -24.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.0946925813982595,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -24.76326854650435,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.64307228915663,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3162882527147088,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

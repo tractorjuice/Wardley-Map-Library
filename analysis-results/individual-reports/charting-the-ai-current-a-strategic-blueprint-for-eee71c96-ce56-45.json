@@ -1,0 +1,130 @@
+{
+  "bookId": "charting-the-ai-current-a-strategic-blueprint-for-eee71c96-ce56-45",
+  "directory": "Charting_the_AI_Current__A_Strategic_Blueprint_for_eee71c96-ce56-45",
+  "title": "Charting the AI Current: A Strategic Blueprint for LLM Adoption at the UK Hydrographic Office",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:49.395Z",
+  "summary": {
+    "overallScore": 18.023242504310122,
+    "readabilityGrade": "Poor",
+    "wordCount": 170764,
+    "estimatedReadingTime": 854
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0.05810626077530401,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.32372963423342,
+    "fogIndex": 23.131834832539827,
+    "smogIndex": 19.44871746298842,
+    "ariIndex": 20.410530405587757,
+    "cliIndex": 19.965215384975753,
+    "avgSentenceLength": 24.443744632121387,
+    "avgSyllablesPerWord": 2.150904171839498,
+    "complexWordRatio": 0.33385842449228176
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 6986,
+    "avgWordsPerSentence": 24.443744632121387,
+    "avgSyllablesPerWord": 2.150904171839498,
+    "longSentences": 2783,
+    "shortSentences": 228,
+    "complexWords": 57011,
+    "passiveVoice": 994,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1825,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.4 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 112088,
+    "uniqueWords": 7794,
+    "vocabularyRichness": 0.0695346513453715,
+    "rareWords": 1470,
+    "technicalTerms": 24204,
+    "jargonWords": 2009,
+    "avgWordLength": 7.660338305617016,
+    "complexityScore": 0.24697559060737992
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 367,
+    "bulletPoints": 2641,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 111,
+    "links": 376,
+    "emphasis": 2309,
+    "paragraphs": 1930,
+    "avgParagraphLength": 87.4580310880829,
+    "tableOfContents": true,
+    "summaries": 79,
+    "examples": 191,
+    "definitions": 10
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 0.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.023242504310122,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 0.05810626077530401,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.443744632121387,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24697559060737992,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

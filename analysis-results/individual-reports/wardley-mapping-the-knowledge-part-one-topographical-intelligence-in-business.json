@@ -1,0 +1,89 @@
+{
+  "bookId": "wardley-mapping-the-knowledge-part-one-topographical-intelligence-in-business",
+  "directory": "Wardley_Mapping_eBoK_May_2024_v1_8",
+  "title": "Wardley Mapping, The Knowledge: Part One, Topographical intelligence in business",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T18:36:18.920Z",
+  "summary": {
+    "overallScore": 50.99100952402176,
+    "readabilityGrade": "Average",
+    "wordCount": 142534,
+    "estimatedReadingTime": 713
+  },
+  "readabilityMetrics": {
+    "fleschScore": 52.47752381005441,
+    "fleschGrade": "Fairly Difficult",
+    "fleschKincaidGrade": 10.583624769507974,
+    "fogIndex": 14.024964500756449,
+    "smogIndex": 13.122217540046265,
+    "ariIndex": 10.478123413982097,
+    "cliIndex": 10.782631512481228,
+    "avgSentenceLength": 18.692983606557377,
+    "avgSyllablesPerWord": 1.600284844317847,
+    "complexWordRatio": 0.16369427645333745
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 7625,
+    "avgWordsPerSentence": 18.692983606557377,
+    "avgSyllablesPerWord": 1.600284844317847,
+    "longSentences": 1691,
+    "shortSentences": 966,
+    "complexWords": 23332,
+    "passiveVoice": 923,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 2866,
+    "readabilityIssues": []
+  },
+  "vocabularyComplexity": {
+    "totalWords": 77306,
+    "uniqueWords": 8329,
+    "vocabularyRichness": 0.10774066695987375,
+    "rareWords": 1346,
+    "technicalTerms": 7685,
+    "jargonWords": 240,
+    "avgWordLength": 6.404625772902492,
+    "complexityScore": 0.11992600833053062
+  },
+  "structurePatterns": {
+    "headers": 20,
+    "subheaders": 213,
+    "bulletPoints": 184,
+    "numberedLists": 25,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 233,
+    "emphasis": 966,
+    "paragraphs": 2475,
+    "avgParagraphLength": 56.81090909090909,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 138,
+    "definitions": 19
+  },
+  "recommendations": [],
+  "improvementPriorities": [],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 50.99100952402176,
+      "referenceBenchmark": 50.99,
+      "comparison": "Reference Standard",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 52.47752381005441,
+      "referenceBenchmark": 52.48,
+      "comparison": "Reference Standard"
+    },
+    "sentenceLength": {
+      "bookScore": 18.692983606557377,
+      "referenceBenchmark": 18.69,
+      "comparison": "Reference Standard"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.11992600833053062,
+      "referenceBenchmark": 0.12,
+      "comparison": "Reference Standard"
+    }
+  }
+}

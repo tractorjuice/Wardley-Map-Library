@@ -1,0 +1,131 @@
+{
+  "bookId": "supply-chain-innovation-in-oligopolistic-markets-cf77dcfe",
+  "directory": "Supply_Chain_Innovation_in_Oligopolistic_Markets___cf77dcfe",
+  "title": "Supply Chain Innovation in Oligopolistic Markets: Building Competitive Advantage Through Network Dynamics",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:59.594Z",
+  "summary": {
+    "overallScore": 1.2347082417752624,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 14220,
+    "estimatedReadingTime": 72
+  },
+  "readabilityMetrics": {
+    "fleschScore": -26.913229395561842,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.650453990557057,
+    "fogIndex": 29.33606374162222,
+    "smogIndex": 24.049577734287208,
+    "ariIndex": 28.275658439334386,
+    "cliIndex": 23.69941209563994,
+    "avgSentenceLength": 34.76772616136919,
+    "avgSyllablesPerWord": 2.3458509142053448,
+    "complexWordRatio": 0.38572433192686356
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 409,
+    "avgWordsPerSentence": 34.76772616136919,
+    "avgSyllablesPerWord": 2.3458509142053448,
+    "longSentences": 198,
+    "shortSentences": 7,
+    "complexWords": 5485,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 197,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9542,
+    "uniqueWords": 2033,
+    "vocabularyRichness": 0.21305805910710543,
+    "rareWords": 479,
+    "technicalTerms": 2856,
+    "jargonWords": 16,
+    "avgWordLength": 8.371934604904633,
+    "complexityScore": 0.35118423810521904
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 509,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 61,
+    "links": 57,
+    "emphasis": 17,
+    "paragraphs": 353,
+    "avgParagraphLength": 39.77053824362606,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 35.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -26.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.2347082417752624,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -26.913229395561842,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.76772616136919,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.35118423810521904,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

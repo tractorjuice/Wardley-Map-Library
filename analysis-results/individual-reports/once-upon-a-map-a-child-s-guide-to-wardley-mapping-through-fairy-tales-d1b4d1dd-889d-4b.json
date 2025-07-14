@@ -1,0 +1,129 @@
+{
+  "bookId": "once-upon-a-map-a-child-s-guide-to-wardley-mapping-through-fairy-tales-d1b4d1dd-889d-4b",
+  "directory": "Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b",
+  "title": "Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:56.124Z",
+  "summary": {
+    "overallScore": 36.37395484624058,
+    "readabilityGrade": "Below Average",
+    "wordCount": 13211,
+    "estimatedReadingTime": 67
+  },
+  "readabilityMetrics": {
+    "fleschScore": 30.93488711560144,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 14.900939339858812,
+    "fogIndex": 17.58087371781284,
+    "smogIndex": 15.631368783578527,
+    "ariIndex": 16.477642370564816,
+    "cliIndex": 15.323478919082579,
+    "avgSentenceLength": 23.976406533575318,
+    "avgSyllablesPerWord": 1.7915373552342744,
+    "complexWordRatio": 0.19975777760956778
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 551,
+    "avgWordsPerSentence": 23.976406533575318,
+    "avgSyllablesPerWord": 1.7915373552342744,
+    "longSentences": 144,
+    "shortSentences": 11,
+    "complexWords": 2639,
+    "passiveVoice": 65,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 149,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.0 words)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 5718,
+    "uniqueWords": 1427,
+    "vocabularyRichness": 0.24956278419027633,
+    "rareWords": 223,
+    "technicalTerms": 528,
+    "jargonWords": 139,
+    "avgWordLength": 6.230325288562434,
+    "complexityScore": 0.15564882826162993
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 64,
+    "bulletPoints": 342,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 132,
+    "links": 160,
+    "emphasis": 15,
+    "paragraphs": 448,
+    "avgParagraphLength": 28.216517857142858,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 9,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 24.0 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "Medium",
+      "issue": "Vocabulary complexity score: 15.6%",
+      "recommendation": "Consider simplifying some technical terms where context allows.",
+      "impact": "Medium - Simpler vocabulary improves accessibility"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 30.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "High",
+      "score": 5,
+      "item": "Simplify vocabulary"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 36.37395484624058,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 30.93488711560144,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 23.976406533575318,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.15564882826162993,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

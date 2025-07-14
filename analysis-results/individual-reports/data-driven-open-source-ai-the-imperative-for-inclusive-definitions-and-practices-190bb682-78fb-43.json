@@ -1,0 +1,130 @@
+{
+  "bookId": "data-driven-open-source-ai-the-imperative-for-inclusive-definitions-and-practices-190bb682-78fb-43",
+  "directory": "Data-Driven_Open_Source_AI__The_Imperative_for_Inclusive_Definitions_and_Practices_190bb682-78fb-43",
+  "title": "Data-Inclusive Open Source AI: Building a Fair and Collaborative Future",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:50.309Z",
+  "summary": {
+    "overallScore": 20.916323130305386,
+    "readabilityGrade": "Poor",
+    "wordCount": 35974,
+    "estimatedReadingTime": 180
+  },
+  "readabilityMetrics": {
+    "fleschScore": 7.290807825763466,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.648817334622198,
+    "fogIndex": 22.22706184653871,
+    "smogIndex": 18.960283557735334,
+    "ariIndex": 19.413083993557272,
+    "cliIndex": 17.944137432590207,
+    "avgSentenceLength": 25.787813620071685,
+    "avgSyllablesPerWord": 2.049285595152054,
+    "complexWordRatio": 0.29779840996275087
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1395,
+    "avgWordsPerSentence": 25.787813620071685,
+    "avgSyllablesPerWord": 2.049285595152054,
+    "longSentences": 520,
+    "shortSentences": 14,
+    "complexWords": 10713,
+    "passiveVoice": 170,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 493,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.8 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 19679,
+    "uniqueWords": 2776,
+    "vocabularyRichness": 0.1410640784592713,
+    "rareWords": 581,
+    "technicalTerms": 3883,
+    "jargonWords": 115,
+    "avgWordLength": 7.370344021545811,
+    "complexityScore": 0.23268458763148533
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 58,
+    "bulletPoints": 468,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 200,
+    "links": 194,
+    "emphasis": 55,
+    "paragraphs": 771,
+    "avgParagraphLength": 46.02204928664073,
+    "tableOfContents": true,
+    "summaries": 31,
+    "examples": 24,
+    "definitions": 97
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 7.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.916323130305386,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 7.290807825763466,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.787813620071685,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23268458763148533,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

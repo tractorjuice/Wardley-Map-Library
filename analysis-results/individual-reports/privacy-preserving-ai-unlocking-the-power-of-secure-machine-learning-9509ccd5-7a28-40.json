@@ -1,0 +1,130 @@
+{
+  "bookId": "privacy-preserving-ai-unlocking-the-power-of-secure-machine-learning-9509ccd5-7a28-40",
+  "directory": "Privacy-Preserving_AI__Unlocking_the_Power_of_Secure_Machine_Learning_9509ccd5-7a28-40",
+  "title": "Privacy-Preserving AI: Unlocking the Power of Secure Machine Learning",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:56.709Z",
+  "summary": {
+    "overallScore": 16.706015254756345,
+    "readabilityGrade": "Poor",
+    "wordCount": 51564,
+    "estimatedReadingTime": 258
+  },
+  "readabilityMetrics": {
+    "fleschScore": -3.2349618631091346,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.860291670032343,
+    "fogIndex": 23.855793640038026,
+    "smogIndex": 19.916820896669226,
+    "ariIndex": 21.201993039109674,
+    "cliIndex": 20.77440617485067,
+    "avgSentenceLength": 24.754680748919828,
+    "avgSyllablesPerWord": 2.1860988286401364,
+    "complexWordRatio": 0.34884803351175236
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2083,
+    "avgWordsPerSentence": 24.754680748919828,
+    "avgSyllablesPerWord": 2.1860988286401364,
+    "longSentences": 711,
+    "shortSentences": 14,
+    "complexWords": 17988,
+    "passiveVoice": 252,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 657,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.8 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 34325,
+    "uniqueWords": 3817,
+    "vocabularyRichness": 0.11120174799708667,
+    "rareWords": 762,
+    "technicalTerms": 7816,
+    "jargonWords": 93,
+    "avgWordLength": 7.980480699198835,
+    "complexityScore": 0.2526147123088128
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 84,
+    "bulletPoints": 915,
+    "numberedLists": 79,
+    "codeBlocks": 0,
+    "quotes": 40,
+    "links": 98,
+    "emphasis": 15,
+    "paragraphs": 1219,
+    "avgParagraphLength": 41.905660377358494,
+    "tableOfContents": true,
+    "summaries": 48,
+    "examples": 114,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -3.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 16.706015254756345,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -3.2349618631091346,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.754680748919828,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2526147123088128,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

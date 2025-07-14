@@ -1,0 +1,130 @@
+{
+  "bookId": "wardley-mapping-a-practical-guide-to-strategy-in-2abb5f9d-549d-4e",
+  "directory": "Wardley_Mapping__A_Practical_Guide_to_Strategy_in_2abb5f9d-549d-4e",
+  "title": "Wardley Mapping: A Practical Guide to Strategy in a Digital Age",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:03.440Z",
+  "summary": {
+    "overallScore": 24.470378787665926,
+    "readabilityGrade": "Poor",
+    "wordCount": 51698,
+    "estimatedReadingTime": 259
+  },
+  "readabilityMetrics": {
+    "fleschScore": 16.175946969164812,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.089532575211177,
+    "fogIndex": 20.420816260774206,
+    "smogIndex": 17.423064796651794,
+    "ariIndex": 16.65770607783437,
+    "cliIndex": 17.523046152655805,
+    "avgSentenceLength": 20.474455445544553,
+    "avgSyllablesPerWord": 2.008008046732949,
+    "complexWordRatio": 0.3057758520639096
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2525,
+    "avgWordsPerSentence": 20.474455445544553,
+    "avgSyllablesPerWord": 2.008008046732949,
+    "longSentences": 491,
+    "shortSentences": 34,
+    "complexWords": 15808,
+    "passiveVoice": 465,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 796,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.5 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 30744,
+    "uniqueWords": 3131,
+    "vocabularyRichness": 0.10184100962789487,
+    "rareWords": 551,
+    "technicalTerms": 6675,
+    "jargonWords": 438,
+    "avgWordLength": 7.713374967473328,
+    "complexityScore": 0.24928441321883946
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 91,
+    "bulletPoints": 524,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 62,
+    "links": 100,
+    "emphasis": 114,
+    "paragraphs": 788,
+    "avgParagraphLength": 64.7258883248731,
+    "tableOfContents": true,
+    "summaries": 57,
+    "examples": 56,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.4% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 16.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 24.470378787665926,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 16.175946969164812,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.474455445544553,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24928441321883946,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

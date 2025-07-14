@@ -1,0 +1,142 @@
+{
+  "bookId": "building-ip-futures-the-lego-wardley-mapping-manual-for-intellectual-property-horizons-5ccc5f17-f453-4f",
+  "directory": "Building_IP_Futures__The_LEGO_Wardley_Mapping_Manual_for_Intellectual_Property_Horizons_5ccc5f17-f453-4f",
+  "title": "Building IP Futures: The LEGO Wardley Mapping Manual for Intellectual Property Horizons",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:48.732Z",
+  "summary": {
+    "overallScore": 19.452588708460336,
+    "readabilityGrade": "Poor",
+    "wordCount": 37573,
+    "estimatedReadingTime": 188
+  },
+  "readabilityMetrics": {
+    "fleschScore": 3.631471771150842,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.439185216865706,
+    "fogIndex": 23.199298900623404,
+    "smogIndex": 19.652714562256218,
+    "ariIndex": 20.879309131328455,
+    "cliIndex": 19.11920261890187,
+    "avgSentenceLength": 26.914756446991404,
+    "avgSyllablesPerWord": 2.0790195086897505,
+    "complexWordRatio": 0.3108349080456711
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1396,
+    "avgWordsPerSentence": 26.914756446991404,
+    "avgSyllablesPerWord": 2.0790195086897505,
+    "longSentences": 523,
+    "shortSentences": 14,
+    "complexWords": 11679,
+    "passiveVoice": 221,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 417,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.9 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 21530,
+    "uniqueWords": 2721,
+    "vocabularyRichness": 0.12638179284718998,
+    "rareWords": 542,
+    "technicalTerms": 4537,
+    "jargonWords": 468,
+    "avgWordLength": 7.465908035299582,
+    "complexityScore": 0.2576405016256386
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 84,
+    "bulletPoints": 667,
+    "numberedLists": 51,
+    "codeBlocks": 0,
+    "quotes": 222,
+    "links": 205,
+    "emphasis": 15,
+    "paragraphs": 1057,
+    "avgParagraphLength": 35.01324503311258,
+    "tableOfContents": true,
+    "summaries": 28,
+    "examples": 64,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 3.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 19.452588708460336,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 3.631471771150842,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 26.914756446991404,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2576405016256386,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

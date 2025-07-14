@@ -1,0 +1,131 @@
+{
+  "bookId": "windows-11-migration-mastery-a-strategic-guide-to-enterprise-transformation-b74b18f6-96e9-45",
+  "directory": "Windows_11_Migration_Mastery__A_Strategic_Guide_to_Enterprise_Transformation_b74b18f6-96e9-45",
+  "title": "Windows 11 Migration Mastery: A Strategic Guide to Enterprise Transformation",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:04.712Z",
+  "summary": {
+    "overallScore": 2.1016766813619014,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 23641,
+    "estimatedReadingTime": 119
+  },
+  "readabilityMetrics": {
+    "fleschScore": -24.745808296595243,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.74518372779882,
+    "fogIndex": 28.65470693607659,
+    "smogIndex": 23.494554384435958,
+    "ariIndex": 27.010817577290858,
+    "cliIndex": 23.57148513176261,
+    "avgSentenceLength": 32.3406292749658,
+    "avgSyllablesPerWord": 2.349350704284929,
+    "complexWordRatio": 0.39296138065225666
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 731,
+    "avgWordsPerSentence": 32.3406292749658,
+    "avgSyllablesPerWord": 2.349350704284929,
+    "longSentences": 334,
+    "shortSentences": 6,
+    "complexWords": 9290,
+    "passiveVoice": 45,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 262,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.3 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (45.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 14885,
+    "uniqueWords": 2449,
+    "vocabularyRichness": 0.16452804837084314,
+    "rareWords": 516,
+    "technicalTerms": 4129,
+    "jargonWords": 140,
+    "avgWordLength": 8.26126973463218,
+    "complexityScore": 0.32146456163923415
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 54,
+    "bulletPoints": 886,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 204,
+    "links": 188,
+    "emphasis": 55,
+    "paragraphs": 714,
+    "avgParagraphLength": 32.50840336134454,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 6,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.3 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -24.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.1016766813619014,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -24.745808296595243,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.3406292749658,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32146456163923415,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

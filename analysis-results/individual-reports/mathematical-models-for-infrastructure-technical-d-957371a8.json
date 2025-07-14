@@ -1,0 +1,131 @@
+{
+  "bookId": "mathematical-models-for-infrastructure-technical-d-957371a8",
+  "directory": "Mathematical_Models_for_Infrastructure_Technical_D_957371a8",
+  "title": "Mathematical Models for Infrastructure Technical Debt: An AI-Integrated Approach",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:18:55.647Z",
+  "summary": {
+    "overallScore": 2.1696906197881276,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19702,
+    "estimatedReadingTime": 99
+  },
+  "readabilityMetrics": {
+    "fleschScore": -24.57577345052968,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.096991984695673,
+    "fogIndex": 29.689507824663078,
+    "smogIndex": 24.2482403707632,
+    "ariIndex": 27.575371736467872,
+    "cliIndex": 23.373598619429497,
+    "avgSentenceLength": 33.85223367697594,
+    "avgSyllablesPerWord": 2.3292051568368692,
+    "complexWordRatio": 0.4037153588468176
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 582,
+    "avgWordsPerSentence": 33.85223367697594,
+    "avgSyllablesPerWord": 2.3292051568368692,
+    "longSentences": 283,
+    "shortSentences": 9,
+    "complexWords": 7954,
+    "passiveVoice": 63,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 221,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.9 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.6%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13460,
+    "uniqueWords": 2374,
+    "vocabularyRichness": 0.17637444279346212,
+    "rareWords": 495,
+    "technicalTerms": 3868,
+    "jargonWords": 36,
+    "avgWordLength": 8.275705794947994,
+    "complexityScore": 0.32682020802377415
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 63,
+    "bulletPoints": 649,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 90,
+    "links": 72,
+    "emphasis": 21,
+    "paragraphs": 489,
+    "avgParagraphLength": 39.99795501022495,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -24.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.1696906197881276,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -24.57577345052968,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.85223367697594,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32682020802377415,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

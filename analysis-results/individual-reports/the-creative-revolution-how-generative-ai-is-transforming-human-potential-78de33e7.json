@@ -1,0 +1,131 @@
+{
+  "bookId": "the-creative-revolution-how-generative-ai-is-transforming-human-potential-78de33e7",
+  "directory": "The_Creative_Revolution__How_Generative_AI_is_Transforming_Human_Potential_78de33e7",
+  "title": "The Creative Revolution: How Generative AI is Transforming Human Potential",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:01.590Z",
+  "summary": {
+    "overallScore": 6.938692830129105,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19989,
+    "estimatedReadingTime": 100
+  },
+  "readabilityMetrics": {
+    "fleschScore": -12.653267924677237,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.398275726185663,
+    "fogIndex": 27.75515474489047,
+    "smogIndex": 22.940869035355895,
+    "ariIndex": 25.85757893063782,
+    "cliIndex": 21.315225373955673,
+    "avgSentenceLength": 33.70826306913997,
+    "avgSyllablesPerWord": 2.190004502476362,
+    "complexWordRatio": 0.35679623793086196
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 593,
+    "avgWordsPerSentence": 33.70826306913997,
+    "avgSyllablesPerWord": 2.190004502476362,
+    "longSentences": 299,
+    "shortSentences": 6,
+    "complexWords": 7132,
+    "passiveVoice": 61,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 291,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (50.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13056,
+    "uniqueWords": 2393,
+    "vocabularyRichness": 0.1832873774509804,
+    "rareWords": 536,
+    "technicalTerms": 3483,
+    "jargonWords": 173,
+    "avgWordLength": 8.063495710784315,
+    "complexityScore": 0.32107843137254904
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 563,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 79,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 499,
+    "avgParagraphLength": 39.517034068136276,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -12.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 6.938692830129105,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -12.653267924677237,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.70826306913997,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32107843137254904,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

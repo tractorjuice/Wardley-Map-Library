@@ -1,0 +1,142 @@
+{
+  "bookId": "harnessing-generative-ai-a-strategic-approach-for-19aa41de",
+  "directory": "Harnessing_Generative_AI__A_Strategic_Approach_for_19aa41de",
+  "title": "Harnessing Generative AI: A Strategic Approach for the UK Home Office",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:53.328Z",
+  "summary": {
+    "overallScore": 17.878187197113164,
+    "readabilityGrade": "Poor",
+    "wordCount": 8955,
+    "estimatedReadingTime": 45
+  },
+  "readabilityMetrics": {
+    "fleschScore": -0.30453200721709095,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.90320236195816,
+    "fogIndex": 23.721207421876944,
+    "smogIndex": 19.97669424839217,
+    "ariIndex": 20.798524352723064,
+    "cliIndex": 19.217706309324402,
+    "avgSentenceLength": 26.572700296735906,
+    "avgSyllablesPerWord": 2.1296482412060302,
+    "complexWordRatio": 0.3273031825795645
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 337,
+    "avgWordsPerSentence": 26.572700296735906,
+    "avgSyllablesPerWord": 2.1296482412060302,
+    "longSentences": 120,
+    "shortSentences": 6,
+    "complexWords": 2931,
+    "passiveVoice": 70,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 116,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 5153,
+    "uniqueWords": 1200,
+    "vocabularyRichness": 0.23287405394915583,
+    "rareWords": 247,
+    "technicalTerms": 1109,
+    "jargonWords": 138,
+    "avgWordLength": 7.656510770424995,
+    "complexityScore": 0.289928197166699
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 49,
+    "bulletPoints": 260,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 29,
+    "links": 58,
+    "emphasis": 15,
+    "paragraphs": 239,
+    "avgParagraphLength": 36.61924686192469,
+    "tableOfContents": true,
+    "summaries": 9,
+    "examples": 12,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "20.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -0.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 17.878187197113164,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -0.30453200721709095,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 26.572700296735906,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.289928197166699,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

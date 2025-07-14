@@ -1,0 +1,131 @@
+{
+  "bookId": "open-source-ai-as-a-competitive-advantage-strateg-9a0ae605",
+  "directory": "Open_Source_AI_as_a_Competitive_Advantage__Strateg_9a0ae605",
+  "title": "Open Source AI as a Competitive Advantage: Strategic Implementation for Business Success",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:56.276Z",
+  "summary": {
+    "overallScore": 2.845487153404667,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16983,
+    "estimatedReadingTime": 85
+  },
+  "readabilityMetrics": {
+    "fleschScore": -22.88628211648833,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.390169989281407,
+    "fogIndex": 30.142240395929335,
+    "smogIndex": 24.63163177298676,
+    "ariIndex": 28.113000989523925,
+    "cliIndex": 22.76776776776777,
+    "avgSentenceLength": 35.980932203389834,
+    "avgSyllablesPerWord": 2.283695460166048,
+    "complexWordRatio": 0.3937466878643349
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 472,
+    "avgWordsPerSentence": 35.980932203389834,
+    "avgSyllablesPerWord": 2.283695460166048,
+    "longSentences": 237,
+    "shortSentences": 5,
+    "complexWords": 6687,
+    "passiveVoice": 28,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 214,
+    "readabilityIssues": [
+      "Sentences too long (avg: 36.0 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.2%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11549,
+    "uniqueWords": 2130,
+    "vocabularyRichness": 0.1844315525153693,
+    "rareWords": 484,
+    "technicalTerms": 3185,
+    "jargonWords": 48,
+    "avgWordLength": 8.120356740843363,
+    "complexityScore": 0.3218460472768205
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 56,
+    "bulletPoints": 627,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 76,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 429,
+    "avgParagraphLength": 39.06293706293706,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 9,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 36.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -22.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.845487153404667,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -22.88628211648833,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 35.980932203389834,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3218460472768205,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

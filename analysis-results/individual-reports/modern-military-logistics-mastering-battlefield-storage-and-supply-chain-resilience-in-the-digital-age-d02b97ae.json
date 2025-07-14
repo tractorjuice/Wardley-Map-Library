@@ -1,0 +1,130 @@
+{
+  "bookId": "modern-military-logistics-mastering-battlefield-storage-and-supply-chain-resilience-in-the-digital-age-d02b97ae",
+  "directory": "Modern_Military_Logistics__Mastering_Battlefield_Storage_and_Supply_Chain_Resilience_in_the_Digital_Age_d02b97ae",
+  "title": "Modern Military Logistics: Mastering Battlefield Storage and Supply Chain Resilience in the Digital Age",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:55.860Z",
+  "summary": {
+    "overallScore": 5.673117148341122,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16625,
+    "estimatedReadingTime": 84
+  },
+  "readabilityMetrics": {
+    "fleschScore": -30.817207129147192,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.48498908692076,
+    "fogIndex": 29.899554644769314,
+    "smogIndex": 24.250711919926218,
+    "ariIndex": 27.42746706536014,
+    "cliIndex": 24.348208120300743,
+    "avgSentenceLength": 31.90978886756238,
+    "avgSyllablesPerWord": 2.426285714285714,
+    "complexWordRatio": 0.42839097744360904
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 521,
+    "avgWordsPerSentence": 31.90978886756238,
+    "avgSyllablesPerWord": 2.426285714285714,
+    "longSentences": 205,
+    "shortSentences": 6,
+    "complexWords": 7122,
+    "passiveVoice": 50,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 149,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.9 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11511,
+    "uniqueWords": 2032,
+    "vocabularyRichness": 0.17652680045174182,
+    "rareWords": 469,
+    "technicalTerms": 2958,
+    "jargonWords": 17,
+    "avgWordLength": 8.480583789418818,
+    "complexityScore": 0.2991920771436018
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 53,
+    "bulletPoints": 609,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 72,
+    "links": 62,
+    "emphasis": 15,
+    "paragraphs": 419,
+    "avgParagraphLength": 39.22673031026253,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -30.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.673117148341122,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -30.817207129147192,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.90978886756238,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2991920771436018,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Individual Readability Report - Wardley Map Library</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        
+        .breadcrumb {
+            background-color: #34495e;
+            color: white;
+            padding: 0.5rem 0;
+        }
+        
+        .breadcrumb-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            font-size: 0.9rem;
+        }
+        
+        .breadcrumb a {
+            color: #ecf0f1;
+            text-decoration: none;
+        }
+        
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+        
+        .error {
+            background-color: #e74c3c;
+            color: white;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-bottom: 1rem;
+        }
+        
+        .book-header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .book-title {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+        
+        .book-meta {
+            display: flex;
+            gap: 2rem;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .readability-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .grade-excellent { background-color: #27ae60; color: white; }
+        .grade-good { background-color: #2ecc71; color: white; }
+        .grade-average { background-color: #f39c12; color: white; }
+        .grade-below-average { background-color: #e67e22; color: white; }
+        .grade-poor { background-color: #e74c3c; color: white; }
+        .grade-very-poor { background-color: #c0392b; color: white; }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            border-left: 4px solid #3498db;
+        }
+        
+        .stat-card.excellent { border-left-color: #27ae60; }
+        .stat-card.good { border-left-color: #2ecc71; }
+        .stat-card.average { border-left-color: #f39c12; }
+        .stat-card.poor { border-left-color: #e74c3c; }
+        .stat-card.very-poor { border-left-color: #c0392b; }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .section {
+            background: white;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .section-header {
+            background-color: #34495e;
+            color: white;
+            padding: 1rem 1.5rem;
+            margin: 0;
+            font-size: 1.2rem;
+        }
+        
+        .section-content {
+            padding: 1.5rem;
+        }
+        
+        .recommendations-list {
+            display: grid;
+            gap: 1rem;
+        }
+        
+        .recommendation {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .recommendation.high-priority {
+            border-left-color: #e74c3c;
+        }
+        
+        .recommendation.medium-priority {
+            border-left-color: #f39c12;
+        }
+        
+        .recommendation-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        
+        .recommendation-category {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .priority-badge {
+            padding: 0.25rem 0.5rem;
+            border-radius: 12px;
+            font-size: 0.7rem;
+            font-weight: bold;
+            color: white;
+        }
+        
+        .priority-high { background-color: #e74c3c; }
+        .priority-medium { background-color: #f39c12; }
+        .priority-low { background-color: #95a5a6; }
+        
+        .recommendation-issue {
+            color: #e74c3c;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+        
+        .recommendation-text {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .recommendation-impact {
+            color: #27ae60;
+            font-style: italic;
+            font-size: 0.9rem;
+        }
+        
+        .benchmark-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        
+        .benchmark-item {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .benchmark-item.above-average { border-left-color: #27ae60; }
+        .benchmark-item.below-average { border-left-color: #e74c3c; }
+        .benchmark-item.better { border-left-color: #27ae60; }
+        .benchmark-item.worse { border-left-color: #e74c3c; }
+        
+        .benchmark-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .benchmark-scores {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+        
+        .benchmark-comparison {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .priorities-list {
+            display: grid;
+            gap: 0.5rem;
+        }
+        
+        .priority-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.75rem;
+            background: #f8f9fa;
+            border-radius: 6px;
+        }
+        
+        .priority-number {
+            background: #3498db;
+            color: white;
+            width: 2rem;
+            height: 2rem;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        
+        .priority-critical .priority-number { background: #e74c3c; }
+        .priority-high .priority-number { background: #f39c12; }
+        .priority-medium .priority-number { background: #95a5a6; }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .nav {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .book-meta {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .stats-grid {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header role="banner">
+        <div class="header-content">
+            <div class="header-text">
+                <h1>Wardley Map Library</h1>
+                <p>Comprehensive digital library of Wardley Mapping resources and strategic analysis reports</p>
+            </div>
+            <nav class="header-nav">
+                <a href="/" class="nav-link" title="Return to main library">
+                    📚 Library
+                </a>
+                <a href="/word-analysis.html" class="nav-link" title="View comprehensive word analysis across all books">
+                    📊 Word Analysis
+                </a>
+                <a href="/readability-analysis.html" class="nav-link" title="View comprehensive readability analysis across all books">
+                    📖 Readability
+                </a>
+            </nav>
+        </div>
+    </header>
+    
+    <div class="breadcrumb">
+        <div class="breadcrumb-content">
+            <a href="/">Home</a> > <a href="/readability-analysis.html">Readability Analysis</a> > <span id="breadcrumbTitle">Individual Report</span>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="loading" class="loading">
+            <p>Loading readability report...</p>
+        </div>
+
+        <div id="error" class="error" style="display: none;">
+            <p>Error loading report. Please try again later.</p>
+        </div>
+
+        <div id="content" style="display: none;">
+            <!-- Book Header -->
+            <div class="book-header">
+                <h1 class="book-title" id="bookTitle"></h1>
+                <div class="readability-badge" id="readabilityBadge"></div>
+                <div class="book-meta">
+                    <span id="bookCategory"></span>
+                    <span id="wordCount"></span>
+                    <span id="readingTime"></span>
+                </div>
+            </div>
+
+            <!-- Overview Stats -->
+            <div class="stats-grid" id="statsGrid">
+                <!-- Stats will be populated by JavaScript -->
+            </div>
+
+            <!-- Recommendations -->
+            <div class="section">
+                <h2 class="section-header">🎯 Readability Recommendations</h2>
+                <div class="section-content">
+                    <div class="recommendations-list" id="recommendationsList">
+                        <!-- Recommendations will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Improvement Priorities -->
+            <div class="section">
+                <h2 class="section-header">📋 Improvement Priorities</h2>
+                <div class="section-content">
+                    <div class="priorities-list" id="prioritiesList">
+                        <!-- Priorities will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Benchmarks -->
+            <div class="section">
+                <h2 class="section-header">📊 Library Comparison</h2>
+                <div class="section-content">
+                    <div class="benchmark-grid" id="benchmarkGrid">
+                        <!-- Benchmarks will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Detailed Metrics -->
+            <div class="section">
+                <h2 class="section-header">📈 Detailed Metrics</h2>
+                <div class="section-content">
+                    <div id="detailedMetrics">
+                        <!-- Detailed metrics will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="footer">
+            <p>Individual readability report generated from comprehensive analysis</p>
+        </div>
+    </div>
+
+    <script>
+        let reportData = null;
+        let bookId = null;
+
+        // Get book ID from URL parameter
+        function getBookIdFromUrl() {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get('book');
+        }
+
+        async function loadReport() {
+            try {
+                bookId = getBookIdFromUrl();
+                
+                if (!bookId) {
+                    throw new Error('No book ID specified in URL');
+                }
+
+                const response = await fetch(`/api/readability-reports/${bookId}`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                reportData = await response.json();
+                displayReport();
+                
+            } catch (error) {
+                console.error('Error loading report:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        function displayReport() {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+            
+            // Update page title and breadcrumb
+            document.title = `${reportData.title} - Readability Report`;
+            document.getElementById('breadcrumbTitle').textContent = reportData.title;
+            
+            populateHeader();
+            populateStats();
+            populateRecommendations();
+            populatePriorities();
+            populateBenchmarks();
+            populateDetailedMetrics();
+        }
+
+        function populateHeader() {
+            document.getElementById('bookTitle').textContent = reportData.title;
+            document.getElementById('bookCategory').textContent = `Category: ${reportData.category}`;
+            document.getElementById('wordCount').textContent = `${reportData.summary.wordCount.toLocaleString()} words`;
+            document.getElementById('readingTime').textContent = `${reportData.summary.estimatedReadingTime} min read`;
+            
+            const badge = document.getElementById('readabilityBadge');
+            badge.textContent = `${reportData.summary.readabilityGrade} (${reportData.summary.overallScore.toFixed(1)})`;
+            badge.className = `readability-badge grade-${reportData.summary.readabilityGrade.toLowerCase().replace(' ', '-')}`;
+        }
+
+        function populateStats() {
+            const statsGrid = document.getElementById('statsGrid');
+            const metrics = reportData.readabilityMetrics;
+            
+            statsGrid.innerHTML = `
+                <div class="stat-card ${getScoreClass(reportData.summary.overallScore)}">
+                    <div class="stat-number">${reportData.summary.overallScore.toFixed(1)}</div>
+                    <div class="stat-label">Overall Score</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.fleschScore)}" title="0-100 scale: 90+ Very Easy, 80-89 Easy, 70-79 Fairly Easy, 60-69 Standard, 50-59 Fairly Difficult, 30-49 Difficult, <30 Graduate">
+                    <div class="stat-number">${metrics.fleschScore.toFixed(1)}</div>
+                    <div class="stat-label">Flesch Reading Ease</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.fleschKincaidGrade, true)}" title="Years of education needed: 8th grade = 8, High school = 12, College = 16, Graduate = 20+">
+                    <div class="stat-number">${metrics.fleschKincaidGrade.toFixed(1)}</div>
+                    <div class="stat-label">Flesch-Kincaid Grade Level</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.fogIndex, true)}" title="Years of formal education required. Above 12 is considered difficult for general audience">
+                    <div class="stat-number">${metrics.fogIndex.toFixed(1)}</div>
+                    <div class="stat-label">Gunning Fog Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.smogIndex, true)}" title="Simple Measure of Gobbledygook - estimates grade level based on complex words (3+ syllables)">
+                    <div class="stat-number">${metrics.smogIndex.toFixed(1)}</div>
+                    <div class="stat-label">SMOG Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.ariIndex, true)}" title="Character-based metric using average characters per word and sentence length">
+                    <div class="stat-number">${metrics.ariIndex.toFixed(1)}</div>
+                    <div class="stat-label">Automated Readability Index</div>
+                </div>
+                <div class="stat-card ${getScoreClass(metrics.cliIndex, true)}" title="Character-based assessment using characters per 100 words and sentences per 100 words">
+                    <div class="stat-number">${metrics.cliIndex.toFixed(1)}</div>
+                    <div class="stat-label">Coleman-Liau Index</div>
+                </div>
+                <div class="stat-card ${getSentenceLengthClass(metrics.avgSentenceLength)}">
+                    <div class="stat-number">${metrics.avgSentenceLength.toFixed(1)}</div>
+                    <div class="stat-label">Avg Sentence Length</div>
+                </div>
+                <div class="stat-card ${getComplexityClass(reportData.vocabularyComplexity.complexityScore)}">
+                    <div class="stat-number">${(reportData.vocabularyComplexity.complexityScore * 100).toFixed(1)}%</div>
+                    <div class="stat-label">Vocabulary Complexity</div>
+                </div>
+            `;
+        }
+
+        function populateRecommendations() {
+            const recommendationsList = document.getElementById('recommendationsList');
+            const recommendations = reportData.recommendations || [];
+            
+            if (recommendations.length === 0) {
+                recommendationsList.innerHTML = '<p>No specific recommendations - this book has good readability!</p>';
+                return;
+            }
+            
+            recommendationsList.innerHTML = recommendations.map(rec => `
+                <div class="recommendation ${rec.priority.toLowerCase()}-priority">
+                    <div class="recommendation-header">
+                        <span class="recommendation-category">${rec.category}</span>
+                        <span class="priority-badge priority-${rec.priority.toLowerCase()}">${rec.priority}</span>
+                    </div>
+                    <div class="recommendation-issue">${rec.issue}</div>
+                    <div class="recommendation-text">${rec.recommendation}</div>
+                    <div class="recommendation-impact">${rec.impact}</div>
+                </div>
+            `).join('');
+        }
+
+        function populatePriorities() {
+            const prioritiesList = document.getElementById('prioritiesList');
+            const priorities = reportData.improvementPriorities || [];
+            
+            if (priorities.length === 0) {
+                prioritiesList.innerHTML = '<p>No major improvement priorities identified!</p>';
+                return;
+            }
+            
+            prioritiesList.innerHTML = priorities.map((priority, index) => `
+                <div class="priority-item priority-${priority.priority.toLowerCase()}">
+                    <div class="priority-number">${index + 1}</div>
+                    <div>
+                        <strong>${priority.item}</strong>
+                        <div style="color: #666; font-size: 0.9rem;">${priority.priority} Priority</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function populateBenchmarks() {
+            const benchmarkGrid = document.getElementById('benchmarkGrid');
+            const benchmarks = reportData.benchmarks || {};
+            
+            benchmarkGrid.innerHTML = Object.entries(benchmarks).map(([key, benchmark]) => `
+                <div class="benchmark-item ${benchmark.comparison.toLowerCase().replace(' ', '-')}">
+                    <div class="benchmark-title">${formatBenchmarkTitle(key)}</div>
+                    <div class="benchmark-scores">
+                        <span>Book: ${benchmark.bookScore.toFixed(1)}</span>
+                        <span>Reference: ${benchmark.referenceBenchmark.toFixed(1)}</span>
+                    </div>
+                    <div class="benchmark-comparison">${benchmark.comparison}</div>
+                </div>
+            `).join('');
+        }
+
+        function populateDetailedMetrics() {
+            const detailedMetrics = document.getElementById('detailedMetrics');
+            const sentence = reportData.sentenceAnalysis || {};
+            const structure = reportData.structurePatterns || {};
+            
+            detailedMetrics.innerHTML = `
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+                    <div>
+                        <h4>Sentence Analysis</h4>
+                        <ul>
+                            <li>Total sentences: ${sentence.totalSentences || 0}</li>
+                            <li>Long sentences: ${sentence.longSentences || 0}</li>
+                            <li>Complex words: ${sentence.complexWords || 0}</li>
+                            <li>Passive voice: ${sentence.passiveVoice || 0}</li>
+                            <li>Questions: ${sentence.questions || 0}</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Structure Analysis</h4>
+                        <ul>
+                            <li>Headers: ${structure.headers || 0}</li>
+                            <li>Subheaders: ${structure.subheaders || 0}</li>
+                            <li>Bullet points: ${structure.bulletPoints || 0}</li>
+                            <li>Paragraphs: ${structure.paragraphs || 0}</li>
+                            <li>Avg paragraph length: ${(structure.avgParagraphLength || 0).toFixed(1)} words</li>
+                        </ul>
+                    </div>
+                </div>
+            `;
+        }
+
+        function getScoreClass(score, isGradeLevel = false) {
+            if (isGradeLevel) {
+                // For grade level metrics, lower is better
+                if (score <= 8) return 'excellent';
+                if (score <= 12) return 'good';
+                if (score <= 16) return 'average';
+                if (score <= 20) return 'poor';
+                return 'very-poor';
+            } else {
+                // For Flesch Reading Ease, higher is better
+                if (score >= 90) return 'excellent';
+                if (score >= 70) return 'good';
+                if (score >= 50) return 'average';
+                if (score >= 30) return 'poor';
+                return 'very-poor';
+            }
+        }
+
+        function getSentenceLengthClass(length) {
+            if (length <= 15) return 'excellent';
+            if (length <= 18) return 'good';
+            if (length <= 22) return 'average';
+            if (length <= 25) return 'poor';
+            return 'very-poor';
+        }
+
+        function getComplexityClass(complexity) {
+            if (complexity <= 0.1) return 'excellent';
+            if (complexity <= 0.15) return 'good';
+            if (complexity <= 0.2) return 'average';
+            if (complexity <= 0.3) return 'poor';
+            return 'very-poor';
+        }
+
+        function formatBenchmarkTitle(key) {
+            return key.replace(/([A-Z])/g, ' $1')
+                     .replace(/^./, str => str.toUpperCase())
+                     .replace('Score', 'Score');
+        }
+
+        // Load report when page loads
+        document.addEventListener('DOMContentLoaded', loadReport);
+    </script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+{
+  "bookId": "strategic-transformation-wardley-mapping-for-uk-home-office-reform-42e77d0d",
+  "directory": "Strategic_Transformation__Wardley_Mapping_for_UK_Home_Office_Reform_42e77d0d",
+  "title": "Strategic Transformation: Wardley Mapping for UK Home Office Reform",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.504Z",
+  "summary": {
+    "overallScore": 4.0315278700192145,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 21931,
+    "estimatedReadingTime": 110
+  },
+  "readabilityMetrics": {
+    "fleschScore": -19.921180324951962,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.497980568502395,
+    "fogIndex": 29.07383889788725,
+    "smogIndex": 23.84934926407058,
+    "ariIndex": 27.047929920521476,
+    "cliIndex": 22.594165336737955,
+    "avgSentenceLength": 34.05434782608695,
+    "avgSyllablesPerWord": 2.2717614335871597,
+    "complexWordRatio": 0.38630249418631163
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 644,
+    "avgWordsPerSentence": 34.05434782608695,
+    "avgSyllablesPerWord": 2.2717614335871597,
+    "longSentences": 293,
+    "shortSentences": 5,
+    "complexWords": 8472,
+    "passiveVoice": 33,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 334,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.1 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (45.5%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 14526,
+    "uniqueWords": 2290,
+    "vocabularyRichness": 0.157648354674377,
+    "rareWords": 502,
+    "technicalTerms": 3948,
+    "jargonWords": 143,
+    "avgWordLength": 8.28259672311717,
+    "complexityScore": 0.31619165634035523
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 64,
+    "bulletPoints": 779,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 532,
+    "avgParagraphLength": 40.61278195488722,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 11,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -19.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 4.0315278700192145,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -19.921180324951962,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.05434782608695,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31619165634035523,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

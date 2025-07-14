@@ -1,0 +1,143 @@
+{
+  "bookId": "harnessing-the-power-of-genai-a-strategic-guide-for-government-leaders-to-build-effective-ai-teams-and-drive-innovation-c405fe94-279d-48",
+  "directory": "Harnessing_the_Power_of_GenAI__A_Strategic_Guide_for_Government_Leaders_to_Build_Effective_AI_Teams_and_Drive_Innovation_c405fe94-279d-48",
+  "title": "Harnessing the Power of GenAI: A Strategic Guide for Government Leaders to Build Effective AI Teams and Drive Innovation",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:53.406Z",
+  "summary": {
+    "overallScore": 12.656616547444504,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 29262,
+    "estimatedReadingTime": 147
+  },
+  "readabilityMetrics": {
+    "fleschScore": 1.6415413686112572,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.888380330984997,
+    "fogIndex": 23.893060405471456,
+    "smogIndex": 20.142026646667986,
+    "ariIndex": 21.48012155632329,
+    "cliIndex": 19.465521153714715,
+    "avgSentenceLength": 27.60566037735849,
+    "avgSyllablesPerWord": 2.0942519308317955,
+    "complexWordRatio": 0.3212699063632014
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1060,
+    "avgWordsPerSentence": 27.60566037735849,
+    "avgSyllablesPerWord": 2.0942519308317955,
+    "longSentences": 476,
+    "shortSentences": 9,
+    "complexWords": 9401,
+    "passiveVoice": 267,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 316,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)",
+      "Too many long sentences (44.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 18362,
+    "uniqueWords": 2711,
+    "vocabularyRichness": 0.14764186907744253,
+    "rareWords": 499,
+    "technicalTerms": 3710,
+    "jargonWords": 683,
+    "avgWordLength": 7.742947391351705,
+    "complexityScore": 0.2664197799803943
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 67,
+    "bulletPoints": 370,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 46,
+    "links": 81,
+    "emphasis": 15,
+    "paragraphs": 516,
+    "avgParagraphLength": 56.07751937984496,
+    "tableOfContents": true,
+    "summaries": 24,
+    "examples": 52,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 26.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "High",
+      "issue": "25.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "High - Active voice improves clarity and engagement"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 1.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 6,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12.656616547444504,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 1.6415413686112572,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 27.60566037735849,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2664197799803943,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

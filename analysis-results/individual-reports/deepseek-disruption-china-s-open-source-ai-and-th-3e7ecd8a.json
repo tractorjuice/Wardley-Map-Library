@@ -1,0 +1,130 @@
+{
+  "bookId": "deepseek-disruption-china-s-open-source-ai-and-th-3e7ecd8a",
+  "directory": "DeepSeek_Disruption__China_s_Open-Source_AI_and_th_3e7ecd8a",
+  "title": "DeepSeek Disruption: China's Open-Source AI and the Remaking of Global Power",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:50.636Z",
+  "summary": {
+    "overallScore": 21.485193303500342,
+    "readabilityGrade": "Poor",
+    "wordCount": 33328,
+    "estimatedReadingTime": 167
+  },
+  "readabilityMetrics": {
+    "fleschScore": 8.712983258750853,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.10183180170159,
+    "fogIndex": 21.193365408838048,
+    "smogIndex": 17.852065353579007,
+    "ariIndex": 17.55693929825351,
+    "cliIndex": 18.709417906865095,
+    "avgSentenceLength": 20.359193646915088,
+    "avgSyllablesPerWord": 2.097605616898704,
+    "complexWordRatio": 0.32624219875180027
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1637,
+    "avgWordsPerSentence": 20.359193646915088,
+    "avgSyllablesPerWord": 2.097605616898704,
+    "longSentences": 322,
+    "shortSentences": 41,
+    "complexWords": 10873,
+    "passiveVoice": 258,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 414,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.4 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 20898,
+    "uniqueWords": 3093,
+    "vocabularyRichness": 0.14800459374102784,
+    "rareWords": 587,
+    "technicalTerms": 4477,
+    "jargonWords": 45,
+    "avgWordLength": 7.650492870131113,
+    "complexityScore": 0.2444731553258685
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 61,
+    "bulletPoints": 358,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 28,
+    "links": 70,
+    "emphasis": 74,
+    "paragraphs": 500,
+    "avgParagraphLength": 65.888,
+    "tableOfContents": true,
+    "summaries": 32,
+    "examples": 42,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 8.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.485193303500342,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 8.712983258750853,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.359193646915088,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2444731553258685,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

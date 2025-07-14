@@ -1,0 +1,130 @@
+{
+  "bookId": "the-algorithmic-consumer-how-ai-agents-are-rewrit-08335ae6",
+  "directory": "The_Algorithmic_Consumer__How_AI_Agents_are_Rewrit_08335ae6",
+  "title": "The Algorithmic Consumer: How AI Agents are Rewriting the Rules of Brand Loyalty and Market Dominance",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:01.052Z",
+  "summary": {
+    "overallScore": 23.62381810336176,
+    "readabilityGrade": "Poor",
+    "wordCount": 69189,
+    "estimatedReadingTime": 346
+  },
+  "readabilityMetrics": {
+    "fleschScore": 14.059545258404398,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.306599894688993,
+    "fogIndex": 20.332988312039173,
+    "smogIndex": 17.334859284025065,
+    "ariIndex": 16.705418930785207,
+    "cliIndex": 17.756364740059833,
+    "avgSentenceLength": 20.159965034965033,
+    "avgSyllablesPerWord": 2.0367977568688667,
+    "complexWordRatio": 0.30672505745132894
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3432,
+    "avgWordsPerSentence": 20.159965034965033,
+    "avgSyllablesPerWord": 2.0367977568688667,
+    "longSentences": 662,
+    "shortSentences": 98,
+    "complexWords": 21222,
+    "passiveVoice": 589,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1139,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.2 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 42979,
+    "uniqueWords": 4348,
+    "vocabularyRichness": 0.10116568556737011,
+    "rareWords": 789,
+    "technicalTerms": 8070,
+    "jargonWords": 112,
+    "avgWordLength": 7.547825682309965,
+    "complexityScore": 0.20872984480792944
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 99,
+    "bulletPoints": 688,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 50,
+    "links": 108,
+    "emphasis": 315,
+    "paragraphs": 984,
+    "avgParagraphLength": 69.65752032520325,
+    "tableOfContents": true,
+    "summaries": 51,
+    "examples": 166,
+    "definitions": 12
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 20.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 14.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 23.62381810336176,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 14.059545258404398,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.159965034965033,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.20872984480792944,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

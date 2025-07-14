@@ -1,0 +1,142 @@
+{
+  "bookId": "jevons-and-genai-navigating-economic-theories-in-e75ac76f",
+  "directory": "Jevons_and_GenAI__Navigating_Economic_Theories_in__e75ac76f",
+  "title": "Jevons and GenAI: Navigating Economic Theories in the Age of Artificial Intelligence",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:53.592Z",
+  "summary": {
+    "overallScore": 16.375888299517282,
+    "readabilityGrade": "Poor",
+    "wordCount": 12651,
+    "estimatedReadingTime": 64
+  },
+  "readabilityMetrics": {
+    "fleschScore": -4.060279251206794,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.952088913295814,
+    "fogIndex": 23.33678025591209,
+    "smogIndex": 19.593352591351145,
+    "ariIndex": 20.480966624925287,
+    "cliIndex": 19.928309224567226,
+    "avgSentenceLength": 24.660818713450293,
+    "avgSyllablesPerWord": 2.1969804758517113,
+    "complexWordRatio": 0.3368113192632993
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 513,
+    "avgWordsPerSentence": 24.660818713450293,
+    "avgSyllablesPerWord": 2.1969804758517113,
+    "longSentences": 169,
+    "shortSentences": 5,
+    "complexWords": 4261,
+    "passiveVoice": 83,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 189,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7504,
+    "uniqueWords": 1588,
+    "vocabularyRichness": 0.21162046908315565,
+    "rareWords": 332,
+    "technicalTerms": 1844,
+    "jargonWords": 106,
+    "avgWordLength": 7.892990405117271,
+    "complexityScore": 0.3041044776119403
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 62,
+    "bulletPoints": 332,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 39,
+    "links": 71,
+    "emphasis": 15,
+    "paragraphs": 327,
+    "avgParagraphLength": 37.91131498470948,
+    "tableOfContents": true,
+    "summaries": 12,
+    "examples": 25,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.2% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -4.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 16.375888299517282,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -4.060279251206794,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.660818713450293,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3041044776119403,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

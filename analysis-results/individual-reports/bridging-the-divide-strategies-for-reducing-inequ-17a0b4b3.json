@@ -1,0 +1,142 @@
+{
+  "bookId": "bridging-the-divide-strategies-for-reducing-inequ-17a0b4b3",
+  "directory": "Bridging_the_Divide__Strategies_for_Reducing_Inequ_17a0b4b3",
+  "title": "Bridging the Divide: Strategies for Reducing Inequality Within and Among Countries",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:48.558Z",
+  "summary": {
+    "overallScore": 18.394367808753124,
+    "readabilityGrade": "Poor",
+    "wordCount": 15800,
+    "estimatedReadingTime": 79
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0.9859195218828063,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.87717795760793,
+    "fogIndex": 22.861798878948736,
+    "smogIndex": 19.159335082603096,
+    "ariIndex": 19.487636573369464,
+    "cliIndex": 19.543192405063284,
+    "avgSentenceLength": 23.167155425219942,
+    "avgSyllablesPerWord": 2.155253164556962,
+    "complexWordRatio": 0.33987341772151897
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 682,
+    "avgWordsPerSentence": 23.167155425219942,
+    "avgSyllablesPerWord": 2.155253164556962,
+    "longSentences": 159,
+    "shortSentences": 8,
+    "complexWords": 5370,
+    "passiveVoice": 126,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 272,
+    "readabilityIssues": [
+      "Sentences too long (avg: 23.2 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9544,
+    "uniqueWords": 1955,
+    "vocabularyRichness": 0.20484073763621125,
+    "rareWords": 407,
+    "technicalTerms": 1811,
+    "jargonWords": 15,
+    "avgWordLength": 7.9080050293378035,
+    "complexityScore": 0.23396898575020955
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 76,
+    "bulletPoints": 407,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 44,
+    "links": 85,
+    "emphasis": 15,
+    "paragraphs": 415,
+    "avgParagraphLength": 37.28433734939759,
+    "tableOfContents": true,
+    "summaries": 19,
+    "examples": 33,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 23.2 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "18.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 1.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.394367808753124,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 0.9859195218828063,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 23.167155425219942,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23396898575020955,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

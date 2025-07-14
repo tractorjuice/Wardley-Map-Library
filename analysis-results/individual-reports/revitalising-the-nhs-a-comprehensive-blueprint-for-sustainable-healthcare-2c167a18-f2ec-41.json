@@ -1,0 +1,130 @@
+{
+  "bookId": "revitalising-the-nhs-a-comprehensive-blueprint-for-sustainable-healthcare-2c167a18-f2ec-41",
+  "directory": "Revitalising_the_NHS__A_Comprehensive_Blueprint_for_Sustainable_Healthcare_2c167a18-f2ec-41",
+  "title": "Revitalising the NHS: A Comprehensive Blueprint for Sustainable Healthcare",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:57.072Z",
+  "summary": {
+    "overallScore": 20.601373267604448,
+    "readabilityGrade": "Poor",
+    "wordCount": 50639,
+    "estimatedReadingTime": 254
+  },
+  "readabilityMetrics": {
+    "fleschScore": 6.503433169011117,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.56771229838787,
+    "fogIndex": 22.398157558263108,
+    "smogIndex": 19.032712561301913,
+    "ariIndex": 20.415682295090875,
+    "cliIndex": 19.640258298939553,
+    "avgSentenceLength": 25.01926877470356,
+    "avgSyllablesPerWord": 2.0678133454452103,
+    "complexWordRatio": 0.30976125120954207
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2024,
+    "avgWordsPerSentence": 25.01926877470356,
+    "avgSyllablesPerWord": 2.0678133454452103,
+    "longSentences": 647,
+    "shortSentences": 12,
+    "complexWords": 15686,
+    "passiveVoice": 285,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 618,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 28247,
+    "uniqueWords": 3626,
+    "vocabularyRichness": 0.1283676142599214,
+    "rareWords": 754,
+    "technicalTerms": 5635,
+    "jargonWords": 160,
+    "avgWordLength": 7.831557333522144,
+    "complexityScore": 0.23184762983679683
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 80,
+    "bulletPoints": 720,
+    "numberedLists": 31,
+    "codeBlocks": 0,
+    "quotes": 293,
+    "links": 267,
+    "emphasis": 72,
+    "paragraphs": 1192,
+    "avgParagraphLength": 41.93708053691275,
+    "tableOfContents": true,
+    "summaries": 38,
+    "examples": 25,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 6.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.601373267604448,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 6.503433169011117,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.01926877470356,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23184762983679683,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

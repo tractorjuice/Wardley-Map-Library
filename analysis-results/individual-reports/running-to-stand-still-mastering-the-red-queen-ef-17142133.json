@@ -1,0 +1,131 @@
+{
+  "bookId": "running-to-stand-still-mastering-the-red-queen-ef-17142133",
+  "directory": "Running_to_Stand_Still__Mastering_the_Red_Queen_Ef_17142133",
+  "title": "Running to Stand Still: Mastering the Red Queen Effect in the AI Revolution",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:57.357Z",
+  "summary": {
+    "overallScore": 5.035109337901655,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 15229,
+    "estimatedReadingTime": 77
+  },
+  "readabilityMetrics": {
+    "fleschScore": -17.41222665524586,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.11405864529066,
+    "fogIndex": 28.262684325898558,
+    "smogIndex": 23.295195090588873,
+    "ariIndex": 26.1606529974973,
+    "cliIndex": 21.568339352551053,
+    "avgSentenceLength": 33.91759465478842,
+    "avgSyllablesPerWord": 2.2437454855867096,
+    "complexWordRatio": 0.36739116159957974
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 449,
+    "avgWordsPerSentence": 33.91759465478842,
+    "avgSyllablesPerWord": 2.2437454855867096,
+    "longSentences": 215,
+    "shortSentences": 5,
+    "complexWords": 5595,
+    "passiveVoice": 32,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 198,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.9 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (47.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9822,
+    "uniqueWords": 2071,
+    "vocabularyRichness": 0.21085318672368153,
+    "rareWords": 482,
+    "technicalTerms": 2844,
+    "jargonWords": 16,
+    "avgWordLength": 8.09427815108939,
+    "complexityScore": 0.34025656689065364
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 519,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 61,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 369,
+    "avgParagraphLength": 40.696476964769644,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 6,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -17.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.035109337901655,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -17.41222665524586,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.91759465478842,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34025656689065364,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

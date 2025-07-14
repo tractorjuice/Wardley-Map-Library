@@ -1,0 +1,131 @@
+{
+  "bookId": "the-bullshit-asymmetry-why-lies-spread-fast-and-t-d95c927f",
+  "directory": "The_Bullshit_Asymmetry__Why_Lies_Spread_Fast_and_T_d95c927f",
+  "title": "The Bullshit Asymmetry: Why Lies Spread Fast and Truth Comes Last",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:01.529Z",
+  "summary": {
+    "overallScore": 7.059377912541652,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 12916,
+    "estimatedReadingTime": 65
+  },
+  "readabilityMetrics": {
+    "fleschScore": -12.35155521864587,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.064474414410338,
+    "fogIndex": 27.26259551155188,
+    "smogIndex": 22.577138206995475,
+    "ariIndex": 25.621571270827268,
+    "cliIndex": 21.721873645091367,
+    "avgSentenceLength": 32.53400503778337,
+    "avgSyllablesPerWord": 2.200526478786002,
+    "complexWordRatio": 0.35622483741096317
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 397,
+    "avgWordsPerSentence": 32.53400503778337,
+    "avgSyllablesPerWord": 2.200526478786002,
+    "longSentences": 184,
+    "shortSentences": 9,
+    "complexWords": 4601,
+    "passiveVoice": 35,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 194,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.5 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (46.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 8355,
+    "uniqueWords": 2326,
+    "vocabularyRichness": 0.2783961699581089,
+    "rareWords": 549,
+    "technicalTerms": 1987,
+    "jargonWords": 16,
+    "avgWordLength": 8.080430879712747,
+    "complexityScore": 0.30544584081388393
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 44,
+    "bulletPoints": 471,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 55,
+    "links": 53,
+    "emphasis": 15,
+    "paragraphs": 325,
+    "avgParagraphLength": 39.15692307692308,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 4,
+    "definitions": 7
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -12.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 7.059377912541652,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -12.35155521864587,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.53400503778337,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.30544584081388393,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

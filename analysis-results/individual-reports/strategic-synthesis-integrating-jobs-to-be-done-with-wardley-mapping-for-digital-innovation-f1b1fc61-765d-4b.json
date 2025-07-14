@@ -1,0 +1,131 @@
+{
+  "bookId": "strategic-synthesis-integrating-jobs-to-be-done-with-wardley-mapping-for-digital-innovation-f1b1fc61-765d-4b",
+  "directory": "Strategic_Synthesis__Integrating_Jobs-to-be-Done_with_Wardley_Mapping_for_Digital_Innovation_f1b1fc61-765d-4b",
+  "title": "Strategic Synthesis: Integrating Jobs-to-be-Done with Wardley Mapping for Digital Innovation",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.387Z",
+  "summary": {
+    "overallScore": 6.878911350900659,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16576,
+    "estimatedReadingTime": 83
+  },
+  "readabilityMetrics": {
+    "fleschScore": -12.80272162274835,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.056606626429105,
+    "fogIndex": 27.12258386791461,
+    "smogIndex": 22.474086992783757,
+    "ariIndex": 25.68799576153419,
+    "cliIndex": 21.974642857142857,
+    "avgSentenceLength": 32.249027237354085,
+    "avgSyllablesPerWord": 2.209278474903475,
+    "complexWordRatio": 0.35557432432432434
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 514,
+    "avgWordsPerSentence": 32.249027237354085,
+    "avgSyllablesPerWord": 2.209278474903475,
+    "longSentences": 230,
+    "shortSentences": 10,
+    "complexWords": 5894,
+    "passiveVoice": 77,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 249,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.2 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (44.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9726,
+    "uniqueWords": 1863,
+    "vocabularyRichness": 0.19154842689697718,
+    "rareWords": 406,
+    "technicalTerms": 2578,
+    "jargonWords": 207,
+    "avgWordLength": 7.966687230104873,
+    "complexityScore": 0.3280896565905819
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 40,
+    "bulletPoints": 509,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 157,
+    "links": 150,
+    "emphasis": 47,
+    "paragraphs": 524,
+    "avgParagraphLength": 31.040076335877863,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 16,
+    "definitions": 9
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.2 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -12.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 6.878911350900659,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -12.80272162274835,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.249027237354085,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3280896565905819,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

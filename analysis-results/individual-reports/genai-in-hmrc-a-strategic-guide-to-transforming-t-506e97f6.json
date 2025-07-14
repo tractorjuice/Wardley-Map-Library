@@ -1,0 +1,117 @@
+{
+  "bookId": "genai-in-hmrc-a-strategic-guide-to-transforming-t-506e97f6",
+  "directory": "GenAI_in_HMRC__A_Strategic_Guide_to_Transforming_T_506e97f6",
+  "title": "GenAI in HMRC: A Strategic Guide to Transforming Tax Administration",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:52.685Z",
+  "summary": {
+    "overallScore": 30.6725160806047,
+    "readabilityGrade": "Below Average",
+    "wordCount": 44461,
+    "estimatedReadingTime": 223
+  },
+  "readabilityMetrics": {
+    "fleschScore": 16.681290201511757,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 15.737037591404988,
+    "fogIndex": 19.52312036885008,
+    "smogIndex": 16.76689781836104,
+    "ariIndex": 16.224100636497248,
+    "cliIndex": 17.605451969141495,
+    "avgSentenceLength": 19.33927794693345,
+    "avgSyllablesPerWord": 2.0156541688221137,
+    "complexWordRatio": 0.2946852297519174
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2299,
+    "avgWordsPerSentence": 19.33927794693345,
+    "avgSyllablesPerWord": 2.0156541688221137,
+    "longSentences": 467,
+    "shortSentences": 119,
+    "complexWords": 13102,
+    "passiveVoice": 325,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 593,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 27920,
+    "uniqueWords": 3273,
+    "vocabularyRichness": 0.11722779369627508,
+    "rareWords": 618,
+    "technicalTerms": 5230,
+    "jargonWords": 957,
+    "avgWordLength": 7.42045128939828,
+    "complexityScore": 0.2437320916905444
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 81,
+    "bulletPoints": 678,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 10,
+    "links": 90,
+    "emphasis": 333,
+    "paragraphs": 592,
+    "avgParagraphLength": 73.71114864864865,
+    "tableOfContents": true,
+    "summaries": 51,
+    "examples": 43,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 16.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 30.6725160806047,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 30
+    },
+    "fleschScore": {
+      "bookScore": 16.681290201511757,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.33927794693345,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2437320916905444,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

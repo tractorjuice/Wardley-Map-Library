@@ -1,0 +1,131 @@
+{
+  "bookId": "the-modern-ciso-s-guide-to-identity-and-access-man-17559242",
+  "directory": "The_Modern_CISO_s_Guide_to_Identity_and_Access_Man_17559242",
+  "title": "The Modern CISO's Guide to Identity and Access Management: Architecting Security for the Digital Enterprise",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:01.804Z",
+  "summary": {
+    "overallScore": 0.8620271904662093,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 14293,
+    "estimatedReadingTime": 72
+  },
+  "readabilityMetrics": {
+    "fleschScore": -27.844932023834474,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.59737262496127,
+    "fogIndex": 29.846901346979706,
+    "smogIndex": 24.360162232022212,
+    "ariIndex": 27.570834757606953,
+    "cliIndex": 23.26096970545021,
+    "avgSentenceLength": 34.03095238095238,
+    "avgSyllablesPerWord": 2.365703491219478,
+    "complexWordRatio": 0.40586300986496887
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 420,
+    "avgWordsPerSentence": 34.03095238095238,
+    "avgSyllablesPerWord": 2.365703491219478,
+    "longSentences": 196,
+    "shortSentences": 8,
+    "complexWords": 5801,
+    "passiveVoice": 27,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 174,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.0 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (46.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9584,
+    "uniqueWords": 1981,
+    "vocabularyRichness": 0.20669866444073456,
+    "rareWords": 455,
+    "technicalTerms": 2635,
+    "jargonWords": 42,
+    "avgWordLength": 8.293614357262104,
+    "complexityScore": 0.32679465776293826
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 584,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 60,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 371,
+    "avgParagraphLength": 37.92991913746631,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 6,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -27.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 0.8620271904662093,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -27.844932023834474,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.03095238095238,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32679465776293826,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

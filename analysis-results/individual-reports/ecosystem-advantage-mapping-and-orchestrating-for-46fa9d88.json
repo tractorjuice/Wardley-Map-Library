@@ -1,0 +1,130 @@
+{
+  "bookId": "ecosystem-advantage-mapping-and-orchestrating-for-46fa9d88",
+  "directory": "Ecosystem_Advantage__Mapping_and_Orchestrating_for_46fa9d88",
+  "title": "Ecosystem Advantage: Mapping and Orchestrating for Strategic Dominance",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:51.196Z",
+  "summary": {
+    "overallScore": 21.50214893202618,
+    "readabilityGrade": "Poor",
+    "wordCount": 63769,
+    "estimatedReadingTime": 319
+  },
+  "readabilityMetrics": {
+    "fleschScore": 8.755372330065455,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.37752729791701,
+    "fogIndex": 21.326797696668297,
+    "smogIndex": 18.069767151917556,
+    "ariIndex": 18.2802658485871,
+    "cliIndex": 18.98153209239599,
+    "avgSentenceLength": 21.492753623188406,
+    "avgSyllablesPerWord": 2.083504524141824,
+    "complexWordRatio": 0.31824240618482336
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2967,
+    "avgWordsPerSentence": 21.492753623188406,
+    "avgSyllablesPerWord": 2.083504524141824,
+    "longSentences": 705,
+    "shortSentences": 67,
+    "complexWords": 20294,
+    "passiveVoice": 463,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 906,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.5 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 38812,
+    "uniqueWords": 3394,
+    "vocabularyRichness": 0.08744718128413892,
+    "rareWords": 580,
+    "technicalTerms": 8261,
+    "jargonWords": 361,
+    "avgWordLength": 7.865144800577141,
+    "complexityScore": 0.23709162114809854
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 123,
+    "bulletPoints": 585,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 68,
+    "links": 132,
+    "emphasis": 32,
+    "paragraphs": 941,
+    "avgParagraphLength": 67.04250797024442,
+    "tableOfContents": true,
+    "summaries": 71,
+    "examples": 118,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.6% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 8.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.50214893202618,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 8.755372330065455,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.492753623188406,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23709162114809854,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

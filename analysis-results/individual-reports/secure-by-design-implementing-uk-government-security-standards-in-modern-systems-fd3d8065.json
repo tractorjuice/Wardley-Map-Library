@@ -1,0 +1,143 @@
+{
+  "bookId": "secure-by-design-implementing-uk-government-security-standards-in-modern-systems-fd3d8065",
+  "directory": "Secure_by_Design__Implementing_UK_Government_Security_Standards_in_Modern_Systems_fd3d8065",
+  "title": "Secure by Design: Implementing UK Government Security Standards in Modern Systems",
+  "category": "Government",
+  "generatedAt": "2025-07-14T19:18:57.536Z",
+  "summary": {
+    "overallScore": 1.8191566598710658,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 24498,
+    "estimatedReadingTime": 123
+  },
+  "readabilityMetrics": {
+    "fleschScore": -25.452108350322334,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.381196013701608,
+    "fogIndex": 30.06750775860979,
+    "smogIndex": 24.527880804417176,
+    "ariIndex": 27.582601287371553,
+    "cliIndex": 22.992170789452206,
+    "avgSentenceLength": 34.50422535211268,
+    "avgSyllablesPerWord": 2.331741366642175,
+    "complexWordRatio": 0.4066454404441179
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 710,
+    "avgWordsPerSentence": 34.50422535211268,
+    "avgSyllablesPerWord": 2.331741366642175,
+    "longSentences": 328,
+    "shortSentences": 7,
+    "complexWords": 9962,
+    "passiveVoice": 178,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 296,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.5 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (46.2%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 16625,
+    "uniqueWords": 2601,
+    "vocabularyRichness": 0.15645112781954887,
+    "rareWords": 557,
+    "technicalTerms": 4376,
+    "jargonWords": 91,
+    "avgWordLength": 8.367037593984962,
+    "complexityScore": 0.3021954887218045
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 63,
+    "bulletPoints": 939,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 96,
+    "links": 72,
+    "emphasis": 15,
+    "paragraphs": 619,
+    "avgParagraphLength": 39.01453957996769,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "High",
+      "issue": "25.1% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "High - Active voice improves clarity and engagement"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -25.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 6,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.8191566598710658,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -25.452108350322334,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.50422535211268,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3021954887218045,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

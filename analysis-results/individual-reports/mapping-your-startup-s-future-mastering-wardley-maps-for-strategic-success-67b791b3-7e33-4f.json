@@ -1,0 +1,142 @@
+{
+  "bookId": "mapping-your-startup-s-future-mastering-wardley-maps-for-strategic-success-67b791b3-7e33-4f",
+  "directory": "Mapping_Your_Startup_s_Future__Mastering_Wardley_Maps_for_Strategic_Success_67b791b3-7e33-4f",
+  "title": "Mapping Your Startup's Future: Mastering Wardley Maps for Strategic Success",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.548Z",
+  "summary": {
+    "overallScore": 22.242033919207596,
+    "readabilityGrade": "Poor",
+    "wordCount": 48227,
+    "estimatedReadingTime": 242
+  },
+  "readabilityMetrics": {
+    "fleschScore": 10.605084798018993,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.749702582111762,
+    "fogIndex": 21.503023073626782,
+    "smogIndex": 18.39774128766212,
+    "ariIndex": 19.21884602431726,
+    "cliIndex": 18.715264063698758,
+    "avgSentenceLength": 24.029397110114598,
+    "avgSyllablesPerWord": 2.0312065855226327,
+    "complexWordRatio": 0.2972816057395235
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2007,
+    "avgWordsPerSentence": 24.029397110114598,
+    "avgSyllablesPerWord": 2.0312065855226327,
+    "longSentences": 604,
+    "shortSentences": 33,
+    "complexWords": 14337,
+    "passiveVoice": 356,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 662,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.0 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 27141,
+    "uniqueWords": 3329,
+    "vocabularyRichness": 0.12265576065730813,
+    "rareWords": 622,
+    "technicalTerms": 5428,
+    "jargonWords": 827,
+    "avgWordLength": 7.6028517740687525,
+    "complexityScore": 0.25338049445488375
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 66,
+    "bulletPoints": 747,
+    "numberedLists": 58,
+    "codeBlocks": 0,
+    "quotes": 319,
+    "links": 222,
+    "emphasis": 15,
+    "paragraphs": 1292,
+    "avgParagraphLength": 36.889318885448915,
+    "tableOfContents": true,
+    "summaries": 42,
+    "examples": 50,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 24.0 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.7% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 10.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 22.242033919207596,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 10.605084798018993,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.029397110114598,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.25338049445488375,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

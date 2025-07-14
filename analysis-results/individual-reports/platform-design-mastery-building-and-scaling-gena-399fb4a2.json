@@ -1,0 +1,131 @@
+{
+  "bookId": "platform-design-mastery-building-and-scaling-gena-399fb4a2",
+  "directory": "Platform_Design_Mastery__Building_and_Scaling_GenA_399fb4a2",
+  "title": "Platform Design Mastery: Building and Scaling GenAI Ecosystems",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:56.455Z",
+  "summary": {
+    "overallScore": 4.412007791236373,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17393,
+    "estimatedReadingTime": 87
+  },
+  "readabilityMetrics": {
+    "fleschScore": -18.969980521909065,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.529820992752608,
+    "fogIndex": 28.690283389984245,
+    "smogIndex": 23.60617058981142,
+    "ariIndex": 27.323047993589093,
+    "cliIndex": 22.540845167596157,
+    "avgSentenceLength": 34.71656686626746,
+    "avgSyllablesPerWord": 2.252572874144771,
+    "complexWordRatio": 0.3700914160869315
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 501,
+    "avgWordsPerSentence": 34.71656686626746,
+    "avgSyllablesPerWord": 2.252572874144771,
+    "longSentences": 235,
+    "shortSentences": 7,
+    "complexWords": 6437,
+    "passiveVoice": 35,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 212,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.7 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (46.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11768,
+    "uniqueWords": 2165,
+    "vocabularyRichness": 0.1839734874235214,
+    "rareWords": 509,
+    "technicalTerms": 3017,
+    "jargonWords": 222,
+    "avgWordLength": 8.155166553365058,
+    "complexityScore": 0.3184908225696805
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 56,
+    "bulletPoints": 668,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 75,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 433,
+    "avgParagraphLength": 39.66743648960739,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -19.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 4.412007791236373,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -18.969980521909065,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.71656686626746,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3184908225696805,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "bookId": "reversible-revolution-can-reversible-computing-co-3c18fbe5",
+  "directory": "Reversible_Revolution__Can_Reversible_Computing_Co_3c18fbe5",
+  "title": "Reversible Revolution: Can Reversible Computing Cool Down Our Planet?",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:56.812Z",
+  "summary": {
+    "overallScore": 19.129390039573355,
+    "readabilityGrade": "Poor",
+    "wordCount": 41887,
+    "estimatedReadingTime": 210
+  },
+  "readabilityMetrics": {
+    "fleschScore": 2.823475098933386,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.902245509636618,
+    "fogIndex": 23.09485625029366,
+    "smogIndex": 18.87323941947985,
+    "ariIndex": 18.517281368803275,
+    "cliIndex": 19.955140258314035,
+    "avgSentenceLength": 20.274443368828653,
+    "avgSyllablesPerWord": 2.1682383555757156,
+    "complexWordRatio": 0.37462697256905486
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2066,
+    "avgWordsPerSentence": 20.274443368828653,
+    "avgSyllablesPerWord": 2.1682383555757156,
+    "longSentences": 411,
+    "shortSentences": 35,
+    "complexWords": 15692,
+    "passiveVoice": 333,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 561,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.3 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 26684,
+    "uniqueWords": 3346,
+    "vocabularyRichness": 0.12539349422875132,
+    "rareWords": 609,
+    "technicalTerms": 6637,
+    "jargonWords": 20,
+    "avgWordLength": 8.068093239394393,
+    "complexityScore": 0.27229800629590767
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 63,
+    "bulletPoints": 431,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 37,
+    "links": 72,
+    "emphasis": 132,
+    "paragraphs": 618,
+    "avgParagraphLength": 67.10355987055016,
+    "tableOfContents": true,
+    "summaries": 36,
+    "examples": 79,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 27.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.1% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 2.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 19.129390039573355,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 2.823475098933386,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.274443368828653,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.27229800629590767,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

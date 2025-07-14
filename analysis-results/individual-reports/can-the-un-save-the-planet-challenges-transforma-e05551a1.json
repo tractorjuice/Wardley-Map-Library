@@ -1,0 +1,131 @@
+{
+  "bookId": "can-the-un-save-the-planet-challenges-transforma-e05551a1",
+  "directory": "Can_the_UN_Save_the_Planet__Challenges__Transforma_e05551a1",
+  "title": "Can the UN Save the Planet? Challenges, Transformations, and the Future of Global Environmental Governance",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:48.846Z",
+  "summary": {
+    "overallScore": 2.471775936432289,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 18337,
+    "estimatedReadingTime": 92
+  },
+  "readabilityMetrics": {
+    "fleschScore": -23.820560158919278,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.673152004832364,
+    "fogIndex": 28.845264139486005,
+    "smogIndex": 23.630791346854902,
+    "ariIndex": 26.883182672039787,
+    "cliIndex": 23.27532093581284,
+    "avgSentenceLength": 32.57015985790409,
+    "avgSyllablesPerWord": 2.335660140699133,
+    "complexWordRatio": 0.3954300049081093
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 563,
+    "avgWordsPerSentence": 32.57015985790409,
+    "avgSyllablesPerWord": 2.335660140699133,
+    "longSentences": 263,
+    "shortSentences": 10,
+    "complexWords": 7251,
+    "passiveVoice": 45,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 187,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.6 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (46.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12125,
+    "uniqueWords": 2557,
+    "vocabularyRichness": 0.21088659793814432,
+    "rareWords": 569,
+    "technicalTerms": 3592,
+    "jargonWords": 14,
+    "avgWordLength": 8.468288659793814,
+    "complexityScore": 0.3443298969072165
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 64,
+    "bulletPoints": 595,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 73,
+    "emphasis": 15,
+    "paragraphs": 460,
+    "avgParagraphLength": 39.17173913043478,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -23.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.471775936432289,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -23.820560158919278,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.57015985790409,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3443298969072165,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

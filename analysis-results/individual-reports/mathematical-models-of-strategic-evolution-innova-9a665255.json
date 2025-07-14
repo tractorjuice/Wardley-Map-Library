@@ -1,0 +1,131 @@
+{
+  "bookId": "mathematical-models-of-strategic-evolution-innova-9a665255",
+  "directory": "Mathematical_Models_of_Strategic_Evolution__Innova_9a665255",
+  "title": "Mathematical Models of Strategic Evolution: Innovate, Leverage, Commoditise",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:55.734Z",
+  "summary": {
+    "overallScore": 0.5722643140250838,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9518,
+    "estimatedReadingTime": 48
+  },
+  "readabilityMetrics": {
+    "fleschScore": -28.569339214937287,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.817198106634525,
+    "fogIndex": 31.089327275062885,
+    "smogIndex": 25.328992684935933,
+    "ariIndex": 29.528014420577925,
+    "cliIndex": 22.994902290397146,
+    "avgSentenceLength": 38.534412955465584,
+    "avgSyllablesPerWord": 2.3202353435595713,
+    "complexWordRatio": 0.39188905232191634
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 247,
+    "avgWordsPerSentence": 38.534412955465584,
+    "avgSyllablesPerWord": 2.3202353435595713,
+    "longSentences": 116,
+    "shortSentences": 6,
+    "complexWords": 3730,
+    "passiveVoice": 18,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 78,
+    "readabilityIssues": [
+      "Sentences too long (avg: 38.5 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (47.0%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 6199,
+    "uniqueWords": 1455,
+    "vocabularyRichness": 0.2347152766575254,
+    "rareWords": 325,
+    "technicalTerms": 1898,
+    "jargonWords": 19,
+    "avgWordLength": 8.156154218422326,
+    "complexityScore": 0.3616712372963381
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 450,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 33,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 273,
+    "avgParagraphLength": 34.32967032967033,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 38.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 36.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -28.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 0.5722643140250838,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -28.569339214937287,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 38.534412955465584,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3616712372963381,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

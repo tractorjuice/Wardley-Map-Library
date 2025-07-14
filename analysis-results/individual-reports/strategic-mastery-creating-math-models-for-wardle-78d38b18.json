@@ -1,0 +1,142 @@
+{
+  "bookId": "strategic-mastery-creating-math-models-for-wardle-78d38b18",
+  "directory": "Strategic_Mastery__Creating_Math_Models_for_Wardle_78d38b18",
+  "title": "Strategic Mastery: Creating Math Models for Wardley Mapping Gameplays",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:59.347Z",
+  "summary": {
+    "overallScore": 19.120181961233108,
+    "readabilityGrade": "Poor",
+    "wordCount": 14760,
+    "estimatedReadingTime": 74
+  },
+  "readabilityMetrics": {
+    "fleschScore": 2.800454903082766,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.245252406043125,
+    "fogIndex": 22.440089327579493,
+    "smogIndex": 18.729686518976468,
+    "ariIndex": 19.136870467062444,
+    "cliIndex": 19.96713279132791,
+    "avgSentenceLength": 21.64222873900293,
+    "avgSyllablesPerWord": 2.15210027100271,
+    "complexWordRatio": 0.344579945799458
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 682,
+    "avgWordsPerSentence": 21.64222873900293,
+    "avgSyllablesPerWord": 2.15210027100271,
+    "longSentences": 126,
+    "shortSentences": 7,
+    "complexWords": 5086,
+    "passiveVoice": 162,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 190,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.6 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 8932,
+    "uniqueWords": 1833,
+    "vocabularyRichness": 0.20521719659650695,
+    "rareWords": 379,
+    "technicalTerms": 2254,
+    "jargonWords": 157,
+    "avgWordLength": 8.031236005373936,
+    "complexityScore": 0.3123600537393641
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 61,
+    "bulletPoints": 366,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 41,
+    "links": 70,
+    "emphasis": 15,
+    "paragraphs": 345,
+    "avgParagraphLength": 42.04927536231884,
+    "tableOfContents": true,
+    "summaries": 8,
+    "examples": 27,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 21.6 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "23.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 2.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 19.120181961233108,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 2.800454903082766,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.64222873900293,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3123600537393641,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

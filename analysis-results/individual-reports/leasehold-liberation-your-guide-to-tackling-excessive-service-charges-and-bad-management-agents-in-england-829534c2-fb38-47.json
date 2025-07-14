@@ -1,0 +1,130 @@
+{
+  "bookId": "leasehold-liberation-your-guide-to-tackling-excessive-service-charges-and-bad-management-agents-in-england-829534c2-fb38-47",
+  "directory": "Leasehold_Liberation__Your_Guide_to_Tackling_Excessive_Service_Charges_and_Bad_Management_Agents_in_England_829534c2-fb38-47",
+  "title": "Leasehold Liberation: Your Guide to Tackling Excessive Service Charges and Bad Management Agents in England",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:53.777Z",
+  "summary": {
+    "overallScore": 21.270577637393956,
+    "readabilityGrade": "Poor",
+    "wordCount": 54807,
+    "estimatedReadingTime": 275
+  },
+  "readabilityMetrics": {
+    "fleschScore": 8.17644409348489,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.584017947829043,
+    "fogIndex": 22.850433229643915,
+    "smogIndex": 19.381855214156218,
+    "ariIndex": 20.375009351385174,
+    "cliIndex": 19.00787563632382,
+    "avgSentenceLength": 26.024216524216524,
+    "avgSyllablesPerWord": 2.0359808053715764,
+    "complexWordRatio": 0.31101866549893264
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2106,
+    "avgWordsPerSentence": 26.024216524216524,
+    "avgSyllablesPerWord": 2.0359808053715764,
+    "longSentences": 704,
+    "shortSentences": 38,
+    "complexWords": 17046,
+    "passiveVoice": 294,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 683,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.0 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 30252,
+    "uniqueWords": 4061,
+    "vocabularyRichness": 0.1342390585746397,
+    "rareWords": 801,
+    "technicalTerms": 6222,
+    "jargonWords": 239,
+    "avgWordLength": 7.725439640354357,
+    "complexityScore": 0.24005024461192648
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 80,
+    "bulletPoints": 1308,
+    "numberedLists": 201,
+    "codeBlocks": 0,
+    "quotes": 322,
+    "links": 267,
+    "emphasis": 15,
+    "paragraphs": 1666,
+    "avgParagraphLength": 32.49519807923169,
+    "tableOfContents": true,
+    "summaries": 54,
+    "examples": 25,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 8.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.270577637393956,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 8.17644409348489,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 26.024216524216524,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24005024461192648,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

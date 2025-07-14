@@ -1,0 +1,131 @@
+{
+  "bookId": "mathematical-models-for-wardley-mapping-a-quantit-7db3030c",
+  "directory": "Mathematical_Models_for_Wardley_Mapping__A_Quantit_7db3030c",
+  "title": "Mathematical Models for Wardley Mapping: A Quantitative Framework for Strategic Evolution",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:55.707Z",
+  "summary": {
+    "overallScore": 1.1730141822409212,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 9917,
+    "estimatedReadingTime": 50
+  },
+  "readabilityMetrics": {
+    "fleschScore": -27.067464544397694,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.331521728459425,
+    "fogIndex": 30.873059830555885,
+    "smogIndex": 25.16523312395357,
+    "ariIndex": 28.68116244071073,
+    "cliIndex": 22.608837350005043,
+    "avgSentenceLength": 37.422641509433966,
+    "avgSyllablesPerWord": 2.3158213169305233,
+    "complexWordRatio": 0.3976000806695573
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 265,
+    "avgWordsPerSentence": 37.422641509433966,
+    "avgSyllablesPerWord": 2.3158213169305233,
+    "longSentences": 127,
+    "shortSentences": 10,
+    "complexWords": 3943,
+    "passiveVoice": 25,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 80,
+    "readabilityIssues": [
+      "Sentences too long (avg: 37.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (47.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 6193,
+    "uniqueWords": 1579,
+    "vocabularyRichness": 0.25496528338446633,
+    "rareWords": 384,
+    "technicalTerms": 2117,
+    "jargonWords": 93,
+    "avgWordLength": 8.327789439689973,
+    "complexityScore": 0.4188600032294526
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 473,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 36,
+    "links": 57,
+    "emphasis": 18,
+    "paragraphs": 293,
+    "avgParagraphLength": 33.26962457337884,
+    "tableOfContents": true,
+    "summaries": 1,
+    "examples": 4,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 37.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 41.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -27.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.1730141822409212,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -27.067464544397694,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 37.422641509433966,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.4188600032294526,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

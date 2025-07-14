@@ -1,0 +1,131 @@
+{
+  "bookId": "the-three-phases-of-wardley-doctrine-in-aircraft-manufacturing-a-strategic-framework-for-industry-evolution-ad4b49a7",
+  "directory": "The_Three_Phases_of_Wardley_Doctrine_in_Aircraft_Manufacturing__A_Strategic_Framework_for_Industry_Evolution_ad4b49a7",
+  "title": "The Three Phases of Wardley Doctrine in Aircraft Manufacturing: A Strategic Framework for Industry Evolution",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:02.308Z",
+  "summary": {
+    "overallScore": -2.162153182497832,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 12795,
+    "estimatedReadingTime": 64
+  },
+  "readabilityMetrics": {
+    "fleschScore": -35.40538295624458,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 27.714536752988753,
+    "fogIndex": 31.986112183604657,
+    "smogIndex": 25.95013341585706,
+    "ariIndex": 30.54510603646166,
+    "cliIndex": 24.401203595154353,
+    "avgSentenceLength": 38.308383233532936,
+    "avgSyllablesPerWord": 2.4037514654161782,
+    "complexWordRatio": 0.416568972254787
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 334,
+    "avgWordsPerSentence": 38.308383233532936,
+    "avgSyllablesPerWord": 2.4037514654161782,
+    "longSentences": 169,
+    "shortSentences": 7,
+    "complexWords": 5330,
+    "passiveVoice": 25,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 129,
+    "readabilityIssues": [
+      "Sentences too long (avg: 38.3 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (50.6%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 8273,
+    "uniqueWords": 1691,
+    "vocabularyRichness": 0.2043998549498368,
+    "rareWords": 398,
+    "technicalTerms": 2647,
+    "jargonWords": 71,
+    "avgWordLength": 8.59555179499577,
+    "complexityScore": 0.3766469237277892
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 552,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 51,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 344,
+    "avgParagraphLength": 36.42732558139535,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 38.3 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 37.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -35.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": -2.162153182497832,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -35.40538295624458,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 38.308383233532936,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3766469237277892,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

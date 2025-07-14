@@ -1,0 +1,131 @@
+{
+  "bookId": "data-science-in-rwanda-a-beginner-s-guide-to-digital-transformation-in-africa-5909ed60",
+  "directory": "Data_Science_in_Rwanda_-_A_Beginner's_Guide_to_Digital_Transformation_in_Africa_5909ed60",
+  "title": "Data Science In Rwanda - A Beginner'S Guide To Digital Transformation In Africa 5909ed60",
+  "category": "Data Science",
+  "generatedAt": "2025-07-14T19:18:50.387Z",
+  "summary": {
+    "overallScore": 5.12472648708549,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17824,
+    "estimatedReadingTime": 90
+  },
+  "readabilityMetrics": {
+    "fleschScore": -17.188183782286274,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.530437535753737,
+    "fogIndex": 28.21506459957617,
+    "smogIndex": 23.275643626144916,
+    "ariIndex": 26.858951373348127,
+    "cliIndex": 21.3594052962298,
+    "avgSentenceLength": 35.71943887775551,
+    "avgSyllablesPerWord": 2.219479353680431,
+    "complexWordRatio": 0.3481822262118492
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 499,
+    "avgWordsPerSentence": 35.71943887775551,
+    "avgSyllablesPerWord": 2.219479353680431,
+    "longSentences": 254,
+    "shortSentences": 9,
+    "complexWords": 6206,
+    "passiveVoice": 42,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 200,
+    "readabilityIssues": [
+      "Sentences too long (avg: 35.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (50.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11957,
+    "uniqueWords": 2478,
+    "vocabularyRichness": 0.20724261938613364,
+    "rareWords": 581,
+    "technicalTerms": 2679,
+    "jargonWords": 14,
+    "avgWordLength": 7.908087312871121,
+    "complexityScore": 0.27381450196537593
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 58,
+    "bulletPoints": 656,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 80,
+    "links": 67,
+    "emphasis": 15,
+    "paragraphs": 449,
+    "avgParagraphLength": 38.91314031180401,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 15,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 35.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 27.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -17.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.12472648708549,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -17.188183782286274,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 35.71943887775551,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.27381450196537593,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

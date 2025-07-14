@@ -1,0 +1,131 @@
+{
+  "bookId": "digital-bridges-empowering-offline-communities-th-391100c7",
+  "directory": "Digital_Bridges__Empowering_Offline_Communities_Th_391100c7",
+  "title": "Digital Bridges: Empowering Offline Communities Through AI-Generated Educational Materials",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:18:50.741Z",
+  "summary": {
+    "overallScore": 0.07773445259893919,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 13684,
+    "estimatedReadingTime": 69
+  },
+  "readabilityMetrics": {
+    "fleschScore": -29.80566386850265,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 26.06671240273926,
+    "fogIndex": 30.186139344402523,
+    "smogIndex": 24.620472559792844,
+    "ariIndex": 28.526650357059715,
+    "cliIndex": 23.981797719964913,
+    "avgSentenceLength": 34.81933842239186,
+    "avgSyllablesPerWord": 2.379421221864952,
+    "complexWordRatio": 0.4064600993861444
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 393,
+    "avgWordsPerSentence": 34.81933842239186,
+    "avgSyllablesPerWord": 2.379421221864952,
+    "longSentences": 190,
+    "shortSentences": 7,
+    "complexWords": 5562,
+    "passiveVoice": 27,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 196,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.8 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (48.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9043,
+    "uniqueWords": 2096,
+    "vocabularyRichness": 0.2317814884441004,
+    "rareWords": 546,
+    "technicalTerms": 2581,
+    "jargonWords": 13,
+    "avgWordLength": 8.503815105606547,
+    "complexityScore": 0.34722990158133366
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 529,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 60,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 352,
+    "avgParagraphLength": 38.34943181818182,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -29.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 0.07773445259893919,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -29.80566386850265,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.81933842239186,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34722990158133366,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

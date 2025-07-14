@@ -1,0 +1,118 @@
+{
+  "bookId": "open-banking-for-you-take-control-of-your-finance-05f3f2ae",
+  "directory": "Open_Banking_for_You__Take_Control_of_Your_Finance_05f3f2ae",
+  "title": "Open Banking for You: Take Control of Your Finances in the UK",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:56.229Z",
+  "summary": {
+    "overallScore": 26.510748734593164,
+    "readabilityGrade": "Poor",
+    "wordCount": 32919,
+    "estimatedReadingTime": 165
+  },
+  "readabilityMetrics": {
+    "fleschScore": 21.27687183648291,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 15.56095871822058,
+    "fogIndex": 19.077552751317434,
+    "smogIndex": 16.66875223488966,
+    "ariIndex": 16.307031160599443,
+    "cliIndex": 16.67587836811568,
+    "avgSentenceLength": 21.21069587628866,
+    "avgSyllablesPerWord": 1.9388802819040676,
+    "complexWordRatio": 0.2648318600200492
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1552,
+    "avgWordsPerSentence": 21.21069587628866,
+    "avgSyllablesPerWord": 1.9388802819040676,
+    "longSentences": 359,
+    "shortSentences": 39,
+    "complexWords": 8718,
+    "passiveVoice": 232,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 525,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.2 words)",
+      "Complex vocabulary (avg: 1.9 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 19780,
+    "uniqueWords": 2805,
+    "vocabularyRichness": 0.14180990899898888,
+    "rareWords": 493,
+    "technicalTerms": 2962,
+    "jargonWords": 105,
+    "avgWordLength": 7.229423660262892,
+    "complexityScore": 0.17997977755308392
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 63,
+    "bulletPoints": 427,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 32,
+    "links": 72,
+    "emphasis": 50,
+    "paragraphs": 519,
+    "avgParagraphLength": 62.46435452793834,
+    "tableOfContents": true,
+    "summaries": 40,
+    "examples": 43,
+    "definitions": 9
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 18.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 21.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 26.510748734593164,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 21.27687183648291,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.21069587628866,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.17997977755308392,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

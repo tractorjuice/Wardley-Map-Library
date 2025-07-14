@@ -1,0 +1,131 @@
+{
+  "bookId": "the-genai-revolution-transforming-work-and-learning-in-the-digital-age-f9fdd2ef",
+  "directory": "The_GenAI_Revolution__Transforming_Work_and_Learning_in_the_Digital_Age_f9fdd2ef",
+  "title": "The GenAI Revolution: Transforming Work and Learning in the Digital Age",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:01.704Z",
+  "summary": {
+    "overallScore": 4.390923745143914,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 15729,
+    "estimatedReadingTime": 79
+  },
+  "readabilityMetrics": {
+    "fleschScore": -19.022690637140215,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.138972228970292,
+    "fogIndex": 28.27757998467464,
+    "smogIndex": 23.281585189307627,
+    "ariIndex": 26.52384763644759,
+    "cliIndex": 22.502371415856064,
+    "avgSentenceLength": 33.113684210526316,
+    "avgSyllablesPerWord": 2.272426727700426,
+    "complexWordRatio": 0.37580265751160274
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 475,
+    "avgWordsPerSentence": 33.113684210526316,
+    "avgSyllablesPerWord": 2.272426727700426,
+    "longSentences": 229,
+    "shortSentences": 5,
+    "complexWords": 5911,
+    "passiveVoice": 37,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 182,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.1 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (48.2%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10325,
+    "uniqueWords": 2169,
+    "vocabularyRichness": 0.2100726392251816,
+    "rareWords": 503,
+    "technicalTerms": 2963,
+    "jargonWords": 292,
+    "avgWordLength": 8.258305084745762,
+    "complexityScore": 0.3639709443099274
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 475,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 64,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 401,
+    "avgParagraphLength": 38.70074812967581,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 14,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 36.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -19.0",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 4.390923745143914,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -19.022690637140215,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.113684210526316,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3639709443099274,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

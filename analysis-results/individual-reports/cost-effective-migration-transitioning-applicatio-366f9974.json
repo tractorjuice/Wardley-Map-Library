@@ -1,0 +1,142 @@
+{
+  "bookId": "cost-effective-migration-transitioning-applicatio-366f9974",
+  "directory": "Cost-Effective_Migration__Transitioning_Applicatio_366f9974",
+  "title": "Cost-Effective Migration: Transitioning Applications from Windows 10 On-Premise to Windows 11 with Intune",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:50.211Z",
+  "summary": {
+    "overallScore": 12.321153488781738,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 90446,
+    "estimatedReadingTime": 453
+  },
+  "readabilityMetrics": {
+    "fleschScore": -14.197116278045655,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.127739008135894,
+    "fogIndex": 26.62720662710045,
+    "smogIndex": 21.87654258953921,
+    "ariIndex": 24.03670890081826,
+    "cliIndex": 22.586041615991856,
+    "avgSentenceLength": 27.7271612507664,
+    "avgSyllablesPerWord": 2.2800123830794066,
+    "complexWordRatio": 0.3884085531698472
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 3262,
+    "avgWordsPerSentence": 27.7271612507664,
+    "avgSyllablesPerWord": 2.2800123830794066,
+    "longSentences": 1120,
+    "shortSentences": 53,
+    "complexWords": 35130,
+    "passiveVoice": 500,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1494,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.7 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 63100,
+    "uniqueWords": 5360,
+    "vocabularyRichness": 0.08494453248811411,
+    "rareWords": 1022,
+    "technicalTerms": 15442,
+    "jargonWords": 136,
+    "avgWordLength": 8.11581616481775,
+    "complexityScore": 0.2630744849445325
+  },
+  "structurePatterns": {
+    "headers": 14,
+    "subheaders": 216,
+    "bulletPoints": 2139,
+    "numberedLists": 22,
+    "codeBlocks": 6,
+    "quotes": 163,
+    "links": 237,
+    "emphasis": 15,
+    "paragraphs": 2037,
+    "avgParagraphLength": 43.752086401570935,
+    "tableOfContents": true,
+    "summaries": 51,
+    "examples": 44,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 26.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "15.3% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -14.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12.321153488781738,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -14.197116278045655,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 27.7271612507664,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2630744849445325,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

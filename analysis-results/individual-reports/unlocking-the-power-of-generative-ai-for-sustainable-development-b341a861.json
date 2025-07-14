@@ -1,0 +1,130 @@
+{
+  "bookId": "unlocking-the-power-of-generative-ai-for-sustainable-development-b341a861",
+  "directory": "Unlocking_the_Power_of_Generative_AI_for_Sustainable_Development_b341a861",
+  "title": "Unlocking the Power of Generative AI for Sustainable Development: A Practical Guide for the UNSD",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:02.959Z",
+  "summary": {
+    "overallScore": 22.116344946188654,
+    "readabilityGrade": "Poor",
+    "wordCount": 48941,
+    "estimatedReadingTime": 245
+  },
+  "readabilityMetrics": {
+    "fleschScore": 10.29086236547164,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.16357549929914,
+    "fogIndex": 21.05898810679314,
+    "smogIndex": 17.911863216448083,
+    "ariIndex": 17.64014080562726,
+    "cliIndex": 18.181903107823704,
+    "avgSentenceLength": 21.493631971892842,
+    "avgSyllablesPerWord": 2.065343985615333,
+    "complexWordRatio": 0.3115383829509001
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2277,
+    "avgWordsPerSentence": 21.493631971892842,
+    "avgSyllablesPerWord": 2.065343985615333,
+    "longSentences": 597,
+    "shortSentences": 72,
+    "complexWords": 15247,
+    "passiveVoice": 383,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 606,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.5 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 30075,
+    "uniqueWords": 3303,
+    "vocabularyRichness": 0.10982543640897756,
+    "rareWords": 613,
+    "technicalTerms": 6651,
+    "jargonWords": 837,
+    "avgWordLength": 7.60428927680798,
+    "complexityScore": 0.26935993349958437
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 88,
+    "bulletPoints": 706,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 42,
+    "links": 104,
+    "emphasis": 323,
+    "paragraphs": 648,
+    "avgParagraphLength": 74.41203703703704,
+    "tableOfContents": true,
+    "summaries": 50,
+    "examples": 74,
+    "definitions": 9
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 26.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.8% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 10.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 22.116344946188654,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 10.29086236547164,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.493631971892842,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.26935993349958437,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

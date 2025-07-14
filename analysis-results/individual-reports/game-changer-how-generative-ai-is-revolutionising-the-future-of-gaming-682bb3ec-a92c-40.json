@@ -1,0 +1,130 @@
+{
+  "bookId": "game-changer-how-generative-ai-is-revolutionising-the-future-of-gaming-682bb3ec-a92c-40",
+  "directory": "Game_Changer__How_Generative_AI_is_Revolutionising_the_Future_of_Gaming_682bb3ec-a92c-40",
+  "title": "Game Changer: How Generative AI is Revolutionising the Future of Gaming",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:51.679Z",
+  "summary": {
+    "overallScore": 22.214702828138968,
+    "readabilityGrade": "Poor",
+    "wordCount": 66442,
+    "estimatedReadingTime": 333
+  },
+  "readabilityMetrics": {
+    "fleschScore": 10.53675707034742,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.89171073649437,
+    "fogIndex": 21.778949286081158,
+    "smogIndex": 18.60682703368909,
+    "ariIndex": 19.17995131968115,
+    "cliIndex": 18.36058517202974,
+    "avgSentenceLength": 24.562661737523104,
+    "avgSyllablesPerWord": 2.0256163270220644,
+    "complexWordRatio": 0.2988471147767978
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2705,
+    "avgWordsPerSentence": 24.562661737523104,
+    "avgSyllablesPerWord": 2.0256163270220644,
+    "longSentences": 945,
+    "shortSentences": 15,
+    "complexWords": 19856,
+    "passiveVoice": 328,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 937,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.6 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 38165,
+    "uniqueWords": 3916,
+    "vocabularyRichness": 0.1026071007467575,
+    "rareWords": 726,
+    "technicalTerms": 7217,
+    "jargonWords": 284,
+    "avgWordLength": 7.470483427223896,
+    "complexityScore": 0.21556399842787893
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 91,
+    "bulletPoints": 803,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 426,
+    "links": 299,
+    "emphasis": 15,
+    "paragraphs": 1602,
+    "avgParagraphLength": 40.906991260923846,
+    "tableOfContents": true,
+    "summaries": 56,
+    "examples": 62,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 24.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 21.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 10.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 22.214702828138968,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 10.53675707034742,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.562661737523104,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.21556399842787893,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

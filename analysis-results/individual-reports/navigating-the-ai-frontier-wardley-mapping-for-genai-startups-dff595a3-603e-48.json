@@ -1,0 +1,130 @@
+{
+  "bookId": "navigating-the-ai-frontier-wardley-mapping-for-genai-startups-dff595a3-603e-48",
+  "directory": "Navigating_the_AI_Frontier__Wardley_Mapping_for_GenAI_Startups_dff595a3-603e-48",
+  "title": "Navigating the AI Frontier: Wardley Mapping for GenAI Startups",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:56.006Z",
+  "summary": {
+    "overallScore": 21.80747855539072,
+    "readabilityGrade": "Poor",
+    "wordCount": 43797,
+    "estimatedReadingTime": 219
+  },
+  "readabilityMetrics": {
+    "fleschScore": 9.518696388476798,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.9396088776986,
+    "fogIndex": 21.48623175844653,
+    "smogIndex": 18.39604492648032,
+    "ariIndex": 19.413941032624457,
+    "cliIndex": 18.87026417334521,
+    "avgSentenceLength": 24.18387631143015,
+    "avgSyllablesPerWord": 2.0421946708678678,
+    "complexWordRatio": 0.2953170308468617
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1811,
+    "avgWordsPerSentence": 24.18387631143015,
+    "avgSyllablesPerWord": 2.0421946708678678,
+    "longSentences": 521,
+    "shortSentences": 29,
+    "complexWords": 12934,
+    "passiveVoice": 233,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 581,
+    "readabilityIssues": [
+      "Sentences too long (avg: 24.2 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 24107,
+    "uniqueWords": 3161,
+    "vocabularyRichness": 0.1311237399925333,
+    "rareWords": 637,
+    "technicalTerms": 5117,
+    "jargonWords": 1070,
+    "avgWordLength": 7.543908408346123,
+    "complexityScore": 0.2830713070892272
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 80,
+    "bulletPoints": 738,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 295,
+    "links": 246,
+    "emphasis": 15,
+    "paragraphs": 1056,
+    "avgParagraphLength": 40.771780303030305,
+    "tableOfContents": true,
+    "summaries": 20,
+    "examples": 48,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 24.2 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 28.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 9.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.80747855539072,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 9.518696388476798,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.18387631143015,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2830713070892272,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

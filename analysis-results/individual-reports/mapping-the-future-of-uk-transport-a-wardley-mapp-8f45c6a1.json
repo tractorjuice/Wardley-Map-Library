@@ -1,0 +1,117 @@
+{
+  "bookId": "mapping-the-future-of-uk-transport-a-wardley-mapp-8f45c6a1",
+  "directory": "Mapping_the_Future_of_UK_Transport__A_Wardley_Mapp_8f45c6a1",
+  "title": "Mapping the Future of UK Transport: A Wardley Mapping Approach",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.690Z",
+  "summary": {
+    "overallScore": 29.502738841695134,
+    "readabilityGrade": "Poor",
+    "wordCount": 54011,
+    "estimatedReadingTime": 271
+  },
+  "readabilityMetrics": {
+    "fleschScore": 13.756847104237835,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 16.17926722116676,
+    "fogIndex": 20.08773885818013,
+    "smogIndex": 17.10810831945471,
+    "ariIndex": 17.325752519606354,
+    "cliIndex": 18.905366684564253,
+    "avgSentenceLength": 19.477461233321314,
+    "avgSyllablesPerWord": 2.0485641813704616,
+    "complexWordRatio": 0.30741885912129013
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2773,
+    "avgWordsPerSentence": 19.477461233321314,
+    "avgSyllablesPerWord": 2.0485641813704616,
+    "longSentences": 529,
+    "shortSentences": 135,
+    "complexWords": 16604,
+    "passiveVoice": 317,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 578,
+    "readabilityIssues": [
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 33884,
+    "uniqueWords": 3744,
+    "vocabularyRichness": 0.11049462873332547,
+    "rareWords": 692,
+    "technicalTerms": 6900,
+    "jargonWords": 330,
+    "avgWordLength": 7.783850785031283,
+    "complexityScore": 0.23379766261362295
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 100,
+    "bulletPoints": 882,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 9,
+    "links": 109,
+    "emphasis": 133,
+    "paragraphs": 786,
+    "avgParagraphLength": 67.64503816793894,
+    "tableOfContents": true,
+    "summaries": 67,
+    "examples": 106,
+    "definitions": 5
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 13.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 29.502738841695134,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 13.756847104237835,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.477461233321314,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23379766261362295,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

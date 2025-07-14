@@ -1,0 +1,131 @@
+{
+  "bookId": "digital-transformation-in-government-a-leader-s-guide-to-navigating-complex-change-243b3182",
+  "directory": "Digital_Transformation_in_Government__A_Leader_s_Guide_to_Navigating_Complex_Change_243b3182",
+  "title": "Digital Transformation in Government: A Leader's Guide to Navigating Complex Change",
+  "category": "Government",
+  "generatedAt": "2025-07-14T19:18:51.021Z",
+  "summary": {
+    "overallScore": 1.1252276527488103,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17913,
+    "estimatedReadingTime": 90
+  },
+  "readabilityMetrics": {
+    "fleschScore": -27.186930868127973,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.692306109518558,
+    "fogIndex": 30.62936096201761,
+    "smogIndex": 24.909519121913462,
+    "ariIndex": 28.545532777355923,
+    "cliIndex": 24.027450454976833,
+    "avgSentenceLength": 34.78252427184466,
+    "avgSyllablesPerWord": 2.348908613855859,
+    "complexWordRatio": 0.41790878133199355
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 515,
+    "avgWordsPerSentence": 34.78252427184466,
+    "avgSyllablesPerWord": 2.348908613855859,
+    "longSentences": 239,
+    "shortSentences": 5,
+    "complexWords": 7486,
+    "passiveVoice": 31,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 228,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (46.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12103,
+    "uniqueWords": 2189,
+    "vocabularyRichness": 0.18086424853342148,
+    "rareWords": 514,
+    "technicalTerms": 3480,
+    "jargonWords": 28,
+    "avgWordLength": 8.486160456085267,
+    "complexityScore": 0.3323143022391143
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 734,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 79,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 456,
+    "avgParagraphLength": 38.771929824561404,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 5,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 33.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -27.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.1252276527488103,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -27.186930868127973,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.78252427184466,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3323143022391143,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

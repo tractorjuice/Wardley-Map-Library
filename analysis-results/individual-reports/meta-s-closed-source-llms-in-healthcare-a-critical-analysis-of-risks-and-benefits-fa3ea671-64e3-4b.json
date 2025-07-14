@@ -1,0 +1,131 @@
+{
+  "bookId": "meta-s-closed-source-llms-in-healthcare-a-critical-analysis-of-risks-and-benefits-fa3ea671-64e3-4b",
+  "directory": "Meta_s_Closed-Source_LLMs_in_Healthcare__A_Critical_Analysis_of_Risks_and_Benefits_fa3ea671-64e3-4b",
+  "title": "Meta's Closed-Source LLMs in Healthcare: A Critical Analysis of Risks and Benefits",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:55.810Z",
+  "summary": {
+    "overallScore": 4.334633962018586,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 20924,
+    "estimatedReadingTime": 105
+  },
+  "readabilityMetrics": {
+    "fleschScore": -19.163415094953535,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.832093638636632,
+    "fogIndex": 27.950114323134414,
+    "smogIndex": 23.007407183695538,
+    "ariIndex": 26.675930516229236,
+    "cliIndex": 23.47567386732938,
+    "avgSentenceLength": 31.799392097264437,
+    "avgSyllablesPerWord": 2.2898585356528387,
+    "complexWordRatio": 0.3807589371057159
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 658,
+    "avgWordsPerSentence": 31.799392097264437,
+    "avgSyllablesPerWord": 2.2898585356528387,
+    "longSentences": 283,
+    "shortSentences": 6,
+    "complexWords": 7967,
+    "passiveVoice": 53,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 225,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.8 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (43.0%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13039,
+    "uniqueWords": 2392,
+    "vocabularyRichness": 0.18344965104685942,
+    "rareWords": 557,
+    "technicalTerms": 3486,
+    "jargonWords": 262,
+    "avgWordLength": 8.30746222869852,
+    "complexityScore": 0.3301633560855894
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 52,
+    "bulletPoints": 726,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 190,
+    "links": 174,
+    "emphasis": 51,
+    "paragraphs": 642,
+    "avgParagraphLength": 31.870716510903428,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 5,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 33.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -19.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 4.334633962018586,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -19.163415094953535,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.799392097264437,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3301633560855894,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "bookId": "from-lotus-to-ai-modernising-legacy-systems-for-the-generative-ai-era-88200f01-7a30-42",
+  "directory": "From_Lotus_to_AI__Modernising_Legacy_Systems_for_the_Generative_AI_Era_88200f01-7a30-42",
+  "title": "From Lotus to AI: Modernising Legacy Systems for the Generative AI Era",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:51.475Z",
+  "summary": {
+    "overallScore": 16.49006367876108,
+    "readabilityGrade": "Poor",
+    "wordCount": 69576,
+    "estimatedReadingTime": 348
+  },
+  "readabilityMetrics": {
+    "fleschScore": -3.7748408030973053,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.954907162502625,
+    "fogIndex": 25.37717486929302,
+    "smogIndex": 21.176773107856494,
+    "ariIndex": 22.31959250865836,
+    "cliIndex": 19.77849545820398,
+    "avgSentenceLength": 28.857735379510576,
+    "avgSyllablesPerWord": 2.1432534207197884,
+    "complexWordRatio": 0.34585201793721976
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2411,
+    "avgWordsPerSentence": 28.857735379510576,
+    "avgSyllablesPerWord": 2.1432534207197884,
+    "longSentences": 955,
+    "shortSentences": 15,
+    "complexWords": 24063,
+    "passiveVoice": 330,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 837,
+    "readabilityIssues": [
+      "Sentences too long (avg: 28.9 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 45943,
+    "uniqueWords": 4572,
+    "vocabularyRichness": 0.0995146159371395,
+    "rareWords": 875,
+    "technicalTerms": 10002,
+    "jargonWords": 406,
+    "avgWordLength": 7.813791001893651,
+    "complexityScore": 0.24558692292623469
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 98,
+    "bulletPoints": 1894,
+    "numberedLists": 98,
+    "codeBlocks": 0,
+    "quotes": 58,
+    "links": 112,
+    "emphasis": 15,
+    "paragraphs": 1923,
+    "avgParagraphLength": 35.71658866354654,
+    "tableOfContents": true,
+    "summaries": 46,
+    "examples": 93,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 28.9 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -3.8",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 16.49006367876108,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -3.7748408030973053,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 28.857735379510576,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24558692292623469,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

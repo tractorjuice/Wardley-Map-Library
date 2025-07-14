@@ -1,0 +1,89 @@
+{
+  "bookId": "automated-futures-human-taxes-the-robot-tax-conu",
+  "directory": "Automated_Futures__Human_Taxes__The_Robot_Tax_Conu",
+  "title": "Automated Futures Human Taxes The Robot Tax Conu",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:23:24.526Z",
+  "summary": {
+    "overallScore": 51.45405522710766,
+    "readabilityGrade": "Good",
+    "wordCount": 154044,
+    "estimatedReadingTime": 771
+  },
+  "readabilityMetrics": {
+    "fleschScore": 45.99041987306731,
+    "fleschGrade": "Difficult",
+    "fleschKincaidGrade": 11.76915596899099,
+    "fogIndex": 14.56441963692856,
+    "smogIndex": 13.488328884152065,
+    "ariIndex": 12.030395557040713,
+    "cliIndex": 12.105443899145698,
+    "avgSentenceLength": 19.822931411658733,
+    "avgSyllablesPerWord": 1.663407857495261,
+    "complexWordRatio": 0.16588117680662667
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 7771,
+    "avgWordsPerSentence": 19.822931411658733,
+    "avgSyllablesPerWord": 1.663407857495261,
+    "longSentences": 1873,
+    "shortSentences": 555,
+    "complexWords": 25553,
+    "passiveVoice": 930,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 3164,
+    "readabilityIssues": []
+  },
+  "vocabularyComplexity": {
+    "totalWords": 91730,
+    "uniqueWords": 4849,
+    "vocabularyRichness": 0.05286165921726807,
+    "rareWords": 681,
+    "technicalTerms": 7326,
+    "jargonWords": 231,
+    "avgWordLength": 6.140531996075439,
+    "complexityScore": 0.0898070424070642
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 634,
+    "bulletPoints": 2147,
+    "numberedLists": 0,
+    "codeBlocks": 0,
+    "quotes": 0,
+    "links": 642,
+    "emphasis": 397,
+    "paragraphs": 2131,
+    "avgParagraphLength": 70.62505865790709,
+    "tableOfContents": true,
+    "summaries": 68,
+    "examples": 289,
+    "definitions": 140
+  },
+  "recommendations": [],
+  "improvementPriorities": [],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 51.45405522710766,
+      "referenceBenchmark": 50.99,
+      "comparison": "Good",
+      "percentile": 60
+    },
+    "fleschScore": {
+      "bookScore": 45.99041987306731,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 19.822931411658733,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.0898070424070642,
+      "referenceBenchmark": 0.12,
+      "comparison": "Better"
+    }
+  }
+}

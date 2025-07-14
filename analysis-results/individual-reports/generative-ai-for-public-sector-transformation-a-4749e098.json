@@ -1,0 +1,130 @@
+{
+  "bookId": "generative-ai-for-public-sector-transformation-a-4749e098",
+  "directory": "Generative_AI_for_Public_Sector_Transformation__A__4749e098",
+  "title": "Generative AI for Public Sector Transformation: A Practical Guide for Advice Cloud",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:52.999Z",
+  "summary": {
+    "overallScore": 21.076437194665765,
+    "readabilityGrade": "Poor",
+    "wordCount": 41257,
+    "estimatedReadingTime": 207
+  },
+  "readabilityMetrics": {
+    "fleschScore": 7.691092986664415,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.561187741556157,
+    "fogIndex": 21.231546165676495,
+    "smogIndex": 18.029221105957753,
+    "ariIndex": 18.441023709834546,
+    "cliIndex": 19.1027655912936,
+    "avgSentenceLength": 21.634504457262715,
+    "avgSyllablesPerWord": 2.094383983324042,
+    "complexWordRatio": 0.3144436095692852
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1907,
+    "avgWordsPerSentence": 21.634504457262715,
+    "avgSyllablesPerWord": 2.094383983324042,
+    "longSentences": 416,
+    "shortSentences": 34,
+    "complexWords": 12973,
+    "passiveVoice": 251,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 476,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 26393,
+    "uniqueWords": 3337,
+    "vocabularyRichness": 0.1264350395938317,
+    "rareWords": 655,
+    "technicalTerms": 5050,
+    "jargonWords": 997,
+    "avgWordLength": 7.554692532110787,
+    "complexityScore": 0.2539309665441594
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 78,
+    "bulletPoints": 692,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 43,
+    "links": 87,
+    "emphasis": 244,
+    "paragraphs": 601,
+    "avgParagraphLength": 68.16472545757071,
+    "tableOfContents": true,
+    "summaries": 31,
+    "examples": 44,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 21.6 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 25.4%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 7.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.076437194665765,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 7.691092986664415,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 21.634504457262715,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2539309665441594,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

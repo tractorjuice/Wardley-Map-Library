@@ -1,0 +1,130 @@
+{
+  "bookId": "generative-ai-engineering-from-data-to-deployment-6410d8f6",
+  "directory": "Generative_AI_Engineering__From_Data_to_Deployment_6410d8f6",
+  "title": "Generative AI Engineering: From Data to Deployment - A Comprehensive Guide to Building Production-Ready AI Systems",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:52.737Z",
+  "summary": {
+    "overallScore": 11.875611634041604,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19233,
+    "estimatedReadingTime": 97
+  },
+  "readabilityMetrics": {
+    "fleschScore": -15.31097091489599,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.442116897625713,
+    "fogIndex": 26.705921008738212,
+    "smogIndex": 21.983179703347414,
+    "ariIndex": 24.358847473162136,
+    "cliIndex": 22.61274060209016,
+    "avgSentenceLength": 28.36725663716814,
+    "avgSyllablesPerWord": 2.285498882129673,
+    "complexWordRatio": 0.38397545884677375
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 678,
+    "avgWordsPerSentence": 28.36725663716814,
+    "avgSyllablesPerWord": 2.285498882129673,
+    "longSentences": 240,
+    "shortSentences": 72,
+    "complexWords": 7385,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 239,
+    "readabilityIssues": [
+      "Sentences too long (avg: 28.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13115,
+    "uniqueWords": 2335,
+    "vocabularyRichness": 0.17804041174227983,
+    "rareWords": 541,
+    "technicalTerms": 3419,
+    "jargonWords": 150,
+    "avgWordLength": 8.193671368661837,
+    "complexityScore": 0.31338162409454823
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 724,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 79,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 482,
+    "avgParagraphLength": 39.17634854771784,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 41,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 28.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -15.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 11.875611634041604,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -15.31097091489599,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 28.36725663716814,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31338162409454823,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

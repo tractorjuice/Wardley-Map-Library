@@ -1,0 +1,130 @@
+{
+  "bookId": "blue-planet-green-robots-harnessing-ai-for-environmental-sustainability-cdaf677f-34ac-43",
+  "directory": "Blue_Planet__Green_Robots__Harnessing_AI_for_Environmental_Sustainability_cdaf677f-34ac-43",
+  "title": "Blue Planet, Green Robots: Harnessing AI for Environmental Sustainability",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:48.311Z",
+  "summary": {
+    "overallScore": 16.42147867172084,
+    "readabilityGrade": "Poor",
+    "wordCount": 40756,
+    "estimatedReadingTime": 204
+  },
+  "readabilityMetrics": {
+    "fleschScore": -3.9463033206978935,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.177635078154946,
+    "fogIndex": 23.992408485905692,
+    "smogIndex": 20.080082690387343,
+    "ariIndex": 21.34794313265447,
+    "cliIndex": 20.449504367455095,
+    "avgSentenceLength": 25.632704402515724,
+    "avgSyllablesPerWord": 2.1839729119638824,
+    "complexWordRatio": 0.343483168122485
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1590,
+    "avgWordsPerSentence": 25.632704402515724,
+    "avgSyllablesPerWord": 2.1839729119638824,
+    "longSentences": 602,
+    "shortSentences": 11,
+    "complexWords": 13999,
+    "passiveVoice": 217,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 464,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.6 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 23037,
+    "uniqueWords": 3299,
+    "vocabularyRichness": 0.14320441029647957,
+    "rareWords": 671,
+    "technicalTerms": 5321,
+    "jargonWords": 153,
+    "avgWordLength": 7.889655771150758,
+    "complexityScore": 0.2667448018405174
+  },
+  "structurePatterns": {
+    "headers": 8,
+    "subheaders": 66,
+    "bulletPoints": 556,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 270,
+    "links": 219,
+    "emphasis": 15,
+    "paragraphs": 921,
+    "avgParagraphLength": 43.700325732899024,
+    "tableOfContents": true,
+    "summaries": 29,
+    "examples": 41,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.6 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 26.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -3.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 16.42147867172084,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -3.9463033206978935,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.632704402515724,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2667448018405174,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

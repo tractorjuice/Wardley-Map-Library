@@ -1,0 +1,130 @@
+{
+  "bookId": "harnessing-genai-for-environmental-stewardship-a-c7f85312",
+  "directory": "Harnessing_GenAI_for_Environmental_Stewardship__A__c7f85312",
+  "title": "Harnessing GenAI for Environmental Stewardship: A Practical Guide for the Environment Agency",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:53.311Z",
+  "summary": {
+    "overallScore": 20.517221905796724,
+    "readabilityGrade": "Poor",
+    "wordCount": 51080,
+    "estimatedReadingTime": 256
+  },
+  "readabilityMetrics": {
+    "fleschScore": 6.293054764491814,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.870194795869434,
+    "fogIndex": 21.90784792428188,
+    "smogIndex": 18.478528121990255,
+    "ariIndex": 18.540704776143265,
+    "cliIndex": 18.969167580266248,
+    "avgSentenceLength": 22.093425605536332,
+    "avgSyllablesPerWord": 2.1054032889584966,
+    "complexWordRatio": 0.32676194205168363
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2312,
+    "avgWordsPerSentence": 22.093425605536332,
+    "avgSyllablesPerWord": 2.1054032889584966,
+    "longSentences": 598,
+    "shortSentences": 22,
+    "complexWords": 16691,
+    "passiveVoice": 340,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 633,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.1 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 32309,
+    "uniqueWords": 3521,
+    "vocabularyRichness": 0.10897892228171717,
+    "rareWords": 645,
+    "technicalTerms": 7200,
+    "jargonWords": 1212,
+    "avgWordLength": 7.690488718313783,
+    "complexityScore": 0.28032436782320713
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 85,
+    "bulletPoints": 745,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 62,
+    "links": 94,
+    "emphasis": 211,
+    "paragraphs": 737,
+    "avgParagraphLength": 68.42876526458616,
+    "tableOfContents": true,
+    "summaries": 56,
+    "examples": 84,
+    "definitions": 8
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 22.1 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 28.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 6.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.517221905796724,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 6.293054764491814,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 22.093425605536332,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.28032436782320713,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

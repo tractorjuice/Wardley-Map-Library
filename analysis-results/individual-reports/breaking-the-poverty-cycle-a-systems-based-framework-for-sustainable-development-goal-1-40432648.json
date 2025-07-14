@@ -1,0 +1,131 @@
+{
+  "bookId": "breaking-the-poverty-cycle-a-systems-based-framework-for-sustainable-development-goal-1-40432648",
+  "directory": "Breaking_the_Poverty_Cycle__A_Systems-Based_Framework_for_Sustainable_Development_Goal_1_40432648",
+  "title": "Breaking the Poverty Cycle: A Systems-Based Framework for Sustainable Development Goal 1",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:48.528Z",
+  "summary": {
+    "overallScore": 1.0750829532276835,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 14726,
+    "estimatedReadingTime": 74
+  },
+  "readabilityMetrics": {
+    "fleschScore": -27.31229261693079,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.10917013639627,
+    "fogIndex": 30.03136120161246,
+    "smogIndex": 24.369591411090642,
+    "ariIndex": 27.366752771878403,
+    "cliIndex": 24.001412467744128,
+    "avgSentenceLength": 32.36483516483516,
+    "avgSyllablesPerWord": 2.379396984924623,
+    "complexWordRatio": 0.4271356783919598
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 455,
+    "avgWordsPerSentence": 32.36483516483516,
+    "avgSyllablesPerWord": 2.379396984924623,
+    "longSentences": 213,
+    "shortSentences": 8,
+    "complexWords": 6290,
+    "passiveVoice": 30,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 190,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.4 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (46.8%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9897,
+    "uniqueWords": 2111,
+    "vocabularyRichness": 0.21329695867434575,
+    "rareWords": 504,
+    "technicalTerms": 2817,
+    "jargonWords": 39,
+    "avgWordLength": 8.486410023239365,
+    "complexityScore": 0.3394968172173386
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 44,
+    "bulletPoints": 491,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 55,
+    "links": 53,
+    "emphasis": 15,
+    "paragraphs": 382,
+    "avgParagraphLength": 38.102094240837694,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 8,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 33.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -27.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.0750829532276835,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -27.31229261693079,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.36483516483516,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3394968172173386,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

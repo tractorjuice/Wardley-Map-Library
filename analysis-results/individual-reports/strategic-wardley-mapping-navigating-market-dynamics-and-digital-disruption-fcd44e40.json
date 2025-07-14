@@ -1,0 +1,130 @@
+{
+  "bookId": "strategic-wardley-mapping-navigating-market-dynamics-and-digital-disruption-fcd44e40",
+  "directory": "Strategic_Wardley_Mapping__Navigating_Market_Dynamics_and_Digital_Disruption_fcd44e40",
+  "title": "Strategic Wardley Mapping: Navigating Market Dynamics and Digital Disruption",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.556Z",
+  "summary": {
+    "overallScore": 13.91576237825135,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19728,
+    "estimatedReadingTime": 99
+  },
+  "readabilityMetrics": {
+    "fleschScore": -10.210594054371626,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.270163844382676,
+    "fogIndex": 26.805909722065294,
+    "smogIndex": 22.195743839609044,
+    "ariIndex": 24.304894249094183,
+    "cliIndex": 21.264156528791556,
+    "avgSentenceLength": 30.538699690402478,
+    "avgSyllablesPerWord": 2.1991585563665854,
+    "complexWordRatio": 0.36476074614760745
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 646,
+    "avgWordsPerSentence": 30.538699690402478,
+    "avgSyllablesPerWord": 2.1991585563665854,
+    "longSentences": 244,
+    "shortSentences": 5,
+    "complexWords": 7196,
+    "passiveVoice": 76,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 292,
+    "readabilityIssues": [
+      "Sentences too long (avg: 30.5 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12720,
+    "uniqueWords": 2232,
+    "vocabularyRichness": 0.17547169811320754,
+    "rareWords": 474,
+    "technicalTerms": 3443,
+    "jargonWords": 146,
+    "avgWordLength": 8.1125,
+    "complexityScore": 0.3194182389937107
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 56,
+    "bulletPoints": 703,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 81,
+    "links": 65,
+    "emphasis": 15,
+    "paragraphs": 487,
+    "avgParagraphLength": 39.95893223819302,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 16,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 30.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -10.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 13.91576237825135,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -10.210594054371626,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 30.538699690402478,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3194182389937107,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

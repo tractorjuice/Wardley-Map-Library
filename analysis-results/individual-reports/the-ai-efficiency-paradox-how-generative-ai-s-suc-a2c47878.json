@@ -1,0 +1,131 @@
+{
+  "bookId": "the-ai-efficiency-paradox-how-generative-ai-s-suc-a2c47878",
+  "directory": "The_AI_Efficiency_Paradox__How_Generative_AI_s_Suc_a2c47878",
+  "title": "The AI Efficiency Paradox: How Generative AI's Success Could Drive Unsustainable Resource Consumption",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:00.175Z",
+  "summary": {
+    "overallScore": 5.976843054684843,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 18436,
+    "estimatedReadingTime": 93
+  },
+  "readabilityMetrics": {
+    "fleschScore": -15.057892363287891,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.79425284903785,
+    "fogIndex": 28.16535571567679,
+    "smogIndex": 23.229017508970113,
+    "ariIndex": 25.941092019297663,
+    "cliIndex": 21.27357561293122,
+    "avgSentenceLength": 33.952117863720076,
+    "avgSyllablesPerWord": 2.2155022781514426,
+    "complexWordRatio": 0.36461271425471903
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 543,
+    "avgWordsPerSentence": 33.952117863720076,
+    "avgSyllablesPerWord": 2.2155022781514426,
+    "longSentences": 273,
+    "shortSentences": 7,
+    "complexWords": 6722,
+    "passiveVoice": 63,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 224,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.0 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (50.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12249,
+    "uniqueWords": 2359,
+    "vocabularyRichness": 0.19258714997142623,
+    "rareWords": 485,
+    "technicalTerms": 3105,
+    "jargonWords": 42,
+    "avgWordLength": 7.9644052575720465,
+    "complexityScore": 0.29651400114295046
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 60,
+    "bulletPoints": 566,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 69,
+    "emphasis": 15,
+    "paragraphs": 439,
+    "avgParagraphLength": 41.3621867881549,
+    "tableOfContents": true,
+    "summaries": 3,
+    "examples": 10,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -15.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.976843054684843,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -15.057892363287891,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.952117863720076,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.29651400114295046,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

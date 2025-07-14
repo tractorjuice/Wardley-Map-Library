@@ -1,0 +1,131 @@
+{
+  "bookId": "transforming-government-through-ai-a-strategic-ac-815b907d",
+  "directory": "Transforming_Government_Through_AI__A_Strategic_Ac_815b907d",
+  "title": "Transforming Government Through AI: A Strategic Action Plan for the UK Public Sector",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:19:02.479Z",
+  "summary": {
+    "overallScore": 5.011482429414604,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 21249,
+    "estimatedReadingTime": 107
+  },
+  "readabilityMetrics": {
+    "fleschScore": -17.47129392646349,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.06205959090906,
+    "fogIndex": 28.785591804488014,
+    "smogIndex": 23.642409193616228,
+    "ariIndex": 26.501893751092155,
+    "cliIndex": 22.139417384347492,
+    "avgSentenceLength": 33.67511885895404,
+    "avgSyllablesPerWord": 2.2473528166031342,
+    "complexWordRatio": 0.3828886065226599
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 631,
+    "avgWordsPerSentence": 33.67511885895404,
+    "avgSyllablesPerWord": 2.2473528166031342,
+    "longSentences": 293,
+    "shortSentences": 6,
+    "complexWords": 8136,
+    "passiveVoice": 49,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 241,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (46.4%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 3951,
+    "uniqueWords": 1309,
+    "vocabularyRichness": 0.33130852948620604,
+    "rareWords": 329,
+    "technicalTerms": 983,
+    "jargonWords": 42,
+    "avgWordLength": 8.057200708681346,
+    "complexityScore": 0.34269805112629714
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 69,
+    "bulletPoints": 780,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 91,
+    "links": 168,
+    "emphasis": 15,
+    "paragraphs": 570,
+    "avgParagraphLength": 36.57719298245614,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 9,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -17.5",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.011482429414604,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -17.47129392646349,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.67511885895404,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34269805112629714,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

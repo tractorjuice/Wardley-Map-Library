@@ -1,0 +1,143 @@
+{
+  "bookId": "mapping-the-ilc-lifecycle-a-beginner-s-guide-to-wardley-mapping-199fb93c-e40a",
+  "directory": "Mapping_the_ILC_Lifecycle__A_Beginner_s_Guide_to_Wardley_Mapping_199fb93c-e40a",
+  "title": "Mapping the ILC Lifecycle: A Beginner’s Guide to Wardley Mapping",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:54.733Z",
+  "summary": {
+    "overallScore": 8.541500073244686,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 15157,
+    "estimatedReadingTime": 76
+  },
+  "readabilityMetrics": {
+    "fleschScore": -8.646249816888286,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.582547978455043,
+    "fogIndex": 27.157306327748582,
+    "smogIndex": 22.458066968459452,
+    "ariIndex": 26.184214885010654,
+    "cliIndex": 19.927275846143697,
+    "avgSentenceLength": 36.699757869249396,
+    "avgSyllablesPerWord": 2.1067493567328626,
+    "complexWordRatio": 0.31193507950122057
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 413,
+    "avgWordsPerSentence": 36.699757869249396,
+    "avgSyllablesPerWord": 2.1067493567328626,
+    "longSentences": 177,
+    "shortSentences": 19,
+    "complexWords": 4728,
+    "passiveVoice": 110,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 144,
+    "readabilityIssues": [
+      "Sentences too long (avg: 36.7 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)",
+      "Too many long sentences (42.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9935,
+    "uniqueWords": 2559,
+    "vocabularyRichness": 0.2575742325113236,
+    "rareWords": 548,
+    "technicalTerms": 1658,
+    "jargonWords": 131,
+    "avgWordLength": 7.37916456970307,
+    "complexityScore": 0.23522898842476095
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 78,
+    "bulletPoints": 672,
+    "numberedLists": 19,
+    "codeBlocks": 64,
+    "quotes": 47,
+    "links": 87,
+    "emphasis": 45,
+    "paragraphs": 424,
+    "avgParagraphLength": 34.304245283018865,
+    "tableOfContents": true,
+    "summaries": 3,
+    "examples": 14,
+    "definitions": 7
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 36.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "High",
+      "issue": "26.6% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "High - Active voice improves clarity and engagement"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -8.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 6,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 8.541500073244686,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -8.646249816888286,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 36.699757869249396,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23522898842476095,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

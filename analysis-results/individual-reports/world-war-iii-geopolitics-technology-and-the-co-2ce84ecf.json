@@ -1,0 +1,130 @@
+{
+  "bookId": "world-war-iii-geopolitics-technology-and-the-co-2ce84ecf",
+  "directory": "World_War_III__Geopolitics__Technology__and_the_Co_2ce84ecf",
+  "title": "World War III: Geopolitics, Technology, and the Coming Global Conflict",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:19:05.131Z",
+  "summary": {
+    "overallScore": 21.156376308832524,
+    "readabilityGrade": "Poor",
+    "wordCount": 67280,
+    "estimatedReadingTime": 337
+  },
+  "readabilityMetrics": {
+    "fleschScore": 7.890940772081308,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.75435603130808,
+    "fogIndex": 21.557865693868838,
+    "smogIndex": 18.31464179314618,
+    "ariIndex": 18.523162527561965,
+    "cliIndex": 18.703958977407847,
+    "avgSentenceLength": 22.524271844660195,
+    "avgSyllablesPerWord": 2.08134661117717,
+    "complexWordRatio": 0.3137039239001189
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2987,
+    "avgWordsPerSentence": 22.524271844660195,
+    "avgSyllablesPerWord": 2.08134661117717,
+    "longSentences": 770,
+    "shortSentences": 20,
+    "complexWords": 21106,
+    "passiveVoice": 358,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 574,
+    "readabilityIssues": [
+      "Sentences too long (avg: 22.5 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 41817,
+    "uniqueWords": 4628,
+    "vocabularyRichness": 0.11067269292393046,
+    "rareWords": 878,
+    "technicalTerms": 8544,
+    "jargonWords": 49,
+    "avgWordLength": 7.76708037401057,
+    "complexityScore": 0.22648683549752494
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 119,
+    "bulletPoints": 1178,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 128,
+    "emphasis": 31,
+    "paragraphs": 1058,
+    "avgParagraphLength": 62.901701323251416,
+    "tableOfContents": true,
+    "summaries": 46,
+    "examples": 27,
+    "definitions": 9
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 22.5 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 22.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 7.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 21.156376308832524,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 7.890940772081308,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 22.524271844660195,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.22648683549752494,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

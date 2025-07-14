@@ -1,0 +1,142 @@
+{
+  "bookId": "transforming-government-with-okrs-a-guide-to-implementing-objectives-and-key-results-in-the-public-sector-d3346850-0768-40",
+  "directory": "Transforming_Government_with_OKRs__A_Guide_to_Implementing_Objectives_and_Key_Results_in_the_Public_Sector_d3346850-0768-40",
+  "title": "Transforming Government with OKRs: A Guide to Implementing Objectives and Key Results in the Public Sector",
+  "category": "Government",
+  "generatedAt": "2025-07-14T19:19:02.653Z",
+  "summary": {
+    "overallScore": 18.148873974768243,
+    "readabilityGrade": "Poor",
+    "wordCount": 54547,
+    "estimatedReadingTime": 273
+  },
+  "readabilityMetrics": {
+    "fleschScore": 0.37218493692060406,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 20.11766197950246,
+    "fogIndex": 24.37878861458776,
+    "smogIndex": 20.471501955288268,
+    "ariIndex": 21.864963393035325,
+    "cliIndex": 19.822826553247662,
+    "avgSentenceLength": 27.815910249872513,
+    "avgSyllablesPerWord": 2.1067336425467946,
+    "complexWordRatio": 0.3313106128659688
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1961,
+    "avgWordsPerSentence": 27.815910249872513,
+    "avgSyllablesPerWord": 2.1067336425467946,
+    "longSentences": 749,
+    "shortSentences": 18,
+    "complexWords": 18072,
+    "passiveVoice": 324,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 645,
+    "readabilityIssues": [
+      "Sentences too long (avg: 27.8 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 35762,
+    "uniqueWords": 4027,
+    "vocabularyRichness": 0.11260555897321178,
+    "rareWords": 806,
+    "technicalTerms": 7320,
+    "jargonWords": 154,
+    "avgWordLength": 7.831133605503048,
+    "complexityScore": 0.23153067501817573
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 78,
+    "bulletPoints": 1391,
+    "numberedLists": 147,
+    "codeBlocks": 0,
+    "quotes": 40,
+    "links": 92,
+    "emphasis": 15,
+    "paragraphs": 1486,
+    "avgParagraphLength": 36.335127860026915,
+    "tableOfContents": true,
+    "summaries": 45,
+    "examples": 113,
+    "definitions": 4
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 27.8 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 23.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.5% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 0.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.148873974768243,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 0.37218493692060406,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 27.815910249872513,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.23153067501817573,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "bookId": "ensuring-healthy-lives-a-comprehensive-guide-to-s-3229dd35",
+  "directory": "Ensuring_Healthy_Lives__A_Comprehensive_Guide_to_S_3229dd35",
+  "title": "Ensuring Healthy Lives: A Comprehensive Guide to SDG 3",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:51.254Z",
+  "summary": {
+    "overallScore": 18.924687043572874,
+    "readabilityGrade": "Poor",
+    "wordCount": 12113,
+    "estimatedReadingTime": 61
+  },
+  "readabilityMetrics": {
+    "fleschScore": 2.3117176089321845,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.39441406193254,
+    "fogIndex": 23.249732330993307,
+    "smogIndex": 19.63877002631132,
+    "ariIndex": 21.170217919314155,
+    "cliIndex": 20.018413274993815,
+    "avgSentenceLength": 25.993562231759658,
+    "avgSyllablesPerWord": 2.1056715925039216,
+    "complexWordRatio": 0.321307685957236
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 466,
+    "avgWordsPerSentence": 25.993562231759658,
+    "avgSyllablesPerWord": 2.1056715925039216,
+    "longSentences": 156,
+    "shortSentences": 6,
+    "complexWords": 3892,
+    "passiveVoice": 79,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 165,
+    "readabilityIssues": [
+      "Sentences too long (avg: 26.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 7319,
+    "uniqueWords": 1537,
+    "vocabularyRichness": 0.21000136630687252,
+    "rareWords": 303,
+    "technicalTerms": 1338,
+    "jargonWords": 12,
+    "avgWordLength": 7.80174887279683,
+    "complexityScore": 0.22585052602814593
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 52,
+    "bulletPoints": 327,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 35,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 306,
+    "avgParagraphLength": 38.90522875816993,
+    "tableOfContents": true,
+    "summaries": 11,
+    "examples": 30,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 26.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 22.6%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "17.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 2.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 18.924687043572874,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 2.3117176089321845,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.993562231759658,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.22585052602814593,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

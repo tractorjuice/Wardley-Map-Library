@@ -1,0 +1,118 @@
+{
+  "bookId": "genai-for-the-nhs-a-practical-guide-to-strategy-82b9d881",
+  "directory": "GenAI_for_the_NHS__A_Practical_Guide_to_Strategy___82b9d881",
+  "title": "GenAI for the NHS: A Practical Guide to Strategy, Implementation, and Ethical Governance",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:52.594Z",
+  "summary": {
+    "overallScore": 22.08796357654519,
+    "readabilityGrade": "Poor",
+    "wordCount": 52657,
+    "estimatedReadingTime": 264
+  },
+  "readabilityMetrics": {
+    "fleschScore": 10.219908941362974,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.03937270024802,
+    "fogIndex": 20.785584857141938,
+    "smogIndex": 17.691350114058647,
+    "ariIndex": 17.885372453389934,
+    "cliIndex": 18.78951554399225,
+    "avgSentenceLength": 20.95384003183446,
+    "avgSyllablesPerWord": 2.0726589057485234,
+    "complexWordRatio": 0.3101012211102038
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2513,
+    "avgWordsPerSentence": 20.95384003183446,
+    "avgSyllablesPerWord": 2.0726589057485234,
+    "longSentences": 561,
+    "shortSentences": 57,
+    "complexWords": 16329,
+    "passiveVoice": 294,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 666,
+    "readabilityIssues": [
+      "Sentences too long (avg: 21.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 33546,
+    "uniqueWords": 3700,
+    "vocabularyRichness": 0.11029630954510225,
+    "rareWords": 675,
+    "technicalTerms": 6542,
+    "jargonWords": 925,
+    "avgWordLength": 7.608000953914028,
+    "complexityScore": 0.24271150062600608
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 96,
+    "bulletPoints": 778,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 67,
+    "links": 110,
+    "emphasis": 60,
+    "paragraphs": 832,
+    "avgParagraphLength": 62.453125,
+    "tableOfContents": true,
+    "summaries": 10,
+    "examples": 62,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.3%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 10.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 22.08796357654519,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 10.219908941362974,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.95384003183446,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24271150062600608,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

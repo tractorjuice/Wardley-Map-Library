@@ -1,0 +1,130 @@
+{
+  "bookId": "strategic-evolution-through-wardley-mapping-a-visual-guide-to-market-position-innovation-and-digital-transformation-57e8b679",
+  "directory": "Strategic_Evolution_Through_Wardley_Mapping__A_Visual_Guide_to_Market_Position__Innovation__and_Digital_Transformation_57e8b679",
+  "title": "Strategic Evolution Through Wardley Mapping: A Visual Guide to Market Position, Innovation, and Digital Transformation",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.193Z",
+  "summary": {
+    "overallScore": 12.725699122809896,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16289,
+    "estimatedReadingTime": 82
+  },
+  "readabilityMetrics": {
+    "fleschScore": -13.185752192975258,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.82107294226095,
+    "fogIndex": 27.33274883673195,
+    "smogIndex": 22.56775848465902,
+    "ariIndex": 24.86629825353971,
+    "cliIndex": 21.64052796365645,
+    "avgSentenceLength": 31.08587786259542,
+    "avgSyllablesPerWord": 2.2277610657498927,
+    "complexWordRatio": 0.3724599422923445
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 524,
+    "avgWordsPerSentence": 31.08587786259542,
+    "avgSyllablesPerWord": 2.2277610657498927,
+    "longSentences": 205,
+    "shortSentences": 7,
+    "complexWords": 6067,
+    "passiveVoice": 53,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 220,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.1 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10523,
+    "uniqueWords": 2031,
+    "vocabularyRichness": 0.1930057968260002,
+    "rareWords": 445,
+    "technicalTerms": 2900,
+    "jargonWords": 127,
+    "avgWordLength": 8.14073933288986,
+    "complexityScore": 0.3299439323386867
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 599,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 71,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 406,
+    "avgParagraphLength": 39.50738916256157,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 7,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 33.0%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -13.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 12.725699122809896,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -13.185752192975258,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.08587786259542,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3299439323386867,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

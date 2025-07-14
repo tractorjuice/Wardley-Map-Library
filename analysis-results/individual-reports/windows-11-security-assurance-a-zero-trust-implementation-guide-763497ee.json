@@ -1,0 +1,131 @@
+{
+  "bookId": "windows-11-security-assurance-a-zero-trust-implementation-guide-763497ee",
+  "directory": "Windows_11_Security_Assurance__A_Zero_Trust_Implementation_Guide_763497ee",
+  "title": "Windows 11 Security Assurance: A Zero Trust Implementation Guide",
+  "category": "Security",
+  "generatedAt": "2025-07-14T19:19:04.760Z",
+  "summary": {
+    "overallScore": 1.8418761412981777,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16791,
+    "estimatedReadingTime": 84
+  },
+  "readabilityMetrics": {
+    "fleschScore": -25.395309646754555,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.045241869173754,
+    "fogIndex": 29.436938666794727,
+    "smogIndex": 24.048277423859407,
+    "ariIndex": 26.843807184961456,
+    "cliIndex": 22.85993687094277,
+    "avgSentenceLength": 33.183794466403164,
+    "avgSyllablesPerWord": 2.3469120362098743,
+    "complexWordRatio": 0.4040855220058365
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 506,
+    "avgWordsPerSentence": 33.183794466403164,
+    "avgSyllablesPerWord": 2.3469120362098743,
+    "longSentences": 219,
+    "shortSentences": 13,
+    "complexWords": 6785,
+    "passiveVoice": 39,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 173,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.2 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (43.3%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11419,
+    "uniqueWords": 2017,
+    "vocabularyRichness": 0.1766354321744461,
+    "rareWords": 437,
+    "technicalTerms": 2914,
+    "jargonWords": 53,
+    "avgWordLength": 8.22646466415623,
+    "complexityScore": 0.2980996584639636
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 52,
+    "bulletPoints": 725,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 67,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 426,
+    "avgParagraphLength": 38.671361502347416,
+    "tableOfContents": true,
+    "summaries": 4,
+    "examples": 4,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.2 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -25.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.8418761412981777,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -25.395309646754555,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.183794466403164,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.2980996584639636,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

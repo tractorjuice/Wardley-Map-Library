@@ -1,0 +1,142 @@
+{
+  "bookId": "starship-vs-blue-origin-the-new-space-race-and-th-8f339d59",
+  "directory": "Starship_vs_Blue_Origin__The_New_Space_Race_and_th_8f339d59",
+  "title": "Starship vs Blue Origin: The New Space Race and the Future of Space Exploration",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:58.176Z",
+  "summary": {
+    "overallScore": 23.308712763035963,
+    "readabilityGrade": "Poor",
+    "wordCount": 19539,
+    "estimatedReadingTime": 98
+  },
+  "readabilityMetrics": {
+    "fleschScore": 13.271781907589911,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.173063749472856,
+    "fogIndex": 21.016665031591003,
+    "smogIndex": 18.03444322246799,
+    "ariIndex": 18.15455256488667,
+    "cliIndex": 17.857157479911972,
+    "avgSentenceLength": 23.205463182897862,
+    "avgSyllablesPerWord": 2.0095706023849735,
+    "complexWordRatio": 0.2933619939607964
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 842,
+    "avgWordsPerSentence": 23.205463182897862,
+    "avgSyllablesPerWord": 2.0095706023849735,
+    "longSentences": 248,
+    "shortSentences": 13,
+    "complexWords": 5732,
+    "passiveVoice": 160,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 217,
+    "readabilityIssues": [
+      "Sentences too long (avg: 23.2 words)",
+      "Complex vocabulary (avg: 2.0 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11664,
+    "uniqueWords": 2433,
+    "vocabularyRichness": 0.20859053497942387,
+    "rareWords": 487,
+    "technicalTerms": 2824,
+    "jargonWords": 12,
+    "avgWordLength": 7.608110425240055,
+    "complexityScore": 0.28489368998628256
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 58,
+    "bulletPoints": 297,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 37,
+    "links": 67,
+    "emphasis": 15,
+    "paragraphs": 363,
+    "avgParagraphLength": 52.78236914600551,
+    "tableOfContents": true,
+    "summaries": 22,
+    "examples": 32,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "Medium",
+      "issue": "Average sentence length is 23.2 words",
+      "recommendation": "Consider breaking some longer sentences into shorter ones for better flow.",
+      "impact": "Medium - Shorter sentences improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 28.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "19.0% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 13.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "High",
+      "score": 6,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 23.308712763035963,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 13.271781907589911,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 23.205463182897862,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.28489368998628256,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

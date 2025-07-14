@@ -1,0 +1,130 @@
+{
+  "bookId": "first-mover-intelligence-mastering-early-recognition-and-strategic-adaptation-in-a-dynamic-world-0b7ec179",
+  "directory": "First-Mover_Intelligence__Mastering_Early_Recognition_and_Strategic_Adaptation_in_a_Dynamic_World_0b7ec179",
+  "title": "First-Mover Intelligence: Mastering Early Recognition and Strategic Adaptation in a Dynamic World",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:18:51.292Z",
+  "summary": {
+    "overallScore": 9.30685405793049,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 14319,
+    "estimatedReadingTime": 72
+  },
+  "readabilityMetrics": {
+    "fleschScore": -21.732864855173773,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.12595246357925,
+    "fogIndex": 28.686813706442845,
+    "smogIndex": 23.465037402097458,
+    "ariIndex": 26.465122342914576,
+    "cliIndex": 23.366966966966967,
+    "avgSentenceLength": 31.53964757709251,
+    "avgSyllablesPerWord": 2.32334660241637,
+    "complexWordRatio": 0.40177386689014594
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 454,
+    "avgWordsPerSentence": 31.53964757709251,
+    "avgSyllablesPerWord": 2.32334660241637,
+    "longSentences": 181,
+    "shortSentences": 5,
+    "complexWords": 5753,
+    "passiveVoice": 28,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 195,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.5 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 9371,
+    "uniqueWords": 2043,
+    "vocabularyRichness": 0.2180130188880589,
+    "rareWords": 494,
+    "technicalTerms": 2842,
+    "jargonWords": 17,
+    "avgWordLength": 8.461530252907908,
+    "complexityScore": 0.3578059972254829
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 44,
+    "bulletPoints": 515,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 61,
+    "links": 53,
+    "emphasis": 15,
+    "paragraphs": 381,
+    "avgParagraphLength": 37.041994750656166,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 4,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.5 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 35.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -21.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 9.30685405793049,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -21.732864855173773,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.53964757709251,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3578059972254829,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "bookId": "ai-for-global-goals-leveraging-generative-ai-to-advance-un-sustainable-development-43b32ef8-ec94-4a",
+  "directory": "AI_for_Global_Goals__Leveraging_Generative_AI_to_Advance_UN_Sustainable_Development_43b32ef8-ec94-4a",
+  "title": "AI for Global Goals: Leveraging Generative AI to Advance UN Sustainable Development",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:47.373Z",
+  "summary": {
+    "overallScore": 1.4366967065213654,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17655,
+    "estimatedReadingTime": 89
+  },
+  "readabilityMetrics": {
+    "fleschScore": -26.408258233696586,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.55963267806501,
+    "fogIndex": 29.64543290162518,
+    "smogIndex": 24.255323086621456,
+    "ariIndex": 28.372479034139943,
+    "cliIndex": 23.869496459926363,
+    "avgSentenceLength": 34.68565815324165,
+    "avgSyllablesPerWord": 2.3408666100254885,
+    "complexWordRatio": 0.394279241008213
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 509,
+    "avgWordsPerSentence": 34.68565815324165,
+    "avgSyllablesPerWord": 2.3408666100254885,
+    "longSentences": 244,
+    "shortSentences": 5,
+    "complexWords": 6961,
+    "passiveVoice": 49,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 203,
+    "readabilityIssues": [
+      "Sentences too long (avg: 34.7 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (47.9%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11027,
+    "uniqueWords": 2037,
+    "vocabularyRichness": 0.18472839394214202,
+    "rareWords": 450,
+    "technicalTerms": 3098,
+    "jargonWords": 150,
+    "avgWordLength": 8.24793688219824,
+    "complexityScore": 0.3353586650947674
+  },
+  "structurePatterns": {
+    "headers": 6,
+    "subheaders": 44,
+    "bulletPoints": 557,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 150,
+    "links": 147,
+    "emphasis": 45,
+    "paragraphs": 517,
+    "avgParagraphLength": 33.638297872340424,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 8,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 34.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 33.5%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -26.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.4366967065213654,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -26.408258233696586,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 34.68565815324165,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3353586650947674,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "bookId": "wardley-mapping-nato-s-warfighting-concept-a-strategic-analysis-of-the-six-operational-domains-4d6eb348-b1cd-45",
+  "directory": "Wardley_Mapping_NATO_s_Warfighting_Concept__A_Strategic_Analysis_of_the_Six_Operational_Domains_4d6eb348-b1cd-45",
+  "title": "Wardley Mapping NATO's Warfighting Concept: A Strategic Analysis of the Six Operational Domains",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:19:03.294Z",
+  "summary": {
+    "overallScore": 17.368790748205868,
+    "readabilityGrade": "Poor",
+    "wordCount": 42758,
+    "estimatedReadingTime": 214
+  },
+  "readabilityMetrics": {
+    "fleschScore": -1.5780231294853309,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 19.86684906851203,
+    "fogIndex": 23.28515407454565,
+    "smogIndex": 19.643368445530378,
+    "ariIndex": 21.182466261267564,
+    "cliIndex": 20.197354413209222,
+    "avgSentenceLength": 25.711365003006616,
+    "avgSyllablesPerWord": 2.1550353150287664,
+    "complexWordRatio": 0.325015201833575
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 1663,
+    "avgWordsPerSentence": 25.711365003006616,
+    "avgSyllablesPerWord": 2.1550353150287664,
+    "longSentences": 618,
+    "shortSentences": 8,
+    "complexWords": 13897,
+    "passiveVoice": 234,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 426,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.7 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 23280,
+    "uniqueWords": 2905,
+    "vocabularyRichness": 0.1247852233676976,
+    "rareWords": 572,
+    "technicalTerms": 5522,
+    "jargonWords": 703,
+    "avgWordLength": 7.850429553264605,
+    "complexityScore": 0.29196735395189005
+  },
+  "structurePatterns": {
+    "headers": 7,
+    "subheaders": 71,
+    "bulletPoints": 573,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 253,
+    "links": 244,
+    "emphasis": 68,
+    "paragraphs": 999,
+    "avgParagraphLength": 42.15815815815816,
+    "tableOfContents": true,
+    "summaries": 27,
+    "examples": 51,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.7 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 29.2%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -1.6",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 17.368790748205868,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -1.5780231294853309,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 25.711365003006616,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.29196735395189005,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

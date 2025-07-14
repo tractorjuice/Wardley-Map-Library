@@ -1,0 +1,118 @@
+{
+  "bookId": "world-war-iii-an-expert-s-guide-to-geopolitics-t-74e6d57f",
+  "directory": "World_War_III__An_Expert_s_Guide_to_Geopolitics__T_74e6d57f",
+  "title": "World War III: An Expert's Guide to Geopolitics, Technology, and Survival",
+  "category": "Other",
+  "generatedAt": "2025-07-14T19:19:04.920Z",
+  "summary": {
+    "overallScore": 20.5210483835069,
+    "readabilityGrade": "Poor",
+    "wordCount": 49394,
+    "estimatedReadingTime": 247
+  },
+  "readabilityMetrics": {
+    "fleschScore": 6.30262095876725,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.495221631821696,
+    "fogIndex": 21.81474210575147,
+    "smogIndex": 18.232351156007788,
+    "ariIndex": 18.372626320289108,
+    "cliIndex": 19.60028100579017,
+    "avgSentenceLength": 20.589412255106293,
+    "avgSyllablesPerWord": 2.1233348179940883,
+    "complexWordRatio": 0.3394744300927238
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2399,
+    "avgWordsPerSentence": 20.589412255106293,
+    "avgSyllablesPerWord": 2.1233348179940883,
+    "longSentences": 495,
+    "shortSentences": 36,
+    "complexWords": 16768,
+    "passiveVoice": 277,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 428,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.6 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 31254,
+    "uniqueWords": 4256,
+    "vocabularyRichness": 0.13617456965508415,
+    "rareWords": 870,
+    "technicalTerms": 6760,
+    "jargonWords": 89,
+    "avgWordLength": 7.982018301657388,
+    "complexityScore": 0.24697638702246114
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 83,
+    "bulletPoints": 767,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 45,
+    "links": 92,
+    "emphasis": 44,
+    "paragraphs": 704,
+    "avgParagraphLength": 69.50142045454545,
+    "tableOfContents": true,
+    "summaries": 57,
+    "examples": 34,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 6.3",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.5210483835069,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 20
+    },
+    "fleschScore": {
+      "bookScore": 6.30262095876725,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.589412255106293,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24697638702246114,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

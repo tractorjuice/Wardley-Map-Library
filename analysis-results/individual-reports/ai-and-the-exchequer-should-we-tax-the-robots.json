@@ -1,0 +1,143 @@
+{
+  "bookId": "ai-and-the-exchequer-should-we-tax-the-robots",
+  "directory": "AI_and_the_Exchequer__Should_We_Tax_the_Robots_",
+  "title": "AI and the Exchequer: Should We Tax the Robots?",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:47.340Z",
+  "summary": {
+    "overallScore": 14.066055267139678,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 129025,
+    "estimatedReadingTime": 646
+  },
+  "readabilityMetrics": {
+    "fleschScore": 5.165138167849193,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 18.74838750025243,
+    "fogIndex": 22.68428636644713,
+    "smogIndex": 19.213655173332675,
+    "ariIndex": 19.609977682918434,
+    "cliIndex": 18.648319937996508,
+    "avgSentenceLength": 24.99515691592406,
+    "avgSyllablesPerWord": 2.0839217205967837,
+    "complexWordRatio": 0.3171555900019376
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 5162,
+    "avgWordsPerSentence": 24.99515691592406,
+    "avgSyllablesPerWord": 2.0839217205967837,
+    "longSentences": 2101,
+    "shortSentences": 118,
+    "complexWords": 40921,
+    "passiveVoice": 842,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 1760,
+    "readabilityIssues": [
+      "Sentences too long (avg: 25.0 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)",
+      "Too many long sentences (40.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 84032,
+    "uniqueWords": 5988,
+    "vocabularyRichness": 0.07125856816450876,
+    "rareWords": 945,
+    "technicalTerms": 14829,
+    "jargonWords": 110,
+    "avgWordLength": 7.429979055597867,
+    "complexityScore": 0.1890232292460015
+  },
+  "structurePatterns": {
+    "headers": 9,
+    "subheaders": 580,
+    "bulletPoints": 1597,
+    "numberedLists": 0,
+    "codeBlocks": 0,
+    "quotes": 3,
+    "links": 588,
+    "emphasis": 29,
+    "paragraphs": 1818,
+    "avgParagraphLength": 70.20847084708471,
+    "tableOfContents": true,
+    "summaries": 44,
+    "examples": 159,
+    "definitions": 271
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 25.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 18.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Writing Style",
+      "priority": "Medium",
+      "issue": "16.3% passive voice usage",
+      "recommendation": "Convert passive voice to active voice where possible. Active voice is more engaging and clearer.",
+      "impact": "Medium - Active voice improves clarity"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 5.2",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    },
+    {
+      "priority": "Medium",
+      "score": 3,
+      "item": "Reduce passive voice"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 14.066055267139678,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 5.165138167849193,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 24.99515691592406,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.1890232292460015,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

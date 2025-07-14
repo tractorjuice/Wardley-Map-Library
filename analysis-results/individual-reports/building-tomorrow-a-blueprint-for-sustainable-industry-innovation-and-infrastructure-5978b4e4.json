@@ -1,0 +1,131 @@
+{
+  "bookId": "building-tomorrow-a-blueprint-for-sustainable-industry-innovation-and-infrastructure-5978b4e4",
+  "directory": "Building_Tomorrow__A_Blueprint_for_Sustainable_Industry__Innovation__and_Infrastructure_5978b4e4",
+  "title": "Building Tomorrow: A Blueprint for Sustainable Industry, Innovation, and Infrastructure",
+  "category": "Artificial Intelligence",
+  "generatedAt": "2025-07-14T19:18:48.782Z",
+  "summary": {
+    "overallScore": 1.0457789424482584,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 17370,
+    "estimatedReadingTime": 87
+  },
+  "readabilityMetrics": {
+    "fleschScore": -27.38555264387935,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.36157983020563,
+    "fogIndex": 30.323802704378124,
+    "smogIndex": 24.625511439569873,
+    "ariIndex": 28.23887945991998,
+    "cliIndex": 24.508391479562466,
+    "avgSentenceLength": 33.339731285988485,
+    "avgSyllablesPerWord": 2.368566493955095,
+    "complexWordRatio": 0.4246977547495682
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 521,
+    "avgWordsPerSentence": 33.339731285988485,
+    "avgSyllablesPerWord": 2.368566493955095,
+    "longSentences": 249,
+    "shortSentences": 6,
+    "complexWords": 7377,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 190,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.3 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)",
+      "Too many long sentences (47.8%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11874,
+    "uniqueWords": 2370,
+    "vocabularyRichness": 0.1995957554320364,
+    "rareWords": 566,
+    "technicalTerms": 3512,
+    "jargonWords": 48,
+    "avgWordLength": 8.566195048004042,
+    "complexityScore": 0.34748189321205997
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 53,
+    "bulletPoints": 582,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 67,
+    "links": 62,
+    "emphasis": 15,
+    "paragraphs": 453,
+    "avgParagraphLength": 37.88962472406181,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 9,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.3 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 34.7%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -27.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 1.0457789424482584,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -27.38555264387935,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 33.339731285988485,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.34748189321205997,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

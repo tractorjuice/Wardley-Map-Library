@@ -1,0 +1,130 @@
+{
+  "bookId": "mapping-evolution-mastering-strategy-in-a-red-queen-world-19ec116b",
+  "directory": "Mapping_Evolution__Mastering_Strategy_in_a_Red_Queen_World_19ec116b",
+  "title": "Mapping Evolution: Mastering Strategy in a Red Queen World",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:53.947Z",
+  "summary": {
+    "overallScore": 13.544593786941412,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16758,
+    "estimatedReadingTime": 84
+  },
+  "readabilityMetrics": {
+    "fleschScore": -11.138515532646466,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 22.565541127359506,
+    "fogIndex": 26.732592054757806,
+    "smogIndex": 22.176905970518042,
+    "ariIndex": 24.3839069141329,
+    "cliIndex": 20.96657357679914,
+    "avgSentenceLength": 31.206703910614525,
+    "avgSyllablesPerWord": 2.2021124239169354,
+    "complexWordRatio": 0.35624776226279986
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 537,
+    "avgWordsPerSentence": 31.206703910614525,
+    "avgSyllablesPerWord": 2.2021124239169354,
+    "longSentences": 207,
+    "shortSentences": 8,
+    "complexWords": 5970,
+    "passiveVoice": 49,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 236,
+    "readabilityIssues": [
+      "Sentences too long (avg: 31.2 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 10653,
+    "uniqueWords": 2286,
+    "vocabularyRichness": 0.21458744015770206,
+    "rareWords": 487,
+    "technicalTerms": 2836,
+    "jargonWords": 75,
+    "avgWordLength": 8.078381676523046,
+    "complexityScore": 0.31897118182671547
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 48,
+    "bulletPoints": 573,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 64,
+    "links": 57,
+    "emphasis": 15,
+    "paragraphs": 406,
+    "avgParagraphLength": 40.566502463054185,
+    "tableOfContents": true,
+    "summaries": 2,
+    "examples": 7,
+    "definitions": 2
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 31.2 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 31.9%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -11.1",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 13.544593786941412,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -11.138515532646466,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 31.206703910614525,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.31897118182671547,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

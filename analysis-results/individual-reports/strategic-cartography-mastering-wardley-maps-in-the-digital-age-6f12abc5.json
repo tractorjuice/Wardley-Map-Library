@@ -1,0 +1,131 @@
+{
+  "bookId": "strategic-cartography-mastering-wardley-maps-in-the-digital-age-6f12abc5",
+  "directory": "Strategic_Cartography__Mastering_Wardley_Maps_in_the_Digital_Age_6f12abc5",
+  "title": "Strategic Cartography: Mastering Wardley Maps in the Digital Age",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:59.056Z",
+  "summary": {
+    "overallScore": 5.7360929594618595,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19256,
+    "estimatedReadingTime": 97
+  },
+  "readabilityMetrics": {
+    "fleschScore": -15.65976760134535,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 23.6348634689917,
+    "fogIndex": 28.33445031898971,
+    "smogIndex": 23.31425373022989,
+    "ariIndex": 25.903181303390227,
+    "cliIndex": 21.811765683423342,
+    "avgSentenceLength": 32.97260273972603,
+    "avgSyllablesPerWord": 2.234368508516826,
+    "complexWordRatio": 0.37863523057748233
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 584,
+    "avgWordsPerSentence": 32.97260273972603,
+    "avgSyllablesPerWord": 2.234368508516826,
+    "longSentences": 251,
+    "shortSentences": 5,
+    "complexWords": 7291,
+    "passiveVoice": 45,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 245,
+    "readabilityIssues": [
+      "Sentences too long (avg: 33.0 words)",
+      "Complex vocabulary (avg: 2.2 syllables/word)",
+      "Too many long sentences (43.0%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 12726,
+    "uniqueWords": 2394,
+    "vocabularyRichness": 0.18811881188118812,
+    "rareWords": 520,
+    "technicalTerms": 3404,
+    "jargonWords": 164,
+    "avgWordLength": 8.113939965425114,
+    "complexityScore": 0.32123212321232125
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 65,
+    "bulletPoints": 708,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 91,
+    "links": 74,
+    "emphasis": 15,
+    "paragraphs": 497,
+    "avgParagraphLength": 38.24748490945674,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 21,
+    "definitions": 1
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 33.0 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 32.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -15.7",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 5.7360929594618595,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -15.65976760134535,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.97260273972603,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.32123212321232125,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

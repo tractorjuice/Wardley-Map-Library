@@ -1,0 +1,118 @@
+{
+  "bookId": "mapping-armageddon-a-wardley-map-approach-to-worl-c1f4c8c5",
+  "directory": "Mapping_Armageddon__A_Wardley_Map_Approach_to_Worl_c1f4c8c5",
+  "title": "Mapping Armageddon: A Wardley Map Approach to World War III",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:53.899Z",
+  "summary": {
+    "overallScore": 20.147077762852426,
+    "readabilityGrade": "Poor",
+    "wordCount": 47501,
+    "estimatedReadingTime": 238
+  },
+  "readabilityMetrics": {
+    "fleschScore": 5.367694407131069,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 17.58834016783631,
+    "fogIndex": 21.643237444661466,
+    "smogIndex": 18.115310984390774,
+    "ariIndex": 18.25827450629629,
+    "cliIndex": 19.540649670533245,
+    "avgSentenceLength": 20.439328743545612,
+    "avgSyllablesPerWord": 2.136186606597756,
+    "complexWordRatio": 0.3366876486810804
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 2324,
+    "avgWordsPerSentence": 20.439328743545612,
+    "avgSyllablesPerWord": 2.136186606597756,
+    "longSentences": 436,
+    "shortSentences": 50,
+    "complexWords": 15993,
+    "passiveVoice": 273,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 505,
+    "readabilityIssues": [
+      "Sentences too long (avg: 20.4 words)",
+      "Complex vocabulary (avg: 2.1 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 29803,
+    "uniqueWords": 3341,
+    "vocabularyRichness": 0.11210280844210314,
+    "rareWords": 606,
+    "technicalTerms": 6547,
+    "jargonWords": 232,
+    "avgWordLength": 7.939133644264,
+    "complexityScore": 0.24779384625708822
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 86,
+    "bulletPoints": 654,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 34,
+    "links": 95,
+    "emphasis": 94,
+    "paragraphs": 707,
+    "avgParagraphLength": 66.36775106082037,
+    "tableOfContents": true,
+    "summaries": 22,
+    "examples": 78,
+    "definitions": 3
+  },
+  "recommendations": [
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 24.8%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: 5.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 20.147077762852426,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": 5.367694407131069,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 20.439328743545612,
+      "referenceBenchmark": 18.69,
+      "comparison": "Good"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.24779384625708822,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

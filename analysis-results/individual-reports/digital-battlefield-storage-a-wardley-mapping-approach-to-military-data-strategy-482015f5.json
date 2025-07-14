@@ -1,0 +1,130 @@
+{
+  "bookId": "digital-battlefield-storage-a-wardley-mapping-approach-to-military-data-strategy-482015f5",
+  "directory": "Digital_Battlefield_Storage__A_Wardley_Mapping_Approach_to_Military_Data_Strategy_482015f5",
+  "title": "Digital Battlefield Storage: A Wardley Mapping Approach to Military Data Strategy",
+  "category": "Strategic Mapping",
+  "generatedAt": "2025-07-14T19:18:50.687Z",
+  "summary": {
+    "overallScore": 7.828877310117104,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 16711,
+    "estimatedReadingTime": 84
+  },
+  "readabilityMetrics": {
+    "fleschScore": -25.42780672470724,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 24.774283319996446,
+    "fogIndex": 29.044411929526575,
+    "smogIndex": 23.728220128238043,
+    "ariIndex": 26.53542754430604,
+    "cliIndex": 23.136317395727357,
+    "avgSentenceLength": 32.07485604606526,
+    "avgSyllablesPerWord": 2.3606008018670335,
+    "complexWordRatio": 0.40536173777751183
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 521,
+    "avgWordsPerSentence": 32.07485604606526,
+    "avgSyllablesPerWord": 2.3606008018670335,
+    "longSentences": 207,
+    "shortSentences": 5,
+    "complexWords": 6774,
+    "passiveVoice": 34,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 218,
+    "readabilityIssues": [
+      "Sentences too long (avg: 32.1 words)",
+      "Complex vocabulary (avg: 2.4 syllables/word)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 11027,
+    "uniqueWords": 2054,
+    "vocabularyRichness": 0.18627006438741273,
+    "rareWords": 481,
+    "technicalTerms": 3308,
+    "jargonWords": 76,
+    "avgWordLength": 8.403826970164143,
+    "complexityScore": 0.3505033100571325
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 52,
+    "bulletPoints": 586,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 66,
+    "links": 61,
+    "emphasis": 15,
+    "paragraphs": 417,
+    "avgParagraphLength": 39.568345323741006,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 9,
+    "definitions": 0
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 32.1 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 35.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -25.4",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 7.828877310117104,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -25.42780672470724,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 32.07485604606526,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.3505033100571325,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}

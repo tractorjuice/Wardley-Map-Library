@@ -1,0 +1,131 @@
+{
+  "bookId": "technical-debt-assessment-framework-a-comprehensi-802d9f78",
+  "directory": "Technical_Debt_Assessment_Framework__A_Comprehensi_802d9f78",
+  "title": "Technical Debt Assessment Framework: A Comprehensive Guide to Measurement, Management, and Strategic Implementation",
+  "category": "Technology",
+  "generatedAt": "2025-07-14T19:18:59.738Z",
+  "summary": {
+    "overallScore": 2.8535412023049833,
+    "readabilityGrade": "Very Poor",
+    "wordCount": 19557,
+    "estimatedReadingTime": 98
+  },
+  "readabilityMetrics": {
+    "fleschScore": -22.86614699423754,
+    "fleschGrade": "Graduate",
+    "fleschKincaidGrade": 25.250332598024503,
+    "fogIndex": 30.327591254993763,
+    "smogIndex": 24.7394327376653,
+    "ariIndex": 27.960429397013407,
+    "cliIndex": 22.908789691670503,
+    "avgSentenceLength": 35.42934782608695,
+    "avgSyllablesPerWord": 2.2900751649025923,
+    "complexWordRatio": 0.4038963031139745
+  },
+  "sentenceAnalysis": {
+    "totalSentences": 552,
+    "avgWordsPerSentence": 35.42934782608695,
+    "avgSyllablesPerWord": 2.2900751649025923,
+    "longSentences": 280,
+    "shortSentences": 6,
+    "complexWords": 7899,
+    "passiveVoice": 45,
+    "questions": 0,
+    "exclamations": 0,
+    "subordinateClauses": 234,
+    "readabilityIssues": [
+      "Sentences too long (avg: 35.4 words)",
+      "Complex vocabulary (avg: 2.3 syllables/word)",
+      "Too many long sentences (50.7%)"
+    ]
+  },
+  "vocabularyComplexity": {
+    "totalWords": 13395,
+    "uniqueWords": 2301,
+    "vocabularyRichness": 0.1717805151175812,
+    "rareWords": 489,
+    "technicalTerms": 3509,
+    "jargonWords": 31,
+    "avgWordLength": 8.174766703994027,
+    "complexityScore": 0.30078387458006717
+  },
+  "structurePatterns": {
+    "headers": 2,
+    "subheaders": 64,
+    "bulletPoints": 736,
+    "numberedLists": 19,
+    "codeBlocks": 0,
+    "quotes": 85,
+    "links": 73,
+    "emphasis": 20,
+    "paragraphs": 490,
+    "avgParagraphLength": 39.385714285714286,
+    "tableOfContents": true,
+    "summaries": 0,
+    "examples": 10,
+    "definitions": 8
+  },
+  "recommendations": [
+    {
+      "category": "Sentence Structure",
+      "priority": "High",
+      "issue": "Average sentence length is 35.4 words",
+      "recommendation": "Break long sentences into shorter ones. Aim for 12-18 words per sentence.",
+      "impact": "High - Shorter sentences significantly improve readability"
+    },
+    {
+      "category": "Vocabulary",
+      "priority": "High",
+      "issue": "Vocabulary complexity score: 30.1%",
+      "recommendation": "Replace technical terms with simpler alternatives where possible. Add definitions for necessary jargon.",
+      "impact": "High - Simpler vocabulary makes content accessible to wider audience"
+    },
+    {
+      "category": "Reading Flow",
+      "priority": "High",
+      "issue": "Flesch Reading Ease score: -22.9",
+      "recommendation": "Focus on shorter sentences and simpler words. Consider adding examples and analogies.",
+      "impact": "High - Improving flow makes content much more accessible"
+    }
+  ],
+  "improvementPriorities": [
+    {
+      "priority": "Critical",
+      "score": 10,
+      "item": "Shorten long sentences"
+    },
+    {
+      "priority": "Critical",
+      "score": 9,
+      "item": "Simplify vocabulary"
+    },
+    {
+      "priority": "High",
+      "score": 8,
+      "item": "Improve reading flow"
+    }
+  ],
+  "benchmarks": {
+    "overallScore": {
+      "bookScore": 2.8535412023049833,
+      "referenceBenchmark": 50.99,
+      "comparison": "Below Reference",
+      "percentile": 10
+    },
+    "fleschScore": {
+      "bookScore": -22.86614699423754,
+      "referenceBenchmark": 52.48,
+      "comparison": "Below Reference"
+    },
+    "sentenceLength": {
+      "bookScore": 35.42934782608695,
+      "referenceBenchmark": 18.69,
+      "comparison": "Worse"
+    },
+    "vocabularyComplexity": {
+      "bookScore": 0.30078387458006717,
+      "referenceBenchmark": 0.12,
+      "comparison": "Worse"
+    }
+  }
+}
